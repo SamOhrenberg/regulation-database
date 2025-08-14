@@ -1,0 +1,1175 @@
+[00:00.000 --> 00:03.300]  This episode is brought to you by Mott's Applesauce.
+[00:03.520 --> 00:07.460]  So you're looking for a snack your kid will love and you can feel great about?
+[00:07.900 --> 00:10.520]  Give them a Mott's No Sugar Added Applesauce Pouch.
+[00:10.940 --> 00:12.740]  Made from real, delicious apples.
+[00:13.060 --> 00:14.920]  And a good source of vitamin C, too.
+[00:15.260 --> 00:18.100]  Perfect for tossing in a lunchbox or grabbing for on the go.
+[00:18.660 --> 00:21.660]  Mott's. Real apples make real good applesauce.
+[00:22.100 --> 00:25.360]  Learn more about Mott's No Sugar Added Applesauce at motts.com.
+[00:31.520 --> 00:33.800]  Nick! Nick, is it Nick? We're here!
+[00:35.870 --> 00:37.670]  Nick, hold it steady!
+[00:38.030 --> 00:40.670]  We have to let everyone know about Sloppy Joe's Bingo!
+[00:41.070 --> 00:43.950]  The summer slop begins this Friday!
+[00:44.170 --> 00:45.790]  Nick! Nick, hold on!
+[00:46.230 --> 00:48.150]  Nick, we're losing it!
+[00:48.370 --> 00:49.970]  Nick, I'm losing it!
+[00:50.430 --> 00:55.110]  This Friday at 9.30pm!
+[00:55.710 --> 00:57.650]  9.30pm!
+[00:57.810 --> 00:59.250]  Nick, hold it steady!
+[00:59.250 --> 01:01.610]  9.30pm! Twitch.tv!
+[01:01.970 --> 01:04.010]  The Regulation Pod!
+[01:04.290 --> 01:07.170]  There's only one place to watch it, Nick!
+[01:07.410 --> 01:08.010]  Hold it steady!
+[01:08.270 --> 01:09.490]  We're losing it, Nick!
+[01:09.650 --> 01:11.510]  This Friday, 9.30pm!
+[01:11.510 --> 01:12.270]  We'll see you there!
+[01:14.270 --> 01:19.030]  Hello, and welcome to another episode of the Regulation Podcast.
+[01:19.250 --> 01:20.890]  This is episode 59.
+[01:21.130 --> 01:22.050]  My name is Jeff Ramsey.
+[01:22.390 --> 01:26.570]  With me, as always, Andrew Panton, Nick Schwartz, Gavin Free, Eric Baddour.
+[01:26.570 --> 01:30.450]  It's been a minute since the five of us have been on...
+[01:30.450 --> 01:34.010]  I was going to say in the same room together, but it's been more than a minute for that, if it's ever happened.
+[01:34.630 --> 01:37.810]  But it's definitely been a minute since we've been in a Discord room together.
+[01:38.610 --> 01:42.030]  This group has never been in the same room a single time.
+[01:42.230 --> 01:43.670]  I don't think Nick's ever met Andrew.
+[01:44.290 --> 01:45.290]  No, I don't think so either.
+[01:45.930 --> 01:46.710]  That's a good point.
+[01:47.330 --> 01:50.630]  But, listen, Gavin's been gone for like three weeks.
+[01:50.730 --> 01:52.570]  I got beef with Gavin.
+[01:53.050 --> 01:54.810]  I got distance beef with Gavin.
+[01:55.390 --> 01:56.050]  What do you mean?
+[01:57.290 --> 01:59.510]  We were all gone, except for you.
+[01:59.590 --> 02:00.030]  No.
+[02:01.090 --> 02:03.670]  I was here. I was here recording videos with Andrew.
+[02:03.870 --> 02:05.730]  We've been making videos for three weeks.
+[02:05.830 --> 02:07.910]  You've been in a different country for three weeks.
+[02:08.030 --> 02:09.250]  I don't understand what you mean by that.
+[02:09.250 --> 02:12.810]  If I was in a different place for two weeks, and then everyone was gone for one week...
+[02:12.810 --> 02:14.650]  What do you mean everyone was gone for one week?
+[02:15.050 --> 02:16.770]  Nobody else was gone for...
+[02:16.770 --> 02:19.810]  Your absence extended through three weeks, essentially.
+[02:20.850 --> 02:22.990]  You extended how long you were away.
+[02:23.350 --> 02:25.330]  It has been essentially three weeks.
+[02:25.330 --> 02:26.710]  Doesn't matter.
+[02:27.090 --> 02:28.590]  But then everyone went to Vegas.
+[02:30.270 --> 02:33.470]  For a weekend. For one day.
+[02:33.670 --> 02:35.430]  They missed one day.
+[02:35.730 --> 02:37.990]  Compared to the three weeks.
+[02:38.270 --> 02:40.210]  My issue is not that you took three weeks.
+[02:40.510 --> 02:42.330]  This is a total sidetrack.
+[02:42.930 --> 02:45.550]  Sorry, I've defended myself against the wrong bit.
+[02:45.770 --> 02:46.290]  Yes.
+[02:46.990 --> 02:50.230]  You had stuff to do. You were gone. That's fine.
+[02:50.590 --> 02:54.070]  My beef with you, and it's not even like really I'm mad at you.
+[02:54.070 --> 02:57.570]  I just I had the realization halfway through week two.
+[02:57.870 --> 03:00.690]  I'm in a strikes bet with this son of a bitch.
+[03:00.690 --> 03:02.490]  And he's not around for any recordings.
+[03:02.710 --> 03:06.570]  I can't strike him if he's not gone.
+[03:07.010 --> 03:08.470]  Like if he's not here.
+[03:08.590 --> 03:09.670]  Because he is gone.
+[03:09.990 --> 03:11.190]  That's a great point.
+[03:11.290 --> 03:15.450]  I'm in total control of my requirement to upload.
+[03:15.790 --> 03:19.890]  You've never not been in total control of your requirement to upload.
+[03:20.030 --> 03:21.910]  That's also a great point, Eric.
+[03:21.910 --> 03:25.050]  Yeah, but I'm in control of my opportunities to fail.
+[03:25.110 --> 03:28.050]  You just have always been. What are you talking about?
+[03:28.190 --> 03:30.250]  Nothing. You always have this.
+[03:30.450 --> 03:31.490]  I know what he's saying.
+[03:31.790 --> 03:32.690]  This control is always in your hands.
+[03:32.830 --> 03:34.950]  He's got another level of control now.
+[03:35.070 --> 03:38.010]  If he's not in content, he can't forget to upload it.
+[03:38.310 --> 03:40.750]  Yeah, I can remember or forget. That's level one.
+[03:40.870 --> 03:43.750]  But the second level to this is I just don't be at anything for a bit.
+[03:45.990 --> 03:50.370]  You successfully achieved that because this ends, I think, at the end of August.
+[03:50.750 --> 03:54.730]  And June essentially was no at bats.
+[03:58.130 --> 03:59.970]  So congratulations to you.
+[04:00.130 --> 04:02.290]  It was clearly not a thing that you considered.
+[04:02.590 --> 04:07.390]  But I had that thought about halfway through week two of I just I can't.
+[04:07.830 --> 04:10.270]  I can't strike this guy out if he's never at the plate.
+[04:10.750 --> 04:11.510]  This is terrible.
+[04:11.510 --> 04:15.170]  Can we get a mid June at the time of this recording?
+[04:15.390 --> 04:17.950]  Mid June counter for how many strikes I have.
+[04:18.290 --> 04:19.430]  Yeah, of course we can.
+[04:20.310 --> 04:22.330]  You want me to just tell you how many strikes you have right now?
+[04:22.410 --> 04:23.130]  Is that what you're asking for?
+[04:23.590 --> 04:25.110]  I like six or seven.
+[04:29.150 --> 04:32.830]  You went on a little run and then you left the country.
+[04:33.050 --> 04:33.670]  And then you ran.
+[04:37.250 --> 04:39.110]  According to our strike counter.
+[04:39.410 --> 04:41.390]  I assume official strike counter.
+[04:41.550 --> 04:43.490]  But this is from May 23rd.
+[04:43.490 --> 04:45.310]  Is that Gavin has six strikes.
+[04:46.750 --> 04:47.690]  Six strikes.
+[04:48.150 --> 04:48.650]  Of 20?
+[04:49.050 --> 04:50.230]  Of 20, yeah.
+[04:50.490 --> 04:52.030]  And it ends in late August.
+[04:52.390 --> 04:54.290]  I've got this.
+[04:54.410 --> 04:55.970]  I've got this in the bag, son.
+[04:56.310 --> 04:58.050]  Yeah, just go away for another month and a half.
+[04:58.130 --> 04:58.710]  And you got it, man.
+[05:01.210 --> 05:03.650]  How was your three week absence going?
+[05:04.450 --> 05:06.550]  It didn't start great.
+[05:08.430 --> 05:11.290]  I went to the airport to leave.
+[05:12.070 --> 05:14.070]  And it looked like the world was ending.
+[05:14.630 --> 05:16.930]  There was an incredible storm.
+[05:17.550 --> 05:19.130]  That just blew over all our heads.
+[05:19.550 --> 05:22.530]  And it was blowing so hard.
+[05:22.770 --> 05:24.770]  One of the doors at the airport exploded.
+[05:25.590 --> 05:26.410]  Oh my God.
+[05:26.770 --> 05:28.270]  And then I got on a plane.
+[05:28.530 --> 05:31.390]  All I had to do was go from Austin to Dallas.
+[05:31.390 --> 05:34.830]  And it was maybe the worst flight of my life.
+[05:35.490 --> 05:36.010]  Really?
+[05:36.010 --> 05:37.190]  Just because of the wind?
+[05:37.930 --> 05:38.230]  Yep.
+[05:38.910 --> 05:41.670]  I don't know why the plane took off on time.
+[05:42.390 --> 05:47.510]  I was worried that it was so windy at the airport that some of the planes would take off while parked.
+[05:47.910 --> 05:49.110]  It was so violent.
+[05:51.110 --> 05:55.410]  And then we just went up in it and shook the living piss out of me.
+[05:55.750 --> 05:59.190]  Did you feel like you were in an environmental disaster movie?
+[05:59.190 --> 06:02.170]  Yeah, because I was looking at the flight attendant.
+[06:02.770 --> 06:07.450]  And flight attendants through turbulence are usually just on their phone or just chilling.
+[06:08.230 --> 06:13.950]  The flight attendants were arms out to the side, T-pose, pressing themselves against the wall.
+[06:14.450 --> 06:16.330]  Oh my God.
+[06:16.930 --> 06:18.350]  And I was just like, this thing is going to go down.
+[06:18.810 --> 06:23.570]  I feel like I hear that most accidents occur during takeoff and landing.
+[06:23.910 --> 06:27.050]  And a flight from Austin to Dallas is all takeoff and landing.
+[06:27.050 --> 06:28.970]  There's like no in between.
+[06:29.290 --> 06:31.370]  So that's the danger zone for...
+[06:31.370 --> 06:39.630]  Do you remember that scene from Matrix 3 where the ship goes through all the clouds and stuff and then briefly comes out the top and sees the sun?
+[06:39.830 --> 06:40.730]  It's beautiful.
+[06:41.630 --> 06:42.490]  That's what they said.
+[06:42.750 --> 06:43.710]  Sounds familiar.
+[06:43.970 --> 06:44.590]  It felt like that.
+[06:45.570 --> 06:52.030]  I think I can picture it in my head, but I also feel like multiple movies have done the through the cloud reveal.
+[06:52.690 --> 06:54.610]  Oh, I don't remember that at all. Never mind.
+[06:55.190 --> 06:56.010]  It's beautiful.
+[06:56.010 --> 06:57.550]  Yeah, that's the ship kind of on the left.
+[06:57.650 --> 07:00.110]  But I guess the ship can't fly up there.
+[07:00.810 --> 07:02.290]  So it just falls back down.
+[07:03.530 --> 07:04.830]  Seems like a bad ship.
+[07:05.450 --> 07:06.350]  Yeah, it was a...
+[07:06.870 --> 07:07.910]  What a terrible start.
+[07:08.270 --> 07:08.490]  Yeah.
+[07:09.450 --> 07:10.990]  But I'm glad that everything was fine.
+[07:11.290 --> 07:13.590]  Was there more to the trip or was it just the start?
+[07:14.070 --> 07:15.650]  I mean, the start was very memorable.
+[07:16.410 --> 07:17.850]  It was much smoother after that.
+[07:18.090 --> 07:19.910]  Oh, good. Did you enjoy your time off?
+[07:20.250 --> 07:20.490]  Yeah.
+[07:21.030 --> 07:23.270]  Saw some family, went to a wedding.
+[07:23.970 --> 07:24.350]  Wow.
+[07:25.250 --> 07:25.850]  A paella?
+[07:26.310 --> 07:28.450]  Yeah, paella count went up.
+[07:28.810 --> 07:29.650]  It went up to four.
+[07:30.010 --> 07:34.010]  Got to enjoy the freedom of not having to upload files and stress about that.
+[07:34.110 --> 07:34.890]  It must have been good for you.
+[07:35.170 --> 07:36.330]  Yeah, it's nice.
+[07:37.490 --> 07:38.790]  Nice is a word for it.
+[07:39.190 --> 07:40.310]  I'm glad you had a good time.
+[07:41.270 --> 07:43.610]  I think strikes are going to be difficult.
+[07:44.230 --> 07:48.270]  I'm going to have to come up with some surprise recordings for you, I think, to try to psych you out.
+[07:48.410 --> 07:51.950]  You're going to come up with another let's record a video every morning sort of thing?
+[07:51.950 --> 07:52.570]  Maybe.
+[07:52.870 --> 07:54.150]  Yeah, we can figure that out.
+[07:54.430 --> 07:56.530]  You had Jim Carrey homework? Did you do your Jim Carrey homework?
+[07:58.190 --> 07:58.590]  No.
+[07:59.770 --> 08:00.170]  Okay.
+[08:00.570 --> 08:02.630]  You didn't even know what you were talking about.
+[08:05.550 --> 08:06.330]  Good to know.
+[08:06.910 --> 08:09.870]  Put that recording on the back burner as well.
+[08:10.730 --> 08:12.090]  When did you want to record that?
+[08:12.570 --> 08:13.450]  When you came back.
+[08:13.910 --> 08:15.010]  Yeah, we were going to do it today.
+[08:15.110 --> 08:16.710]  I can do my homework tonight, can't I?
+[08:16.870 --> 08:17.690]  You sure can.
+[08:19.550 --> 08:21.830]  I mean, you can do your homework whenever, technically.
+[08:22.750 --> 08:25.290]  You must have done really well in school, Gav.
+[08:25.650 --> 08:26.150]  Yeah, dude.
+[08:27.110 --> 08:28.890]  Uh, I did not.
+[08:32.350 --> 08:34.850]  Who among us did, though? I certainly didn't.
+[08:35.010 --> 08:35.970]  Did not. No, terrible.
+[08:36.510 --> 08:38.390]  Awful. Progressively terrible.
+[08:38.930 --> 08:39.850]  Nick, what kind of student were you?
+[08:40.450 --> 08:40.770]  Three!
+[08:41.570 --> 08:44.250]  I was the 17th person in my class.
+[08:44.510 --> 08:45.090]  Of how many?
+[08:45.490 --> 08:45.870]  650.
+[08:46.430 --> 08:47.690]  Jesus Christ, Nick!
+[08:47.690 --> 08:50.350]  Is Nick the smartest of us?
+[08:50.430 --> 08:50.990]  That sucks.
+[08:51.430 --> 08:52.310]  Are you really?
+[08:52.630 --> 08:54.050]  What happened to that?
+[08:54.390 --> 08:56.310]  Well, I was. I don't know what happened.
+[08:58.970 --> 09:02.490]  I feel like if I was ranking this group, I mean, I'd be somewhere at the bottom.
+[09:02.570 --> 09:03.790]  But I would have put Nick somewhere in the middle.
+[09:04.470 --> 09:04.670]  Yeah.
+[09:05.050 --> 09:07.990]  But I think that's a deliberate choice from Nick.
+[09:08.310 --> 09:10.510]  He's a flying under the radar guy.
+[09:10.590 --> 09:10.990]  He's smart.
+[09:11.110 --> 09:12.950]  Yeah, understated intelligence.
+[09:13.530 --> 09:14.750]  So IQ is a choice?
+[09:14.750 --> 09:18.350]  I think what he presents is a choice.
+[09:18.670 --> 09:19.830]  IQ is a choice.
+[09:20.110 --> 09:21.870]  Yeah, you are at the fucking bottom, dude.
+[09:22.390 --> 09:24.550]  I like the idea of knowing your IQ,
+[09:24.750 --> 09:26.130]  but you can choose
+[09:26.130 --> 09:27.950]  where to sit.
+[09:29.430 --> 09:31.390]  All the way from your IQ and down.
+[09:32.930 --> 09:33.410]  What?
+[09:36.110 --> 09:37.610]  I'm so glad we're back.
+[09:40.010 --> 09:42.350]  I'm still trying to process it.
+[09:42.610 --> 09:44.590]  Anyway, here's a picture of the airport door that exploded.
+[09:44.590 --> 09:46.450]  Oh, let me see the door.
+[09:48.030 --> 09:49.670]  Oh yeah, that's the exploded door.
+[09:50.270 --> 09:53.170]  What if your IQ was like a credit score app
+[09:53.170 --> 09:54.450]  you could check on your phone
+[09:54.450 --> 09:56.330]  and it just told you your current IQ?
+[09:56.910 --> 09:58.910]  Oh, that would be a bummer.
+[09:58.990 --> 10:00.450]  That would be a bummer every day.
+[10:00.550 --> 10:02.450]  Just watch it slowly go down.
+[10:02.490 --> 10:04.050]  Yeah, the gruffing over time.
+[10:04.370 --> 10:06.090]  Like 2018, I was fucking killing it.
+[10:06.150 --> 10:08.090]  And then I'm looking at it now and I'm like, ooh, oh no.
+[10:11.210 --> 10:13.610]  That's a number that never goes back up.
+[10:13.610 --> 10:15.530]  It only goes down, unfortunately.
+[10:16.070 --> 10:19.570]  It might go up if you did some reading for a week or something.
+[10:19.710 --> 10:20.670]  No deal.
+[10:25.210 --> 10:27.170]  You think that applies to all reading, Gavin?
+[10:27.550 --> 10:28.230]  Depends what you're reading.
+[10:28.710 --> 10:29.390]  That's what I'm asking.
+[10:29.790 --> 10:32.870]  What range is reading intelligence improving?
+[10:33.410 --> 10:36.010]  Well, if you're reading non-fiction, I assume you can learn.
+[10:36.450 --> 10:37.930]  You don't think you can learn from fiction?
+[10:39.010 --> 10:39.890]  Not as much.
+[10:40.250 --> 10:40.850]  Fiction is art.
+[10:40.850 --> 10:43.270]  Oh, I think you can learn a lot from fiction.
+[10:43.490 --> 10:44.030]  I'm ready too.
+[10:44.650 --> 10:45.690]  What can you learn?
+[10:46.290 --> 10:47.650]  About the human condition.
+[10:48.230 --> 10:48.750]  Empathy.
+[10:50.230 --> 10:50.750]  Understanding.
+[10:52.310 --> 10:58.030]  You can also learn actual information from stories that are fictitious.
+[10:59.290 --> 11:01.190]  Well, it's not fictitious if it's real.
+[11:01.510 --> 11:02.530]  Yes, it is!
+[11:05.810 --> 11:11.430]  A fictional event can depict factual information.
+[11:12.230 --> 11:14.390]  Well, that's not the fiction, then, is it?
+[11:15.010 --> 11:17.830]  The fiction is the story that occurs.
+[11:18.350 --> 11:22.210]  There's a guy named Eric Larson right now whose brain is failing and he's not sure why.
+[11:23.050 --> 11:23.630]  Goddamn.
+[11:24.110 --> 11:27.630]  It's like all fiction has non-fiction elements.
+[11:28.090 --> 11:30.410]  There's no story that's entirely fiction.
+[11:33.230 --> 11:34.990]  What about space stories?
+[11:35.190 --> 11:36.760]  Except maybe celestial globosis.
+[11:38.510 --> 11:39.810]  No, no, no, no.
+[11:40.210 --> 11:42.250]  No, that's part real. You just told us.
+[11:44.390 --> 11:46.330]  Oh, man. Oh, behave.
+[11:49.990 --> 11:52.530]  I feel like that's a reference to...
+[11:53.690 --> 11:56.210]  It's a reference to Austin Powers, I think.
+[11:56.670 --> 11:56.790]  Yeah.
+[11:58.410 --> 12:04.750]  I can see, because you guys, as Gavin mentioned, just spent some time in Vegas, I can see Gavin doing like an oh, behave thing.
+[12:05.110 --> 12:06.030]  I think he's a smooth guy.
+[12:06.550 --> 12:08.370]  Smooth guy 2.0, Gavin, in Vegas.
+[12:08.570 --> 12:09.930]  Yeah, I can totally see it.
+[12:09.990 --> 12:13.250]  They're referencing a time I used that phrase to let someone know I wasn't interested.
+[12:15.330 --> 12:20.170]  But, looking back on it, it does look like I was just doing an Austin Powers impression.
+[12:20.830 --> 12:23.210]  When I meant it totally...
+[12:23.210 --> 12:24.570]  I meant it as the words were written.
+[12:24.570 --> 12:26.170]  You meant it factually?
+[12:26.670 --> 12:27.850]  I meant it like, oh, behave.
+[12:28.150 --> 12:30.470]  He meant it in a non-fiction kind of way.
+[12:30.850 --> 12:31.110]  Yeah.
+[12:34.030 --> 12:35.850]  Definitely raised his IQ by writing it.
+[12:35.950 --> 12:38.050]  That's the craziest thing I've ever heard.
+[12:39.870 --> 12:42.330]  Oh, behave. We must have been...
+[12:42.330 --> 12:44.630]  We had a dinner, I guess that was Sunday night?
+[12:44.970 --> 12:45.150]  Yeah.
+[12:45.490 --> 12:47.810]  Was that where we did that? Was that where we found out about the oh, behave?
+[12:48.170 --> 12:48.390]  Yeah.
+[12:48.670 --> 12:52.130]  That was probably 40% of the dinner was laughing at that, I think.
+[12:52.710 --> 13:00.410]  It was laughing at that, and then Nick's wife using a trident as a fork and not realizing what she was doing.
+[13:01.030 --> 13:05.570]  Why was there a trident at the table, or was it just a giant fork?
+[13:05.630 --> 13:09.590]  It was like a serving fork that comes out with a serving spoon.
+[13:09.790 --> 13:12.830]  It's four times the size of your fork.
+[13:13.190 --> 13:18.070]  She started using it, and then just went, this isn't my fork, and put it down.
+[13:18.190 --> 13:20.590]  It's like, wait, you thought that was your fork?
+[13:20.590 --> 13:25.750]  She looked like she was holding the pitchfork in the American Gothic painting.
+[13:26.130 --> 13:27.630]  It was crazy.
+[13:27.810 --> 13:28.830]  It was so funny.
+[13:28.950 --> 13:33.690]  It was funny, too. We went to a spaghetti restaurant and had group spaghetti because Eric insisted on spaghetti.
+[13:34.030 --> 13:36.710]  I have such an issue with Eric's bullshit.
+[13:42.070 --> 13:44.930]  Boy, that just, in a general sense?
+[13:45.170 --> 13:49.130]  Yeah, that sums up most relationships with me, so I mean, I get it.
+[13:50.590 --> 13:57.170]  So we end up to this Italian meal we had, Eric's just going on and on about how he hates spaghetti, and spaghetti sucks, blah blah blah.
+[13:57.370 --> 14:00.630]  I'm not going on and on, you keep provoking me into talking about the spaghetti.
+[14:00.750 --> 14:02.870]  You keep asking me fucking questions about the spaghetti.
+[14:02.990 --> 14:05.190]  Well, it's fascinating, because spaghetti is so inoffensive.
+[14:05.670 --> 14:10.330]  Well, then don't say I keep going on and on, you keep asking me questions about the stupid thing!
+[14:10.670 --> 14:13.650]  Well, the theme was that you freaking hate spaghetti, right?
+[14:14.110 --> 14:14.470]  Yes!
+[14:14.990 --> 14:19.690]  And then the guy was like, oh, you should order a couple of pastas, it's family style.
+[14:19.690 --> 14:20.410]  Yeah!
+[14:20.870 --> 14:22.510]  And then it goes over to Eric to pick the spaghetti.
+[14:22.750 --> 14:24.910]  There's every other type of pasta available.
+[14:25.150 --> 14:27.450]  You know, you've got like penne, linguine, all the other shit.
+[14:27.650 --> 14:30.750]  All the stuff that, in Eric's opinion, is better than spaghetti.
+[14:31.330 --> 14:32.830]  He orders angel hair pasta.
+[14:33.290 --> 14:34.370]  I think it's better than spaghetti.
+[14:34.670 --> 14:37.050]  Which is just spaghetti, but smaller!
+[14:37.430 --> 14:38.810]  It's even more annoying than spaghetti!
+[14:39.210 --> 14:40.410]  It holds differently.
+[14:40.670 --> 14:42.170]  I appreciate it more than spaghetti.
+[14:42.290 --> 14:42.950]  I think spaghetti sucks.
+[14:43.150 --> 14:46.390]  It totally ruins the ratio of sauce to spaghetti.
+[14:46.670 --> 14:48.470]  I just asked Nick's wife, she agreed with me.
+[14:48.470 --> 14:50.890]  She came around, she's like, you know what?
+[14:50.910 --> 14:51.890]  I don't think I like spaghetti also.
+[14:52.130 --> 14:52.850]  She really did.
+[14:53.030 --> 14:54.670]  Yeah, and then it sloughed off her trident.
+[14:55.090 --> 14:56.550]  She had like a light bulb moment.
+[14:56.930 --> 14:59.350]  Yeah, I wasn't even trying to convince the world.
+[14:59.490 --> 15:02.210]  It's just hearts and minds seeing it my way.
+[15:02.350 --> 15:03.850]  It just happens to happen that way.
+[15:03.930 --> 15:04.290]  You know what I mean?
+[15:04.470 --> 15:08.010]  Now, Gavin, when Jack brought up angel hair pasta and lost,
+[15:08.070 --> 15:08.730]  were you confused?
+[15:08.790 --> 15:11.790]  Because that's a real thing, that's not a fictitious food item?
+[15:16.730 --> 15:18.770]  You're like, this certainly can't be the thing I know.
+[15:22.550 --> 15:27.950]  I just think it's wild to have such strong opinions about spaghetti and then basically order spaghetti for everyone.
+[15:28.230 --> 15:30.790]  It wasn't spaghetti, it was something else. It was angel hair. It was different.
+[15:31.150 --> 15:33.510]  It actually wasn't as good as the spaghetti, unfortunately.
+[15:33.930 --> 15:34.570]  It was bad.
+[15:34.750 --> 15:36.190]  Yeah, nobody had the spaghetti, so you wouldn't know.
+[15:36.270 --> 15:38.350]  Maybe it was worse, because it definitely was, because it was spaghetti.
+[15:38.590 --> 15:40.570]  I had spaghetti! I love spaghetti.
+[15:41.090 --> 15:43.830]  Yeah, I was about to say who doesn't, but we all know.
+[15:44.310 --> 15:44.690]  Yeah, me.
+[15:45.690 --> 15:47.570]  It's probably my wife's favorite food.
+[15:47.570 --> 15:49.570]  She makes it all the time, she loves spaghetti.
+[15:49.910 --> 15:53.890]  And then when Jeff one time said, what if you could spaghetti all your food?
+[15:54.310 --> 15:59.310]  I said that to her, and she got so excited thinking that all food could be spaghetti.
+[15:59.530 --> 16:04.670]  And then it just turned out, what if we just cut a bunch of stuff so it was spaghetti-sized?
+[16:04.850 --> 16:05.550]  She was mad.
+[16:05.990 --> 16:07.090]  She was really mad at me.
+[16:07.790 --> 16:12.390]  How did she feel about the lack of spaghetti and the inclusion of angel hair at that meal?
+[16:12.690 --> 16:14.010]  I don't think she particularly cared.
+[16:14.110 --> 16:15.510]  She was very about the ravioli.
+[16:15.510 --> 16:17.270]  She was locked in ravioli style.
+[16:17.770 --> 16:24.110]  There was a ravioli crew that sat down and the first thing they said was the three of us have decided it's ravioli.
+[16:24.770 --> 16:26.670]  It was me, my wife, and Nick's wife.
+[16:27.030 --> 16:27.850]  Yeah, immediately.
+[16:28.590 --> 16:29.270]  Ravioli crew.
+[16:29.630 --> 16:31.930]  You presented like a militant ravioli front.
+[16:33.310 --> 16:38.250]  It's an easy sell. Everyone liked it. Everyone enjoyed it. Great ravioli.
+[16:38.330 --> 16:38.810]  It was good!
+[16:39.110 --> 16:42.370]  The ravioli. I love that we're jumping into our weekend trip to Vegas on day four.
+[16:43.970 --> 16:46.870]  We're not going to walk anyone through it. We're just going to talk about the last dinner.
+[16:47.370 --> 16:52.150]  I will say the ravioli was pretty fucking good. It was definitely the best thing on the menu.
+[16:53.390 --> 16:53.750]  Interesting.
+[16:54.350 --> 16:55.270]  Yeah, by far.
+[16:55.370 --> 16:58.850]  That wasn't even the best meal we had all weekend. It was just the last meal we had all weekend.
+[16:59.430 --> 17:00.490]  Ravioli, the squares.
+[17:01.090 --> 17:01.430]  Cool.
+[17:02.210 --> 17:07.110]  What other pastas can you think of that you sort of know about, Andrew?
+[17:08.270 --> 17:09.490]  When you had angel hair.
+[17:09.790 --> 17:10.130]  Got it.
+[17:10.130 --> 17:11.030]  Good work.
+[17:12.290 --> 17:13.390]  You know about that one?
+[17:14.410 --> 17:15.910]  There's the twisty kind.
+[17:16.370 --> 17:18.010]  And there's the non-twisty kind.
+[17:18.110 --> 17:18.810]  Great, great.
+[17:18.990 --> 17:22.170]  And those are called... I'm sorry, just before you move on.
+[17:22.230 --> 17:22.850]  What are those called?
+[17:23.630 --> 17:27.390]  I can't recall in this moment, but if I heard it, I'd go, yeah, it's that.
+[17:27.790 --> 17:28.790]  You got shelled.
+[17:29.410 --> 17:30.270]  You got the shell.
+[17:31.690 --> 17:32.090]  Pasta?
+[17:33.970 --> 17:34.770]  Yeah, shelled.
+[17:34.970 --> 17:36.390]  I'll take my pasta shelled, please.
+[17:38.010 --> 17:41.450]  Can I get my pasta deshelled before you bring it out? Thank you.
+[17:41.930 --> 17:44.790]  Rigatoni, is that a style or is that a dish?
+[17:45.210 --> 17:46.050]  It's a style.
+[17:47.070 --> 17:47.550]  Rigatoni.
+[17:48.870 --> 17:51.130]  I don't... shelled is a style, is it not?
+[17:51.930 --> 17:52.410]  Yeah.
+[17:52.870 --> 17:53.350]  Okay.
+[17:54.250 --> 17:58.930]  Yeah, shelled pasta. You keep saying shelled like it's a crab or something.
+[17:59.490 --> 18:01.050]  No, it's not a crab, it's a pasta.
+[18:01.670 --> 18:02.150]  Crazy.
+[18:03.390 --> 18:05.490]  I think that's it. I think that's all I got.
+[18:05.490 --> 18:06.530]  I think that's all of them.
+[18:06.790 --> 18:09.950]  I mean, there's SpaghettiOs, but that's not like...
+[18:09.950 --> 18:13.450]  It's more like a dish than a side.
+[18:14.390 --> 18:14.770]  That's good.
+[18:14.870 --> 18:16.550]  Yeah, I would not be able to name a lot of pasta.
+[18:16.830 --> 18:17.370]  Yeah, you did great.
+[18:18.710 --> 18:20.270]  I didn't know Angel here wasn't spaghetti.
+[18:20.690 --> 18:23.370]  What is spaghetti? What is the spaghetti noodle called?
+[18:23.950 --> 18:24.350]  Spaghetti.
+[18:25.130 --> 18:25.930]  Just spaghetti?
+[18:26.350 --> 18:27.330]  Yeah, that's what it's called.
+[18:27.730 --> 18:29.050]  So the noodle is spaghetti?
+[18:29.650 --> 18:30.050]  Yeah.
+[18:30.830 --> 18:34.610]  So you could have spaghetti with no sauce or anything and it's still spaghetti.
+[18:34.810 --> 18:35.790]  That's crazy.
+[18:36.210 --> 18:40.310]  You might be on Emily's side because Emily was saying it's not spaghetti unless it's red sauce.
+[18:40.710 --> 18:42.530]  No, that's true. She did say that.
+[18:42.650 --> 18:44.710]  I think, yeah, I think you need red sauce.
+[18:44.810 --> 18:49.310]  I think you need some meat substance in it. It doesn't necessarily need to be a ball.
+[18:49.590 --> 18:52.290]  I think that's bollocks though because carbonara, you can have spaghetti.
+[18:52.670 --> 18:54.150]  Yeah, what's Spaghetti Alfredo?
+[18:54.350 --> 18:55.650]  She called it pasta.
+[18:56.090 --> 18:57.410]  That's the white sauce version.
+[18:58.090 --> 18:59.490]  Right, but we just...
+[18:59.910 --> 19:00.570]  Doesn't matter.
+[19:03.290 --> 19:06.010]  See, because the baseline is the red sauce version, Eric.
+[19:06.110 --> 19:08.950]  So if you're going to do a white sauce, you need a different name for it.
+[19:09.050 --> 19:12.750]  Yeah, she would just call anything red sauce spaghetti and anything else pasta.
+[19:13.030 --> 19:19.670]  I don't know if I could cosign that, but I'm with her on the spaghetti as red sauce.
+[19:20.630 --> 19:21.510]  As the dish.
+[19:22.350 --> 19:25.710]  I mean, I will say when I think of spaghetti, I think of spaghetti with red sauce.
+[19:25.710 --> 19:27.310]  And possibly a meatball.
+[19:27.690 --> 19:28.670]  Yeah, you're just thinking of bolognese.
+[19:28.870 --> 19:30.630]  Yeah, but that's what you think of.
+[19:31.070 --> 19:33.690]  If you order spaghetti in America, that's what you're getting.
+[19:34.150 --> 19:36.330]  I wonder if spaghetti is the best spaghetti.
+[19:38.530 --> 19:39.030]  What?
+[19:40.070 --> 19:43.230]  Like, if we did shell spaghetti.
+[19:44.050 --> 19:46.970]  Or as you did angel hair spaghetti, it sounds like.
+[19:47.250 --> 19:47.990]  I do it all the time.
+[19:48.330 --> 19:49.170]  What's shell spaghetti?
+[19:49.170 --> 19:49.350]  Okay.
+[19:50.750 --> 19:56.970]  Well, I've never had it. I'm just pointing out the very few versions of pasta.
+[19:57.510 --> 20:10.410]  I'm wondering if the shell, or not the shell, but the, I don't know, the egg based flour combination shape is the best with spaghetti style.
+[20:10.490 --> 20:13.130]  Which is just, it feels ridiculous to call the noodle spaghetti.
+[20:14.150 --> 20:15.630]  I don't know what you just said.
+[20:15.630 --> 20:20.250]  I have no, I was just gonna wait and see what Gavin said, and I agree with Gavin.
+[20:20.650 --> 20:28.550]  The dish is called spaghetti, and the noodle's called spaghetti, but there are other types of pasta with other dishes.
+[20:29.510 --> 20:36.810]  So I'm wondering if the spaghetti noodle in the spaghetti dish isn't the optimal spaghetti.
+[20:37.930 --> 20:41.610]  I didn't get any new information from that. I still don't know what you're talking about.
+[20:42.010 --> 20:44.150]  Well, cause the dish is called spaghetti.
+[20:44.150 --> 20:53.590]  If you make spaghetti with like, if you put red sauce on cannelloni, or macaroni, or fusilli, or penne, is it a better version of spaghetti?
+[20:53.770 --> 20:57.090]  Wait a second. The noodle is called macaroni?
+[21:01.620 --> 21:08.640]  When it's macaroni and cheese, what do you think the macaroni is, and what do you think the cheese is?
+[21:08.920 --> 21:09.700]  That's a good point.
+[21:11.360 --> 21:23.000]  I guess I just sort of viewed the dish as like the name of the dish and not necessarily the parts, but it is ingredient and ingredient is the name.
+[21:23.400 --> 21:25.820]  That makes sense. I just never really thought about it.
+[21:27.200 --> 21:32.780]  I like farfalle pasta a lot, Andrew, so I have that with red sauce, so I have farfalle spaghetti a lot.
+[21:34.000 --> 21:34.960]  Fallaway spaghetti?
+[21:36.020 --> 21:38.120]  It's the bowtie. It's what looks like a bowtie.
+[21:38.120 --> 21:41.620]  I don't even know what you're talking about. A bowtie spaghetti?
+[21:42.200 --> 21:43.380]  It's not spaghetti, though.
+[21:44.640 --> 21:50.880]  What is... I'm still hung up on the bowtie. I need to see some... I don't think I know what noodles look like.
+[21:51.240 --> 21:56.120]  What are you talking about? These? Farfalle, it's just, it's the bowtie pasta.
+[21:56.540 --> 21:58.480]  Oh. Okay, yeah, I've seen those.
+[22:00.360 --> 22:02.160]  What was the confusion?
+[22:02.160 --> 22:08.580]  I just have never... I feel like I've seen those on someone else's plate, but I've never, like, looked at one.
+[22:09.740 --> 22:13.740]  I feel like I've been in restaurants and I've seen those, but I've never ordered it.
+[22:17.520 --> 22:21.020]  You've surely seen them on the shelf in the supermarket, though.
+[22:21.020 --> 22:27.400]  Thank you to Shady Rays for supporting the Regulation Podcast.
+[22:27.700 --> 22:32.220]  Get ready for your next adventure with shades that are built to last and look cool.
+[22:32.680 --> 22:37.800]  Our friends at Shady Rays have you covered with premium polarized shades that will not break the bank.
+[22:37.860 --> 22:41.040]  That is an easy thing to say. It is not hard to say at all.
+[22:41.300 --> 22:47.260]  Go to shadyrays.com and use code REGULATION for 35% off polarized sunglasses.
+[22:47.260 --> 22:50.920]  That is also an easy thing to say, and I did not get tongue-tied once.
+[22:51.340 --> 22:53.440]  Why would you want to get Shady Rays, Jeff?
+[22:53.500 --> 22:55.980]  Well, I've got a couple of answers for you. How about this?
+[22:56.260 --> 23:02.060]  They have a wide selection, okay? Styles, colors, they guarantee you're going to find your perfect pair.
+[23:02.400 --> 23:10.440]  And if your shades go MIA or take a hit, do not sweat it because they've got a lost and broken protection plan so you are covered from day one.
+[23:10.780 --> 23:14.560]  Have I still not convinced you? Well, no worries then.
+[23:14.560 --> 23:19.400]  Because if you don't love them, you can exchange or return them for free within 30 days.
+[23:19.540 --> 23:25.360]  That's right, free within 30 days. That's F-R-E-E within 30-D-A-Y-S.
+[23:25.660 --> 23:28.800]  Shopping with Shady Rays is truly risk-free.
+[23:29.140 --> 23:35.540]  So upgrade your eyewear game today and see why Shady Rays is the go-to choice for every moment under the sun.
+[23:35.540 --> 23:42.880]  Whether you're riding bicycles downtown Lake like I am or being a cool fisher person or maybe you're just cutting the grass.
+[23:43.140 --> 23:46.100]  Regardless, you want to protect your eyes. It's bright out there.
+[23:46.360 --> 23:51.460]  So exclusively for our listeners, Shady Rays is giving out their best deal for the season.
+[23:51.660 --> 23:57.860]  Head to ShadyRays.com and use code REGULATION for 35% off polarized sunglasses.
+[23:58.300 --> 24:02.660]  Try for yourself the shades rated 5 stars by more than 300,000 people.
+[24:03.240 --> 24:07.760]  Building a portfolio with Fidelity Basket Portfolios is kind of like making a sandwich.
+[24:08.920 --> 24:16.760]  It's as simple as picking your stocks and ETFs, sort of like your meats and other topics, and managing it as one big juicy investment.
+[24:18.800 --> 24:21.200]  Mmm, now that's pretty good.
+[24:21.840 --> 24:24.360]  Learn more at Fidelity.com slash baskets.
+[24:25.160 --> 24:27.140]  Investing involves risk, including risk of loss.
+[24:27.300 --> 24:31.000]  Fidelity Brokerage Services, LLC. Member NYSC SIPC.
+[24:35.330 --> 24:39.130]  So what is chow mein? Is that what the noodles are called?
+[24:41.170 --> 24:44.790]  Cause spaghetti looks like a chow mein noodle.
+[24:49.770 --> 24:51.770]  Or is chow mein the dish?
+[24:55.550 --> 24:57.390]  So that looks like some chow mein.
+[24:58.590 --> 25:09.770]  But if I went to the noodle store and I said I wanted to make a chow mein, what would the noodle be called that they gave it to me?
+[25:10.010 --> 25:11.450]  I think it's just an egg noodle.
+[25:12.230 --> 25:13.270]  Egg noodle!
+[25:14.290 --> 25:21.470]  See, that's the type of thing I thought like spaghetti was. I thought it was like an egg noodle and the dish was called spaghetti.
+[25:21.470 --> 25:26.450]  Because it was something Silvio Spaghetti came up with or something.
+[25:26.670 --> 25:33.150]  I didn't think it was just the food name because that's the ingredient name.
+[25:33.370 --> 25:42.090]  Since we build our own comedic universe, can inside our comedic universe the head of the regulation mafia be Silvio Spaghetti?
+[25:42.490 --> 25:43.190]  Yeah, of course.
+[25:44.550 --> 25:45.030]  Thank you.
+[25:45.590 --> 25:48.310]  I'd just like to know that he's the Tony Soprano of our world.
+[25:48.490 --> 25:49.030]  Yeah, absolutely.
+[25:49.030 --> 25:53.350]  I bet he has high investments in uniforms somehow.
+[25:53.710 --> 25:57.550]  Yeah, yeah, yeah. Uniform, definite front for sure.
+[25:59.110 --> 26:04.750]  I feel like I've barely scratched the surface on these noodles. We got all sorts of noodles out there.
+[26:05.150 --> 26:08.870]  Noodles? We haven't even talked about our trip. We're just talking about chow mein.
+[26:09.310 --> 26:16.970]  Dude, we gotta have some sort of a noodle-off for Andrew where he tries every kind of noodle and determines what his favorite is.
+[26:16.970 --> 26:20.730]  I'd love to do that. I'd just love to learn more about him. I'd like to see more.
+[26:21.330 --> 26:22.510]  You know me, I love to learn.
+[26:22.830 --> 26:26.170]  The best way to... no noodle fiction for him.
+[26:26.630 --> 26:28.730]  Wouldn't noodle rule out all the other pasta shapes?
+[26:29.870 --> 26:31.130]  You know what I mean, dude.
+[26:31.990 --> 26:36.090]  All the pasta... I'm sorry, I don't want to further confuse this. Let him try...
+[26:36.090 --> 26:40.310]  No, no, no. I get that. I actually like that term. Pasta shape.
+[26:40.590 --> 26:42.850]  Okay, there you go. Pasta shape. Any of the pasta shapes.
+[26:42.850 --> 26:50.030]  Because I feel dumb. I feel like it's a ridiculous thing to be like, what's this noodle? I feel like they're not all noodles.
+[26:50.170 --> 26:54.530]  Are they all noodles? They don't feel like they're all called noodles. I think a noodle is a specific thing.
+[26:55.150 --> 26:57.530]  So pasta shape is the word I was looking for.
+[26:57.670 --> 27:00.730]  You know those diagrams of all the different cuts of meat on the cow?
+[27:01.090 --> 27:01.470]  Yes.
+[27:01.790 --> 27:06.250]  It would be fun to take all the different shapes of pasta and make a fictional pasta animal.
+[27:06.530 --> 27:06.990]  It would.
+[27:07.290 --> 27:09.130]  And show where all the cuts come from.
+[27:09.470 --> 27:10.270]  That would be helpful.
+[27:10.570 --> 27:11.630]  Because spaghetti would be the tail.
+[27:11.630 --> 27:14.210]  Like turn that into some sort of a cow.
+[27:14.410 --> 27:16.830]  Yeah. Yeah. Some sort of a cow.
+[27:17.010 --> 27:17.850]  A pasta cow.
+[27:20.790 --> 27:24.490]  Pipe regatta? Pipe regatta? Pipe?
+[27:25.310 --> 27:27.210]  This is fucking crazy.
+[27:28.910 --> 27:31.710]  It looks like a Tony Hawk like ramp.
+[27:32.830 --> 27:34.230]  People just eat that?
+[27:34.470 --> 27:37.490]  For the audience, it's just a visual list of pastas.
+[27:39.950 --> 27:41.990]  Penne? Or Chet?
+[27:43.550 --> 27:46.870]  Is that a condom? It looks like a condom. Or Chet?
+[27:47.950 --> 27:49.790]  Just out here eating condoms?
+[27:50.010 --> 27:54.170]  The pipe regatta in the top left looks like plankton from SpongeBob.
+[27:54.930 --> 27:57.490]  Staline is just like Mario Party stars?
+[27:58.170 --> 27:58.410]  Yeah.
+[27:59.030 --> 28:03.490]  Oh, I thought it said radiator at first and I thought that's crazy.
+[28:04.110 --> 28:07.090]  Campanelle? Yeah, I haven't heard of any of these.
+[28:07.430 --> 28:09.650]  Or a Chete looks like a diva cup in this image.
+[28:10.510 --> 28:11.950]  Lasagna looks pretty wrong.
+[28:12.730 --> 28:15.270]  That is not how I would have spelled macaroni.
+[28:16.150 --> 28:18.310]  Why does lasagna look wrong?
+[28:18.830 --> 28:23.030]  Well, is it saying that lasagna is only the sheets in the full dish?
+[28:23.550 --> 28:24.830]  All of these are just noodles.
+[28:25.350 --> 28:26.870]  Not even noodles. Pasta shapes.
+[28:27.290 --> 28:32.030]  Yeah, it's just pasta shape. It's just like the sheet that you use to make lasagna.
+[28:32.030 --> 28:38.430]  Yeah, I'm just saying, like what we were talking about earlier, I feel like lasagna is the name of the dish, not the name of the sheet of pasta.
+[28:38.870 --> 28:39.970]  It's the name of the sheet of pasta.
+[28:40.550 --> 28:40.910]  Is it really?
+[28:41.430 --> 28:41.630]  Yeah.
+[28:41.790 --> 28:43.290]  Yeah, what would you call that?
+[28:43.490 --> 28:46.810]  Why wouldn't it follow the same rule set that all the other pastas do?
+[28:47.150 --> 28:48.350]  Oh shit, he's got you there.
+[28:48.630 --> 28:50.130]  Because it's so different though, isn't it?
+[28:50.450 --> 28:53.050]  Like lasagna, you know, you're getting like a big pasta steak.
+[28:54.410 --> 28:56.130]  To me, it's the same as spaghetti.
+[28:56.750 --> 28:57.030]  Yeah.
+[28:57.630 --> 28:57.850]  What?
+[28:58.170 --> 28:59.290]  It's just presented differently.
+[29:00.750 --> 29:05.050]  It's meat, sauce, cheese, pasta.
+[29:05.570 --> 29:06.210]  Yeah, it's the same.
+[29:06.570 --> 29:11.030]  Well, I would say then lasagna has the lowest proportions of pasta in the dish.
+[29:11.430 --> 29:14.290]  You know what's interesting is I don't like lasagna, but I like spaghetti.
+[29:15.550 --> 29:17.250]  And I can't articulate why.
+[29:17.530 --> 29:18.930]  Is that interesting?
+[29:19.510 --> 29:20.490]  Yeah, because it's the same.
+[29:21.050 --> 29:23.370]  It might be a proportion thing, like Gavin said.
+[29:23.370 --> 29:25.210]  It might be a depth, yeah, I don't know.
+[29:26.090 --> 29:30.370]  Lasagna is the Chicago style deep dish pizza of pastas.
+[29:30.390 --> 29:32.170]  I've always wanted to try a deep dish.
+[29:34.350 --> 29:36.630]  But maybe I wouldn't like it because they don't like the lowest.
+[29:36.750 --> 29:39.250]  The lowest stakes bucket list of anyone I've ever met.
+[29:42.690 --> 29:45.170]  All the pastas in a deep dish pizza, please.
+[29:47.110 --> 29:51.450]  I've been on the lookout for a legitimate deep dish for quite a while and it just doesn't exist.
+[29:51.610 --> 29:52.330]  I can't find it.
+[29:52.530 --> 29:53.250]  I'll send you one.
+[29:53.730 --> 29:55.250]  It doesn't, you can't.
+[29:55.490 --> 29:57.190]  I can gold belly one to you.
+[29:57.210 --> 30:00.330]  I know, the gold, listen Jeff, I've explored these avenues.
+[30:00.570 --> 30:04.890]  Gold belly does not, that is not a mailable to Canada item, unfortunately.
+[30:05.630 --> 30:06.370]  That sucks.
+[30:06.790 --> 30:09.310]  I've done my research, I've looked, I've scavenged.
+[30:09.490 --> 30:12.010]  We're going to have to figure out a way to get you a deep dish pizza.
+[30:12.330 --> 30:14.870]  Just so that you can have it and go, oh, all right.
+[30:15.230 --> 30:15.890]  That's all right, I guess.
+[30:16.390 --> 30:17.470]  That's good twice a year.
+[30:17.850 --> 30:19.450]  Oh, I think I'd be really into it.
+[30:19.650 --> 30:20.870]  I think I'd really like it.
+[30:20.870 --> 30:24.990]  Jeff, have you talked, you haven't talked about here, your, uh, your idea for your new pasta shape?
+[30:25.710 --> 30:27.330]  What's my idea for a new pasta shape?
+[30:27.730 --> 30:31.250]  Well, you wanted to make a spaghetti that's so thick you have to like slice it.
+[30:31.490 --> 30:32.870]  Oh, yeah, yeah, yeah.
+[30:32.870 --> 30:33.330]  Like, uh, pasta salamis.
+[30:33.770 --> 30:45.270]  You confused me for a second because a long time ago we talked about, I actually presented to you guys a bit, uh, where we create a new pasta shape and I called it the boot and you fill the boot up with pasta sauce.
+[30:45.950 --> 30:46.970]  And then you eat it that way.
+[30:46.970 --> 30:47.950]  You can go back and listen.
+[30:48.070 --> 30:49.750]  It's a face bit that just never took off.
+[30:49.790 --> 30:52.410]  But I wanted to, I wanted to invent new pasta shapes.
+[30:52.870 --> 30:54.350]  This would have been in the early 100s probably.
+[30:54.670 --> 31:06.730]  But yeah, while we were at dinner the other night, since we're talking about the trip, well, let's only talk about this one of many dinners we had while we were at this Italian family style dinner the other night.
+[31:07.010 --> 31:10.170]  And Eric was whining about pasta or spaghetti.
+[31:10.410 --> 31:12.150]  Everyone kept asking me about spaghetti.
+[31:12.330 --> 31:13.470]  I didn't bring it up.
+[31:13.550 --> 31:14.490]  I didn't want to talk about it.
+[31:14.550 --> 31:14.990]  You did it.
+[31:14.990 --> 31:17.190]  We were trying to get to the bottom of his grievance.
+[31:17.290 --> 31:21.170]  And then at one point he said he thinks it's just the width of the noodle.
+[31:21.530 --> 31:21.970]  Yeah.
+[31:22.090 --> 31:22.970]  That is the issue.
+[31:23.310 --> 31:28.150]  And so I thought, and since angel hair exists, somebody has gone the other way with it.
+[31:28.170 --> 31:31.290]  And they've made a smaller, a thinner noodle in angel hair.
+[31:31.350 --> 31:32.870]  And Eric is okay with that.
+[31:33.230 --> 31:39.870]  What if you go the other way and make a fatter noodle and made it as fat as like a garden hose, uh, for instance.
+[31:39.870 --> 31:44.610]  And then you just get like spaghetti sauce poured over one fat ass noodle.
+[31:44.810 --> 31:47.310]  That's just like thick, like a cable, you know?
+[31:47.790 --> 31:51.990]  And then you just like kind of cut it up and eat it like a noodle steak with your spaghetti sauce.
+[31:52.230 --> 31:53.510]  I feel like that's almost Udon.
+[31:53.930 --> 31:56.610]  Yeah, I think, I think Udon is in the right direction.
+[31:56.970 --> 31:59.990]  Definitely right direction, but it's not, that's not quite it.
+[32:00.090 --> 32:01.170]  Yeah, but, but imagine.
+[32:01.210 --> 32:02.650]  Even thicker than that.
+[32:02.950 --> 32:08.190]  Yeah, imagine that it's like, like full on, like way, way bigger.
+[32:08.190 --> 32:13.710]  Not like, oh, it's like, like a pencil all the way around, but like real, real fucking big.
+[32:14.010 --> 32:14.690]  I think it'd be terrible.
+[32:15.010 --> 32:15.610]  I did.
+[32:16.270 --> 32:21.190]  The first time I ordered Udon, it was sight unseen and it was quite alarming to open it for the first time.
+[32:21.270 --> 32:24.630]  I was not expecting the girth of the noodle.
+[32:24.790 --> 32:27.510]  So imagining something larger than that.
+[32:27.750 --> 32:29.210]  You blindly ordered Udon?
+[32:30.210 --> 32:33.210]  Yeah, I didn't, I just, uh, I thought it was the same as ramen.
+[32:33.730 --> 32:34.090]  Huh.
+[32:34.810 --> 32:35.030]  Yeah.
+[32:35.530 --> 32:36.130]  It sounded good.
+[32:36.490 --> 32:37.290]  Is ramen spaghetti?
+[32:41.610 --> 32:45.630]  Uh, no, because it's called a ramen noodle.
+[32:46.290 --> 32:47.730]  All the comments in the world.
+[32:48.070 --> 32:50.930]  You could, this might be a controversial take.
+[32:51.010 --> 32:53.470]  I think you can make spaghetti with a ramen noodle.
+[32:54.030 --> 32:55.670]  I think you can make a spaghetti with any noodle.
+[32:55.770 --> 32:56.930]  That was sort of my point before.
+[32:57.670 --> 33:01.210]  I love that we have all these stories for Vegas.
+[33:02.010 --> 33:04.630]  We could have just gone to a restaurant in Austin.
+[33:06.590 --> 33:09.310]  30 fucking minutes into a spaghetti conversation.
+[33:09.590 --> 33:11.770]  So let's start with the beginning of the Vegas trip.
+[33:11.830 --> 33:17.170]  No, no, this is so much more, the funny thing, Andrew, is that this is way more entertaining to me than any of that shit.
+[33:17.850 --> 33:20.410]  Like, I'm much happier in Spaghettiville, honestly.
+[33:21.610 --> 33:22.410]  Ramen noodle.
+[33:27.240 --> 33:29.800]  Do you just have to, like, see what it looked like or what?
+[33:29.860 --> 33:31.680]  I'm just, yeah, like, confirming.
+[33:32.300 --> 33:34.240]  What's the difference between...
+[33:34.240 --> 33:38.900]  I like that all these, all these different countries came up with the same thing with different names.
+[33:39.260 --> 33:39.540]  Yeah.
+[33:40.700 --> 33:42.100]  That's what it is, right?
+[33:42.600 --> 33:43.040]  Yeah.
+[33:43.160 --> 33:44.520]  I guess you can't patent a noodle.
+[33:46.300 --> 33:47.040]  I think.
+[33:47.540 --> 33:48.540]  I guess you're right.
+[33:48.880 --> 33:49.500]  I guess you're right.
+[33:49.920 --> 33:52.740]  You could patent a machine that makes the noodle.
+[33:53.200 --> 33:53.740]  That's true.
+[33:54.460 --> 33:56.720]  It would just be sort of weird if you had the spaghetti patent.
+[33:56.980 --> 33:57.680]  That'd be crazy.
+[33:57.960 --> 33:59.500]  Because it's the dish and the noodle.
+[33:59.740 --> 34:03.120]  Everybody had to pay a spaghetti licensing fee to you to make spaghetti.
+[34:03.120 --> 34:04.080]  Oh, man, yeah.
+[34:04.160 --> 34:04.760]  That'd be crazy.
+[34:05.140 --> 34:06.320]  I don't think the world would have it.
+[34:06.380 --> 34:08.040]  They would just come up with alternate methods.
+[34:08.740 --> 34:09.300]  Mm-hmm.
+[34:09.340 --> 34:11.340]  Yeah, they would just make... yeah, exactly.
+[34:11.880 --> 34:17.540]  Did you know the patent for iPod's click wheel thing or whatever is up, I think, like, this year?
+[34:17.960 --> 34:18.240]  Really?
+[34:18.640 --> 34:18.860]  Yeah.
+[34:19.040 --> 34:20.200]  Is that something we can figure out?
+[34:20.800 --> 34:22.060]  You want Uniform to get involved?
+[34:22.660 --> 34:23.220]  Yeah, maybe.
+[34:23.680 --> 34:27.640]  I mean, like, with a patent, don't you have to make it, like, exactly like the patent says?
+[34:27.700 --> 34:30.020]  Like, you can't, like, deviate from it or whatever.
+[34:30.020 --> 34:30.960]  You have to make it exactly.
+[34:31.120 --> 34:32.800]  But we can just, like, slap a Uniform logo on it.
+[34:32.900 --> 34:34.240]  And then it's, like, Uniform Pod or something.
+[34:34.640 --> 34:38.040]  So we'd basically be wondering what items could use a click wheel.
+[34:39.120 --> 34:40.320]  Uh, yeah.
+[34:40.800 --> 34:42.300]  So what items can use a click wheel?
+[34:43.220 --> 34:44.420]  Like a pasta selector?
+[34:44.900 --> 34:48.600]  Like, you just wonder what pasta do.
+[34:48.760 --> 34:51.340]  I'm just trying to, you know, trying to tie it into what we got going on right now.
+[34:52.400 --> 34:55.000]  The first universal remote that is universal.
+[34:55.400 --> 34:56.680]  It's not just for TVs.
+[34:56.680 --> 34:59.280]  It's you could pick your pasta on it.
+[34:59.820 --> 35:02.080]  Uh, what else could you do on it?
+[35:02.140 --> 35:03.380]  Operate your toaster.
+[35:04.020 --> 35:05.600]  Turn the oven on.
+[35:06.120 --> 35:08.760]  Toaster? You can turn your toaster on mobile-y now?
+[35:09.120 --> 35:11.220]  Why not? We're inventing shit, aren't we?
+[35:11.680 --> 35:13.380]  No. No, I don't think we're.
+[35:13.420 --> 35:13.720]  Press the click wheel.
+[35:13.720 --> 35:14.900]  I don't think we're inventing at all.
+[35:15.000 --> 35:17.600]  I think the whole point was we're using pre-existing technologies.
+[35:17.940 --> 35:20.580]  I don't think the idea of a smart toaster is that wild.
+[35:20.740 --> 35:21.920]  I'm assuming it exists.
+[35:21.920 --> 35:24.460]  I'm sure there's a thing called a smart toaster.
+[35:24.580 --> 35:28.580]  But the idea that you can pop your toast at a distance seems unnecessary.
+[35:29.600 --> 35:31.020]  Because it doesn't take long.
+[35:31.360 --> 35:32.740]  And you have to put the bread in.
+[35:33.140 --> 35:34.240]  Now that would be innovative.
+[35:34.360 --> 35:37.380]  A toaster that you could store the bread in itself.
+[35:37.920 --> 35:42.300]  And then it can load and toast at a distance.
+[35:42.760 --> 35:45.420]  Can you buy bread in a bag that cooks the bread?
+[35:45.880 --> 35:46.400]  No.
+[35:46.880 --> 35:48.360]  The bag cooks the bread?
+[35:48.360 --> 35:54.100]  Well, you know, you get in those MREs and stuff where you hit the thing and it heats up the food.
+[35:54.480 --> 35:55.480]  I like this idea.
+[35:55.740 --> 35:58.040]  I wonder if there's a version of that for toasting.
+[35:58.260 --> 35:59.780]  Is it called bread but bad?
+[36:00.600 --> 36:01.300]  Like those...
+[36:01.300 --> 36:03.960]  Well, you couldn't use one of those because that would just make hot floppy bread.
+[36:04.160 --> 36:05.120]  But you'd actually need some sort of different thing.
+[36:05.120 --> 36:05.840]  Yeah, you would hate that.
+[36:06.140 --> 36:07.520]  This is just worse bread.
+[36:07.980 --> 36:09.160]  Yeah, this is worse bread.
+[36:09.300 --> 36:09.800]  That's the brand.
+[36:10.020 --> 36:10.520]  Worse bread.
+[36:10.900 --> 36:15.780]  Be like if the bag was made of hand warmers and you hit a button and they all crunched in the back of it.
+[36:17.820 --> 36:23.820]  I still don't fully understand how the heat from a toaster is different to just heat.
+[36:24.380 --> 36:25.060]  What do you mean?
+[36:26.660 --> 36:35.300]  Like if I leave bread out in the heat, in the sun, or if I use a hairdryer on bread, will it become toast or what?
+[36:35.720 --> 36:37.160]  Well, I think it's hot.
+[36:37.160 --> 36:38.020]  If it gets hot enough.
+[36:38.040 --> 36:42.060]  Yeah, but I think it's like a concentrated amount of high heat.
+[36:42.540 --> 36:44.200]  And not open flame.
+[36:44.460 --> 36:45.760]  I mean, so is a hairdryer.
+[36:47.560 --> 36:50.460]  But I don't think a hairdryer is as hot as a toaster.
+[36:50.880 --> 36:51.400]  Oh, isn't it?
+[36:51.720 --> 36:52.360]  I don't think so.
+[36:52.380 --> 36:53.300]  I don't think it's close.
+[36:53.700 --> 36:54.840]  It's just the level of heat.
+[36:55.200 --> 36:58.220]  I think it's there's like, as you said, levels of heat.
+[36:58.320 --> 37:01.620]  And I don't I think it's a different end of the heat spectrum.
+[37:01.880 --> 37:02.480]  All right, hold on.
+[37:02.500 --> 37:04.240]  I'm going to have a real answer for you here.
+[37:04.260 --> 37:08.400]  OK, Gavin, how hot do you think a hairdryer typically gets?
+[37:08.940 --> 37:10.380]  You talking Celsius or Fahrenheit?
+[37:11.080 --> 37:12.200]  I don't care, Gav.
+[37:12.320 --> 37:12.760]  Either way.
+[37:12.760 --> 37:17.580]  Are you talking like straight off the coils or like at the point where you measure from the hair or what?
+[37:18.220 --> 37:19.280]  Straight off the coils?
+[37:19.920 --> 37:21.320]  Well, that's creating heat inside the hair.
+[37:21.380 --> 37:23.200]  You're not putting your hair on the heat source.
+[37:24.100 --> 37:26.900]  Andrew, I don't know if Andrew knows how these things work.
+[37:27.040 --> 37:29.160]  Like, I don't know why you're trying to like split hairs on it.
+[37:29.340 --> 37:37.620]  In your world where you're cooking toast with a hairdryer, have you cracked the hairdryer open to get to the heat coils directly?
+[37:37.900 --> 37:39.980]  Or are you just blowing the hairdryer on it?
+[37:40.360 --> 37:41.340]  Yeah, that's a good question.
+[37:41.340 --> 37:46.020]  I think, well, no, my confusion with the question was I assumed it's how you use both products.
+[37:46.320 --> 37:47.260]  No, it's not me, wasn't it?
+[37:47.640 --> 37:51.740]  That was not your confusion, Andrew. That's Gavin's immense confusion that I'm trying to get past.
+[37:52.020 --> 37:56.000]  That's what I'm saying. Like that's that's I'm clarifying. I understand how the hairdryer works.
+[37:56.000 --> 37:59.560]  But my point was Gavin's question, I feel like goes against his premise.
+[37:59.960 --> 38:05.040]  Well, what I'm saying is it the the hair is further from the heat source than the toast is from the heat source.
+[38:05.380 --> 38:09.600]  But you just said you thought a hairdryer could toast bread.
+[38:09.600 --> 38:16.300]  Well, I said it. So it's from well, how hot do you fucking think it could get at the point where it could warm hair?
+[38:16.600 --> 38:20.860]  I would say 80 degrees Celsius. Yeah.
+[38:21.240 --> 38:26.340]  OK, you would be incorrect. It's somewhere between 49 and 71 degrees.
+[38:26.520 --> 38:33.680]  But some can reach and some can reach temperatures up to 93 degrees on their highest settings.
+[38:33.820 --> 38:35.740]  OK, OK. Explain to me how I'm incorrect.
+[38:36.500 --> 38:38.040]  Because I hadn't read that line yet.
+[38:38.040 --> 38:46.080]  OK. Now, a toaster.
+[38:47.920 --> 38:52.380]  Well, how hot do you think a toaster gets in Celsius? 80 degrees.
+[38:53.540 --> 39:01.020]  According to this, a toaster gets at least 260 degrees Celsius, but maybe as high as 500.
+[39:01.840 --> 39:08.360]  Jesus. I guess it's just an oven, isn't it? Like an oven will easily do hundreds of degrees. Yeah, good point.
+[39:08.520 --> 39:11.040]  I don't know why it took us that long to get there for you to get that. But yeah.
+[39:11.500 --> 39:14.160]  Anyway, I see you guys a $400 smart toaster.
+[39:14.660 --> 39:15.300]  That's insane.
+[39:15.620 --> 39:18.060]  So what I'm hearing is the toaster will dry my hair quicker.
+[39:19.100 --> 39:21.520]  Yeah, yeah. Very fast. Very, very fast.
+[39:21.740 --> 39:26.100]  But you also if you want to be even better about it, an oven is nothing more than a big toaster.
+[39:26.180 --> 39:29.380]  Just go ahead and stick your head right in that oven and turn it on. You'll get dry real quick.
+[39:29.380 --> 39:34.220]  Yeah, but that's going to take forever. Honestly, faster oven, that's a microwave.
+[39:34.400 --> 39:39.180]  So crack that open, stick your head in there and get that air cooked, baby.
+[39:39.480 --> 39:41.120]  A microwave won't make toast though.
+[39:41.600 --> 39:45.520]  Damn, and here we are. And here we are back at the beginning. It's crazy. Full circle.
+[39:46.100 --> 39:50.600]  Ever talk about when I made a smoke bomb out of a bun, a dinner roll?
+[39:53.140 --> 39:55.980]  I was in a dinner roll phase as like a young teen.
+[39:56.760 --> 39:59.660]  You know, those young teen dinner roll phases.
+[40:00.780 --> 40:06.360]  What are you going to do tonight? I was thinking about cooking up some Parker House rolls. How about you? Hawaiian for me.
+[40:06.760 --> 40:11.960]  Now, as someone who only learned what teenager meant during this podcast, how old were you when you were a teenager?
+[40:13.080 --> 40:14.140]  Probably like 13.
+[40:15.280 --> 40:24.220]  Probably like 13. Went on a dinner roll phase and I really, I'd throw one in the microwave for like 20 seconds to heat it up and put some butter on it. It was delicious.
+[40:24.720 --> 40:29.560]  I eventually came to the conclusion that the longer it would be in the microwave, the more delicious it would be.
+[40:29.940 --> 40:40.000]  So I put it on for like, I was at my grandparents house and I put on for like five minutes and I just walked outside and I just left it and I didn't really think about it.
+[40:40.080 --> 40:50.240]  And then like a few minutes later, the door kicks open and my grandpa has this like smoky, like this thing just emitting smoke like a bomb.
+[40:50.240 --> 40:55.540]  And he was so angry. He never got angry, but he's like shocked. It wasn't even mad at me.
+[40:55.540 --> 41:01.240]  He's just like, what is going on? I smoked out the house with this dinner roll.
+[41:04.120 --> 41:09.620]  And I learned that it just burns. There's the point. You can't have too much of a good thing.
+[41:10.060 --> 41:11.740]  Can we try this at the office, please?
+[41:11.820 --> 41:17.160]  Oh, no, you're going to smoke the house. It was, Jeff, it was unbelievably smoky.
+[41:17.160 --> 41:22.040]  Five minutes dinner, dinner rolls at the office, smoke out.
+[41:22.220 --> 41:25.740]  Okay, we'll try to do the GTA thing in real life or the Call of Duty thing in real life.
+[41:26.300 --> 41:29.280]  Can we get more fire extinguishers before we do this?
+[41:29.760 --> 41:30.280]  Yes, please.
+[41:30.520 --> 41:31.360]  Yeah, of course.
+[41:31.640 --> 41:36.140]  You're not going to need one based on my experience. You just need a napkin and a grandpa.
+[41:42.800 --> 41:51.040]  It's like threw it in the garden. It was completely black. It's like fully charcoaled.
+[41:51.740 --> 41:58.380]  I just like the idea that at some point in history, there was just a Canadian guy yelling that a smoking dinner roll flew out of the house.
+[41:58.380 --> 42:04.000]  The whole house was smoked out. Classic teenage dinner roll stuff, man.
+[42:04.760 --> 42:05.960]  Did that put you off?
+[42:05.960 --> 42:16.680]  No, well, I don't remember. You know what? Maybe it did. I don't remember having dinner rolls after that. I think it must have.
+[42:17.240 --> 42:22.300]  Do you think you got banned from dinner rolls? Your family was like, no more. We're cutting you off.
+[42:24.360 --> 42:26.340]  No, I don't think I was ever officially banned.
+[42:27.860 --> 42:30.040]  Did he cool down about it afterwards?
+[42:30.040 --> 42:36.660]  Oh yeah, absolutely. It wasn't like a known story. It wasn't something that came up often.
+[42:37.380 --> 42:41.540]  It was like one of three times I ever saw him upset about anything.
+[42:41.880 --> 42:48.660]  Don't bans seem so ridiculously unenforceable? Like a lifetime ban to something? How are they going to know?
+[42:48.740 --> 42:55.440]  Like for instance, I got a lifetime ban to a mall in Indianapolis when I was like 19. I could go there today.
+[42:57.600 --> 43:00.180]  There's no way. What did you do?
+[43:01.500 --> 43:03.280]  Was that when you pissed on the security guard?
+[43:05.600 --> 43:10.420]  No, I was up to shenanigans. I was up to no good with some friends. It was an army thing.
+[43:10.920 --> 43:13.820]  But that's not important. That's not the important part.
+[43:13.940 --> 43:14.900]  You brought it up.
+[43:15.340 --> 43:21.320]  That's not the important part. The thing is I received a lifetime ban to a mall and now I'm thinking about it. I'll be 50 in two days.
+[43:21.780 --> 43:24.660]  I'm pretty sure they don't know I'm the same dude.
+[43:24.660 --> 43:35.220]  It could be a weirdly insulting thing where you know when there's like a missing child's poster and they have to like guess what the kid currently looks like because so much time has passed.
+[43:35.380 --> 43:41.980]  Like if they have that for you, but the future Jeff is more flattering in their projected image based on the...
+[43:41.980 --> 43:45.740]  Can we all get our childhood pictures aged up as if we were missing?
+[43:46.260 --> 43:48.820]  I don't know how that works.
+[43:49.060 --> 43:50.680]  I don't know how you do that.
+[43:51.060 --> 43:52.400]  I'm sure there's a program online.
+[43:52.760 --> 43:53.760]  There has to be.
+[43:53.760 --> 43:59.180]  Gus and I did it years ago. We made like a more of like if Gus and I had a child, this is what he would look like as an adult.
+[43:59.300 --> 44:00.720]  We named him Harold Edwards.
+[44:02.100 --> 44:03.000]  It was a whole thing.
+[44:05.280 --> 44:06.120]  Looked just like us.
+[44:06.720 --> 44:08.740]  Yeah, I think that's a fun thing to try.
+[44:09.520 --> 44:10.340]  So you went to Vegas.
+[44:11.680 --> 44:14.960]  Speaking of trying stuff, I'm really jazzed about this dinner roll deal we're going to film.
+[44:15.580 --> 44:16.380]  Throwing that out there.
+[44:16.920 --> 44:19.460]  Are we going to get a sacrificial microwave or use our microwave?
+[44:19.820 --> 44:22.020]  We'll use ours. I mean the landlord's.
+[44:22.020 --> 44:25.580]  The microwave didn't have to get replaced, so I'd feel fine about you.
+[44:25.900 --> 44:27.080]  You don't have to worry about that.
+[44:27.220 --> 44:28.820]  Yeah, but stuff back then was built to last.
+[44:28.980 --> 44:29.920]  I don't think so.
+[44:30.100 --> 44:32.260]  I think it was still in the area of not being built to last.
+[44:32.620 --> 44:33.820]  It wasn't that long ago.
+[44:35.520 --> 44:36.620]  Yeah, you are young, aren't you?
+[44:36.780 --> 44:37.620]  Like 15 years?
+[44:38.120 --> 44:40.220]  Yeah, there's nothing built to last 15 years ago, that's for sure.
+[44:40.660 --> 44:41.900]  Certainly not internet companies.
+[44:44.000 --> 44:46.600]  Make your next vacation unforgettable.
+[44:47.460 --> 44:50.780]  On Royal Caribbean's newest ship, Star of the Seas.
+[44:50.780 --> 44:54.700]  It's everything you've loved about every family vacation you've ever been on.
+[44:54.900 --> 44:58.100]  With mind-blowing thrills at the largest water park at sea,
+[44:58.420 --> 45:01.040]  seven onboard pools for every level of chill,
+[45:01.340 --> 45:03.440]  more than 40 ways to dine and drink,
+[45:03.600 --> 45:08.200]  and even more to enjoy at our award-winning private island, Perfect Day at Coco Cay.
+[45:08.560 --> 45:10.840]  This is the new Star of the Seas.
+[45:11.060 --> 45:13.040]  Click or tap the banner to find out more.
+[45:14.480 --> 45:19.880]  Whether it's a movie night or just midday, Skinny Pop is a salty snack that keeps on giving.
+[45:19.880 --> 45:25.340]  Made with just three simple ingredients for an irresistibly delicious taste,
+[45:25.640 --> 45:28.240]  and a large serving size that lasts.
+[45:28.940 --> 45:31.460]  Deliciously popped, perfectly salted.
+[45:32.120 --> 45:34.240]  Skinny Pop. Popular for a reason.
+[45:34.900 --> 45:36.100]  Shop Skinny Pop now.
+[45:37.500 --> 45:41.860]  Our trip to Vegas started with an interesting new style of fan interaction that I had.
+[45:41.860 --> 45:44.740]  Yeah? Dude. Dude.
+[45:44.980 --> 45:47.700]  This guy, it's okay, we can talk about this,
+[45:47.760 --> 45:50.400]  because this guy's never going to fucking hear this, so it's fine.
+[45:50.700 --> 45:52.180]  Oh, he was nice. He was super nice.
+[45:52.480 --> 45:54.120]  I'm talking about the guy right before that guy.
+[45:54.460 --> 45:59.260]  For me, where I don't know what they've changed about the machines in Austin Airport,
+[45:59.660 --> 46:04.020]  but I can't walk through without the square showing up on my genitals.
+[46:05.260 --> 46:09.380]  Every single time I walk through, they think I'm hiding something exactly where my penis is,
+[46:09.380 --> 46:11.560]  and I get felt up each time, so he's like,
+[46:11.620 --> 46:14.580]  I'm using the back of my hand to slap your penis around, blah blah blah from the back.
+[46:14.760 --> 46:19.840]  Then I turn around, and then as he was patting down me from the front,
+[46:19.940 --> 46:21.960]  he said, are you on YouTube? And I said, yes.
+[46:22.780 --> 46:25.520]  And I said, nice to meet you.
+[46:25.600 --> 46:31.320]  And it's the first time a fan has had to shake my hand by moving their hand from my own penis to my hand.
+[46:32.140 --> 46:32.420]  Interesting.
+[46:33.380 --> 46:38.160]  Now I will, I feel I need to ask, are you hiding something in your penis area?
+[46:38.160 --> 46:38.740]  No!
+[46:39.000 --> 46:39.620]  Are you smuggling?
+[46:40.000 --> 46:45.440]  I don't know if my zips are showing up, but for some reason the last three or four times I've gone through TSA Austin,
+[46:45.980 --> 46:48.460]  it looks like I've got something in my penis pocket.
+[46:48.720 --> 46:52.740]  So most of your interactions go handshake to penis, not penis to handshake.
+[46:52.900 --> 46:54.400]  It's never been that way around, right?
+[46:54.660 --> 46:55.100]  Yeah, yeah.
+[46:55.200 --> 46:56.680]  Okay. Interesting.
+[46:57.400 --> 46:59.600]  So are they listening to the pod?
+[47:00.160 --> 47:01.580]  Well, then there was the next guy.
+[47:02.440 --> 47:05.180]  And the next guy, I feel Eric tweeted about.
+[47:06.100 --> 47:07.860]  I think I know about the next guy.
+[47:08.260 --> 47:15.880]  He saw Gavin from across the airport and he just ran full speed, pushed through me to get to Gavin.
+[47:16.260 --> 47:20.240]  And whoever I was standing next to, it just goes up and it was like, are you Gavin?
+[47:20.540 --> 47:24.360]  And then of course, then we just had a lovely interaction with him, but it was pretty funny.
+[47:24.480 --> 47:25.920]  And we just, I was being silly.
+[47:27.340 --> 47:31.700]  And so he was like, he goes, hey man, how's Rooster Teeth doing?
+[47:33.540 --> 47:34.580]  That's how it started.
+[47:35.100 --> 47:38.860]  Laughed and facepalmed a little bit. And then we were like, oh yeah, we all lost our jobs.
+[47:39.420 --> 47:42.280]  And then, are we telling the story how it happened or what?
+[47:44.680 --> 47:45.340]  Why not?
+[47:45.720 --> 47:48.900]  Okay. So yeah, we all lost our jobs like a year ago.
+[47:49.500 --> 47:53.620]  And then Jeff chimed in with, yeah, then a bunch of people died and killed themselves.
+[47:53.860 --> 47:55.080]  And he was like, oh my God.
+[47:55.620 --> 47:58.580]  It was a little funnier than that.
+[47:58.580 --> 48:02.680]  I was like, yeah, we all lost our jobs. It was pretty depressing.
+[48:02.900 --> 48:03.860]  It was a pretty big deal.
+[48:03.920 --> 48:05.800]  And he goes, oh man, that's crazy.
+[48:06.320 --> 48:07.240]  Well, then what happened?
+[48:07.300 --> 48:09.260]  And I was like, it was rough.
+[48:09.360 --> 48:10.560]  A lot of people couldn't take it.
+[48:10.800 --> 48:11.860]  There were some suicides.
+[48:12.440 --> 48:13.620]  And he goes, whoa, no way.
+[48:13.700 --> 48:14.640]  How's Michael Jones doing?
+[48:14.720 --> 48:16.100]  And I go, he didn't make it.
+[48:17.440 --> 48:19.740]  The guy's like, oh man, that's crazy.
+[48:19.980 --> 48:20.740]  He's like, he's deceased.
+[48:21.660 --> 48:23.140]  I love Rage Quit, dude.
+[48:23.180 --> 48:24.120]  I love Rage Quit.
+[48:25.600 --> 48:26.240]  Michael died.
+[48:26.340 --> 48:30.820]  And it was like the whole time Gavin's going, Gavin's going, no, stop.
+[48:31.000 --> 48:31.860]  Don't stop.
+[48:32.280 --> 48:34.120]  Yeah, well, first he said there were a bunch of suicides.
+[48:34.840 --> 48:36.420]  And the guy looked genuinely horrified.
+[48:36.540 --> 48:37.120]  And I was like, no, no, no.
+[48:37.540 --> 48:38.120]  Nobody died.
+[48:38.180 --> 48:38.500]  It's fine.
+[48:38.820 --> 48:39.240]  Nobody's dead.
+[48:39.480 --> 48:42.160]  And then like 30 seconds later, he's like, Michael didn't make it.
+[48:42.280 --> 48:44.380]  And then the guy goes, oh, he passed away.
+[48:44.480 --> 48:46.420]  And he looked genuinely dead serious again.
+[48:46.460 --> 48:47.560]  I was like, no, no, no.
+[48:47.620 --> 48:48.320]  Michael didn't die.
+[48:48.420 --> 48:48.920]  Michael's alive.
+[48:49.020 --> 48:49.960]  Jesus Christ, Jeff.
+[48:50.280 --> 48:51.920]  And then he goes, well, what do you get?
+[48:51.980 --> 48:52.880]  What happened to everybody?
+[48:52.880 --> 48:54.660]  And I'm like, well, you know, we started new companies.
+[48:54.660 --> 48:56.120]  We're all building back up.
+[48:56.240 --> 48:57.160]  You know, it's rough.
+[48:57.200 --> 48:59.080]  And he goes, well, you guys got Gavin, though.
+[48:59.220 --> 49:00.140]  That dude prints money.
+[49:00.220 --> 49:01.040]  He's got all the money.
+[49:01.440 --> 49:02.120]  That guy prints money.
+[49:02.420 --> 49:03.420]  Gavin goes, I do.
+[49:04.380 --> 49:05.560]  He goes, I do.
+[49:05.820 --> 49:06.720]  And the guy goes, yeah.
+[49:06.720 --> 49:07.680]  Can you tell me where the printer is?
+[49:09.900 --> 49:10.540]  Really funny.
+[49:11.400 --> 49:13.040]  He was full of energy.
+[49:13.400 --> 49:15.280]  And it was pretty funny overall.
+[49:15.700 --> 49:20.320]  It was the first time I had someone come up and not go like, hey, man, sorry about Rishi.
+[49:20.460 --> 49:21.080]  It's such a bummer.
+[49:21.120 --> 49:21.580]  I love you guys.
+[49:21.580 --> 49:21.920]  Whatever.
+[49:22.260 --> 49:24.480]  And just like, hey, just on the nose.
+[49:24.700 --> 49:26.320]  Hey, how's your teeth going?
+[49:27.540 --> 49:28.300]  Exceptionally bad.
+[49:29.540 --> 49:31.940]  Yeah, it was just a wild experience.
+[49:32.000 --> 49:35.960]  But he was, by the way, I wouldn't have played around with the guy if he wasn't clearly fun.
+[49:36.240 --> 49:37.160]  Like he was a cool kid.
+[49:37.540 --> 49:41.040]  He was fun, but he was not picking up on the joke every time you said someone died.
+[49:42.980 --> 49:44.880]  Literally, literally every time you said it.
+[49:46.960 --> 49:49.040]  And I just can't let people do like that.
+[49:49.040 --> 49:55.580]  I had to immediately tell him that you were joking because his face, his face looks so sad.
+[49:55.840 --> 49:58.600]  Well, it's sad. It's not a thing to laugh about, Gavin.
+[49:59.200 --> 50:00.660]  No, it's no joking matter.
+[50:00.700 --> 50:04.140]  Which is why I don't know why I was very grim faced when I was given the news.
+[50:04.220 --> 50:05.260]  I don't know why you were laughing.
+[50:06.380 --> 50:10.240]  Have you ever had anyone approach you, Gavin, to ask if Laser Team 3 is coming?
+[50:12.280 --> 50:13.980]  Yeah, is that demand hot or what?
+[50:13.980 --> 50:20.900]  Of all of the projects you've done, what is the one that's been asked about the least in fan interaction?
+[50:21.380 --> 50:25.340]  I assume something that was never asked about ever. I probably don't remember being in it.
+[50:25.480 --> 50:26.060]  That's fair.
+[50:27.520 --> 50:29.180]  So when is Laser Team 3 happening?
+[50:31.000 --> 50:32.440]  We're going to crowdfund it next year.
+[50:34.680 --> 50:36.400]  So then we went to Vegas.
+[50:37.320 --> 50:42.020]  I should preface this by saying now that we're ready to end the podcast.
+[50:42.500 --> 50:48.200]  The whole reason we went to Vegas was because I got offered a really cool opportunity
+[50:49.100 --> 50:53.880]  by the marketing director of the Las Vegas Aviators, a guy named RJ,
+[50:54.480 --> 50:58.480]  who is one of the coolest motherfuckers, and his friend Jimmy, too.
+[50:58.600 --> 50:59.980]  Two of the coolest dudes you'll ever meet.
+[51:02.180 --> 51:06.960]  He offered me the opportunity to throw out the first pitch at a Las Vegas Aviators game,
+[51:06.960 --> 51:13.660]  which is the AAA affiliate to the Sacramento A's, I guess, for the next three years.
+[51:13.960 --> 51:14.200]  Yep.
+[51:14.540 --> 51:19.340]  And we thought, well, this would be something fun to film. It'd be a cool thing.
+[51:19.420 --> 51:24.480]  We can go to Vegas, make some content over the weekend, make it like a regulation trip,
+[51:24.680 --> 51:29.760]  kind of like we did in Mexico not too long ago, and just see what we can get out of it.
+[51:30.020 --> 51:31.980]  So that's what we did.
+[51:32.260 --> 51:36.240]  Now, I haven't looked at the first pitch. I figured I'd wait until this moment.
+[51:36.920 --> 51:38.020]  You gonna watch it now?
+[51:38.620 --> 51:39.360]  I'd love to.
+[51:39.640 --> 51:40.720]  Why don't we have someone play it?
+[51:40.920 --> 51:46.620]  Let me preface this by saying, when I got offered the first pitch, it was about three months ago.
+[51:47.220 --> 51:52.340]  And from that moment, everybody kept telling me, are you going to practice? You should probably start practicing.
+[51:52.780 --> 51:55.140]  And I kept thinking, yeah, yeah, yeah, I'll practice, I'll practice, I'll practice.
+[51:55.440 --> 51:59.140]  And then I just, for whatever reason, never picked up a baseball.
+[51:59.620 --> 52:05.900]  And then about three weeks ago, I realized I really got to get to it.
+[52:05.980 --> 52:10.300]  I need to get out there and practice because I'm coming up. I haven't thrown a baseball in a while.
+[52:10.800 --> 52:16.740]  I don't want to bababooey it. I don't want to have one of those embarrassing, bad first pitches that real celebrities have.
+[52:17.420 --> 52:21.520]  But I woke up one day, right after I had that realization, I woke up.
+[52:22.000 --> 52:26.440]  And my left arm, I had thought maybe I'd slept on it wrong. I had been working out too.
+[52:26.520 --> 52:28.980]  And I thought maybe I pulled a muscle and not realized it.
+[52:28.980 --> 52:34.180]  My left arm was numb and it hurt a lot.
+[52:34.600 --> 52:41.760]  And so for the last three months, I've been doing nothing with my left arm because I've been kind of scared.
+[52:42.160 --> 52:48.620]  I'm thinking I'm getting maybe carpal tunnel because I've been playing so much Roadcraft and I've been streaming twice a day.
+[52:49.080 --> 52:51.300]  It's like triple the amount of video games I've been playing.
+[52:51.880 --> 52:54.700]  And so maybe for my advanced age, my body can't handle it.
+[52:54.880 --> 52:57.620]  But even right now, my shoulder is really sore and I don't know what I did.
+[52:57.620 --> 53:03.880]  So then I realized if I start practicing, I may just throw my arm out before I ever get a chance to throw a baseball.
+[53:04.280 --> 53:11.980]  So the safest thing for me to do would be not to touch a baseball at all until the moment I'm on the mound and they hand it to me.
+[53:12.380 --> 53:17.640]  And so from three months ago, when I got offered this opportunity to the moment I got on the mound, the pitcher's mound to throw the baseball,
+[53:17.860 --> 53:25.860]  I didn't put a baseball in my hand or throw. I threw a grape at Gavin the day before and it hurt to throw.
+[53:26.440 --> 53:31.880]  I'm going to watch this pitch. So Jeff's walking to the mound, kind of bouncing.
+[53:32.080 --> 53:35.880]  Oh, he's doing a little, you're doing a little run like a kind of brief jog.
+[53:36.640 --> 53:38.180]  Yeah, I mean, I don't want to take up anybody's time.
+[53:39.040 --> 53:44.640]  Yeah, you're waving. You're at the pitcher mound, evaluating.
+[53:45.900 --> 53:49.140]  In casual, you're just kind of passing, you're throwing the ball up a little bit.
+[53:49.640 --> 53:52.820]  No memory of doing that, by the way. Saw it on the video and thought, wow, that's weird.
+[53:54.620 --> 53:59.740]  Jeff, that was phenomenal. That was about as good as it could possibly go.
+[53:59.820 --> 54:04.720]  He did a great job. Good throw. It was really fantastic. He really did great.
+[54:05.000 --> 54:07.660]  Like you really, really, really did good. You should be really happy with that.
+[54:07.920 --> 54:13.420]  You know what the problem is with the first pitch, though, is I'm going to forget you did that in like two days.
+[54:13.900 --> 54:19.460]  Like there's no positive to the embarrassment. Like it's only memorable if you do horrible.
+[54:19.460 --> 54:26.460]  It's one of those things where there is no reward for doing a good job. I mean, other than the personal pride of getting to do it.
+[54:26.640 --> 54:28.640]  Yeah, like that's obviously a really cool moment.
+[54:28.900 --> 54:32.360]  The best thing you can hope for is that nobody remembers your first pitch.
+[54:32.480 --> 54:34.840]  Yes. And I think I accomplished that.
+[54:35.360 --> 54:37.400]  You absolutely did. You nailed it. That was great.
+[54:37.820 --> 54:42.980]  Directly over the plate, a little high, you know, a little high in the strike zone, but a perfect arc.
+[54:43.160 --> 54:48.420]  I didn't throw any heat or anything. It didn't feel like the right time to do that.
+[54:48.420 --> 54:49.280]  Absolutely not.
+[54:49.560 --> 54:54.580]  It was plenty hot out there. You didn't have to add to it with a with a real scorcher down the middle.
+[54:54.700 --> 54:56.420]  It was about 109 degrees.
+[54:56.680 --> 54:57.740]  Oh, my God.
+[54:58.040 --> 55:00.720]  Yeah. So pretty brutal.
+[55:01.020 --> 55:02.260]  You'd dry hair in that weather.
+[55:04.920 --> 55:08.940]  It was an awesome game, though. Aviators won, I think, 15 to 6.
+[55:09.360 --> 55:11.360]  I've never seen more home runs.
+[55:11.580 --> 55:14.840]  Oh, yeah. Every inning was like six home runs. It was awesome.
+[55:14.840 --> 55:19.880]  Now, based on the history of this podcast, Andrew, would you say that that was worth Jeff's time or what?
+[55:20.380 --> 55:20.740]  Absolutely.
+[55:22.140 --> 55:22.500]  Okay.
+[55:23.460 --> 55:24.120]  Absolutely was.
+[55:24.540 --> 55:25.900]  All right. I'll just take note of that.
+[55:26.380 --> 55:29.440]  I will say throwing a first pitch is addicting. We were talking about it after.
+[55:30.160 --> 55:33.980]  And I know you are, dude, and I feel it. There's only 30 AAA teams.
+[55:34.540 --> 55:39.980]  I wonder if anybody has thrown out a first pitch at every single AAA baseball stadium.
+[55:40.000 --> 55:40.280]  Oh.
+[55:41.220 --> 55:43.980]  That might be a bucket list for me. Maybe I get to do this again someday.
+[55:43.980 --> 55:49.100]  I just love the idea of every regulation trip being like, all right, we can do this and we can eat a meal here.
+[55:49.240 --> 55:53.860]  And then obviously Jeff's got his first pitch. I just love that being a part of the itinerary on every trip.
+[55:54.120 --> 55:55.820]  Did Will Ferrell do that?
+[55:56.140 --> 56:00.680]  He did spring training. He played on every team during spring training, I think.
+[56:00.840 --> 56:01.160]  Yeah. Okay.
+[56:01.620 --> 56:09.940]  Gavin kept saying in the trip, and I really appreciate it, Gavin, you really appreciated the structure of the trip because I scheduled everything out and I had activities for us.
+[56:09.940 --> 56:17.640]  Yeah. Each day you'd planned a bunch of stuff. The only time it was like, all right, what should we do now? It would be like 8 p.m. after we'd eaten. It's crazy.
+[56:17.880 --> 56:24.940]  I mean, we planned it as a group. We planned it as like a whole group and we hung out together and planned it as a group just together online together.
+[56:25.720 --> 56:26.880]  Everybody involved together.
+[56:27.360 --> 56:27.560]  Yep.
+[56:27.900 --> 56:30.220]  Not even me who was not involved.
+[56:30.400 --> 56:32.960]  It's true. Andrew was there helping us schedule and plan it.
+[56:33.380 --> 56:33.700]  It's true.
+[56:33.700 --> 56:41.000]  I was listening to you guys talk about potentially watching a UFC fight that was on the previous weekend, and I just didn't say anything because I found it amusing.
+[56:41.620 --> 56:52.960]  We didn't realize that what we were excited about had already come and gone. I thought it was weird when I saw Sean O'Malley lose and I went... I thought that was...
+[56:52.960 --> 56:56.300]  Oh, you guys were excited about it? I was excited for the Usman fight.
+[56:56.600 --> 56:56.780]  Oh.
+[56:56.920 --> 56:57.360]  That's what I watched.
+[56:57.940 --> 57:01.220]  It was just like, oh, okay, I guess that's... okay. So anyway, we saw Shin Lim.
+[57:01.220 --> 57:13.720]  Another highlight of the trip was Jeff took us all to Shin Lim, which is a magician. And we're in line for about 20 minutes waiting for Eric and his small wife to show up. And it turns out...
+[57:13.720 --> 57:21.240]  There was... before you go any further, there was a metagame that was happening everywhere we went. We had too many people. There were seven of us, so we had to take two Ubers everywhere.
+[57:21.720 --> 57:26.800]  And so I would order a big Uber and everybody would pile in. And then Eric and Barbara would always go in an Uber that he would order.
+[57:26.800 --> 57:31.560]  And we would always... we showed up everywhere 20 minutes before you guys somehow. It felt like.
+[57:32.920 --> 57:35.160]  I think we only did this two or three times.
+[57:35.620 --> 57:42.460]  And twice you guys showed up early. And then the other time we just showed up at the same time as you. So I don't... I don't really... I mean, I get it.
+[57:42.760 --> 57:44.120]  66% of the time.
+[57:44.440 --> 57:51.520]  There you go. 66% of the time. But it's fine because when they went to go see Shin Lim, we had the conversation earlier in the day.
+[57:51.520 --> 58:00.040]  Hey, where is this performance? Where are we seeing Shin Lim? And Jeff said, it's at the Venetian at the Palazzo. I said, cool, let's do it. Let's go to the Palazzo.
+[58:00.360 --> 58:06.880]  And then the day of, as we're getting Ubers, I'm like, oh, I got to call a car. Where are they dropping us off at? And Jeff said, the Venetian theater.
+[58:07.380 --> 58:12.800]  And I said, okay. Okay. I think it's a different spot, but that's fine. I guess I was wrong.
+[58:13.060 --> 58:14.380]  So we were in line for Shin Lim.
+[58:14.660 --> 58:14.940]  Yeah.
+[58:14.940 --> 58:20.020]  And then, uh, Jeff after a while goes, man, there's a lot of people wearing Hawaiian shirts.
+[58:22.380 --> 58:25.280]  Turns out we're at the wrong theater. We're in line for Weird Al.
+[58:26.680 --> 58:28.440]  We're in the Weird Al line.
+[58:28.860 --> 58:37.880]  But my favorite part of the whole thing was at one point while we were in line, a guy comes up to us and goes, hey, you guys in line for Shin Lim? And we were like, yeah.
+[58:39.420 --> 58:44.300]  And after sprinting to the other theater, we realized, oh shit, we told that guy.
+[58:44.980 --> 58:46.400]  That was the Shin Lim line.
+[58:48.420 --> 58:54.460]  So hopefully that guy also realized separately to us and came and sprinted across the casino to the other theater.
+[58:54.760 --> 58:56.360]  We barely fucking made it, man.
+[58:58.080 --> 59:02.020]  Two French Canadians were walking out on stage as we were taking our seats.
+[59:02.400 --> 59:06.460]  We saw so much magic though. They even made us do the magic. It was wild.
+[59:06.460 --> 59:10.460]  Yeah, we're tearing up cards and then the card was magic. It was pretty, it was pretty crazy.
+[59:11.460 --> 59:16.540]  Dude, Shin Lim was doing it. And then two French Canadians were like tricking you the whole time. It was terrible.
+[59:16.800 --> 59:23.780]  Some of the luster of the, hey, everyone tear up a card and throw it over your shoulder trick was lost because I took a card to the eye.
+[59:23.860 --> 59:25.300]  Gavin got winged in the eye.
+[59:26.280 --> 59:28.900]  Just frizz beat a card straight into my open eyeball.
+[59:31.340 --> 59:33.100]  Makes it easier to do the trick if you can't see.
+[59:33.100 --> 59:37.400]  I don't know if that was me. I don't think I can take credit for that, but I did throw every card at you.
+[59:38.480 --> 59:41.480]  The one that hit me in the eye was from like eight rows in front.
+[59:43.260 --> 59:48.420]  I've never seen Yu-Gi-Oh, but if you told me that, that photo of Shin Lim, what is it? Shin Lim?
+[59:48.820 --> 59:49.900]  Yeah. Yeah. Shin Lim. Yeah.
+[59:50.440 --> 59:54.580]  Shin Lim was from a Yu-Gi-Oh live adaption. I would believe you.
+[59:55.020 --> 01:00:00.600]  He, he, he looks like that like the whole time too. His hair is all over. It's wild. Oh, it's wild.
+[01:00:00.600 --> 01:00:05.280]  And then also the people he called up on the stage. I don't know if there are dumber people in the world, but there might be.
+[01:00:09.240 --> 01:00:10.040]  That's great.
+[01:00:11.960 --> 01:00:19.860]  He was awesome. He won America's Got Talent, I believe. And the story, the whole show was about how he, uh, he overcame carpal tunnel.
+[01:00:20.940 --> 01:00:24.220]  It got such a laugh too. It was so good.
+[01:00:24.540 --> 01:00:26.880]  I don't think it was supposed to, but yeah, it wasn't a funny bit.
+[01:00:28.580 --> 01:00:39.540]  He talked about how, uh, he had to choose at one point in his life between being a classically trained pianist or a magician because his carpal tunnel wouldn't allow him to do both. And it just didn't land, I think.
+[01:00:41.020 --> 01:00:52.280]  Yeah, it is. I don't know. I feel like it's a tough story to be like, I had to be one of the best at either of these options. And so I had to only choose one.
+[01:00:52.280 --> 01:00:57.440]  Yeah, it's a tough, that's a tough story to convey sympathy.
+[01:00:57.720 --> 01:00:59.400]  A real relatable sentence.
+[01:00:59.840 --> 01:01:03.520]  I can only be one of the greatest in the world at one thing.
+[01:01:03.840 --> 01:01:03.940]  Yeah.
+[01:01:04.640 --> 01:01:06.480]  Damn you, carpal tunnel!
+[01:01:08.600 --> 01:01:11.960]  You really just, you kind of summed his whole show up there.
+[01:01:15.180 --> 01:01:25.440]  He shows, he's like, I'm going to be classically, not making fun of it. I had a really great time at the show, but at one point, he's like at the piano, they like wheel a piano out or whatever.
+[01:01:25.840 --> 01:01:40.760]  They wheel a piano out and he sits at it and he goes, I have to be, I can only be one thing. I can only be a classically trained pianist or a magician. And then like the sheet music appears like on the piano and you see it on like these big screens and it's sheet music from Tron Legacy.
+[01:01:40.760 --> 01:01:50.380]  And I was talking to Gavin afterward and I just went, what, what was, why did they show the sheet music to Tron Legacy? Did he play a song? And Gavin went, oh, maybe it was like an Easter egg.
+[01:01:50.680 --> 01:02:01.460]  And I went, I don't think so. I think this guy's just kind of a nerd. I think this guy's just like kind of a nerd. That's just what it was. He went, yeah, the best, best music.
+[01:02:01.820 --> 01:02:05.100]  Wasn't the music playing from Tron Legacy when he did that?
+[01:02:05.100 --> 01:02:07.280]  Was it? I don't know. I didn't recognize it. Was it?
+[01:02:07.280 --> 01:02:13.120]  I think he went between Tron Legacy and then he just played, uh, and then they played music from every single Christopher Nolan movie.
+[01:02:13.260 --> 01:02:18.740]  I hope he's getting a cut along with Hans Zimmer for that Shin Lim show.
+[01:02:20.360 --> 01:02:22.420]  It was real good magic there. Yeah. Yeah.
+[01:02:22.420 --> 01:02:24.680]  His last trick was really cool. I had some what moments.
+[01:02:25.260 --> 01:02:25.980]  It was awesome. Yeah, he did.
+[01:02:26.980 --> 01:02:36.020]  I just Googled Shin Lim Tron Legacy and nothing, it's like stuff about him and stuff about Tron Legacy, but nothing about the two of them being joined in any way.
+[01:02:36.020 --> 01:02:41.880]  And while scrolling, I got a Reddit thread that is just, how did Shin Lim do it?
+[01:02:42.140 --> 01:02:44.280]  Reddit America's Got Talent, which is so funny.
+[01:02:45.360 --> 01:02:50.080]  The idea of like seeing a trick on TV and going to, I got to go on the fucking subreddit.
+[01:02:50.540 --> 01:02:52.800]  What's happening? How did this happen?
+[01:02:55.420 --> 01:02:56.620]  Oh, magic's great.
+[01:02:57.120 --> 01:03:01.480]  Greatest trick the devil ever pulled was convincing somebody that the weird outline was shit.
+[01:03:05.840 --> 01:03:10.800]  How far into the Weird Al concert did he get before wondering when Shin Lim was going to come out?
+[01:03:12.340 --> 01:03:14.700]  This magician fucking sucks.
+[01:03:19.020 --> 01:03:22.840]  Oh, did anything, we do anything else, anything else fun happen on the trip?
+[01:03:22.900 --> 01:03:26.200]  We went to a, we went to the loudest pool on earth.
+[01:03:26.480 --> 01:03:28.620]  Yeah, we had a good, we had another good dinner.
+[01:03:29.280 --> 01:03:33.860]  Oh, we have to talk about, it can't be this episode because we have to wrap up.
+[01:03:34.380 --> 01:03:38.160]  But we have to talk about Nick's wife's obsession with baked potatoes and where that took us.
+[01:03:38.740 --> 01:03:42.100]  Did the escape room happen? I know that was on the schedule at one point.
+[01:03:42.280 --> 01:03:43.040]  No, thank God.
+[01:03:43.560 --> 01:03:45.020]  Eric was very against it.
+[01:03:45.360 --> 01:03:49.760]  No, no, everyone kept recommending the fucking mob museum though.
+[01:03:50.020 --> 01:03:52.820]  I don't, Jesus Christ, no joke.
+[01:03:53.580 --> 01:03:54.400]  Yeah, Nick went, right?
+[01:03:54.400 --> 01:03:59.920]  And as a potential, another tease, another thing that was discussed, I'm curious if it happened.
+[01:04:00.440 --> 01:04:02.720]  Pinball museum, did you go to the pinball museum?
+[01:04:03.160 --> 01:04:03.920]  Absolutely happened.
+[01:04:04.240 --> 01:04:08.960]  We did, and we filmed a really cool video that we'll probably put out on Patreon for it later.
+[01:04:09.240 --> 01:04:11.100]  We had a competition, it was great.
+[01:04:11.300 --> 01:04:14.260]  Well, I'd love to hear more about that in the next episode.
+[01:04:14.480 --> 01:04:17.200]  Whoa, what a transition, Jeff, take us away.
+[01:04:17.600 --> 01:04:23.340]  You know what, Andrew, you can listen to and hear more about it in the next episode because you're a member of our Patreon.
+[01:04:23.340 --> 01:04:30.840]  And you also subscribe to our podcast on whatever podcast feed you listen to us on and therefore you get access to it.
+[01:04:30.860 --> 01:04:35.660]  And hopefully everybody else who's listening right now is in the same boat because it's going to be a banger.
+[01:04:36.040 --> 01:04:36.880]  Bye bye.
+[01:04:37.600 --> 01:04:38.560]  I'm paying for this?
+[01:04:40.140 --> 01:04:41.800]  Yeah, well, I used your credit card.
+[01:04:42.700 --> 01:04:43.580]  Oh shit.
+[01:04:43.940 --> 01:04:45.660]  Do you have a credit card? Can I get a credit card?
+[01:04:47.020 --> 01:04:48.660]  No, Nick, we talked about this.

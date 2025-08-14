@@ -1,0 +1,17 @@
+    
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- A black circle as the background -->
+  <circle cx="16" cy="16" r="16" fill="black"/>
+  <!-- The white asterisk -->
+  <text 
+    x="16" 
+    y="16" 
+    text-anchor="middle" 
+    dominant-baseline="central" 
+    fill="white" 
+    font-size="24" 
+    font-weight="800" 
+    font-family="Inter, Arial, sans-serif">*</text>
+</svg>
+
+  

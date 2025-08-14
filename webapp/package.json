@@ -2,7 +2,7 @@
   "name": "webapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SamOhrenberg.github.io/regulation-podcast-transcriptions/webapp",
+  "homepage": "https://SamOhrenberg.github.io/regulation-database/webapp",
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1",

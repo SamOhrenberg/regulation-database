@@ -1,0 +1,1641 @@
+[00:00.000 --> 00:03.580]  This summer, try the new Strato Frappuccino Blended Beverage at Starbucks.
+[00:03.940 --> 00:06.820]  It's the classic blended iced coffee you know and love,
+[00:06.960 --> 00:10.500]  now topped with a creamy layer of handcrafted brown sugar cold foam.
+[00:10.880 --> 00:12.360]  Available for a limited time.
+[00:12.620 --> 00:14.700]  Your Strato Frappuccino is ready at Starbucks.
+[00:15.040 --> 00:16.540]  Hello and welcome to a...
+[00:17.260 --> 00:19.640]  Hello and welcome to the first ep...
+[00:19.640 --> 00:19.860]  What?
+[00:20.280 --> 00:22.680]  I mean, don't swear right at the... at the gate.
+[00:22.760 --> 00:23.520]  I mean, that doesn't help us.
+[00:23.520 --> 00:24.520]  Oh, wait, no, no, no, no.
+[00:25.200 --> 00:25.720]  S***.
+[00:26.640 --> 00:27.160]  Dumb.
+[00:28.220 --> 00:29.360]  No, shut up.
+[00:30.560 --> 00:33.920]  If you swear at the beginning, it hurts us algorithmically,
+[00:34.060 --> 00:37.580]  and I need you to know that it hurts us algorithmically.
+[00:37.680 --> 00:39.280]  There's no company, Andrew.
+[00:39.540 --> 00:40.540]  It hurts us.
+[00:41.020 --> 00:43.100]  We are the ones who are hurt by this.
+[00:43.220 --> 00:45.240]  We're like that dude in the Da Vinci Code
+[00:45.240 --> 00:47.280]  who hits himself in the back with a rope ball
+[00:47.280 --> 00:49.540]  because he loves to practice self-flagellation.
+[00:49.880 --> 00:50.700]  You know what I mean?
+[00:51.380 --> 00:51.980]  The thing is...
+[00:52.560 --> 00:53.540]  How do you flagellate?
+[00:54.420 --> 00:56.280]  You hit yourself in the back with a ball.
+[00:56.660 --> 00:56.860]  Oh.
+[00:57.500 --> 00:57.900]  Yeah.
+[00:58.280 --> 00:59.780]  I thought I explained it right at the gate.
+[00:59.780 --> 01:02.820]  I guess I've been flagellated a lot by other people.
+[01:04.280 --> 01:05.220]  Well, that's you.
+[01:05.420 --> 01:08.280]  Yeah, you've been other people flagellated, not self-flagellated.
+[01:08.300 --> 01:08.580]  Got it.
+[01:09.180 --> 01:10.040]  What are we doing, Jeff?
+[01:10.180 --> 01:10.940]  Should we start it?
+[01:12.400 --> 01:12.840]  Hello!
+[01:19.900 --> 01:26.180]  Hello and welcome to the inaugural episode of the Regulation Podcast.
+[01:26.540 --> 01:28.360]  This is episode number one.
+[01:28.540 --> 01:29.580]  My name is Jeff Ramsey.
+[01:30.220 --> 01:35.700]  With me, as always, Andrew Panton, Gavin Free, Nick Schwartz, and Eric Badour.
+[01:36.100 --> 01:37.440]  Was all that other stuff cut?
+[01:38.040 --> 01:38.540]  I don't know.
+[01:38.700 --> 01:39.780]  What happened to the other stuff?
+[01:40.140 --> 01:41.220]  That's an editor thing.
+[01:41.620 --> 01:41.860]  Oh.
+[01:42.460 --> 01:43.080]  Well, it's just...
+[01:43.440 --> 01:46.400]  Definitely call attention to it in case it was cut, though.
+[01:46.840 --> 01:50.260]  Well, I am because it's important because this is a new show, technically.
+[01:51.740 --> 01:55.620]  And we only get one opportunity, the first person to say certain things.
+[01:56.060 --> 01:57.220]  But you just said Da Vinci.
+[01:57.260 --> 01:57.980]  That's a great word.
+[01:57.980 --> 02:00.200]  You're the first use of Da Vinci on the show.
+[02:00.360 --> 02:02.340]  I was trying to plant the shit flag.
+[02:03.020 --> 02:04.400]  Backflip China shop!
+[02:07.480 --> 02:08.520]  China shop's good.
+[02:09.080 --> 02:10.840]  I don't think I would ever got to China shop, though.
+[02:10.920 --> 02:15.320]  I don't think anyone said China shop in 206 slash 205 episodes of Fuckface.
+[02:15.680 --> 02:21.980]  I would love to know if anybody said backflip China shop or Da Vinci in the last 206 episodes.
+[02:22.260 --> 02:23.960]  Backflip had to have come up.
+[02:24.360 --> 02:24.780]  Probably.
+[02:25.180 --> 02:26.060]  How many times, though?
+[02:26.500 --> 02:26.980]  At least...
+[02:27.540 --> 02:28.880]  At least twice, I would say.
+[02:28.960 --> 02:29.280]  I'll be honest.
+[02:29.440 --> 02:35.060]  I was very tempted to call a blindside 16 seconds into this recording.
+[02:35.380 --> 02:41.060]  But Andrew went in so heavy with the bup bup bup bups that I felt like that would be...
+[02:41.060 --> 02:41.840]  That would have been too much.
+[02:42.540 --> 02:45.720]  I don't believe you because you never played your blindside last time.
+[02:45.780 --> 02:47.340]  This will be the first blindside you've used.
+[02:47.480 --> 02:48.840]  Well, I was going to play it just now, you fool.
+[02:49.260 --> 02:50.660]  Are we resetting all the blindsides?
+[02:51.080 --> 02:52.080]  Well, that's a question.
+[02:52.340 --> 02:54.560]  Are we resetting all the rules in general?
+[02:54.680 --> 02:55.860]  Do we have blindsides?
+[02:55.860 --> 02:56.940]  That was a fuckface thing.
+[02:57.040 --> 02:57.780]  This is regulation.
+[02:58.120 --> 03:02.600]  We should say to first-time listeners, first-time discoverers of this podcast,
+[03:03.260 --> 03:07.580]  we did 205 episodes of a previous podcast.
+[03:08.400 --> 03:13.080]  Yeah, well, we made it to episode 206, but we recorded 205.
+[03:13.360 --> 03:13.620]  Right.
+[03:13.860 --> 03:17.900]  And then we all lost our jobs.
+[03:18.160 --> 03:21.280]  So now we're doing it again with a different name.
+[03:21.820 --> 03:25.420]  And the listeners, the regulation listeners, have been...
+[03:25.420 --> 03:28.920]  I guess the comment leavers have been asking very important questions.
+[03:29.500 --> 03:32.080]  Does their comment leaver status get reset?
+[03:32.260 --> 03:33.160]  And I think it does.
+[03:33.260 --> 03:34.040]  I do too.
+[03:34.420 --> 03:37.800]  I think if you haven't left a comment yet on Regulation Podcast,
+[03:38.320 --> 03:42.200]  you can retain regulation listener status for as long as you want.
+[03:42.720 --> 03:43.800]  Now, here's the thing.
+[03:43.940 --> 03:46.660]  We are five-way business owners here, so we all get a vote.
+[03:47.460 --> 03:50.880]  I vote that they are still comment leavers.
+[03:51.860 --> 03:53.540]  I say status remains.
+[03:53.540 --> 03:56.480]  So we have two for reset, one for remain.
+[03:57.520 --> 04:00.320]  Yeah, I still vote that it's a clean, it's a fresh slate.
+[04:00.380 --> 04:01.300]  Yeah, I think it's a reset.
+[04:01.580 --> 04:03.180]  I think reset resetting everything.
+[04:04.100 --> 04:05.900]  And Nick said, I think so as well.
+[04:06.020 --> 04:08.080]  So it's four to one, majority rules.
+[04:08.600 --> 04:10.340]  That's fine, I got no problem.
+[04:10.420 --> 04:13.220]  All right, congratulations everyone who is...
+[04:13.980 --> 04:17.500]  literally all of you right now, as of this recording,
+[04:17.940 --> 04:19.660]  you are all regulation listeners.
+[04:20.180 --> 04:22.860]  But I would say there is something to be said
+[04:22.860 --> 04:26.860]  for people who blow it in the first, in the comments of the first episode.
+[04:26.980 --> 04:29.740]  If you want to trade in immediately for comment lever,
+[04:29.980 --> 04:32.360]  I think there's, I think that's honorable.
+[04:32.700 --> 04:33.220]  Yeah.
+[04:33.620 --> 04:34.700]  So we'll see what happens.
+[04:35.040 --> 04:38.360]  I wonder who, I don't even know how we would determine it,
+[04:38.520 --> 04:41.920]  but I wonder who the very first comment lever will be.
+[04:42.660 --> 04:42.960]  Hobby.
+[04:46.420 --> 04:51.760]  Okay, that's a very, very, very, very old reference
+[04:51.760 --> 04:54.760]  from like two companies ago at this point.
+[04:54.940 --> 04:56.280]  I don't even know if we can say hobby.
+[04:56.440 --> 04:58.480]  That might be Warner IP at this point.
+[04:59.880 --> 05:01.080]  We can't make that joke.
+[05:01.880 --> 05:05.080]  Do we, can we even talk about what IP we do own at this point?
+[05:05.240 --> 05:06.380]  Now that we're recording this?
+[05:07.200 --> 05:07.600]  Nope.
+[05:07.700 --> 05:13.180]  Well, we can't, we can't say we don't have our IP currently.
+[05:13.580 --> 05:14.400]  You're right, we shouldn't.
+[05:15.100 --> 05:17.080]  Yeah, we're in the process of working all that out.
+[05:17.240 --> 05:17.600]  There you go.
+[05:17.700 --> 05:18.580]  We're figuring it out.
+[05:18.580 --> 05:21.900]  I think the fact that we're on a different feed is an indication of that.
+[05:22.320 --> 05:24.260]  I don't think there's anything wrong saying we're working on it,
+[05:24.500 --> 05:26.700]  and we are hoping to soon have it.
+[05:26.700 --> 05:29.780]  Yeah, we're working in good faith with other people who are working in good faith.
+[05:30.280 --> 05:33.620]  Hey, I wanted to do something a little special because this is an inaugural episode.
+[05:33.840 --> 05:36.240]  So I've been working on something in the background,
+[05:36.320 --> 05:37.960]  something I kind of teased in the past.
+[05:38.620 --> 05:41.120]  I proposed as an idea, I won't say how long ago,
+[05:41.240 --> 05:44.660]  but you know, somewhere in the last 206, 205 episodes.
+[05:45.760 --> 05:49.060]  And I would like, I think I should just give it to you guys
+[05:49.060 --> 05:51.500]  and let you all like sync up and play it yourselves.
+[05:52.160 --> 05:57.400]  But I prepared a little file that I think you guys might be interested in.
+[05:57.460 --> 05:58.020]  You've got a clip?
+[05:58.480 --> 06:00.940]  I got a clip. Yeah, it's an audio file.
+[06:01.720 --> 06:02.820]  I'm waiting for a DONG file.
+[06:03.780 --> 06:06.400]  It's not a DONG file. Let me find it.
+[06:06.740 --> 06:08.020]  As a quick aside.
+[06:08.540 --> 06:08.820]  Yeah.
+[06:09.000 --> 06:12.380]  Okay, happy sunshine day dot wav.
+[06:12.380 --> 06:17.360]  This is a 20 megabyte file that is less than a minute.
+[06:17.420 --> 06:19.160]  55 seconds long.
+[06:19.820 --> 06:23.900]  Okay, I'm going to hit play in 3, 2, 1.
+[06:25.380 --> 06:27.280]  Oh, come on, dude.
+[06:28.940 --> 06:30.040]  Come on.
+[06:30.240 --> 06:31.680]  Oh, it's so loud too.
+[06:32.200 --> 06:33.240]  You know why it's loud?
+[06:33.400 --> 06:36.020]  Because it sounds like a waterfall. It works.
+[06:37.640 --> 06:38.180]  Hang on.
+[06:39.400 --> 06:41.100]  It sounds like a water feature.
+[06:41.100 --> 06:45.500]  Eric yells at me for saying shit at the first 30 seconds of the show,
+[06:45.640 --> 06:48.960]  and Geoff is just sharing 55 seconds of piss.
+[06:49.340 --> 06:52.400]  Yeah, but algorithmically, that's not going to get picked up on.
+[06:52.400 --> 06:53.520]  I don't care.
+[06:54.180 --> 06:56.740]  You don't think the AI is listening out for piss?
+[06:58.140 --> 07:00.060]  No. Oh, now we get to hear the dribbles.
+[07:00.620 --> 07:02.500]  Oh, they go for so long. Please listen.
+[07:02.920 --> 07:04.480]  I prepared this specially for you.
+[07:04.560 --> 07:09.140]  Geoff, this is... I find this deeply disturbing in a way I did not anticipate.
+[07:09.860 --> 07:10.300]  Excellent.
+[07:11.460 --> 07:12.620]  I hate this.
+[07:12.780 --> 07:14.840]  I had to look at Gavin's vagina last week, all right?
+[07:14.940 --> 07:15.500]  You guys can listen to...
+[07:15.500 --> 07:16.340]  That's what I was going to say.
+[07:16.480 --> 07:19.660]  Did you expect that photo to be out, Gavin? Did anyone run that by you?
+[07:19.820 --> 07:21.860]  I was shocked that that made it into the...
+[07:21.860 --> 07:24.160]  Yeah, he said it in the episode. He didn't care.
+[07:24.740 --> 07:25.040]  Okay.
+[07:25.540 --> 07:30.460]  So anyway, for the audience, my supposition in the previous podcast
+[07:30.900 --> 07:33.620]  was that if you recorded yourself peeing
+[07:33.620 --> 07:37.440]  and then laid the urine tracks over each other enough,
+[07:37.440 --> 07:42.240]  you could eventually make a sound that essentially sounds like Niagara Falls, right?
+[07:42.460 --> 07:43.860]  Just like a raging waterfall.
+[07:44.060 --> 07:48.100]  What you guys just listened to was just 11 pees.
+[07:48.940 --> 07:52.080]  Wow. Well, it sounded like a kind of a fancy water feature.
+[07:52.480 --> 07:53.440]  Like something like a fountain.
+[07:53.940 --> 07:55.620]  I really hated the starting and stopping.
+[07:55.900 --> 07:59.260]  Imagine 89 more pees laid on top of that.
+[07:59.560 --> 08:04.300]  Imagine 100 urines all stacked together and auditioned and played at the same time.
+[08:04.660 --> 08:06.680]  It would be insane.
+[08:06.680 --> 08:08.140]  And then that's where we're headed.
+[08:08.240 --> 08:10.020]  That's my next goal. I'm going to get to 100.
+[08:10.280 --> 08:12.300]  How long do you think it would take you to get to 100?
+[08:12.840 --> 08:17.540]  Dude, I've been recording them since I proposed that to you guys that day.
+[08:17.940 --> 08:21.160]  And you'd be amazed at how many recordings just don't work out.
+[08:21.500 --> 08:23.360]  That's the 11 that were good enough.
+[08:24.600 --> 08:25.760]  The good takes?
+[08:26.080 --> 08:27.720]  How do you mess up a piss?
+[08:28.120 --> 08:31.580]  You have your fucking thumb over the mic so it doesn't sound good.
+[08:31.600 --> 08:32.860]  It's too far away from the toilet.
+[08:33.040 --> 08:35.160]  Or you're pissing in a public urinal
+[08:35.160 --> 08:37.620]  it's like you're trying to do it on the down low.
+[08:38.700 --> 08:39.880]  Those were all in my house.
+[08:40.000 --> 08:42.940]  Every one of those was in my house.
+[08:43.060 --> 08:47.280]  And I'll be honest, a lot of times I don't remember to record.
+[08:48.200 --> 08:50.940]  Thumb over the mic like a grandma on FaceTime.
+[08:52.240 --> 08:54.540]  Why are you trying to record it in public?
+[08:55.420 --> 08:56.680]  Well, not always.
+[08:58.280 --> 09:01.220]  Because you don't want to let a good piss go to waste, man.
+[09:01.220 --> 09:04.480]  You imagine going into a bathroom and seeing a guy standing at a urinal
+[09:04.480 --> 09:06.600]  with headphones on and a fucking boom mic.
+[09:09.060 --> 09:12.940]  Well, if he's got the boom, he's not got any hands on his cock.
+[09:14.700 --> 09:15.920]  He's going to be free swinging.
+[09:16.260 --> 09:18.620]  Of all the things I think we've done on the show, Jeff,
+[09:18.680 --> 09:21.640]  this is the thing that has made me the most nauseous, I think.
+[09:21.740 --> 09:23.400]  Oh, you actually feel sick?
+[09:24.000 --> 09:25.620]  Yeah, actually, I don't know something about that.
+[09:25.680 --> 09:28.500]  I do just the sound of just the sound of rushing water, man.
+[09:28.500 --> 09:34.160]  I'm trying to think of a design of something like where you could hold a boom mic
+[09:34.160 --> 09:37.880]  and from the end of the boom mic would be like a hammock of fabric
+[09:37.880 --> 09:41.680]  that you could rest your penis in and potentially steer the penis
+[09:41.680 --> 09:42.840]  and the boom mic together.
+[09:43.200 --> 09:46.820]  If you could design that in such a way so that you can flip it around
+[09:46.820 --> 09:49.940]  to the back to catch farts, I'll pay you $500 for that.
+[09:50.040 --> 09:53.560]  I don't think flipping it quickly, whipping the boom around to the back
+[09:53.560 --> 09:55.980]  would yank your penis pretty severely, I think.
+[09:55.980 --> 09:58.660]  You got to figure out something in the design, though,
+[09:58.700 --> 10:00.520]  because the hardest thing in the world...
+[10:00.520 --> 10:01.740]  Oh, like a quick release.
+[10:02.360 --> 10:05.140]  I wish to God I could have my butt mic'd constantly.
+[10:05.680 --> 10:10.180]  I miss so many farts or the act of trying to get a phone to your butt
+[10:10.180 --> 10:11.940]  to record the fart ruins the fart.
+[10:12.320 --> 10:15.820]  I've eaten a lot of farts just in the process of trying to record them.
+[10:16.300 --> 10:18.360]  Well, maybe a double-ended boom mic then.
+[10:18.500 --> 10:19.300]  I've eaten a lot of farts.
+[10:20.080 --> 10:22.400]  That's an interesting idea, a double-ended boom mic.
+[10:22.740 --> 10:25.780]  Like a boom halo that sits kind of around your midsection.
+[10:25.980 --> 10:28.580]  With microphones pointed at your dick and your ass.
+[10:29.000 --> 10:30.780]  It'd be like stereo for a giant.
+[10:34.890 --> 10:36.390]  Yeah, yeah, kind of.
+[10:38.990 --> 10:43.410]  Anyway, I'll be back when I get another 89 solid pisses recorded,
+[10:43.550 --> 10:46.010]  and then we'll see if it really does sound like Niagara Falls.
+[10:46.090 --> 10:49.750]  But I'm pretty impressed with what only 11 Ps sounds like.
+[10:49.950 --> 10:51.570]  I'm surprised, yeah. That's pretty effective.
+[10:52.550 --> 10:55.210]  Yeah, it was. It was overpowering.
+[10:55.330 --> 10:57.310]  I think I'm more of a fart recording guy.
+[10:57.310 --> 10:59.450]  If I had to pick between one or the two,
+[10:59.550 --> 11:02.670]  if I had to support one of your endeavors, I'm more fart.
+[11:03.330 --> 11:04.550]  I enjoy the farts more.
+[11:05.110 --> 11:06.370]  Here's the beauty of that, Andrew.
+[11:06.730 --> 11:09.290]  You don't have to pick. I'm going to do both regardless.
+[11:10.090 --> 11:11.050]  That's fair.
+[11:11.710 --> 11:14.610]  So you get the benefit of both either way.
+[11:15.390 --> 11:19.450]  It'd be really funny if we eventually do another vinyl way down the road.
+[11:19.530 --> 11:23.770]  If there is like a track of just a looping fart of yours.
+[11:23.810 --> 11:27.170]  Like the whole rotation of the disc is just different farts.
+[11:27.310 --> 11:29.770]  It just plays in a nonstop loop.
+[11:29.890 --> 11:31.070]  If you put it in that grid.
+[11:32.030 --> 11:37.650]  Because the goal with the farts for me is to release an audiobook
+[11:38.310 --> 11:40.490]  online called A Thousand and One Farts, right?
+[11:40.650 --> 11:41.470]  And it's just those farts.
+[11:42.010 --> 11:44.710]  If we could then press those onto vinyl,
+[11:45.110 --> 11:48.370]  I think that's a great accompany piece for the audiobook.
+[11:49.270 --> 11:50.690]  And vinyl is highly collectible.
+[11:50.830 --> 11:53.070]  I mean, as is evidenced by our previous podcast,
+[11:53.630 --> 11:57.790]  I'm looking at a blue and a white version of the Fuckface episode 16 vinyl
+[11:57.790 --> 11:59.450]  on my desk right now, and they're just gorgeous.
+[11:59.670 --> 12:01.230]  I can't wait to get back to that.
+[12:01.570 --> 12:03.410]  Yeah, they're really nice.
+[12:04.070 --> 12:08.030]  What's the quickest before we leave the bathroom really quick?
+[12:08.710 --> 12:12.510]  What's the quickest, most unexpected issue you've had in the bathroom?
+[12:13.330 --> 12:16.690]  Have you ever had any accidents that were not necessarily toilet?
+[12:16.910 --> 12:17.750]  Like, have you fallen?
+[12:18.150 --> 12:19.650]  You ever fallen in a bathroom before?
+[12:20.670 --> 12:24.050]  I think I sneezed myself off the bog once.
+[12:26.610 --> 12:29.210]  How? Like, diagonally?
+[12:29.990 --> 12:30.730]  Where did you go?
+[12:31.090 --> 12:34.850]  I sneezed, like, I jolted forwards and then I started to rock forwards.
+[12:34.950 --> 12:40.070]  So I tried to, like, hike my legs upwards to try and clamp the bowl,
+[12:40.270 --> 12:43.750]  but it was too slick and I just slid and I just fell face first.
+[12:44.150 --> 12:47.690]  And I really made a mess of my cheeks.
+[12:47.950 --> 12:49.370]  I clenched up real good.
+[12:51.110 --> 12:51.830]  Oh, God.
+[12:55.270 --> 12:56.170]  When was that?
+[12:57.190 --> 12:59.950]  I would say 2008, maybe.
+[13:00.390 --> 13:02.010]  That wasn't at one of my houses, was it?
+[13:02.490 --> 13:03.530]  No. Why? How many you got?
+[13:05.410 --> 13:08.990]  Right now, one, but you lived with me at different points in different places.
+[13:09.430 --> 13:12.370]  No, I didn't. I didn't, like, shoot feces up into the air or anything.
+[13:12.450 --> 13:13.070]  It was all contained.
+[13:13.310 --> 13:13.470]  Oh, God.
+[13:15.350 --> 13:17.350]  Because I've sensed an effective clench.
+[13:17.350 --> 13:19.710]  That is so much worse than I was imagining.
+[13:20.130 --> 13:26.030]  I think I told this story on this very podcast about how I fell through the...
+[13:26.030 --> 13:28.430]  I sat on a toilet that fell through the floor once in the army.
+[13:30.510 --> 13:33.930]  But I also woke up in a lot of bathrooms back in my heavy drinking days.
+[13:33.990 --> 13:36.310]  So I definitely have passed out in a lot of bathrooms.
+[13:36.830 --> 13:40.570]  And I guess didn't hit anything too dangerous because I never woke up bloody.
+[13:40.730 --> 13:43.910]  But yeah, I definitely woke up on the floor and wondered how I got there a bunch.
+[13:44.310 --> 13:46.470]  Where did you wake up after you huffed all the gasoline?
+[13:48.350 --> 13:50.210]  After I huffed all that time in the army?
+[13:50.610 --> 13:52.910]  Yeah, because I mean, there was a lot of gas in my high school years.
+[13:54.790 --> 13:59.050]  I woke up in the back of a pickup truck being taken to the hospital.
+[14:00.010 --> 14:00.810]  Oh, man.
+[14:01.830 --> 14:02.230]  Yeah.
+[14:04.330 --> 14:07.210]  Imagine how much simpler life would have been if I just never woke up.
+[14:07.570 --> 14:08.390]  What do you mean?
+[14:09.110 --> 14:09.750]  For you?
+[14:09.950 --> 14:11.250]  I just would have avoided all this.
+[14:11.390 --> 14:11.610]  Yeah.
+[14:13.570 --> 14:14.710]  Something to think about.
+[14:15.010 --> 14:16.710]  My whole life would be completely different.
+[14:16.710 --> 14:18.170]  I would live somewhere else.
+[14:18.450 --> 14:19.750]  It might be really good.
+[14:19.830 --> 14:21.230]  Oh, it might be really good.
+[14:23.010 --> 14:25.470]  I, uh, the other day I woke up.
+[14:25.670 --> 14:27.870]  I went to use the bathroom like this is immediately.
+[14:28.070 --> 14:29.830]  I start my day, wake up, go into the bathroom.
+[14:30.130 --> 14:37.650]  In the act of getting ready to sit on the toilet, my left foot slid like it was just it slid across
+[14:37.650 --> 14:38.250]  the floor.
+[14:38.730 --> 14:39.950]  I fell down.
+[14:40.350 --> 14:41.210]  Knees first.
+[14:41.330 --> 14:43.070]  Are you still facing the toilet at this point?
+[14:43.390 --> 14:44.990]  My back is to the toilet.
+[14:44.990 --> 14:45.670]  So you're back.
+[14:45.750 --> 14:47.230]  You're like about to squat.
+[14:47.530 --> 14:48.750]  I'm about to squat.
+[14:48.770 --> 14:51.670]  And then my left foot just slides unexpectedly.
+[14:52.010 --> 14:55.250]  And I immediately go down and I'm not expecting it.
+[14:55.570 --> 14:56.490]  Go knees first.
+[14:56.730 --> 15:02.670]  Head into that wastebasket that I told you about that I put my foot in before.
+[15:03.370 --> 15:04.550]  And it was just it was shocking.
+[15:04.950 --> 15:07.570]  And it was the most unexpected way to start a day.
+[15:07.650 --> 15:11.790]  And I just had that moment of like removing my head from my wastebasket going.
+[15:12.210 --> 15:14.770]  What do I how do I go on from here?
+[15:14.770 --> 15:16.710]  Do I just go back to bed?
+[15:16.910 --> 15:18.090]  Like, what is this?
+[15:18.270 --> 15:19.370]  Did it smell like foot?
+[15:19.930 --> 15:20.850]  It didn't.
+[15:20.910 --> 15:21.770]  It didn't smell like anything.
+[15:21.910 --> 15:25.210]  It's just I'm so glad it's empty and that nobody uses it.
+[15:25.310 --> 15:27.770]  It would be it would have been real gross potentially.
+[15:27.970 --> 15:30.150]  But it was just head in basket.
+[15:30.430 --> 15:32.130]  So you you were hanging dong at this point.
+[15:33.030 --> 15:33.330]  Yes.
+[15:34.770 --> 15:42.370]  Hang and dong full on side splits, legs drop head forward right into the wooden wastebasket.
+[15:42.670 --> 15:44.750]  I definitely would have gone back to bed.
+[15:44.770 --> 15:45.970]  What a ludicrous start.
+[15:46.030 --> 15:46.710]  Just try again.
+[15:47.770 --> 15:48.930]  That's a Mulligan on the whole day.
+[15:49.610 --> 15:51.410]  It was such a surprise.
+[15:51.590 --> 15:55.750]  None of it hurt like it was just a totally like I didn't feel any pain of falling.
+[15:56.010 --> 15:56.830]  It was just shock.
+[15:57.130 --> 15:58.890]  You didn't pull any muscles or anything.
+[15:59.050 --> 16:00.210]  You know, muscles pulled.
+[16:00.610 --> 16:00.790]  Wow.
+[16:00.930 --> 16:05.810]  Yeah, it's just I got back up and I sat on the toilet and I thought, what the fuck?
+[16:05.950 --> 16:06.750]  What is today?
+[16:07.550 --> 16:08.570]  What is happening?
+[16:09.710 --> 16:16.570]  You just unlocked a memory of me that I probably haven't thought of in 20 years before back
+[16:16.570 --> 16:17.190]  before RT.
+[16:17.690 --> 16:20.810]  But when I was still living in Austin, when I like when I first started working the tech
+[16:20.810 --> 16:23.030]  center and I was like, I think I was living with Gus at the time.
+[16:24.090 --> 16:25.870]  I had my very first house.
+[16:25.910 --> 16:30.230]  One of the bands that I used to roadie for back in the day was in town and they were
+[16:30.230 --> 16:32.610]  staying with me while they were visiting.
+[16:33.430 --> 16:38.350]  And one of the members of the band was taking a shower in my like second bathroom.
+[16:38.350 --> 16:40.330]  Not my master bathroom, but, you know, my second bathroom.
+[16:40.910 --> 16:44.310]  And we heard this like slamming and banging and commotion.
+[16:44.670 --> 16:46.070]  And we didn't know what the hell was going on.
+[16:46.090 --> 16:49.550]  We ran in and my bathroom was just a war zone.
+[16:49.790 --> 16:56.970]  And what happened was he said he was getting out of the shower and he tripped on the lip
+[16:56.970 --> 16:59.490]  of the shower like his foot did on the side of the tub.
+[16:59.650 --> 17:05.350]  And he had he was holding the shower curtain with his like his left hand when he did it.
+[17:05.350 --> 17:10.250]  And so he fell forward and he pulled to he's a bigger guy.
+[17:10.350 --> 17:14.310]  He pulled and the shower curtain and the rod came down on top of him.
+[17:14.330 --> 17:22.530]  So he grabbed at the he like fell into the wall and grabbed at the towel railing and
+[17:22.530 --> 17:25.750]  ripped it off the wall, which forced him to bounce back.
+[17:26.090 --> 17:31.110]  He slammed into my toilet and broke the toilet cover off of my toilet.
+[17:31.110 --> 17:37.250]  And then his shoulder hit into the countertop, which was one of those molded plastic counter
+[17:37.250 --> 17:38.530]  with the sink and a little like a shell.
+[17:38.730 --> 17:43.070]  And he cracked the the edge of my countertop completely off.
+[17:43.170 --> 17:48.070]  And he was just on the ground, rolled up in a towel in the in the shower curtain.
+[17:48.210 --> 17:51.950]  And my entire bathroom was ruined in the span of four seconds.
+[17:52.310 --> 17:56.170]  It sounds like he was playing skate like we're trying to break as much as possible.
+[17:56.250 --> 17:59.310]  Yeah, right. It was like it was like it was like burnout revenge.
+[17:59.310 --> 18:07.170]  It was like O.J. Simpson in not when he killed his wife, but when he was in Naked Gun and he
+[18:07.170 --> 18:10.610]  was just like, you know, it's like foot in the bear trap, get shot out the window.
+[18:10.910 --> 18:16.070]  It was 100 percent like that, which also just reminded me of the time that we did Rain Run,
+[18:16.170 --> 18:18.190]  which was one of those old videos on the RT site, Gavin.
+[18:18.450 --> 18:22.710]  And when I split my leg open and I ran into the bathroom and I bent over to look at my
+[18:22.710 --> 18:26.330]  leg and when I stood up, I knocked my glass shelf off and I was naked and all the glass
+[18:26.330 --> 18:28.490]  and everything in the bathroom slammed to the ground around me.
+[18:28.550 --> 18:32.890]  And I was covered in I was covered in a wasteland of broken glass with a fucking gash in my leg.
+[18:33.350 --> 18:37.910]  I think that was time number one of probably six that your penis fell out in front of me.
+[18:38.990 --> 18:41.110]  Yeah, I think that was the first time. Yeah.
+[18:42.190 --> 18:45.010]  That guy, it sounded like he was a human pinball.
+[18:45.150 --> 18:49.470]  Like, you know, when it gets caught in the bumpers, it's like bouncing all around.
+[18:49.830 --> 18:50.890]  He did that to your bathroom.
+[18:51.570 --> 18:55.130]  Nobody would know that he was the saxophone player in a very popular band either.
+[18:56.850 --> 18:59.430]  Caused me a lot of damage, caused a lot of damage to a
+[18:59.430 --> 19:01.330]  bathroom that I didn't have the money to fix at the time.
+[19:01.790 --> 19:06.210]  You also had you had parties where people would break your sinks and toilets and stuff.
+[19:06.430 --> 19:09.650]  That did happen at the next house one time at a party.
+[19:09.790 --> 19:13.490]  Somebody like sat on a pedestal sink and just fucking cracked it in half.
+[19:16.370 --> 19:19.530]  Yeah, it was a friend of a friend, if I remember correctly.
+[19:21.850 --> 19:24.470]  This episode is brought to you by State Farm.
+[19:24.470 --> 19:28.110]  Checking off the boxes on your to-do list is a great feeling.
+[19:28.490 --> 19:30.330]  And when it comes to checking off coverage,
+[19:30.530 --> 19:33.750]  a State Farm agent can help you choose an option that's right for you.
+[19:33.930 --> 19:38.210]  Whether you prefer talking in person, on the phone, or using the award-winning app,
+[19:38.450 --> 19:41.930]  it's nice knowing you have help finding coverage that best fits your needs.
+[19:42.350 --> 19:44.190]  Like a good neighbor, State Farm is there.
+[20:16.590 --> 20:22.870]  Would you, if you paid $1,000, could you shoot a horse in the head?
+[20:25.130 --> 20:28.610]  Wait, I have to pay to shoot the horse, or I get paid to shoot the horse?
+[20:29.010 --> 20:30.430]  You pay to shoot the horse.
+[20:30.870 --> 20:31.270]  What?
+[20:33.670 --> 20:34.570]  Do I get in trouble?
+[20:35.450 --> 20:35.850]  No.
+[20:36.630 --> 20:41.950]  So it's like the $1,000 keeps me legally clear for horse murder.
+[20:42.550 --> 20:43.890]  Is the horse ill in any way?
+[20:44.570 --> 20:46.210]  No, the horse is perfectly healthy.
+[20:46.250 --> 20:47.230]  Oh, Jesus Christ.
+[20:47.350 --> 20:48.110]  How old is the horse?
+[20:48.430 --> 20:51.910]  I think I could go take out some horses and just get away with it.
+[20:52.010 --> 20:54.450]  It's like $13,000 right there I'm saving.
+[20:55.030 --> 20:55.850]  Oh my God.
+[20:56.410 --> 20:58.770]  Why would I pay to kill a horse?
+[20:59.110 --> 20:59.710]  Yeah, I don't...
+[20:59.710 --> 21:06.890]  I'm glad you asked, because it's Christopher Reeve's horse the night before he got paralyzed.
+[21:07.550 --> 21:12.330]  It's like a shoot baby Hitler in the bassinet kind of a scenario.
+[21:12.630 --> 21:14.990]  You kill Superman's horse.
+[21:15.590 --> 21:18.010]  Now would you pay the grand to go kill his horse?
+[21:18.630 --> 21:20.090]  You know, that'd be so funny too,
+[21:20.130 --> 21:23.770]  because Christopher Reeves would then make it his life's goal to ruin you.
+[21:23.770 --> 21:27.450]  And the whole time you're like, listen, I'm from the future. You don't understand.
+[21:29.090 --> 21:30.950]  Your neck was going to be broken.
+[21:31.530 --> 21:35.650]  I've saved your life and you will never believe me.
+[21:35.730 --> 21:38.110]  You just think I'm a psycho who shot your show horse.
+[21:39.510 --> 21:41.030]  Do we need to kill the horse?
+[21:41.270 --> 21:43.030]  Couldn't we just take the horse away?
+[21:43.150 --> 21:44.630]  Couldn't we just steal the horse for a day?
+[21:44.950 --> 21:45.390]  You don't have time.
+[21:45.770 --> 21:47.690]  I don't have time?
+[21:48.050 --> 21:49.090]  Okay, here's what happens.
+[21:49.090 --> 21:55.190]  You walk backwards in time and you have eight seconds with the horse and you've brought a gun.
+[21:56.290 --> 21:58.490]  You can't convince the horse in eight seconds not to do it.
+[21:58.610 --> 22:00.330]  And I don't think you could take it down barehanded.
+[22:01.750 --> 22:02.150]  Yeah.
+[22:03.110 --> 22:05.290]  Yeah, I'm not killing a horse.
+[22:05.650 --> 22:06.830]  So you wouldn't do it?
+[22:06.850 --> 22:08.490]  So you're killing Christopher Reeves then?
+[22:08.910 --> 22:09.070]  Yeah.
+[22:09.410 --> 22:13.210]  No, it's just, you know, you can't fuck with time like that.
+[22:13.310 --> 22:17.310]  If movies have taught me anything, you can't adjust time.
+[22:17.310 --> 22:19.110]  It always just makes things worse.
+[22:20.030 --> 22:21.270]  I don't think I can interfere.
+[22:21.430 --> 22:22.430]  You think it's destined to happen no matter what?
+[22:22.850 --> 22:27.230]  I think, yeah, it's either destined to happen no matter what,
+[22:27.330 --> 22:32.910]  or by it not happening, it could have impacts in ways unimaginable.
+[22:34.010 --> 22:37.630]  So, hold on, are you saying that if you had the opportunity
+[22:37.630 --> 22:41.930]  to go back in time and shoot that wastebasket before you ended up with your head in it,
+[22:41.950 --> 22:42.470]  you wouldn't do it?
+[22:42.910 --> 22:45.150]  Oh, I'd shoot the fuck out of that wastebasket.
+[22:45.430 --> 22:46.090]  There you go.
+[22:46.090 --> 22:48.050]  Yeah, that's a good point.
+[22:48.490 --> 22:51.290]  Can I tell, just as an aside, one of my favorite,
+[22:51.390 --> 22:56.710]  I actually have a horse shooting story that I've brought me joy for years.
+[22:57.010 --> 22:57.690]  Not a real horse.
+[22:59.710 --> 23:05.370]  But I do have, this touches into one of my favorite memories,
+[23:05.490 --> 23:07.650]  which I know it sounds horrible in this context.
+[23:08.330 --> 23:09.550]  We're going to unravel this onion.
+[23:10.370 --> 23:13.970]  Back in Red Dead Redemption, I don't know, did you guys play much of Red Dead online?
+[23:14.230 --> 23:16.030]  Yeah, I used to do a ton of videos in it.
+[23:16.030 --> 23:20.210]  They had, there's a heist, like you could do heists in that game,
+[23:20.270 --> 23:21.670]  essentially of like Wild West stuff.
+[23:22.050 --> 23:23.810]  And they were like chaptered heists.
+[23:23.990 --> 23:27.730]  So we're going through and we're doing this heist and we're working through and it's like
+[23:27.730 --> 23:32.610]  four or five sections and we get to the last section where we've we've taken all the gold
+[23:32.610 --> 23:36.590]  and we need to escape and we're like reading the mission objective.
+[23:36.830 --> 23:42.790]  And while we're doing it, my friend Dan, you can just hear pop, pop, pop.
+[23:42.930 --> 23:45.450]  And we look at him and we go, what are you doing?
+[23:45.450 --> 23:47.070]  And he's like, I'm stopping him.
+[23:47.410 --> 23:52.150]  He was shooting all of the horses on the carriage in the head because he thought
+[23:52.150 --> 23:57.270]  he thought that that was like the police's carriage that they would chase us on.
+[23:57.390 --> 23:58.710]  It was our carriage.
+[23:58.850 --> 24:03.870]  He murdered three of our four horses before we even tried to escape.
+[24:03.970 --> 24:05.690]  So we're like, no, you idiot.
+[24:05.870 --> 24:07.490]  We got it. That's our carriage.
+[24:07.630 --> 24:09.710]  You've killed three of the four.
+[24:09.830 --> 24:10.950]  Now we got to try to get out of here.
+[24:11.090 --> 24:11.950]  You've got one horsepower.
+[24:11.950 --> 24:15.450]  We have one horsepower and we're trying to escape Mexico.
+[24:15.570 --> 24:17.930]  And we're getting shot at from all sides.
+[24:18.110 --> 24:21.770]  And it's supposed to be like you can make it because of you have four horses.
+[24:22.110 --> 24:25.870]  But because he was trying to do he like popped all of our tires,
+[24:26.050 --> 24:28.210]  essentially, right before we tried to escape.
+[24:28.570 --> 24:29.910]  And that horse died.
+[24:30.130 --> 24:31.570]  He shot three horses.
+[24:31.570 --> 24:33.130]  Did he pay you three thousand dollars?
+[24:33.510 --> 24:35.690]  He did not. No, we actually probably lost.
+[24:35.990 --> 24:37.530]  He owes you three grand. I'd go collect.
+[24:37.570 --> 24:38.570]  Yeah, the heist failed.
+[24:38.570 --> 24:43.390]  So we did not get any of the money because he murdered all of our getaway horses.
+[24:43.610 --> 24:47.470]  Did the remaining horse have to drag three horse corpses or were they left behind?
+[24:47.910 --> 24:49.070]  They were left behind.
+[24:49.550 --> 24:50.830]  Okay, well, at least they got help.
+[24:51.350 --> 24:52.110]  They did. Yeah.
+[24:52.330 --> 24:54.810]  How often do you think when you see on the news,
+[24:54.950 --> 24:57.050]  like some senseless, horrible thing like that,
+[24:57.090 --> 25:00.450]  like some psychopath went into a zoo and shot a zebra or something,
+[25:01.950 --> 25:05.770]  that it's actually like a time travel thing where somebody's trying to do.
+[25:05.850 --> 25:07.630]  It's like a Christopher Reeves horse type situation.
+[25:07.630 --> 25:09.250]  And just nobody believes it.
+[25:09.350 --> 25:10.810]  I don't think you should ever write that off.
+[25:11.030 --> 25:16.050]  Yeah, you should always consider that as being a potential reason for anything
+[25:17.410 --> 25:21.030]  that's tragic, but nonsensical on its face.
+[25:21.370 --> 25:24.350]  So who out of the group would do it?
+[25:24.830 --> 25:32.010]  I would. I wouldn't pay to shoot Christopher Reeves horse, but I would do it.
+[25:32.410 --> 25:34.030]  You have to pay for the time travel.
+[25:35.530 --> 25:36.930]  It's the ticket to get there.
+[25:36.930 --> 25:39.290]  I'd rather spend the grand on the better.
+[25:39.610 --> 25:41.170]  I'm not that big of a Christopher Reeves fan.
+[25:41.310 --> 25:43.890]  There's probably something else I could spend the thousand dollars on time travel wise.
+[25:44.430 --> 25:47.090]  So you're valuing the next thousand dollars you spend on
+[25:47.090 --> 25:49.530]  Christopher Reeves being alive right now or dead.
+[25:50.330 --> 25:52.730]  Well, the problem with...
+[25:52.730 --> 25:53.430]  Is it Reeves or Reeves?
+[25:54.490 --> 25:56.910]  I think it's Reeves, but...
+[25:57.730 --> 25:59.630]  Oh, no, it's Keanu Reeves. Is it just Reeves?
+[25:59.650 --> 26:00.730]  I think it's Christopher Reeves.
+[26:00.730 --> 26:04.610]  I think it's Christopher Reeves and then George Reeves was the one before him.
+[26:05.850 --> 26:09.210]  No relation to Keanu, I assume, because I don't think they were Canadian.
+[26:09.550 --> 26:10.390]  I know Keanu is.
+[26:10.630 --> 26:12.490]  Did we explain that there's the three of us talking?
+[26:12.630 --> 26:15.910]  And also we have Eric, the producer, Nick, the laughing guy.
+[26:16.170 --> 26:16.870]  You just did.
+[26:17.090 --> 26:17.330]  Yeah.
+[26:17.550 --> 26:17.810]  Okay.
+[26:17.930 --> 26:18.210]  Good job.
+[26:18.530 --> 26:21.230]  I mean, he named us all at the beginning, which was very nice.
+[26:21.330 --> 26:22.510]  I thought that was a...
+[26:22.510 --> 26:24.110]  Well, what a polite thing to do.
+[26:24.230 --> 26:26.130]  I don't think I would pay a thousand dollars to shoot a horse.
+[26:26.230 --> 26:26.330]  No.
+[26:26.650 --> 26:26.910]  No.
+[26:27.210 --> 26:29.430]  Even if it could save Superman's life?
+[26:30.190 --> 26:32.850]  You are the first one that said no, aren't you?
+[26:32.910 --> 26:34.230]  Why are you questioning me?
+[26:35.390 --> 26:36.710]  He's not happy with your answer.
+[26:36.890 --> 26:39.330]  You might have different motivations than I do.
+[26:39.490 --> 26:42.950]  Why are you arguing the point that you said you wouldn't do?
+[26:43.030 --> 26:43.990]  Everybody's different.
+[26:44.670 --> 26:46.130]  We need to take a step back.
+[26:46.550 --> 26:48.170]  We do. We should take a step back.
+[26:48.590 --> 26:50.570]  We need to because think about this.
+[26:51.210 --> 26:54.390]  Gavin is so fucking willing to kill this horse.
+[26:54.630 --> 27:02.230]  It's such a given and a hypothetical for him that he's created a $1,000 barrier for like no reason.
+[27:02.230 --> 27:05.570]  The $1,000 is kind of irrelevant to...
+[27:05.570 --> 27:07.230]  That's not the ethical dilemma.
+[27:07.470 --> 27:09.070]  I wanted that to be a financial impact.
+[27:09.670 --> 27:10.410]  I don't...
+[27:10.410 --> 27:11.690]  It's like you're giving...
+[27:11.690 --> 27:15.490]  Like that's a lot of money, but I don't think that that's the barrier.
+[27:15.710 --> 27:18.730]  It's like, oh man, I would have killed that horse, but I don't have the thousand.
+[27:19.210 --> 27:22.370]  Or like the reverse of it.
+[27:22.770 --> 27:24.270]  I don't think the thousand means anything.
+[27:24.930 --> 27:25.510]  All right.
+[27:25.710 --> 27:26.330]  How about this?
+[27:26.890 --> 27:32.590]  Would you pay $1,000 to kill Andrew, but he's reborn the next day?
+[27:32.850 --> 27:33.810]  Yes, yes, yes.
+[27:34.410 --> 27:35.890]  And Christopher Reeves is safe.
+[27:36.590 --> 27:38.430]  Oh, no, I couldn't.
+[27:38.430 --> 27:40.010]  I couldn't kill a person.
+[27:40.410 --> 27:41.490]  You did it.
+[27:41.550 --> 27:42.130]  We were Key West.
+[27:42.250 --> 27:43.910]  You did it a thousand different ways.
+[27:45.110 --> 27:46.030]  But that was...
+[27:47.410 --> 27:48.910]  You're saving Superman.
+[27:48.910 --> 27:49.890]  That was a whole podcast.
+[27:49.910 --> 27:52.610]  And Andrew wakes up the next day and is totally alive.
+[27:52.710 --> 27:53.970]  He's annoyed that you shot him.
+[27:54.370 --> 27:55.590]  Didn't I kill the dog instead?
+[27:57.150 --> 27:58.450]  I hate animals.
+[27:59.450 --> 28:00.330]  Not an animal guy.
+[28:00.570 --> 28:03.830]  I feel like I could kill an animal so much easier than a person.
+[28:04.170 --> 28:05.930]  Is there an animal you wouldn't kill?
+[28:06.530 --> 28:10.270]  Hey, Eric, how does animal killing work for the algorithm?
+[28:10.470 --> 28:11.150]  Does it love it?
+[28:11.370 --> 28:12.250]  Is it a big fan?
+[28:12.750 --> 28:16.310]  Well, we're about 25 minutes in, so we're safe.
+[28:16.430 --> 28:16.910]  It's fine.
+[28:16.990 --> 28:17.290]  Great.
+[28:18.070 --> 28:20.350]  There's a lot of animals I don't think I'd have an issue killing.
+[28:20.930 --> 28:21.830]  I don't really even kill...
+[28:22.370 --> 28:24.570]  If a bug is big enough, I don't want the smush.
+[28:24.730 --> 28:25.490]  I just throw them out.
+[28:25.910 --> 28:26.310]  Yeah.
+[28:26.710 --> 28:28.670]  I'm not a big fan of, like, goo.
+[28:29.210 --> 28:31.750]  I'm not, like, the gooiest guy.
+[28:32.410 --> 28:33.970]  I don't... what are we doing?
+[28:34.350 --> 28:35.970]  Like, there's tons of goo in it.
+[28:36.470 --> 28:37.630]  In a horse.
+[28:37.650 --> 28:38.490]  In an animal, yeah.
+[28:38.530 --> 28:40.250]  But a horse is mostly goo.
+[28:42.190 --> 28:44.870]  Well, actually, a horse is pretty gooey compared to other animals,
+[28:44.970 --> 28:46.130]  because you get all the glue out of them.
+[28:46.270 --> 28:49.150]  Yeah, if you turn a horse inside out, it's mostly goo.
+[28:49.410 --> 28:49.630]  Yeah.
+[28:54.670 --> 28:55.470]  It's not...
+[28:55.470 --> 28:56.950]  But I'm not a goo guy.
+[28:57.090 --> 28:58.430]  I can't deal with it.
+[28:58.570 --> 29:00.210]  No, I'll do it. I'll do it to save a life.
+[29:00.390 --> 29:04.990]  But I would have my eyes shut, and the revolver would be pressed against the forehead.
+[29:05.010 --> 29:06.430]  What if it's a ghoulish death?
+[29:06.590 --> 29:10.890]  Like, what if to kill the animal, you just have to put a, like, a trash bag around its head?
+[29:11.470 --> 29:12.850]  What animal are we talking about now?
+[29:13.310 --> 29:13.630]  Horse.
+[29:15.150 --> 29:16.970]  I'm not gonna suffocate a horse.
+[29:17.470 --> 29:18.510]  You'd rather shoot it?
+[29:18.930 --> 29:20.510]  That would take forever.
+[29:20.710 --> 29:22.450]  It would take way longer than 80 seconds for a start.
+[29:23.490 --> 29:25.710]  And it'd be kicking me all around.
+[29:26.430 --> 29:28.490]  Yeah, so it's more of a logistics thing with you.
+[29:28.930 --> 29:32.370]  It's gonna be quick and painless for the animal if I'm doing it.
+[29:32.870 --> 29:37.310]  What if you could give the horse a sleeping pill, and then it never woke up?
+[29:37.630 --> 29:38.710]  It just went to sleep, and then...
+[29:38.710 --> 29:41.050]  Okay, there you go. So, like, lethal injection you could do.
+[29:43.930 --> 29:46.710]  Is there an animal you wouldn't lethally inject?
+[29:47.370 --> 29:49.570]  Well, all animals. What do you mean? What's the point in...
+[29:50.010 --> 29:51.490]  I'm only killing this horse.
+[29:51.490 --> 29:55.090]  I'd like to point out that we're talking about this because you want to kill a horse.
+[29:56.050 --> 29:58.050]  Yeah, but it was a significant horse.
+[29:59.670 --> 30:02.830]  I thought that sentence was gonna keep going, but it just ended there for some reason.
+[30:07.070 --> 30:08.930]  Are you a big Superman guy?
+[30:09.950 --> 30:10.950]  How did you even get here?
+[30:11.890 --> 30:13.490]  What made you think of this?
+[30:14.350 --> 30:16.340]  I was just thinking, it was just sad, wasn't it?
+[30:18.750 --> 30:19.630]  Yeah, it was.
+[30:21.490 --> 30:24.930]  I just think it's sad that, like...
+[30:24.930 --> 30:31.310]  You know, there was a day when that horse was born, and it had a lot of hopes and dreams,
+[30:31.630 --> 30:33.910]  and its parents thought it could someday be a success.
+[30:34.570 --> 30:37.330]  It has a limit. It could be horse president someday, maybe.
+[30:38.130 --> 30:45.410]  You're framing it like it's Mr. Manhattan, and like it's ended six years, this horse.
+[30:46.830 --> 30:49.490]  I don't know, I just think it's scary when there's something...
+[30:49.490 --> 30:52.550]  When something appears in the world that will kill you.
+[30:53.130 --> 30:54.690]  I think it's a scary concept.
+[30:55.130 --> 30:56.090]  I understand that.
+[30:57.370 --> 31:01.390]  Do you think the thing that will ultimately kill you exists in the world today?
+[31:02.350 --> 31:04.250]  Like, for me, like cholesterol.
+[31:05.790 --> 31:06.270]  Yeah.
+[31:07.430 --> 31:10.670]  Which clump of cholesterol from like a steak will do you in?
+[31:10.670 --> 31:13.770]  Or like a loud noise on a bad day when you're very old.
+[31:14.230 --> 31:19.010]  If I could take care of the item that would do you in for a thousand dollars,
+[31:19.010 --> 31:20.330]  wouldn't you want me to do it?
+[31:20.510 --> 31:21.730]  If I could go back or...
+[31:21.730 --> 31:23.190]  Wait, why would I go back?
+[31:23.410 --> 31:25.510]  If I could go forwards in time now...
+[31:25.510 --> 31:27.270]  I'm getting all time confused.
+[31:29.050 --> 31:32.450]  If I could go forwards in time right now and take it out,
+[31:32.590 --> 31:34.050]  wouldn't you want me to do that for a grand?
+[31:34.510 --> 31:37.710]  Yeah, I'd rather you go backwards in time and eliminate it even earlier.
+[31:38.570 --> 31:39.650]  It might not be here yet.
+[31:40.050 --> 31:40.550]  Yeah, that's true.
+[31:40.650 --> 31:41.230]  What about this?
+[31:41.690 --> 31:45.190]  I pay you the money, and it turns out that you're the thing that kills me.
+[31:45.350 --> 31:45.670]  What do you do?
+[31:46.370 --> 31:46.890]  Oh no!
+[31:50.260 --> 31:54.960]  You go to the future and you see yourself.
+[31:55.020 --> 31:56.540]  It's like a looper situation.
+[31:56.720 --> 31:57.640]  Yeah, like a looper.
+[31:58.320 --> 31:59.700]  You see it's you.
+[32:01.360 --> 32:02.440]  What do you do?
+[32:03.000 --> 32:05.240]  And I'm there now looking at me.
+[32:05.740 --> 32:11.400]  Yes, but the old me knows because he's already had the idea to kill you.
+[32:11.640 --> 32:15.440]  So the old me knows, looking at young me, that young me is there to kill him.
+[32:15.440 --> 32:19.080]  So I'd probably be in a pretty instant fight with this guy.
+[32:19.680 --> 32:23.540]  Yeah, because you've been harboring rage against me because I refused to go back
+[32:23.540 --> 32:27.780]  and save Christopher Reeve, and it's been boiling for years.
+[32:29.120 --> 32:31.420]  And you finally go to stop, and it's you.
+[32:31.800 --> 32:33.700]  I think it'd be so easy to do, Andrew, though.
+[32:33.740 --> 32:37.620]  I would just have to go into the past or the future and just throw away a sushi container.
+[32:38.000 --> 32:39.440]  No, it wouldn't be.
+[32:39.700 --> 32:42.740]  It would be like Charlie in season three of Lost.
+[32:42.740 --> 32:44.540]  You would get rid of the sushi container.
+[32:44.680 --> 32:46.240]  Then the wastebasket would go for me.
+[32:46.380 --> 32:48.460]  You'd just be constantly having to save me.
+[32:49.780 --> 32:50.740]  Not Penny's boat.
+[32:51.240 --> 32:52.960]  What if you could save Andrew's life,
+[32:53.080 --> 32:57.560]  but the only way to do it is to eliminate all sushi from the planet Earth?
+[32:57.680 --> 32:58.700]  And people know you did.
+[33:00.840 --> 33:02.000]  So they remember sushi.
+[33:02.320 --> 33:03.280]  It's just the end of sushi.
+[33:03.580 --> 33:03.900]  Everybody remembers.
+[33:04.100 --> 33:06.560]  Uchiko has a fucking sign up in front of it that says,
+[33:06.640 --> 33:09.040]  thanks, Gav, now we're all out of work like rooster teeth.
+[33:09.660 --> 33:11.060]  And I would save Andrew's life.
+[33:11.600 --> 33:13.060]  Yeah, you 100% save his life.
+[33:13.160 --> 33:17.760]  But you just destroy, you just ruin, eliminate all sushi everywhere from here on out.
+[33:17.760 --> 33:18.900]  Of course I would do that.
+[33:19.020 --> 33:19.520]  No brainer.
+[33:20.000 --> 33:23.380]  And if anyone had a problem with it, I'd be like, I saved someone's life, you idiot.
+[33:23.860 --> 33:26.100]  What about all the people that inadvertently starve now?
+[33:29.240 --> 33:32.840]  I mean, can people still catch their own fish and just eat the fish?
+[33:32.840 --> 33:34.340]  Yeah, they just have to prepare it differently.
+[33:34.460 --> 33:35.500]  So nobody's going to starve.
+[33:35.640 --> 33:36.200]  You're right there.
+[33:36.740 --> 33:37.560]  Oh, there you go.
+[33:37.660 --> 33:37.960]  There you go.
+[33:37.960 --> 33:38.120]  Fine.
+[33:38.640 --> 33:39.000]  Job done.
+[33:39.000 --> 33:41.480]  It's kind of like at the end of that video game, life is strange.
+[33:41.660 --> 33:44.920]  You can save your best friend's life by letting everybody in the town die,
+[33:45.020 --> 33:47.760]  or you can let your best friend die and save everybody in the town.
+[33:47.980 --> 33:50.460]  So that was a dead ass town when I played it.
+[33:50.720 --> 33:52.400]  I only got like halfway through that game.
+[33:52.480 --> 33:53.460]  Is that the end?
+[33:53.700 --> 33:54.660]  That is the end.
+[33:54.980 --> 33:55.960]  Wow, that takes a turn.
+[33:56.440 --> 33:57.580]  Yeah, it's pretty serious.
+[33:58.160 --> 34:01.280]  I'm imagining how to save a life by the fray.
+[34:01.420 --> 34:04.120]  And it's just the how to save a life.
+[34:04.180 --> 34:06.480]  And then it's just Gavin shooting a horse in the face.
+[34:09.480 --> 34:11.800]  Dr. Cox comes in to try and resuscitate.
+[34:11.980 --> 34:12.600]  You can't get it done.
+[34:13.520 --> 34:18.540]  Um, it's funny you bring up Superman because I have a Superman kind of thing in my notes.
+[34:19.080 --> 34:23.160]  I, uh, I watched Unbreakable for the first time recently.
+[34:23.480 --> 34:27.660]  And I watched Brawl and Cell Block 99 recently.
+[34:27.980 --> 34:31.000]  And both of those movies are largely, uh,
+[34:31.000 --> 34:35.820]  the catalyst of them are guys that don't have the ability to feel pain,
+[34:35.980 --> 34:38.060]  like feel any, any pain at all.
+[34:38.060 --> 34:40.740]  And it made me think about when I got one of my root canals.
+[34:40.860 --> 34:42.360]  I got so numbed.
+[34:42.620 --> 34:46.520]  I couldn't feel the left side of my face around my mouth.
+[34:47.240 --> 34:55.760]  Um, so I was curious if you guys had the ability to remove the ability to feel any pain.
+[34:56.040 --> 34:59.400]  So like you wouldn't know physical pain, you'd still have feelings,
+[34:59.400 --> 35:02.980]  but you would feel you were incapable of feeling pain.
+[35:03.080 --> 35:07.240]  But at the cost of not being able to feel anything physically,
+[35:07.240 --> 35:08.600]  would you do it?
+[35:09.480 --> 35:12.660]  What would be Carlisle in, uh, that Bond movie?
+[35:13.340 --> 35:19.020]  Sure. I feel kind of like that's what alcohol was for me for a great many years.
+[35:20.040 --> 35:23.840]  I, I mean, sure. I could absolutely see the connection too.
+[35:24.060 --> 35:25.100]  For me, it was an issue.
+[35:25.760 --> 35:29.940]  It was a nightmare when half my mouth was frozen because I couldn't feel anything.
+[35:30.040 --> 35:31.800]  And I was drinking out of a can.
+[35:31.860 --> 35:35.280]  And I was convinced I was constantly not pouring in my mouth.
+[35:35.280 --> 35:37.980]  Cause I couldn't, I had zero sensation of anything.
+[35:38.260 --> 35:42.020]  Yeah. You need to feel, and you need to feel pain. It lets you know when you're dying.
+[35:42.360 --> 35:42.700]  Yeah.
+[35:43.320 --> 35:47.620]  Like if you, if your heart, if you started having like major heart palpitations,
+[35:48.140 --> 35:51.420]  there's nothing going to be stopping you from going, Oh, I'm going to go for a run.
+[35:52.260 --> 35:56.660]  If you didn't feel pain, you just shred your own body without realizing it.
+[35:56.780 --> 36:00.700]  You know, you would constantly look down the trail of blood where you've been and be like,
+[36:00.720 --> 36:04.560]  Oh God, did you guys, did you guys watch fallout? The TV show?
+[36:05.020 --> 36:05.380]  Yes.
+[36:05.820 --> 36:06.740]  I'm halfway through it.
+[36:07.120 --> 36:09.260]  Okay. Did you get to the part with Johnny Pemberton,
+[36:09.380 --> 36:11.880]  where his like foot is hanging on out of his sock?
+[36:12.400 --> 36:12.560]  Yeah.
+[36:12.680 --> 36:13.740]  And it looks like impossible.
+[36:14.020 --> 36:17.200]  He would be like that all the time. He'd be like, Oh shit, my foot's hanging off.
+[36:17.240 --> 36:18.120]  I gotta get that fixed.
+[36:18.700 --> 36:20.540]  Cause you just would never know. You'd never feel it.
+[36:20.980 --> 36:23.120]  That doesn't seem like a bad thing. Well, I guess it's,
+[36:23.220 --> 36:26.240]  the problem would be is if you did it because of the lack of feeling.
+[36:26.620 --> 36:30.580]  You'd be walking on stubs pretty soon. It'd slow you down.
+[36:31.240 --> 36:33.000]  How would you know whether your bath was too hot?
+[36:33.600 --> 36:34.780]  Yeah, you could win a Houston.
+[36:35.200 --> 36:39.740]  Oh, well, that Gavin just sold it for me. Like I need to enjoy that water.
+[36:40.080 --> 36:42.460]  I need to enjoy that bath. That'd ruin it.
+[36:43.320 --> 36:46.360]  Yeah. You would just be sat in, you would just be floating in what felt like nothing.
+[36:46.880 --> 36:47.760]  Yeah. That'd be terrible.
+[36:48.200 --> 36:52.460]  How much money, if I came to you and said, I'm going to give you X amount of money,
+[36:52.520 --> 36:56.000]  but you can never take a bath. It's just showers for the rest of your life.
+[36:56.080 --> 36:57.860]  What would that figure be for you, Andrew?
+[36:58.260 --> 37:00.500]  It's always less than you think it is.
+[37:00.500 --> 37:04.260]  $5,000. You never take a bath again for the rest of your life.
+[37:04.400 --> 37:05.140]  Five horses.
+[37:07.280 --> 37:10.020]  What about, how do we define a bath?
+[37:10.800 --> 37:11.700]  How do we define a bath?
+[37:11.800 --> 37:14.580]  Could I, could I like, is a giant hot tub a bath?
+[37:15.480 --> 37:16.720]  Are, is there soap involved?
+[37:17.900 --> 37:19.420]  I feel like there's soap in hot tubs.
+[37:20.220 --> 37:20.800]  No. What?
+[37:21.220 --> 37:22.940]  There's not. I guarantee there's not.
+[37:22.960 --> 37:23.920]  What's all the foam?
+[37:24.140 --> 37:25.060]  Where does all the foam come from?
+[37:25.060 --> 37:27.200]  If you're having a bath together.
+[37:27.840 --> 37:28.020]  What?
+[37:28.020 --> 37:30.460]  Well, it's all bubbly and foamy and...
+[37:30.460 --> 37:32.440]  I think it's like skin and sunscreen.
+[37:32.980 --> 37:35.020]  Yeah, it's much grosser.
+[37:35.020 --> 37:38.600]  Who wears sunscreen at a pool? Like an indoor pool?
+[37:39.220 --> 37:40.900]  Nobody's sunscreening at the indoor pool.
+[37:41.400 --> 37:43.640]  What about the outdoor pools and outdoor hot tubs?
+[37:43.860 --> 37:44.600]  Yeah, what are we doing?
+[37:44.880 --> 37:48.820]  Because the pool I go to is indoors. So I'm picturing my scenario.
+[37:49.240 --> 37:50.120]  And that's foamy?
+[37:50.500 --> 37:51.320]  This is a Canada thing.
+[37:51.320 --> 37:52.400]  Yeah, I feel like it's foamy.
+[37:52.400 --> 37:54.220]  It's probably just bubbles then. It's probably just oxygen.
+[37:54.900 --> 37:58.800]  Nobody is putting soap in the hot tub anyway.
+[37:58.840 --> 38:03.180]  Well, they put like bleach and like cleaning product in it, I assume, and all that stuff.
+[38:03.180 --> 38:05.940]  That's not... that's not for cleaning you.
+[38:07.780 --> 38:11.480]  No, I'm just saying at the point in which they're pouring that in,
+[38:11.520 --> 38:14.980]  I don't feel like it's out of the question to assume that maybe there's some soap or
+[38:14.980 --> 38:16.000]  something in there. I don't know.
+[38:16.320 --> 38:20.600]  If you are in a hot tub and you've got a bottle of shampoo with you, that's a bath.
+[38:21.420 --> 38:21.860]  Okay.
+[38:22.920 --> 38:24.500]  So it would not count.
+[38:24.900 --> 38:30.420]  What if I... what if I like clog the drain and I'm in a shower and it fills?
+[38:30.720 --> 38:32.660]  You have to get out once it gets over your ankles.
+[38:34.320 --> 38:38.200]  Well, yeah, you could just keep moving up. But if you're submerged, that's the bath bit.
+[38:38.640 --> 38:38.800]  Yeah.
+[38:40.660 --> 38:45.780]  $5,000, five horses. One of those horses could turn out to be a winner. You don't know.
+[38:46.380 --> 38:50.480]  If it's the day that I get paralyzed by a horse and I take that money, joke's on you.
+[38:53.440 --> 38:56.440]  My reign of bathing or bathing... bathing, Jesus.
+[38:59.840 --> 39:04.780]  Yeah, I don't... it would be a lot. It would be more than $5,000.
+[39:05.240 --> 39:10.860]  Speaking of showers and baths, I've been wanting to try some things that I've seen people do in
+[39:10.860 --> 39:15.500]  movies a lot, but I've never... like there's a lot of things that are like tropes in films,
+[39:15.640 --> 39:20.820]  but I've never done it in real life. Like I've never held a door shut with a chair,
+[39:20.820 --> 39:26.500]  but I feel like it's very common. And I've never leant against a wall in the shower,
+[39:26.540 --> 39:32.720]  like during a moment of self-reflectiveness or peril. I feel like it's such a movie thing.
+[39:32.840 --> 39:33.520]  Have you ever done that?
+[39:34.340 --> 39:34.560]  Yes.
+[39:34.560 --> 39:35.040]  Oh, absolutely.
+[39:35.380 --> 39:35.720]  100%.
+[39:35.720 --> 39:36.240]  You've leant?
+[39:36.540 --> 39:36.840]  Yeah.
+[39:37.140 --> 39:37.420]  Yeah.
+[39:37.540 --> 39:40.080]  I've leant, I've sat, I've laid.
+[39:40.760 --> 39:41.080]  Yeah.
+[39:41.180 --> 39:41.980]  You've laid on the ground?
+[39:42.380 --> 39:43.380]  I've laid on the ground, yeah.
+[39:44.060 --> 39:44.360]  Interesting.
+[39:44.360 --> 39:46.440]  Sit down in the shower, feel like you're in a rainstorm.
+[39:46.740 --> 39:49.060]  I feel like I've done the chair thing too.
+[39:49.060 --> 39:53.900]  What did it feel like to lean against the wall in the shower? What made you do it?
+[39:55.700 --> 39:56.740]  Life problems.
+[39:57.480 --> 40:02.000]  Getting soap in my eyes and being unconfident about my ability to not fall and take out
+[40:02.000 --> 40:04.340]  Jeff's bathroom like that saxophone player.
+[40:05.000 --> 40:09.320]  I was immediately thinking of like James Bond doing it after like a heavy fight.
+[40:09.800 --> 40:12.740]  And you're doing it because you've got soap in your eyes.
+[40:12.840 --> 40:14.480]  Yeah, your eyes got all sudsy.
+[40:16.200 --> 40:21.200]  And I, you know, if you're in a bath shower thing and the floor gets slippery,
+[40:22.320 --> 40:26.680]  I can't use conditioner anymore in my setup because it makes the bottom of the bath
+[40:26.680 --> 40:31.140]  too slippery and I start sliding around and I just I can't risk it.
+[40:31.420 --> 40:32.960]  So do you shower in the tub?
+[40:33.680 --> 40:35.880]  Yeah, because the shower is connected to a tub.
+[40:36.260 --> 40:36.800]  Got it.
+[40:38.000 --> 40:40.920]  You're not just like applying conditioner while you're sat in the tub though.
+[40:40.920 --> 40:42.000]  No, no, no, no.
+[40:42.120 --> 40:44.680]  Like if I stand, I put the conditioner in my hair.
+[40:44.820 --> 40:49.620]  It washes off onto the floor and it becomes like an ice skating rink.
+[40:49.780 --> 40:55.960]  The bottom of my tub, it slicks and then I slide around and it's a very narrow tub.
+[40:56.180 --> 40:57.600]  It's a tall but narrow tub.
+[40:57.760 --> 41:00.020]  And so I just I had to give up conditioner.
+[41:00.460 --> 41:03.640]  Sounds like I'm going to have to pay a grand to shoot a whole bottle of conditioner.
+[41:04.320 --> 41:07.400]  Is that maybe why Canadians are so good at ice skating?
+[41:08.280 --> 41:09.840]  Oh, oh man, it could be.
+[41:10.940 --> 41:11.980]  Can't rule it out.
+[41:12.540 --> 41:15.080]  Are we good at I guess we are just because of hockey, right?
+[41:15.120 --> 41:17.460]  Like I bet you Canada has as a population.
+[41:17.640 --> 41:22.660]  I would assume I would think it's probably because of the weather, ice and hockey.
+[41:22.820 --> 41:25.880]  Yeah, I'm thinking like Russia would probably be up there.
+[41:26.060 --> 41:30.560]  Yeah, not so much America, maybe Sweden, Norway, Finland.
+[41:31.060 --> 41:35.700]  Not not as much in Texas, but yeah, they're definitely not as much in Texas.
+[41:36.640 --> 41:39.680]  I don't think I can name a professional hockey player from Texas.
+[41:39.680 --> 41:43.520]  And I'm sure there is one that I just I'm not aware they're from Texas, but
+[41:43.940 --> 41:45.940]  there's not one that like jumps in my mind.
+[41:46.240 --> 41:48.520]  I'm not sure I can name a professional hockey player.
+[41:49.260 --> 41:50.060]  Wayne Gretzky.
+[41:50.240 --> 41:51.440]  Conor Conor Bedard.
+[41:51.620 --> 41:52.080]  There you go.
+[41:52.400 --> 41:52.880]  I got one.
+[41:53.400 --> 41:53.780]  Conor.
+[41:54.260 --> 41:58.060]  Hey, can I can I tell you guys a story about something that happened to me recently that
+[41:58.060 --> 41:59.160]  is a house story?
+[42:00.220 --> 42:04.400]  No, I have a bunch of house stories to tell you in the near future, but not today.
+[42:04.480 --> 42:08.940]  OK, I was stressed out about stuff, though, when I did this.
+[42:08.940 --> 42:13.820]  The other day I was driving around and as you may or may not know, there's been a lot
+[42:13.820 --> 42:18.200]  going on in our lives the last couple of months, what with them being completely and totally
+[42:18.200 --> 42:20.560]  upended in every way career wise.
+[42:20.720 --> 42:24.160]  And then, you know, I've been busy in my personal life, too, because of the domino
+[42:24.160 --> 42:28.740]  effects of all these things, you know, and and so I was driving around from like place
+[42:28.740 --> 42:32.460]  to place running errands the other day and I was in Emily's car because I had to pick
+[42:32.460 --> 42:35.400]  something up or drop something off and she's got a bigger car than I do.
+[42:36.540 --> 42:40.920]  And I was, I don't know, it was one of those days where I was just completely and totally
+[42:40.920 --> 42:45.140]  lost in my, you know, those days when you're just like you're concentrating and thinking
+[42:45.140 --> 42:49.120]  so hard about stuff that everything else you're doing is kind of on autopilot.
+[42:49.520 --> 42:50.080]  You know what I mean?
+[42:50.480 --> 42:54.900]  You're using like 5% of your brain to operate the human and the rest of it is just completely
+[42:54.900 --> 43:00.400]  and totally trying to figure out finances or life moves or whatever it is.
+[43:01.080 --> 43:02.700]  And I realized I had to get gas.
+[43:02.700 --> 43:09.280]  And so I stopped at a gas station and I went out and I was put the thing in and I started
+[43:09.280 --> 43:13.400]  filling up gas and I was standing there and then I was like, oh, you know, it'd be nice.
+[43:13.500 --> 43:15.680]  It would be nice if I got an energy drink because I'm fucking exhausted.
+[43:16.060 --> 43:17.960]  And Emily would probably like one, too.
+[43:18.040 --> 43:22.940]  So I went inside and I bought two monster energy drinks, the ones that Eric likes to
+[43:22.940 --> 43:34.720]  make fun of me for drinking, and bought those and went out and got in the car and drove away
+[43:35.400 --> 43:36.240]  as normal.
+[43:37.240 --> 43:43.280]  And about three miles down the road, I thought to myself, something's not sitting right with
+[43:43.280 --> 43:44.460]  me over the last few minutes.
+[43:44.460 --> 43:45.380]  What is off?
+[43:46.100 --> 43:48.280]  And I thought, you should pull over and figure this out.
+[43:48.340 --> 43:50.620]  So I pulled over and I sat for about five seconds.
+[43:50.620 --> 43:54.020]  Then I realized, oh, I never stopped getting gas.
+[43:54.420 --> 43:56.040]  I just drove away.
+[43:56.520 --> 43:59.480]  Oh, my God, I get out of the car.
+[44:00.000 --> 44:04.580]  I get out of the car and sure enough, my gas cap is off and the little thing is open.
+[44:04.820 --> 44:06.020]  I'm like, holy fuck.
+[44:06.320 --> 44:07.100]  Have I just...
+[44:08.180 --> 44:09.040]  What do I do?
+[44:09.080 --> 44:10.180]  My dad did this once.
+[44:10.200 --> 44:11.620]  I remember it was a whole thing.
+[44:11.900 --> 44:14.040]  And I'm like, oh, my God, I didn't know what to do.
+[44:14.080 --> 44:16.300]  And I thought, well, you're like three miles away from the place.
+[44:16.340 --> 44:17.060]  You just keep driving.
+[44:17.140 --> 44:18.020]  And I thought, no, no, no, no, no.
+[44:18.020 --> 44:18.560]  I got to go back.
+[44:18.580 --> 44:19.020]  I got to go back.
+[44:19.020 --> 44:20.060]  And I went back.
+[44:20.660 --> 44:27.620]  And all I'll say is I drove back by the gas station and there was somebody else getting gas at that pump.
+[44:27.860 --> 44:29.140]  And I thought, OK.
+[44:29.480 --> 44:31.620]  And so I just went home.
+[44:32.040 --> 44:34.040]  I guess I didn't do any damage.
+[44:34.320 --> 44:35.760]  Nothing popped off or broke.
+[44:35.880 --> 44:38.560]  And I guess I'd already paid because I put my credit card in and everything.
+[44:38.640 --> 44:39.460]  I just didn't get the receipt.
+[44:40.160 --> 44:43.680]  But yeah, I think I drove off.
+[44:43.980 --> 44:48.780]  And I guess the gas nozzle must have just flown out when I drove away.
+[44:49.300 --> 44:54.620]  So wait, though, where do you put the cap when you're filling up?
+[44:54.820 --> 44:56.720]  It's connected on a... yeah, it hangs off.
+[44:56.760 --> 44:59.300]  It's connected by like a little plastic rope or whatever.
+[45:00.240 --> 45:01.040]  Holy shit.
+[45:01.520 --> 45:04.340]  You're so lucky you weren't trailing the whole pump hose.
+[45:04.860 --> 45:05.620]  My dad did.
+[45:05.900 --> 45:08.980]  He did it one time and the pump got stuck in and he trailed the hose.
+[45:09.440 --> 45:09.620]  Yeah.
+[45:10.240 --> 45:12.560]  Maybe they've designed them in a way to prevent it now.
+[45:12.880 --> 45:14.040]  Yeah, they pop off easily.
+[45:14.200 --> 45:18.020]  And even then it didn't happen, apparently, because it was like somebody else was getting gas there.
+[45:18.020 --> 45:19.100]  So I didn't do any damage.
+[45:19.460 --> 45:28.880]  But holy shit, dude, I can't fucking believe that I am that person.
+[45:29.360 --> 45:32.380]  I have to go through the rest of my life knowing that I did that.
+[45:33.460 --> 45:34.740]  And I'm kind of horrified.
+[45:34.760 --> 45:36.400]  I didn't think that happened to people that I know.
+[45:36.820 --> 45:38.500]  Yeah, it shouldn't.
+[45:38.700 --> 45:39.700]  It really shouldn't.
+[45:39.780 --> 45:41.540]  And I'm embarrassed to say that it did.
+[45:42.060 --> 45:45.880]  When you said the pump went with you or went with your dad,
+[45:45.960 --> 45:50.440]  I imagined like the vault in Fast and Furious 5 that they're pulling around.
+[45:50.560 --> 45:54.800]  But like he's dragging the entire gas pump and it's like still going up.
+[45:54.880 --> 45:56.800]  The amount that he's using as he's driving away.
+[45:57.260 --> 45:58.340]  The thing pulling behind him.
+[45:58.760 --> 46:01.220]  If it was Fast and Furious universe, though,
+[46:01.260 --> 46:03.980]  it would be like exploding constantly on everything that it hits.
+[46:04.240 --> 46:05.780]  It'd be like blowing up everything.
+[46:06.500 --> 46:08.400]  Oh, this is a Trails HD minigame now.
+[46:08.760 --> 46:10.860]  Driving away with explosions in my rear mirrors.
+[46:10.860 --> 46:12.440]  What the fuck's going on?
+[46:12.940 --> 46:14.400]  You didn't hear like a big clunk?
+[46:14.680 --> 46:16.480]  No, I didn't hear anything.
+[46:16.620 --> 46:21.040]  And no damage was done to the car or the pump, apparently.
+[46:21.240 --> 46:22.640]  And I told Emily and she's like,
+[46:22.660 --> 46:24.820]  you just don't remember closing it and putting it away.
+[46:24.920 --> 46:26.900]  And I was like, but I know I didn't.
+[46:26.980 --> 46:28.840]  I know I just got in the car and drove away.
+[46:28.920 --> 46:29.880]  I know I did.
+[46:30.380 --> 46:32.340]  Oh, you should try to get the security footage.
+[46:32.360 --> 46:32.660]  That's crazy.
+[46:32.840 --> 46:33.120]  Yeah.
+[46:33.380 --> 46:34.300]  Yeah, I just.
+[46:34.720 --> 46:37.840]  I would be so stressed if I were you driving back.
+[46:38.200 --> 46:39.140]  So embarrassed.
+[46:39.140 --> 46:39.920]  I did.
+[46:40.020 --> 46:40.380]  I was.
+[46:40.500 --> 46:43.700]  Yeah, I was ready to go back and be like, I'm here.
+[46:44.000 --> 46:46.100]  I assume I pay a fine or something.
+[46:46.260 --> 46:47.060]  But yeah, that was.
+[46:47.440 --> 46:49.340]  Oh, my head.
+[46:49.660 --> 46:52.360]  I've created a Zoolander is what is happening.
+[46:52.520 --> 46:53.160]  The entire drive.
+[46:53.160 --> 46:54.920]  You think the place is on fire?
+[46:55.200 --> 47:00.600]  Yeah, I think that I've covered the entire place with gasoline and it is on fire.
+[47:01.200 --> 47:04.000]  I'd be so stressed heading back to that gas station.
+[47:04.140 --> 47:04.920]  That's crazy.
+[47:05.440 --> 47:05.900]  Definitely.
+[47:06.240 --> 47:08.760]  I don't get embarrassed very often.
+[47:09.140 --> 47:09.680]  Um.
+[47:10.680 --> 47:11.320]  Which is crazy.
+[47:12.260 --> 47:12.860]  Thanks.
+[47:13.180 --> 47:13.740]  I agree.
+[47:14.360 --> 47:18.760]  Like, if anybody should be embarrassed on a daily basis, it would be me.
+[47:19.120 --> 47:21.780]  But I mean, just physically alone.
+[47:21.780 --> 47:22.060]  Right.
+[47:22.120 --> 47:25.720]  But I yeah, I'm pretty embarrassed about that one.
+[47:26.060 --> 47:28.680]  I can't believe I was horrified with myself.
+[47:28.840 --> 47:29.900]  Just horrified.
+[47:30.360 --> 47:31.620]  That's definitely a badge for life.
+[47:31.820 --> 47:32.260]  Yeah.
+[47:32.340 --> 47:33.060]  Oh, man.
+[47:33.060 --> 47:36.080]  And I think it's just a symptom of how incredibly
+[47:37.680 --> 47:40.800]  intense and stressful the last few months have been, I guess.
+[47:41.020 --> 47:42.040]  Maybe I should start.
+[47:42.320 --> 47:45.560]  Instead of laughing at all the videos I see of people doing that, maybe I should just think,
+[47:46.000 --> 47:47.200]  oh, I bet they had a lot going on.
+[47:47.280 --> 47:47.540]  Yeah.
+[47:47.960 --> 47:49.600]  I bet they did.
+[47:49.980 --> 47:51.200]  I bet they did.
+[47:53.500 --> 47:54.520]  Today's top story.
+[47:54.740 --> 47:58.860]  The flavor merger of the century between the Peanut Butter Group and Chocolaty Corp.
+[47:59.040 --> 48:00.880]  Joining me is a PBC executive.
+[48:01.140 --> 48:02.120]  Thanks for having me, Barry.
+[48:02.120 --> 48:05.540]  Now, how did you know the merger and the byproduct of it,
+[48:05.740 --> 48:08.720]  Jif Peanut Butter and Chocolate Flavored Spread, would be a success?
+[48:09.120 --> 48:12.980]  You know, it was a gut feeling. A rumbling, if you will.
+[48:13.300 --> 48:15.480]  Besides, they're two titans of taste.
+[48:15.600 --> 48:17.700]  Very true. Goes great with pretzels.
+[48:17.940 --> 48:18.640]  And pancakes.
+[48:19.180 --> 48:21.600]  Apples too, I bet. Try Jif PBC today.
+[48:32.120 --> 48:34.560]  Splash of whatever kind of milk is your thing.
+[48:35.040 --> 48:37.140]  And gotta get that caramel drizzle.
+[48:38.000 --> 48:42.560]  All to make a toasty, roasty, caramel iced coffee.
+[48:43.380 --> 48:44.960]  You could be enjoying it.
+[48:45.820 --> 48:49.620]  Every. Damn. Sip of it.
+[48:50.320 --> 48:52.860]  Damn right. It's Folgers Instant.
+[48:54.000 --> 48:59.500]  Speaking of travel, I want to talk about something exciting that happened.
+[48:59.500 --> 49:05.180]  We're recording this on Thursday before our Patreon has started.
+[49:05.480 --> 49:09.660]  We haven't even shared our new logo yet, but we have debuted it
+[49:09.660 --> 49:13.020]  because I've been doing some Sloppy Joe streaming.
+[49:13.260 --> 49:14.720]  I've been streaming the feed.
+[49:15.460 --> 49:18.540]  And we had two amazing members of our community.
+[49:18.680 --> 49:21.080]  The twins we love dearly has done so much.
+[49:22.920 --> 49:27.760]  Went down to Sloppy Joe's and unveiled our logo.
+[49:27.760 --> 49:29.780]  And people don't even know it's an official reveal yet.
+[49:30.300 --> 49:34.620]  I'm so excited to be able to share this on social media of them.
+[49:34.720 --> 49:42.280]  It was so funny seeing them like covertly walk into the frame of the camera
+[49:42.280 --> 49:46.340]  and then just reveal the signs of people in the chat freaking out.
+[49:47.060 --> 49:49.680]  Some Twitch clips of it that are so good.
+[49:50.160 --> 49:51.300]  God bless. Oh, that's great.
+[49:51.600 --> 49:53.180]  They are. Yeah, it was so cool.
+[49:53.860 --> 49:56.280]  They are just the most wonderful people.
+[49:56.700 --> 49:59.640]  They are so unbelievably wonderful and supportive.
+[50:00.100 --> 50:03.980]  And I was it was a ridiculous idea I had.
+[50:04.080 --> 50:07.080]  And then learning that they were in Florida, they were so game to do it.
+[50:07.300 --> 50:09.400]  I'm so happy that they're able to pull it off.
+[50:09.440 --> 50:10.160]  And it was just awesome.
+[50:10.780 --> 50:14.020]  That's one step above comment leaver, I think, is logo revealer.
+[50:14.280 --> 50:15.440]  Logo revealer. Yeah.
+[50:15.540 --> 50:16.700]  Not a lot of people that can do that.
+[50:16.960 --> 50:18.120]  You don't get to do it very often.
+[50:18.380 --> 50:19.640]  It's a very coveted position.
+[50:19.740 --> 50:21.120]  They're the only two I know.
+[50:21.620 --> 50:23.360]  We should make a shirt and sell two of them.
+[50:25.540 --> 50:26.700]  Just give it to them.
+[50:26.780 --> 50:28.020]  They're the only ones that have it.
+[50:28.120 --> 50:30.480]  Yeah, I mean, we don't even get to wear it.
+[50:31.320 --> 50:36.380]  Should we also mention that the regulation podcast, like who created the logo for us?
+[50:36.680 --> 50:39.440]  I think there's some wonderful lineage there as well.
+[50:39.640 --> 50:41.060]  Yeah. Do you want to expand on that?
+[50:41.500 --> 50:41.880]  Yeah, sure.
+[50:41.940 --> 50:45.560]  Michelle from Rooster Teeth, who designed the original Fuckface logo.
+[50:46.040 --> 50:50.580]  We hired her post Rooster Teeth to design the regulation logo.
+[50:50.660 --> 50:52.500]  And I think she did a phenomenal job.
+[50:52.500 --> 50:54.180]  So good. I love our logo.
+[50:54.740 --> 50:54.900]  Yeah.
+[50:55.520 --> 50:57.960]  And we have multiple variations of it. It's awesome.
+[50:58.180 --> 50:58.720]  Yeah, it rules.
+[50:59.400 --> 51:04.000]  So can I ask some questions about the rules of how everything works in this new podcast?
+[51:04.620 --> 51:05.800]  Yeah, please do.
+[51:06.380 --> 51:06.820]  Sure.
+[51:07.280 --> 51:08.820]  Do we still bleep Fuckface?
+[51:09.120 --> 51:09.480]  No.
+[51:09.660 --> 51:09.920]  No.
+[51:10.320 --> 51:15.940]  I don't think we can because, I mean, you know, we're going back and forth and figuring stuff out.
+[51:16.000 --> 51:16.660]  We don't own it.
+[51:16.780 --> 51:18.000]  So I don't know that the bleep...
+[51:19.200 --> 51:20.000]  You know what I mean?
+[51:20.000 --> 51:21.500]  We don't own even the bleep.
+[51:21.500 --> 51:22.580]  I don't think we do.
+[51:22.700 --> 51:25.760]  I think we own the... I think we can bleep and we can say face,
+[51:25.860 --> 51:29.100]  but I don't know that we can bleep and then say face back to back quickly.
+[51:30.360 --> 51:32.380]  But Fuckface, you can say that all day long.
+[51:32.900 --> 51:33.180]  Yeah.
+[51:33.440 --> 51:37.540]  But what if I personally bleep it? Like with a...
+[51:37.540 --> 51:42.500]  I mean, that's you. You're taking on your own express liability, you know?
+[51:42.520 --> 51:44.860]  So I'm now like, our lawyer won't help me out.
+[51:45.580 --> 51:47.160]  Yeah, I mean, this doesn't...
+[51:47.160 --> 51:51.040]  I mean, are you bleeping it in your home or are you bleeping it publicly?
+[51:51.780 --> 51:53.460]  In some sort of mass way?
+[51:53.580 --> 51:54.680]  Because you can bleep whatever you want.
+[51:54.760 --> 51:56.080]  You're in the sanctity of your own home.
+[51:56.180 --> 51:57.580]  What do you mean bleeping it publicly?
+[51:58.180 --> 52:01.420]  Like, are you bleeping it in a video that people are going to see or hear?
+[52:02.360 --> 52:04.340]  Or are you just doing it for yourself in your own home?
+[52:06.280 --> 52:08.300]  I have no idea. I don't understand the question.
+[52:10.100 --> 52:11.860]  You mean, am I recording the bleep?
+[52:11.960 --> 52:13.720]  Are you distributing the bleep?
+[52:14.500 --> 52:15.580]  What does that mean?
+[52:16.620 --> 52:17.880]  Where's the bleep coming from?
+[52:18.660 --> 52:20.620]  It's just coming from my mixer.
+[52:21.220 --> 52:21.620]  Sure.
+[52:22.420 --> 52:24.040]  Does anybody else hear it or just you?
+[52:24.740 --> 52:26.120]  Well, I assume it's on my WAV file.
+[52:26.260 --> 52:26.820]  We'll find out.
+[52:27.620 --> 52:28.240]  Maybe not.
+[52:28.860 --> 52:31.040]  I just did it that one time to ask the question.
+[52:31.180 --> 52:32.260]  I haven't been bleeping the whole time.
+[52:32.320 --> 52:32.700]  I see.
+[52:33.360 --> 52:34.240]  You can hear it?
+[52:34.320 --> 52:34.900]  I didn't.
+[52:35.720 --> 52:36.040]  No.
+[52:36.500 --> 52:37.300]  You heard that?
+[52:37.380 --> 52:37.600]  Nope.
+[52:37.920 --> 52:38.120]  No.
+[52:38.300 --> 52:38.560]  No.
+[52:38.720 --> 52:39.080]  Oh, okay.
+[52:39.320 --> 52:39.960]  Nobody heard it.
+[52:40.040 --> 52:41.920]  That's why nobody knows what you're fucking talking about.
+[52:42.100 --> 52:43.440]  Well, I'm not actually doing it for you.
+[52:43.520 --> 52:45.560]  I just did it to ask the question.
+[52:47.540 --> 52:49.960]  I have another question about the old thing.
+[52:49.960 --> 52:50.740]  Okay.
+[52:51.320 --> 52:54.500]  Andrew, do you think the name piss boy and like eating the pencil
+[52:54.500 --> 52:55.940]  will follow you over to this podcast?
+[52:56.660 --> 52:58.620]  I don't think that's for me to decide.
+[52:58.740 --> 53:00.040]  I don't think I get a vote in that,
+[53:00.240 --> 53:02.480]  considering I didn't get a vote in that on the last run.
+[53:02.600 --> 53:03.320]  So I don't know.
+[53:03.480 --> 53:05.340]  I don't assume I get to make that choice.
+[53:05.680 --> 53:08.460]  I have a feeling it was for Gavin to decide and he just did.
+[53:10.320 --> 53:14.320]  I think I will say that somebody played audio of them peeing
+[53:14.320 --> 53:16.440]  for like two minutes on this show.
+[53:17.500 --> 53:18.300]  55 seconds.
+[53:18.920 --> 53:20.740]  What a great point.
+[53:21.020 --> 53:21.460]  Wow.
+[53:21.620 --> 53:25.840]  Well, I mean, we already knew that Geoff has been recording pisses.
+[53:25.900 --> 53:27.580]  We found out on Does It Do?
+[53:27.980 --> 53:28.160]  Yeah.
+[53:28.220 --> 53:32.300]  But does that make it worse, Andrew, that you're still associated with piss boy
+[53:32.300 --> 53:34.380]  and you've never done any piss bits?
+[53:35.320 --> 53:36.840]  You've just been a piss watcher.
+[53:36.980 --> 53:37.820]  Where's your piss bits?
+[53:38.680 --> 53:39.500]  Yeah, I don't.
+[53:39.560 --> 53:42.800]  I would argue I've done the least amount of piss bits in this show.
+[53:43.240 --> 53:44.580]  I don't think I've done a piss bit.
+[53:44.740 --> 53:47.220]  You're fucking, you peed all over Edgar Wright.
+[53:48.020 --> 53:49.000]  That wasn't me.
+[53:49.240 --> 53:51.860]  Yeah, that also is not the show, just to be clear.
+[53:52.480 --> 53:53.300]  I mean, it's yeah.
+[53:53.700 --> 53:56.500]  Are you looking to are you looking for a clean piss slate?
+[53:56.620 --> 53:57.320]  Is that where you're at?
+[53:57.340 --> 53:58.680]  Is that what you're trying to get out of this, Andrew?
+[53:58.820 --> 54:00.260]  I would love one.
+[54:00.320 --> 54:02.820]  But once again, this has never been my choice.
+[54:02.840 --> 54:03.440]  So I'm not.
+[54:03.520 --> 54:05.200]  We could clean the piss off your slate.
+[54:05.740 --> 54:07.180]  But this is the one time to do it.
+[54:07.320 --> 54:09.780]  The phrasing of that, that seems not great.
+[54:10.380 --> 54:13.020]  Like what if you're no longer piss boy as of today?
+[54:13.720 --> 54:14.080]  Wow.
+[54:15.720 --> 54:17.080]  Today, as of right now?
+[54:17.900 --> 54:18.620]  Yeah, potentially.
+[54:19.240 --> 54:20.300]  I mean, I'll take it.
+[54:20.500 --> 54:22.220]  But once you look out your window right now, is it?
+[54:22.320 --> 54:24.200]  Do you see the woman pissing on the side of a building?
+[54:24.740 --> 54:25.780]  I don't know.
+[54:26.200 --> 54:26.900]  I think you might be.
+[54:27.040 --> 54:31.700]  You know, in fact, I haven't seen one since I was a one time event.
+[54:32.080 --> 54:33.520]  I have one final question.
+[54:34.100 --> 54:34.320]  OK.
+[54:35.260 --> 54:37.080]  Are you in the Herman Miller chair?
+[54:37.760 --> 54:38.220]  I'm not.
+[54:38.280 --> 54:38.980]  I was going to end it.
+[54:38.980 --> 54:40.460]  I was going to I was going to sit down.
+[54:40.580 --> 54:41.700]  I'm still in the shit chair.
+[54:42.120 --> 54:43.900]  I was going to you're going to transition live.
+[54:44.200 --> 54:46.180]  I was going to transition live to it.
+[54:46.340 --> 54:46.700]  Amazing.
+[54:47.220 --> 54:52.480]  Yeah, I can't believe you've got a Herman Miller chair and you have been ignoring it
+[54:52.480 --> 54:53.940]  for how long now?
+[54:55.240 --> 54:55.720]  Months.
+[54:55.820 --> 55:02.780]  I mean, there's so many things I what I've learned is I cannot wait for bits because I
+[55:02.780 --> 55:09.220]  have been planning since we knew since we knew that we were going to have to do a new thing.
+[55:09.780 --> 55:16.540]  Um, I've had a bit in mind for this episode since one ninety six, and part of that bit
+[55:16.540 --> 55:21.140]  involved Gracie, who now has a real job and is not here.
+[55:21.600 --> 55:23.280]  So I never got to do it.
+[55:23.620 --> 55:29.360]  But I assume that Gracie had no awareness of the beginning and some of the events of
+[55:29.360 --> 55:36.120]  our podcast with like the double salted licorice and the the soda chug and all these things
+[55:36.120 --> 55:37.740]  and the hundred percent chocolate.
+[55:37.940 --> 55:41.040]  I was going to do them all at once, just like back to back to back.
+[55:41.340 --> 55:42.440]  Tiger balm on the balls.
+[55:43.140 --> 55:44.940]  And I don't have a reason to do that.
+[55:45.680 --> 55:50.960]  Well, maybe if maybe if we do well on Patreon, we can we can give an appearance fee for Gracie
+[55:50.960 --> 55:51.460]  to pull back.
+[55:53.020 --> 55:53.800]  I love it.
+[55:53.860 --> 55:54.300]  That's good.
+[55:54.460 --> 55:55.880]  Do you think she would have time?
+[55:57.420 --> 56:02.480]  I've so just so you guys know, just for full transparency, I am currently working with
+[56:02.480 --> 56:05.860]  her on some of this stuff to make time for us.
+[56:06.120 --> 56:08.560]  And others, it's we are.
+[56:08.860 --> 56:15.280]  It's hard because she's working a real job for a real production company with real fucking
+[56:15.280 --> 56:15.700]  hours.
+[56:15.940 --> 56:17.760]  Like it is not real expectations.
+[56:18.280 --> 56:18.360]  Yeah.
+[56:18.480 --> 56:21.000]  Hey, would you pay a thousand dollars to shoot a horse?
+[56:21.160 --> 56:23.660]  It's like, oh, we're making television programs.
+[56:25.800 --> 56:30.180]  I did invite them to our stream, but they are they're unfortunately not available.
+[56:30.980 --> 56:34.780]  But I'm sure we'll get scared her off with my anus and vagina.
+[56:34.780 --> 56:36.240]  No, I don't think so.
+[56:36.640 --> 56:38.100]  I don't I don't think so.
+[56:38.160 --> 56:40.440]  But also, I can't imagine that it helped.
+[56:41.620 --> 56:43.800]  Yeah, it just did us no favors.
+[56:44.400 --> 56:45.800]  It certainly didn't help.
+[56:45.880 --> 56:47.920]  Yeah, it did not do any favors.
+[56:48.420 --> 56:49.440]  I don't want to get in.
+[56:49.600 --> 56:50.940]  I don't want to get too much trouble here.
+[56:50.980 --> 56:54.060]  I'm the secretary, as people should know by this point.
+[56:54.240 --> 56:56.300]  Do they already know?
+[56:56.600 --> 56:59.060]  I think that'll be the first piece of content we put on our Patreon.
+[56:59.360 --> 57:00.100]  I think it should be.
+[57:00.180 --> 57:00.300]  That's not.
+[57:00.440 --> 57:01.240]  Yeah, that's great.
+[57:01.240 --> 57:03.660]  Um, but Eric is our president.
+[57:04.880 --> 57:09.940]  I, uh, hey, Eric, I, I might I might need a presidential pardon.
+[57:12.480 --> 57:13.200]  Episode one.
+[57:13.340 --> 57:17.900]  Now, now, here's what I'll say is I don't know how many of these I'm willing to give out in a year
+[57:17.900 --> 57:19.940]  because I think you guys are going to run roughshod.
+[57:20.060 --> 57:21.840]  So you really get one per year.
+[57:22.020 --> 57:23.740]  Oh, I think it's definitely one per year.
+[57:24.040 --> 57:24.400]  Definitely.
+[57:25.160 --> 57:26.360]  And we're halfway through.
+[57:26.460 --> 57:31.060]  So, I mean, really, you're getting, you know, you got plenty of time, but go for it, Andrew.
+[57:32.480 --> 57:35.860]  Um, I had a realization that.
+[57:37.380 --> 57:41.920]  Well, OK, so when we when we learned about all this stuff, we're going to potentially
+[57:41.920 --> 57:44.340]  have to make a new YouTube channel and all that.
+[57:45.380 --> 57:50.100]  I claimed a bunch of that stuff a long time ago, months ago.
+[57:50.260 --> 57:54.640]  And as we've been teasing things, our wonderful listeners have been
+[57:54.640 --> 57:58.900]  have been like, oh, I found this, I found that type thing and sharing it.
+[58:00.420 --> 58:05.100]  And this is one of the primary ones that we've shared when we posted
+[58:05.700 --> 58:07.460]  the thread about it recently.
+[58:08.840 --> 58:11.000]  Um, and it's really funny.
+[58:11.120 --> 58:13.780]  It's a great, it's a great account.
+[58:13.920 --> 58:17.620]  So there's, uh, as you can see, this is the post.
+[58:17.660 --> 58:20.560]  It's called Regulation Pod on YouTube.
+[58:20.640 --> 58:24.280]  Currently, it's 3.65 subscribers or 1000 subscribers.
+[58:24.500 --> 58:27.040]  Yeah, which is pretty good considering we haven't promoted this in any way.
+[58:27.860 --> 58:31.400]  Uh, and I looked at that and ratty boy is the image of it.
+[58:31.540 --> 58:33.280]  Yeah, and I went, oh, that's funny.
+[58:33.580 --> 58:34.560]  That's a funny thing I did.
+[58:34.640 --> 58:35.540]  I don't remember doing that.
+[58:36.020 --> 58:39.100]  I don't remember doing that because that's not the YouTube I made.
+[58:39.180 --> 58:40.920]  I don't think that's any of our YouTube.
+[58:41.560 --> 58:43.220]  I think that's a fan account.
+[58:43.520 --> 58:43.960]  Yeah.
+[58:45.060 --> 58:50.100]  The YouTube that I made for us has three subscribers currently.
+[58:51.140 --> 58:56.180]  And I can't even find it when I mainly search because I was trying to take a screenshot.
+[58:56.180 --> 58:57.600]  What are you talking?
+[58:57.800 --> 59:01.640]  I went, I made the regulation podcast YouTube.
+[59:02.240 --> 59:04.680]  OK, this was before we even locked stuff in.
+[59:04.800 --> 59:07.320]  That currently has three subscribers.
+[59:07.460 --> 59:08.020]  Oh, let me check.
+[59:08.140 --> 59:09.420]  Maybe someone got added.
+[59:10.880 --> 59:14.700]  So I, I think I may have at one point been like, ah, yeah, you found it
+[59:15.220 --> 59:17.520]  or like acknowledged this in some capacity.
+[59:17.920 --> 59:20.940]  I think I probably acknowledging someone else's.
+[59:21.180 --> 59:21.480]  Yeah.
+[59:21.980 --> 59:25.020]  And last night I had a panic of maybe I made
+[59:25.020 --> 59:27.240]  because I did make multiple YouTubes.
+[59:27.360 --> 59:28.400]  I did not make that one.
+[59:29.360 --> 59:35.660]  And if none of you guys made that, I think I might request a presidential pardon on this issue.
+[59:37.160 --> 59:39.280]  I definitely didn't make that.
+[59:39.340 --> 59:40.780]  I don't think I made that either.
+[59:40.920 --> 59:43.120]  What is the pardon you're asking for, though?
+[59:43.160 --> 59:44.100]  I don't understand.
+[59:44.380 --> 59:46.260]  I feel like I endorsed.
+[59:46.760 --> 59:50.040]  Yeah, I feel like I endorsed a fan account thinking it was mine.
+[59:50.220 --> 59:52.280]  That's no, no, that's absolutely on you.
+[59:52.460 --> 59:53.320]  There's no.
+[59:53.880 --> 59:55.240]  No, it is on me.
+[59:55.680 --> 59:55.780]  Yeah.
+[59:55.920 --> 59:59.080]  So is the crime that people typically get pardoned for.
+[59:59.360 --> 01:00:00.400]  No, no.
+[01:00:00.880 --> 01:00:02.300]  I'm asking for an exception here.
+[01:00:02.400 --> 01:00:02.820]  No.
+[01:00:03.900 --> 01:00:04.440]  Wow.
+[01:00:04.760 --> 01:00:05.580]  I mean, like.
+[01:00:05.720 --> 01:00:06.700]  First pardon denied.
+[01:00:07.120 --> 01:00:07.460]  Here's.
+[01:00:07.540 --> 01:00:07.800]  Okay.
+[01:00:07.920 --> 01:00:08.540]  Here's why.
+[01:00:09.120 --> 01:00:09.380]  Here's why.
+[01:00:09.380 --> 01:00:10.440]  I would have given it to you too.
+[01:00:10.900 --> 01:00:11.360]  That's cool.
+[01:00:11.420 --> 01:00:11.840]  Not president.
+[01:00:12.140 --> 01:00:13.020]  So here's why.
+[01:00:15.600 --> 01:00:22.920]  I have a real issue with the way that we have no consistent branding.
+[01:00:23.480 --> 01:00:25.000]  Over any of our names.
+[01:00:26.020 --> 01:00:29.820]  We have picked and chosen the regulation pod.
+[01:00:30.140 --> 01:00:31.880]  The regulation podcast.
+[01:00:32.680 --> 01:00:33.560]  Regulation pod.
+[01:00:33.880 --> 01:00:34.720]  Regulation podcast.
+[01:00:35.020 --> 01:00:36.800]  We're all over the place with this stuff.
+[01:00:37.060 --> 01:00:39.200]  And I put that squarely, Andrew, at your feet.
+[01:00:39.660 --> 01:00:39.680]  So.
+[01:00:39.820 --> 01:00:40.120]  So.
+[01:00:40.240 --> 01:00:41.020]  So what are we?
+[01:00:41.060 --> 01:00:41.480]  No pardon.
+[01:00:41.720 --> 01:00:42.400]  Yeah, go ahead, Andrew.
+[01:00:42.420 --> 01:00:42.840]  What are we?
+[01:00:44.120 --> 01:00:47.020]  Well, we're the regulation podcast because that's what you want.
+[01:00:48.080 --> 01:00:49.180]  That that was that was your big.
+[01:00:49.620 --> 01:00:50.120]  I assume.
+[01:00:51.180 --> 01:00:51.840]  I'm sorry.
+[01:00:51.960 --> 01:00:52.480]  There's no the.
+[01:00:53.480 --> 01:00:54.800]  We're regulation podcast.
+[01:00:55.320 --> 01:00:56.740]  Yeah, we're regulation podcast.
+[01:00:56.820 --> 01:00:57.400]  That's what I said.
+[01:00:57.660 --> 01:00:58.080]  We're regulation podcast.
+[01:00:58.080 --> 01:00:59.040]  No, it's not.
+[01:00:59.300 --> 01:01:00.380]  What is happening?
+[01:01:00.760 --> 01:01:05.660]  This is going back to an argument we had when I said when I intro the first episode,
+[01:01:05.660 --> 01:01:07.840]  do I say welcome to a regulation podcast?
+[01:01:08.040 --> 01:01:09.240]  Welcome to regulation podcast.
+[01:01:09.320 --> 01:01:11.060]  Or welcome to the regulation podcast.
+[01:01:11.060 --> 01:01:12.360]  I always thought it was the.
+[01:01:12.560 --> 01:01:15.200]  And I do remember Eric saying, what are you talking about?
+[01:01:15.260 --> 01:01:17.180]  You just say welcome to the regulation podcast.
+[01:01:17.420 --> 01:01:17.540]  And I.
+[01:01:17.720 --> 01:01:19.540]  Yeah, and you don't need but we don't need.
+[01:01:19.660 --> 01:01:23.240]  And the other part of what I said is that you don't need the in the name.
+[01:01:23.320 --> 01:01:26.860]  Because it's just it's it's like it's not called the fuck face.
+[01:01:27.400 --> 01:01:29.460]  It was I should have been everywhere.
+[01:01:30.520 --> 01:01:31.820]  But see, here's the thing.
+[01:01:31.960 --> 01:01:33.820]  In my hindsight, and I didn't want to die.
+[01:01:33.900 --> 01:01:34.320]  All right.
+[01:01:34.360 --> 01:01:34.580]  All right.
+[01:01:34.580 --> 01:01:34.860]  Hang on.
+[01:01:34.960 --> 01:01:35.820]  Let us into your head.
+[01:01:35.940 --> 01:01:36.440]  Go ahead, man.
+[01:01:36.520 --> 01:01:37.320]  Yeah, that's well.
+[01:01:37.720 --> 01:01:39.280]  Why did you interrupt me?
+[01:01:39.500 --> 01:01:42.740]  And when I was ready, I want I'm preparing myself.
+[01:01:42.780 --> 01:01:45.140]  I'm wiping my feet at the door.
+[01:01:45.420 --> 01:01:46.540]  I'm ready to walk right in.
+[01:01:46.580 --> 01:01:48.280]  Go regulation podcast.
+[01:01:49.140 --> 01:01:50.440]  We're one of many.
+[01:01:50.440 --> 01:01:54.840]  To me, the represented that we were the regulation podcast.
+[01:01:55.420 --> 01:01:56.300]  There's a different meaning.
+[01:01:56.740 --> 01:01:57.520]  It hit differently.
+[01:01:58.140 --> 01:01:58.800]  So I agree.
+[01:01:58.860 --> 01:01:59.120]  You're right.
+[01:01:59.280 --> 01:02:03.720]  I didn't think that we were the fuck face podcast because that doesn't have the same
+[01:02:03.720 --> 01:02:04.760]  meaning as regulation.
+[01:02:04.960 --> 01:02:05.980]  That's like a standard.
+[01:02:06.620 --> 01:02:08.020]  It's they're different things.
+[01:02:08.240 --> 01:02:14.420]  I do feel like we're kind of planting a flag in the sand here with the with the word regulation.
+[01:02:14.420 --> 01:02:21.820]  Like we're basically creating because we can we can be regulation podcast, which is the
+[01:02:21.820 --> 01:02:26.020]  regulation podcast because it is a regulation podcast all at the same time.
+[01:02:26.100 --> 01:02:29.940]  We're becoming like the dictionary definition of what a regulation podcast is.
+[01:02:29.960 --> 01:02:34.800]  But we are also the regulation podcast called regulation podcast.
+[01:02:34.880 --> 01:02:36.360]  Sounds like we really fuck faced ourselves.
+[01:02:36.800 --> 01:02:38.220]  Yes, that is exactly that.
+[01:02:38.320 --> 01:02:38.660]  That's exactly.
+[01:02:38.760 --> 01:02:40.220]  Here's the real answers.
+[01:02:40.520 --> 01:02:43.640]  This is the real explanation for why there's inconsistency in that.
+[01:02:44.600 --> 01:02:51.280]  Some platforms, yeah, some platforms have different maximum character counts.
+[01:02:51.580 --> 01:02:56.120]  And that was before we locked in that the podcast would be called Regulation Podcast
+[01:02:56.120 --> 01:02:57.780]  because I wanted to get on top.
+[01:02:57.860 --> 01:03:02.680]  I'm sorry that I cared to lock these up as quickly as apology not accepted.
+[01:03:02.780 --> 01:03:05.040]  But OK, yeah, that's fair.
+[01:03:05.460 --> 01:03:05.980]  You're the president.
+[01:03:06.340 --> 01:03:07.220]  Listen, I'm the secretary.
+[01:03:07.340 --> 01:03:07.940]  I respect it.
+[01:03:07.960 --> 01:03:09.040]  I respect whatever rule you make.
+[01:03:09.360 --> 01:03:13.940]  But I feel like I tried to get ahead of the game in favor of all of us.
+[01:03:13.940 --> 01:03:18.740]  And then when I was making all these accounts, I was trying to do it consistently.
+[01:03:18.980 --> 01:03:24.360]  But some of them had shorter maximum character counts, which is what created
+[01:03:24.360 --> 01:03:27.200]  the inconsistency in that account.
+[01:03:28.080 --> 01:03:31.840]  So what are we calling it now when we shoot ourselves in the foot due to stupidity?
+[01:03:32.680 --> 01:03:34.140]  I think it's still fuck facing yourself.
+[01:03:34.340 --> 01:03:36.080]  OK, we didn't regulate ourselves.
+[01:03:36.560 --> 01:03:37.740]  No, no.
+[01:03:37.960 --> 01:03:38.280]  OK, good.
+[01:03:38.940 --> 01:03:40.820]  You could Greg yourself, maybe.
+[01:03:41.340 --> 01:03:42.220]  You can Greg.
+[01:03:42.760 --> 01:03:44.980]  You can salad cream still.
+[01:03:45.620 --> 01:03:46.640]  You can salad cream.
+[01:03:46.740 --> 01:03:47.680]  You can Brimley.
+[01:03:48.080 --> 01:03:48.980]  Oh, Brimley.
+[01:03:49.200 --> 01:03:50.380]  I forgot about Brimley.
+[01:03:52.680 --> 01:03:56.540]  I feel like I'm getting a lot of heat from the 100% heat guy as well, which is just like,
+[01:03:56.620 --> 01:03:58.060]  what do you put 100% in?
+[01:03:58.340 --> 01:03:59.500]  Do you put the symbol in?
+[01:04:00.080 --> 01:04:01.580]  How does the searchability?
+[01:04:02.240 --> 01:04:03.560]  I feel like that's also a nightmare.
+[01:04:04.020 --> 01:04:08.520]  1-0-1-0-0-P-E-R-C-E-N-T-E-A-T.
+[01:04:09.040 --> 01:04:11.040]  But the logo doesn't reflect that.
+[01:04:11.480 --> 01:04:11.860]  Yeah.
+[01:04:13.200 --> 01:04:14.440]  The visuals of it.
+[01:04:14.680 --> 01:04:15.480]  So what are we?
+[01:04:15.680 --> 01:04:17.940]  And when you and hang on, I don't know your channels.
+[01:04:18.080 --> 01:04:19.780]  And when you find our channels, that's where they are.
+[01:04:19.860 --> 01:04:20.660]  They're in the same place.
+[01:04:20.800 --> 01:04:25.180]  So what I'm saying is that when we say, hey, you want to find us here or find us there,
+[01:04:25.560 --> 01:04:27.060]  Andrew, where can you find us on Twitter?
+[01:04:28.640 --> 01:04:30.960]  On Twitter, we're regulation pod on Twitter.
+[01:04:31.420 --> 01:04:34.360]  And because they had a smaller, where can you find and where can you find us on Instagram?
+[01:04:35.060 --> 01:04:36.220]  The regulation pod.
+[01:04:38.600 --> 01:04:39.420]  This sucks.
+[01:04:40.400 --> 01:04:41.500]  Right, exactly.
+[01:04:42.740 --> 01:04:44.820]  Well, I'm sorry I did all the work.
+[01:04:45.020 --> 01:04:45.680]  I apologize.
+[01:04:46.000 --> 01:04:47.900]  Next time I'll let you guys do the work.
+[01:04:48.120 --> 01:04:48.800]  Apology not accepted.
+[01:04:48.860 --> 01:04:49.160]  It's fine.
+[01:04:49.520 --> 01:04:55.380]  Can I just jump in and say, Andrew, I'm just a bog standard employee.
+[01:04:56.520 --> 01:04:58.860]  I'm a 20% co-owner.
+[01:04:59.240 --> 01:05:00.320]  I don't have a title.
+[01:05:00.960 --> 01:05:04.580]  I didn't win or lose a Smash Brothers campaign.
+[01:05:04.900 --> 01:05:07.880]  I just landed right in the middle until the next election.
+[01:05:07.880 --> 01:05:08.860]  That's where I'm going to be.
+[01:05:09.260 --> 01:05:14.080]  So my voice is as close to meaningless within the company as you can get.
+[01:05:14.300 --> 01:05:18.200]  But I just like to say that I appreciate what you're saying.
+[01:05:19.160 --> 01:05:23.960]  And without an official title or responsibility, I know it doesn't carry much weight.
+[01:05:24.000 --> 01:05:26.860]  But I thank you for your efforts and I appreciate your initiatives.
+[01:05:27.020 --> 01:05:29.220]  And I think what you've done is charming.
+[01:05:30.500 --> 01:05:31.880]  I know I would.
+[01:05:31.920 --> 01:05:32.900]  I would not describe it as charming.
+[01:05:33.080 --> 01:05:36.540]  I would describe it as messy, but I did the best I could.
+[01:05:36.540 --> 01:05:38.280]  Take the fucking compliment.
+[01:05:38.420 --> 01:05:39.460]  I said charming.
+[01:05:39.580 --> 01:05:41.180]  Don't refute my compliment.
+[01:05:41.640 --> 01:05:42.960]  Now I'm going to be on their side.
+[01:05:46.960 --> 01:05:51.600]  I'm saying I think that Eric is forgetting there's four-year terms to this whole presidential thing.
+[01:05:51.680 --> 01:05:52.900]  I think he might be a little drunk with power.
+[01:05:53.020 --> 01:05:53.740]  We'll see what happens.
+[01:05:54.480 --> 01:05:56.020]  Well, that's definitely true.
+[01:05:56.640 --> 01:05:56.700]  Yeah.
+[01:05:57.200 --> 01:05:59.820]  Oh, that's a good point, because if Eric rejects all your pardons,
+[01:06:00.040 --> 01:06:04.280]  it's going to definitely affect the next presidential term on Eric.
+[01:06:04.280 --> 01:06:07.600]  Presidential term is another Smash Brothers tournament.
+[01:06:08.540 --> 01:06:10.560]  Now, a different tournament, maybe.
+[01:06:10.800 --> 01:06:13.300]  But yeah, maybe we'll go Brawlhalla next time.
+[01:06:13.660 --> 01:06:17.400]  Do, uh, in four years.
+[01:06:17.540 --> 01:06:21.580]  Did we determine our elections every four years, like the U.S. presidential election?
+[01:06:21.740 --> 01:06:23.100]  Is that what we've landed on?
+[01:06:23.140 --> 01:06:24.140]  Or is that just an assumption?
+[01:06:24.380 --> 01:06:29.460]  OK, it'll be fucking wild to still be doing a podcast with you guys in four years.
+[01:06:29.540 --> 01:06:31.180]  I hope we remember to reelect.
+[01:06:31.680 --> 01:06:33.460]  Did we even have fuckface for four years?
+[01:06:33.460 --> 01:06:34.560]  No, I don't think so.
+[01:06:34.680 --> 01:06:36.020]  No, so I just did.
+[01:06:36.480 --> 01:06:42.100]  I just did a, uh, I have a meta sheet to keep organized for myself and Nick.
+[01:06:42.200 --> 01:06:44.140]  And I just laid out dates and everything.
+[01:06:44.480 --> 01:06:49.400]  And I just dragged down from today until I felt like it was pretty long.
+[01:06:49.660 --> 01:06:51.920]  Landed on 235 episodes.
+[01:06:52.080 --> 01:06:55.520]  And that will be November 8th, 2028.
+[01:06:55.840 --> 01:06:56.840]  Good lord.
+[01:06:59.220 --> 01:06:59.660]  Yeah.
+[01:06:59.820 --> 01:07:00.120]  Wow.
+[01:07:00.500 --> 01:07:02.500]  Yeah, I feel pretty good about that.
+[01:07:02.560 --> 01:07:03.260]  What is it now?
+[01:07:03.260 --> 01:07:03.900]  2024?
+[01:07:06.720 --> 01:07:08.400]  That could be your president, folks.
+[01:07:10.120 --> 01:07:11.300]  That guy would give me a pardon.
+[01:07:11.820 --> 01:07:13.580]  Should we time travel to 2028 right now?
+[01:07:14.680 --> 01:07:15.860]  No, no, no, no.
+[01:07:15.860 --> 01:07:16.360]  We could do it.
+[01:07:16.440 --> 01:07:17.840]  Is there a force you want to kill?
+[01:07:18.580 --> 01:07:19.140]  No, check this out.
+[01:07:20.460 --> 01:07:21.180]  One, two.
+[01:07:23.840 --> 01:07:26.000]  No, you idiot, you idiot.
+[01:07:26.080 --> 01:07:29.140]  In four years, I'll say three and then we'll be, that'll be it.
+[01:07:29.420 --> 01:07:30.720]  And you can cut those together.
+[01:07:31.040 --> 01:07:31.800]  But not that now.
+[01:07:32.180 --> 01:07:33.520]  I was throwing the ball.
+[01:07:33.780 --> 01:07:36.260]  Dude, throw the ball clean and have everybody shut up.
+[01:07:36.820 --> 01:07:38.300]  Well, I mean, I'll just mute you.
+[01:07:38.440 --> 01:07:38.900]  All right, all right.
+[01:07:41.060 --> 01:07:41.420]  One.
+[01:07:44.280 --> 01:07:48.840]  Hey, here's the thing, Andrew.
+[01:07:48.940 --> 01:07:52.360]  Just because I'm not pardoning you doesn't mean I don't appreciate what you do for the show.
+[01:07:52.500 --> 01:07:53.640]  I think you've done a great job.
+[01:07:53.960 --> 01:07:58.520]  We just have to figure out the things specifically that we are saying to people
+[01:07:58.520 --> 01:08:00.520]  so that way they know where to find us.
+[01:08:00.520 --> 01:08:00.840]  Absolutely.
+[01:08:01.620 --> 01:08:02.780]  So thank you very much.
+[01:08:02.840 --> 01:08:05.760]  And thank you very much to Jeff, Gavin, and Nick also,
+[01:08:05.840 --> 01:08:07.640]  because this whole process has been incredibly difficult.
+[01:08:08.400 --> 01:08:12.800]  We've done a really great job of, I mean, working together, not killing each other,
+[01:08:13.180 --> 01:08:17.480]  and being pretty excited to do this for a while.
+[01:08:17.620 --> 01:08:21.520]  And thank you to the fans, regulation listeners and comment leavers alike,
+[01:08:21.640 --> 01:08:24.160]  for following us as we go forward.
+[01:08:24.240 --> 01:08:26.100]  Because I'm very, very...
+[01:08:26.100 --> 01:08:29.160]  I've been so stressed out, I mean, I'm grayer now than ever.
+[01:08:29.160 --> 01:08:31.480]  But like, I'm so excited.
+[01:08:31.820 --> 01:08:32.640]  I'm so, so excited.
+[01:08:33.060 --> 01:08:33.900]  It's the longest week.
+[01:08:34.240 --> 01:08:34.720]  Yeah.
+[01:08:34.940 --> 01:08:38.080]  It has not been harder than I expected it to be.
+[01:08:38.260 --> 01:08:42.240]  But it has been harder than I think anything should be, unfortunately.
+[01:08:42.840 --> 01:08:42.980]  Yeah.
+[01:08:43.160 --> 01:08:47.120]  And that's not the fault of any one individual or entity or anything like that.
+[01:08:47.140 --> 01:08:49.400]  It's just like, this stuff is just fucking hard.
+[01:08:49.840 --> 01:08:52.880]  It's just hard to get shit done in 2024, unfortunately.
+[01:08:52.880 --> 01:08:53.520]  But I'm so...
+[01:08:54.120 --> 01:08:58.400]  I cannot tell you how good it feels to be at the end,
+[01:08:58.640 --> 01:09:00.600]  what I assume is the end of the first episode,
+[01:09:00.800 --> 01:09:04.280]  and knowing that we can now breathe a little fucking sigh of relief
+[01:09:04.280 --> 01:09:05.700]  in a few minutes when we stop recording,
+[01:09:05.900 --> 01:09:07.540]  because we actually got here.
+[01:09:07.940 --> 01:09:08.980]  Congratulations, guys.
+[01:09:09.960 --> 01:09:10.920]  I can't fucking...
+[01:09:10.920 --> 01:09:12.540]  The last two months has been very difficult.
+[01:09:12.840 --> 01:09:17.960]  And I really appreciate all of your hard work getting us across the finish line.
+[01:09:18.600 --> 01:09:20.240]  And to the new start line!
+[01:09:20.880 --> 01:09:22.680]  So we can do this all over again.
+[01:09:22.680 --> 01:09:23.780]  I'm so excited.
+[01:09:23.920 --> 01:09:26.140]  I feel like I have just so much energy for this.
+[01:09:26.240 --> 01:09:27.900]  I can't wait to expend it.
+[01:09:28.180 --> 01:09:28.720]  Hell yeah.
+[01:09:29.220 --> 01:09:30.740]  I can't wait to watch you expend it.
+[01:09:31.460 --> 01:09:33.380]  Well, I hope you expend it everywhere.
+[01:09:33.720 --> 01:09:34.880]  All over everything.
+[01:09:35.160 --> 01:09:39.680]  I want to see you expend so fucking hard over the next four years
+[01:09:39.680 --> 01:09:43.200]  that Andrew's gonna slip and slide in it like it's his bathtub.
+[01:09:44.160 --> 01:09:47.740]  Gavin, have you ever spent a thousand dollars to expend it before?
+[01:09:49.180 --> 01:09:51.460]  Can I make a small request before we end?
+[01:09:51.980 --> 01:09:52.560]  Sure, of course.
+[01:09:52.980 --> 01:09:57.300]  Um, if I die between now and four years from now, can someone else say three
+[01:09:57.300 --> 01:09:59.400]  and just finish off the time travel bit?
+[01:09:59.720 --> 01:10:03.380]  Yeah, whichever one of us is still alive in four years can do it.
+[01:10:03.580 --> 01:10:04.000]  So...
+[01:10:04.000 --> 01:10:04.200]  Appreciate it.
+[01:10:04.360 --> 01:10:08.520]  So here's what we need to do because we can't just say, okay, we're gone, but...
+[01:10:08.520 --> 01:10:11.280]  Hey, go to patreon.com slash regulation pod.
+[01:10:11.520 --> 01:10:12.380]  Sign up for our Patreon.
+[01:10:12.740 --> 01:10:15.900]  Support us directly because we are truly fully independent.
+[01:10:16.560 --> 01:10:21.900]  It has been a weird couple months, but we are truly fully independent.
+[01:10:21.900 --> 01:10:23.540]  There is no one backing this.
+[01:10:23.700 --> 01:10:24.920]  It is just us.
+[01:10:25.440 --> 01:10:26.820]  No, there is someone backing it.
+[01:10:26.880 --> 01:10:27.400]  It's you.
+[01:10:27.520 --> 01:10:28.340]  It's you, the listener.
+[01:10:28.520 --> 01:10:29.440]  One hundred percent.
+[01:10:29.580 --> 01:10:30.840]  We are in your hands.
+[01:10:32.940 --> 01:10:33.340]  Please.
+[01:10:33.840 --> 01:10:34.680]  No, I thought you were...
+[01:10:34.680 --> 01:10:35.140]  I'm sorry.
+[01:10:35.280 --> 01:10:35.660]  I apologize.
+[01:10:35.940 --> 01:10:36.560]  I thought you were gonna continue.
+[01:10:37.400 --> 01:10:38.460]  So go to a Patreon.
+[01:10:38.840 --> 01:10:39.700]  Subscribe there.
+[01:10:39.920 --> 01:10:41.140]  You can get some...
+[01:10:41.140 --> 01:10:43.060]  We have some exclusive supplemental stuff.
+[01:10:43.240 --> 01:10:46.060]  We have a lot going on and more to add.
+[01:10:46.200 --> 01:10:47.800]  So we're really excited to get going over there.
+[01:10:47.860 --> 01:10:49.180]  Won't somebody in America give me a chance?
+[01:10:49.180 --> 01:10:55.420]  Scroll down in the description here and we'll list all of our social media channels that I'm sure,
+[01:10:56.460 --> 01:10:58.840]  uh, we figured out at this point.
+[01:10:59.760 --> 01:11:01.640]  Um, at whatever they are.
+[01:11:01.700 --> 01:11:06.120]  Yeah, I feel like the Patreon stuff will be evolving as we work through the remaining stuff,
+[01:11:06.220 --> 01:11:08.960]  but it's definitely the place to support us now if you would like.
+[01:11:09.220 --> 01:11:09.480]  Yes.
+[01:11:10.040 --> 01:11:10.300]  Absolutely.
+[01:11:10.360 --> 01:11:11.240]  And here's the thing.
+[01:11:11.600 --> 01:11:18.740]  If you don't want to support us financially through Patreon or whatever, that's totally fine.
+[01:11:18.740 --> 01:11:19.780]  Listen to the show.
+[01:11:20.060 --> 01:11:22.540]  You listening to the show is a great way to support us.
+[01:11:22.720 --> 01:11:26.880]  You know what helps us even more is if you download the episode instead of, uh, streaming the episode.
+[01:11:27.400 --> 01:11:27.860]  Found that out.
+[01:11:28.120 --> 01:11:28.520]  So...
+[01:11:28.520 --> 01:11:28.880]  Is that true?
+[01:11:29.700 --> 01:11:29.860]  Yes.
+[01:11:30.840 --> 01:11:35.420]  Another great free way to support us, if money's not your thing, which I get,
+[01:11:35.900 --> 01:11:37.220]  uh, is to tell people.
+[01:11:38.020 --> 01:11:38.420]  Seriously.
+[01:11:39.000 --> 01:11:39.300]  Totally.
+[01:11:39.300 --> 01:11:40.080]  Tell people about us.
+[01:11:40.280 --> 01:11:41.460]  We changed the name.
+[01:11:41.560 --> 01:11:43.760]  It's so much easier to explain to people now.
+[01:11:44.180 --> 01:11:45.980]  Hopefully that won't be a hurdle for you.
+[01:11:46.080 --> 01:11:47.960]  And then also, I don't know if I said it earlier,
+[01:11:47.960 --> 01:11:49.040]  but please.
+[01:11:50.720 --> 01:11:55.300]  The entirety of Fuckface, I feel like we grew because of word of mouth from other people.
+[01:11:55.520 --> 01:11:57.500]  Like, we owe so much of our growth to that.
+[01:11:58.860 --> 01:12:02.040]  So it would really mean a lot to us if you shared this.
+[01:12:02.560 --> 01:12:03.640]  Or even just let people know.
+[01:12:03.720 --> 01:12:05.600]  Because we're in a different spot right now.
+[01:12:05.660 --> 01:12:09.120]  We're having to, at the time, rebuild all these feeds.
+[01:12:09.560 --> 01:12:11.140]  So it would be great.
+[01:12:11.500 --> 01:12:15.220]  And let's link to our Patreon and not like a fan made.
+[01:12:16.100 --> 01:12:16.700]  Oh, I don't.
+[01:12:16.820 --> 01:12:17.260]  Don't worry.
+[01:12:17.320 --> 01:12:17.880]  That's fine.
+[01:12:17.880 --> 01:12:19.100]  That's set in square.
+[01:12:19.200 --> 01:12:19.680]  We're good there.
+[01:12:19.860 --> 01:12:20.280]  I got you.
+[01:12:20.380 --> 01:12:20.900]  I got good news.
+[01:12:20.980 --> 01:12:22.060]  We got four subscribers.
+[01:12:22.480 --> 01:12:24.620]  Somebody subscribed since last night.
+[01:12:25.280 --> 01:12:25.440]  Cool.
+[01:12:25.560 --> 01:12:25.940]  We're set.
+[01:12:27.140 --> 01:12:33.640]  So I guess we'll be back with another regulation podcast this time next week.
+[01:12:33.720 --> 01:12:38.040]  And then the next week and the next week and the next week until Gavin says three at least.
+[01:12:38.860 --> 01:12:42.580]  And we probably got some videos coming out on YouTube or on the Patreon.
+[01:12:43.360 --> 01:12:46.520]  I'm sure Andrew's communicating that through social media or we all are.
+[01:12:46.520 --> 01:12:49.260]  So look out for that on those official feeds.
+[01:12:49.840 --> 01:12:53.920]  And you can watch how Eric became president and how Andrew became the secretary.
+[01:12:55.760 --> 01:12:55.980]  Riveting.
+[01:12:56.020 --> 01:12:56.860]  They nearly already have.
+[01:12:57.640 --> 01:13:02.300]  It's an entire political season distilled into one 45 minute video.
+[01:13:02.460 --> 01:13:03.380]  It's pretty intense.
+[01:13:04.220 --> 01:13:09.200]  I love that we work at a company that legitimately decided who was president because of Super
+[01:13:09.200 --> 01:13:10.500]  Smash Brothers simulations.
+[01:13:11.100 --> 01:13:12.120]  Yeah, not even a bit.
+[01:13:12.320 --> 01:13:15.760]  Like that actually became legally binding to the company.
+[01:13:16.600 --> 01:13:18.080]  Can I modify that?
+[01:13:20.080 --> 01:13:21.940]  Maybe reframe the way you said that?
+[01:13:22.340 --> 01:13:23.520]  You don't work at a company.
+[01:13:24.580 --> 01:13:26.040]  You own that company.
+[01:13:27.400 --> 01:13:28.180]  That's true.
+[01:13:29.060 --> 01:13:29.600]  Hell yeah.
+[01:13:30.140 --> 01:13:30.560]  Pretty cool.
+[01:13:30.820 --> 01:13:32.780]  We all do, which is wonderful.
+[01:13:33.460 --> 01:13:33.800]  It's crazy.
+[01:13:33.960 --> 01:13:34.920]  I'm so excited for the next episode.
+[01:13:35.320 --> 01:13:39.980]  The next episode will be the first one that we've done since the Patreon has launched.
+[01:13:40.220 --> 01:13:43.240]  We are still before launch with this recording.
+[01:13:43.580 --> 01:13:43.900]  Oh, yeah.
+[01:13:44.140 --> 01:13:45.540]  Interesting to be in a whole new world.
+[01:13:45.540 --> 01:13:49.600]  We have no idea how well or poorly that went at this point.
+[01:13:50.320 --> 01:13:55.140]  Maybe for the next fighting game simulation, we can decide who does whose performance review.
+[01:13:56.020 --> 01:13:57.200]  That's a good idea.
+[01:13:58.280 --> 01:13:58.840]  Interesting.
+[01:14:00.720 --> 01:14:01.280]  Interesting.
+[01:14:03.000 --> 01:14:04.520]  Okay, we'll see you next time.
+[01:14:04.660 --> 01:14:05.240]  Thanks for listening.
+[01:14:05.480 --> 01:14:06.380]  Go subscribe to the Patreon.
+[01:14:06.900 --> 01:14:07.640]  See you next week.
+[01:14:08.260 --> 01:14:08.660]  Bye.
+[01:14:08.840 --> 01:14:09.220]  Bye.
+[01:14:09.440 --> 01:14:10.120]  Love you.
+[01:14:10.240 --> 01:14:10.660]  Bye.
+[01:14:10.800 --> 01:14:11.780]  Love you.

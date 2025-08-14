@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/regulation-podcast-transcriptions/webapp/static/css/main.15478e0e.css",
+    "main.js": "/regulation-podcast-transcriptions/webapp/static/js/main.e0032d47.js",
+    "static/js/453.630d3d02.chunk.js": "/regulation-podcast-transcriptions/webapp/static/js/453.630d3d02.chunk.js",
+    "index.html": "/regulation-podcast-transcriptions/webapp/index.html",
+    "static/media/logo.svg": "/regulation-podcast-transcriptions/webapp/static/media/logo.d7958eb71b1549ac4d793c2ac1505699.svg",
+    "main.15478e0e.css.map": "/regulation-podcast-transcriptions/webapp/static/css/main.15478e0e.css.map",
+    "main.e0032d47.js.map": "/regulation-podcast-transcriptions/webapp/static/js/main.e0032d47.js.map",
+    "453.630d3d02.chunk.js.map": "/regulation-podcast-transcriptions/webapp/static/js/453.630d3d02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15478e0e.css",
+    "static/js/main.e0032d47.js"
+  ]
+}

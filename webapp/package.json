@@ -2,7 +2,7 @@
   "name": "webapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SamOhrenberg.github.io/regulation-database",
+  "homepage": "https://www.regulatabase.com",
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1",

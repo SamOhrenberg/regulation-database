@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Regulation Podcast Search (Webapp)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the React-based frontend application for the **Regulation Database**. It provides a clean, fast, and responsive user interface for searching through all available podcast transcriptions.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). For the full project overview, including the data pipeline and contribution guidelines, please see the [main README file](../../readme.md).
+
+## Tech Stack
+
+-   **Framework:** React
+-   **Build Tool:** Create React App
+-   **Deployment:** GitHub Pages via GitHub Actions
+
+## How It Works
+
+This is a fully static web application with no traditional backend.
+
+1.  On load, the app makes an API call to the GitHub repository to get a list of all files in the `/transcriptions` directory.
+2.  When a user performs a search, the app fetches the raw text content of each transcription file directly from GitHub (`file.download_url`).
+3.  The search is performed client-side, in the user's browser, allowing for a fast and lightweight experience.
+4.  Results are displayed with highlighted keywords and contextual snippets.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the `webapp` directory, you can run the following commands:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Runs the app in development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will automatically reload when you make edits.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `npm run deploy`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This command first runs `npm run build` and then deploys the contents of the `build` folder to the `gh-pages` branch on GitHub, making it live on GitHub Pages. Note that this is handled automatically by the GitHub Action workflow.
 
-### `npm run eject`
+### `npm test`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Launches the test runner in interactive watch mode.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Deployment
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Deployment is automated via a GitHub Actions workflow defined in [`.github/workflows/deploy-to-gh-pages.yml`](../../.github/workflows/deploy-to-gh-pages.yml).
 
-## Learn More
+Any push to the `main` branch will automatically trigger this workflow, which will:
+1.  Install dependencies.
+2.  Build the production version of the app (`npm run build`).
+3.  Deploy the `webapp/build` directory to the `gh-pages` branch.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The site is configured to be served from this `gh-pages` branch.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contributions to the webapp are welcome! Please refer to the **[main project's contributing guidelines](../../readme.md#🤝-contributing)** for details on how to submit issues and pull requests.

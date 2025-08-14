@@ -1,0 +1,1128 @@
+[00:00.000 --> 00:04.200]  Hey Fidelity, how can I remember to invest every month?
+[00:05.360 --> 00:11.460]  With the Fidelity app, you can choose a schedule and set up recurring investments in stocks and ETFs.
+[00:11.920 --> 00:13.640]  Oh, that sounds easier than I thought.
+[00:14.060 --> 00:14.900]  You got this.
+[00:15.180 --> 00:18.400]  Yeah, I do. Now, where did I put my keys?
+[00:19.120 --> 00:21.440]  You will find them where you left them.
+[00:23.360 --> 00:28.080]  Investing involves risk, including risk of loss. Fidelity Brokerage Services LLC. Member NYSE SIPC.
+[00:30.380 --> 00:34.280]  Hello and welcome to the Regulation Podcast. This is number 50.
+[00:34.740 --> 00:38.540]  My name is Jeff Ramsey. With me, as always, Andrew, Eric, Gavin, and Nick.
+[00:38.580 --> 00:42.180]  I was afraid I would forget your names. It's been so long since I've talked to you all.
+[00:43.300 --> 00:44.120]  It has been a while.
+[00:44.900 --> 00:45.620]  It's been a while.
+[00:45.780 --> 00:48.780]  It's been some time. To the audience, though, it's no time at all.
+[00:48.800 --> 00:53.900]  Yeah, seamless to the audience. But I've been gone for the better part of about three weeks.
+[00:53.900 --> 01:00.640]  I had two trips back to back. I went on a vacation with my family to Greece and Turkey.
+[01:00.860 --> 01:04.440]  I went on a cruise and then I did some land stuff.
+[01:04.780 --> 01:09.980]  By the way, we'll get into it later at some point when I've collected my thoughts.
+[01:10.260 --> 01:13.800]  But Turkey, Turkey, maybe the greatest place on Earth.
+[01:13.880 --> 01:15.580]  I've heard that. I've heard Turkey's phenomenal.
+[01:16.480 --> 01:21.080]  Jesus Christ, do I love Turkey. Honestly. It's a fantastic place.
+[01:21.180 --> 01:22.800]  Greece, pretty good. Turkey, way better.
+[01:22.800 --> 01:24.260]  No offense to Greece.
+[01:25.680 --> 01:26.840]  Greece is pretty good.
+[01:27.180 --> 01:31.220]  Athens is like a 82. Turkey's a 96, man.
+[01:31.920 --> 01:32.940]  Everywhere you go.
+[01:33.740 --> 01:41.660]  Anyway, but I'm I was really, really looking forward to today because I have I've genuinely missed you guys more than I knew I could miss.
+[01:42.480 --> 01:43.160]  Missed you, too.
+[01:43.160 --> 01:52.320]  I, you know, we all look forward to spending time together so much and to take such an extended break was way more difficult than I realized it would be.
+[01:52.800 --> 01:58.600]  So I keep up in the slack, you know, and so I'm watching you guys have fun and test out new shows and stuff.
+[01:58.780 --> 02:12.700]  And man, the only time I've ever experienced FOMO in my life, I think, is in that slack when I see you guys doing stuff that I don't get to be a part of, which is the best FOMO to experience because I know whatever you guys are doing is fucking magic and I can't wait to watch it, you know.
+[02:15.180 --> 02:21.240]  So I'm coming in today at a bit of a deficit and I'd like to tell you a story about how I arrived at this microphone.
+[02:22.200 --> 02:42.200]  So I was on this cruise for, I think, 15 days and we left Istanbul at 2 in the morning, flew to Frankfurt, had about a four hour layover there and then flew from Frankfurt straight to Austin, which was awesome.
+[02:42.460 --> 02:50.160]  We were getting in the plane, though, and they go, due to some intense headwinds, we're going to have to add more fuel to the plane.
+[02:50.540 --> 02:56.520]  We want to make sure we have enough to get there. That's because they knew we were going to get our asses kicked.
+[02:57.040 --> 03:05.620]  Boy, did we. It took an extra two hours to get home on that flight. So what was like an 11 and a half hour flight was like a 13 and a half hour flight because of these fucking winds.
+[03:05.620 --> 03:20.120]  Yeah. And so by the time we roll into Austin, it's been 20 hours of travel. Right. So I'm a fucking zombie. We get in about 4 p.m., get home, love Albert a little bit.
+[03:20.180 --> 03:30.820]  And then Emily is trying so hard to stay awake, but she just crashes. And I think I got to stay awake because at 6 a.m., I have to be back at the airport for another flight.
+[03:30.820 --> 03:42.420]  I have to go out of town just for one night to go deal with something and then come back. So I'm home for 15 hours and I'm like, this 15 hours is going to be a nightmare because I feel like a zombie.
+[03:42.620 --> 03:54.920]  I have got such jet lag. You wouldn't even believe jet lag gets worse as you get older. Actually, I read about it a little bit and I'm older, so I decide I can't go to sleep.
+[03:54.920 --> 04:07.600]  I cannot go to sleep. So I'm doing dishes. I do all the laundry from the trip. I I'm just doing all kinds of stuff. I managed to stay up till about 9 p.m. and then I fucking crash hard until about 11.
+[04:07.800 --> 04:15.700]  And then I wake up and then I do that thing where you go to sleep for you think it's like an hour and a half, but it's really 18 minutes. And you're like, come on.
+[04:15.700 --> 04:26.180]  You go back to sleep and you're like, oh, it must be five in the it's been 23 minutes. Mother, I did that till about 4 a.m. and then at 4 a.m. I gave up and I was laying in bed.
+[04:26.320 --> 04:36.040]  I was laying in bed. I already told Eric this part. And I got to thinking about everything I have to do this week. And I was like, man, thank God Jeff was so smart to do a bunch of so all rights in advance.
+[04:36.120 --> 04:41.980]  So I don't have to record one this week because I got that robots when coming out. And then I looked at my phone and the robots episode had just come out.
+[04:43.620 --> 04:50.140]  And I go, oh, I miscounted. I have to do a so all right. And I'm thinking, all right, well, I'm out of town Tuesday. I'm out of town Wednesday.
+[04:50.640 --> 04:57.840]  We're going hard on Thursday and I assume Friday. So what am I going to do like a so all right on Saturday? Like at some point I would like a day not to do shit, you know?
+[04:58.860 --> 05:08.560]  And so I'm just laying there and I think I just I can't go back to sleep. I got to do it now. So I rolled out of bed and I did a so all right at 430 in the morning.
+[05:08.560 --> 05:19.080]  That is maybe the worst thing the worst thing I have ever done. I haven't even gone back to listen to it yet, but I just didn't see any other time to do it.
+[05:19.240 --> 05:27.200]  So and it was just all about how exhausted I was. Right. And I can't imagine. I'll be I'll be happy if it's in English, honestly, if I can understand what I'm saying.
+[05:27.740 --> 05:35.100]  And and then by the time I was done, I was like 515 and I have to be at the airport at like six. And so I was like or 630, you know, and I was like, oh, fuck.
+[05:35.160 --> 05:48.180]  So I take a shower and I just go to the airport a little bit early because what else am I going to do? And and then I get on my plane and I travel and I go I get off the plane and go straight to the thing that I got to do and deal with all that.
+[05:48.180 --> 05:55.080]  It's stressful, but it's good and it needed to be done. And clearly, obviously not something I can talk about on the podcast because I'm talking around it.
+[05:55.940 --> 06:07.500]  And then I eat a hamburger for dinner from Uber Eats. I somehow fucked up my Uber Eats order and sent my my hamburger to a building five blocks away.
+[06:07.740 --> 06:16.580]  So by the time the guy got it to me, I was just I was it was like a barbecue burger and it was kind of cold and it was kind of, as Gavin would say, minging.
+[06:18.160 --> 06:24.900]  And I couldn't even finish it. And I don't know if this hamburger is a part of the problem or if it was just a punctuation on it on a long couple of days.
+[06:24.980 --> 06:36.920]  Oh, no. But then I go to bed and I'm able to sleep from about, I don't know, that same kind of shit, like waking up every 20 minutes.
+[06:36.960 --> 06:45.060]  You're in an uncomfortable hotel room in a different room. All I want on earth is to be in my bed and I can't be, you know, I'm just like pretty defeated at this point.
+[06:45.060 --> 06:58.080]  And so I wake up, wake up, wake up again at four in the morning. And so I just lay in an uncomfortable hotel room bed from 4 a.m. until my flight is until 140 in the afternoon.
+[06:58.460 --> 07:10.920]  I couldn't get an earlier flight. And so at about 9 a.m., I just I was hungry. I was starving and I didn't want to eat any shitty hotel food.
+[07:10.920 --> 07:16.840]  I don't want to eat any shitty airport food either. But I was just miserable and uncomfortable. And I thought, I'm just going to go to the airport. Fuck it.
+[07:17.160 --> 07:27.980]  I'll just go to the airport early. I can sit in the Admirals Club. You know, thank God, the gift of 20 years of travel at Rooster Teeth is that I have Admirals Club, you know, essentially for the rest of my life, which is helpful.
+[07:28.360 --> 07:35.180]  And so I was like, I'll just go to the Admirals Club and I'll just sit in there and and kill three and a half hours, it turns out.
+[07:35.180 --> 07:49.940]  So I get dressed, I get all my shit, order my Uber, get into my Uber. Biggest, meanest Russian dude I've ever seen in my entire life. Car is like a hot box. It's so hot, I'm sweating.
+[07:51.160 --> 07:58.360]  Guy won't look at me, make contact with me. He says three things over and over again. Well, he says one thing three ways over and over again. I'll tell you in a second.
+[07:58.360 --> 08:11.980]  Anyway, also, wonderfully, car reeks of cigarette smoke. So being in a hot car, reeking of cigarette smoke, Google says or Uber says it's going to take 44 minutes to get to the airport.
+[08:12.420 --> 08:19.440]  It took an hour and 17 minutes to get to the airport because of traffic, which is the only thing this guy said.
+[08:19.440 --> 08:33.200]  He said it three ways. When he was mad, he was a fucking traffic. And when he wanted to communicate with me, he would go fucking traffic. And then when he was just like really flustered under his breath, he would just go fucking traffic.
+[08:33.540 --> 08:46.000]  And that was it. That's all he said for an hour and 17 minutes or whatever. And it was the most uncomfortable ride in my entire life. And by the time I got out of the car, I was not feeling great.
+[08:46.000 --> 08:52.720]  I'm imagining the guy in Home Alone 2 when Kevin almost gets in that cab with the scary guy, except you got in.
+[08:53.380 --> 09:01.960]  Kind of. He's got like, he's got like a sweatshirt on with cut off sleeves and like Russian tattoos and shit, you know, and I'm like, well, he definitely got those in jail, you know.
+[09:03.360 --> 09:12.740]  So I don't, you know, I'm not John Wick or anything. I'm not trying to get into some kind of a fucking cool guy fight. And so I, I just stomach the cigarette smoke.
+[09:12.740 --> 09:21.400]  So when I get out of the airport, I'm not feeling great. And I think, ah, no problem. I'm really mostly just hungry. I'm fucking starving because that burger was not it.
+[09:22.100 --> 09:31.520]  And I go to the Admirals Club. I look at my watch. I've got just under four hours before my flight at this point, I think. Or no, maybe three, like three and a half hours maybe.
+[09:31.980 --> 09:41.260]  And I shouldn't, I shouldn't exaggerate. And I go sit in a chair and I just can't get comfortable. And I just go sit in a different chair and I can't get comfortable.
+[09:41.260 --> 09:47.740]  And I think, I just, oh, I'll go get some food. And I go see the food and Admirals Club, American Airlines.
+[09:48.840 --> 09:49.140]  Sucks?
+[09:49.640 --> 09:58.660]  Yeah. When it comes to food at the Admirals Club, they're the lowest of the low. I've been in a lot of Delta and United. Holy shit, dude. Turkish Airways. I was in the at the Turkish Airways Club.
+[09:59.540 --> 10:08.780]  Jesus Christ. I don't want to leave. I wanted to move in there. Oh my God. They even have video games and shit. They have a whole golf thing where you can like practice your golf swing in there and they'll just make whatever food you want.
+[10:10.600 --> 10:24.980]  Anyway, so I get some and at this point, my stomach starting to feel like, oh, do I feel a little queasy? So I get a banana. I get the like the safest things I can think. I get a banana and I get oatmeal and I eat the banana and I start to eat the oatmeal.
+[10:25.440 --> 10:34.480]  And something's like, you shouldn't continue this. And I'm like, OK, well, I'm not going to eat the oatmeal then. But I know I'm fucking dehydrated and I need nutrients.
+[10:34.480 --> 10:41.640]  So I'm like, oh, they have orange juice. They have super watered down Admirals Club orange juice. If you've ever had Admirals Club orange juice, you know what I'm talking about.
+[10:41.800 --> 10:52.120]  It's like 80 percent water and like and just a little bit of juice for coloring. Right. And so I start slamming those. I get about four of them in me and then I'm starting to feel really rough. I feel bloated.
+[10:52.120 --> 11:02.860]  Oh, and I go, I'm gonna go find another seat to sit at me and I try to get comfortable in another seat and I can't. And I'm like laying, I'm trying to sleep. I can't get it. And then it hits me. You're going to throw up.
+[11:03.360 --> 11:10.800]  You're going to throw up in the Admirals Club. You're absolutely going to in the next five minutes, you're going to throw up in the Admirals Club.
+[11:11.320 --> 11:25.780]  So I grab my backpack and I leisurely walk. You know, nothing's wrong. I'm trying to look normal. Meanwhile, I'm fucking sweating to death. And I walk to the bathroom. I get the farthest one from everybody. I get down on my knees and I throw up.
+[11:27.360 --> 11:42.740]  And you know how when you throw up and then you're like, oh, thank God I feel instantly better. Yes. Yeah. It's the only upside to vomit is that it makes you feel better after. I don't feel better. And I'm like, I guess I gotta throw up again. Six times I threw up.
+[11:42.740 --> 12:06.180]  Every bit of orange juice and banana and water I throw up. Like a fucking Fairly Brothers movie kind of vomit, right? And so after the sixth one, I still don't feel better. And I'm like, I tried to make myself throw up, but there's nothing left.
+[12:06.180 --> 12:27.380]  And so I just have to feel shitty. So then I walk over and I get my toothbrush out of my bag and I go into the sink and I brush my teeth to get the puke out of my mouth and stuff. And then I go back in and then I have like about two and a half hours to kill in the Admirals Club where I just... I don't know how to describe it, but I'm just unhappy. I'm just miserable.
+[12:27.380 --> 12:40.800]  I just like nothing on my phone is interesting. I don't, I can't get comfortable. No chair sits right. Nothing in that everything, every chair is at an odd angle, so I can't lay down. I can't sit upright. I cannot find a moment of comfort in the Admirals Club.
+[12:40.800 --> 12:42.400]  You need to be asleep is what you need.
+[12:42.640 --> 12:45.660]  I need to be asleep. I haven't slept at this point in a very long time.
+[12:45.760 --> 12:45.960]  Yeah.
+[12:46.560 --> 12:49.680]  Sorry, taking a breath for some water. Hopefully I don't throw it up.
+[12:52.140 --> 13:02.880]  So then, then when it's about 30 minutes from my flight, I just can't sit there anymore. So I get up and I just go walk around the airport hoping that like getting some exercise will make me feel better. It doesn't. It doesn't.
+[13:02.880 --> 13:25.380]  But it just time moves so slowly, like so unbelievably slowly. And I think, man, I can't wait till I'm on this airport because then or on this airplane because I, one of the things I did because I genuinely love myself is I bought myself first class seats to on this flight because I knew it was going to be kind of stressful and I knew I was going to be coming off of another long trip and I deserve a little bit of comfort. Right.
+[13:25.380 --> 13:51.300]  And so I get on the plane and I'm in three E and the guy next to me is like really sweet kind of young guy. He's wife, like newlywed wife is in one F and they're like talking and laughing. And I go, Hey man, I'll switch places with your wife if you want. So you can sit next to each other. I don't, I, you know, I had no problem doing that. And they're like, so grateful. And I'm so happy to do it because I always hate when Emily and I can't sit together on a plane, you know?
+[13:51.660 --> 14:19.640]  And, uh, and so I go sit in one F, which I didn't think about at the time is a fucking bulkhead and I can't stretch my legs out. My legs immediately start to cramp and I just can't get them to stop. I can't do anything about it. Right. And so I sit on the plane, we take off, everything's fine. I'm at this point, I'm terrified we're going to get held up or there's going to be a problem. And cause I, I'm at like, I started the day at like a 50 and I'm at like 20 right now on the, in the seat. Right.
+[14:19.640 --> 14:46.720]  This big, gross lump of shit comes and sits next to me and just spreads out all over me. He's like six, four and massive. And he's like cramming me in and I got no fucking room and he's fucking gross. And then he, we take off and then he does the grossest thing I've ever seen in my entire life. He orders a Bailey's on the rocks, which turns out immediately turns out what turns out.
+[14:47.280 --> 15:09.620]  Yeah, dude. Bailey's on the rocks. Turns out Bailey's on the rocks is not a smell I need in my mouth. I instantly get nauseous. I'm like, what the fuck am I going to do? I go, oh, thank God I can turn my nose off. That's a skill I have. So I shut my nose down and I'm fine. Then he orders another Bailey's on the rocks.
+[15:10.360 --> 15:37.540]  I'm at a point where I'm like, what? I'm like, we're 25 minutes into the flight at this point. And I'm like, I don't know how long I can keep my nose shut down. Like I've never done it for an extended period of time, a minute here, two minutes there, but we're going on like half an hour and it's kind of, it starts to, I get tired, you know? And eventually, eventually he finishes his second Bailey's on the rocks. She takes it away and he just gets a water. And I'm like, oh, thank Christ.
+[15:37.540 --> 15:44.980]  Well, yeah, he's got it. He's got to rinse all that milk spit out of his gullet, drinking Bailey's on the rocks twice.
+[15:46.220 --> 15:47.160]  Bailey's on a plane.
+[15:48.180 --> 15:51.720]  I know, dude. As I said, it's the grossest thing I've ever seen.
+[15:51.980 --> 15:52.960]  What is it, Christmas Eve?
+[15:54.640 --> 16:02.040]  And so, um, then I can breathe again with my nose and that's great. I've been basically just trying not to puke for the first 20 minutes of the flight.
+[16:02.040 --> 16:08.200]  So I like, I go, oh, I should, let me get on my phone and I'll buy some internet and I'll just watch TikTok. That'll help distract me, right?
+[16:08.220 --> 16:11.960]  Cause I got a, it's about two and a half hour flight. Got about two hours, 15 minutes to go or whatever.
+[16:12.420 --> 16:20.640]  And, uh, and the fucking wifi is down for the whole plane. And the guy, the captain gets on and he goes, hey, I'm really sorry, but we don't have any wifi on the plane today.
+[16:20.840 --> 16:27.440]  Uh, really, really apologize for that. Like fucking great. I got nothing right. I'm going to raw dog this fucking plane nauseous now.
+[16:28.400 --> 16:40.300]  And then what I can only describe as the universe shitting some sort of karma that I'm not aware I need like directly into my mouth.
+[16:40.840 --> 16:55.360]  The lady comes out and she goes, time to serve lunch. Today we have a vegetarian dish or chicken shawarma, which is all I've eaten or smelled for the last two fucking weeks in Greece and Turkey.
+[16:55.360 --> 17:05.880]  It's all they eat over there. It's either lamb or eggplant or chicken shawarma. That's all there is. The smell knocks me on my ass instantly. Shut my nose down again.
+[17:06.340 --> 17:12.780]  I had to keep my nose shut down for about 45 minutes. Eventually I couldn't do it any longer. I had to breathe.
+[17:15.240 --> 17:21.240]  And by the way, this 45 minutes, I'm just staring straight ahead, you know, nothing to do.
+[17:21.240 --> 17:29.740]  I've got a couple of dumb old games on my phone, but I don't I don't like games on a phone. They're not fun. They suck. Every phone game fucking sucks.
+[17:29.740 --> 17:37.320]  And I don't care what anybody says. They're all dog shit. None of them are interesting. And I don't feel like reading or anything, you know, because I don't feel good.
+[17:37.320 --> 17:46.360]  So I go about 45 minutes. Yeah, I'm like, I got about an hour and a half left on the flight. Maybe I go up. I'm going to join the Mile High Pew Club.
+[17:46.680 --> 17:53.160]  Oh, boy. No. And I get up and I walk into the bathroom in the first class, first class bathroom.
+[17:56.340 --> 18:02.260]  And I get on my knees into the dirtiest bowl you've ever seen, you know, like streaks of other people's shit on it.
+[18:04.740 --> 18:12.440]  And I projectile vomit. Not once, not twice, not three times, not even six times.
+[18:12.440 --> 18:18.680]  How do you still have liquid in you? I don't know. I had one class of water. Somehow it multiplied in my body.
+[18:20.040 --> 18:28.480]  I threw up seven fucking times. Oh, my God. I'm exhausted by the end of it. It was loud.
+[18:28.480 --> 18:33.260]  I can't imagine the whole plane didn't hear it. Right. But nobody makes eye contact with me when I get out. So who knows?
+[18:34.420 --> 18:43.340]  And then I stand up and I go over to the sink. And I think as I'm standing up, I think I got to get my toothbrush out and get this puke taste out of my mouth again.
+[18:43.380 --> 18:47.580]  I can brush my teeth in this little sink. And I go over to the sink and it's wrapped in caution tape.
+[18:48.600 --> 18:56.340]  And it says, sorry, sink, sink is broken. And the basin is just full of packages of wet wipes.
+[18:57.500 --> 19:04.860]  And I'm operating at like five percent now. Right. I don't know what to do. I can't problem solve at this point.
+[19:04.980 --> 19:09.720]  I'm still nauseous, but there's nothing to throw up. I'm exhausted. I haven't slept in two days.
+[19:10.000 --> 19:13.620]  I've got jet everything like, you know, how shitty you feel on a plane on a good day.
+[19:14.600 --> 19:20.840]  And so I just open up some wet wipes and I just wipe my mouth out. I don't know what else to do.
+[19:20.840 --> 19:29.140]  And it's chemically engrossed and it almost makes me throw up again. But it's the chemical smell. The chemical taste is better than the puke, I guess.
+[19:29.420 --> 19:35.380]  That's not for mouths. No, it's not. I'm pretty sure it says on the packaging, not for mouths.
+[19:35.860 --> 19:47.940]  Yeah. And then I can't do anything else about it. So I go and I sit down for the last hour or so of the flight with the chemical slash puke mouth.
+[19:48.840 --> 19:56.060]  And I just stare ahead and watch the seconds go by in my mind. Couldn't you have gone to the back book?
+[19:56.580 --> 20:04.440]  I don't think I could have made it back there, dude. I was alone. I'm running on zero energy and I'm not. I'm not.
+[20:04.800 --> 20:10.840]  This is a top. I was trying to figure it out. This is like a top 10, maybe top eight shittiest days of my life.
+[20:10.840 --> 20:20.080]  It sounds miserable. Oh, yeah. Miserable. And then the pilot announces that we're landing 20 minutes early and I go, oh, yeah, fuck.
+[20:20.240 --> 20:25.840]  That's the worst. Because when you land early, it always seems like a good deal. Yeah, but there's always somebody in your gate.
+[20:25.840 --> 20:30.440]  So then you just sit on the fucking tarmac and you fucking heat up. And sure enough, we land 20 minutes early.
+[20:30.500 --> 20:34.800]  And he's like, well, as soon as this Alaskan Airlines flight pulls out of the gate, we'll go right in.
+[20:35.160 --> 20:39.960]  And it's actually only about five minutes. It's not terrible or anything. So I still end up getting home like 15 minutes early.
+[20:40.440 --> 20:48.200]  And I fucking I think like I'm like trying not to throw up and I'm just thinking through my head, like, what do I have to do?
+[20:48.200 --> 20:52.640]  Right. You know, like I get out. It's going to be like gate 26 or 28, probably, because that's where we always are.
+[20:52.660 --> 20:58.840]  And I'm not looking at my phone. And and and then and then I'll just I think it's a short walk.
+[20:58.860 --> 21:02.300]  I go down the escalator. I know exactly where my car is. I always park in L for loser.
+[21:02.360 --> 21:05.320]  So I never forget. And then if L is filled up, I park in M for moron.
+[21:05.320 --> 21:10.320]  But I got an L space. So I have my L spot. So I know I'm in my loser spot.
+[21:10.620 --> 21:20.980]  And and we pull in and I get out. And for the first time in my life, we pulled into the last fucking gate at the airport.
+[21:21.100 --> 21:29.680]  Like gate 36 or something. 32. I don't know. And it's like a 17 mile walk back to my car.
+[21:29.680 --> 21:33.800]  And Austin Bergstrom International Airport yesterday looked like Disneyland.
+[21:34.460 --> 21:38.720]  I there were I had to fight my way out of the airport to get the fuck out of there.
+[21:39.720 --> 21:44.960]  And the whole time I'm sweating. And every time I walk by a bathroom, I'm like, is that the one I go puke in?
+[21:45.220 --> 21:48.280]  No. Is that? No, I just got to make it. I just got to make it.
+[21:48.800 --> 21:53.040]  And finally, I get into my car and I fucking I'm able to relax a little bit.
+[21:53.160 --> 21:55.440]  And I think, like, maybe I'll feel. No, I still feel shitty.
+[21:55.440 --> 22:00.380]  And then I drive home, which is actually kind of difficult because I was in such a miserable state.
+[22:00.400 --> 22:07.900]  And I I got home at like four o'clock and I walked upstairs and I laid down in the bed and I didn't wake up again till 9 p.m.
+[22:08.800 --> 22:12.440]  And and then I've kind of been up since 9 p.m..
+[22:12.440 --> 22:16.080]  Oh, you can go back to bed. Yeah, I've had a real difficulty.
+[22:16.300 --> 22:19.500]  I woke up today at about 10 percent. I'm up to like 40 or 50 now.
+[22:19.500 --> 22:23.020]  I've I've eaten six saltines successfully.
+[22:23.260 --> 22:29.100]  Keeping it down? Yeah. Yeah. And I drunk a bunch of water and I'm feeling a little bit better as the day goes on.
+[22:29.300 --> 22:36.220]  But I have never experienced anything like the misery I just described to you guys.
+[22:36.320 --> 22:40.940]  It was never ending and it wouldn't relent.
+[22:41.940 --> 22:51.340]  I feel like and this is going to be a weird phrasing, but what I think you need is you need a like Dracula like coffin that you could just lay in for 24 hours.
+[22:51.600 --> 22:57.340]  I just need to like lay in a box and then have it sealed and just be like, this is going to open in 24 hours.
+[22:57.460 --> 23:01.320]  You don't think about anything. Don't do anything. You just need to recover.
+[23:02.000 --> 23:05.680]  Yeah. Or like a sleep deprivation chamber or something hermetically sealed.
+[23:05.680 --> 23:12.620]  Yeah, it's like it's and I had I was so excited to come back.
+[23:12.660 --> 23:22.040]  Like, I can't tell you how fucking jazzed I've been for the last week to get back into play repo and to play video games and to do podcasts with you guys and to tell you all the stuff that all the stuff about the trip.
+[23:22.160 --> 23:27.100]  But I'll be honest with you. I flushed. I have no memory of the trip right now. Like it might as well have never happened.
+[23:27.320 --> 23:30.840]  You threw it up. I just I can't I can't focus on anything.
+[23:30.840 --> 23:39.200]  All potentially because of one burger. Yeah. Or just a combination of jet lag and getting older and just being delicate.
+[23:39.480 --> 23:50.840]  I think I'm just getting delicate. You know, I think that the 20 hour flight, the no sleep and then the 15 hour 15 hour flight 15 hours later, which just was too much for my shitty little body to handle.
+[23:50.840 --> 24:01.160]  That's two back to back vom trips. Yeah, because you have the point because I threw up like crazy at Disney. Yeah. Yeah. Well, that's not a good sign.
+[24:01.320 --> 24:05.920]  I hope that's not a new thing. I just throw up every time I go on a trip. I'm never leaving Austin again.
+[24:06.100 --> 24:11.800]  I know I've said that before. God damn, dude. I don't have any other trips scheduled and I'm not going to let anybody schedule anymore.
+[24:11.920 --> 24:20.560]  That's too dangerous to go anywhere. And how how how could it go so wrong at every point from the Bailey's to the to the chicken shawarma?
+[24:20.560 --> 24:28.440]  That's it's comical that they did that to me after two straight weeks of that. It was like they just knew what would fuck my nose up to the to the broken sink.
+[24:28.900 --> 24:35.780]  Yeah, like someone had a vomit obstacle course. They were just sliding different items under you. It's insane what you had to close your nose for.
+[24:36.200 --> 24:43.900]  I'm starting to think that I'm like a Truman show. I just don't know. The last fucking gate at the airport.
+[24:43.900 --> 24:50.740]  I've never even seen the last gate at the airport. You try to hold your nose flaps for as long as possible.
+[24:50.880 --> 25:00.520]  Felt like the lowest tiered Tom Cruise stunt for Mission Impossible. Like they've just run out of stuff and it's now just a highway.
+[25:00.660 --> 25:09.660]  He's got it. You hear that Tom Cruise held his nose for 50 minutes. Fucking crazy. It's just the camera slowly moving in his face as he's squirming in a plane seat.
+[25:11.340 --> 25:27.140]  Put us in a box. Go ahead. That just gives us something to break out of. Because the next generation 2025 GMC Terrain Elevation is raising the standard of what comes standard.
+[25:27.880 --> 25:36.540]  As far as expectations go, why meet them when you can shatter them? What we choose to challenge, we challenge completely.
+[25:36.540 --> 25:41.640]  We are professional grade. Visit GMC.com to learn more.
+[25:42.600 --> 25:49.740]  Hit pause on whatever you're listening to and hit play on your next adventure. Stay two nights and get a $50 Best Western gift card.
+[25:50.340 --> 25:55.700]  Life's a trip. Make the most of it at Best Western. Visit BestWestern.com for complete terms and conditions.
+[25:56.440 --> 25:59.720]  So anyway, that's my last two days. What have you guys been up to?
+[26:00.220 --> 26:02.960]  Holy shit. So should we postpone today?
+[26:03.420 --> 26:09.420]  No, man. We got too much to do. We were supposed to do repo first, but I asked to do the podcast first.
+[26:10.060 --> 26:15.120]  We're going to do two episodes of the podcast and we're done for today. You're out of your fucking mind.
+[26:15.340 --> 26:24.660]  We need to rest. Jesus Christ. That's insane. I thought we were pushing it. I ran down a schedule yesterday of like, here's everything I want to get done today.
+[26:25.200 --> 26:32.420]  And I'm like, ah, this is going to push Jeff, but I think he'll be okay. You just told 20 minutes of a story where I went, we shouldn't even have done the podcast today.
+[26:33.660 --> 26:40.540]  That's crazy. I think you needed a day or at least the majority of a day where you got nothing you need to do.
+[26:40.940 --> 26:47.960]  I don't know what to do with. I'm just if I don't do this podcast, I'm miserable. I don't. Nothing is fun. I don't want to do it. I don't feel.
+[26:48.100 --> 26:52.500]  You know what I mean? Like, at least this is distracting me in the moment. We'll see how I feel after.
+[26:52.800 --> 27:01.840]  I think the craziest part of that story is you had a bed until what I assume was 11 a.m. for checkout and you decided to leave it.
+[27:01.840 --> 27:08.980]  I did. I did. I did. I was just uncomfortable and unhappy. And I just wanted to be home.
+[27:09.120 --> 27:16.040]  You know, sometimes when you do stuff that you know doesn't make sense, but you have to do it like getting in the car and going to the airport was getting closer to home.
+[27:16.180 --> 27:21.220]  And I just was so desperate to get home like I didn't get sick until I was at the airport.
+[27:21.220 --> 27:34.160]  But I didn't. I was miserable before that. You know, I was exhausted and jet lagged and miserable and felt like shit and just wanted so badly to be home with my wife and my dog and my bed and my house.
+[27:34.640 --> 27:46.720]  And so even just getting up and like it's like I was going to be miserable in a shitty hotel room and an uncomfortable bed or miserable in what I was hoping would be a comfortable chair at the Admirals Club, which turns out those don't exist.
+[27:49.920 --> 28:00.660]  I've noticed something about your story that I've realized we're different at. I don't think I've ever knelt down to vomit. Oh, really? I don't go knees to the ground. No. Yeah.
+[28:01.100 --> 28:11.780]  What do you do? Bend at the hips? Yeah, I hunch over. I have my hands on my above my knees. I lean over forwards, maybe put a hand on the wall behind the toilet and I just go like that.
+[28:11.780 --> 28:24.900]  I'm like I'm on the ground gripping that thing and just letting it fly. Like, I think you're nuts for being on your feet. Like, I would be scared to be that high off the ground because I get puke spray everywhere.
+[28:25.040 --> 28:36.200]  A hundred percent. You got you got to like I'm like I'm hugging it. I'm hugging that thing. Yeah. I just don't want to get my face close to the water. Like, oh, it's the worst. I was like 10 inches from some other guy's shit.
+[28:36.200 --> 28:49.460]  I can do that. I'm not worried about that. It's I like getting the whole body into the puking motion and you can really leverage the rest of the body when you're in place. It's like throwing. It's only your arms, but you can throw further stood up than you can on your knees.
+[28:49.800 --> 29:02.540]  Yeah, I just for for me, it's like I'm giving myself over to what my body needs. And it's like fully giving up everything physical in in every single way.
+[29:02.540 --> 29:14.020]  I'm like touch the toilet. I'm trying not to, but there's like, dude, there's no choice when I just need it out of me. And it's whatever it takes, whatever it takes. Sometimes a grip. Yeah.
+[29:14.520 --> 29:24.580]  Puking is the most violent thing I do in my life. Yeah, it's up there for sure. OK, so it's probably pretty. Yeah, but like it feels so good when you're done.
+[29:24.580 --> 29:34.560]  I usually in this situation, you threw up 15 times and it did not. But and I and I get that. What's the number one body function?
+[29:37.140 --> 29:45.700]  What? Like I like a sneeze is up there as well. Yeah. Yeah. I didn't I didn't think my question was that confusing, but it's I think other.
+[29:45.840 --> 29:51.460]  Yeah. What do you think? It's like what's higher on the list than puking? Like what's better? I think feels better. I think sneeze is better.
+[29:51.460 --> 30:01.580]  It's probably everything. Everything feels better. It's the worst thing you can do. It's you think it's the worst puking in the act of it?
+[30:01.620 --> 30:08.020]  Yeah. Yeah. If you said, oh, you know, would you rather sneeze or would you throw up and feel the satisfaction from not feeling bad anymore?
+[30:08.500 --> 30:16.200]  I put a bunch of functions above vomit because you have to go through the vomit and the vomit isn't fun. Oh, trigger warning for vomit talk today.
+[30:16.200 --> 30:27.880]  Oh, cool. Good timing on that one, man. Thank you very much. Great. No worries. Yep. I like that. Gavin and I both sneeze through our mouths and we're both standing up vomitors.
+[30:28.440 --> 30:35.840]  Wow. You guys have so much in common. I was blown away listening to that back because Jeff, you said you've only been a nose sneezer.
+[30:36.360 --> 30:42.540]  Yeah. And you wouldn't even know how to redirect it through your mouth. But also you're the nose flap guy. Yeah.
+[30:43.100 --> 30:48.480]  So have you ever tried closing them? If I tried closing my flaps while I sneezed, I'd probably blow my brain out.
+[30:48.480 --> 30:53.260]  Yeah. I was about to say it's going to be like a Looney Tunes. Like the back of your head explodes out.
+[30:53.800 --> 30:57.680]  Yeah. No way, dude. I don't want to die. Although I kind of did. I kind of did earlier today.
+[30:58.040 --> 31:01.460]  Your head turns into like a used matchstick. Your eyes blink.
+[31:04.780 --> 31:08.440]  Eric, you surely wouldn't kneel down on a plane in the piss.
+[31:09.400 --> 31:22.300]  Gavin, if I am feeling so bad that I have to puke on an airplane, I'm doing whatever it takes to get that out of me.
+[31:22.480 --> 31:26.600]  You don't prioritize like not walking out with two puddle stains on your knees?
+[31:26.600 --> 31:41.640]  If I feel so sick that I have to puke on the airplane, I don't give a shit about a fuck. I don't care about anything. It needs to be out of me, period.
+[31:42.220 --> 31:46.060]  Yeah, there were no puddle stains, just for the record. I don't want people to think that there were puddle stains.
+[31:46.320 --> 31:51.980]  No, I assume. Because you didn't mention it. But I've pissed in a lot of planes where it's just like, I would not want to be down there right now.
+[31:51.980 --> 31:52.800]  Oh, absolutely.
+[31:53.080 --> 32:05.800]  I don't want to puke in an airplane. I'm saying that if it has to get out of me, I just don't think that there can be a barrier where I go, let's think about this analytically. Like, I think I'm just toast. Like, I'm doing whatever I can.
+[32:06.460 --> 32:10.480]  Is it just that you can't puke stood up? Or you just don't want to be messy?
+[32:10.840 --> 32:15.120]  No, I can. I just want it out of me in one go and be done.
+[32:16.760 --> 32:20.760]  I don't know if I'd have the strength to stay standing. I'd be scared I'd collapse.
+[32:20.760 --> 32:23.560]  Yeah, I'd get weak in the legs.
+[32:24.140 --> 32:26.920]  I need the stability of the ground when I'm puking.
+[32:27.420 --> 32:37.940]  I don't know how to articulate how this would work, but the premise of somebody seeing your stats page, Jeff.
+[32:37.940 --> 32:57.800]  Let's say it's somebody that somehow like someone from the past is looking at maybe like a long distant relative from your past is able to like look at future generations of like stats and they look at you and it's your vomit statistics and where you are when you vomit.
+[32:58.020 --> 33:04.460]  How absurd it is that you're so high up in the sky and you're vomiting 38,000 feet.
+[33:04.460 --> 33:11.460]  Try to rationalize like if somebody didn't understand flight and just went, how the fuck? How did? What? What?
+[33:12.480 --> 33:22.400]  Seeing the heat map of that would be great because like your own toilet at home would be pretty warm and then there would just be like five blotches through the sky like 17 miles apart because you were holding up.
+[33:22.800 --> 33:25.540]  Yeah, because you're going like 350 miles an hour or whatever.
+[33:26.340 --> 33:28.880]  I might have puked a couple of miles worth.
+[33:29.480 --> 33:32.700]  Holy shit. I didn't even think about that aspect of it.
+[33:33.400 --> 33:38.320]  I didn't either. Man, can I tell you, I've never hated anybody in my life more than that lump of shit sitting next to me.
+[33:39.320 --> 33:41.660]  I can tell by the way you talk about it.
+[33:42.060 --> 33:46.120]  Man, I fucking hated that dude. Fucking Bailey's on the rocks.
+[33:46.540 --> 33:49.660]  Bailey's on the rocks twice is crazy.
+[33:49.700 --> 33:53.180]  So what's crazy about Bailey's on the rocks? As somebody who doesn't drink, I just I don't understand.
+[33:53.560 --> 33:59.440]  It's not even liquor. It's a liqueur, which means that it's like a lower ABV.
+[33:59.440 --> 34:03.440]  So if you're drinking it to like get a buzz, you got to go further.
+[34:03.580 --> 34:07.500]  But it's also Andrew, it's like drinking alcoholic milk.
+[34:08.100 --> 34:12.300]  It's it's thick like a melted milkshake.
+[34:12.860 --> 34:17.080]  You know how you know how I'm a no go on white shit, right?
+[34:17.720 --> 34:19.540]  Bailey's is at the top of that list.
+[34:19.660 --> 34:24.680]  Like even when I was even listen, I was a crippling alcoholic.
+[34:24.940 --> 34:27.920]  I was never bad enough to drink at Bailey's.
+[34:27.920 --> 34:33.840]  If it was between like sobering up and drinking Bailey's, I would have sobered up. Never.
+[34:34.380 --> 34:37.540]  Yeah, I feel like it's always like a family.
+[34:37.660 --> 34:45.540]  It's got a bunch of old relatives over and they they go into the cabin and they pull out half a bottle of Bailey's that hasn't been poured since this day last year.
+[34:45.640 --> 34:49.020]  It's like a rarely drunk thing in my experience.
+[34:49.140 --> 34:55.840]  It's it's 17% ABV, which is like barely more than wine.
+[34:56.600 --> 35:00.460]  It's it's so low. It's so, so low in ABV.
+[35:00.680 --> 35:06.420]  It's and drinking it on the rocks on an airplane seems so bizarre.
+[35:06.640 --> 35:16.340]  That is like that's I was on a plane this last week and this woman ordered a double vodka just on ice.
+[35:16.620 --> 35:18.440]  And they just gave her two little bottles of vodka.
+[35:18.480 --> 35:21.540]  And she went, thank you, poured it on the ice, boom, down it.
+[35:21.580 --> 35:24.680]  And it was like, what the fuck? That's crazy.
+[35:24.680 --> 35:26.280]  She forgot everything at her seat.
+[35:26.480 --> 35:27.200]  She forgot her phone.
+[35:27.380 --> 35:28.040]  She forgot her pillow.
+[35:28.300 --> 35:29.660]  She forgot her glasses case.
+[35:29.900 --> 35:31.100]  She forgot everything.
+[35:31.340 --> 35:32.200]  It was really exciting.
+[35:32.660 --> 35:33.520]  How far into the flight?
+[35:34.460 --> 35:36.680]  Oh, the first drink service.
+[35:38.260 --> 35:39.560]  Like it was immediate.
+[35:39.760 --> 35:40.860]  It's like, what can I get for you?
+[35:40.860 --> 35:43.080]  And I went water and she went double vodka.
+[35:43.760 --> 35:46.260]  She had a place to go and she wanted to get there fast.
+[35:46.520 --> 35:47.800]  It was it was crazy.
+[35:48.740 --> 35:54.700]  That's something they never get right in the flight safety videos is that there's never anyone really pissed up trying to get on one of the slides.
+[35:55.480 --> 35:57.140]  Which would probably be the case.
+[35:58.540 --> 35:59.240]  Oh, man.
+[36:01.340 --> 36:06.760]  I used to pride myself on being really good at like getting real friendly with the flight attendants.
+[36:06.840 --> 36:08.580]  They'd always slip me extra free booze.
+[36:08.720 --> 36:11.100]  I was I was able to do it almost every flight I was on.
+[36:11.360 --> 36:12.260]  I was really good at that.
+[36:12.720 --> 36:15.300]  You said it with a lot of pride.
+[36:15.300 --> 36:19.440]  And just I'm just saying I'm just pointing out like sort of where you ended up.
+[36:19.480 --> 36:21.240]  I don't think you should be so prideful about it.
+[36:23.060 --> 36:27.180]  I used to weasel these idiots out of free drinks all the time.
+[36:27.740 --> 36:32.080]  It's a skill I don't use anymore, but it doesn't mean I'm not proud that I had the skill.
+[36:32.360 --> 36:34.580]  You know, I've seen you turn on the charm.
+[36:35.380 --> 36:35.920]  Yeah, man.
+[36:36.320 --> 36:37.360]  You haven't just flipped that?
+[36:37.360 --> 36:40.120]  I've seen you turn on the charm too at a hotel in Vegas.
+[36:40.500 --> 36:41.160]  Oh, God.
+[36:42.200 --> 36:43.020]  Hotel in Vegas.
+[36:43.020 --> 36:44.820]  No, you're one liner.
+[36:45.240 --> 36:45.480]  Yeah.
+[36:45.900 --> 36:48.220]  The one time I had Riz.
+[36:48.580 --> 36:48.820]  Yeah.
+[36:50.600 --> 36:53.580]  Man, the way you say that word is weird to me.
+[36:53.900 --> 36:54.340]  Yeah.
+[36:56.360 --> 36:56.920]  I'm sorry.
+[36:56.960 --> 36:57.560]  What were you saying, Andrew?
+[36:57.620 --> 36:58.020]  I cut you off.
+[36:58.340 --> 36:59.240]  I don't even remember.
+[36:59.460 --> 37:02.060]  I'm just I'm wrapped up in Gavin being the Rizzler.
+[37:02.280 --> 37:03.340]  And I just can't.
+[37:03.720 --> 37:05.300]  Everything else went out the window.
+[37:05.980 --> 37:08.120]  Gavin, Gavin, would you like to be the Rizzler?
+[37:08.960 --> 37:09.740]  I don't think so.
+[37:10.120 --> 37:11.100]  I don't think I should be that.
+[37:11.700 --> 37:12.380]  You should be what?
+[37:13.320 --> 37:14.040]  The Rizzler.
+[37:18.580 --> 37:20.660]  I just don't think I've ever heard it in that accent before.
+[37:20.800 --> 37:22.540]  You think you could be a Costco guy, Gavin?
+[37:23.220 --> 37:25.680]  I mean, you say Rizzler, I just think of the rolling paper.
+[37:26.840 --> 37:26.980]  What?
+[37:27.020 --> 37:27.860]  Nobody knows what that is.
+[37:29.840 --> 37:30.740]  What rolling paper?
+[37:31.360 --> 37:33.460]  Oh, you're saying Rizzla.
+[37:34.040 --> 37:35.800]  And it's it's it's rolling paper.
+[37:35.860 --> 37:36.880]  I think they're very British.
+[37:37.440 --> 37:38.980]  I think they're very British rolling paper.
+[37:38.980 --> 37:40.880]  That's what all my friends used to smoke.
+[37:41.860 --> 37:42.700]  What's that shit?
+[37:43.860 --> 37:44.200]  Hash?
+[37:44.280 --> 37:44.800]  I don't know.
+[37:45.260 --> 37:45.740]  Marijuana?
+[37:46.560 --> 37:46.980]  Cigarette?
+[37:47.560 --> 37:49.640]  I'm trying to remember the brand of like rolling tobacco.
+[37:49.780 --> 37:51.000]  We're not friends with your friends.
+[37:51.080 --> 37:52.400]  We don't know what your friends did.
+[37:54.520 --> 37:56.040]  I need to show you.
+[37:56.180 --> 37:56.780]  I searched.
+[37:56.960 --> 37:58.820]  I searched Rizzla.
+[37:59.760 --> 38:01.000]  Like rolling papers.
+[38:01.840 --> 38:02.420]  This is.
+[38:03.380 --> 38:05.240]  Look at this fucking guy.
+[38:06.320 --> 38:08.240]  He's the most British.
+[38:08.800 --> 38:10.120]  Is that you and your friends, bud?
+[38:10.700 --> 38:12.620]  I mean, they had a similar look.
+[38:17.560 --> 38:23.680]  That guy looks like he tells you that he can only be paid cash because he has child support payments.
+[38:24.000 --> 38:25.540]  Yeah, and the government's going to take his money.
+[38:25.840 --> 38:26.540]  That's crazy.
+[38:28.980 --> 38:32.400]  Hey, so for serious, though, what did I miss for three weeks?
+[38:32.680 --> 38:33.420]  Catch me up.
+[38:33.860 --> 38:34.560]  Marvin Hagler.
+[38:35.360 --> 38:36.120]  Virtual weapon.
+[38:36.640 --> 38:37.860]  Oh, virtual weapon.
+[38:37.980 --> 38:39.320]  So what's virtual weapon?
+[38:39.520 --> 38:42.180]  I guess I guess we could talk about that here, right?
+[38:42.600 --> 38:47.160]  I came up with a game where we're trying to find the regular.
+[38:47.320 --> 38:49.300]  By the time this comes out, that video is definitely not out.
+[38:49.360 --> 38:50.700]  But that's OK. You'll see it eventually.
+[38:51.800 --> 38:54.300]  We came up and it's called Regulation Best Thing.
+[38:54.480 --> 38:57.880]  And what I'm trying to do is find what the best thing is.
+[38:58.560 --> 39:04.180]  And so it is a random Wikipedia article versus a random Wikipedia article.
+[39:04.180 --> 39:06.940]  And whichever one of those things is better moves on.
+[39:07.000 --> 39:08.260]  And then we randomize again.
+[39:08.860 --> 39:14.060]  And then it's a head to head competition all the way until we find what the best thing is.
+[39:14.420 --> 39:16.380]  But it didn't go how you'd expect.
+[39:16.500 --> 39:19.700]  Like, it wasn't like, you know, orange or swing set.
+[39:19.900 --> 39:25.500]  It was like a small town in Poland or Iranian spy who was executed.
+[39:28.060 --> 39:31.300]  It really it really goes to like a lot of different directions.
+[39:31.300 --> 39:35.200]  But the thing about Wikipedia is that it has kind of like everything on it.
+[39:35.240 --> 39:36.220]  And that's why we used it.
+[39:36.320 --> 39:44.060]  So eventually we landed on a movie, an Italian action movie from 1997 called Virtual Weapon.
+[39:45.520 --> 39:46.360]  I'm in.
+[39:46.640 --> 39:52.200]  And this is starring Terrence Hill and Marvelous Marvin Hagler.
+[39:52.520 --> 39:53.260]  The boxer?
+[39:53.580 --> 39:53.920]  Yes.
+[39:54.340 --> 39:54.960]  Yes.
+[39:55.700 --> 39:59.340]  He is the comedic relief from what we can tell from the trailer.
+[39:59.340 --> 40:03.140]  We think one of them is virtual from a video game.
+[40:04.380 --> 40:08.880]  The non-Marvin Hagler actor we believe is from a video game.
+[40:08.920 --> 40:14.860]  He either gets pulled from the video game or Marvin Hagler is imagining him as like his friend.
+[40:15.640 --> 40:18.740]  It's very odd, but there's a lot of like cloak and dagger.
+[40:19.080 --> 40:19.860]  Yeah, a little bit.
+[40:19.980 --> 40:23.280]  So so we landed on that and it was very hard to beat.
+[40:23.520 --> 40:24.880]  Are we going to watch that movie?
+[40:24.920 --> 40:25.540]  Yeah, absolutely.
+[40:25.740 --> 40:27.760]  Oh, we absolutely are going to watch Virtual Weapon.
+[40:27.760 --> 40:32.200]  We landed on it and it was immediately four men in a Discord call going,
+[40:32.680 --> 40:33.160]  Ohhhh!
+[40:34.380 --> 40:36.060]  So yeah, we're definitely watching that.
+[40:36.240 --> 40:37.080]  It's pretty exciting.
+[40:37.260 --> 40:39.680]  So that was one of many things that happened while you were gone.
+[40:40.200 --> 40:40.620]  Nice.
+[40:41.860 --> 40:44.180]  I've been haunted by a video game.
+[40:44.740 --> 40:45.380]  I'm sorry.
+[40:45.500 --> 40:46.240]  I need help.
+[40:46.520 --> 40:49.000]  I need help from the community because I've been...
+[40:49.000 --> 40:52.720]  I was playing Fall Guys one evening in an explore category
+[40:53.340 --> 40:56.360]  And a level popped up and I was like, oh, this looks ridiculous.
+[40:56.460 --> 40:59.200]  So I'll, you know, like, I'll just play through this. This is fine.
+[41:00.040 --> 41:02.640]  Spent 30 fucking minutes on this level
+[41:03.120 --> 41:04.720]  and I was not able to beat it.
+[41:04.760 --> 41:08.460]  And by minute 10, I was like, I just I can't I can't leave.
+[41:08.540 --> 41:10.160]  I can't I don't need to do this.
+[41:10.200 --> 41:12.620]  I've accomplished what I needed of just like loading in.
+[41:12.720 --> 41:16.540]  But I cannot leave this level until I beat this fucking thing.
+[41:16.760 --> 41:17.600]  It's ridiculous.
+[41:17.820 --> 41:21.600]  It's a level where it's a bunch of like spinning tops.
+[41:21.600 --> 41:26.040]  And then there's cannon shooting orange balls into the middle constantly.
+[41:26.120 --> 41:28.120]  And then when you get on the other side of that,
+[41:28.200 --> 41:31.600]  it's a bunch of jump pads and like trapeze things
+[41:31.600 --> 41:35.760]  where you got to go between those and swing and then land on another jump.
+[41:35.840 --> 41:36.600]  It's a whole thing.
+[41:36.920 --> 41:40.500]  And I spent 30 minutes doing it and I would have spent longer.
+[41:40.740 --> 41:45.340]  But that is the maximum amount of time they allow you to spend in the thing.
+[41:45.460 --> 41:46.740]  It timed me out.
+[41:47.080 --> 41:48.820]  So why is this four guys, but solo?
+[41:49.340 --> 41:53.800]  No, it was just like I was in the they have like an explore playlist
+[41:53.800 --> 41:55.760]  where it's all community made levels.
+[41:55.980 --> 42:00.540]  And there's no like if you make one, it just ends up there and you can play it
+[42:00.540 --> 42:02.160]  and you can like thumbs up it or thumbs down.
+[42:02.400 --> 42:04.780]  And so I landed on that one.
+[42:05.180 --> 42:06.520]  Every other person quit.
+[42:07.220 --> 42:09.380]  Everybody left within like three minutes.
+[42:09.380 --> 42:11.280]  And I was like, I fucking got to beat this.
+[42:11.340 --> 42:12.740]  This is so annoying.
+[42:13.240 --> 42:17.860]  And so I just spent the entire time there until the clock started running down.
+[42:17.860 --> 42:19.100]  And I was so mad.
+[42:19.280 --> 42:20.680]  But I gave it a thumbs up.
+[42:20.760 --> 42:22.900]  So I thought, OK, I can probably come back to this later.
+[42:23.120 --> 42:24.980]  But it erased it like it doesn't.
+[42:25.400 --> 42:27.580]  That's not how you favorite a level, I guess.
+[42:28.000 --> 42:31.720]  So for like the past 10 days, it's all I've been thinking about.
+[42:31.820 --> 42:34.340]  Whenever I lay in bed, I just think about this level
+[42:34.340 --> 42:37.600]  that I haven't been able to beat and I have no way of finding.
+[42:38.020 --> 42:41.720]  So if someone out there somehow knows what this level is called,
+[42:41.800 --> 42:44.660]  please let me know, because I'm in hell.
+[42:45.080 --> 42:46.520]  But I cannot find it.
+[42:47.200 --> 42:50.160]  I went back in, I saw that like there's a way to favorite levels
+[42:50.160 --> 42:52.500]  and giving it a thumbs up apparently isn't it.
+[42:52.680 --> 42:57.360]  I don't think the thumbs up in any way like is a bookmarker for what I did.
+[42:57.740 --> 43:01.260]  And since it's in a playlist where it's it's not curated,
+[43:01.500 --> 43:04.520]  so it's just like impossible to track that way.
+[43:04.600 --> 43:08.220]  I guess if I would have checked
+[43:08.720 --> 43:11.900]  as soon as I finished it, it would have saved in a thing
+[43:11.900 --> 43:13.080]  that like keeps your game history.
+[43:13.080 --> 43:14.500]  But I closed out of the game
+[43:14.500 --> 43:18.000]  because I was so mad that it timed me out before I could finish it.
+[43:18.540 --> 43:19.600]  So it's just gone.
+[43:19.720 --> 43:22.500]  And I have no way of being able to find it.
+[43:22.720 --> 43:26.820]  There's like zero like narrowing down because it is an open
+[43:27.540 --> 43:28.980]  uncurated playlist in the game.
+[43:29.160 --> 43:31.260]  How many levels are that, do you think?
+[43:31.360 --> 43:36.260]  How many? Oh, I couldn't even speculate to guess an insane number.
+[43:36.860 --> 43:39.460]  Anybody who makes a level, I think it ends up there.
+[43:40.140 --> 43:42.500]  So are some of them even beatable?
+[43:43.720 --> 43:48.680]  I would assume that the creator forces you to have a beatable level,
+[43:48.800 --> 43:52.000]  but you can just skip it as like there's an in-game prompt of like,
+[43:52.060 --> 43:53.660]  are you done with this level?
+[43:53.700 --> 43:54.960]  You can just move on to the next one.
+[43:55.200 --> 43:55.660]  It's fine.
+[43:56.040 --> 43:59.240]  Like completing it is not at all a mandatory part of that process.
+[43:59.300 --> 44:03.680]  But it's one of those things where you get committed to like,
+[44:03.720 --> 44:06.960]  I'm going to see this through and then just stuck on it.
+[44:06.960 --> 44:08.900]  And I was making progress.
+[44:08.960 --> 44:09.860]  I was figuring it out.
+[44:09.940 --> 44:12.420]  I got real close, but I never beat it.
+[44:12.780 --> 44:14.800]  And it's just it's haunted me.
+[44:15.380 --> 44:18.400]  I'll lay in bed at night and I'll think about that level and that I still haven't
+[44:18.400 --> 44:18.800]  beaten it.
+[44:19.580 --> 44:21.480]  If you find it again, will you stream it?
+[44:21.940 --> 44:23.140]  I think we should all play it.
+[44:23.280 --> 44:24.800]  If I find it again, we can all play it.
+[44:25.100 --> 44:26.420]  Oh, you're dragging us in.
+[44:26.960 --> 44:30.540]  What if you were never awake and you dream the whole thing and it doesn't exist?
+[44:31.000 --> 44:34.420]  I mean, that would then, I guess, theoretically, I could dream a scenario
+[44:34.420 --> 44:36.760]  in which I find it and beat it and then I'm good.
+[44:36.960 --> 44:37.900]  You should try that.
+[44:38.200 --> 44:41.140]  I should every night, going to lay in bed.
+[44:42.440 --> 44:43.560]  I'm down to play it with you.
+[44:43.620 --> 44:45.280]  If you ever, if you ever figure it out, you need to find it.
+[44:45.460 --> 44:47.500]  If I mean, it's such a like unique.
+[44:48.240 --> 44:49.280]  It's a unique level.
+[44:49.660 --> 44:52.340]  So as I said, if anyone knows what I'm talking about, it literally starts out.
+[44:52.420 --> 44:54.600]  It's a bunch of like spinning tops.
+[44:54.660 --> 44:58.600]  In the beginning, you have to jump over and then like 20 cannon
+[44:58.600 --> 45:00.780]  shooting giant orange balls all into the middle.
+[45:01.420 --> 45:04.980]  I highly doubt anyone is able to find it because from what I could tell
+[45:04.980 --> 45:08.220]  by searching, nobody knows how to favorite a level in that game,
+[45:08.320 --> 45:09.480]  even though it's a prompt.
+[45:10.200 --> 45:12.700]  Every like thread is just how do you do this?
+[45:13.880 --> 45:15.860]  So I don't I think it's just gone forever.
+[45:15.960 --> 45:17.220]  I don't think I'll ever be able to play it again.
+[45:17.420 --> 45:19.220]  But it's all I think about right now.
+[45:19.720 --> 45:21.880]  That God damn interesting. I can't beat it.
+[45:22.900 --> 45:24.320]  Can't beat it. It can't be done.
+[45:24.500 --> 45:25.840]  I've never seen anyone do it.
+[45:26.180 --> 45:28.320]  You said, Gavin, what if it's an unbeatable level?
+[45:28.340 --> 45:29.260]  I think it's that level.
+[45:29.340 --> 45:30.220]  That level is unbeatable.
+[45:30.820 --> 45:31.460]  It's so annoying.
+[45:32.100 --> 45:32.820]  It's so upsetting.
+[45:32.820 --> 45:35.540]  Yeah, all of us running that at the same time would be interesting.
+[45:36.000 --> 45:36.980]  I think it would be fun to do.
+[45:37.240 --> 45:42.420]  We're talking about doing Mile High Club, where as we beat it, we get to leave.
+[45:42.500 --> 45:45.520]  Like, I think we could put that in the rotation of once you beat the level,
+[45:45.560 --> 45:46.640]  you get to leave the recording.
+[45:47.120 --> 45:48.780]  Oh, fucking Mile High Club.
+[45:49.360 --> 45:53.520]  I really want to do that because not being able to leave until you've done it is
+[45:54.960 --> 45:58.840]  it's going to be like eight times longer than play until someone gets it.
+[45:59.360 --> 46:01.280]  We need to like wait a little bit on that for Jeff.
+[46:01.280 --> 46:02.580]  Jeff needs to recharge.
+[46:03.440 --> 46:05.020]  Yeah, maybe give me a day or two.
+[46:05.320 --> 46:07.620]  Did you did you ever finish Limbo?
+[46:07.740 --> 46:08.280]  Did you do your thing?
+[46:10.700 --> 46:11.880]  I was about to bring it up.
+[46:12.060 --> 46:13.420]  Yeah. Did a little stream.
+[46:14.000 --> 46:15.160]  Yeah. Good test run.
+[46:15.840 --> 46:18.140]  How close did you get or did you do it?
+[46:18.400 --> 46:20.600]  What was I like, 20% in or something?
+[46:20.760 --> 46:22.880]  Yeah, you got I think like 17.
+[46:23.480 --> 46:27.000]  I had a full play video up on the side, Jeff, and he was 17 minutes
+[46:27.000 --> 46:30.520]  into the hour long playthrough is the furthest he got.
+[46:30.520 --> 46:34.240]  Even if we stream that again on a on a Friday at 4 p.m.
+[46:34.240 --> 46:39.500]  on Twitch, I don't have all of the memory I had when I was doing it,
+[46:39.720 --> 46:41.600]  like leaving a two week gap between attempts.
+[46:42.380 --> 46:45.220]  Horrific. I'm going to die earlier than I did last time somehow.
+[46:46.480 --> 46:50.900]  Well, he Gavin lost three lives in a row and then realized he wasn't jumping.
+[46:51.360 --> 46:52.300]  Yeah, it was pretty cool.
+[46:52.360 --> 46:56.260]  He was just sort of like walking forward and then going, I'm not hitting the jump button.
+[46:57.420 --> 47:01.420]  Yeah, I forgot the I forgot the only mechanic in the game.
+[47:01.660 --> 47:02.020]  Uh-huh.
+[47:05.620 --> 47:07.240]  Oh, I can't wait to watch that.
+[47:07.520 --> 47:10.220]  Yeah, I mean, that was a great stream, but I think we'll just have to do it,
+[47:10.260 --> 47:12.300]  you know, off stream because it's going to take so long.
+[47:12.340 --> 47:14.200]  But it's it's very exciting.
+[47:14.360 --> 47:15.980]  I think you can do it. I believe in you, dude.
+[47:16.400 --> 47:19.800]  Yeah. Or maybe we'd have to do a run of like I'll stream every day that week
+[47:19.800 --> 47:22.180]  or something, and that would be there's you're going to keep
+[47:22.180 --> 47:24.660]  you think you're going to keep that information locked in your brain every day.
+[47:24.660 --> 47:26.160]  Also, why would you do this to yourself?
+[47:27.060 --> 47:29.620]  Why would you? I feel like that's the best way of that.
+[47:29.620 --> 47:31.140]  Why would you set yourself up for this?
+[47:31.200 --> 47:33.360]  Why wouldn't you just go and just see if I can do it in one go
+[47:33.360 --> 47:36.480]  and brutalize yourself for like a few hours instead of going like,
+[47:36.540 --> 47:39.140]  well, here's nine days this summer.
+[47:39.320 --> 47:42.040]  Try the new Strato Frappuccino blended beverage at Starbucks.
+[47:42.360 --> 47:45.880]  It's the classic blended iced coffee, you know, and love now topped
+[47:45.880 --> 47:50.880]  with a creamy layer of handcrafted brown sugar cold foam available for a limited time.
+[47:51.120 --> 47:53.120]  Your Strato Frappuccino is ready at Starbucks.
+[47:53.120 --> 47:58.400]  Does it ever feel like you're a marketing professional just speaking into the void?
+[47:59.440 --> 48:03.000]  Well, with LinkedIn ads, you can know you're reaching the right decision makers.
+[48:03.440 --> 48:08.300]  You can even target buyers by job title, industry, company, seniority skills.
+[48:09.240 --> 48:10.620]  Wait, did I say job title yet?
+[48:11.000 --> 48:14.600]  Get started today and see how you can avoid the void and reach the right buyers
+[48:14.600 --> 48:15.720]  with LinkedIn ads.
+[48:16.020 --> 48:18.960]  We'll even give you a $100 credit on your next campaign.
+[48:19.300 --> 48:21.980]  Get started at LinkedIn.com slash results.
+[48:21.980 --> 48:23.400]  Terms and conditions apply.
+[48:23.860 --> 48:28.460]  I do think it's the most fun that, like, I think the best version of that idea is live.
+[48:29.000 --> 48:29.400]  Wow.
+[48:30.460 --> 48:34.800]  Honestly, being live for it was a lot of fun because the chat was going crazy.
+[48:34.920 --> 48:39.000]  Every time you died, you would just see the death count come up in the chat.
+[48:39.120 --> 48:43.240]  It would be a bunch of people typing four and then a million Pistachios.
+[48:44.900 --> 48:46.400]  And it would freak me out.
+[48:46.540 --> 48:48.600]  It definitely kept the pressure up higher than it would have been.
+[48:48.600 --> 48:53.240]  Yeah, but also it very, very hard to count to the number five.
+[48:53.320 --> 48:54.460]  I've learned while you're playing that game.
+[48:54.560 --> 48:56.720]  I kept losing track of how many times I've died.
+[48:57.420 --> 48:58.900]  I think they could be a fun.
+[48:59.660 --> 49:02.460]  Maybe like you will figure out the scheduling of it.
+[49:02.480 --> 49:06.020]  But if you have because it's only an hour long, theoretically,
+[49:06.480 --> 49:09.540]  your playthrough when you get it and you figure out how to do everything.
+[49:10.500 --> 49:13.320]  Setting a time and doing like every day until you do it.
+[49:13.860 --> 49:15.180]  Yeah. Outside of weekends.
+[49:15.860 --> 49:17.140]  I don't know what we would do with the VOD.
+[49:17.140 --> 49:19.820]  Would we just not do them for that?
+[49:19.920 --> 49:23.400]  Maybe it would be like a Mario Party in a sense.
+[49:23.560 --> 49:24.440]  We're like we eventually.
+[49:25.380 --> 49:27.940]  Yeah. Just do one big video once it's all done.
+[49:28.120 --> 49:29.660]  One big 37 hour video.
+[49:32.360 --> 49:33.340]  What do you think, Nick?
+[49:33.360 --> 49:37.180]  Are you up for stitching together a bunch of me playing Limbo's?
+[49:37.180 --> 49:37.840]  I'd love to!
+[49:41.840 --> 49:42.880]  I think that'd be fun.
+[49:43.760 --> 49:46.300]  Yeah, I like I like these little challenges.
+[49:46.300 --> 49:48.960]  I also after that, we should definitely do the Mile High Club.
+[49:49.300 --> 49:50.640]  Yes. Yeah, I'm down with that.
+[49:50.800 --> 49:55.040]  That'll be that'll be a misery because I've done that one before.
+[49:55.300 --> 49:56.900]  It took me days to do it.
+[49:57.140 --> 49:58.860]  Really? I think so.
+[49:59.140 --> 50:00.980]  Yeah, I think it probably took two days to do.
+[50:01.040 --> 50:02.980]  I can't remember. It was a long time ago, but it was hard.
+[50:03.360 --> 50:04.700]  What about you, Nick? I think I've done it twice.
+[50:05.140 --> 50:06.640]  Never done it. Never done it, Eric.
+[50:07.340 --> 50:10.820]  Oh, I've definitely never done it, which that's that's a Call of Duty thing, right?
+[50:11.400 --> 50:13.660]  Yeah. Yeah. Which Call of Duty is it?
+[50:14.480 --> 50:15.220]  Modern Warfare.
+[50:15.620 --> 50:17.000]  First Modern Warfare, right?
+[50:17.360 --> 50:19.540]  I call dibs on Recruit. You guys have to be veteran.
+[50:21.760 --> 50:23.540]  When did Modern Warfare come out?
+[50:23.940 --> 50:25.240]  Like 2007 or something?
+[50:25.500 --> 50:29.180]  It didn't even occur to me that you could play Mile High Club on anything but veteran
+[50:29.180 --> 50:32.680]  because the whole point of doing it was there's an achievement associated to it.
+[50:32.760 --> 50:33.360]  Yeah. Yeah.
+[50:34.380 --> 50:37.080]  Can you even do it on any difficulty lower than veteran?
+[50:37.560 --> 50:38.520]  You wouldn't get the achievement.
+[50:38.840 --> 50:39.880]  No, but like, is there?
+[50:39.940 --> 50:42.240]  I don't know. It feels like so pointless to do it on.
+[50:42.320 --> 50:43.440]  I don't think I've ever done it.
+[50:43.880 --> 50:45.060]  On any other difficulty.
+[50:45.360 --> 50:46.680]  Oh, if you can, you should try it.
+[50:46.720 --> 50:47.340]  But it's way easier.
+[50:47.700 --> 50:48.880]  Oh, it would be so much easier.
+[50:49.600 --> 50:53.300]  The tough part of it is that it's got like a two minute timer or something.
+[50:53.400 --> 50:53.880]  Or is it a minute?
+[50:54.700 --> 50:56.120]  Yeah, I think it's two minutes.
+[50:56.120 --> 50:56.460]  Yeah.
+[50:56.860 --> 50:59.800]  So it's to the point where you have to make so much progress through the plane
+[50:59.800 --> 51:03.420]  that it's quicker just to pick up another gun than it is to reload the one you have.
+[51:04.000 --> 51:05.140]  Yeah, it's a thing.
+[51:05.900 --> 51:09.240]  We all have to watch a guide on it, I think, because it is like
+[51:09.240 --> 51:12.880]  you have to throw smoke grenades and then run and then throw more smoke.
+[51:12.880 --> 51:15.040]  Like just getting that system down.
+[51:15.220 --> 51:16.800]  I wonder if we ever released a guy.
+[51:17.540 --> 51:18.340]  Oh, that's interesting.
+[51:18.720 --> 51:19.900]  I think we did it as a go.
+[51:20.660 --> 51:23.320]  You have to go through all this stuff as quickly as possible.
+[51:23.560 --> 51:26.860]  And then you have a hostage situation at the end where you have to get a very
+[51:26.860 --> 51:27.920]  precise shot.
+[51:28.540 --> 51:28.880]  Oh, yeah.
+[51:29.180 --> 51:30.920]  You have to not shoot the hostage in the face.
+[51:31.300 --> 51:31.680]  Yeah.
+[51:32.580 --> 51:33.380]  We did.
+[51:33.540 --> 51:34.780]  We did it on Versus.
+[51:35.340 --> 51:35.740]  Versus.
+[51:35.740 --> 51:36.420]  Or it could time out.
+[51:37.100 --> 51:38.020]  11 years ago.
+[51:40.160 --> 51:40.960]  I think.
+[51:44.080 --> 51:45.240]  I like the back there.
+[51:45.280 --> 51:48.960]  It was like dusting off this dusty old game to do this old achievement.
+[51:49.120 --> 51:51.620]  And now it's been like double the amount of time since that.
+[51:51.780 --> 51:52.200]  Jesus Christ.
+[51:52.260 --> 51:54.320]  We got to get we got to get with the times, man.
+[51:54.500 --> 51:55.460]  We're stuck in 2011.
+[51:55.920 --> 51:58.340]  I just like I just found the video.
+[51:58.460 --> 52:02.600]  I just went into AH Guide, Call of Duty, Modern Warfare 3, Spec Ops 2, Mile
+[52:02.600 --> 52:04.360]  Hijack. Is that what this is?
+[52:05.620 --> 52:06.420]  That's different.
+[52:06.420 --> 52:07.780]  Oh, OK.
+[52:08.400 --> 52:09.320]  I just went in.
+[52:09.400 --> 52:14.140]  I just found this video, went into it, and it's just Ray commenting with people.
+[52:14.660 --> 52:18.860]  It's just Ray's account commenting with people from 13 years ago.
+[52:19.320 --> 52:19.460]  Weird.
+[52:21.340 --> 52:23.960]  They the one we should do, we should do the remastered when they
+[52:23.960 --> 52:25.860]  they redid the Modern Warfare series.
+[52:26.280 --> 52:28.420]  They did it again on that one.
+[52:28.740 --> 52:29.920]  So I had to do it twice.
+[52:30.400 --> 52:31.280]  So we can do it on that one.
+[52:31.340 --> 52:32.080]  It'll look better.
+[52:32.720 --> 52:34.480]  That'd be cool, too, because then I'll actually get that achievement.
+[52:34.980 --> 52:36.820]  So, yeah, the second one, it's
+[52:38.060 --> 52:39.680]  still sucks as long as it's not easier.
+[52:39.980 --> 52:41.780]  No, it's the exact same experience.
+[52:41.800 --> 52:42.480]  It just looks nicer.
+[52:42.780 --> 52:43.440]  Oh, sweet.
+[52:43.820 --> 52:44.660]  I'm so bad.
+[52:44.720 --> 52:48.460]  What's so frustrating to me about that thing is I'm so bad at the hostage part,
+[52:48.840 --> 52:51.160]  but I'm OK at the other parts in my experience.
+[52:51.440 --> 52:53.760]  But like, I could consistently get to the hostage.
+[52:53.920 --> 52:55.400]  I remember when I was first going for that achievement,
+[52:55.500 --> 52:57.280]  I kept shooting the hostage.
+[52:57.520 --> 53:01.280]  Oh, I did that like seven or eight times before getting it.
+[53:01.320 --> 53:04.180]  And then there's the thing of like, oh, you have to like fire immediately
+[53:04.180 --> 53:07.140]  too, because if you don't, then you just have no window for it.
+[53:07.220 --> 53:08.920]  And then he just kills the host. It sucks.
+[53:09.120 --> 53:11.620]  Yeah, it is a brutal achievement to get.
+[53:11.960 --> 53:12.960]  No checkpoints.
+[53:13.560 --> 53:14.080]  No checkpoint.
+[53:14.200 --> 53:16.600]  Well, I mean, it would be kind of funny to have a checkpoint, like a two minute
+[53:16.600 --> 53:17.240]  sequence.
+[53:17.680 --> 53:18.760]  It's at the hostage.
+[53:19.460 --> 53:23.160]  I had a question that is for the group, but I assume it's mainly for Jeff
+[53:23.160 --> 53:25.660]  because Jeff's like the butt guy, the anus guy.
+[53:26.280 --> 53:28.000]  Hey, that's me, the butt guy.
+[53:28.580 --> 53:31.540]  If you put helium in your butt, do you fart higher?
+[53:32.180 --> 53:33.280]  Yes, I would assume so.
+[53:33.280 --> 53:34.860]  Like a higher pitch, you mean?
+[53:35.420 --> 53:36.520]  Yeah. Yeah.
+[53:36.600 --> 53:37.460]  Oh, that's interesting.
+[53:37.820 --> 53:40.920]  I don't I I don't think you would, would you?
+[53:41.300 --> 53:42.260]  Oh, I think it'd be the same.
+[53:42.840 --> 53:46.360]  Hmm. If it's going in your butt, I would think so.
+[53:46.700 --> 53:47.520]  Why wouldn't it?
+[53:49.180 --> 53:50.080]  Should we try?
+[53:50.800 --> 53:53.900]  I was thinking, yeah, if we get if we get the new office at some point.
+[53:55.040 --> 53:57.020]  I pencil that in for the new office.
+[53:57.080 --> 53:59.500]  We do a helium helium farts.
+[54:00.060 --> 54:01.640]  Should we do that before the knife drones?
+[54:03.400 --> 54:04.780]  Yeah, let's do it the same day.
+[54:05.060 --> 54:06.820]  I think it could be a new game for you, Jeff.
+[54:07.140 --> 54:08.780]  I might have an in for the knife drones, too.
+[54:08.900 --> 54:10.620]  I might have might have a solution for that.
+[54:11.040 --> 54:11.680]  Have you got a helium gun?
+[54:11.680 --> 54:13.480]  You're going to say you might have an in for the helium
+[54:13.480 --> 54:16.280]  because that's apparently a rare, rare thing to get.
+[54:16.600 --> 54:18.220]  Don't we taught you about it.
+[54:18.240 --> 54:20.340]  Don't say apparently to us.
+[54:20.740 --> 54:23.660]  We told you about the thing you're telling us.
+[54:24.100 --> 54:26.200]  And I, you know, I don't know if I believe helium is rare.
+[54:27.720 --> 54:29.340]  Alleged, alleged rarity of helium.
+[54:29.920 --> 54:30.600]  What else is rare?
+[54:32.660 --> 54:34.940]  Uh, saffron, saffron, really?
+[54:35.560 --> 54:35.900]  Yeah.
+[54:37.160 --> 54:37.520]  Saffron?
+[54:38.240 --> 54:39.380]  Super, super expensive.
+[54:39.600 --> 54:43.000]  That's why, like when I was in when I was in Turkey, everybody's like, get the saffron.
+[54:43.120 --> 54:44.640]  It's a third of the prices in the States.
+[54:45.600 --> 54:46.580]  I'm like, I'm good.
+[54:46.760 --> 54:50.140]  I don't I don't cook with saffron because I don't have access to it.
+[54:50.140 --> 54:51.400]  So I don't know what I'm missing. I'm fine.
+[54:52.100 --> 54:53.100]  You didn't try it?
+[54:53.260 --> 54:54.940]  Yeah. Did you have saffron there? Was it good?
+[54:55.440 --> 54:58.780]  I didn't have any saffron there, but I did go to the Egyptian spice market,
+[54:58.780 --> 55:00.560]  which is one of the coolest places I've ever been.
+[55:01.660 --> 55:05.960]  And Emily took a video of me trying to buy ice cream from a guy who did the thing
+[55:05.960 --> 55:09.460]  where he takes it out of your hand, flips it around.
+[55:09.740 --> 55:10.180]  Doing ice cream pranks?
+[55:10.180 --> 55:12.880]  Hit me in the dick with ice cream.
+[55:14.440 --> 55:15.760]  Hard. I felt it.
+[55:15.840 --> 55:16.880]  I was like, oh, fuck.
+[55:17.720 --> 55:19.720]  And then he charged me 20 bucks.
+[55:22.460 --> 55:23.280]  Fucking idiot.
+[55:24.680 --> 55:28.560]  I feel like that's the attitude of every ice cream guy that does that.
+[55:29.240 --> 55:30.220]  Oh, for sure.
+[55:30.780 --> 55:31.360]  Oh, man.
+[55:31.680 --> 55:35.580]  So just before we move on, I'm really curious to know what color is helium
+[55:35.580 --> 55:36.560]  on the rarity scale?
+[55:36.700 --> 55:37.540]  Are we talking purple?
+[55:38.020 --> 55:38.840]  Is it a gold?
+[55:39.560 --> 55:41.300]  If it's like a loot drop in a game?
+[55:41.480 --> 55:42.820]  Oh, I'd say it's probably blue.
+[55:43.500 --> 55:45.460]  Blue? That's barely rare.
+[55:45.880 --> 55:47.580]  Yeah, it's not super rare.
+[55:48.060 --> 55:49.340]  Balloons. It's just finite.
+[55:50.020 --> 55:51.180]  Yeah, I'd say blue.
+[55:51.560 --> 55:53.220]  I think blue is right based on that.
+[55:53.880 --> 55:54.460]  That's a good call.
+[55:55.300 --> 55:56.180]  Blue helium feels good.
+[55:56.180 --> 55:59.740]  Do you have any gold slash... what's the top color?
+[56:00.600 --> 56:01.760]  Yeah, I like gold, typically.
+[56:01.880 --> 56:03.100]  Is it gold or red?
+[56:04.000 --> 56:04.860]  Oh, red.
+[56:05.460 --> 56:06.840]  Is it not orange?
+[56:07.300 --> 56:14.240]  When I think of the scale, I think gray, green, blue, purple, orange, red.
+[56:14.760 --> 56:15.120]  Interesting.
+[56:15.940 --> 56:18.780]  I didn't even think about red factoring in there. I like that.
+[56:18.960 --> 56:20.000]  I like having one more.
+[56:20.020 --> 56:20.760]  Yeah, in COD, it's red.
+[56:21.340 --> 56:21.560]  Yeah.
+[56:22.320 --> 56:22.500]  Hmm.
+[56:23.300 --> 56:25.460]  Were you going to say, what's the rarest item you have, Gavin?
+[56:26.020 --> 56:27.860]  Yeah, like, what's the goldest thing in your life?
+[56:29.980 --> 56:32.140]  Ooh, the goldest thing.
+[56:33.460 --> 56:40.080]  I have an answer, actually, but I can't reveal it yet because it's for content.
+[56:40.400 --> 56:40.800]  What?
+[56:41.260 --> 56:41.740]  The content will be revealed later.
+[56:42.380 --> 56:42.900]  Wow!
+[56:43.940 --> 56:44.960]  What the hell?
+[56:46.200 --> 56:47.240]  That's crazy.
+[56:48.080 --> 56:52.700]  Maybe the rarest thing that I should have that isn't in my life is the big bounce on VHS
+[56:52.700 --> 56:54.480]  that is graded.
+[56:55.880 --> 56:59.280]  The nine point whatever that got stolen from my porch.
+[57:00.280 --> 57:01.740]  Somebody took a gold package.
+[57:02.060 --> 57:04.060]  You can't keep bringing up the big bounce.
+[57:04.180 --> 57:04.780]  Nobody knows.
+[57:05.140 --> 57:07.980]  We talked about it before and nobody knows what it is still.
+[57:08.100 --> 57:09.740]  Like you can't keep talking about the big bounce.
+[57:09.740 --> 57:09.960]  It's a Hawaiian Owen Wilson movie.
+[57:10.060 --> 57:12.300]  Everybody knows about the big bounce.
+[57:12.840 --> 57:13.600]  Look at them.
+[57:14.100 --> 57:15.520]  They're getting ready for a big bounce.
+[57:15.840 --> 57:18.780]  I had, I'm like, what was the big bounce, like a kid's show or something?
+[57:18.960 --> 57:19.260]  I forgot.
+[57:19.420 --> 57:20.800]  I totally forgot about the big bounce.
+[57:20.800 --> 57:25.280]  Charlie Sheen looks like Matt Dillon's brother from There's Something About Mary.
+[57:25.340 --> 57:28.340]  Like I feel just in that image, it's like the same guy.
+[57:28.540 --> 57:29.380]  Oh, yeah.
+[57:29.500 --> 57:30.820]  I'm pretty sure it's the same role.
+[57:31.820 --> 57:32.720]  Zany detective.
+[57:33.720 --> 57:41.800]  I sent a clip to Eric recently of the 1999 MTV Movie Awards Best Picture.
+[57:42.180 --> 57:48.420]  And it's, I think, the funniest category of films where it's just the most absurd range
+[57:48.420 --> 57:51.460]  of it's like Shakespeare in Love.
+[57:51.840 --> 57:53.380]  There's Something About Mary.
+[57:53.860 --> 57:55.080]  The Truman Show.
+[57:55.840 --> 57:58.540]  Saving Private Ryan is like in the mix.
+[57:59.020 --> 58:04.440]  It has to be the only like known award that features Saving Private Ryan.
+[58:04.560 --> 58:06.920]  And there's something about Mary in the same category.
+[58:08.180 --> 58:11.820]  I don't remember the other movie was, but there's something about Mary one, which makes
+[58:11.820 --> 58:12.580]  it so funny.
+[58:13.460 --> 58:17.440]  It was the nominees for best movie were Armageddon.
+[58:17.900 --> 58:24.220]  There's Something About Mary, Saving Private Ryan, Shakespeare in Love, The Truman Show.
+[58:24.840 --> 58:25.360]  Jesus.
+[58:26.000 --> 58:26.420]  Wild.
+[58:27.140 --> 58:28.240]  What a collection of films.
+[58:28.820 --> 58:33.240]  I watched Deep Impact for the first time about a week ago.
+[58:33.840 --> 58:34.820]  Wow, really?
+[58:35.420 --> 58:36.640]  Because I was thinking about Armageddon.
+[58:36.720 --> 58:37.880]  I was like, oh, I never watched Deep Impact.
+[58:38.000 --> 58:42.440]  Like they're always talked about in the same same sort of time release, same sort of style
+[58:42.440 --> 58:42.720]  movie.
+[58:44.140 --> 58:45.640]  It's such a piece of shit.
+[58:47.340 --> 58:49.820]  It's not even like a fun, bad movie.
+[58:49.920 --> 58:52.140]  It's just a genuinely shit film.
+[58:52.340 --> 58:54.800]  I was blown away that it's even compared to Armageddon.
+[58:55.360 --> 58:56.440]  And Armageddon sucks.
+[58:57.060 --> 58:57.340]  Yeah.
+[58:57.600 --> 58:58.460]  Armageddon does suck.
+[58:58.860 --> 59:00.920]  I remember Deep Impact having a cool wave.
+[59:01.460 --> 59:01.680]  Yeah.
+[59:01.820 --> 59:02.420]  Was there a cool wave?
+[59:02.440 --> 59:06.880]  Is it like Taya Leone standing on the beach and she gets like demolished by a wave?
+[59:07.020 --> 59:08.020]  Does that happen in that movie?
+[59:08.500 --> 59:08.720]  Yeah.
+[59:08.840 --> 59:08.980]  That's awesome.
+[59:08.980 --> 59:13.120]  She's like a very unlikable main character for 75% of the movie and then just gets washed
+[59:13.120 --> 59:21.380]  away and it's meant to be at a big emotional moment and you just go, oh, awesome.
+[59:21.760 --> 59:25.700]  And this fricking giant, ah, I just got so many problems.
+[59:26.600 --> 59:27.480]  Run him down.
+[59:27.640 --> 59:28.880]  Hit us with your Deep Impact.
+[59:29.040 --> 59:29.320]  What was that?
+[59:29.380 --> 59:30.580]  That was 96, 97.
+[59:30.840 --> 59:32.160]  Hit us with your Deep Impact.
+[59:32.180 --> 59:39.100]  Everyone like watches this giant meteor slam into the sea and they're just watching this
+[59:39.620 --> 59:40.520]  wave come towards him.
+[59:40.520 --> 59:46.640]  Wouldn't there be a massive, like obliterating shock wave that would just annihilate everyone
+[59:46.640 --> 59:47.340]  immediately?
+[59:48.560 --> 59:49.060]  Yeah.
+[59:49.380 --> 59:52.500]  I don't think getting wet or drowning would be the issue there for most people.
+[59:52.640 --> 59:53.980]  You think getting wet?
+[59:54.660 --> 59:56.240]  Oh, I'm too wet.
+[59:56.620 --> 59:57.060]  I'm too wet.
+[59:57.140 --> 59:57.920]  I know, nothing.
+[59:58.920 --> 01:00:00.220]  Fucking meteor, I'm soaked.
+[01:00:01.000 --> 01:00:05.720]  They could have done, I feel like they left out the most interesting part of what would
+[01:00:05.720 --> 01:00:06.140]  have happened.
+[01:00:06.920 --> 01:00:07.460]  The shock wave?
+[01:00:07.900 --> 01:00:08.220]  Yeah.
+[01:00:08.220 --> 01:00:10.940]  I don't feel like we see a lot of shock waves in movies.
+[01:00:11.620 --> 01:00:13.980]  I feel like the shock wave is often forgotten.
+[01:00:14.320 --> 01:00:17.580]  Well, what's the best shock wave you've ever seen in a movie, Gavin?
+[01:00:18.820 --> 01:00:19.280]  Alpenheimer?
+[01:00:19.700 --> 01:00:20.200]  I don't know.
+[01:00:20.380 --> 01:00:23.300]  I don't even really remember if that had, it kind of just went bang and everyone jumped.
+[01:00:25.220 --> 01:00:31.780]  I looked up shock wave movie moment and it just gave me a shock wave from Transformers.
+[01:00:32.280 --> 01:00:34.800]  What about from Terminator 2?
+[01:00:35.080 --> 01:00:35.980]  Is that a shock wave?
+[01:00:36.380 --> 01:00:37.040]  Where like...
+[01:00:37.040 --> 01:00:37.480]  Oh yeah.
+[01:00:37.480 --> 01:00:39.660]  A bunch of skeleton gets blown away.
+[01:00:39.680 --> 01:00:40.160]  Yeah.
+[01:00:40.240 --> 01:00:40.360]  Yeah.
+[01:00:40.440 --> 01:00:41.740]  See, that's how it would happen, right?
+[01:00:41.960 --> 01:00:46.040]  The tidal wave would slam into a leveled city.
+[01:00:46.780 --> 01:00:50.820]  It wouldn't be knocking the Statue of Liberty's head off and shit.
+[01:00:51.300 --> 01:00:51.360]  Yeah.
+[01:00:51.540 --> 01:00:55.760]  Gavin would have been the worst witness to the nuclear bomb test.
+[01:00:55.980 --> 01:01:02.140]  Could you imagine if like Gavin, his description of it went bang and everyone jumped of like,
+[01:01:02.160 --> 01:01:02.900]  Oh, how was work?
+[01:01:03.100 --> 01:01:04.480]  Oh, he dropped the bomb.
+[01:01:05.160 --> 01:01:05.900]  Everyone jumped.
+[01:01:06.550 --> 01:01:09.240]  I mean, at a certain distance, that's what the result is, right?
+[01:01:09.780 --> 01:01:09.920]  Sure.
+[01:01:10.020 --> 01:01:18.060]  But it's just the way you described it, like it was so insignificant, just an insane explosion
+[01:01:18.060 --> 01:01:22.120]  that changes the world, testing this unbelievable weapon.
+[01:01:22.300 --> 01:01:23.040]  It went bang.
+[01:01:23.140 --> 01:01:23.920]  Everybody jumped.
+[01:01:24.920 --> 01:01:25.040]  Anyway.
+[01:01:26.940 --> 01:01:28.000]  Traffic was bad.
+[01:01:30.880 --> 01:01:36.860]  If you look at like them dropping Fat Man on Japan, there would have been a distance
+[01:01:36.860 --> 01:01:37.880]  where all you heard was a bang.
+[01:01:38.320 --> 01:01:38.620]  Sure.
+[01:01:39.280 --> 01:01:39.880]  Yeah, I guess.
+[01:01:41.220 --> 01:01:44.780]  Apparently, everybody in Austin heard the bang of a house explode while I was gone.
+[01:01:44.900 --> 01:01:45.300]  Oh, yeah.
+[01:01:45.440 --> 01:01:46.420]  Did you guys hear that?
+[01:01:46.960 --> 01:01:47.200]  Yeah.
+[01:01:47.420 --> 01:01:48.840]  The exploding house is crazy.
+[01:01:48.920 --> 01:01:50.640]  I didn't hear it, but that's wild.
+[01:01:51.180 --> 01:01:51.940]  I heard you could hear it.
+[01:01:52.020 --> 01:01:54.780]  It was like up in Pflugerville and you could hear it from downtown.
+[01:01:55.420 --> 01:01:55.600]  Yeah.
+[01:01:56.060 --> 01:01:56.460]  Yeah.
+[01:01:56.460 --> 01:01:59.580]  There was an exploding house and I think nobody died.
+[01:01:59.660 --> 01:02:00.840]  People got fucked up though.
+[01:02:01.180 --> 01:02:02.640]  Those are the best exploding houses.
+[01:02:03.240 --> 01:02:05.780]  Like look at what was left.
+[01:02:05.980 --> 01:02:08.580]  It's just like nothing.
+[01:02:09.020 --> 01:02:10.060]  That's what I was going to say.
+[01:02:10.160 --> 01:02:13.880]  Like in England, a house explodes and it blows out the doors and windows and usually people
+[01:02:13.880 --> 01:02:14.460]  die inside.
+[01:02:15.240 --> 01:02:16.880]  Here, all the houses are made of wood.
+[01:02:17.000 --> 01:02:18.020]  So it's just gone.
+[01:02:18.540 --> 01:02:18.700]  Yeah.
+[01:02:19.320 --> 01:02:19.540]  Yeah.
+[01:02:19.620 --> 01:02:20.620]  There's just nothing left.
+[01:02:20.840 --> 01:02:21.140]  There's nothing.
+[01:02:21.140 --> 01:02:26.840]  I think it seriously fucked up like 20 other houses and one house was in danger of collapsing
+[01:02:26.840 --> 01:02:27.260]  after it.
+[01:02:27.340 --> 01:02:32.400]  I also saw that yesterday, I was on Reddit a little bit ago, I saw yesterday that the
+[01:02:32.400 --> 01:02:35.380]  cops SWAT team exploded a house in Austin.
+[01:02:35.760 --> 01:02:36.800]  Like on purpose.
+[01:02:37.200 --> 01:02:37.440]  Yeah.
+[01:02:37.540 --> 01:02:39.500]  I don't know why, but they blew a house up.
+[01:02:39.620 --> 01:02:41.940]  I'll find it on the Austin subreddit or Eric will.
+[01:02:43.340 --> 01:02:43.800]  Wow.
+[01:02:43.940 --> 01:02:45.220]  I didn't know about this.
+[01:02:45.300 --> 01:02:46.520]  I'm looking for it right now.
+[01:02:46.620 --> 01:02:47.980]  That's crazy.
+[01:02:48.300 --> 01:02:49.680]  Why would they explode a house?
+[01:02:49.680 --> 01:02:50.900]  I don't know.
+[01:02:50.900 --> 01:02:51.660]  I really disliked it.
+[01:02:51.860 --> 01:02:52.520]  Here we go.
+[01:02:52.780 --> 01:02:53.220]  Austin.
+[01:02:53.860 --> 01:02:58.860]  Police detonate explosive device found in South Austin home 17 hours ago at the time
+[01:02:58.860 --> 01:02:59.520]  of this recording.
+[01:03:00.220 --> 01:03:00.260]  Whatever.
+[01:03:01.560 --> 01:03:02.380]  Maybe we should do that then move it.
+[01:03:03.060 --> 01:03:03.240]  Yeah.
+[01:03:03.320 --> 01:03:05.120]  I mean, they, I mean, yeah, that makes sense.
+[01:03:06.700 --> 01:03:12.800]  Let's see if it was near anything that we like CrossFit, right off Man Shack, Texican
+[01:03:12.800 --> 01:03:13.180]  Cafe.
+[01:03:14.200 --> 01:03:14.640]  Damn.
+[01:03:14.780 --> 01:03:15.700]  I do like Texican Cafe.
+[01:03:15.880 --> 01:03:16.180]  It's all right.
+[01:03:16.240 --> 01:03:16.420]  Yeah.
+[01:03:16.660 --> 01:03:16.820]  Yeah.
+[01:03:17.340 --> 01:03:19.080]  It's right there by Polyphonic Coffee.
+[01:03:20.060 --> 01:03:22.240]  Oh, it's kind of by the South Austin Beer Garden.
+[01:03:22.860 --> 01:03:24.380]  Did we do an episode at Polyphonic Coffee?
+[01:03:24.580 --> 01:03:25.940]  Let me have a look here.
+[01:03:26.820 --> 01:03:27.680]  Of this show?
+[01:03:28.040 --> 01:03:28.420]  No.
+[01:03:28.740 --> 01:03:29.700]  At the coffee one.
+[01:03:35.320 --> 01:03:36.560]  Let me ask you a question, Nick.
+[01:03:36.940 --> 01:03:40.460]  Did we do an episode of this show anywhere else ever once?
+[01:03:41.120 --> 01:03:42.100]  The office maybe?
+[01:03:42.360 --> 01:03:42.680]  Dude.
+[01:03:42.780 --> 01:03:43.060]  No.
+[01:03:43.500 --> 01:03:45.940]  This is the place we tried to go to and it was closed.
+[01:03:46.420 --> 01:03:46.660]  Ah.
+[01:03:47.040 --> 01:03:47.320]  Okay.
+[01:03:47.460 --> 01:03:47.720]  There you go.
+[01:03:47.800 --> 01:03:48.840]  We tried to go here.
+[01:03:48.940 --> 01:03:49.500]  It was closed.
+[01:03:49.580 --> 01:03:50.320]  We went somewhere else.
+[01:03:50.780 --> 01:03:52.160]  They're fucking lost.
+[01:03:52.300 --> 01:03:52.480]  Yep.
+[01:03:52.780 --> 01:03:53.080]  Yep.
+[01:03:53.400 --> 01:03:53.580]  Yep.
+[01:03:53.800 --> 01:03:54.500]  I remember that.
+[01:03:54.700 --> 01:03:55.060]  Damn.
+[01:03:55.420 --> 01:03:55.840]  Crazy.
+[01:03:56.240 --> 01:03:58.840]  We had an exploding house here like a year ago.
+[01:03:59.120 --> 01:03:59.340]  Really?
+[01:03:59.960 --> 01:04:00.440]  Yeah.
+[01:04:00.860 --> 01:04:03.240]  Let me show you the remnants of that house that exploded.
+[01:04:04.120 --> 01:04:05.200]  And it was wild.
+[01:04:05.420 --> 01:04:07.400]  It was a cool...
+[01:04:07.400 --> 01:04:07.760]  Holy shit.
+[01:04:07.760 --> 01:04:08.500]  Is that like...
+[01:04:09.160 --> 01:04:10.120]  Good lord.
+[01:04:10.900 --> 01:04:11.380]  Langley?
+[01:04:11.560 --> 01:04:13.360]  Is that the area that it happened in?
+[01:04:13.780 --> 01:04:14.540]  I don't...
+[01:04:14.540 --> 01:04:15.240]  I have no idea.
+[01:04:15.240 --> 01:04:17.380]  I have no idea what the street was called or whatever.
+[01:04:17.700 --> 01:04:19.280]  It landed in a graveyard?
+[01:04:20.100 --> 01:04:21.880]  Yeah, it was next to a graveyard.
+[01:04:22.320 --> 01:04:23.720]  It was a house that was...
+[01:04:24.600 --> 01:04:25.500]  Which is perfect.
+[01:04:25.680 --> 01:04:29.540]  God, could you imagine if you were visiting your loved one and you couldn't go because
+[01:04:29.540 --> 01:04:30.500]  there was a house on them?
+[01:04:31.040 --> 01:04:31.480]  Wow.
+[01:04:32.200 --> 01:04:35.640]  Yeah, it was a thing where it was like 7 p.m. and it felt...
+[01:04:35.640 --> 01:04:41.100]  It's the closest I've ever had to a Cloverfield-like experience in real life where everything
+[01:04:41.100 --> 01:04:45.760]  shook unexplainably for like a second and a half and the power went out for a moment
+[01:04:45.760 --> 01:04:48.620]  and then everything was fine.
+[01:04:48.680 --> 01:04:50.000]  I was like, well, that was weird.
+[01:04:50.140 --> 01:04:50.740]  What was that?
+[01:04:51.100 --> 01:04:53.200]  Pretty short trip for anybody who didn't make it though.
+[01:04:53.840 --> 01:04:54.040]  Yeah.
+[01:04:55.860 --> 01:04:56.300]  Yeah.
+[01:04:56.340 --> 01:04:56.860]  No kidding.
+[01:04:57.240 --> 01:04:57.960]  Oh, man.
+[01:04:58.260 --> 01:04:58.400]  What?
+[01:04:58.500 --> 01:04:59.760]  Dude, imagine if you landed.
+[01:05:00.460 --> 01:05:06.320]  Imagine if you were in the exploding house and you shot up in the air and you died and
+[01:05:06.320 --> 01:05:07.900]  you landed in an open grave.
+[01:05:07.960 --> 01:05:08.400]  Boom.
+[01:05:08.400 --> 01:05:10.260]  It'd be like that old Xbox advert.
+[01:05:10.860 --> 01:05:11.840]  Done and done.
+[01:05:12.200 --> 01:05:14.320]  Or it's like being in that cauldron in Repo.
+[01:05:17.300 --> 01:05:20.820]  If your house blows up, do you still own the remnants?
+[01:05:22.980 --> 01:05:24.920]  Oh, yeah, I would think so.
+[01:05:25.240 --> 01:05:29.880]  If people will start walking away with your planks and door frames and shit, could you
+[01:05:29.880 --> 01:05:30.580]  be like, hey?
+[01:05:30.980 --> 01:05:34.460]  Yeah, but conversely, conversely, people could be like, hey, could you get your fucking
+[01:05:34.460 --> 01:05:35.380]  house out of my yard?
+[01:05:35.620 --> 01:05:38.280]  Well, it could be the other way around too, if like I don't have a front door anymore,
+[01:05:38.280 --> 01:05:40.560]  my neighbors refuse to give it back to me.
+[01:05:40.820 --> 01:05:42.020]  It landed on their property.
+[01:05:45.620 --> 01:05:48.420]  Well, this sort of puts a damper on my whole thing.
+[01:05:48.500 --> 01:05:53.720]  I was in Burbank when that there was an earthquake in Southern California earlier this week,
+[01:05:53.720 --> 01:05:55.320]  and I was in L.A. when it happened.
+[01:05:55.540 --> 01:05:58.080]  It was the first time I felt an earthquake in years.
+[01:05:58.660 --> 01:05:58.940]  Really?
+[01:05:59.420 --> 01:05:59.600]  Yeah.
+[01:05:59.760 --> 01:06:00.160]  How was it?
+[01:06:00.480 --> 01:06:03.880]  I was walking, getting a cup of coffee, and it made me feel dizzy.
+[01:06:04.320 --> 01:06:07.320]  I thought I was getting sick right before this stuff that I was out there doing.
+[01:06:07.320 --> 01:06:10.260]  And I'm like, oh, no, I'm going to throw up.
+[01:06:10.360 --> 01:06:12.000]  I'm like dizzy and sick.
+[01:06:12.240 --> 01:06:16.800]  And then my phone started going off and it's like, earthquake in the area, duck and cover.
+[01:06:17.020 --> 01:06:21.800]  And I was just like walking down the street and realized, oh, OK, it was just the earth
+[01:06:21.800 --> 01:06:22.760]  below me shaking.
+[01:06:22.960 --> 01:06:23.920]  I wasn't sick.
+[01:06:24.600 --> 01:06:25.740]  So that was it.
+[01:06:26.240 --> 01:06:27.960]  Have you like you grew up in California?
+[01:06:27.960 --> 01:06:29.580]  Is that just a fact of life?
+[01:06:29.620 --> 01:06:30.840]  Does that happen pretty regularly?
+[01:06:31.240 --> 01:06:31.340]  No.
+[01:06:31.520 --> 01:06:32.640]  Do you get used to it?
+[01:06:32.740 --> 01:06:34.740]  Because I've never experienced an earthquake in my life.
+[01:06:34.740 --> 01:06:39.780]  It doesn't happen often enough for you to go, oh, this is just a thing you write off.
+[01:06:40.040 --> 01:06:44.040]  But the really small ones that you feel and you just go, was that an earthquake?
+[01:06:44.760 --> 01:06:51.120]  Now, instead of like processing it, you go to Twitter and you just go earthquake.
+[01:06:51.500 --> 01:06:53.380]  And then everyone else does it, too.
+[01:06:53.480 --> 01:06:54.080]  It's very exciting.
+[01:06:54.520 --> 01:06:56.440]  So it was fun to be in L.A. for Earthquake Twitter.
+[01:06:57.740 --> 01:07:01.440]  It really it was down kind of like near San Diego when I was up in L.A.
+[01:07:01.780 --> 01:07:04.180]  So it wasn't huge when I felt it.
+[01:07:04.180 --> 01:07:08.480]  It was just enough to sort of go like, um, this feel it felt like being on a boat for
+[01:07:08.480 --> 01:07:09.020]  just a second.
+[01:07:09.480 --> 01:07:10.420]  That's all it kind of feels like.
+[01:07:10.700 --> 01:07:11.720]  I've never felt one.
+[01:07:11.780 --> 01:07:15.720]  Were you by any chance, were you headed up to L.A. because you were you wanted to go up
+[01:07:15.720 --> 01:07:16.240]  to Coachella?
+[01:07:16.840 --> 01:07:17.140]  Yeah.
+[01:07:17.300 --> 01:07:17.560]  Yeah.
+[01:07:17.600 --> 01:07:24.260]  I was trying to kind of well, I I was promised that I could perform and then I got all the
+[01:07:24.260 --> 01:07:24.720]  way there.
+[01:07:24.720 --> 01:07:29.740]  And then a guy walked up to me and he said, you thought and then he pulled down my pants
+[01:07:29.740 --> 01:07:30.540]  and everyone laughed.
+[01:07:30.620 --> 01:07:31.920]  And then I just I came back home.
+[01:07:31.920 --> 01:07:35.520]  Was it Glenn Danzig because Misfits performed at Coachella?
+[01:07:35.700 --> 01:07:38.860]  He said, he said, I ain't no goddamn son of a bitch, but watch this.
+[01:07:38.900 --> 01:07:42.000]  And then he laughed at my dick and it was like, God damn it, Glenn Danzig.
+[01:07:43.140 --> 01:07:50.260]  That was the most ill-fitting schedule for I watched so many TikToks of Misfits play.
+[01:07:50.820 --> 01:07:55.460]  And by the way, Danzig's getting up there in age, but it sounded OK.
+[01:07:55.660 --> 01:08:00.220]  But Jesus Christ, playing to 75,000 people that have never heard of them.
+[01:08:00.220 --> 01:08:02.060]  It was just a bunch of kids, though.
+[01:08:02.120 --> 01:08:03.220]  Then nobody gave a shit about.
+[01:08:03.620 --> 01:08:04.560]  No fucking clue.
+[01:08:04.640 --> 01:08:09.260]  And it's like I was telling them, like, there's a bunch of 48, 49, 52 year old dudes like
+[01:08:09.260 --> 01:08:11.800]  me that would cut their fucking pinky off to be there.
+[01:08:12.000 --> 01:08:16.080]  And it's wasted on a bunch of 19 year olds that have never heard of them before and will
+[01:08:16.080 --> 01:08:16.960]  never hear them again.
+[01:08:17.260 --> 01:08:17.600]  Absolutely.
+[01:08:18.820 --> 01:08:19.140]  Oh, well.
+[01:08:19.380 --> 01:08:24.680]  But anyway, I'm back and no more earthquakes, no more earthquakes, no more terrible trips
+[01:08:24.680 --> 01:08:25.260]  for Jeff.
+[01:08:26.800 --> 01:08:27.720]  If you say so.
+[01:08:28.100 --> 01:08:31.720]  I think I've thought of something that won't work with the whole helium in the butt thing.
+[01:08:32.000 --> 01:08:32.500]  What's that?
+[01:08:33.160 --> 01:08:37.060]  Because I think if we put helium up your butt, Jeff, it will just keep going up your colon.
+[01:08:37.720 --> 01:08:39.160]  What if I...
+[01:08:39.800 --> 01:08:41.040]  You might have to be upside down.
+[01:08:41.320 --> 01:08:41.580]  Yeah.
+[01:08:41.680 --> 01:08:42.440]  What if I'm upside down?
+[01:08:42.520 --> 01:08:44.900]  What if we what if we angle me properly?
+[01:08:45.140 --> 01:08:45.800]  That's a good idea.
+[01:08:46.120 --> 01:08:46.880]  Yeah, yeah, yeah.
+[01:08:47.140 --> 01:08:50.280]  We'll start you right side up and then turn you upside down.
+[01:08:50.720 --> 01:08:50.860]  Yeah.
+[01:08:50.860 --> 01:08:52.780]  We might have to have your back against a wall.
+[01:08:53.040 --> 01:08:53.300]  Yep.
+[01:08:53.520 --> 01:08:54.480]  Upside down.
+[01:08:54.540 --> 01:08:54.920]  OK.
+[01:08:55.340 --> 01:08:56.340]  I'm willing to do that.
+[01:08:56.340 --> 01:08:56.680]  Yeah.
+[01:08:56.780 --> 01:08:56.820]  Yeah.
+[01:08:56.820 --> 01:08:56.920]  OK.
+[01:08:57.520 --> 01:08:57.840]  All right.
+[01:08:58.720 --> 01:09:02.260]  We should probably, we should probably wrap this episode up, I think.
+[01:09:02.660 --> 01:09:04.600]  Seems like a good place to end it.
+[01:09:05.560 --> 01:09:06.600]  Thank you for listening.
+[01:09:07.120 --> 01:09:07.540]  Go ahead.
+[01:09:07.880 --> 01:09:11.100]  I was going to say, I think it's very funny that Gavin has decided you're the one getting
+[01:09:11.100 --> 01:09:12.000]  the helium in the ass.
+[01:09:12.460 --> 01:09:15.640]  I think I think that was a foregone conclusion.
+[01:09:15.920 --> 01:09:16.980]  I felt like we were all...
+[01:09:16.980 --> 01:09:20.160]  I mean, most likely scenario, but it wasn't stated until that moment.
+[01:09:20.220 --> 01:09:22.540]  Well, he said, I feel like you're the butt guy and I agree.
+[01:09:22.540 --> 01:09:23.000]  He's the butt guy.
+[01:09:23.000 --> 01:09:27.220]  And I feel like if an outside client brought this to us, he would be the one to take it.
+[01:09:27.520 --> 01:09:27.860]  Fair enough.
+[01:09:28.460 --> 01:09:32.360]  You know, like if somebody came in and they were like, we need a long back, everybody
+[01:09:32.360 --> 01:09:32.880]  would look at you.
+[01:09:33.040 --> 01:09:33.200]  Yeah.
+[01:09:33.280 --> 01:09:33.420]  Yeah.
+[01:09:33.520 --> 01:09:34.460]  No, it's a good point.
+[01:09:34.620 --> 01:09:35.060]  It's a good point.
+[01:09:35.660 --> 01:09:35.880]  OK.
+[01:09:35.980 --> 01:09:37.020]  Well, see you next time.
+[01:09:37.100 --> 01:09:37.860]  Thanks for listening.
+[01:09:38.360 --> 01:09:38.780]  Bye bye.
+[01:09:39.080 --> 01:09:40.240]  This has been episode 50.
+[01:09:40.420 --> 01:09:41.060]  Patreon.com.
+[01:09:41.060 --> 01:09:42.020]  Special Regulation Pod.
+[01:09:42.140 --> 01:09:43.000]  And check out our gameplays.
+[01:09:43.240 --> 01:09:43.600]  Bye.
+[01:09:44.200 --> 01:09:44.560]  Bye.
+[01:09:45.720 --> 01:09:46.680]  Really out of practice.
+[01:09:46.860 --> 01:09:47.020]  Jeez.
+[01:09:47.560 --> 01:09:48.280]  Jesus Christ.
+[01:09:49.360 --> 01:09:50.200]  I didn't throw up, though.

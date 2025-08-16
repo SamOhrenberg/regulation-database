@@ -71,7 +71,18 @@ Want to pitch in? Awesome. Contributions are what make open-source projects like
 
 #### Reporting Bugs or Requesting Features
 
-If you find a bug in the webapp or have an idea for a new feature, please **[open an issue](https://github.com/SamOhrenberg/regulation-database/issues)**.
+If you find a bug in the webapp or have an idea for a new feature, please **[open an issue](https://github.com/SamOhrenberg/regulation-database/issues)**. Issues are for concrete, actionable items that have a clear "done" state.
+
+#### Have a Question or Idea? Use Discussions!
+
+We've also got the **[Discussions tab](https://github.com/SamOhrenberg/regulation-database/discussions)** enabled for more open-ended conversations. It's the perfect place for things that aren't quite a bug report or a formal feature request.
+
+Here's a quick guide on when to use which:
+
+-   **Use an Issue if:** You've found a bug, something is broken, or you have a well-defined feature you want to see added. (e.g., "The search button doesn't work on mobile," or "Add a button to copy results to the clipboard.")
+-   **Use a Discussion if:** You have a general question, want to brainstorm a big new idea, want to share something you've built based on this project, or just want to chat with other contributors. (e.g., "How does the transcriber script handle de-duplication?" or "What if we added a timeline view?").
+
+Don't worry about getting it perfect. If you open an issue that's better suited for a discussion, we can always convert it.
 
 #### Fixing Transcription Errors
 

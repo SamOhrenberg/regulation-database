@@ -18,6 +18,21 @@ Find something broken in the webapp or the automation script? Please [open a bug
 
 Got a killer idea for a new feature for the webapp or a suggestion to improve the automation script? We'd love to hear it. Please [open a feature request issue](https://github.com/SamOhrenberg/regulation-database/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE%5D%3A+).
 
+### 💬 Have a Question or a Big Idea? Use Discussions!
+
+We've also got the **[Discussions tab](https://github.com/SamOhrenberg/regulation-database/discussions)** enabled for more open-ended conversations. It's the perfect place for things that aren't quite a bug report or a formal feature request.
+
+Here's a quick guide on when to use which:
+
+-   **Use an Issue if:** You've found a bug, something is broken, or you have a well-defined feature you want to see added. Issues are for concrete, actionable items.
+    -   *Example: "The search button doesn't work on mobile."*
+    -   *Example: "Add a button to copy results to the clipboard."*
+-   **Use a Discussion if:** You have a general question, want to brainstorm a big new idea, or just want to chat with other contributors.
+    -   *Example: "How does the transcriber script handle de-duplication?"*
+    -   *Example: "What if we added a timeline view? How would that work?"*
+
+Don't worry about getting it perfect. If you open an issue that's better suited for a discussion, we can always convert it.
+
 ### 📝 Correcting Transcriptions
 
 Let's be real, automated transcription isn't always perfect. If you spot an error in a transcript, you can either:

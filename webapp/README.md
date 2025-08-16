@@ -1,8 +1,8 @@
 # Regulation Podcast Search (Webapp)
 
-This is the React-based frontend application for the **Regulation Database**. It provides a clean, fast, and responsive user interface for searching through all available podcast transcriptions.
+This is the React-based frontend for the **Regulation Database**. It's a clean, fast, and responsive UI for digging through all the podcast transcriptions.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). For the full project overview, including the data pipeline and contribution guidelines, please see the [main README file](../../readme.md).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), which handles a lot of the heavy lifting for the build process. For the full project overview, including the data pipeline and how to contribute, check out the [main README file](../../readme.md).
 
 ## Tech Stack
 
@@ -12,29 +12,34 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How It Works
 
-This is a fully static web application with no traditional backend.
+This is a fully static web app—no traditional backend or server costs, which is pretty slick.
 
-1.  On load, the app makes an API call to the GitHub repository to get a list of all files in the `/transcriptions` directory.
-2.  When a user performs a search, the app fetches the raw text content of each transcription file directly from GitHub (`file.download_url`).
-3.  The search is performed client-side, in the user's browser, allowing for a fast and lightweight experience.
-4.  Results are displayed with highlighted keywords and contextual snippets.
+1.  When you load the page, the app hits the GitHub API to get a list of all the files in the `/transcriptions` directory.
+2.  When you search for something, the app fetches the raw text content of each transcription file directly from GitHub (`file.download_url`).
+3.  All the searching happens right in your browser (client-side). This keeps things fast and lightweight.
+4.  Results pop up with your search term highlighted, along with some surrounding text for context.
+
+## ⚙️ Configuration (For Forks)
+
+The app is configured to pull data from the main `SamOhrenberg/regulation-database` repository by default. If you've forked this project and want the webapp to point to your own repository, you'll need to set up a local environment file.
+
+1.  In the `/webapp` directory, copy the `.env.example` file to a new file named `.env.local`.
+2.  Open `.env.local` and change the values to match your GitHub username and repository name.
+
+This file is ignored by Git, so your personal settings won't be committed.
 
 ## Available Scripts
 
-In the `webapp` directory, you can run the following commands:
+Once you're in the `webapp` directory, you can run these commands:
 
 ### `npm start`
 
 Runs the app in development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will automatically reload when you make edits.
+Open [http://localhost:3000](http://localhost:3000) to see it in your browser. The page will automatically reload whenever you save a file, which is super handy for development.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance.
-
-### `npm run deploy`
-
-This command first runs `npm run build` and then deploys the contents of the `build` folder to the `gh-pages` branch on GitHub, making it live on GitHub Pages. Note that this is handled automatically by the GitHub Action workflow.
+Bundles the app for production into the `build` folder. It crunches everything down and optimizes it for the best performance.
 
 ### `npm test`
 
@@ -44,15 +49,10 @@ Launches the test runner in interactive watch mode.
 
 ## Deployment
 
-Deployment is automated via a GitHub Actions workflow defined in [`.github/workflows/deploy-to-gh-pages.yml`](../../.github/workflows/deploy-to-gh-pages.yml).
+Deployment is fully automated using a GitHub Actions workflow. You can check out the config file here: [`.github/workflows/deploy-to-gh-pages.yml`](../../.github/workflows/deploy-to-gh-pages.yml).
 
-Any push to the `main` branch will automatically trigger this workflow, which will:
-1.  Install dependencies.
-2.  Build the production version of the app (`npm run build`).
-3.  Deploy the `webapp/build` directory to the `gh-pages` branch.
-
-The site is configured to be served from this `gh-pages` branch.
+Any push to the `main` branch will automatically trigger this workflow. The live site is configured to be served from the `gh-pages` branch, so you shouldn't ever need to run `npm run deploy` manually.
 
 ## Contributing
 
-Contributions to the webapp are welcome! Please refer to the **[main project's contributing guidelines](../../readme.md#🤝-contributing)** for details on how to submit issues and pull requests.
+Contributions to the webapp are always welcome! Please check out the **[main project's contributing guidelines](../../CONTRIBUTING.md)** for the full rundown on how to submit issues and pull requests.

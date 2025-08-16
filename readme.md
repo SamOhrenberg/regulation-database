@@ -4,101 +4,70 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Built with](https://img.shields.io/badge/Built%20with-React-61DAFB.svg)
 
-This repository is an open-source project that provides a fully transcribed and searchable database for the **Regulation Podcast**.
+This whole thing started because Geoff Ramsey was looking for a community-run way to search through episode transcripts. So, here it is: a fully transcribed and searchable database for the **Regulation Podcast**.
 
-### **[➡️ Search the Database Here ⬅️](https://SamOhrenberg.github.io/regulation-database)**
+### **[➡️ Search the Database Here ⬅️](https://www.regulatabase.com)**
 
 ## 🎙️ About the Podcast
 
-The **Regulation Podcast** is a lighthearted comedy show featuring Andrew, Nick, Eric, Geoff, and Gavin—a long-time group of friends—who embrace absurdity and do whatever they can to make each other laugh.
+If you're here, you probably already know. The **Regulation Podcast** is a lighthearted comedy show with Andrew, Nick, Eric, Geoff, and Gavin—a long-time group of friends—who embrace absurdity and do whatever they can to make each other laugh.
 
-This project was born out of a request from the podcast's own Geoff Ramsey for a way to search through episode transcripts. As an open-source community project, it aims to be a useful tool for all listeners.
+This project is an open-source tool for all the listeners, built by the community.
 
-## 📂 Project Structure
+## 🗂️ So, What's in the Box?
 
-This repository is a monorepo containing three core components:
+This repo is a "monorepo," which is just a fancy way of saying it holds a few connected projects in one place. Here's a quick look under the hood:
 
--   `📁 /transcriptions` — Contains all episode transcriptions as raw `.txt` files. This is the raw data source for the project.
--   `📁 /powershell` — Holds the automation script responsible for fetching new episodes, transcribing them, and committing them to the repository.
--   `📁 /webapp` — A modern React application that provides a clean, fast, and user-friendly interface for searching the transcriptions.
+-   `📂 /transcriptions` — This is the treasure chest. All the raw `.txt` transcriptions live here, along with a `metadata.json` file that keeps track of everything. This is the raw data that powers the whole project.
+-   `🤖 /yt-transcriber` — The brains of the operation. This is a modern Node.js script that automatically finds new episodes on YouTube and RSS feeds, transcribes them, and commits them to the repo.
+-   `🖥️ /webapp` — The star of the show. A clean, fast React app that gives you a slick interface for searching through all the transcripts.
 
 ---
 
 ## 🚀 The Search Webapp
 
-The webapp is a React-based search interface that allows anyone to easily find moments and quotes across all transcribed episodes. It is automatically deployed to GitHub Pages on every push to the `main` branch.
+The webapp is a simple, static React site that lets anyone easily find moments and quotes across all transcribed episodes. It gets automatically deployed to GitHub Pages every time the `main` branch is updated, so it's always current.
 
 ### ✨ Features
 
 -   **Keyword Search:** Instantly search all transcripts for words or phrases.
--   **Contextual Results:** View snippets of the conversation around your search term to understand the context.
--   **Direct Links:** Each result links directly to the full transcription file on GitHub.
--   **Responsive UI:** A clean, dark-themed interface that works beautifully on desktop and mobile devices.
+-   **Contextual Results:** See snippets of the conversation around your search term so you actually know what's going on.
+-   **Direct Links:** Each result links straight to the full transcription file on GitHub if you want to read more.
+-   **Responsive UI:** A clean, dark-themed interface that works great on desktop and mobile.
 
-> For detailed setup and development instructions for the webapp, please see the [`webapp/README.md`](webapp/README.md).
-
----
-
-## 🤖 The Automation Pipeline
-
-The `powershell/fetch-transcribe.ps1` script is the engine that keeps the database up to date. It automates the entire process of retrieving new podcast episodes from their RSS feed, transcribing the audio to text, and adding the new transcriptions to the repository.
-
-### How to Use the Script
-
-This script can be adapted to transcribe any podcast. If you wish to run it yourself or contribute, follow these steps:
-
-#### 1. Requirements
-
--   Windows PowerShell
--   [**faster-whisper-xxl.exe**](https://github.com/Purfview/whisper-standalone-win): A standalone, high-performance version of OpenAI's Whisper model. The `xxl` version is recommended for its high accuracy. Download the executable and place it in a memorable location.
-
-#### 2. Setup
-
-1.  **Fork the Repository:** Because the script automatically commits and pushes to its own repository, you must first fork this project.
-
-2.  **Set Environment Variable:** The script needs to know where `faster-whisper-xxl.exe` is located. Set the `FASTER_WHISPER_PATH` environment variable in your PowerShell session:
-    ```powershell
-    $env:FASTER_WHISPER_PATH="C:\path\to\your\faster-whisper-xxl.exe"
-    ```
-
-3.  **Allow Script Execution (If Needed):** If you haven't run local PowerShell scripts before, you may need to bypass the execution policy for the current session.
-    ```powershell
-    Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
-    ```
-
-#### 3. Run the Script
-
-Navigate to the `powershell` directory and run the script:
-
-```powershell
-# Check for new episodes and transcribe them
-.\fetch-transcribe.ps1
-
-# To force re-transcription of episodes that already exist
-.\fetch-transcribe.ps1 -ForceRetranscribe
-```
+> For the nitty-gritty on setup and development for the app, check out the [`webapp/README.md`](webapp/README.md).
 
 ---
 
-## ⚙️ How It Works
+## ⚙️ The Automation Pipeline
 
-The project follows a simple, robust, and automated flow:
+The `yt-transcriber/` script is the engine that keeps the database up to date. It's a powerful Node.js tool designed to be configurable and adaptable for other projects, too. It automates the whole pipeline: fetching new content, transcribing audio with local AI, generating metadata, and committing the new files back to the repository.
 
-`[RSS Feed]` → `[PowerShell Script]` → `[faster-whisper]` → `[Git Commit & Push]` → `[GitHub Action]` → `[GitHub Pages]`
+If you want to run it yourself, contribute to it, or just see how it works under the hood, all the technical details are in its own dedicated README.
 
-1.  The PowerShell script checks the podcast's RSS feed for new episodes.
-2.  For each new episode, it downloads the audio file.
+> ➡️ **For detailed setup and usage instructions, see the [`yt-transcriber/README.md`](yt-transcriber/README.md).**
+
+---
+
+## 🛠️ How It All Works
+
+The whole project follows a simple, robust, and automated flow that doesn't require a dedicated server. It's pretty slick:
+
+`[YouTube/RSS]` → `[Node.js Script]` → `[faster-whisper]` → `[Git Commit & Push]` → `[GitHub Action]` → `[GitHub Pages]`
+
+1.  The Node.js script checks the YouTube channels and RSS feeds for new content.
+2.  For each new item, it downloads the audio.
 3.  The audio is passed to the `faster-whisper` model for transcription.
-4.  The resulting `.txt` file is saved to the `/transcriptions` directory.
-5.  The script then automatically commits the new file and pushes it to the `main` branch.
-6.  A GitHub Action workflow is triggered, which builds the React webapp.
-7.  The newly built static site is deployed to GitHub Pages, making the latest transcriptions instantly available for searching.
+4.  The new `.txt` file and updated metadata are saved to the `/transcriptions` directory.
+5.  The script automatically commits the new files and pushes them to the `main` branch.
+6.  A GitHub Action workflow kicks off, building the React webapp.
+7.  The newly built static site is deployed to GitHub Pages, making the latest transcriptions instantly searchable.
 
 ---
 
-## 🤝 Contributing
+## 🙏 Contributing
 
-Contributions are what make open-source projects thrive, and they are very welcome here!
+Want to pitch in? Awesome. Contributions are what make open-source projects like this work. Not all of them involve writing code.
 
 #### Reporting Bugs or Requesting Features
 
@@ -106,13 +75,13 @@ If you find a bug in the webapp or have an idea for a new feature, please **[ope
 
 #### Fixing Transcription Errors
 
-Automated transcription isn't perfect. If you find an error in a transcript, you have two options:
-1.  **The Easy Way:** **[Open an issue](https://github.com/SamOhrenberg/regulation-database/issues)**. Please include the episode name, the approximate timestamp or context, and the correction.
-2.  **The Pro Way:** Fork the repository, correct the error in the appropriate `.txt` file within the `/transcriptions` folder, and submit a **Pull Request**.
+Automated transcription isn't perfect. If you find an error in a transcript, you've got two options:
+1.  **The Easy Way:** **[Open an issue](https://github.com/SamOhrenberg/regulation-database/issues)**. Just include the episode name, the incorrect text, and what it should be.
+2.  **The Pro Way:** Fork the repository, fix the error in the `.txt` file inside the `/transcriptions` folder, and submit a **Pull Request**.
 
 #### Code Contributions
 
-If you'd like to improve the webapp or the PowerShell script, please feel free to fork the repository, create a new branch for your feature or bugfix, and submit a Pull Request.
+If you want to improve the webapp or the transcriber script, feel free to fork the repo, create a new branch for your feature or fix, and submit a Pull Request.
 
 ## 📜 License
 

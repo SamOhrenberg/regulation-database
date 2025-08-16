@@ -3,9 +3,11 @@ import React, { useState, Fragment } from 'react';
 import { ReactComponent as RegulationLogo } from './logo.svg';
 import './App.css'; // Import the new styles
 
-const REPO_OWNER = "SamOhrenberg";
-const REPO_NAME = "regulation-database";
-const TRANSCRIPTIONS_PATH = "transcriptions";
+    
+const REPO_OWNER = process.env.REACT_APP_GITHUB_REPO_OWNER;
+const REPO_NAME = process.env.REACT_APP_GITHUB_REPO_NAME;
+
+  const TRANSCRIPTIONS_PATH = "transcriptions";
 
 function App() {
   const [search, setSearch] = useState('');

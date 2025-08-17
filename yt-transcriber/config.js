@@ -1,5 +1,10 @@
     
 export const config = {
+  // Path to your cookies.txt file to handle age-restricted content.
+  // Place the file in this directory and use "./cookies.txt".
+  // Leave as "" to disable.
+  youtubeCookiePath: "./cookies.txt",
+
   // Path to the faster-whisper executable. Use forward slashes.
   fasterWhisperPath: "C:\\Apps\\Faster-Whisper-XXL\\faster-whisper-xxl.exe",
   
@@ -48,7 +53,12 @@ export const config = {
     "Gurbler": "Gurpler",
     "Baddour": "Baudour",
     "Gerbler": "Gurpler",
-    "Andrew Patton": "Andrew Panton"
+    "Andrew Patton": "Andrew Panton",
+    "Andrew Banton": "Andrew Panton",
+    "Gavin Freed": "Gavin Free",
+    "goopless": "Gurpler",
+    "Salt Right": "Slot Right",
+    "Pi A": "paella"
   }
 };
 

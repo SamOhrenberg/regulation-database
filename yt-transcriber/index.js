@@ -63,10 +63,7 @@ function calculateCategory(info, item) {
       if (item.title.includes("Auction")) {
         return "Auction";
       }
-      if (item.title.includes("Supplemental")) {
-        return "Supplemental";
-      }
-      return "Misc Supplemental"
+      return "Supplemental"
   }
 
   return "Category-Not-Found-Error"; // Fallback for unexpected cases
@@ -104,71 +101,94 @@ const sanitizeFilename = (name) => {
   return sanitized.replace(/\s+/g, ' ').trim();
 };
 
-const quote = (arg) => (arg.includes(' ') ? `"${arg}"` : arg);
-
 // --- MAIN SCRIPT ---
 async function main() {
-  await fs.mkdir(baseTranscriptionDir, { recursive: true });
-
-  let metadata = {};
+  // Read initial metadata once to determine what needs to be processed.
+  let initialMetadata = {};
   try {
-    metadata = JSON.parse(await fs.readFile(metadataFilePath, 'utf-8'));
-    console.log('Loaded existing metadata.json.');
+    initialMetadata = JSON.parse(await fs.readFile(metadataFilePath, 'utf-8'));
+    console.log('Loaded existing metadata.json to determine queue.');
   } catch (error) {
     console.log('No existing metadata.json found. Starting fresh.');
   }
 
   const allMediaItems = [];
 
-  // --- Step 1: Gather all items from all sources ---
+  // --- Step 1: Gather all items ---
   console.log('\nGathering items from YouTube...');
   for (const [groupName, channelUrl] of Object.entries(config.youtubeChannels)) {
     const videos = await fetchYouTubeVideoList(channelUrl);
     console.log(`  Found ${videos.length} videos from "${groupName}".`);
-    videos.forEach(video => allMediaItems.push({ ...video, groupName, source: 'YouTube' }));
+    videos.forEach(video => allMediaItems.push({ ...video, source: 'YouTube' }));
   }
 
   console.log('\nGathering items from RSS Feeds...');
   for (const [groupName, feedUrl] of Object.entries(config.rssFeeds)) {
     const items = await fetchRssFeedItems(feedUrl);
     console.log(`  Found ${items.length} items from "${groupName}".`);
-    items.forEach(item => allMediaItems.push({ ...item, groupName, source: 'RSS' }));
+    items.forEach(item => allMediaItems.push({ ...item, source: 'RSS' }));
   }
 
-  // --- Step 2: De-duplicate and process the master list ---
-  const transcribedFiles = [];
-  const titlesFromMetadata = new Set(Object.values(metadata).flat().map(entry => entry.title));
-  const titlesThisRun = new Set();
-  
-  console.log(`\nProcessing a total of ${allMediaItems.length} found items...`);
-  
-  for (const item of allMediaItems) {
-    if (titlesFromMetadata.has(item.title) && !forceRetranscribe) {
-      continue; // Already processed in a previous run
-    }
-    if (titlesThisRun.has(item.title)) {
-      console.log(`- Skipping duplicate title: "${item.title}"`);
-      continue; // Already processed from a different source in this run
-    }
+  // --- Step 2: Filter for items to process ---
+  const titlesFromMetadata = new Set(Object.values(initialMetadata).flat().map(entry => entry.title));
+  const uniqueTitles = new Set();
+  const itemsToProcess = allMediaItems.filter(item => {
+    if (uniqueTitles.has(item.title)) return false;
+    uniqueTitles.add(item.title);
+    return forceRetranscribe || !titlesFromMetadata.has(item.title);
+  });
 
-    const resultPaths = await processMediaItem(item, metadata);
-    if (resultPaths) {
-      transcribedFiles.push(...resultPaths);
-      titlesThisRun.add(item.title);
-      console.log('\nSaving updated metadata.json...');
-      await fs.writeFile(metadataFilePath, JSON.stringify(metadata, null, 2));
-    }
-  }
-
-  // --- Step 3: Finalize and commit ---
-  if (transcribedFiles.length > 0) {
-    console.log('Committing all new and updated files to Git...');
-    const filesToCommit = [...new Set(transcribedFiles)];
-    await git.add(filesToCommit);
-    await git.commit(`transcribe: Add/update ${filesToCommit.length} file(s)`);
-    await git.push();
-  } else {
+  if (itemsToProcess.length === 0) {
     console.log('\nNo new content to transcribe or commit.');
+    return;
+  }
+  
+  console.log(`\nFound ${itemsToProcess.length} new item(s) to process. Starting sequential processing...`);
+  
+  // --- Step 3: Process items sequentially and save metadata after each ---
+  const allTranscribedFiles = [];
+  
+  for (const item of itemsToProcess) {
+    const result = await processMediaItem(item);
+    
+    if (result) {
+      const { newMetadataEntry, transcribedPaths } = result;
+
+      // Atomically update metadata after each successful job
+      let currentMetadata = {};
+      try {
+        currentMetadata = JSON.parse(await fs.readFile(metadataFilePath, 'utf-8'));
+      } catch (e) { /* File doesn't exist, it will be created */ }
+
+      const { show } = newMetadataEntry;
+      if (!Array.isArray(currentMetadata[show])) currentMetadata[show] = [];
+      
+      const existingIndex = currentMetadata[show].findIndex(v => v.id === newMetadataEntry.id);
+      if (existingIndex > -1) {
+        currentMetadata[show][existingIndex] = newMetadataEntry;
+      } else {
+        currentMetadata[show].push(newMetadataEntry);
+      }
+
+      await fs.writeFile(metadataFilePath, JSON.stringify(currentMetadata, null, 2));
+      console.log(`[${item.title.substring(0, 20)}...] Metadata.json updated and saved.`);
+
+      allTranscribedFiles.push(...transcribedPaths);
+    }
+  }
+
+  // --- Step 4: Finalize and commit ---
+  if (allTranscribedFiles.length > 0) {
+    console.log(`\nSuccessfully processed ${allTranscribedFiles.length} item(s).`);
+    allTranscribedFiles.push(metadataFilePath);
+
+    console.log('Committing all new and updated files to Git...');
+    const filesToCommit = [...new Set(allTranscribedFiles)];
+    await git.add(filesToCommit);
+    await git.commit(`transcribe: Add/update ${allTranscribedFiles.length - 1} item(s)`);
+    console.log(`Committed ${filesToCommit.length} file(s).`);
+  } else {
+    console.log("\nNo new items were successfully transcribed in this run.");
   }
 }
 
@@ -176,10 +196,10 @@ async function main() {
 async function fetchYouTubeVideoList(channelUrl) {
     try {
         const args = ['--get-id', '--get-title', '--flat-playlist'];
-        if (config.minVideoDurationSeconds > 0) {
-            args.push('--match-filter', `duration > ${config.minVideoDurationSeconds}`);
-        }
+        if (config.youtubeCookiePath) args.push('--cookies', config.youtubeCookiePath);
+        if (config.minVideoDurationSeconds > 0) args.push('--match-filter', `duration > ${config.minVideoDurationSeconds}`);
         args.push(channelUrl);
+
         const { stdout } = await execa(config.ytDlpPath, args);
         const lines = stdout.trim().split('\n');
         const videos = [];
@@ -200,10 +220,7 @@ async function fetchRssFeedItems(feedUrl) {
         const { stdout } = await execa(config.ytDlpPath, ['--dump-single-json', '--flat-playlist', feedUrl]);
         const data = JSON.parse(stdout);
         return (data.entries || []).map(item => ({
-            id: item.id,
-            title: item.title,
-            sourceUrl: item.url, // For RSS, the direct media URL is the source
-            mediaUrl: item.url,
+            id: item.id, title: item.title, sourceUrl: item.url, mediaUrl: item.url,
         }));
     } catch (error) {
         console.error(`Failed to fetch items for RSS feed ${feedUrl}:`, error.stderr || error.message);
@@ -212,220 +229,97 @@ async function fetchRssFeedItems(feedUrl) {
 }
 
 // --- CORE PROCESSING FUNCTION ---
-async function processMediaItem(item, metadata) {
-  const { groupName, source } = item;
-  console.log(`\n--- Processing ${source} for "${groupName}": "${item.title}" ---`);
+async function processMediaItem(item) {
+  const logPrefix = `[${item.title.substring(0, 40)}...]`;
+  console.log(`\n--- ${logPrefix} Starting process ---`);
   
   let itemInfo;
   try {
-    itemInfo = await ytDlp.getVideoInfo(item.sourceUrl);
+    const args = config.youtubeCookiePath ? ['--cookies', config.youtubeCookiePath] : [];
+    itemInfo = await ytDlp.getVideoInfo(item.sourceUrl, args);
   } catch (error) {
-    console.error(`    Failed to fetch metadata:`, error);
+    console.error(`${logPrefix} Failed to fetch metadata:`, error.message);
     return null;
   }
 
-  const show = calculateShow(itemInfo, item);
-  const episode_number = parseEpisodeNumber(item.title);
-  const category = calculateCategory(itemInfo, item);
-  const baseFilename = generateFilename({ show, episode_number, category, title: itemInfo.title });
-  
-  const groupDir = path.join(baseTranscriptionDir, groupName);
-  await fs.mkdir(groupDir, { recursive: true });
-  const transcriptPath = path.join(groupDir, `${baseFilename}.txt`);
+  let finalTitle = itemInfo.title;
+  if (!finalTitle || finalTitle.toLowerCase().startsWith(`${item.source.toLowerCase()} video`)) {
+    console.warn(`${logPrefix} Detected generic title. Falling back to '${item.title}'.`);
+    finalTitle = item.title;
+  }
 
-  if (!Array.isArray(metadata[groupName])) metadata[groupName] = [];
+  const show = calculateShow(itemInfo, item);
+  const episode_number = parseEpisodeNumber(finalTitle);
+  const category = calculateCategory(itemInfo, { ...item, title: finalTitle });
+  const baseFilename = generateFilename({ show, episode_number, category, title: finalTitle });
   
-  const newMetadata = {
-    id: itemInfo.id, source, title: itemInfo.title, description: itemInfo.description,
+  const showDir = path.join(baseTranscriptionDir, show);
+  await fs.mkdir(showDir, { recursive: true });
+  const transcriptPath = path.join(showDir, `${baseFilename}.txt`);
+
+  const newMetadataEntry = {
+    id: itemInfo.id, source: item.source, title: finalTitle, description: itemInfo.description,
     duration: itemInfo.duration, duration_string: itemInfo.duration_string,
     upload_date: itemInfo.upload_date, url: itemInfo.webpage_url || itemInfo.original_url,
-    thumbnail: itemInfo.thumbnail, transcript_path: null, images: [], show, episode_number, category,
+    thumbnail: itemInfo.thumbnail, transcript_path: path.relative(projectRoot, transcriptPath).replace(/\\/g, '/'),
+    images: [], show, episode_number, category,
   };
   
-  const hasPublicMedia = item.mediaUrl || source === 'YouTube';
-  const existingIndex = metadata[groupName].findIndex(v => v.id === newMetadata.id);
-
-  if (existingIndex > -1) {
-    metadata[groupName][existingIndex] = newMetadata;
-  } else {
-    metadata[groupName].push(newMetadata);
-  }
-
-  if (!hasPublicMedia) {
-    console.log("  - No public media found. Adding metadata only.");
-    return [metadataFilePath];
-  }
-  
-  newMetadata.transcript_path = path.relative(projectRoot, transcriptPath).replace(/\\/g, '/');
-  
-  const videoPath = path.join(groupDir, `${baseFilename}.mp4`);
-  const audioPath = path.join(groupDir, `${baseFilename}.mp3`);
-  let transcribed = false;
+  const audioPath = path.join(showDir, `${baseFilename}.mp3`);
 
   try {
-    if (config.imageExtraction.enabled && source === 'YouTube') {
-        console.log(`  - Downloading full video for image analysis...`);
-        await downloadMedia(item.sourceUrl, videoPath);
-        newMetadata.images = await extractSceneImages(videoPath, groupDir, baseFilename);
-        console.log(`  - Extracting audio from video...`);
-        await execa(path.join(config.ffmpegPath, 'ffmpeg'), ['-i', videoPath, '-vn', '-acodec', 'copy', audioPath]);
-    } else {
-        console.log(`  - Downloading audio only...`);
-        await downloadMedia(item.sourceUrl, audioPath, true);
-    }
+    await downloadMedia(item.sourceUrl, audioPath, logPrefix);
     
-    console.log(`  - Transcribing...`);
-    const audioFilename = path.basename(audioPath);
+    console.log(`${logPrefix} Transcribing...`);
     await execa(config.fasterWhisperPath, [
         '--model', 'large-v2', '--output_format', 'txt',
-        '--output_dir', '.', '--language', 'en', audioFilename
-    ], { cwd: groupDir });
-    transcribed = true;
+        '--output_dir', showDir, '--language', 'en', audioPath
+    ]);
 
-    console.log(`  - Applying corrections...`);
+    console.log(`${logPrefix} Applying corrections...`);
     let transcriptContent = await fs.readFile(transcriptPath, 'utf-8');
     for (const [wrong, correct] of Object.entries(config.commonTranscriptionErrors)) {
         transcriptContent = transcriptContent.replace(new RegExp(wrong, 'g'), correct);
     }
     await fs.writeFile(transcriptPath, transcriptContent);
-    
-    console.log(`  - Successfully processed "${item.title}".`);
-    return [transcriptPath, ...newMetadata.images.map(p => path.join(projectRoot, p))];
+
+    console.log(`${logPrefix} Successfully processed.`);
+    return { newMetadataEntry, transcribedPaths: [transcriptPath] };
 
   } catch (error) {
-    console.error(`    An error occurred during processing:`, error.stderr || error.message || error);
-    if (!transcribed) newMetadata.transcript_path = null;
+    console.error(`${logPrefix} An error occurred during processing:`, error.stderr || error.message || error);
     return null;
   } finally {
-    await fs.rm(videoPath, { force: true, recursive: true }).catch(() => {});
-    await fs.rm(audioPath, { force: true, recursive: true }).catch(() => {});
+    await fs.rm(audioPath, { force: true }).catch(() => {});
   }
 }
 
-async function downloadMedia(url, outputPath, audioOnly = false) {
+async function downloadMedia(url, outputPath, logPrefix = '') {
+    console.log(`${logPrefix} Downloading audio...`);
+
     const args = ['--ffmpeg-location', config.ffmpegPath];
-    if (audioOnly) {
-        args.push('-x', '--audio-format', 'mp3');
-    } else {
-        args.push('-f', 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best');
-    }
+    if (config.youtubeCookiePath) args.push('--cookies', config.youtubeCookiePath);
+
+    args.push('-x', '--audio-format', 'mp3');
     args.push('-o', outputPath, url);
 
     await new Promise((resolve, reject) => {
         const dlp = ytDlp.exec(args);
-        dlp.on('close', resolve);
-        dlp.on('error', reject);
+        dlp.on('progress', (progress) => {
+            process.stdout.write(`\r${logPrefix} Download progress: ${progress.percent}% of ${progress.totalSize} at ${progress.speed} ETA ${progress.eta} `);
+        });
+        dlp.on('close', () => {
+            process.stdout.write('\n');
+            console.log(`${logPrefix} Download complete.`);
+            resolve();
+        });
+        dlp.on('error', (err) => {
+            process.stdout.write('\n');
+            console.error(`${logPrefix} Error during download.`, err);
+            reject(err);
+        });
     });
 }
 
-// --- IMAGE EXTRACTION FUNCTION ---
-// This will eventually grab the different photos that are shared in the video
-// to provide the user interface the ability to look at the shared photos.
-async function extractSceneImages(videoPath, outputDir, baseFilename) {
-    if (!config.imageExtraction.enabled) {
-        return [];
-    }
-    console.log(`  - Analyzing video for visually distinct scenes...`);
-
-    const imagePaths = [];
-    const videoFilename = path.basename(videoPath);
-    const referenceImageFilename = `_reference_temp.jpg`;
-    const ssimLogFilename = `_ssim_temp.log`;
-    
-    const referenceImagePath = path.join(outputDir, referenceImageFilename);
-    const ssimLogPath = path.join(outputDir, ssimLogFilename);
-
-    try {
-        console.log(`    - Extracting reference scenery frame...`);
-        await execa(path.join(config.ffmpegPath, 'ffmpeg'), [
-            '-y', '-ss', '00:00:05', '-i', videoFilename, '-vframes', '1', referenceImageFilename
-        ], { cwd: outputDir });
-
-        console.log(`    - Generating similarity log (this may take a while)...`);
-        
-        const cropFilter = `crop=${config.imageExtraction.cropDetection.width}*iw:ih:${config.imageExtraction.cropDetection.left}*iw:0`;
-        const complexFilter = `[0:v]${cropFilter}[main];[1:v]${cropFilter}[ref];[main][ref]ssim=stats_file=${ssimLogFilename}`;
-
-        // --- KEY CHANGE: Add stderr: 'inherit' to show live progress ---
-        await execa(path.join(config.ffmpegPath, 'ffmpeg'), [
-            '-y',
-            '-i', videoFilename,
-            '-stream_loop', '-1',
-            '-i', referenceImageFilename,
-            '-lavfi', complexFilter,
-            '-f', 'null', '-'
-        ], { 
-            cwd: outputDir,
-            stderr: 'inherit' // This will pipe FFmpeg's progress to your console
-        });
-        // --- END KEY CHANGE ---
-
-        const logContent = await fs.readFile(ssimLogPath, 'utf-8');
-        const frameData = logContent.split('\n')
-            .map(line => {
-                const match = line.match(/pts_time:(\d+\.?\d*).*ssim_y:([0-9.]+)/);
-                if (!match) return null;
-                return { time: parseFloat(match[1]), ssim: parseFloat(match[2]) };
-            })
-            .filter(Boolean);
-
-        if (frameData.length > 0) {
-            const allSsimScores = frameData.map(f => f.ssim);
-            const minSsim = Math.min(...allSsimScores);
-            const maxSsim = Math.max(...allSsimScores);
-            console.log(`    - Analysis complete. Cropped SSIM scores range from ${minSsim.toFixed(4)} to ${maxSsim.toFixed(4)}.`);
-            console.log(`    - Current similarityThreshold is ${config.imageExtraction.similarityThreshold}. Scenes are captured if their score is BELOW this value.`);
-        }
-
-        const overlayScenes = [];
-        let currentScene = null;
-
-        for (const frame of frameData) {
-            const isDifferent = frame.ssim < config.imageExtraction.similarityThreshold;
-            if (isDifferent && !currentScene) {
-                currentScene = { start: frame.time };
-            } else if (!isDifferent && currentScene) {
-                currentScene.end = frame.time;
-                currentScene.duration = currentScene.end - currentScene.start;
-                if (currentScene.duration >= config.imageExtraction.minSceneDurationSeconds) {
-                    overlayScenes.push(currentScene);
-                }
-                currentScene = null;
-            }
-        }
-        
-        if (currentScene && frameData.length > 0) {
-             currentScene.end = frameData[frameData.length - 1].time;
-             currentScene.duration = currentScene.end - currentScene.start;
-             if (currentScene.duration >= config.imageExtraction.minSceneDurationSeconds) {
-                 overlayScenes.push(currentScene);
-             }
-        }
-
-        if (overlayScenes.length > 0) {
-            console.log(`    Found ${overlayScenes.length} valid image overlay scenes. Extracting frames...`);
-            for (const [index, scene] of overlayScenes.entries()) {
-                const captureTimestamp = scene.start + (scene.duration / 2);
-                const imageName = `${baseFilename}_scene_${index + 1}.jpg`;
-                await execa(path.join(config.ffmpegPath, 'ffmpeg'), ['-y', '-ss', String(captureTimestamp), '-i', videoFilename, '-vframes', '1', '-q:v', '2', imageName], { cwd: outputDir });
-                const fullImagePath = path.join(outputDir, imageName);
-                imagePaths.push(path.relative(projectRoot, fullImagePath).replace(/\\/g, '/'));
-            }
-        } else {
-            console.log(`    No distinct image overlay scenes found meeting the criteria.`);
-        }
-    } catch (error) {
-        console.error('    Error during image extraction:', error.stderr || error.message);
-    } finally {
-        if (!config.imageExtraction.debug) {
-            await fs.rm(referenceImagePath, { force: true }).catch(() => {});
-            await fs.rm(ssimLogPath, { force: true }).catch(() => {});
-        }
-    }
-    
-    return imagePaths;
-}
-
-main()
-  .then(() => console.log('\nAll sources processed successfully.'))
-  .catch(console.error);
+// --- Main execution ---
+main().catch(console.error);

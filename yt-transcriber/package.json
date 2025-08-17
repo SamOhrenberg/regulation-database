@@ -1,3 +1,4 @@
+    
 {
   "name": "yt-transcriber",
   "version": "1.0.0",
@@ -16,3 +17,5 @@
     "yt-dlp-wrap": "^2.3.12"
   }
 }
+
+  

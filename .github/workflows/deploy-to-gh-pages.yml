@@ -25,8 +25,8 @@ jobs:
       - name: Build
         working-directory: ./webapp
         run: |
-          REACT_APP_API_URL=${{ vars.REACT_APP_GITHUB_REPO_OWNER }} \
-          REACT_APP_ANALYTICS_ID=${{ vars.REACT_APP_GITHUB_REPO_NAME }} \
+          REACT_APP_GITHUB_REPO_OWNER=${{ vars.REACT_APP_GITHUB_REPO_OWNER }} \
+          REACT_APP_GITHUB_REPO_NAME=${{ vars.REACT_APP_GITHUB_REPO_NAME }} \
           npm run build
 
       - name: Add CNAME file

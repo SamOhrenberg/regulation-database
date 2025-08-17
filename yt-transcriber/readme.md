@@ -91,17 +91,7 @@ This will ignore the existing `metadata.json` and process all available media it
 
 ## 🛠️ How It Works
 
-The logic is pretty straightforward but robust:
-
-1.  **Gather:** The script first fetches a list of all available media (videos, audio episodes) from all sources defined in `config.js`.
-2.  **De-duplicate:** It compiles a master list and removes any duplicates based on title. This ensures we only process each unique episode once. It also checks against the existing `metadata.json` to skip episodes that have already been successfully transcribed in previous runs.
-3.  **Process:** It then iterates through the list of new content. For each item, it:
-    a. Downloads the audio (or full video if image extraction is on).
-    b. Passes the audio to `faster-whisper` for transcription.
-    c. Runs any text corrections you've defined.
-    d. Cleans up the temporary media files.
-    e. Updates the `metadata.json` file.
-4.  **Commit:** Once all new items are processed, it commits all the new transcription files and the updated `metadata.json` to your Git repository.
+The logic is pretty straightforward but robust. For a full breakdown of the data pipeline, check out the [Project Overview and Architecture](../../wiki/Project-Overview-and-Architecture) page on the Wiki.
 
 ## 🙏 Contributing
 

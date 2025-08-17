@@ -24,7 +24,10 @@ jobs:
 
       - name: Build
         working-directory: ./webapp
-        run: npm run build
+        run: |
+          REACT_APP_API_URL=${{ vars.REACT_APP_GITHUB_REPO_OWNER }} \
+          REACT_APP_ANALYTICS_ID=${{ vars.REACT_APP_GITHUB_REPO_NAME }} \
+          npm run build
 
       - name: Add CNAME file
         run: echo "www.regulatabase.com" > ./webapp/build/CNAME

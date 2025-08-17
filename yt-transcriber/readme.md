@@ -34,35 +34,6 @@ Make sure these are either in your system's `PATH` or you know the full path to 
 
 All configuration is done in the `config.js` file. This is where you tell the script where to find your tools and what content to fetch.
 
-```javascript
-// config.js
-
-export const config = {
-  // --- REQUIRED PATHS ---
-  // Make sure these point to the right executables on your system.
-  fasterWhisperPath: "C:\\Apps\\Faster-Whisper-XXL\\faster-whisper-xxl.exe",
-  ytDlpPath: "C:\\Apps\\yt-dlp\\yt-dlp.exe",
-  ffmpegPath: "C:\\Apps\\ffmpeg\\bin",
-
-  // --- CONTENT SOURCES ---
-  // Add any YouTube channels or RSS feeds you want to scrape.
-  youtubeChannels: {
-    "Regulation Podcast": "https://www.youtube.com/@THEREGULATIONPOD",
-    "Regulation Gameplay": "https://www.youtube.com/@TheRegulationPodcast",
-  },
-  rssFeeds: {
-    "Regulation Podcast": "https://feeds.megaphone.fm/fface"
-  },
-
-  // --- TRANSCRIPTION CORRECTIONS ---
-  // A simple map to automatically fix common transcription errors.
-  commonTranscriptionErrors: {
-    "Jeff": "Geoff",
-    "Baddour": "Baudour",
-  }
-};
-```
-
 ---
 
 ## 🚀 Usage

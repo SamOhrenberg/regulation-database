@@ -43,9 +43,14 @@ function App() {
   const [expandedIndexes, setExpandedIndexes] = useState([]);
 
   // Helper to construct GitHub link for a file, now using the full file path.
-  const getGithubLink = (filePath) =>
-    `https://github.com/${REPO_OWNER}/${REPO_NAME}/blob/main/${filePath}`;
-
+  const getGithubLink = (filePath) => {
+    // Split the path, encode each part, then rejoin.
+    // This correctly handles special characters like '[]' in filenames
+    // without encoding the '/' path separators.
+    const encodedPath = filePath.split('/').map(encodeURIComponent).join('/');
+    return `https://github.com/${REPO_OWNER}/${REPO_NAME}/blob/main/${encodedPath}`;
+  };
+  
   // Helper to highlight search term in a string (case-insensitive)
   function highlightText(text, term) {
     if (!term) return text;

@@ -22,6 +22,14 @@ jobs:
         working-directory: ./webapp
         run: npm ci
 
+      - name: Debug env vars
+        run: |
+          echo "OWNER: $REACT_APP_GITHUB_REPO_OWNER"
+          echo "NAME: $REACT_APP_GITHUB_REPO_NAME"
+        env:
+          REACT_APP_GITHUB_REPO_OWNER: ${{ vars.REACT_APP_GITHUB_REPO_OWNER }}
+          REACT_APP_GITHUB_REPO_NAME: ${{ vars.REACT_APP_GITHUB_REPO_NAME }}
+
       - name: Build
         working-directory: ./webapp
         env:

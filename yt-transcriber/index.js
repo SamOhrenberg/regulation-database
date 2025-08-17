@@ -166,7 +166,7 @@ async function main() {
     const filesToCommit = [...new Set(transcribedFiles)];
     await git.add(filesToCommit);
     await git.commit(`transcribe: Add/update ${filesToCommit.length} file(s)`);
-    // await git.push();
+    await git.push();
   } else {
     console.log('\nNo new content to transcribe or commit.');
   }

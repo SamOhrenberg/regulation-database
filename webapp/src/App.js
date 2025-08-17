@@ -3,11 +3,37 @@ import React, { useState, Fragment } from 'react';
 import { ReactComponent as RegulationLogo } from './logo.svg';
 import './App.css'; // Import the new styles
 
-    
+
 const REPO_OWNER = process.env.REACT_APP_GITHUB_REPO_OWNER;
 const REPO_NAME = process.env.REACT_APP_GITHUB_REPO_NAME;
 
-  const TRANSCRIPTIONS_PATH = "transcriptions";
+const TRANSCRIPTIONS_PATH = "transcriptions";
+
+/**
+ * Recursively fetches all .txt files from a given path in the GitHub repository.
+ * @param {string} path - The starting path to search (e.g., "transcriptions").
+ * @returns {Promise<Array>} A promise that resolves to a flat array of file objects.
+ */
+const fetchAllTranscriptionFiles = async (path) => {
+  const response = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${path}`);
+  if (!response.ok) {
+    console.error(`GitHub API error for path "${path}": ${response.statusText}`);
+    return [];
+  }
+  const items = await response.json();
+  let files = [];
+
+  for (const item of items) {
+    if (item.type === 'file' && item.name.endsWith('.txt')) {
+      files.push(item);
+    } else if (item.type === 'dir') {
+      const subFiles = await fetchAllTranscriptionFiles(item.path);
+      files.push(...subFiles); // Add files from subdirectories
+    }
+  }
+
+  return files;
+};
 
 function App() {
   const [search, setSearch] = useState('');
@@ -16,9 +42,9 @@ function App() {
   const [hasSearched, setHasSearched] = useState(false);
   const [expandedIndexes, setExpandedIndexes] = useState([]);
 
-  // Helper to construct GitHub link for a file
-  const getGithubLink = (fileName) =>
-    `https://github.com/${REPO_OWNER}/${REPO_NAME}/blob/main/${TRANSCRIPTIONS_PATH}/${encodeURIComponent(fileName)}`;
+  // Helper to construct GitHub link for a file, now using the full file path.
+  const getGithubLink = (filePath) =>
+    `https://github.com/${REPO_OWNER}/${REPO_NAME}/blob/main/${filePath}`;
 
   // Helper to highlight search term in a string (case-insensitive)
   function highlightText(text, term) {
@@ -43,8 +69,8 @@ function App() {
     setExpandedIndexes([]);
 
     try {
-      const res = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${TRANSCRIPTIONS_PATH}`);
-      const files = await res.json();
+      // Fetch all .txt files recursively from the transcriptions directory.
+      const files = await fetchAllTranscriptionFiles(TRANSCRIPTIONS_PATH);
 
       if (!Array.isArray(files)) {
         console.error("Failed to fetch files. Response:", files);
@@ -54,7 +80,6 @@ function App() {
       }
 
       const searchPromises = files
-        .filter(file => file.type === 'file' && file.name.endsWith('.txt'))
         .map(async file => {
           const resp = await fetch(file.download_url);
           const text = await resp.text();
@@ -90,7 +115,8 @@ function App() {
             const episodeName = file.name.replace('.txt', '').replace(/_/g, ' '); // Clean up episode name
             return {
               episode: episodeName,
-              episodeLink: getGithubLink(file.name),
+              // Use the full file path for the link, not just the name.
+              episodeLink: getGithubLink(file.path),
               matches
             };
           }

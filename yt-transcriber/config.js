@@ -48,6 +48,7 @@ export const config = {
     "Gurbler": "Gurpler",
     "Baddour": "Baudour",
     "Gerbler": "Gurpler",
+    "Andrew Patton": "Andrew Panton"
   }
 };
 

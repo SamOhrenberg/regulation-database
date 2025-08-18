@@ -1,5 +1,8 @@
     
 export const config = {
+  // A temporary directory for the downloader to place files for the transcriber.
+  tempAudioDir: "./temp_audio",
+
   // Path to your cookies.txt file to handle age-restricted content.
   // Place the file in this directory and use "./cookies.txt".
   // Leave as "" to disable.

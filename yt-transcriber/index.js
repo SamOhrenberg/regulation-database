@@ -6,67 +6,32 @@ import fs from 'fs/promises';
 import { fileURLToPath } from 'url';
 import { config } from './config.js';
 
-// --- METADATA HELPER FUNCTIONS ---
+// --- Helper Functions (calculateShow, calculateCategory, etc. are unchanged) ---
 function calculateShow(info, item) {
-
-  if (!info?.channel) {
-    return "Unknown Show";
-  }
-
-  if (info.channel === "Regulation Gameplay") {
-      return "Regulation Gameplay";
-  }
-
+  if (!info?.channel) return "Unknown Show";
+  if (info.channel === "Regulation Gameplay") return "Regulation Gameplay";
   if (info.channel === "Regulation Podcast") {
     const uploadDate = info.upload_date ? new Date(parseInt(info.upload_date.substring(0,4)), parseInt(info.upload_date.substring(4,6)), parseInt(info.upload_date.substring(6,8))) : null;
-    if (uploadDate > new Date(2025,4,8)) // last episode of f**kface was on may 8, 2025, JS is zero based month
-      return "Regulation Podcast";
-    else
-      return "F**kface Podcast"; 
+    return (uploadDate > new Date(2024,4,8)) ? "Regulation Podcast" : "F**kface Podcast"; 
   }
-
-  return "No-Show-Found-Error"; // Fallback for unexpected cases
+  return "No-Show-Found-Error";
 }
 
 function calculateCategory(info, item) {
-
-  if (!info?.channel) {
-    return "Unknown Show";
-  }
-
-  if (info.channel === "Regulation Gameplay") {
-      return "Gameplay";
-  }
-
+  if (!info?.channel) return "Unknown Show";
+  if (info.channel === "Regulation Gameplay") return "Gameplay";
   if (info.channel === "Regulation Podcast") {
-      if (/\[\d+\]/.test(item.title)) {
-        return "Episode";
-      }
-      if (item.title.includes("Sausage Talk")) {
-        return "Sausage Talk";
-      }
-      if (item.title.includes("Draft")) {
-        return "Draft";
-      }
-      if (item.title.includes("Watch Along")) {
-        return "Watch Along";
-      }
-      if (item.title.includes("Does It Do? ")) {
-        return "Does It Do?";
-      }
-      if (item.title.includes("Blindside")) {
-        return "Blindside";
-      }
-      if (item.title.includes("Break Show")) {
-        return "Break Show";
-      }
-      if (item.title.includes("Auction")) {
-        return "Auction";
-      }
-      return "Supplemental"
+      if (/\[\d+\]/.test(item.title)) return "Episode";
+      if (item.title.includes("Sausage Talk")) return "Sausage Talk";
+      if (item.title.includes("Draft")) return "Draft";
+      if (item.title.includes("Watch Along")) return "Watch Along";
+      if (item.title.includes("Does It Do? ")) return "Does It Do?";
+      if (item.title.includes("Blindside")) return "Blindside";
+      if (item.title.includes("Break Show")) return "Break Show";
+      if (item.title.includes("Auction")) return "Auction";
+      return "Supplemental";
   }
-
-  return "Category-Not-Found-Error"; // Fallback for unexpected cases
+  return "Category-Not-Found-Error";
 }
 
 function parseEpisodeNumber(videoTitle) {
@@ -76,9 +41,7 @@ function parseEpisodeNumber(videoTitle) {
 }
 
 function generateFilename({ show, episode_number, category, title }) {
-  let identifier = (episode_number !== null && !isNaN(episode_number))
-    ? String(episode_number).padStart(3, '0')
-    : category;
+  let identifier = (episode_number !== null && !isNaN(episode_number)) ? String(episode_number).padStart(3, '0') : category;
   const rawFilename = `${show} (${identifier}) ${title}`;
   return sanitizeFilename(rawFilename);
 }
@@ -89,6 +52,7 @@ const git = simpleGit(path.resolve(__dirname, '..'));
 const projectRoot = path.resolve(__dirname, '..');
 const baseTranscriptionDir = path.join(projectRoot, 'transcriptions');
 const metadataFilePath = path.join(baseTranscriptionDir, 'metadata.json');
+const tempAudioDirPath = path.resolve(__dirname, config.tempAudioDir);
 
 const YtDlpWrap = YtDlpWrapModule.default || YtDlpWrapModule;
 const ytDlp = new YtDlpWrap(config.ytDlpPath);
@@ -101,9 +65,11 @@ const sanitizeFilename = (name) => {
   return sanitized.replace(/\s+/g, ' ').trim();
 };
 
-// --- MAIN SCRIPT ---
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+// --- MAIN ORCHESTRATOR ---
 async function main() {
-  // Read initial metadata once to determine what needs to be processed.
+  await fs.mkdir(tempAudioDirPath, { recursive: true });
   let initialMetadata = {};
   try {
     initialMetadata = JSON.parse(await fs.readFile(metadataFilePath, 'utf-8'));
@@ -112,94 +78,237 @@ async function main() {
     console.log('No existing metadata.json found. Starting fresh.');
   }
 
-  const allMediaItems = [];
-
-  // --- Step 1: Gather all items ---
-  console.log('\nGathering items from YouTube...');
-  for (const [groupName, channelUrl] of Object.entries(config.youtubeChannels)) {
-    const videos = await fetchYouTubeVideoList(channelUrl);
-    console.log(`  Found ${videos.length} videos from "${groupName}".`);
-    videos.forEach(video => allMediaItems.push({ ...video, source: 'YouTube' }));
-  }
-
-  console.log('\nGathering items from RSS Feeds...');
-  for (const [groupName, feedUrl] of Object.entries(config.rssFeeds)) {
-    const items = await fetchRssFeedItems(feedUrl);
-    console.log(`  Found ${items.length} items from "${groupName}".`);
-    items.forEach(item => allMediaItems.push({ ...item, source: 'RSS' }));
-  }
-
-  // --- Step 2: Filter for items to process ---
-  const titlesFromMetadata = new Set(Object.values(initialMetadata).flat().map(entry => entry.title));
-  const uniqueTitles = new Set();
-  const itemsToProcess = allMediaItems.filter(item => {
-    if (uniqueTitles.has(item.title)) return false;
-    uniqueTitles.add(item.title);
-    return forceRetranscribe || !titlesFromMetadata.has(item.title);
-  });
-
-  if (itemsToProcess.length === 0) {
-    console.log('\nNo new content to transcribe or commit.');
-    return;
-  }
+  const workQueue = [];
+  const recoveredTitles = new Set();
   
-  console.log(`\nFound ${itemsToProcess.length} new item(s) to process. Starting sequential processing...`);
-  
-  // --- Step 3: Process items sequentially and save metadata after each ---
-  const allTranscribedFiles = [];
-  
-  for (const item of itemsToProcess) {
-    const result = await processMediaItem(item);
-    
-    if (result) {
-      const { newMetadataEntry, transcribedPaths } = result;
-
-      // Atomically update metadata after each successful job
-      let currentMetadata = {};
+  // --- NEW: Recover in-flight items from previous run ---
+  const tempFiles = await fs.readdir(tempAudioDirPath);
+  const manifestFiles = tempFiles.filter(f => f.endsWith('.json'));
+  if (manifestFiles.length > 0) {
+    console.log(`\nFound ${manifestFiles.length} unprocessed item(s) from previous run. Recovering...`);
+    for (const manifestFile of manifestFiles) {
       try {
-        currentMetadata = JSON.parse(await fs.readFile(metadataFilePath, 'utf-8'));
-      } catch (e) { /* File doesn't exist, it will be created */ }
-
-      const { show } = newMetadataEntry;
-      if (!Array.isArray(currentMetadata[show])) currentMetadata[show] = [];
-      
-      const existingIndex = currentMetadata[show].findIndex(v => v.id === newMetadataEntry.id);
-      if (existingIndex > -1) {
-        currentMetadata[show][existingIndex] = newMetadataEntry;
-      } else {
-        currentMetadata[show].push(newMetadataEntry);
+        const workItem = JSON.parse(await fs.readFile(path.join(tempAudioDirPath, manifestFile), 'utf-8'));
+        workQueue.push(workItem);
+        recoveredTitles.add(workItem.finalTitle);
+      } catch (e) {
+        console.warn(`Could not recover from manifest ${manifestFile}. Deleting corrupt files.`);
+        await fs.rm(path.join(tempAudioDirPath, manifestFile)).catch(() => {});
+        await fs.rm(path.join(tempAudioDirPath, manifestFile.replace('.json', ''))).catch(() => {});
       }
-
-      await fs.writeFile(metadataFilePath, JSON.stringify(currentMetadata, null, 2));
-      console.log(`[${item.title.substring(0, 20)}...] Metadata.json updated and saved.`);
-
-      allTranscribedFiles.push(...transcribedPaths);
     }
   }
 
-  // --- Step 4: Finalize and commit ---
+  const itemsToProcess = await gatherAndFilterItems(initialMetadata, recoveredTitles);
+  if (itemsToProcess.length === 0 && workQueue.length === 0) {
+    console.log('\nNo new content to process.');
+    await fs.rm(tempAudioDirPath, { recursive: true, force: true });
+    return;
+  }
+  console.log(`\nFound ${itemsToProcess.length} new item(s) to download. Starting producer/consumer pipeline...`);
+
+  const allTranscribedFiles = [];
+  let downloadIsComplete = false;
+
+  const producer = producerLoop(itemsToProcess, workQueue).then(() => {
+    downloadIsComplete = true;
+    console.log('\n--- All downloads complete. Producer finished. ---');
+  });
+
+  const consumer = consumerLoop(workQueue, () => downloadIsComplete, allTranscribedFiles);
+
+  await Promise.all([producer, consumer]);
+
   if (allTranscribedFiles.length > 0) {
     console.log(`\nSuccessfully processed ${allTranscribedFiles.length} item(s).`);
     allTranscribedFiles.push(metadataFilePath);
-
     console.log('Committing all new and updated files to Git...');
     const filesToCommit = [...new Set(allTranscribedFiles)];
     await git.add(filesToCommit);
-    await git.commit(`transcribe: Add/update ${allTranscribedFiles.length - 1} item(s)`);
+    await git.commit(`transcribe: Add/update ${allTranscribedFiles.length} item(s)`);
     console.log(`Committed ${filesToCommit.length} file(s).`);
   } else {
     console.log("\nNo new items were successfully transcribed in this run.");
   }
+
+  await fs.rm(tempAudioDirPath, { recursive: true, force: true });
+  console.log('Cleaned up temporary audio directory.');
 }
 
-// --- FETCHING FUNCTIONS ---
+// --- PIPELINE STAGE 1: PRODUCER (Downloader) ---
+async function producerLoop(items, queue) {
+  for (const item of items) {
+    const logPrefix = `[P-${item.title.substring(0, 20)}...]`;
+    console.log(`${logPrefix} Preparing download...`);
+
+    try {
+      const args = config.youtubeCookiePath ? ['--cookies', config.youtubeCookiePath] : [];
+      const itemInfo = await ytDlp.getVideoInfo(item.sourceUrl, args);
+
+      let finalTitle = itemInfo.title;
+      if (!finalTitle || finalTitle.toLowerCase().startsWith(`${item.source.toLowerCase()} video`)) {
+        finalTitle = item.title;
+      }
+      
+      const show = calculateShow(itemInfo, item);
+      const episode_number = parseEpisodeNumber(finalTitle);
+      const category = calculateCategory(itemInfo, { ...item, title: finalTitle });
+      const baseFilename = generateFilename({ show, episode_number, category, title: finalTitle });
+      
+      const tempAudioPath = path.join(tempAudioDirPath, `${baseFilename}.mp3`);
+      
+      await downloadMedia(item.sourceUrl, tempAudioPath, logPrefix);
+      
+      const workItem = {
+        itemInfo, finalTitle, show, episode_number, category, baseFilename, tempAudioPath, source: item.source
+      };
+
+      // --- NEW: Save manifest file for resumability ---
+      await fs.writeFile(`${tempAudioPath}.json`, JSON.stringify(workItem, null, 2));
+
+      queue.push(workItem);
+
+    } catch (error) {
+      console.error(`${logPrefix} Failed to produce work item:`, error.message);
+    }
+  }
+}
+
+// --- PIPELINE STAGE 2: CONSUMER (Processor) ---
+async function consumerLoop(queue, isProducerDone, results) {
+  while (true) {
+    if (queue.length > 0) {
+      const workItem = queue.shift();
+      const logPrefix = `[C-${workItem.finalTitle.substring(0, 20)}...]`;
+      console.log(`${logPrefix} Starting processing...`);
+      
+      const result = await processDownloadedFile(workItem, logPrefix);
+      
+      if (result) {
+        results.push(...result.transcribedPaths);
+        await saveMetadata(result.newMetadataEntry);
+        console.log(`${logPrefix} Metadata saved.`);
+      }
+
+    } else if (isProducerDone()) {
+      console.log('\n--- Queue is empty and producer is finished. Consumer finished. ---');
+      break;
+    } else {
+      await sleep(2000);
+    }
+  }
+}
+
+// --- CORE PROCESSING LOGIC ---
+async function processDownloadedFile(workItem, logPrefix) {
+  const { itemInfo, finalTitle, show, episode_number, category, baseFilename, tempAudioPath, source } = workItem;
+  
+  const showDir = path.join(baseTranscriptionDir, show);
+  await fs.mkdir(showDir, { recursive: true });
+  const transcriptPath = path.join(showDir, `${baseFilename}.txt`);
+  
+  const newMetadataEntry = {
+    id: itemInfo.id, source, title: finalTitle, description: itemInfo.description,
+    duration: itemInfo.duration, duration_string: itemInfo.duration_string,
+    upload_date: itemInfo.upload_date, url: itemInfo.webpage_url || itemInfo.original_url,
+    thumbnail: itemInfo.thumbnail, transcript_path: path.relative(projectRoot, transcriptPath).replace(/\\/g, '/'),
+    images: [], show, episode_number, category,
+  };
+  
+  try {
+    console.log(`${logPrefix} Transcribing...`);
+    try {
+      await execa(config.fasterWhisperPath, [
+          '--model', 'large-v2', '--output_format', 'txt',
+          '--output_dir', showDir, '--language', 'en', tempAudioPath
+      ]);
+    } catch (error) {
+      if (error.exitCode === 3221226505) {
+        console.warn(`${logPrefix} faster-whisper crashed but may have succeeded.`);
+        await fs.access(transcriptPath);
+        console.log(`${logPrefix} File exists, continuing.`);
+      } else { throw error; }
+    }
+
+    console.log(`${logPrefix} Applying corrections...`);
+    let transcriptContent = await fs.readFile(transcriptPath, 'utf-8');
+    for (const [wrong, correct] of Object.entries(config.commonTranscriptionErrors)) {
+        transcriptContent = transcriptContent.replace(new RegExp(wrong, 'g'), correct);
+    }
+    await fs.writeFile(transcriptPath, transcriptContent);
+
+    console.log(`${logPrefix} Successfully processed.`);
+    return { newMetadataEntry, transcribedPaths: [transcriptPath] };
+
+  } catch (error) {
+    console.error(`${logPrefix} An error occurred during processing:`, error.stderr || error.message || error);
+    return null;
+  } finally {
+    // --- NEW: Clean up both audio and manifest file ---
+    await fs.rm(tempAudioPath, { force: true }).catch(() => {});
+    await fs.rm(`${tempAudioPath}.json`, { force: true }).catch(() => {});
+  }
+}
+
+// --- HELPER & UTILITY FUNCTIONS ---
+async function gatherAndFilterItems(initialMetadata, recoveredTitles) {
+  const allMediaItems = [];
+
+  console.log('\nGathering items from YouTube...');
+  for (const channelUrl of Object.values(config.youtubeChannels)) {
+    const videos = await fetchYouTubeVideoList(channelUrl);
+    videos.forEach(video => allMediaItems.push({ ...video, source: 'YouTube' }));
+  }
+
+  console.log('\nGathering items from RSS Feeds...');
+  for (const feedUrl of Object.values(config.rssFeeds)) {
+    const items = await fetchRssFeedItems(feedUrl);
+    items.forEach(item => allMediaItems.push({ ...item, source: 'RSS' }));
+  }
+  
+  const titlesFromMetadata = new Set(Object.values(initialMetadata).flat().map(entry => entry.title));
+  const uniqueItems = new Map();
+  for (const item of allMediaItems) {
+      if (!uniqueItems.has(item.title)) {
+          uniqueItems.set(item.title, item);
+      } else if (item.source === 'YouTube') {
+          uniqueItems.set(item.title, item);
+      }
+  }
+
+  return Array.from(uniqueItems.values()).filter(item => {
+      // --- NEW: Exclude items that were already downloaded (recovered) ---
+      const alreadyProcessed = titlesFromMetadata.has(item.title);
+      const alreadyDownloaded = recoveredTitles.has(item.title);
+      return forceRetranscribe || (!alreadyProcessed && !alreadyDownloaded);
+  });
+}
+
+async function saveMetadata(newMetadataEntry) {
+  let currentMetadata = {};
+  try {
+    currentMetadata = JSON.parse(await fs.readFile(metadataFilePath, 'utf-8'));
+  } catch (e) { /* File doesn't exist, it will be created */ }
+
+  const { show } = newMetadataEntry;
+  if (!Array.isArray(currentMetadata[show])) currentMetadata[show] = [];
+  
+  const existingIndex = currentMetadata[show].findIndex(v => v.id === newMetadataEntry.id);
+  if (existingIndex > -1) {
+    currentMetadata[show][existingIndex] = newMetadataEntry;
+  } else {
+    currentMetadata[show].push(newMetadataEntry);
+  }
+
+  await fs.writeFile(metadataFilePath, JSON.stringify(currentMetadata, null, 2));
+}
+
 async function fetchYouTubeVideoList(channelUrl) {
     try {
         const args = ['--get-id', '--get-title', '--flat-playlist'];
         if (config.youtubeCookiePath) args.push('--cookies', config.youtubeCookiePath);
         if (config.minVideoDurationSeconds > 0) args.push('--match-filter', `duration > ${config.minVideoDurationSeconds}`);
         args.push(channelUrl);
-
         const { stdout } = await execa(config.ytDlpPath, args);
         const lines = stdout.trim().split('\n');
         const videos = [];
@@ -228,74 +337,8 @@ async function fetchRssFeedItems(feedUrl) {
     }
 }
 
-// --- CORE PROCESSING FUNCTION ---
-async function processMediaItem(item) {
-  const logPrefix = `[${item.title.substring(0, 40)}...]`;
-  console.log(`\n--- ${logPrefix} Starting process ---`);
-  
-  let itemInfo;
-  try {
-    const args = config.youtubeCookiePath ? ['--cookies', config.youtubeCookiePath] : [];
-    itemInfo = await ytDlp.getVideoInfo(item.sourceUrl, args);
-  } catch (error) {
-    console.error(`${logPrefix} Failed to fetch metadata:`, error.message);
-    return null;
-  }
-
-  let finalTitle = itemInfo.title;
-  if (!finalTitle || finalTitle.toLowerCase().startsWith(`${item.source.toLowerCase()} video`)) {
-    console.warn(`${logPrefix} Detected generic title. Falling back to '${item.title}'.`);
-    finalTitle = item.title;
-  }
-
-  const show = calculateShow(itemInfo, item);
-  const episode_number = parseEpisodeNumber(finalTitle);
-  const category = calculateCategory(itemInfo, { ...item, title: finalTitle });
-  const baseFilename = generateFilename({ show, episode_number, category, title: finalTitle });
-  
-  const showDir = path.join(baseTranscriptionDir, show);
-  await fs.mkdir(showDir, { recursive: true });
-  const transcriptPath = path.join(showDir, `${baseFilename}.txt`);
-
-  const newMetadataEntry = {
-    id: itemInfo.id, source: item.source, title: finalTitle, description: itemInfo.description,
-    duration: itemInfo.duration, duration_string: itemInfo.duration_string,
-    upload_date: itemInfo.upload_date, url: itemInfo.webpage_url || itemInfo.original_url,
-    thumbnail: itemInfo.thumbnail, transcript_path: path.relative(projectRoot, transcriptPath).replace(/\\/g, '/'),
-    images: [], show, episode_number, category,
-  };
-  
-  const audioPath = path.join(showDir, `${baseFilename}.mp3`);
-
-  try {
-    await downloadMedia(item.sourceUrl, audioPath, logPrefix);
-    
-    console.log(`${logPrefix} Transcribing...`);
-    await execa(config.fasterWhisperPath, [
-        '--model', 'large-v2', '--output_format', 'txt',
-        '--output_dir', showDir, '--language', 'en', audioPath
-    ]);
-
-    console.log(`${logPrefix} Applying corrections...`);
-    let transcriptContent = await fs.readFile(transcriptPath, 'utf-8');
-    for (const [wrong, correct] of Object.entries(config.commonTranscriptionErrors)) {
-        transcriptContent = transcriptContent.replace(new RegExp(wrong, 'g'), correct);
-    }
-    await fs.writeFile(transcriptPath, transcriptContent);
-
-    console.log(`${logPrefix} Successfully processed.`);
-    return { newMetadataEntry, transcribedPaths: [transcriptPath] };
-
-  } catch (error) {
-    console.error(`${logPrefix} An error occurred during processing:`, error.stderr || error.message || error);
-    return null;
-  } finally {
-    await fs.rm(audioPath, { force: true }).catch(() => {});
-  }
-}
-
 async function downloadMedia(url, outputPath, logPrefix = '') {
-    console.log(`${logPrefix} Downloading audio...`);
+    console.log(`${logPrefix} Downloading...`);
 
     const args = ['--ffmpeg-location', config.ffmpegPath];
     if (config.youtubeCookiePath) args.push('--cookies', config.youtubeCookiePath);
@@ -306,7 +349,7 @@ async function downloadMedia(url, outputPath, logPrefix = '') {
     await new Promise((resolve, reject) => {
         const dlp = ytDlp.exec(args);
         dlp.on('progress', (progress) => {
-            process.stdout.write(`\r${logPrefix} Download progress: ${progress.percent}% of ${progress.totalSize} at ${progress.speed} ETA ${progress.eta} `);
+            process.stdout.write(`\r${logPrefix} Progress: ${progress.percent}%`);
         });
         dlp.on('close', () => {
             process.stdout.write('\n');
@@ -315,7 +358,6 @@ async function downloadMedia(url, outputPath, logPrefix = '') {
         });
         dlp.on('error', (err) => {
             process.stdout.write('\n');
-            console.error(`${logPrefix} Error during download.`, err);
             reject(err);
         });
     });

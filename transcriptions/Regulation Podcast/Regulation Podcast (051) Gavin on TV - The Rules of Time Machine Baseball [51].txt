@@ -1,0 +1,1082 @@
+[00:00.000 --> 00:06.460]  Hello and welcome to another episode of the Regulation Podcast. This is number 051. My
+[00:06.460 --> 00:10.580]  name is Geoff Ramsey. With me as always, Andrew Panton, Gavin Frey, Nick Schwartz, and Eric
+[00:10.580 --> 00:15.760]  Badour. I did notice that you named the last one Regulation 050. Does that mean you're just
+[00:15.760 --> 00:20.760]  guaranteeing we've got the space to go over into three digits? Yeah, at this point I'd like to.
+[00:20.840 --> 00:24.740]  Yeah, I assume we're going to get there. I think it's a good commitment. One of the first episodes
+[00:25.300 --> 00:33.940]  Geoff made the regulation thumbnail of the Panopticon. It's like episode 0000002.
+[00:34.560 --> 00:39.540]  That's graceful thinking. I have something to bring up just real quick. I have a question,
+[00:40.000 --> 00:46.160]  kind of a query. Gavin, you were on TV in Australia? What? Gavin was on TV in Australia?
+[00:46.940 --> 00:52.100]  Yeah, I did a little bit of breakfast telly. What? Breakfast telly? What does that mean?
+[00:52.100 --> 00:56.340]  I thought just Australia, what it's taught to me. So I said, yeah, right.
+[00:56.640 --> 01:04.020]  Here's an Instagram reel about it from Morning Show on 7. Yeah, one half of the slow-mo guys
+[01:04.020 --> 01:08.320]  details why they began their channel. Wow, 126 likes.
+[01:10.040 --> 01:18.580]  Well, I imagine more people are watching it on TV. So that leads me like very cool. Hey,
+[01:18.580 --> 01:22.140]  very happy for you. That's great. Slow-mo guys, that's really awesome. Did
+[01:22.940 --> 01:27.760]  a regulation come up? You ever say, check out my podcast? Oh, he never promotes us.
+[01:27.960 --> 01:30.540]  I did strategically place three Gerplers in my background.
+[01:31.200 --> 01:34.520]  Dude, that's good. You're like Phil Spencer. I'll take that.
+[01:35.900 --> 01:40.900]  I was on Australian breakfast TV once in the past, but I lived in England at the time. So
+[01:40.900 --> 01:47.380]  I went straight from the pub to a TV station at 1am to do it. But thankfully this time I did it
+[01:47.380 --> 01:55.160]  I don't know your say, Geoff. That's me. Can you see those Gerplers?
+[01:55.740 --> 02:05.960]  What do you want? Oh, yeah, I see one. I see one. I mean, he definitely is showcasing his Dyson fan.
+[02:06.060 --> 02:10.220]  He wants everybody to see that. Yeah, that's to keep the door closed so he doesn't kiss it.
+[02:12.580 --> 02:17.020]  Yeah, no, I see it. Maybe take a drink from it. Everyone. That's what I'm
+[02:17.380 --> 02:22.900]  saying. I take it back. Nick's got it, man. Hell yeah. I like they're just back in the shadows.
+[02:23.140 --> 02:27.120]  They're not they're not lit or anything. This would be a great opportunity to
+[02:27.120 --> 02:31.380]  use the new button I put on my stream deck. And what's that? Yeah, what's your button?
+[02:41.440 --> 02:43.660]  I think Nick has that too, for sure.
+[02:44.560 --> 02:51.180]  A custom knob for just Eric on Discord. So they reached out and they said, hey,
+[02:51.240 --> 02:55.920]  we want to talk. The Australian news channel is like, well, let's let's let's discuss.
+[02:56.660 --> 03:01.940]  You and I. Light hearted segment. Oh, great. Every so often I get wheeled out.
+[03:02.440 --> 03:08.400]  When did you start Slow Mo Guys? What year was it? 2010. I'm glad that it took them 15 years
+[03:08.400 --> 03:14.760]  to finally care enough to ask, why did you start this? Well, a very timely question.
+[03:15.900 --> 03:19.780]  This new channel that's been around for 50 years, almost two decades ago.
+[03:20.020 --> 03:23.180]  Why are you saying? Are you saying they should they should have asked a different
+[03:23.180 --> 03:26.460]  question or they shouldn't have bothered talking to me at all? I don't think they
+[03:26.460 --> 03:29.740]  should have bothered talking to me at all. Unless that's the only question.
+[03:30.420 --> 03:35.460]  I mean, this is well covered ground. Sorry, I need to make a new stream deck button.
+[03:36.980 --> 03:42.220]  I would be annoyed if I got if the Australian news reached out to me. It was like, hey,
+[03:42.220 --> 03:46.780]  why did you start this thing you started 15 years ago that you've talked about countless
+[03:46.780 --> 03:51.220]  times in multiple places? I don't think we need the deep dive Australian news.
+[03:51.420 --> 03:58.860]  I think you can Google that. You know how in you know, in Dead Space,
+[03:59.120 --> 04:02.440]  Isaac had his health meter on the back and he could watch it go up and down.
+[04:03.080 --> 04:08.920]  Hanging out with you guys is just raising my health meter. I'm at like 80% right now. My blue
+[04:08.920 --> 04:14.540]  bar is almost to the top. Is that all they asked you, Gavin, is how did you start? Is there more
+[04:14.540 --> 04:18.780]  to this? I talked to them for like four or five minutes. They so they asked you how they started
+[04:18.780 --> 04:24.560]  and then they made Dan be a corn cat on TV. And then they wait. This was the whole segment,
+[04:24.560 --> 04:31.640]  this Instagram thing. What? They reached out to do that. Let me ask you something.
+[04:31.880 --> 04:38.140]  Let's just sit down. Let me ask you a question. Nothing's happened in Australia, apparently.
+[04:38.520 --> 04:42.800]  I'm just going to ask you a simple question here. Are you ready? Go ahead. What do you want?
+[04:43.040 --> 04:46.600]  I just I don't. It's not what I want. What do you want from me? It's me questioning
+[04:46.600 --> 04:49.720]  what do they want? Why do they want this now?
+[04:51.680 --> 04:58.960]  Now, I think I love you more. Gavin is always good, but it's just a weird ask now to be. Hey,
+[04:59.200 --> 05:04.120]  can you come on our news station? We got to figure out how this just happens. TV. It's not
+[05:04.120 --> 05:08.440]  that it's not the news, especially when you have been there before. He said you've been there
+[05:08.440 --> 05:12.120]  before. Yeah, you could have been promoting like new stuff. You know what I mean? Yeah.
+[05:12.200 --> 05:15.660]  What are you promoting? The slow mo guys exists. Yeah.
+[05:18.720 --> 05:23.120]  So they reached out to ask you to promote that the slow mo guys exists.
+[05:23.480 --> 05:27.240]  Can you reach back out to them and see if you can be on it again to talk about this podcast?
+[05:27.740 --> 05:36.560]  Or, OK, I want to get Andrew on on an interview. I want to get Andrew this gig. I want him to promote
+[05:36.560 --> 05:40.780]  regulation podcast on a morning show. How do we make that happen? Because Australia would email
+[05:40.780 --> 05:45.640]  and say, hey, Andrew, can you come and talk about regulation on our TV show?
+[05:45.640 --> 05:49.460]  And he would go on there and be like, why are you asking this for? What are you doing?
+[05:50.160 --> 05:53.500]  That's why I want to be these questions. We've been doing this. We've been doing
+[05:53.500 --> 05:57.700]  this for five years. It's a more relevant question than why didn't you make this channel 15 years
+[05:57.700 --> 06:06.250]  ago? It's just a weird ass because you're not promoting any like it's not like you're like,
+[06:06.390 --> 06:10.510]  whoa, I got this big video coming out. Let's talk about this. Or yeah, I did this thing.
+[06:10.670 --> 06:15.770]  Slow mo world or whatever. Do you have to promote something all the time?
+[06:16.310 --> 06:20.610]  I just feel like typically when you're brought on to do something is because you're doing a thing
+[06:20.610 --> 06:27.330]  of current relevance. And as great as Slow Mo Guys is, it starting is not relevant.
+[06:27.830 --> 06:32.630]  Sometimes I like to wheel out some little has been people. I think it's fine to see what I
+[06:32.630 --> 06:36.790]  don't think it has been at all. Let me be clear. I'm not saying that Slow Mo Guys fantastic,
+[06:36.830 --> 06:41.570]  still incredible, but it's just a weird time to roll you out to be like, hey,
+[06:41.570 --> 06:46.690]  so you made this thing, huh? Andrew, why did you decide to start the regulation podcast?
+[06:47.170 --> 06:53.850]  Hey, why don't you mind your goddamn business? No, it's not that I bet. I bet if you Google
+[06:54.450 --> 07:00.410]  why was Slow Mo Guys started? There's a variety of answers. I don't think they actually were
+[07:00.410 --> 07:06.410]  wondering. I think they were trying to make a little bit of light entertainment piece.
+[07:06.990 --> 07:10.690]  I just think it's a dumb question. And I'm not blaming you. I'm blaming them.
+[07:11.730 --> 07:19.490]  He's got a point. I found one from here's one from 2020. That's just why did you create Slow
+[07:19.490 --> 07:25.750]  Mo Guys? And it's from it's on Facebook, I guess. But it's just it's Gavin on another morning show.
+[07:25.830 --> 07:31.210]  No, no, no. On the Slow Mo Guys channel, explaining why he created it. So you put out
+[07:31.210 --> 07:36.990]  your own video about this. You should tease that video in your interview. They should have just
+[07:36.990 --> 07:42.470]  asked permission to play the video. It would have been the same thing. All right. In this next
+[07:42.470 --> 07:48.270]  segment, we're just going to watch this video. This guy posted on Facebook. I mean, they just
+[07:48.270 --> 07:54.370]  they they're decorating a thing that's just exists. I just feel like if I were you, you know,
+[07:54.390 --> 07:58.610]  you're someone who really cares about your time. I feel like they wasted your time.
+[08:03.100 --> 08:10.080]  Uh, did they waste my time? I think they wasted your time. Yeah. Yeah. Mr. Fuck it. I don't want
+[08:10.080 --> 08:16.440]  to take five seconds to tailsync suddenly as five minutes to answer a question that has been
+[08:16.440 --> 08:23.320]  fucking wrote into the ground across 15 years. The tailsync isn't really about the time. It's
+[08:23.320 --> 08:29.900]  about I don't want to do this every morning for the next month. It's five seconds. It's not.
+[08:31.300 --> 08:36.080]  Think about all the tailsync. The length of that interview could have been so many tailsyncs.
+[08:36.080 --> 08:43.060]  People are comparing the tailsync conversation to why don't you back up your files thing.
+[08:43.620 --> 08:50.460]  It's not the same. It is the same. One of them is like, oh, I've got a fire extinguisher here
+[08:50.460 --> 08:55.480]  in case of a fire. Your thing is I've got it's like I've got a pineapple here in case of a fire.
+[08:55.660 --> 09:00.400]  Does not apply. Doesn't come in handy. They should have just pulled up a video and said,
+[09:00.500 --> 09:02.640]  what was that about? That would have been a better interview.
+[09:04.280 --> 09:08.940]  I would. How'd you start this thing? Just watching YouTube videos with Gavin.
+[09:09.080 --> 09:12.040]  What do you think about this one? Charlie Charlie bit my finger.
+[09:13.220 --> 09:18.040]  I can't listen to this interview. Did you say you started it to join a company that is
+[09:18.040 --> 09:24.860]  defunct and I guess now back but died? No, I just kept it light. Kept it quick.
+[09:37.960 --> 09:42.320]  Delightful. Hey, I didn't expect any of you to notice I was on Australian TV and I did not
+[09:42.320 --> 09:52.020]  expect. I'm so glad I brought this up. I thought I could just sneak on to tally and no one will
+[09:52.020 --> 09:56.180]  notice. It'd be like if someone reached out to Geoff and asked, why did Red vs Blue start?
+[09:56.340 --> 10:01.860]  It's like, well, we passed that point. We're good. People don't know who I am, though.
+[10:01.900 --> 10:04.500]  They might be seeing it for the first time. I don't know what you.
+[10:06.300 --> 10:10.900]  People weren't born when I started it. You think the value of the Slumber Guys is
+[10:10.900 --> 10:15.620]  learning why you started it? You think that's the exciting aspect of the channel?
+[10:17.500 --> 10:23.780]  Man, these things moving at an insanely slow speed. Wow, is this cool. You know what would
+[10:23.780 --> 10:30.520]  make this better? If I knew why it started. Oh, man. Would I give this video a thumbs up if only
+[10:30.520 --> 10:35.440]  I knew why this whole process began? But why do movie people keep making
+[10:35.440 --> 10:41.260]  origin stories? I mean, they have to. People don't like that either.
+[10:41.740 --> 10:44.680]  That's true. I don't like that. People are sick of it. I feel like
+[10:44.680 --> 10:49.080]  there is a whole thing with Spider-Man where everyone was like, we get it. We know. We all
+[10:49.080 --> 10:53.520]  know. We all know. Uncle Ben, he's dead. He gets killed. We don't need it.
+[10:54.760 --> 10:59.040]  I just think next time you get asked to do a morning news show and they...
+[10:59.040 --> 11:03.120]  were you prepped ahead of time of what the question was going to be? What the context?
+[11:03.680 --> 11:08.240]  No, but they said they would ask like five questions over five minutes or something.
+[11:08.880 --> 11:12.440]  What other questions did they ask? Yeah, I wish I could actually listen to this.
+[11:14.180 --> 11:17.060]  I'm just going based off the text. While Andrew's listening,
+[11:17.180 --> 11:21.200]  what was your favorite question? Oh, yeah. I don't remember the questions.
+[11:22.320 --> 11:26.240]  There were only five. They just played some clips and asked me about them. They talked about like
+[11:26.240 --> 11:30.360]  working with Will Smith and stuff. Oh, that's a good question.
+[11:30.840 --> 11:33.140]  Did they ask about his Oscar slap? No.
+[11:33.840 --> 11:36.140]  Why not? I feel like that's the most
+[11:36.140 --> 11:40.240]  interesting thing about Will Smith. This has been the best use of Nick,
+[11:40.240 --> 11:44.380]  by the way, just in the background. Why not? There are only five.
+[11:44.680 --> 11:46.600]  Come on. A plus Nick episode.
+[11:47.260 --> 11:51.060]  Well, I bet you after your Australian news appearance, your fucking numbers must be
+[11:51.060 --> 11:55.260]  off the charts. I'm glad you can find time to hang out with us here.
+[11:55.900 --> 12:00.340]  Here's what we do. Must be on fire because of that morning news thing.
+[12:03.580 --> 12:07.800]  Here's what we do. Andrew, we're going to get you a little like executive desk.
+[12:07.800 --> 12:10.760]  We're going to get you a green screen. We're going to roll the cameras.
+[12:10.840 --> 12:13.620]  We're going to do a live interview and you're going to interview me.
+[12:13.820 --> 12:16.540]  And I want to just, I want to hear how good your questions could be.
+[12:16.800 --> 12:21.880]  But I, the problem with the scenario that you're pitching is that I would need to be
+[12:21.880 --> 12:26.280]  the one that wants to do that. I'm not, I'm not the Australian news.
+[12:26.460 --> 12:30.420]  I'm not asking to do that. I'm not saying I have better questions.
+[12:30.760 --> 12:36.380]  I'm not trying to initiate the interview. I don't think the actual hosts either.
+[12:36.960 --> 12:39.580]  I think what it's, I think they were just doing their job.
+[12:39.880 --> 12:42.340]  I think they were reading autocue and they were being friendly.
+[12:42.660 --> 12:46.920]  I don't know what you want from either me or Australia.
+[12:47.180 --> 12:49.580]  So you don't think the hosts were excited to talk to you?
+[12:49.960 --> 12:54.800]  I would like to think the hosts have some level of deciding that approval.
+[12:55.300 --> 12:57.980]  I bet you they could thumbs down if they wanted.
+[12:58.980 --> 13:02.340]  And I don't know why you're getting hot at me. I feel like I'm advocating for you.
+[13:02.420 --> 13:04.240]  I think I'm on your side in this whole thing.
+[13:04.240 --> 13:07.120]  Is that how it sounds? I'm trying to think if that's how it sounds.
+[13:07.120 --> 13:09.460]  I'm not against Gavin in any way of this process.
+[13:09.700 --> 13:13.040]  I think it's all the Australian news is where they drop the ball.
+[13:13.380 --> 13:15.440]  I've definitely gotten that impression from this.
+[13:16.720 --> 13:19.940]  I think I've been pretty clear. I think it's the Australian news' fault.
+[13:20.020 --> 13:22.460]  I don't think Gavin did anything wrong. He answered the call.
+[13:22.820 --> 13:24.960]  I just think it was a ridiculous call to answer.
+[13:25.560 --> 13:27.740]  Didn't you start off by saying the Gerplers are way too small?
+[13:28.380 --> 13:32.000]  No, I was the pro Gerpler. I was the only one that was like...
+[13:32.000 --> 13:33.540]  I criticized your Gerpler placement.
+[13:33.680 --> 13:38.000]  I think it would be good if you took a sip of it.
+[13:38.760 --> 13:41.760]  Maybe took a bite out of a Cosmic Crisp while the interview was happening.
+[13:42.000 --> 13:43.000]  I think there's a lot you could have done.
+[13:43.980 --> 13:48.020]  I think you could have said regulation podcast one time.
+[13:48.240 --> 13:50.780]  That's really my, that's like to me, like the crux of the whole thing.
+[13:50.920 --> 13:54.220]  I think you could have said my slow-mo brother Dan,
+[13:54.300 --> 13:57.120]  aka Ian, and then slowly winked at the camera.
+[13:57.120 --> 13:58.280]  I think there's a lot you could have done.
+[13:59.460 --> 14:02.300]  And looked directly up, making sure my ears were visible.
+[14:02.800 --> 14:06.340]  I'm taking on board all of these notes because chances are
+[14:06.340 --> 14:09.240]  seven to eight years from now, I might get wheeled out again on telly.
+[14:09.420 --> 14:13.160]  So why did you start? Why did you start something in like 2017 that we were not aware of?
+[14:23.200 --> 14:26.380]  Rough episode to be you, Gavin. Jesus Christ.
+[14:27.240 --> 14:29.400]  Once again, not Gavin's fault. Australian news.
+[14:29.700 --> 14:31.840]  This is all free promotion. I don't know what you're talking about.
+[14:33.340 --> 14:34.300]  For us?
+[14:36.900 --> 14:41.440]  We gain nothing from this. Outside of joy.
+[14:41.960 --> 14:46.640]  This has been so good. I saw a clip of it the other day of you
+[14:46.640 --> 14:50.720]  on Australian TV and I had my note of it. And then at the same time,
+[14:51.180 --> 14:56.820]  a regulation listener or comment actually posted the video on the subreddit.
+[14:57.700 --> 15:01.400]  It's good because now people are leaving comments and classic image,
+[15:02.300 --> 15:06.820]  9008, to think this is the same guy that didn't know that Worms was six players.
+[15:10.400 --> 15:14.000]  Legend of Lelda just said, but he did.
+[15:16.480 --> 15:20.440]  That would be some hard-hitting journalist. They ask you why you didn't articulate that.
+[15:20.440 --> 15:22.360]  Yeah, why didn't they ask about Worms?
+[15:23.000 --> 15:29.160]  I love that our lore is so deep at this point that people are getting like the truth twisted
+[15:29.160 --> 15:33.620]  up and ending up in arguments amongst themselves about what I may or may not have known.
+[15:33.620 --> 15:34.360]  It's brilliant.
+[15:34.600 --> 15:35.240]  Oh man.
+[15:35.660 --> 15:39.300]  Oh man, I need to see your other Australian news appearance to see.
+[15:39.580 --> 15:46.460]  I gotta leave a comment on this. Why didn't you talk about regulation podcast?
+[15:47.180 --> 15:50.100]  Is it only the Australian news that really is reaching out?
+[15:50.100 --> 15:52.580]  I feel like you should do more news.
+[15:52.760 --> 15:53.780]  Yeah, nothing more domestic.
+[15:54.220 --> 15:57.860]  It's not. It's not the news. What? It's not the news.
+[15:58.400 --> 15:59.780]  It's the morning news.
+[16:02.920 --> 16:05.460]  Do you have like Canadian morning TV?
+[16:05.960 --> 16:08.160]  Where people are to shoot the shit, talk about different stuff.
+[16:08.300 --> 16:09.600]  Talk about the news, the morning show.
+[16:10.820 --> 16:12.600]  Yeah, morning show, news, whatever.
+[16:13.280 --> 16:15.020]  Still have like the weather report and stuff.
+[16:15.480 --> 16:18.720]  We'll talk about like entertainment gossip. It's technically news.
+[16:19.460 --> 16:19.860]  Okay.
+[16:20.280 --> 16:22.800]  It's not like 60 minutes, but it is a light news.
+[16:23.020 --> 16:25.620]  Why don't you, because you clearly have a problem with Australia.
+[16:25.820 --> 16:31.940]  Why don't you try and advocate for me to appear on your favorite Canadian morning show?
+[16:32.480 --> 16:32.820]  Okay.
+[16:33.000 --> 16:34.860]  And we'll see what they do with it.
+[16:35.160 --> 16:38.760]  I'll have to find one first. I'll make it. I'll do some research.
+[16:39.160 --> 16:41.440]  Can we move those Gerplers a little closer in frame?
+[16:41.880 --> 16:44.400]  Yeah, yeah, yeah. They'll get a lot closer.
+[16:44.800 --> 16:47.360]  Number one morning show in Canada is...
+[16:49.460 --> 16:51.220]  I don't know what their fucking name is.
+[16:51.380 --> 16:53.220]  The Breakfast Television Team.
+[16:55.320 --> 16:57.020]  Oh, Breakfast TV.
+[16:57.480 --> 17:00.240]  You could have just made that shit up.
+[17:01.380 --> 17:03.260]  You guys got a bunch.
+[17:03.440 --> 17:10.740]  Canada AM, CBC News Morning, CP24 Breakfast, CTV Morning Live.
+[17:11.340 --> 17:12.320]  Good morning, Canada.
+[17:14.020 --> 17:14.740]  Salute, bonjour.
+[17:15.660 --> 17:16.780]  You got so many options.
+[17:16.780 --> 17:17.100]  Your morning.
+[17:17.500 --> 17:18.800]  I got a lot of research to do.
+[17:19.320 --> 17:20.660]  What did you used to... what was on TV...
+[17:21.440 --> 17:22.260]  Oh, pardon me.
+[17:22.420 --> 17:23.360]  Before you went to school.
+[17:24.140 --> 17:24.880]  Or before school started.
+[17:24.880 --> 17:25.060]  I would watch cricket.
+[17:25.880 --> 17:27.960]  Family, like, I'd watch Kid Chefs.
+[17:28.060 --> 17:30.100]  You wouldn't have, like, someone else in the house who just had some...
+[17:30.700 --> 17:30.960]  No.
+[17:32.600 --> 17:33.780]  Mine was the Three Stooges.
+[17:34.060 --> 17:36.680]  It was on... I would get up an hour early for school every day because it was on...
+[17:36.680 --> 17:38.020]  That's some good morning TV.
+[17:38.240 --> 17:40.820]  How come you weren't on the Three Stooges promoting slow-mo guys, Gavin?
+[17:46.440 --> 17:48.200]  Gavin, free public figure.
+[17:51.520 --> 17:56.100]  I want to shout out... I screenshot it and put it in the chat.
+[17:56.240 --> 17:57.560]  But Chasing the Improbable.
+[17:57.880 --> 18:02.600]  Gavin can be so eloquent and professional when he isn't being choked out by his cat's breathing.
+[18:04.900 --> 18:06.220]  How's that going, by the way, Cat?
+[18:06.280 --> 18:07.620]  More cat piss in the room?
+[18:07.680 --> 18:08.300]  Are you doing all right?
+[18:08.840 --> 18:10.240]  No, there's some vomit, though.
+[18:11.020 --> 18:12.040]  Oh, for God's sake.
+[18:12.040 --> 18:12.880]  Is that from Geoff?
+[18:13.260 --> 18:14.640]  Yeah, I've not been there.
+[18:16.120 --> 18:18.680]  No, I just... it's like a hairball.
+[18:19.000 --> 18:20.820]  Some hairball residue that I still need to...
+[18:20.820 --> 18:21.420]  Oh, hairball.
+[18:21.580 --> 18:21.940]  Ew.
+[18:22.320 --> 18:23.480]  It's currently soaking.
+[18:24.660 --> 18:25.960]  And then I'm going to give it a second pass.
+[18:26.480 --> 18:30.380]  You know what's really nice about, like, you and Geoff, Gavin?
+[18:30.900 --> 18:33.340]  And it's truly... it's one of the...
+[18:33.340 --> 18:38.300]  I'm going to say it's a top three thing of being friends with you, with both of you.
+[18:38.640 --> 18:40.340]  It's incredibly convenient.
+[18:40.340 --> 18:43.180]  I can just Google, when is your birthday?
+[18:43.860 --> 18:44.620]  It's so nice.
+[18:45.340 --> 18:47.000]  I don't have to remember that.
+[18:47.220 --> 18:49.960]  I just can put it in and search it and then it pops up.
+[18:50.020 --> 18:51.580]  And I'm like, OK, that's what it is.
+[18:51.620 --> 18:52.260]  Good to know.
+[18:52.740 --> 18:56.180]  Because it's such a headache for almost every other person in my life to be like,
+[18:56.260 --> 18:57.760]  oh, when it... I think it's coming up.
+[18:58.240 --> 18:59.180]  Is yours not Googleable?
+[18:59.720 --> 19:01.020]  What? No, not at all.
+[19:01.220 --> 19:02.140]  Why would mine be Googleable?
+[19:02.160 --> 19:03.640]  Well, thankfully, I remember yours.
+[19:04.320 --> 19:04.720]  Wow.
+[19:05.140 --> 19:06.300]  Wow, that's... that's sweet.
+[19:06.360 --> 19:07.240]  I don't remember yours.
+[19:07.380 --> 19:08.000]  I Google it.
+[19:08.400 --> 19:11.460]  Well, I care about you, so I remember your birthday.
+[19:12.180 --> 19:13.540]  Oh, I care about you, too.
+[19:13.600 --> 19:16.140]  I just don't... that information doesn't stick.
+[19:17.260 --> 19:20.900]  I'm like, yeah, I got to make space for your Australian news interviews.
+[19:21.080 --> 19:24.340]  I got to... those are what really matter.
+[19:26.860 --> 19:30.460]  Man, did you... did you see that going that way when you brought it up, Eric?
+[19:32.140 --> 19:35.520]  No, I just... I was going to be like, why didn't you say the name of this podcast?
+[19:35.520 --> 19:38.440]  But then Andrew got fired up.
+[19:38.600 --> 19:39.120]  Hang on.
+[19:39.200 --> 19:42.480]  Got fired up defending and being on Gavin's side.
+[19:42.660 --> 19:42.820]  Yeah.
+[19:42.900 --> 19:43.160]  Yeah.
+[19:43.600 --> 19:44.440]  Number one advocate.
+[19:44.780 --> 19:45.200]  Advocating for Gavin.
+[19:48.880 --> 19:49.820]  I'm like your manager.
+[19:50.640 --> 19:51.620]  This is bullshit questions.
+[19:53.140 --> 19:54.000]  He's in the back.
+[19:54.360 --> 19:57.740]  Andrew's on the back in a big 1980s cell phone going, these are bullshit questions.
+[19:58.380 --> 20:02.680]  I feel like if Andrew was my actual agent and we went there together and I was on the news
+[20:02.680 --> 20:05.700]  and then I'd come back to the green room and I'd be like, oh, that was really nice.
+[20:05.700 --> 20:07.220]  And he would just be livid.
+[20:07.720 --> 20:09.540]  He'd just fuming about the questions.
+[20:10.860 --> 20:15.260]  I think I would probably be... if I was your manager, I'd be team slo-mo guy.
+[20:15.660 --> 20:19.740]  And I think I'd be less like... I'd be less critical of it.
+[20:20.900 --> 20:21.860]  I'd be in your boat.
+[20:23.280 --> 20:26.540]  I'd be like, yeah, I get the show out there, you know, it's a pleasant conversation.
+[20:26.540 --> 20:27.160]  It was all sweet.
+[20:27.860 --> 20:31.920]  As somebody who is not affiliated in any way with slo-mo guys, I could just snipe.
+[20:32.200 --> 20:33.200]  I can just snipe this thing.
+[20:33.660 --> 20:34.000]  That's fair.
+[20:34.000 --> 20:40.100]  We actually had a slight collaboration with a bit of slo-mo and a bit of regulation that
+[20:40.100 --> 20:42.120]  came out with the GTA replays.
+[20:42.580 --> 20:43.740]  Oh, that's incredible.
+[20:44.080 --> 20:44.900]  Such a good video.
+[20:45.140 --> 20:45.480]  Awesome.
+[20:45.740 --> 20:46.920]  God, that video was so good.
+[20:47.300 --> 20:48.440]  We actually made that quite a long time ago.
+[20:48.660 --> 20:53.280]  I made it right after we finished the first set of heists a few months ago.
+[20:53.460 --> 20:55.540]  But yeah, that was really fun to do.
+[20:55.560 --> 20:57.440]  I'm going to do that for every round of heists, I think.
+[20:57.620 --> 20:58.420]  Oh, wow.
+[20:59.020 --> 21:00.360]  Yeah, it was really awesome.
+[21:00.640 --> 21:02.260]  The audience loved it.
+[21:02.260 --> 21:05.100]  Like, dude, it just did so well.
+[21:05.340 --> 21:13.360]  And then, right before that, we put out GTA The Movie Heist Part 12, which is a 3 hour
+[21:13.360 --> 21:17.620]  and 13 minute video of us being so bad at the video game.
+[21:17.700 --> 21:20.060]  I think it would make me not be a fan anymore.
+[21:20.540 --> 21:28.860]  There was one attempt where I was probably 16 or 17 frames away from finishing the mission,
+[21:28.860 --> 21:33.140]  but it timed out and it added another 45 minutes to the video.
+[21:34.780 --> 21:40.760]  It's so funny that you bring that up, because I just replayed that exact finale last night.
+[21:41.200 --> 21:45.860]  I've been going through those heists with some friends that have never gone through it before.
+[21:46.260 --> 21:49.340]  And we did the final heist of the first run.
+[21:51.120 --> 21:53.400]  And there was a Nick situation.
+[21:53.680 --> 21:56.200]  We were doing it on normal, so you get one life, but somebody died.
+[21:56.200 --> 21:59.480]  And the very first time we hit the ramp, I was like,
+[21:59.540 --> 22:01.780]  OK, we're going to hit off this cliff.
+[22:02.060 --> 22:05.020]  And once that happens, you're going to need to deploy your parachute.
+[22:05.020 --> 22:08.060]  So hit A. And they were in their snack menu.
+[22:08.360 --> 22:10.020]  And so we went off the cliff.
+[22:10.540 --> 22:13.660]  And then I heard a bunch of distress noises.
+[22:13.920 --> 22:17.160]  And then it's saying they died in the bottom right corner of the screen.
+[22:17.560 --> 22:20.240]  And they had to go, I was in the snack menu.
+[22:20.600 --> 22:21.560]  It wouldn't let me.
+[22:22.280 --> 22:23.460]  I realized why I had...
+[22:23.460 --> 22:25.520]  I didn't have the best memory of that heist.
+[22:25.520 --> 22:29.280]  And I think it's because I've only done it on the Criminal Masterminds run.
+[22:29.680 --> 22:34.200]  The original run through the heists that Achievement Hunter did, Geoff was in that heist.
+[22:34.860 --> 22:35.220]  Wow.
+[22:36.180 --> 22:36.540]  Really?
+[22:37.960 --> 22:39.940]  I have no memory of doing any of those heists.
+[22:40.320 --> 22:44.200]  So the whole, like, jump off the cliff on the bikes thing was completely new to me.
+[22:44.260 --> 22:46.740]  Because when you're doing Criminal Masterminds, you don't need to go up there.
+[22:46.860 --> 22:47.860]  You can just drive to the boat.
+[22:49.000 --> 22:49.360]  Interesting.
+[22:50.260 --> 22:52.900]  And it was a rough evening where the group I was with,
+[22:53.060 --> 22:55.100]  we failed like maybe seven or eight times in a row.
+[22:55.100 --> 22:57.380]  And I just muted my mic and went, I can't do this again.
+[22:59.720 --> 23:00.820]  Can't keep happening.
+[23:01.160 --> 23:02.420]  I'm never doing this again.
+[23:03.460 --> 23:06.020]  I mean, I feel like the movie still ditched the bikes.
+[23:06.160 --> 23:07.040]  Just go in a car.
+[23:07.440 --> 23:08.500]  The bikes were fine.
+[23:09.000 --> 23:10.180]  The bikes are no problem.
+[23:10.740 --> 23:12.480]  The bikes are no problem.
+[23:13.120 --> 23:13.960]  Did you see the deaths?
+[23:14.340 --> 23:15.200]  People tallied up the deaths.
+[23:15.280 --> 23:15.660]  Not mine.
+[23:16.100 --> 23:17.020]  I mean, yeah.
+[23:17.300 --> 23:19.220]  I was fine on the bikes, is all I'm saying.
+[23:19.760 --> 23:20.440]  I like the bikes.
+[23:21.000 --> 23:21.640]  Let me get that thing.
+[23:21.720 --> 23:22.180]  I'm going to find it.
+[23:22.180 --> 23:25.960]  Yeah, somebody did like a heat map of all the where we died.
+[23:26.180 --> 23:27.220]  It was great.
+[23:27.780 --> 23:28.720]  It was really cool.
+[23:29.260 --> 23:30.640]  Why were you dying on the bikes?
+[23:30.720 --> 23:32.080]  You just exposed to gunshots?
+[23:32.300 --> 23:32.960]  Yeah, you just get shot.
+[23:33.020 --> 23:35.260]  Yeah, it's just like so many cops are coming at you.
+[23:35.340 --> 23:37.400]  Like it's, it's a lot, but...
+[23:37.400 --> 23:39.580]  Why wouldn't you get in a car or van or something?
+[23:39.880 --> 23:42.740]  Because you steal bikes to escape.
+[23:42.880 --> 23:46.540]  The bikes are bulletproof tires, which is the main reason to use them.
+[23:46.940 --> 23:49.680]  The cars, you get a popped tire and then it takes forever to get to the end.
+[23:50.360 --> 23:51.560]  And it's dangerous switching.
+[23:52.940 --> 23:56.220]  It's we all essentially died on one stretch of road.
+[23:56.320 --> 23:59.440]  If I remember correctly, the heat map, it was like he called it the death zone.
+[24:00.240 --> 24:04.300]  And it's 90% of our dying is like on one street.
+[24:04.820 --> 24:06.840]  It's such a brutal video, Geoff.
+[24:06.980 --> 24:08.400]  It's just it's three.
+[24:08.560 --> 24:11.840]  It's almost three and a half hours of us just being so bad.
+[24:11.900 --> 24:16.680]  Like there are times where I just like mute and deafen and just had to like stand quietly.
+[24:16.900 --> 24:21.720]  Like I just had to like be not playing the game or hearing any noises.
+[24:21.720 --> 24:23.800]  Like I just I couldn't do it.
+[24:23.860 --> 24:28.380]  It was like it absolutely broke me, which is crazy because we played so many more heists
+[24:28.380 --> 24:32.780]  from there, and I've just totally compartmentalized and blocked all of that out.
+[24:33.000 --> 24:35.220]  I don't even think about it when we play like regular heists now.
+[24:36.360 --> 24:40.600]  It was at around the same time we were playing through Gears of War on the hardest difficulty.
+[24:40.760 --> 24:42.440]  And so my tolerance was so high.
+[24:42.700 --> 24:44.560]  Otherwise, I think it would have impacted more.
+[24:44.640 --> 24:47.060]  But it was like, oh, man, this is this is just what life is.
+[24:47.060 --> 24:49.300]  It's just looping death.
+[24:49.620 --> 24:50.160]  This is all I know.
+[24:50.580 --> 24:51.320]  You are. Yeah.
+[24:51.600 --> 24:53.580]  You were born in the darkness.
+[24:54.080 --> 24:54.980]  I was. Yeah.
+[24:56.320 --> 25:01.460]  What was harder, Gears of War on hardest difficulty or that heist?
+[25:02.960 --> 25:05.080]  Well, that's tough to measure.
+[25:05.740 --> 25:06.360]  I'd say Gears.
+[25:06.860 --> 25:08.320]  Yeah, I would say that Gears.
+[25:08.540 --> 25:13.440]  I think there's a certain area of Gears that really, really broke us.
+[25:13.440 --> 25:19.700]  And I don't think we ever got as low in GTA as that sequence.
+[25:20.320 --> 25:20.840]  Fair enough.
+[25:21.620 --> 25:25.220]  That's the only time where I felt like I just we might just not do this.
+[25:25.280 --> 25:28.160]  We're Grand Theft Auto felt like, oh, this is so doable.
+[25:28.540 --> 25:30.200]  This almost is why it's frustrating.
+[25:30.560 --> 25:33.500]  Are you talking about the area with the wheel that spins?
+[25:33.760 --> 25:35.700]  Yes. Yeah, yeah, yeah, yeah.
+[25:36.940 --> 25:39.640]  Well, in about a year and a half, that'll come out and people can watch.
+[25:39.980 --> 25:41.540]  We're putting them out pretty regularly.
+[25:41.540 --> 25:46.260]  But, but, but, but, but we are taking a break from those because they usually go on like our
+[25:46.260 --> 25:49.440]  Monday slot, like we've just been kind of like throwing stuff out on like Mondays and everything
+[25:49.440 --> 25:51.340]  just like, oh, here's like some blindsides, whatever.
+[25:51.780 --> 25:52.380]  It's been fun.
+[25:52.460 --> 25:54.400]  It's been like a cool little like extra thing.
+[25:55.580 --> 26:00.400]  But by the time this comes out, when this is out, go back, go to the Patreon because
+[26:02.060 --> 26:04.380]  Faceoff is coming out week to week.
+[26:04.480 --> 26:06.020]  This is the first season of Faceoff.
+[26:06.080 --> 26:09.560]  If you never caught it before because it was behind the paywall, whatever, whatever.
+[26:09.560 --> 26:14.840]  Um, that is starting on the, I guess the, what is that?
+[26:14.900 --> 26:17.880]  The 28th, which was a couple of days ago at this point.
+[26:18.780 --> 26:20.960]  Uh, Faceoff season one, first episode is out now.
+[26:21.300 --> 26:25.360]  And we'll have every week a new episode all the way through, I think the first week of
+[26:25.360 --> 26:25.560]  June.
+[26:25.660 --> 26:27.300]  So every Monday, Faceoff.
+[26:27.400 --> 26:27.980]  Go check it out.
+[26:28.480 --> 26:30.720]  Are those only on Patreon or are they on Patreon and YouTube?
+[26:31.140 --> 26:32.600]  I believe they're just on Patreon.
+[26:32.960 --> 26:33.320]  Okay.
+[26:33.600 --> 26:35.160]  And are they, they're free on Patreon?
+[26:35.700 --> 26:36.880]  I, yeah, sure.
+[26:36.940 --> 26:38.360]  I have bog standard and above.
+[26:38.360 --> 26:41.620]  Do you need to make them free on Patreon so I can make an adjustment to our calendar?
+[26:41.820 --> 26:42.800]  No, I'm just, I'm just clarifying.
+[26:42.900 --> 26:44.000]  I'm just, I was just asking.
+[26:44.000 --> 26:45.160]  Oh, no, I'm just, I'm just asking.
+[26:45.400 --> 26:46.840]  I didn't even know what we're.
+[26:46.980 --> 26:48.100]  Oh, Nick finally found the thing.
+[26:48.160 --> 26:49.640]  10 minutes later, Nick found the thing he was looking for.
+[26:50.640 --> 26:51.260]  Play it, Nick.
+[26:51.740 --> 26:52.060]  Timely.
+[26:52.260 --> 26:55.600]  I thought, I thought the idea was to put it for free and then the new series is on Patreon.
+[26:56.180 --> 26:56.340]  Yeah.
+[26:56.360 --> 26:57.220]  So there's a new series?
+[26:57.820 --> 27:02.480]  There will be a season two that we'll talk about more in the future because I want to
+[27:02.480 --> 27:04.960]  run by some ideas with you guys that I have for that.
+[27:04.960 --> 27:11.380]  But yeah, why don't we make season one free to everyone because it's old and people.
+[27:11.560 --> 27:13.100]  Free on, free on Patreon.
+[27:13.560 --> 27:13.820]  Yeah.
+[27:14.240 --> 27:14.540]  Okay.
+[27:14.640 --> 27:15.140]  Works for me.
+[27:15.340 --> 27:17.000]  Gavin, is that what you're saying also?
+[27:17.520 --> 27:17.740]  Yeah.
+[27:18.140 --> 27:18.440]  Okay.
+[27:18.580 --> 27:20.240]  I'm just making sure this is.
+[27:20.440 --> 27:23.660]  Welcome to what our Monday meetings are usually like, everyone.
+[27:23.800 --> 27:24.520]  Thank you so much.
+[27:24.780 --> 27:25.940]  Appreciate your patience.
+[27:26.500 --> 27:27.100]  Thank you.
+[27:27.140 --> 27:31.220]  It's every Monday on our Patreon for free starting on the day that you said the 28th,
+[27:31.260 --> 27:31.520]  I believe.
+[27:31.600 --> 27:33.040]  Yeah, two, two days ago at this point.
+[27:33.040 --> 27:34.360]  Yeah, two days ago.
+[27:34.480 --> 27:36.140]  You were already probably seen the first one.
+[27:36.320 --> 27:40.400]  I think it's going to be really cool because I have no idea what percentage of the audience
+[27:40.400 --> 27:45.000]  have seen those videos because they were behind the first paywall when they came out.
+[27:45.440 --> 27:49.600]  So it'll be there might be a surprisingly large amount of people that have never got
+[27:49.600 --> 27:50.780]  to watch the first season.
+[27:50.960 --> 27:51.880]  So I'm excited.
+[27:52.460 --> 27:55.660]  And it's I think it's six episodes in total.
+[27:56.080 --> 27:57.860]  So it'll be six weeks every Monday.
+[27:58.360 --> 28:00.160]  Go check out Face Off season one.
+[28:00.160 --> 28:04.220]  So then that gives us six weeks to figure out how to do season two.
+[28:04.960 --> 28:07.460]  Season two is largely put together.
+[28:07.580 --> 28:09.840]  I just need Gavin's info and then.
+[28:10.160 --> 28:10.740]  Oh, I'm done.
+[28:10.860 --> 28:12.520]  Everything is going to send it to you.
+[28:12.540 --> 28:14.980]  OK, well, once you send it to me, then I can start working on that.
+[28:14.980 --> 28:16.720]  And then I've got it.
+[28:16.740 --> 28:18.000]  You can't have it, but I have it.
+[28:18.440 --> 28:20.660]  Didn't we all turn that info in like six months ago?
+[28:21.080 --> 28:22.220]  Oh, yeah, there's probably like November.
+[28:24.180 --> 28:25.980]  Geoff did it immediately when I asked.
+[28:26.440 --> 28:28.660]  Took some other people a bit longer, and that's OK.
+[28:28.660 --> 28:30.860]  I mean, I did I did a full team immediately.
+[28:31.000 --> 28:33.240]  And then every couple of days I'd go in and take out
+[28:33.840 --> 28:35.960]  stuff that I didn't like as much and replace it with new stuff.
+[28:35.960 --> 28:36.560]  I've just been doing that.
+[28:36.940 --> 28:39.900]  Yeah, that's what I thought it was so interesting hearing your process of
+[28:39.900 --> 28:42.420]  you made more than you need and then cut down.
+[28:42.640 --> 28:45.220]  I'd for something like this would never operate that way.
+[28:45.600 --> 28:47.900]  I would just reach what the number was and then.
+[28:48.580 --> 28:50.340]  Yeah, I probably cut like 50% at this point.
+[28:50.740 --> 28:55.780]  Usually I get like 85% of the way there and then at the fucking stretch that last 15.
+[28:56.300 --> 28:59.960]  Nick just asked how many file requests is Gavin up to?
+[29:00.040 --> 29:00.940]  How many strikes does Gavin have?
+[29:01.100 --> 29:02.260]  This is a great question.
+[29:02.380 --> 29:04.300]  A great question because we need a rule.
+[29:04.500 --> 29:06.980]  You know, you're a real you're a real nosy bastard, Nick.
+[29:08.540 --> 29:11.720]  Well, he's nosier than you think because you're on strike three.
+[29:11.920 --> 29:12.980]  But that's part of a ruling.
+[29:13.120 --> 29:15.200]  Potentially, we need to go over this.
+[29:15.660 --> 29:16.720]  Oh, the first thing.
+[29:16.860 --> 29:17.640]  Here's what I feel.
+[29:18.080 --> 29:18.840]  OK, go ahead.
+[29:18.920 --> 29:19.700]  You explain that.
+[29:19.820 --> 29:21.740]  I want to hear your perspective on what happened.
+[29:21.740 --> 29:26.080]  Andrew said, need your video and audio for this video.
+[29:27.460 --> 29:27.940]  Strike!
+[29:28.480 --> 29:29.680]  And then he wrote strike.
+[29:30.020 --> 29:31.460]  And then I looked at the folder.
+[29:32.200 --> 29:35.180]  And realized it was from ages ago.
+[29:35.320 --> 29:37.120]  It was from long before the bet.
+[29:37.400 --> 29:38.560]  So in my opinion.
+[29:39.060 --> 29:39.800]  He still needed it.
+[29:39.880 --> 29:40.440]  It doesn't count.
+[29:40.920 --> 29:41.740]  He still needed it.
+[29:41.880 --> 29:44.480]  I still needed it and I think it was from the point of.
+[29:44.640 --> 29:49.240]  I feel like anytime I ask from the point of us making the bet, regardless of when.
+[29:49.240 --> 29:51.860]  But that means I have 20 strikes ready to go.
+[29:51.960 --> 29:52.660]  I need to be what?
+[29:54.500 --> 29:56.020]  Don't you like have all your files?
+[29:56.440 --> 29:57.980]  You have all your files.
+[29:58.160 --> 29:59.320]  Yeah, just check.
+[29:59.940 --> 30:04.080]  Go through, Gavin, go through the impossible work of making sure that you uploaded what
+[30:04.080 --> 30:05.520]  you were supposed to upload.
+[30:05.920 --> 30:06.320]  How?
+[30:06.600 --> 30:08.180]  What a what a dread on you.
+[30:08.240 --> 30:08.900]  What a nightmare.
+[30:09.480 --> 30:10.040]  Yeah, what a dread.
+[30:10.160 --> 30:13.720]  I could absolutely go through my folder, all the folders and make sure my stuff's in there.
+[30:13.740 --> 30:15.800]  But I'm just saying I think the strike should start after that.
+[30:15.980 --> 30:19.080]  I hate to say it, but I agree with Gavin.
+[30:19.240 --> 30:24.740]  I disagree because it's when the video is being made is when it's like that's when it comes up.
+[30:25.140 --> 30:29.360]  You should have uploaded it at the time you're being penalized for your lack of action,
+[30:29.360 --> 30:30.960]  regardless of when it occurred.
+[30:31.280 --> 30:33.960]  According to the bet, I had 20 strikes going forward.
+[30:34.360 --> 30:37.820]  Yeah, and that was forward because the video is now being made.
+[30:38.180 --> 30:42.480]  And so the editor asked, could I have Gavin's stuff?
+[30:42.820 --> 30:45.160]  And then I went to you because you didn't upload it.
+[30:45.500 --> 30:46.420]  A baseball player.
+[30:46.840 --> 30:48.240]  I feel like it's on you.
+[30:48.240 --> 30:49.360]  A baseball player.
+[30:49.420 --> 30:52.400]  From the point the bet started, you should have double checked.
+[30:52.520 --> 30:53.980]  I feel like you even kind of made a comment.
+[30:54.260 --> 30:55.980]  I mean, I want to get out of here this baseball analogy.
+[30:56.320 --> 30:57.600]  Yeah, baseball, right?
+[30:58.160 --> 31:01.940]  You walk up to the next to the staple, right?
+[31:02.040 --> 31:02.660]  You walk up to that.
+[31:03.600 --> 31:05.440]  And what if you miss the ball?
+[31:08.060 --> 31:10.280]  During the 10th inning, you walk up to the staple.
+[31:10.640 --> 31:12.440]  Yeah, you swing and a miss.
+[31:12.740 --> 31:13.320]  That's a strike.
+[31:14.040 --> 31:17.580]  What I don't take into consideration is the miss you had the game before
+[31:17.580 --> 31:20.120]  or the miss you had eight months ago.
+[31:20.780 --> 31:21.520]  It's just that game.
+[31:21.620 --> 31:23.760]  But let me let me let me put it to you this way.
+[31:24.120 --> 31:24.360]  Yeah.
+[31:24.420 --> 31:26.100]  You and I agree we're going to play baseball.
+[31:26.680 --> 31:30.480]  And anytime I throw the ball, it counts as a strike.
+[31:31.140 --> 31:31.980]  We agree.
+[31:32.480 --> 31:33.140]  We start.
+[31:33.660 --> 31:36.620]  And then I throw a ball and you don't hit it.
+[31:37.000 --> 31:38.100]  Is that not a strike?
+[31:38.700 --> 31:39.620]  You just threw a ball.
+[31:40.320 --> 31:42.360]  Yeah, I just threw it out because it came into play now.
+[31:43.180 --> 31:46.920]  The ball got created two months ago, but I threw the ball now.
+[31:46.920 --> 31:52.060]  The fact that the ball is two months old is irrelevant to the fact that you missed the ball.
+[31:52.840 --> 31:53.180]  Uh.
+[31:57.020 --> 31:57.960]  Are you kind?
+[31:58.080 --> 32:01.300]  Are you regretting using a baseball metaphor now, Gavin, or what?
+[32:01.760 --> 32:03.400]  I mean, I still stand by my baseball metaphor.
+[32:04.160 --> 32:04.340]  Great.
+[32:04.420 --> 32:08.080]  I don't think the argument of when the ball was made has anything to do with the game.
+[32:09.220 --> 32:09.400]  What?
+[32:10.760 --> 32:13.680]  If the ball was made three months ago.
+[32:14.200 --> 32:18.240]  No one in any game of baseball has ever cared on the manufacturing date of the ball.
+[32:18.340 --> 32:19.480]  It's not part of the game.
+[32:19.900 --> 32:20.800]  That's my point.
+[32:21.100 --> 32:22.240]  That's what I'm saying.
+[32:22.920 --> 32:23.420]  Oh, is it?
+[32:23.580 --> 32:25.340]  The file was made in the past.
+[32:25.540 --> 32:27.620]  It's irrelevant when the file was made.
+[32:27.820 --> 32:30.520]  It's when the ball gets put into play that matters.
+[32:31.120 --> 32:35.180]  And me asking for the file because the video is being made now.
+[32:35.420 --> 32:36.820]  That is the swing.
+[32:37.120 --> 32:38.360]  That is the pitch.
+[32:38.780 --> 32:41.340]  You missed two strikes.
+[32:41.340 --> 32:44.520]  I missed something that I actually missed three months ago.
+[32:45.060 --> 32:46.300]  I'm saying that...
+[32:46.800 --> 32:47.360]  The swing.
+[32:48.480 --> 32:53.020]  The mechanism to allow you to miss was created three months ago.
+[32:53.220 --> 32:59.040]  The act of you missing occurred now because it wasn't thrown into play until now.
+[32:59.240 --> 33:02.720]  I don't know the rules of time machine baseball or whatever variant you're playing.
+[33:03.020 --> 33:04.420]  It's not time machine baseball.
+[33:04.720 --> 33:08.080]  You do understand that they don't make the ball on the field.
+[33:08.680 --> 33:11.940]  The balls get made and then you get thrown.
+[33:12.680 --> 33:13.580]  We're not saying...
+[33:13.580 --> 33:15.220]  What's that got to do with making the ball?
+[33:16.260 --> 33:17.080]  Oh my god.
+[33:17.500 --> 33:18.940]  I feel like I'm a crazy person.
+[33:19.340 --> 33:19.920]  The file...
+[33:20.600 --> 33:23.920]  Okay, so a baseball needs to be created to be tossed.
+[33:24.120 --> 33:24.380]  Do you like...
+[33:24.380 --> 33:25.180]  We get that.
+[33:25.340 --> 33:26.060]  We're on the same page.
+[33:26.380 --> 33:27.360]  We're going step by step.
+[33:28.320 --> 33:29.180]  Do you get that?
+[33:29.280 --> 33:30.460]  The ball is surely thrown.
+[33:30.920 --> 33:34.080]  The pitch is made when we stop recording.
+[33:34.200 --> 33:35.680]  No, let's stop talking about what you're saying.
+[33:35.760 --> 33:37.980]  Let me go through my thing and make sure we're on the same page.
+[33:37.980 --> 33:41.000]  A ball needs to be made before it can be thrown, correct?
+[33:43.120 --> 33:45.060]  Yeah, the stadium needs to be built as well.
+[33:45.080 --> 33:45.880]  We agree on that.
+[33:46.140 --> 33:46.640]  The bat needs to be made.
+[33:46.960 --> 33:47.780]  The players need to be born.
+[33:47.780 --> 33:48.560]  All of that needs to be made.
+[33:48.580 --> 33:48.880]  Go ahead.
+[33:49.100 --> 33:51.080]  So everything needs to be made beforehand.
+[33:51.660 --> 33:53.440]  The file is that thing.
+[33:53.840 --> 33:59.640]  That content and the file being made is the making of the tools required to play the game.
+[34:00.080 --> 34:03.240]  We then agree later to play the game.
+[34:03.620 --> 34:07.740]  The game is if you're missing stuff, then that's a strike.
+[34:07.980 --> 34:11.340]  The file, the ball and the bat come into play.
+[34:11.400 --> 34:13.420]  Finally, it's time to play.
+[34:13.600 --> 34:17.040]  And you miss, you swing and you miss at both.
+[34:17.380 --> 34:18.720]  How is that not a strike?
+[34:19.080 --> 34:20.500]  I missed three months ago.
+[34:20.720 --> 34:21.780]  What are you talking?
+[34:21.900 --> 34:25.280]  You didn't miss three months ago because there was no game three months ago.
+[34:25.540 --> 34:27.160]  It was just a file.
+[34:27.340 --> 34:29.620]  You're saying the game wasn't when we recorded it?
+[34:30.060 --> 34:35.060]  No, the game started when we decided we were making a game of it.
+[34:35.500 --> 34:37.680]  The crowd turned up, the players turned up.
+[34:37.680 --> 34:39.040]  They didn't play three months later.
+[34:39.040 --> 34:40.480]  Nobody turned up three months ago.
+[34:41.000 --> 34:41.460]  What do you mean?
+[34:41.820 --> 34:42.380]  What do you?
+[34:42.560 --> 34:44.400]  Is your freaking guy done with Survivor yet?
+[34:44.440 --> 34:45.280]  Can we get him on this?
+[34:45.700 --> 34:46.880]  No, he's not done.
+[34:46.940 --> 34:47.900]  He's doing great.
+[34:47.940 --> 34:50.160]  First of all, he's one of the better characters.
+[34:50.560 --> 34:50.960]  I need him.
+[34:50.960 --> 34:52.160]  I'm loving watching him play.
+[34:52.360 --> 34:56.820]  I think you can start a bet or start a game, if you will.
+[34:57.660 --> 35:01.500]  And then say you've had a strike three months ago.
+[35:02.380 --> 35:04.540]  I'm not saying you had a strike three months ago.
+[35:04.540 --> 35:08.940]  I'm saying the mechanism that allowed it to happen was three months old.
+[35:09.760 --> 35:14.600]  The mechanism that allowed it to happen is three months old.
+[35:15.360 --> 35:15.560]  Okay.
+[35:15.840 --> 35:22.760]  Yes. So at the point in which you and I said any file that I need from you is a strike.
+[35:22.900 --> 35:29.000]  If you actually cared, you could have checked to make sure all of your stuff was uploaded,
+[35:29.240 --> 35:30.400]  but you didn't.
+[35:30.400 --> 35:33.980]  So then when we go to make the video and the editor says,
+[35:34.420 --> 35:36.460]  Hey, we're missing Gavin's stuff.
+[35:37.020 --> 35:40.080]  And then I have to go to you to get your footage.
+[35:40.680 --> 35:44.100]  First of all, how do you not do video or audio?
+[35:44.480 --> 35:45.500]  What are you doing?
+[35:45.960 --> 35:46.880]  You miss both.
+[35:47.260 --> 35:48.100]  You just did nothing.
+[35:48.640 --> 35:51.940]  It's like you're not even there in the video for what you presented.
+[35:52.880 --> 35:55.280]  Second of all, how is that not...
+[35:55.280 --> 35:56.320]  Like you could have done it.
+[35:56.340 --> 35:57.420]  You had time to do it.
+[35:57.700 --> 35:58.660]  I approach you.
+[35:58.660 --> 36:02.360]  It just feels like against the spirit of the game.
+[36:02.380 --> 36:04.700]  If I'm going to be constantly saying to you,
+[36:04.800 --> 36:09.180]  I need you to upload this thing and it doesn't count for anything.
+[36:09.200 --> 36:09.860]  Eat the pencil.
+[36:10.100 --> 36:11.000]  You could have eaten the pencil.
+[36:12.360 --> 36:13.500]  See, now you're pivoting.
+[36:13.600 --> 36:14.940]  You realize you're wrong in this argument.
+[36:15.100 --> 36:15.940]  You're just yelling about pencils.
+[36:15.940 --> 36:16.380]  Am I wrong?
+[36:16.740 --> 36:19.580]  You're talking about the past like I could have done anything about it.
+[36:20.080 --> 36:20.640]  You could have!
+[36:21.320 --> 36:21.400]  You could have!
+[36:21.400 --> 36:21.860]  Ah, he could have.
+[36:21.860 --> 36:22.640]  You could have!
+[36:24.340 --> 36:25.120]  You could have!
+[36:26.360 --> 36:27.480]  You could now!
+[36:28.260 --> 36:28.660]  Yeah.
+[36:29.220 --> 36:30.420]  You could now!
+[36:30.960 --> 36:33.620]  I'm not, I'm not disagreeing that I could look through everything.
+[36:33.760 --> 36:36.180]  You just said like I could have done anything about it.
+[36:36.400 --> 36:37.180]  You could have!
+[36:37.740 --> 36:38.940]  That's the whole point!
+[36:39.520 --> 36:44.640]  Look, if, if what you, if you want to play time machine baseball, you have to say...
+[36:44.640 --> 36:45.560]  I just want to play baseball!
+[36:46.060 --> 36:47.680]  No one's playing time machine baseball!
+[36:48.140 --> 36:50.560]  Because the date of manufacture is not clear on the board, apparently.
+[36:50.700 --> 36:52.460]  If you want to play time machine baseball,
+[36:52.940 --> 36:55.400]  you got to say at the start of the bet, we're playing time machine baseball.
+[36:55.580 --> 36:56.360]  I can play it.
+[36:56.920 --> 36:58.140]  Teach me the rules, I'll play it.
+[36:58.360 --> 37:04.000]  But I have to know that stuff I didn't do three months ago, is it in the bet or not?
+[37:04.320 --> 37:05.120]  Well, you know now!
+[37:05.320 --> 37:08.460]  I feel like it's a very simple thing of the terms of the bet were
+[37:08.460 --> 37:12.320]  anytime I need to ask you to upload something is a strike.
+[37:12.920 --> 37:13.300]  Yeah!
+[37:14.060 --> 37:16.660]  The date in which the folder was made is irrelevant.
+[37:16.960 --> 37:20.800]  The mechanism of the bet is anytime I have to ask you, it's a strike.
+[37:20.960 --> 37:23.000]  I had to ask you for two things.
+[37:23.720 --> 37:25.100]  Yeah, but this was not...
+[37:25.100 --> 37:26.560]  I thought this would be an easy ruling.
+[37:26.820 --> 37:29.660]  There's a whole other aspect of this we haven't even touched on
+[37:29.660 --> 37:32.600]  that I thought was going to be way more of an argument than this.
+[37:32.880 --> 37:34.540]  What about this? What about this?
+[37:35.120 --> 37:37.880]  If it's in the past, it's a half strike.
+[37:38.220 --> 37:41.780]  No, I think it should be a full strike.
+[37:42.080 --> 37:44.400]  I don't think you and I should have an opinion on this, though.
+[37:44.440 --> 37:46.900]  I think it has to go to Nick, Geoff, and Eric.
+[37:47.760 --> 37:48.160]  Okay.
+[37:48.480 --> 37:49.480]  I'll accept their ruling.
+[37:52.640 --> 37:56.060]  Okay, I'm going to side with Gavin just to kind of see what happens.
+[37:57.300 --> 38:01.680]  Based on just the very particular wording of anytime he has to ask.
+[38:01.780 --> 38:02.440]  I'm going with Andrew.
+[38:02.980 --> 38:05.660]  Wow, and it all comes down to Geoff.
+[38:05.980 --> 38:07.340]  Wow, he's in the catbird seat.
+[38:07.440 --> 38:08.160]  This is great.
+[38:08.480 --> 38:11.020]  Who do I like more?
+[38:11.440 --> 38:11.740]  Hey!
+[38:15.900 --> 38:17.960]  I mean, fuck.
+[38:18.100 --> 38:21.880]  So I was on Gavin's side almost the entire way through,
+[38:22.060 --> 38:26.960]  but Andrew did a phenomenal job of succinctly explaining the crux of the issue
+[38:26.960 --> 38:29.960]  at the in the last five percent of this thing
+[38:29.960 --> 38:32.900]  that really could have just superseded the all the other nonsense.
+[38:33.240 --> 38:34.240]  And it it.
+[38:37.300 --> 38:38.260]  I got to go with.
+[38:39.660 --> 38:41.200]  There's a spirit to this.
+[38:41.800 --> 38:42.860]  And here's the thing, too.
+[38:42.860 --> 38:47.800]  The whole point of the bet is to change my behavior for the better, right?
+[38:48.380 --> 38:48.780]  But it didn't.
+[38:49.540 --> 38:50.840]  Oh, what do you mean?
+[38:50.900 --> 38:55.220]  You can't say I didn't change my behavior if my behavior is being measured in December.
+[38:55.580 --> 38:56.440]  What are you talking about?
+[38:56.500 --> 38:57.160]  I didn't.
+[38:57.220 --> 38:57.720]  Well, you know what?
+[38:57.820 --> 38:58.880]  It's a great point, Nick.
+[38:59.180 --> 39:00.060]  Gavin is home.
+[39:00.200 --> 39:01.520]  He's new to this whole industry.
+[39:01.660 --> 39:08.360]  He needed time to, like, figure out how to upload things and be decent for the editors.
+[39:08.800 --> 39:10.440]  He's got all these TV appearances.
+[39:10.440 --> 39:11.600]  That's a great point, Eric.
+[39:11.600 --> 39:13.480]  I got off.
+[39:13.640 --> 39:16.400]  I stopped recording and I immediately was thinking about my Gerpler placement.
+[39:21.380 --> 39:24.240]  I'm siding with Gavin.
+[39:24.900 --> 39:25.700]  Oh, thanks.
+[39:26.480 --> 39:27.600]  Very exciting.
+[39:27.960 --> 39:31.460]  It's like 50.1 to 49.9.
+[39:32.100 --> 39:33.400]  It's so close.
+[39:33.500 --> 39:35.560]  It's the closest judgment I've ever given.
+[39:35.860 --> 39:37.680]  I'm really conflicted about it.
+[39:37.820 --> 39:38.180]  The ruling.
+[39:38.540 --> 39:42.360]  I just I feel I feel like dog shit because I really see both sides.
+[39:42.980 --> 39:45.680]  And I think you're both just about equally right.
+[39:45.840 --> 39:48.480]  But there's a spirit to this.
+[39:48.880 --> 39:49.960]  I respect the ruling.
+[39:50.480 --> 39:55.860]  I just want it to be known how fucking aggravating it's going to be to have to ask for Gavin
+[39:55.860 --> 40:00.380]  to submit stuff constantly that is just not going to count.
+[40:01.000 --> 40:02.940]  With complete immunity.
+[40:03.220 --> 40:05.740]  I'm already annoyed whenever I have to ask.
+[40:06.140 --> 40:07.620]  Now it's a whole other level.
+[40:07.860 --> 40:08.940]  Maybe I'll change my mind.
+[40:09.680 --> 40:10.620]  Here's what we could do.
+[40:10.620 --> 40:12.020]  Now that you've said it.
+[40:12.260 --> 40:14.560]  Now I know the sport is time machine baseball.
+[40:14.720 --> 40:16.600]  You can absolutely count previous.
+[40:17.160 --> 40:18.380]  I like this decision.
+[40:18.580 --> 40:22.960]  I like I have to be given time to go in the time machine and make sure that
+[40:23.480 --> 40:25.360]  past me knows he's playing time machine baseball.
+[40:25.540 --> 40:27.700]  And I'm going to look through all the folders, get all my stuff uploaded.
+[40:27.820 --> 40:29.320]  You don't have to ask about the past anymore.
+[40:29.760 --> 40:30.320]  This is fair.
+[40:30.680 --> 40:33.420]  That's you know, if you want to operate, I'll give you those two strikes back.
+[40:34.000 --> 40:34.140]  Hello.
+[40:34.320 --> 40:37.380]  Now we need now we need to go to the what I felt was actually going to be.
+[40:37.380 --> 40:39.500]  Well, I really need the strikes because Nick's.
+[40:41.360 --> 40:44.600]  That's I was told by Nick.
+[40:44.600 --> 40:47.560]  Nick messaged me and said, Hey, Gavin has a strike.
+[40:47.760 --> 40:49.520]  I need to I'm about to ask him for audio.
+[40:51.380 --> 40:52.360]  Does that count?
+[40:52.600 --> 40:53.880]  I wasn't sure if that counted.
+[40:54.140 --> 40:54.340]  Yeah.
+[40:54.680 --> 40:55.300]  What do you mean?
+[40:55.400 --> 40:56.140]  That's the bet.
+[40:56.620 --> 40:59.520]  OK, well, I just didn't know if I was the one that had to ask for it.
+[40:59.840 --> 41:02.380]  No, that's a definite strike because theoretically,
+[41:02.380 --> 41:05.440]  Nick could just not tell me that he had to ask you for something.
+[41:05.440 --> 41:08.060]  So we're at strike one then.
+[41:08.440 --> 41:08.840]  All right.
+[41:09.100 --> 41:14.240]  Yeah, that one's that one's absolutely fine because it occurred after the game had started.
+[41:16.200 --> 41:17.580]  I would argue the game.
+[41:17.940 --> 41:19.920]  Whatever it was ruling.
+[41:21.120 --> 41:24.180]  I don't need to say I would argue we've already seen it.
+[41:24.240 --> 41:26.500]  We've we've the the argument was articulated.
+[41:27.320 --> 41:28.020]  That's fine.
+[41:29.060 --> 41:31.520]  One strike for a hot dog that doesn't even exist.
+[41:31.560 --> 41:32.640]  That was all a lie.
+[41:33.080 --> 41:35.180]  A bullshit fake hot dog that we'll have to make.
+[41:35.980 --> 41:38.200]  Assuming that Gavin gets 19 more strikes.
+[41:39.560 --> 41:41.340]  Between now and when was it?
+[41:41.500 --> 41:42.240]  Was it August?
+[41:43.240 --> 41:44.500]  When was the end of August?
+[41:44.680 --> 41:45.240]  End of August.
+[41:45.360 --> 41:45.520]  Yeah.
+[41:45.660 --> 41:47.160]  Otherwise, I have to eat a freaking.
+[41:47.800 --> 41:52.540]  We based it on the schedule of a team that lied about a product.
+[41:53.320 --> 41:57.940]  How are you feeling about your chances, Gav?
+[41:58.700 --> 41:59.220]  Not great.
+[42:02.560 --> 42:03.660]  I'm not going to lie.
+[42:03.660 --> 42:06.100]  We're doing we recorded two episodes today.
+[42:06.400 --> 42:10.760]  And Nick always drops the upload folder as soon as we finish one.
+[42:10.840 --> 42:12.340]  And I was happy.
+[42:12.420 --> 42:13.180]  I was unhappy.
+[42:13.260 --> 42:16.060]  I was sad to see Gavin had already uploaded his podcast.
+[42:16.780 --> 42:18.420]  You're too you're too into the game.
+[42:18.680 --> 42:20.100]  You don't want the actual results.
+[42:20.160 --> 42:21.040]  You just want me to lose.
+[42:21.160 --> 42:21.860]  I get it.
+[42:22.340 --> 42:27.220]  I want you to lose because I want you to suffer a consequence for never uploading.
+[42:31.200 --> 42:32.360]  That's what I'm cheering for.
+[42:36.160 --> 42:39.860]  But in fairness, if I do get asked, it's usually in the folder within that minute.
+[42:40.320 --> 42:41.600]  That is true.
+[42:42.100 --> 42:44.700]  But it would just be nice if you instead took that minute.
+[42:44.860 --> 42:46.500]  I know. I agree.
+[42:48.520 --> 42:52.540]  And obviously, I can make pretty easy changes to the future.
+[42:53.280 --> 42:55.020]  Pretty difficult in the past.
+[42:56.860 --> 43:01.900]  Pretty damn hard to upload something in December 2024 at this moment.
+[43:01.900 --> 43:05.620]  I mean, you know, you got all your folders, you got all your files.
+[43:05.940 --> 43:08.080]  It's true. You have it all saved and organized.
+[43:08.560 --> 43:09.300]  It's all good.
+[43:09.900 --> 43:12.180]  You're great at finding them when they're asked for.
+[43:12.720 --> 43:13.060]  Yeah.
+[43:13.420 --> 43:14.800]  You're really good at storing them.
+[43:14.860 --> 43:15.560]  I think that's the thing.
+[43:15.620 --> 43:17.540]  You're too excited about storing your stuff.
+[43:18.260 --> 43:19.220]  Why am I excited about?
+[43:19.840 --> 43:21.260]  Because it proves your point.
+[43:23.320 --> 43:26.640]  If you're obsessed about storing things in case they're needed
+[43:26.640 --> 43:30.940]  and then making sure that you don't do the thing which requires them to be needed later,
+[43:30.940 --> 43:35.960]  you're constantly re-approving or reaffirming that, like, it's good to have this.
+[43:37.060 --> 43:38.000]  You understand what I'm saying?
+[43:38.480 --> 43:38.560]  Yeah.
+[43:39.760 --> 43:40.160]  Okay.
+[43:40.300 --> 43:41.980]  But it's not, it's not...
+[43:41.980 --> 43:46.300]  I just want to make sure we're not talking about time travel files or whatever.
+[43:47.060 --> 43:50.420]  We're on the same page, which is nice. I like this.
+[43:51.300 --> 43:55.120]  This has been an all-time Gavin and Andrew episode.
+[43:55.880 --> 43:58.620]  I'm trying to think, do I have any more Gavin notes? I don't think so.
+[43:59.420 --> 44:01.420]  I've been, I've been really enjoying how
+[44:02.180 --> 44:06.640]  some stuff, like work stuff is often talked about in Slack and personal stuff
+[44:06.640 --> 44:14.340]  will be talked about on text. And sometimes I'm arguing with Andrew on Slack about work
+[44:14.340 --> 44:20.880]  and having the most wholesome conversation on text at the exact same time.
+[44:23.560 --> 44:27.940]  I, uh, I did an exercise once on Slack and I typed
+[44:27.940 --> 44:33.660]  sorry into, uh, Gavin's, uh, Slack conversation history with me. Zero results.
+[44:38.140 --> 44:40.960]  Is that true? We've never said sorry to each other?
+[44:42.960 --> 44:46.680]  You will, you don't apologize. What you do is you say,
+[44:46.780 --> 44:49.260]  I'm an idiot, but you never just go, I'm sorry.
+[44:49.380 --> 44:50.680]  I'll say like, my bad, I'm a moron.
+[44:50.700 --> 44:54.900]  You're self-deprecating in the mistake, but you do not articulate sorry.
+[44:55.360 --> 45:01.540]  I just feel like calling myself a piece of shit is harder hitting than sorry. Sorry is kind of
+[45:01.540 --> 45:07.440]  generic, but I suck. I don't know what's wrong with me lately. I suck. It's better than a sorry.
+[45:08.140 --> 45:14.100]  I feel like that just makes us both end up feeling bad. Sorry is just like, Hey, I fucked up.
+[45:14.680 --> 45:17.140]  My mistake. I realized that that was an annoyance.
+[45:18.980 --> 45:21.200]  Oh, I got saved by the tariffs.
+[45:21.800 --> 45:27.820]  That was fun. Congratulations. Whoa. Yeah. All right. Now, now this is a podcast, baby.
+[45:28.820 --> 45:31.680]  It's the only positive that has come from tariffs.
+[45:33.000 --> 45:39.040]  Nintendo Switch 2 is a thing that exists, and I don't know what's wrong with my brain
+[45:39.040 --> 45:44.860]  or doing a Gavin. I'm a real piece of shit. Can't seem to keep track of that schedule for it.
+[45:45.540 --> 45:50.360]  I was so excited for the Switch 2. I think the new Donkey Kong game looks like so much fun.
+[45:50.360 --> 45:54.660]  I want one so badly. I'm not even that big of a Mario Kart guy, but I think the new Mario
+[45:54.660 --> 45:59.260]  Kart looks cool. It's just it looks like so much fun. And so I was going to try to get one.
+[45:59.760 --> 46:04.900]  And it was like I was making a big deal about it. And then they announced post tariffs because it
+[46:04.900 --> 46:09.500]  came out. The reveal of the Switch 2 is the same day in which Trump implemented all these
+[46:09.500 --> 46:16.560]  like global tariffs. So Nintendo was not expecting that, I guess, or prepared for it,
+[46:16.560 --> 46:21.580]  because like the next day they said that we're not we're changing the preorder date in the U.S.
+[46:21.600 --> 46:25.980]  We'll come back with a later date. It'll release fully at the announced time before,
+[46:26.080 --> 46:29.900]  but the preorder date is changed. But in Canada, zero impact. So I was all excited
+[46:29.900 --> 46:35.660]  and I'm getting ready. And I even like said to my partner, like, oh, we should try to get a Switch
+[46:35.660 --> 46:43.600]  9 p.m. tonight. First one. Walmart drop 9 p.m. Oh, here we go. And so it hits 9 p.m. We're
+[46:43.600 --> 46:50.840]  refreshing. We're looking at things and it's not showing up. And then I check maybe three or four
+[46:50.840 --> 46:58.760]  minutes after nine. I'm a whole day early. Way early. Wrong day. What? It was the next. I got
+[46:58.760 --> 47:05.760]  the dates mixed up. It was 24 hours later. We were 24 hours early. It was 9 p.m. the following day.
+[47:06.100 --> 47:12.020]  And I felt real bad. I was like, I'm an idiot. I'm so sorry. I didn't realize. I just I guess
+[47:12.020 --> 47:16.900]  I was too excited. I got the dates wrong. We're going to have to do this tomorrow night,
+[47:17.180 --> 47:22.060]  but that's fine. Wait, wait, wait. So you said I'm an idiot. And then you said, sorry. Yeah,
+[47:22.060 --> 47:25.640]  it was the whole thing. Wow. I covered all the bases as two things. Well, that's not we're
+[47:25.640 --> 47:32.080]  continuing the baseball metaphor. I walked all the bases of ball. But I said, no, it's fine,
+[47:32.500 --> 47:37.800]  because I guess I thought Walmart was first. I guess it'll be last tomorrow at 9 a.m.
+[47:38.460 --> 47:44.080]  Uh, all the other preorders go live for like Best Buy and GameStop and the other things.
+[47:44.300 --> 47:51.340]  And so I'm all excited for that. I'm up for it. My partner likes to typically sleep in.
+[47:51.680 --> 47:55.240]  And so I'm up and I'm waiting for it. And I'm like, oh, boy, here we go.
+[47:55.480 --> 47:59.480]  Only like 40, 30 minutes away from this going live. This is great.
+[47:59.940 --> 48:05.460]  And then Nintendo announces that they're also delaying the preorders in Canada because they're
+[48:05.460 --> 48:11.280]  doing it in America and they just want it all to be the same. And I feel I'm so annoyed. I'm like,
+[48:11.360 --> 48:17.120]  God damn it. Like, I just want to preorder this thing as I'm getting delayed because of a different
+[48:17.120 --> 48:23.860]  country's decision. This is bullshit. Oh, this just is so annoying. But at least at least my
+[48:23.860 --> 48:28.120]  partner is still sleeping. They're fine. And then their alarm goes off. And then then I just feel
+[48:28.120 --> 48:35.020]  bad for them of like, oh, they set an alarm to contribute to this thing. And it got rescheduled
+[48:35.020 --> 48:41.620]  five minutes past like it was like 835 was like 30 minutes. I was like, what a jerk move for
+[48:41.620 --> 48:48.080]  Nintendo to do this like 30 minutes before the preorders were supposed to go live. And I'm upset
+[48:48.080 --> 48:53.320]  about it. And then I do more reading about it. And I realized once again, I'm 24 hours early.
+[48:53.680 --> 49:01.080]  It was it was the next day when the preorders were supposed to go live. I just have all these
+[49:01.080 --> 49:06.460]  dates wrong. So then I had to turn and I said it when I told them at the time. I was like,
+[49:06.500 --> 49:11.160]  Nintendo just canceled all the Canadian preorders. You're doing the same thing that they did with
+[49:11.160 --> 49:15.700]  the US. Isn't that annoying? And they're like, yeah, that sucks. And then we continue with our
+[49:15.700 --> 49:22.160]  day. And then like 10 minutes later, I realized, oh, no. Oh, it's not. It wasn't supposed to go
+[49:22.160 --> 49:28.500]  live in 30 minutes. It was supposed to go live the next day. But they don't know this because
+[49:28.500 --> 49:34.480]  Nintendo swooped in before the time that it was supposed to go live and they canceled them all.
+[49:34.800 --> 49:41.180]  So I got to I avoided I didn't have to reveal that I once again screwed up. It was a whole
+[49:41.180 --> 49:48.020]  day early because Nintendo just canceled them all. So I got saved by it. How are you two days off?
+[49:48.540 --> 49:55.100]  I don't. I was just really excited about Donkey Kong. You can shake the controller and he beats
+[49:55.100 --> 49:58.680]  his chest in the direction you shake the controller. Really excited about this game.
+[50:00.440 --> 50:06.560]  But I just it's the only positive that's come of it where like I would have gotten in shit for
+[50:07.680 --> 50:12.980]  screwing up back to back in a row, one where they set an alarm to specifically help me with
+[50:12.980 --> 50:21.880]  the thing that I was a day early for twice in advance. How do you know what day is usually?
+[50:22.440 --> 50:30.900]  Oh, that's actually a good question. How do I know? I guess you guess. Well,
+[50:30.940 --> 50:40.860]  no, I'm like I'm trying to think I'm guessing. I think if I if I slept for like three days
+[50:40.860 --> 50:46.760]  and I just woke up, I wouldn't know what day it was. I guess I'd have to actively search.
+[50:47.940 --> 50:53.680]  What? I look at our calendar all the time. What is happening right now? What? Geoff, help.
+[50:54.200 --> 50:58.120]  It sounds like you just you wake up, you ignore your phone and you go,
+[50:58.180 --> 51:02.860]  what day does it feel like? No, I know it. Yesterday, right? Yesterday was Sunday. So
+[51:02.860 --> 51:08.320]  today has to be Monday. But I'm thinking if there was a gap now, I would just check my phone. I would
+[51:08.320 --> 51:18.800]  look because I'm constantly. There you go. Check your phone. It took a long time to get to check
+[51:18.800 --> 51:23.260]  your phone. What the hell? I never check it specifically for the date, but I would see
+[51:23.260 --> 51:29.720]  just on the fucking phone. I don't know if it is. Is it the day, the date and the time? Oh,
+[51:29.720 --> 51:36.880]  April 17th. But I wouldn't know that that's a Tuesday or whatever. Do you know I have a Mac
+[51:36.880 --> 51:41.820]  there? Use a Mac. It says on the top of the screen, right? Thursday, I guess I would collaborate my
+[51:42.520 --> 51:51.700]  my Android phone and throw those words around. There you go. You and you and your phone can do
+[51:51.700 --> 52:03.320]  a corrupt. Christ. Hey, I before we run out of time, I wanted to pitch you guys on something
+[52:03.320 --> 52:10.480]  that I think you're going to hate, but I hope you hate it in the way that makes you want to do it.
+[52:12.280 --> 52:17.980]  So I I'm officially a cruise guy now. I really enjoyed the cruise. It was a lot of fun.
+[52:18.220 --> 52:22.620]  Being on the cruise was a cruise guy. Never been on a cruise ship? Yeah, on a cruise ship. Didn't
+[52:22.620 --> 52:28.540]  think I'd like it. Really did enjoy it. It was great. Great experience. And I got thinking about
+[52:28.540 --> 52:33.400]  cruises in general and just how there's like different cruises for for every flavor of human.
+[52:33.540 --> 52:38.940]  Right. And then I was thinking about when we travel to stuff together and how much fun that
+[52:38.940 --> 52:44.900]  always is, in theory, if we ever do it. And sometimes like we went to Vegas, you know.
+[52:45.880 --> 52:50.860]  And then I was thinking about our wheel and how much joy we all get out of the wheel.
+[52:51.120 --> 52:56.180]  And I had this idea. What if what if we put a bunch of different cruises
+[52:56.960 --> 53:01.300]  on a wheel and we spin it and we have to go on the cruise that it lands on?
+[53:01.780 --> 53:07.320]  There's like heavy metal cruises like this one. There's a there's a Chris Jericho's
+[53:07.320 --> 53:13.720]  rock and wrestling rager at sea. There's a cat enthusiast cruise. I'm not opposed,
+[53:13.760 --> 53:19.000]  but I just need to articulate. I just need to point out that literally last podcast you said,
+[53:19.100 --> 53:23.400]  don't book me for any trips. I don't want to travel anywhere. I don't want to go.
+[53:23.400 --> 53:28.260]  This is a year out at least. Yeah, this is most of these cruises have probably already
+[53:28.260 --> 53:31.900]  happened this year. This is we're not doing it this year. This is far into the future.
+[53:32.060 --> 53:36.240]  The future Geoff can worry about that. Current Geoff has no has no cruises on the horizon.
+[53:36.480 --> 53:40.520]  There's a Star Trek cruise. How much fun would that be? There's a flat earth or cruise.
+[53:40.920 --> 53:45.680]  How much fun would that be? Not his cruise. And once again, you're not really selling me on these
+[53:45.680 --> 53:49.940]  these. Kesha has a cruise. Kesha's weird and wonderful rainbow ride.
+[53:49.940 --> 53:57.020]  5% fun. Monsters of rock. Wouldn't all the people on a flat earth cruise be scared of
+[53:57.020 --> 54:02.620]  driving off the end of the earth? I think they would look at each other smugly and be like,
+[54:02.780 --> 54:10.020]  we know where it ends. I see a cruise that would be the one I could definitely see myself being
+[54:10.020 --> 54:13.960]  miserable on. There's a fucking impractical Joker's cruise. What a nightmare that would be.
+[54:13.960 --> 54:16.860]  Oh, Sal, help me!
+[54:18.840 --> 54:24.400]  Dude, pranks on putting spaghetti on your head in the dining hall going crazy. That's awesome.
+[54:24.560 --> 54:30.480]  Oh, getting pranked. How much fun would it be to spend like fucking three days in the sun
+[54:30.480 --> 54:34.900]  in a pool with a bunch of dudes with white face paint on because they're all death metal guys
+[54:34.900 --> 54:39.280]  or a bunch of cat enthusiasts just talking about how much they love cats?
+[54:39.520 --> 54:43.200]  Zero. I don't want to spend any time with these people. What are you talking about?
+[54:43.200 --> 54:47.920]  That's why I think it makes great content. What an amazing first cruise that'll be for me.
+[54:48.080 --> 54:52.600]  You think the flat earth cruise just goes in a circle because they don't trust where the end is?
+[54:52.880 --> 54:55.860]  Yeah, they just do donuts of the port and then yeah.
+[54:56.300 --> 55:00.960]  Oh, I don't want to be trapped with people. I know that's that. I definitely don't want to
+[55:00.960 --> 55:06.140]  be on a cruise. What? That's this is insane. You're crazy. Yeah. And then a cruise that
+[55:06.140 --> 55:10.040]  for something that we definitely aren't into, you know, that's just a bunch of guys.
+[55:10.040 --> 55:14.760]  You are into it. You guys go into the you guys go into the concert tonight.
+[55:14.780 --> 55:18.480]  The what? No, Slipknot. Slipknot's playing tonight.
+[55:18.960 --> 55:24.580]  I like Kesha a lot. I don't think my fandom of Kesha is enhanced in any way by it being a cruise.
+[55:25.220 --> 55:29.580]  No, I don't know. I guess the joy is spending time with other Kesha enthusiasts.
+[55:29.920 --> 55:34.500]  So Kesha's not on the cruise. I would assume she is. She has to be. Yeah.
+[55:34.880 --> 55:37.780]  Well, like I remember Ed talked to us about they did Barenaked Ladies cruises
+[55:38.160 --> 55:42.040]  back in the day when they were they were on the boat. They'd like play a show and stuff.
+[55:42.580 --> 55:46.200]  But it doesn't have to be musicians either. You know, it could be a yarn enthusiast.
+[55:46.900 --> 55:50.020]  I can it could be about like crocheting a crochet.
+[55:50.300 --> 55:55.400]  Can we just can we do this not on a boat? Can we go to some hotel that has
+[55:56.260 --> 55:59.620]  beachfront whatever? Why do we have to be on a boat? Do we have to? I don't want to.
+[55:59.680 --> 56:03.900]  Well, that's the connection to it. Yeah. And that's the whole because you're trapped.
+[56:04.340 --> 56:07.880]  You are trapped. That's definitely true. You can't leave and go to Red Robin.
+[56:08.320 --> 56:11.340]  Now there's no escape. Uber. Yeah. Damn. Fuck.
+[56:11.840 --> 56:14.800]  I mean, it's a very good point. That sucks. It's a very good point. It sucks.
+[56:15.180 --> 56:18.320]  Yeah. Just something to think about. You just never leave the room.
+[56:19.000 --> 56:21.640]  You never leave the room. It's no different than a hotel room.
+[56:21.760 --> 56:24.660]  That's true. You do get room service. I did have room service every morning for breakfast.
+[56:25.240 --> 56:27.900]  Was it good? Yeah, it was pretty good.
+[56:27.960 --> 56:31.300]  OK, that was it was pretty good. There was some good there was some good food on that
+[56:31.300 --> 56:36.540]  boat. Was it like 70 bucks a time? No, it was all inclusive. So I don't have to pay for any of it.
+[56:36.720 --> 56:40.760]  Oh, you pay from a cruise ship? You pay out the dick on the front end.
+[56:40.900 --> 56:42.200]  Can you do what now? Fishing?
+[56:43.220 --> 56:44.960]  Oh, we could get a fishing cruise. You just stand on your patio.
+[56:45.480 --> 56:47.660]  Get a fishing cruise. You throw a line to get yourself lunch.
+[56:47.660 --> 56:50.200]  Why have I never seen someone fishing from their cruise ship before?
+[56:51.240 --> 56:52.840]  I don't know, but we should fucking try.
+[56:55.820 --> 56:59.420]  I'm trying to think if there is a cruise that I genuinely would be excited to go on.
+[56:59.420 --> 57:05.360]  It would have to be a 2026 thing, but I thought it'd be a fun way to have a group vacation
+[57:05.360 --> 57:10.020]  that we turn into content. What is the world's shortest cruise?
+[57:10.620 --> 57:15.520]  I think that's just called a boat. It's called the BC Ferry.
+[57:16.760 --> 57:20.000]  The shortest cruises are typically two or three nights, which is what I would assume.
+[57:20.100 --> 57:22.920]  We'd want to do two or three nights. The cruise I was just on was like 15 days.
+[57:23.220 --> 57:26.040]  That's too much. But you guys would lose your fucking minds.
+[57:26.340 --> 57:28.760]  That's insane. And you'd get really sick.
+[57:28.760 --> 57:32.740]  You'd be like, oh, cool, the Parthenon. Oh, cool.
+[57:33.280 --> 57:38.740]  Like an Oracle of Delphi. Oh, cool. Santorini. It gets old fast.
+[57:38.920 --> 57:40.620]  Oh, Ephesus. Cool. Yeah.
+[57:41.080 --> 57:42.900]  Some people do like months, don't they?
+[57:43.600 --> 57:45.520]  There's some people that live year-round on boats.
+[57:45.880 --> 57:49.920]  Yeah, wasn't there a cruise that was like 14 months or something?
+[57:50.340 --> 57:54.480]  Oh, yeah. There's a prison.
+[57:55.040 --> 57:58.260]  Yeah. There's a permanent cruise.
+[57:58.260 --> 58:03.580]  Royal Caribbean's ultimate world cruise, which lasted 274 nights.
+[58:04.120 --> 58:08.220]  It went from December 10th, 2023 to September 10th, 2024.
+[58:08.620 --> 58:11.220]  I think probably just in remembrance for like the next day.
+[58:11.620 --> 58:15.400]  Yeah, here you go. We can buy a villa for $140,000 on this one.
+[58:16.680 --> 58:20.160]  And then we just live on it year-round. A world cruise.
+[58:20.620 --> 58:21.740]  Probably don't want to do that. Yeah, it stinks.
+[58:22.220 --> 58:24.720]  What do you do with your house if you're on a cruise for a year?
+[58:25.380 --> 58:29.780]  You sell it for the cruise. You're on it like this. You're buying that villa.
+[58:29.920 --> 58:32.720]  You're on it for the rest of your life. It's a full-time cruise.
+[58:33.120 --> 58:34.660]  You just travel the world every year.
+[58:34.960 --> 58:36.820]  I just don't want to be on a boat.
+[58:37.180 --> 58:41.080]  No, absolutely not. Yeah. I mean, it's not bad. I didn't mind it,
+[58:41.100 --> 58:42.500]  but I was definitely happy when we got off.
+[58:42.900 --> 58:44.380]  But I never got like seasick or anything.
+[58:44.640 --> 58:48.140]  And there's swimming pools and hot tubs and lots of food.
+[58:48.360 --> 58:50.180]  I'd be, I think, most annoyed by the paperwork.
+[58:51.880 --> 58:55.040]  Yeah, there's some paperwork. There's trivia every night.
+[58:55.140 --> 58:56.900]  We always competed in trivia. That was fun.
+[58:57.460 --> 59:00.020]  Have you seen those videos of when the cruise ship lose power?
+[59:00.740 --> 59:01.020]  No.
+[59:01.140 --> 59:02.760]  No, but our cruise ship lost power.
+[59:03.640 --> 59:04.040]  Oh, really?
+[59:04.520 --> 59:06.000]  Yeah, like four in the morning one day.
+[59:06.540 --> 59:09.200]  And I guess we were coming in too hot and they had to cut the power
+[59:09.200 --> 59:10.460]  and then they lost power for a little bit.
+[59:10.600 --> 59:14.200]  And the gyro went off and then the stabilizer thing.
+[59:14.580 --> 59:16.960]  And it got pretty fucking, for about 20 minutes there,
+[59:16.960 --> 59:17.900]  it was pretty rocky.
+[59:17.980 --> 59:20.000]  And I was like, maybe I am going to throw up, but then it was fine.
+[59:20.180 --> 59:25.320]  I didn't realize they need to be turned on to not get tossed around by the sea.
+[59:25.780 --> 59:25.980]  Yeah.
+[59:26.640 --> 59:28.820]  All right, well, we'll put that on the board for down the road.
+[59:30.200 --> 59:31.720]  Wheel of themed cruises.
+[59:32.060 --> 59:33.840]  Can we all veto one thing on the wheel?
+[59:35.500 --> 59:37.340]  Yeah, I'm going to veto cruises.
+[59:40.080 --> 59:42.260]  I googled Black Eyed Peas cruise,
+[59:42.360 --> 59:45.120]  because that was like the most insufferable cruise I could think of.
+[59:45.460 --> 59:45.540]  God.
+[59:45.720 --> 59:49.040]  And the AI overview is the Black Eyed Peas have a music video called
+[59:49.040 --> 59:51.420]  Forever where they are cruising around L.A.
+[59:53.900 --> 59:54.700]  That sucks.
+[59:55.520 --> 59:56.900]  We should wrap this up.
+[59:56.960 --> 59:59.320]  I don't want to go on a cruise, but we should wrap up this episode.
+[59:59.800 --> 01:00:00.520]  Oh, I got it.
+[01:00:00.540 --> 01:00:01.120]  I got it.
+[01:00:01.840 --> 01:00:03.200]  There's a video game cruises.
+[01:00:03.380 --> 01:00:04.960]  How fucking miserable would that be?
+[01:00:05.360 --> 01:00:06.760]  Oh, you gotta do that.
+[01:00:07.440 --> 01:00:10.560]  You just want to be on a celebrity on one of these things, Geoff.
+[01:00:10.880 --> 01:00:13.020]  No, I'm not a celebrity anymore, dude.
+[01:00:13.040 --> 01:00:15.540]  I'm fucking six generations past all these people.
+[01:00:15.740 --> 01:00:18.400]  People who are going on this cruise know who you are.
+[01:00:18.820 --> 01:00:19.760]  I don't think so.
+[01:00:20.100 --> 01:00:21.000]  I don't think anybody knows me anymore.
+[01:00:21.000 --> 01:00:25.060]  We all get on a cruise ship and we play the Call of Duty thing,
+[01:00:25.100 --> 01:00:26.880]  and we can't leave the ship until...
+[01:00:31.500 --> 01:00:33.380]  Well, something something to noodle on.
+[01:00:33.500 --> 01:00:35.660]  I'm really looking forward to going on a cruise with y'all.
+[01:00:35.740 --> 01:00:38.080]  I think it's going to be a bonding experience for us,
+[01:00:38.100 --> 01:00:42.160]  and we're going to get a lot of a lot of fun Star Trek themed content
+[01:00:42.160 --> 01:00:43.400]  if that's the cruise we end up on.
+[01:00:44.640 --> 01:00:46.680]  But that'll be it for this episode, I guess.
+[01:00:46.680 --> 01:00:48.300]  We should probably knock it off,
+[01:00:48.400 --> 01:00:50.820]  and maybe some of us could go throw up for a little bit.
+[01:00:51.700 --> 01:00:52.420]  Maybe not.
+[01:00:53.480 --> 01:00:56.020]  Thanks for listening to another episode of The Regulation Podcast.
+[01:00:56.320 --> 01:00:58.580]  We sure enjoyed talking at you,
+[01:00:58.780 --> 01:01:01.700]  and we hope you enjoyed listening to us do that.
+[01:01:02.080 --> 01:01:02.840]  And we'll see you next week.
+[01:01:02.920 --> 01:01:03.260]  Bye bye.
+[01:01:03.760 --> 01:01:04.140]  Bye.
+[01:01:04.360 --> 01:01:04.700]  Bye now.
+[01:01:04.780 --> 01:01:05.140]  Bye.

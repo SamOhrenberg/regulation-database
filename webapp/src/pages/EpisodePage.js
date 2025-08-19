@@ -15,7 +15,8 @@ const parseTranscript = (text) => {
   for (const line of lines) {
     const match = line.match(regex);
     if (match) {
-      const [_, startTime, textContent] = match;
+      const startTime = match[1];
+      const textContent = match[2];
       const timeParts = startTime.split(':').map(parseFloat);
       const startSeconds = Math.floor(timeParts[0] * 60 + timeParts[1]);
 

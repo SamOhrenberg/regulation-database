@@ -4,6 +4,7 @@ import Header from './components/Header';
 import HomePage from './pages/HomePage';
 import SearchPage from './pages/SearchPage';
 import EpisodePage from './pages/EpisodePage';
+import Footer from './components/Footer';
 import './App.css';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Route path="/episode/:id" element={<EpisodePage />} />
         </Routes>
       </main>
+      <Footer />
     </div>
   );
 }

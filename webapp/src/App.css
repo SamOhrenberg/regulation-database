@@ -666,3 +666,69 @@ mark {
   font-size: 1rem;
   color: var(--text-color);
 }
+
+
+/* --- Footer Styles --- */
+
+/* Base styles (Mobile-first: static footer) */
+.app-footer {
+  width: 100%;
+  padding: 1.5rem 1rem;
+  text-align: center;
+  background-color: #1a1d20;
+  border-top: 1px solid var(--border-color);
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.footer-tagline {
+  font-size: 0.95rem;
+  color: #888;
+  margin: 0;
+  font-style: italic;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.footer-link {
+  color: #aaa;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.2s ease-in-out;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem; /* Space between icon and text */
+}
+
+.footer-link:hover {
+  color: var(--accent-color);
+}
+
+.footer-link svg {
+  fill: currentColor; /* The icon will match the link's color */
+}
+
+/* Desktop styles: This media query targets screens tablet-sized and larger */
+@media (min-width: 769px) {
+  .app-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    margin-top: 0;
+    padding: 1rem 1rem;
+  }
+
+  main {
+    padding-bottom: 100px;
+  }
+}

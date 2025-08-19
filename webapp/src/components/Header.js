@@ -1,8 +1,7 @@
-// src/components/Header.js
 import React from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { ReactComponent as RegulationLogo } from '../logo.svg';
-import GlobalSearchBar from './GlobalSearchBar'; // Import the new component
+import GlobalSearchBar from './GlobalSearchBar';
 
 function Header() {
   return (
@@ -11,9 +10,13 @@ function Header() {
         <RegulationLogo className="logo" />
       </Link>
       
-      {/* Add the new search bar to the middle of the header */}
       <GlobalSearchBar />
       
+      <nav className="header-nav">
+        <NavLink to="/search" className="nav-link">
+          Advanced Search
+        </NavLink>
+      </nav>
     </header>
   );
 }

@@ -247,3 +247,84 @@ mark {
   width: 100%;
   opacity: 0.5;
 }
+
+/* --- Episode Page Styles --- */
+.episode-page {
+  max-width: 800px;
+  margin: 2rem auto;
+}
+
+.episode-header {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.episode-thumbnail {
+  width: 100%;
+  max-width: 320px;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+}
+
+.episode-title {
+  font-size: 2rem;
+  color: var(--heading-color);
+  margin: 0 0 0.5rem 0;
+}
+
+.episode-details {
+  font-size: 1rem;
+  color: #aaa;
+  margin: 0;
+}
+
+.youtube-link {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 8px 16px;
+  background-color: var(--accent-color);
+  color: var(--background-color);
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: background-color 0.2s;
+}
+
+.youtube-link:hover {
+  background-color: #ddd;
+}
+
+.transcript-container {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.transcript-line {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.25rem;
+  align-items: flex-start;
+}
+
+.timestamp-link {
+  font-family: monospace;
+  font-size: 0.9rem;
+  color: #888;
+  text-decoration: none;
+  white-space: nowrap;
+  padding-top: 0.1em; /* Align with text */
+}
+
+.timestamp-link:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+.transcript-text {
+  margin: 0;
+  color: var(--text-color);
+}

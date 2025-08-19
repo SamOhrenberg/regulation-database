@@ -714,47 +714,42 @@ main {
 
 /* --- Responsive Header Styles --- */
 
-/* Default styles for Desktop */
+/* Mobile First: The header stacks items vertically by default */
 .app-header {
-  .header-nav {
-    display: none;
-  }
+  display: flex;
+  flex-direction: column; /* This is the key for stacking */
+  align-items: center; /* Center the logo and search bar */
+  gap: 1rem; /* Creates space between the logo and search bar */
+  padding: 1rem;
+  border-bottom: 1px solid var(--border-color);
+  margin-bottom: 2.5rem;
 }
 
-@media (max-width: 768px) {
+.app-header .logo {
+  max-width: 250px; /* A good, readable size for the mobile view */
+  width: 100%;
+}
+
+/* Make the search form take the full width on mobile */
+.global-search-form {
+  width: 100%;
+  max-width: 500px; /* Prevents it from being too wide on tablets */
+  display: flex;
+}
+
+/* Desktop Styles: This media query applies to screens 769px and wider */
+@media (min-width: 769px) {
   .app-header {
-    padding: 0.75rem 1rem;
-    
-    /* On mobile, we HIDE the full search bar */
-    .global-search-form {
-      display: none;
-    }
-    
-    /* And we SHOW the navigation link */
-    .header-nav {
-      display: flex; /* Makes the NavLink visible */
-    }
+    flex-direction: row; /* Switch back to a horizontal layout */
+    justify-content: space-between; /* Pushes logo and search to the sides */
+  }
 
-    .logo {
-      max-width: 180px;
-    }
-    
-    /* Make the mobile link look more like a button */
-    .nav-link {
-      padding: 8px 12px;
-      border: 1px solid var(--border-color);
-      border-radius: 6px;
-      background-color: #22272e;
-    }
-
-    .nav-link.active {
-      border-color: var(--accent-color);
-      background-color: var(--accent-color);
-      color: var(--background-color);
-    }
-    
-    .nav-link.active::after {
-      display: none; /* The background color is enough indication */
-    }
+  /* Make the search form take up the available middle space on desktop */
+  .global-search-form {
+    width: auto;
+    flex-grow: 1;
+    justify-content: center;
+    padding: 0 2rem;
   }
 }
+

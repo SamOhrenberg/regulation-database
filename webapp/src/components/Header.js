@@ -11,12 +11,7 @@ function Header() {
       </Link>
       
       <GlobalSearchBar />
-      
-      <nav className="header-nav">
-        <NavLink to="/search" className="nav-link">
-          Advanced Search
-        </NavLink>
-      </nav>
+
     </header>
   );
 }

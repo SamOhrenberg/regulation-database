@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import { ReactComponent as RegulationLogo } from '../logo.svg';
 import GlobalSearchBar from './GlobalSearchBar';
 
@@ -12,6 +12,11 @@ function Header() {
       
       <GlobalSearchBar />
 
+      <nav className="header-nav">
+        <NavLink to="/search" className="nav-link">
+          Advanced Search
+        </NavLink>
+      </nav>
     </header>
   );
 }

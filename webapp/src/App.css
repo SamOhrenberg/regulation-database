@@ -711,3 +711,50 @@ mark {
 main {
   padding-bottom: 0; 
 }
+
+/* --- Responsive Header Styles --- */
+
+/* Default styles for Desktop */
+.app-header {
+  .header-nav {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .app-header {
+    padding: 0.75rem 1rem;
+    
+    /* On mobile, we HIDE the full search bar */
+    .global-search-form {
+      display: none;
+    }
+    
+    /* And we SHOW the navigation link */
+    .header-nav {
+      display: flex; /* Makes the NavLink visible */
+    }
+
+    .logo {
+      max-width: 180px;
+    }
+    
+    /* Make the mobile link look more like a button */
+    .nav-link {
+      padding: 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: #22272e;
+    }
+
+    .nav-link.active {
+      border-color: var(--accent-color);
+      background-color: var(--accent-color);
+      color: var(--background-color);
+    }
+    
+    .nav-link.active::after {
+      display: none; /* The background color is enough indication */
+    }
+  }
+}

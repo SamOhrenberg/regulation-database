@@ -3617,6 +3617,54 @@
       "show": "F**kface Podcast",
       "episode_number": 171,
       "category": "Episode"
+    },
+    {
+      "id": "VhAq08XRb4w",
+      "source": "YouTube",
+      "title": "Cock Money // Punchlines [172]",
+      "description": null,
+      "duration": 4042,
+      "duration_string": "1:07:22",
+      "upload_date": "20230920",
+      "url": "https://www.youtube.com/watch?v=VhAq08XRb4w",
+      "thumbnail": "https://i.ytimg.com/vi/VhAq08XRb4w/hqdefault.jpg",
+      "transcript_path": "transcriptions/F - kface Podcast/Fkface Podcast (172) Cock Money - Punchlines [172].txt",
+      "images": [],
+      "show": "F**kface Podcast",
+      "episode_number": 172,
+      "category": "Episode"
+    },
+    {
+      "id": "MtsSxbRXJoQ",
+      "source": "YouTube",
+      "title": "Andrews Ankles // Regulation Flavors [173]",
+      "description": null,
+      "duration": 4174,
+      "duration_string": "1:09:34",
+      "upload_date": "20230927",
+      "url": "https://www.youtube.com/watch?v=MtsSxbRXJoQ",
+      "thumbnail": "https://i.ytimg.com/vi/MtsSxbRXJoQ/hqdefault.jpg",
+      "transcript_path": "transcriptions/F - kface Podcast/Fkface Podcast (173) Andrews Ankles - Regulation Flavors [173].txt",
+      "images": [],
+      "show": "F**kface Podcast",
+      "episode_number": 173,
+      "category": "Episode"
+    },
+    {
+      "id": "3RoJY_r8hbU",
+      "source": "YouTube",
+      "title": "Caviar Phones // Internal Monologues [174]",
+      "description": null,
+      "duration": 4315,
+      "duration_string": "1:11:55",
+      "upload_date": "20231004",
+      "url": "https://www.youtube.com/watch?v=3RoJY_r8hbU",
+      "thumbnail": "https://i.ytimg.com/vi/3RoJY_r8hbU/hqdefault.jpg",
+      "transcript_path": "transcriptions/F - kface Podcast/Fkface Podcast (174) Caviar Phones - Internal Monologues [174].txt",
+      "images": [],
+      "show": "F**kface Podcast",
+      "episode_number": 174,
+      "category": "Episode"
     }
   ]
 }

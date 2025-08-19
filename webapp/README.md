@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How It Works
 
-This is a fully static web app—no traditional backend or server costs, which is pretty slick.
+This is a fully static web app—no traditional backend or server costs.
 
 1.  When you load the page, the app hits the GitHub API to get a list of all the files in the `/transcriptions` directory.
 2.  When you search for something, the app fetches the raw text content of each transcription file directly from GitHub (`file.download_url`).
@@ -35,7 +35,7 @@ Once you're in the `webapp` directory, you can run these commands:
 ### `npm start`
 
 Runs the app in development mode.
-Open [http://localhost:3000](http://localhost:3000) to see it in your browser. The page will automatically reload whenever you save a file, which is super handy for development.
+Open [http://localhost:3000](http://localhost:3000) to see it in your browser. The page will automatically reload whenever you save a file.
 
 ### `npm run build`
 

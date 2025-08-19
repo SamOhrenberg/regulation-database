@@ -14,13 +14,13 @@ If you're here, you probably already know. The **Regulation Podcast** is a light
 
 This project is an open-source tool for all the listeners, built by the community.
 
-## 🗂️ So, What's in the Box?
+## 🗂️ The repository
 
 This repo is a monorepo. Here's a quick look under the hood:
 
--   `📂 /transcriptions` — This is the treasure chest. All the raw `.txt` transcriptions live here, along with a `metadata.json` file that keeps track of everything.
+-   `📂 /transcriptions` — All the raw `.txt` transcriptions live here, along with a `metadata.json` file that keeps track of everything.
 -   `🤖 /yt-transcriber` — The brains of the operation. This is a modern Node.js script that automatically finds new episodes, transcribes them, and commits them to the repo.
--   `🖥️ /webapp` — The star of the show. A clean, fast React app that gives you a slick interface for searching through all the transcripts.
+-   `🖥️ /webapp` — The ui. A clean, fast React app that gives you a interface for searching through all the transcripts.
 
 For a deeper dive into the project's architecture, data, and long-term vision, **[check out the official Wiki](https://github.com/SamOhrenberg/regulation-database/wiki)**.
 
@@ -59,16 +59,14 @@ Want to pitch in? Awesome. Contributions are what make open-source projects like
 
 If you find a bug in the webapp or have an idea for a new feature, please **[open an issue](https://github.com/SamOhrenberg/regulation-database/issues)**. Issues are for concrete, actionable items that have a clear "done" state.
 
-#### Have a Question or Idea? Use Discussions!
+#### Have a Question or Idea? Try out Discussions
 
-We've also got the **[Discussions tab](https://github.com/SamOhrenberg/regulation-database/discussions)** enabled for more open-ended conversations. It's the perfect place for things that aren't quite a bug report or a formal feature request.
+We've also got the **[Discussions tab](https://github.com/SamOhrenberg/regulation-database/discussions)** enabled for more open-ended conversations. It's a good place for things that aren't quite a bug report or a formal feature request.
 
 Here's a quick guide on when to use which:
 
--   **Use an Issue if:** You've found a bug, something is broken, or you have a well-defined feature you want to see added. (e.g., "The search button doesn't work on mobile," or "Add a button to copy results to the clipboard.")
--   **Use a Discussion if:** You have a general question, want to brainstorm a big new idea, want to share something you've built based on this project, or just want to chat with other contributors. (e.g., "How does the transcriber script handle de-duplication?" or "What if we added a timeline view?").
-
-Don't worry about getting it perfect. If you open an issue that's better suited for a discussion, we can always convert it.
+-   **Use an Issue if:** You've found a bug, something is broken, or you have a well-defined feature you want to see added.
+-   **Use a Discussion if:** You have a general question, want to brainstorm a big new idea, want to share something you've built based on this project, or just want to chat with other contributors.
 
 #### Fixing Transcription Errors
 

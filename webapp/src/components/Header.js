@@ -1,18 +1,19 @@
+// src/components/Header.js
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import { ReactComponent as RegulationLogo } from '../logo.svg';
-import '../App.css';
+import GlobalSearchBar from './GlobalSearchBar'; // Import the new component
 
 function Header() {
   return (
     <header className="app-header">
-      <Link to="/">
+      <Link to="/" className="header-logo-link">
         <RegulationLogo className="logo" />
       </Link>
       
-      <nav>
-        <Link to="/search">Search</Link>
-      </nav>
+      {/* Add the new search bar to the middle of the header */}
+      <GlobalSearchBar />
+      
     </header>
   );
 }

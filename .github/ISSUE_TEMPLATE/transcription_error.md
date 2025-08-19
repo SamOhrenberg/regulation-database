@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Thank you for helping improve the transcription accuracy!** Please provide the following details to help us locate and fix the error.
+Please provide the following details to help us locate and fix the error.
 
 ---
 

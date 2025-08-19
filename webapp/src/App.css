@@ -22,16 +22,65 @@ body {
   text-align: left;
 }
 
-.app-header {
-  margin-bottom: 2.5rem;
-  display: flex;
-  justify-content: center;
-}
-
 .logo {
   width: 100%;
   max-width: 350px;
   height: auto;
+}
+
+.app-header {
+  display: flex;
+  justify-content: space-between; /* Pushes logo and nav to opposite ends */
+  align-items: center;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid var(--border-color);
+  margin-bottom: 2.5rem;
+}
+
+/* Make the logo in the header a bit smaller */
+.app-header .logo {
+  max-width: 250px;
+  width: 100%;
+}
+
+.header-logo-link {
+  display: inline-block; /* Ensures proper link behavior and dimensions */
+}
+
+/* Container for our navigation links */
+.header-nav {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-link {
+  color: var(--text-color);
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0.5rem 0;
+  position: relative;
+  transition: color 0.2s ease-in-out;
+}
+
+.nav-link:hover {
+  color: var(--heading-color);
+}
+
+/* This style applies ONLY when the NavLink is 'active' */
+.nav-link.active {
+  color: var(--heading-color);
+}
+
+/* Adds a nice underline effect to the active link */
+.nav-link.active::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: var(--accent-color);
 }
 
 .search-container {
@@ -126,6 +175,19 @@ body {
   z-index: 1;
 }
 
+.result-header > span:first-child {
+  /* This allows the title to shrink if needed, preventing overflow. */
+  min-width: 0;
+  flex-shrink: 1;
+}
+
+.result-header > span:first-child a {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block; /* Necessary for text-overflow to work reliably. */
+}
+
 .result-header:hover,
 .result-header.expanded {
   background: #23272b;
@@ -141,16 +203,20 @@ body {
   align-items: center;
 }
 
+    
 .result-count {
   font-size: 0.98rem;
   color: #f3f3f3;
-  margin-left: 1.5em;
+  margin-left: auto; 
   margin-right: 1em;
   font-weight: 500;
   background: rgba(243,243,243,0.08);
   border-radius: 12px;
   padding: 2px 12px;
+  white-space: nowrap; 
 }
+
+  
 
 /* Chevron styling: fully monochrome and larger */
 .chevron {
@@ -329,6 +395,127 @@ mark {
   color: var(--text-color);
 }
 
+/* --- Homepage Styles --- */
+.homepage {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 2rem;
+}
+
+.homepage h2 {
+  font-size: 1.5rem;
+  color: var(--heading-color);
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.75rem;
+}
+
+.hero-section {
+  margin-bottom: 4rem;
+}
+
+    
+    
+.latest-episode-card {
+  display: grid;
+  /* CHANGED: Use a single column to stack the image and text vertically. */
+  grid-template-columns: 1fr;
+  background-color: #1a1d20;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  overflow: hidden; /* Ensures the image corners are rounded */
+}
+
+  
+  
+.latest-episode-thumbnail {
+  width: 100%;
+  height: auto;
+  max-height: 450px;
+  object-fit: cover; /* Ensures the image fills the width beautifully. */
+}
+
+.latest-episode-meta {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.show-badge {
+  background-color: var(--accent-color);
+  color: var(--background-color);
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  align-self: flex-start; /* Makes the badge only as wide as its content */
+  margin-bottom: 1rem;
+}
+
+.latest-episode-meta h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.75rem;
+}
+
+.episode-description {
+  color: var(--text-color);
+  line-height: 1.6;
+  flex-grow: 1; /* Pushes the button to the bottom */
+}
+
+.button-primary {
+  display: inline-block;
+  align-self: flex-start;
+  margin-top: 1rem;
+  padding: 10px 20px;
+  background-color: var(--accent-color);
+  color: var(--background-color);
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: background-color 0.2s, transform 0.2s;
+}
+
+.button-primary:hover {
+  background-color: #ddd;
+  transform: translateY(-2px);
+}
+
+.show-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+.show-card {
+  background-color: #1a1d20;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.show-card h3 {
+  margin: 0 0 1.5rem 0;
+}
+
+.button-secondary {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: transparent;
+  color: var(--accent-color);
+  border: 1px solid var(--accent-color);
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.button-secondary:hover {
+  background-color: var(--accent-color);
+  color: var(--background-color);
+}
+
     
 /* --- Search Page Styles --- */
 .search-page {
@@ -344,4 +531,138 @@ mark {
   align-items: flex-start;
 }
 
-  
+.filter-sort-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  background-color: #1a1d20;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+}
+
+.filter-section, .sort-section {
+  flex: 1 1 200px;
+}
+
+.filter-section h3, .sort-section h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  color: var(--heading-color);
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.5rem;
+}
+
+.filter-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.filter-options label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.filter-options input[type="checkbox"] {
+  margin-right: 0.5rem;
+}
+
+.sort-section select {
+  width: 100%;
+  padding: 8px;
+  background-color: #111;
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  font-family: var(--font-primary);
+}
+
+/* --- Global Search Bar Styles (in Header) --- */
+.global-search-form {
+  flex-grow: 1; /* Allows the search bar to fill available space */
+  display: flex;
+  justify-content: center;
+  padding: 0 2rem;
+}
+
+.global-search-input {
+  width: 100%;
+  max-width: 500px; /* Prevents the search bar from getting too wide on large screens */
+  padding: 10px 16px;
+  font-size: 1rem;
+  font-family: var(--font-primary);
+  background-color: #22272e; /* A slightly lighter dark color */
+  color: var(--heading-color);
+  border: 1px solid var(--border-color);
+  border-right: none;
+  border-radius: 6px 0 0 6px; /* Rounded on the left corners */
+  outline: none;
+  transition: border-color 0.2s, background-color 0.2s;
+}
+
+.global-search-input:focus {
+  border-color: var(--accent-color);
+  background-color: #111;
+}
+
+.global-search-button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: 500;
+  font-family: var(--font-primary);
+  background-color: var(--accent-color);
+  color: var(--background-color);
+  border: 1px solid var(--accent-color);
+  border-radius: 0 6px 6px 0; /* Rounded on the right corners */
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.global-search-button:hover {
+  background-color: #ddd;
+}
+
+
+/* --- Pagination Styles --- */
+.pagination-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 2.5rem;
+}
+
+.pagination-button {
+  padding: 8px 16px;
+  font-size: 1rem;
+  font-weight: 500;
+  font-family: var(--font-primary);
+  background-color: transparent;
+  color: var(--accent-color);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+}
+
+.pagination-button:hover:not(:disabled) {
+  background-color: var(--accent-color);
+  color: var(--background-color);
+  border-color: var(--accent-color);
+}
+
+.pagination-button:disabled {
+  color: #555;
+  border-color: #333;
+  cursor: not-allowed;
+}
+
+.pagination-info {
+  font-size: 1rem;
+  color: var(--text-color);
+}

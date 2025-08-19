@@ -67,7 +67,6 @@ const sanitizeFilename = (name) => {
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
-// --- MAIN ORCHESTRATOR ---
 async function main() {
   await fs.mkdir(tempAudioDirPath, { recursive: true });
   let initialMetadata = {};

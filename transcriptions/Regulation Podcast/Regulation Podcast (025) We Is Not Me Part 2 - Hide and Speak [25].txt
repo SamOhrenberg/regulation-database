@@ -1,0 +1,1335 @@
+[00:00.000 --> 00:03.920]  Hello and welcome to another episode of the Regulation Podcast.
+[00:04.440 --> 00:06.840]  This is episode 025.
+[00:07.280 --> 00:11.000]  My name is Geoff Ramsey. With me as always, Nick Schwartz, Andrew Panton, Gavin
+[00:11.000 --> 00:14.680]  Free, Eric Baudour, in no particular order. Hello.
+[00:15.180 --> 00:16.060]  Hello. Hello.
+[00:16.780 --> 00:19.680]  How's everybody been in the last three minutes? Great.
+[00:20.480 --> 00:24.200]  How are you in the last three minutes? Good. Good. I got a,
+[00:24.320 --> 00:28.180]  I had a burp and I accidentally swallowed it and now it's just kind of in there
+[00:28.180 --> 00:30.820]  and I don't know if it's going to come out or if it's, you know,
+[00:30.820 --> 00:32.580]  that's like the saddest thing you can do.
+[00:32.980 --> 00:36.540]  Do you want to sit on my lap and I'll pat your back? Careful.
+[00:36.580 --> 00:38.800]  There's probably shit on it. If we didn't,
+[00:39.940 --> 00:43.680]  if we can, if we can film it and release it on Patreon, absolutely.
+[00:44.000 --> 00:47.540]  Because boy, we make a killing. Why would shit be on my lap?
+[00:48.760 --> 00:49.120]  Well,
+[00:49.460 --> 00:52.620]  weren't we going to do something in Achievement Hunter a hundred years ago
+[00:52.620 --> 00:57.000]  where I sat in your lap and shit on you? Do you remember that? Yes.
+[00:57.000 --> 01:00.820]  Yeah. I can't remember what the, the qualifier was for doing that. Yeah.
+[01:01.200 --> 01:04.960]  But you wanted to just sit on my lap, fully clothed and take a dump.
+[01:07.680 --> 01:11.580]  Well, for the record, I no longer have that desire.
+[01:11.840 --> 01:15.600]  Oh good. Cause I'm not looking to do that in 2024.
+[01:15.900 --> 01:17.540]  Not sure why I wanted to back then.
+[01:20.680 --> 01:22.160]  I'm excited to hear Gavin's notes,
+[01:22.280 --> 01:25.040]  cause Gavin earlier in the week said he's pretty excited about his notes.
+[01:25.420 --> 01:26.460]  I don't think you want to hear my notes.
+[01:26.460 --> 01:30.640]  Cause one of my notes is Andrew is an idiot. No, listen, that's every week.
+[01:32.000 --> 01:33.360]  Do you got any notes this week, Andrew?
+[01:33.760 --> 01:35.900]  Oh, I got so many notes. I got a few myself.
+[01:36.080 --> 01:37.180]  I got I was in the lab.
+[01:37.240 --> 01:39.840]  I came up with some supplemental ideas I want to pitch to you guys today.
+[01:39.840 --> 01:41.120]  But let's start. Let's start with Gavin.
+[01:41.260 --> 01:42.180]  Why is Andrew an idiot?
+[01:42.580 --> 01:44.920]  Oh, let me prepare some screen shots.
+[01:45.940 --> 01:47.800]  Oh, fuck. He brought visual aids.
+[01:48.220 --> 01:50.660]  Yeah. He doesn't need proof for this trial.
+[01:50.900 --> 01:52.240]  It's made the ruling.
+[01:53.900 --> 01:58.360]  We put out, we put out a little supplemental called tuned up.
+[01:58.720 --> 02:01.720]  Yeah, a lovely video. Oh, Andrew.
+[02:02.720 --> 02:05.160]  Want to make his little conversation from the slack.
+[02:05.600 --> 02:08.700]  I you know what? This is I feel unwarranted.
+[02:08.960 --> 02:11.780]  Now, can we now I see what you're doing here.
+[02:11.880 --> 02:15.520]  Is there a way that we can get a dramatic reenactment like Geoff?
+[02:15.860 --> 02:17.020]  Nick, you can be Nick.
+[02:17.540 --> 02:21.080]  I'll be I'll be Andrew if you want to be Gavin, Geoff.
+[02:21.080 --> 02:22.240]  I'll be Gavin. Yeah.
+[02:22.300 --> 02:24.040]  OK. Oh, yeah. OK. All right.
+[02:24.860 --> 02:27.660]  OK. I'm also going to have to paste.
+[02:28.060 --> 02:29.900]  Yeah, go ahead. I'm ready with the second page.
+[02:30.140 --> 02:31.080]  OK. All right.
+[02:32.280 --> 02:35.140]  Any preference on game footage I should use for tuned up?
+[02:35.480 --> 02:38.580]  Nope. I get tuned up a visual thing.
+[02:39.020 --> 02:40.280]  The recording of the website.
+[02:40.620 --> 02:42.120]  Can we get another quick second read on that?
+[02:42.560 --> 02:48.240]  OK. Is it tuned up a visual thing?
+[02:48.420 --> 02:49.820]  Oh, that's way closer. That's way better.
+[02:50.440 --> 02:51.960]  Yeah. Sorry. One more.
+[02:52.060 --> 02:53.740]  Could we just get just a slightly clearer, maybe?
+[02:54.640 --> 02:55.120]  OK.
+[03:01.100 --> 03:03.880]  Is it tuned up a visual thing?
+[03:04.220 --> 03:05.820]  The recording of the website.
+[03:06.420 --> 03:07.120]  Oh, that's pretty good.
+[03:07.340 --> 03:07.980]  Yeah, that was good.
+[03:08.260 --> 03:10.700]  Not the first. The next two are.
+[03:11.120 --> 03:13.400]  How would people know what we're reacting to?
+[03:13.700 --> 03:15.460]  Sometimes we just went, oh,
+[03:15.460 --> 03:20.000]  yeah, I believe I articulated updates.
+[03:20.280 --> 03:22.960]  Every guess. Mm hmm.
+[03:23.060 --> 03:26.800]  I definitely was mindful of it not being visual,
+[03:27.180 --> 03:29.660]  but I'm sure I wasn't perfect in that.
+[03:29.920 --> 03:33.000]  Or you could make those quizzes and just take the screenshots.
+[03:33.140 --> 03:34.120]  I try, guys.
+[03:34.480 --> 03:38.480]  Wait, did you read that? OK.
+[03:40.580 --> 03:43.780]  It's an extra medium and up only release.
+[03:43.780 --> 03:48.580]  So I assume the vast majority of people who consume it will be via audio.
+[03:48.580 --> 03:54.040]  OK. Now, what I'm referring to is that a lot of the time
+[03:54.040 --> 03:56.220]  we would put in a guess for the for the band or whatever,
+[03:56.380 --> 03:58.600]  and it would just throw back a bunch of results.
+[03:58.820 --> 04:00.120]  And we'd be talking about the results.
+[04:00.180 --> 04:01.620]  We like, oh, you know, reacting to it.
+[04:02.020 --> 04:03.760]  But at that point, Andrew had argued his point.
+[04:04.180 --> 04:06.680]  And I said, being done with discussing it.
+[04:07.000 --> 04:08.120]  OK. Uh-huh.
+[04:08.600 --> 04:09.780]  Andrew then wrote this.
+[04:10.920 --> 04:13.000]  I haven't listened back to it,
+[04:13.000 --> 04:15.420]  but it certainly works as an audible.
+[04:17.440 --> 04:19.300]  That's the primary way.
+[04:19.600 --> 04:21.260]  I haven't listened to it.
+[04:21.920 --> 04:23.540]  I never listen to anything that we do.
+[04:23.640 --> 04:25.960]  Right. Well, I listen to it.
+[04:26.140 --> 04:29.680]  I'm doing, you know, maybe we should have the video.
+[04:29.940 --> 04:32.900]  And I get that we didn't record it. Right.
+[04:33.160 --> 04:36.960]  But what we could have done, and that was because you you'd never like it when I
+[04:36.960 --> 04:40.780]  when I say we should have done this and there's no there's no like alternate thing.
+[04:40.780 --> 04:43.460]  So I even suggested I'll just type him in.
+[04:43.540 --> 04:45.640]  I'll take some screenshots of the exact results.
+[04:45.820 --> 04:46.880]  You don't have to type in the same way.
+[04:46.940 --> 04:47.940]  You didn't say that. What?
+[04:48.060 --> 04:53.400]  You said we you said we could we know there is no moment of you saying
+[04:53.400 --> 04:55.780]  I could do this if you said I could do this.
+[04:55.880 --> 04:57.300]  I would say absolutely go ahead.
+[04:57.820 --> 04:59.520]  I just met us as a company.
+[04:59.680 --> 05:05.140]  Well, you said if you meant we never refers to if it's just just go do it.
+[05:05.240 --> 05:07.020]  Just go do it if you think it's a good idea to do.
+[05:09.160 --> 05:13.200]  It's not it's it's not just go do it because it's that it's like, you know,
+[05:13.280 --> 05:15.000]  will the personality have enough time to put it in?
+[05:15.060 --> 05:16.200]  I want to just do it for no reason.
+[05:16.380 --> 05:18.200]  And you said no.
+[05:18.780 --> 05:19.960]  Yeah, I didn't say no.
+[05:21.000 --> 05:22.340]  I never said no.
+[05:22.940 --> 05:24.780]  What did you mean by it's extra medium only?
+[05:24.860 --> 05:27.440]  So I assume the vast majority of people who consume it will be via audio.
+[05:27.580 --> 05:30.680]  I was giving a point as to why it may not be a big deal.
+[05:30.740 --> 05:32.240]  I never said no, don't do that.
+[05:32.560 --> 05:36.700]  OK, well, either way, I was putting up a suggestion, a solution to the problem.
+[05:37.020 --> 05:39.300]  Where we could basically refilm it.
+[05:40.420 --> 05:43.200]  But and then what was the response to the video?
+[05:44.180 --> 05:47.400]  There was a lot of all the visual things where it should have been a visual.
+[05:47.820 --> 05:49.920]  I've got a series of issues with this.
+[05:50.200 --> 05:53.680]  First of all, I already admitted to Gavin he was right.
+[05:54.160 --> 05:58.020]  Literally the day it happened and he did not acknowledge it like a little weasel.
+[05:58.260 --> 06:00.580]  He just screenshotted all these things.
+[06:00.980 --> 06:04.900]  Zero acknowledgment to my comment that he was already right.
+[06:04.900 --> 06:06.860]  How does that make me a weasel?
+[06:07.260 --> 06:09.340]  This this stuff was already screenshotted.
+[06:09.620 --> 06:11.460]  That's a little weasel move.
+[06:11.540 --> 06:16.000]  Not reacting, but taking your little screenshots for your bit on the podcast.
+[06:16.240 --> 06:17.400]  I'm reacting right here.
+[06:17.460 --> 06:18.880]  I'm saving it for the recording.
+[06:19.260 --> 06:23.040]  Second of all, I'm not the one who's editing that.
+[06:23.520 --> 06:26.580]  This is a public channel, Nick or whoever.
+[06:27.180 --> 06:28.740]  Could anybody else?
+[06:28.960 --> 06:29.200]  That's true.
+[06:29.540 --> 06:31.360]  I never said no.
+[06:31.560 --> 06:32.960]  This isn't about me.
+[06:32.960 --> 06:36.820]  I gave an opinion and nobody else replied.
+[06:37.240 --> 06:37.980]  This is not me.
+[06:38.140 --> 06:40.620]  Each of your responses was saying we didn't need it.
+[06:41.920 --> 06:45.980]  I was just saying that I don't because you did this what the day before
+[06:45.980 --> 06:47.020]  it was supposed to come out.
+[06:47.260 --> 06:52.540]  And I was just articulating a point as to why I felt it wasn't necessary.
+[06:52.660 --> 06:54.320]  But I never said no.
+[06:54.720 --> 06:58.340]  And just because I think something is necessary in the same way that to you,
+[06:58.660 --> 07:01.560]  we means also me and anyone can do it.
+[07:01.560 --> 07:02.760]  Me vocalizing.
+[07:02.940 --> 07:04.060]  I don't think it's necessary.
+[07:04.140 --> 07:05.660]  Is it me saying it shouldn't happen?
+[07:05.960 --> 07:07.600]  I'm just giving my perspective.
+[07:07.800 --> 07:10.620]  I just feel like every response you have said, don't worry about it.
+[07:11.120 --> 07:13.140]  I'm not going to, you know, if you feel like.
+[07:14.260 --> 07:15.500]  But that's just me.
+[07:15.680 --> 07:16.940]  There's five of us.
+[07:17.100 --> 07:19.320]  What are the what are the people who read it and didn't reply?
+[07:19.420 --> 07:20.880]  Just because I'm the only one who replied.
+[07:20.960 --> 07:23.180]  I feel like your issue should be with the three other people.
+[07:23.680 --> 07:26.220]  Oh, yeah. Get fucking real.
+[07:26.340 --> 07:28.700]  I think the three other people were trying to stay out of this fight.
+[07:28.700 --> 07:30.060]  A hundred percent.
+[07:30.740 --> 07:31.420]  Zero fight.
+[07:32.060 --> 07:34.620]  No. But Geoff, you were in the recording.
+[07:34.700 --> 07:35.820]  What did you think? Did you have an opinion?
+[07:36.380 --> 07:38.500]  We did it so long ago, I couldn't remember.
+[07:38.940 --> 07:41.400]  I was out of town when you had this argument.
+[07:41.520 --> 07:42.360]  So I was on vacation.
+[07:43.440 --> 07:44.300]  And it wasn't an argument.
+[07:45.020 --> 07:46.040]  It seemed like an argument.
+[07:46.380 --> 07:47.540]  It wasn't an argument.
+[07:48.560 --> 07:49.420]  Eric had it.
+[07:49.520 --> 07:51.040]  Eric and Nick, how did you guys take it?
+[07:51.180 --> 07:52.200]  I vote it was an argument.
+[07:52.680 --> 07:53.480]  Yeah, absolutely.
+[07:53.700 --> 07:55.200]  I never viewed it as an argument.
+[07:55.600 --> 07:56.560]  That sounds like three votes.
+[07:56.740 --> 07:57.480]  It felt like one.
+[07:57.480 --> 08:02.280]  That the three vote system doesn't work in that context.
+[08:04.160 --> 08:05.980]  I only care about Gavin's vote.
+[08:06.040 --> 08:07.300]  Gavin, did you think we were arguing?
+[08:07.840 --> 08:10.980]  No, I just thought we were having a discussion about the video.
+[08:11.100 --> 08:13.780]  I just thought we're talking back and forth about like what that was.
+[08:14.360 --> 08:18.900]  But usually I don't chime in unless I feel like something's going to be missing.
+[08:19.180 --> 08:22.880]  Usually you don't chime in unless the shirt just came out or it's about to come out.
+[08:23.100 --> 08:24.960]  And it's too late to do anything about it.
+[08:24.960 --> 08:28.200]  I chimed in before the shirt came out and when it was about to come out.
+[08:29.000 --> 08:30.440]  Maybe I should chime in less.
+[08:30.740 --> 08:31.860]  Right. No, no, no.
+[08:32.000 --> 08:32.840]  Chime in is good.
+[08:33.560 --> 08:37.520]  OK, I think your timing maybe just needs some work, but that's it.
+[08:37.640 --> 08:42.740]  I will say it is nice to be on the outside of we is not me part two
+[08:42.740 --> 08:45.520]  and seeing just sort of like, that's pretty great.
+[08:45.800 --> 08:47.700]  It's not it's not just me.
+[08:47.780 --> 08:50.920]  I wrote we because if Andrew was like, oh, yeah, let's do it.
+[08:50.920 --> 08:51.900]  I would have just done it.
+[08:51.900 --> 08:56.500]  I will say when we this did just happen a couple of days ago
+[08:56.500 --> 09:00.160]  where we had a video that we recorded for the quiet place
+[09:01.060 --> 09:03.560]  and Andrew's footage died and he mentioned it.
+[09:03.640 --> 09:05.500]  And then Gavin was like, let's rerecord it.
+[09:05.540 --> 09:07.440]  And we all jumped in. We're like, let's rerecord it.
+[09:07.460 --> 09:09.200]  I'm ready to fucking go right now. Yeah.
+[09:09.420 --> 09:12.860]  So I feel like we've take we've learned from the from the first incident
+[09:12.860 --> 09:16.380]  and we've already applied that to the to the following incidents.
+[09:16.380 --> 09:19.020]  And it seems like we're on the right track going forward. Yeah.
+[09:21.300 --> 09:26.420]  I agree. I just don't see how I'm an idiot in this scenario.
+[09:27.020 --> 09:30.400]  I was fully on board to be I'm the fool.
+[09:30.620 --> 09:31.740]  I don't think I'm an idiot here.
+[09:32.300 --> 09:34.060]  Wait, you're a fool, but not an idiot.
+[09:34.260 --> 09:36.240]  No, I'm a general fool.
+[09:36.380 --> 09:40.160]  But I don't think what I did in this instance is an example of that.
+[09:40.440 --> 09:43.000]  He's a general fool, but not a specific idiot.
+[09:43.300 --> 09:46.140]  Yes. Terry Bradshaw said I may be stupid, but I'm not dumb.
+[09:46.440 --> 09:47.540]  Exactly. Yeah.
+[09:47.540 --> 09:51.440]  I was mainly fine with with the discussion.
+[09:51.580 --> 09:53.960]  I just like at the end, you're like, I haven't listened to it, though.
+[09:54.620 --> 09:56.240]  Oh, I never listened to any of it.
+[09:56.940 --> 09:59.380]  The first thing I listened to was that quiet place thing
+[09:59.380 --> 10:01.460]  because I was trying to sink it.
+[10:01.820 --> 10:04.080]  I'll just say there's a lot of chiming in for someone who hasn't listened.
+[10:11.720 --> 10:13.220]  Definitely feels like a fight to me.
+[10:13.400 --> 10:15.100]  That's what I'm saying. Not a fight.
+[10:15.240 --> 10:16.480]  I was just trying to be helpful.
+[10:16.880 --> 10:19.440]  Next time, if I haven't listened, I will not reply,
+[10:19.440 --> 10:21.700]  which means I will not reply to whatever the thing is.
+[10:21.840 --> 10:22.820]  Well, that's not helpful.
+[10:23.360 --> 10:27.580]  No, if you're a member, you're driving him away, Gavin.
+[10:29.200 --> 10:31.340]  Well, if listening is a prerequisite,
+[10:32.240 --> 10:34.260]  Andrew, would you feel better if Gavin apologized?
+[10:34.620 --> 10:36.760]  No, I don't. I'm sorry.
+[10:36.840 --> 10:38.860]  I shouldn't have written my note as Andrew's an idiot.
+[10:39.080 --> 10:43.000]  But I did want to bring up this frustrating interaction.
+[10:44.160 --> 10:46.500]  Maybe the note should have been I'm frustrated.
+[10:49.620 --> 10:52.080]  Those would be my only notes for this show.
+[10:53.840 --> 10:55.660]  My note would be weasel move.
+[10:57.120 --> 11:00.160]  Now, is the British weasel related to the British jackal?
+[11:00.340 --> 11:01.140]  I don't think so.
+[11:01.400 --> 11:03.400]  I don't see how it was weasel.
+[11:03.540 --> 11:07.580]  I because you didn't ignore the fact that you had this lined up.
+[11:07.720 --> 11:08.880]  You're at it. It was content.
+[11:09.120 --> 11:10.100]  I knew it was going to be content.
+[11:10.260 --> 11:13.880]  And then if I reacted and blew my reaction in the slack, it's not as good.
+[11:14.040 --> 11:16.020]  I wanted to give it to you right here.
+[11:16.020 --> 11:19.820]  A little ha, a little, little, just any, any form of interaction,
+[11:20.080 --> 11:22.720]  because I said all that and I was like, I guess Gavin just didn't.
+[11:22.840 --> 11:24.140]  Whatever. OK, weird.
+[11:24.860 --> 11:26.460]  Zero response from Gavin on that.
+[11:27.780 --> 11:29.860]  I don't know if that was weasel either.
+[11:30.760 --> 11:35.400]  The fact that you avoided it for to attempt to blindside me on the show
+[11:35.400 --> 11:36.420]  with Andrew's an idiot.
+[11:36.600 --> 11:39.180]  We save stuff all the time for the podcast, don't we?
+[11:39.220 --> 11:41.820]  Yeah, but the fact that it was Andrew's an idiot and I approached you
+[11:41.820 --> 11:43.800]  waving the idiot flag.
+[11:43.800 --> 11:44.500]  That's true.
+[11:46.800 --> 11:47.400]  That's true.
+[11:47.500 --> 11:50.640]  I came to you with the idiot flag and you didn't acknowledge it.
+[11:50.760 --> 11:52.520]  And then we're quiet for a few days.
+[11:52.620 --> 11:54.700]  And then you open with, I got a note.
+[11:54.780 --> 11:55.540]  Andrew's an idiot.
+[11:55.740 --> 11:58.740]  Hey, Andrew, remember that time you waved your idiot flag
+[11:58.740 --> 12:01.260]  and I didn't acknowledge it? Let's talk about it.
+[12:01.620 --> 12:01.960]  That's true.
+[12:02.000 --> 12:05.220]  Andrew did say to me in a in a private message.
+[12:05.240 --> 12:07.020]  Where's the screenshot of that?
+[12:08.640 --> 12:11.320]  Every single comment of the video version of Chewed Up
+[12:11.320 --> 12:12.900]  people wanting the perspective.
+[12:13.740 --> 12:16.080]  It's an army of you being right.
+[12:17.280 --> 12:19.340]  I immediately conceded.
+[12:19.480 --> 12:22.200]  I feel like we need to make an idiot flag
+[12:22.200 --> 12:24.560]  and then somebody has to have it at all times
+[12:24.560 --> 12:27.000]  and they have to have it behind them when we record.
+[12:27.220 --> 12:28.800]  And then it gets granted to the new idiot.
+[12:29.340 --> 12:32.180]  Yeah, it's like the reverse Tower of Pimps from Achievement Hunter.
+[12:32.840 --> 12:35.620]  It's going to suck to spend $40 every time you have to give it to Andrew.
+[12:37.020 --> 12:38.660]  No, it's just staying with me.
+[12:38.840 --> 12:39.580]  It's not going anywhere.
+[12:39.580 --> 12:40.780]  Permanently, I think.
+[12:40.920 --> 12:42.060]  Yeah, you know what, Andrew?
+[12:42.120 --> 12:43.600]  You immediately admitted it to me.
+[12:43.700 --> 12:45.880]  I didn't I didn't and seen the comments yet.
+[12:45.980 --> 12:49.940]  So I appreciate how you are ready to be wrong in my face.
+[12:50.980 --> 12:51.380]  What?
+[12:54.380 --> 12:56.940]  I listen, I'll be wrong in your face any day of the week.
+[12:57.140 --> 12:58.860]  So a lot of people would have kept quiet.
+[12:58.860 --> 12:59.860]  And I appreciate you.
+[13:00.040 --> 13:03.760]  Yeah, listen, I saw it and I knew I figured you might not see it.
+[13:03.800 --> 13:07.940]  So I went through the effort of making sure you knew, hey, this opinion
+[13:07.940 --> 13:09.820]  I had turned out was wrong.
+[13:09.980 --> 13:10.880]  It was the wrong opinion.
+[13:11.200 --> 13:11.860]  You're right.
+[13:13.960 --> 13:17.360]  Oh, but the next ones will have a video component.
+[13:17.700 --> 13:21.540]  Yeah. Although I deleted all my OBS settings in which I did that.
+[13:21.680 --> 13:22.740]  Or wait, no, Nick.
+[13:23.020 --> 13:24.420]  Nick, you were there, so I didn't need to.
+[13:24.540 --> 13:25.300]  Never mind. It's fine.
+[13:25.680 --> 13:25.840]  What?
+[13:26.700 --> 13:27.540]  We're all good.
+[13:30.380 --> 13:31.680]  I'm pretty sure you have it.
+[13:31.700 --> 13:33.360]  If not, it's uploaded and it's fine.
+[13:33.460 --> 13:34.000]  It doesn't matter.
+[13:34.200 --> 13:34.960]  It's in the past.
+[13:35.700 --> 13:36.920]  We recorded a lot of stuff.
+[13:36.920 --> 13:38.860]  Are you saying you deleted all your recordings?
+[13:39.540 --> 13:45.100]  No, I threw out all my OBS settings that I was using to capture my desktop.
+[13:45.600 --> 13:47.020]  But didn't you already capture the next two?
+[13:47.400 --> 13:49.180]  Yes. I captured one.
+[13:49.260 --> 13:50.200]  He did the other. Yes.
+[13:50.800 --> 13:51.260]  So you...
+[13:51.260 --> 13:55.240]  But I was referencing, I said, going forward, they will all be recorded.
+[13:55.540 --> 13:59.040]  And then I said, although I just deleted all my OBS settings.
+[13:59.560 --> 14:00.580]  Oh, I see.
+[14:00.700 --> 14:04.080]  It's a bit circuitous to get there, but I understand what you're saying now.
+[14:04.080 --> 14:05.980]  I understood immediately.
+[14:05.980 --> 14:07.140]  We're not recording now.
+[14:07.400 --> 14:09.020]  You still have time to set it up again.
+[14:09.300 --> 14:10.680]  Do you know what the words mean?
+[14:10.760 --> 14:11.400]  Going forward?
+[14:12.460 --> 14:15.180]  You said going forward, but I just deleted everything.
+[14:15.560 --> 14:19.160]  Yeah. Meaning that I will have to figure that out
+[14:19.160 --> 14:21.100]  before that is a thing that happens.
+[14:21.420 --> 14:23.040]  That doesn't affect the going forward.
+[14:23.120 --> 14:23.820]  There'll be video, though.
+[14:24.820 --> 14:29.280]  If I if I if I don't have any of the settings in which I recorded the video,
+[14:29.440 --> 14:31.100]  how am I going to record the video?
+[14:31.340 --> 14:32.420]  Because we'll set all that up.
+[14:32.540 --> 14:33.640]  We're not recording right now.
+[14:33.640 --> 14:34.940]  I set it up now.
+[14:36.720 --> 14:39.800]  OK. It was just a throwaway point is more.
+[14:40.180 --> 14:42.560]  I was just trying to make a little joke about how I had to delete
+[14:42.560 --> 14:45.580]  all that coincidentally today for a different thing.
+[14:46.940 --> 14:47.760]  Oh, my God.
+[14:47.940 --> 14:49.280]  I now I'm annoyed.
+[14:49.720 --> 14:53.220]  I for the record, Andrew, I'm 100% on your side in that interaction.
+[14:53.340 --> 14:54.820]  I totally got what you were saying.
+[14:55.480 --> 14:57.180]  Yeah, crazy. And so did Nick.
+[14:57.200 --> 15:00.620]  I don't know why Gavin got real pedantic real fast for for no reason there.
+[15:01.020 --> 15:02.780]  Now, I thought he was saying that you couldn't do it.
+[15:02.780 --> 15:04.800]  Yeah. No, I didn't understand right away.
+[15:04.800 --> 15:06.860]  And then and then he had then he parsed it out.
+[15:06.900 --> 15:09.860]  And I got I got there. I'm with I understand now.
+[15:09.920 --> 15:12.280]  Having a vote was understandable. Yes.
+[15:13.360 --> 15:14.600]  Yes. There we go. That's three.
+[15:14.760 --> 15:15.660]  That's all I needed. We're good.
+[15:15.820 --> 15:18.880]  Oh, that's how. Oh, that's the that's the three that you need.
+[15:18.960 --> 15:20.340]  OK, I see. Yeah.
+[15:20.580 --> 15:22.900]  Yeah. You you Gavin team weasel down there.
+[15:23.240 --> 15:28.260]  I mean, I will say, I mean, the whole we is not me.
+[15:28.440 --> 15:30.880]  And then somebody else was like some kind of animal.
+[15:30.880 --> 15:34.460]  Like, I mean, I was really on the outside looking in, man.
+[15:35.640 --> 15:38.560]  Oh, yeah, I like when we just had a really pleasant
+[15:38.560 --> 15:40.220]  let's play recording where we weren't arguing.
+[15:40.360 --> 15:41.160]  We're having a ton of fun.
+[15:41.200 --> 15:42.660]  And then we came in hot to this one somehow.
+[15:43.740 --> 15:45.620]  Somehow. What do you mean somehow?
+[15:45.880 --> 15:49.360]  Your opening note was Andrew's an idiot somehow.
+[15:51.300 --> 15:56.700]  You put the the fucking directions into the car, drove there and said,
+[15:56.740 --> 15:58.840]  I don't know how we got here somehow.
+[15:59.800 --> 16:01.500]  How did that happen?
+[16:01.600 --> 16:03.100]  It's like you called the Uber asshole.
+[16:04.020 --> 16:08.720]  Oh, God, you went to the destination you wanted.
+[16:09.560 --> 16:15.080]  Andrew, do you by any chance have any notes that say anything like fuck Gavin
+[16:15.080 --> 16:19.460]  or Gavin comma weasel or anything along those lines?
+[16:20.420 --> 16:23.740]  I don't. I got carrot juice, which I'm not happy about.
+[16:24.420 --> 16:25.600]  I bought some to try later.
+[16:25.700 --> 16:27.760]  No, I bought some to try later on the show.
+[16:27.760 --> 16:29.020]  But you don't have to do it.
+[16:29.180 --> 16:31.260]  Why wait? Oh, man.
+[16:31.320 --> 16:34.660]  But that'll be so unpleasant for the we're just starting this recording.
+[16:34.840 --> 16:38.960]  Yeah, no, I understand what I just said. Yes. Yeah. OK.
+[16:44.940 --> 16:47.260]  Do you think he's going to be able to see in the dark or what's going to happen?
+[16:48.560 --> 16:49.720]  100 percent carrot.
+[16:50.220 --> 16:55.240]  OK. 322 percent daily value of vitamin A.
+[16:55.580 --> 16:57.840]  Why? Why this many?
+[16:58.320 --> 16:59.860]  Which one is A? What does that do for you?
+[16:59.900 --> 17:00.660]  I don't know.
+[17:02.000 --> 17:03.500]  Perishable, keep refrigerated.
+[17:04.360 --> 17:05.860]  Anything else interesting on here?
+[17:06.900 --> 17:08.860]  Feel good about what's in this bottle.
+[17:09.000 --> 17:11.220]  I don't. Vitamin A is retinol.
+[17:12.480 --> 17:14.060]  Uh. Oh, good for eyeballs.
+[17:14.880 --> 17:16.980]  Good eyesight. Uh.
+[17:18.280 --> 17:19.360]  Yeah, it's all for the eyes.
+[17:19.560 --> 17:20.600]  It's an antioxidant.
+[17:20.680 --> 17:21.600]  It's good for your hair and skin.
+[17:21.780 --> 17:23.200]  And it boosts immunity. Oh, no.
+[17:23.560 --> 17:24.780]  And teeth and reproduction.
+[17:25.160 --> 17:25.880]  This is great, Andrew.
+[17:25.920 --> 17:27.460]  You don't have to eat fish for the rest of the day.
+[17:27.720 --> 17:29.060]  I'm not an oxidant guy.
+[17:29.140 --> 17:30.280]  I don't trust oxidants.
+[17:30.800 --> 17:31.860]  That's why you want anti-oxidants.
+[17:31.860 --> 17:34.160]  I know, so you want all of this because they're anti that.
+[17:34.660 --> 17:35.600]  Any ox... well, no.
+[17:35.680 --> 17:37.360]  Anything that says oxidant, I don't like.
+[17:38.060 --> 17:39.380]  You're anti-antioxidant?
+[17:39.600 --> 17:41.920]  I'm just any use of oxidant.
+[17:42.040 --> 17:42.780]  I'm not a fan of it.
+[17:43.020 --> 17:45.440]  Yeah, no. So he's not anti-antioxidant.
+[17:45.540 --> 17:47.280]  He's anti-oxidant.
+[17:47.880 --> 17:50.020]  If I see oxidant, I know I'm not going to like it.
+[17:50.940 --> 17:53.160]  Well, what you're seeing is the absence of oxidant.
+[17:53.900 --> 17:55.620]  You might be pro-oxidant.
+[17:55.700 --> 17:56.420]  You don't even know.
+[17:57.160 --> 17:59.880]  This just smells like carrot, which I don't know what it is.
+[18:00.280 --> 18:02.300]  It's 100% carrot.
+[18:02.760 --> 18:03.380]  Imagine opening it.
+[18:03.460 --> 18:04.300]  It's not like apples.
+[18:04.580 --> 18:06.120]  Oh, that would be awesome.
+[18:06.440 --> 18:07.300]  I'd be all about that.
+[18:08.060 --> 18:09.760]  Oh, what are the ingredients to this thing?
+[18:10.020 --> 18:10.940]  Probably carrot juice.
+[18:11.100 --> 18:12.320]  I got it. I got a couple of guesses.
+[18:13.820 --> 18:15.280]  Can't be all carrot.
+[18:15.780 --> 18:18.620]  It's 11 and a half carrots in this bottle.
+[18:19.500 --> 18:21.540]  It says 11 and a half.
+[18:22.800 --> 18:23.320]  Crazy.
+[18:24.580 --> 18:27.000]  Holy shit, I could chug 11 carrots.
+[18:27.320 --> 18:28.180]  I'm not doing that.
+[18:28.740 --> 18:29.380]  Wait a second.
+[18:30.160 --> 18:31.140]  Veggies per bottle?
+[18:32.020 --> 18:33.320]  Three and a half?
+[18:33.680 --> 18:35.760]  Three and a half bottles of servings?
+[18:37.180 --> 18:37.860]  Where is the...
+[18:37.860 --> 18:39.420]  So you're about to have three servings of carrot?
+[18:41.180 --> 18:42.980]  Probably a quarter of a serving.
+[18:43.440 --> 18:45.220]  Dude, your eyesight's about to blast off.
+[18:45.660 --> 18:47.580]  Why wouldn't you have the whole thing? It's good for you.
+[18:47.880 --> 18:48.800]  Well, this, uh.
+[18:49.960 --> 18:51.280]  This, what day is it today?
+[18:51.400 --> 18:52.540]  It expires tomorrow.
+[18:53.460 --> 18:55.820]  So we're just sneaking in on this.
+[18:55.820 --> 18:58.720]  Is it true that baby carrots are just a cut up carrot?
+[18:59.080 --> 19:00.320]  Yeah, I believe that is true. Yes.
+[19:00.580 --> 19:00.900]  Hmm.
+[19:02.640 --> 19:04.480]  Not seeing the ingredients, which is a little.
+[19:04.820 --> 19:05.780]  I think it's just carrot, man.
+[19:06.380 --> 19:07.820]  Carrot juice. Yeah, that's it.
+[19:07.880 --> 19:08.620]  That's all the ingredient.
+[19:08.880 --> 19:09.380]  OK, here we go.
+[19:11.940 --> 19:14.180]  What if we discover that Andrew loves carrots?
+[19:14.580 --> 19:15.380]  I think we're about to.
+[19:15.800 --> 19:17.020]  Is he going to chug the whole thing?
+[19:17.420 --> 19:18.940]  No, he doesn't. He doesn't have the guts.
+[19:19.700 --> 19:20.160]  You know what?
+[19:21.440 --> 19:22.320]  You like it.
+[19:23.220 --> 19:23.840]  Like it.
+[19:24.360 --> 19:25.080]  You like it.
+[19:25.640 --> 19:26.680]  You know what else is orange?
+[19:26.860 --> 19:30.740]  Garfield, a lot of good orange things in your life.
+[19:31.500 --> 19:32.580]  Andrew, where'd you go?
+[19:35.520 --> 19:37.100]  OK, I got to say,
+[19:38.520 --> 19:40.300]  I don't know how to feel about this.
+[19:41.620 --> 19:42.580]  This is.
+[19:43.540 --> 19:44.720]  This is baffling.
+[19:45.540 --> 19:49.680]  I, as I said, was traumatized by carrot juice as a child.
+[19:50.160 --> 19:55.480]  Uh, I'm beginning to wonder if maybe it was like a vegetable mixed juice
+[19:55.480 --> 19:59.060]  and it wasn't just pure carrot because this just tastes like carrot.
+[19:59.480 --> 20:00.840]  This is no liquid.
+[20:00.920 --> 20:01.900]  What? It's a carrot.
+[20:02.360 --> 20:04.460]  I Geoff, Geoff, do something.
+[20:06.560 --> 20:09.740]  Uh, I'm not kind of at a loss as to what to do here.
+[20:10.180 --> 20:11.260]  It's just carrot.
+[20:11.400 --> 20:15.340]  Like, I don't know how you expected it to be anything other than just carrot.
+[20:15.500 --> 20:16.820]  You even read the ingredients.
+[20:16.820 --> 20:20.080]  You were traumatized by some sort of vegetable medley.
+[20:20.460 --> 20:22.540]  I think so. I think it may have been a medley.
+[20:22.900 --> 20:27.840]  And it has clouded my vision of just straight carrot juice.
+[20:28.360 --> 20:30.700]  Now, would I excitedly buy this?
+[20:31.260 --> 20:34.320]  No. What happened with the what you choked on it or something?
+[20:35.060 --> 20:36.340]  I was trying to chug it.
+[20:36.400 --> 20:37.440]  And it's a lot to chug.
+[20:37.580 --> 20:39.460]  It was I didn't get far.
+[20:39.640 --> 20:41.720]  No, I mean, why were you traumatized by what you thought was carrot?
+[20:41.900 --> 20:44.880]  Oh, because I I was I thought it was going to be like a juice.
+[20:44.880 --> 20:46.680]  Like, oh, yeah, it tasted sweet.
+[20:47.140 --> 20:49.120]  And yeah, it was a vegetable.
+[20:51.840 --> 20:54.780]  That's that's not unpleasant at all.
+[20:55.140 --> 20:56.940]  As someone who loves carrots.
+[20:57.280 --> 20:59.140]  So you could do it every day in November?
+[21:00.280 --> 21:01.360]  I could.
+[21:01.920 --> 21:04.100]  As someone who loves carrots.
+[21:04.260 --> 21:06.860]  These carrots are not bad, is what you just said.
+[21:07.160 --> 21:08.140]  That's true.
+[21:08.840 --> 21:11.940]  I just expected it as a liquid to taste different.
+[21:11.940 --> 21:15.320]  As someone who loves carrots, I didn't expect to like carrots.
+[21:15.900 --> 21:19.620]  Well, you know, sometimes when you break something down into a juice form,
+[21:19.660 --> 21:21.160]  it's not it doesn't taste the same.
+[21:21.260 --> 21:23.520]  Yeah. Liquid bacon's not the same as crispy bacon.
+[21:23.620 --> 21:24.240]  I got it.
+[21:25.300 --> 21:26.140]  And it's true.
+[21:26.440 --> 21:27.320]  I just don't know.
+[21:27.340 --> 21:30.600]  Like this thinking is like, I just don't know what you I don't know.
+[21:30.640 --> 21:31.480]  I just don't understand.
+[21:32.460 --> 21:33.380]  I think I may.
+[21:34.480 --> 21:37.360]  Well, first of all, as I said, I think it was a vegetable medley.
+[21:37.360 --> 21:43.980]  And I think there may be a little bit of that child still in me of vegetables
+[21:43.980 --> 21:47.840]  are gross, like vegetable juice is gross
+[21:49.740 --> 21:51.640]  without actually processing that.
+[21:51.740 --> 21:52.800]  No, it's just the thing you like.
+[21:52.900 --> 21:53.340]  You're an adult.
+[21:53.420 --> 21:54.820]  You enjoy you enjoy carrots.
+[21:55.000 --> 21:55.720]  You enjoy vegetables.
+[21:56.360 --> 21:57.240]  This isn't bad.
+[21:57.360 --> 21:58.900]  This is a lot to take in, though.
+[21:59.800 --> 22:01.600]  I couldn't imagine chugging this.
+[22:02.300 --> 22:03.660]  Well, how big how big is it?
+[22:03.660 --> 22:06.100]  It's only 450 milliliters,
+[22:06.240 --> 22:09.600]  but it feels dense when you're consuming thick.
+[22:09.740 --> 22:12.320]  I don't think that most people do chug it.
+[22:12.440 --> 22:13.180]  I can't imagine.
+[22:13.280 --> 22:15.500]  I wouldn't say that that's the preferred way to drink it.
+[22:15.600 --> 22:17.620]  It's probably a sipper, you know?
+[22:18.000 --> 22:21.640]  Yeah, it it's really throwing me off now.
+[22:21.700 --> 22:23.740]  I kind of want to see who could chug carrot.
+[22:23.840 --> 22:25.540]  No, I'll fuck you guys up.
+[22:25.680 --> 22:26.420]  Yeah, you will.
+[22:26.780 --> 22:27.880]  Of course, dude.
+[22:27.880 --> 22:28.720]  I love vegetables.
+[22:28.940 --> 22:30.920]  I'm not I love any.
+[22:30.920 --> 22:34.500]  You could drink half a liter of liquid carrot.
+[22:34.800 --> 22:36.040]  I don't see I don't see why not.
+[22:36.680 --> 22:38.200]  Oh, I'd like to try.
+[22:38.680 --> 22:39.220]  I'd like to try.
+[22:39.300 --> 22:43.180]  Next time we get together to set stuff on fire with the incense,
+[22:43.300 --> 22:44.560]  maybe we'll drink some carrot juice.
+[22:45.160 --> 22:47.260]  Have we talked about the incense thing on a podcast yet?
+[22:47.620 --> 22:49.360]  Yeah, extensive.
+[22:50.380 --> 22:51.720]  Nick said no, Andrew said yeah.
+[22:52.200 --> 22:52.600]  Oh, really?
+[22:52.720 --> 22:53.860]  That wasn't part of the show.
+[22:54.340 --> 22:55.060]  I never know.
+[22:55.080 --> 22:56.960]  I guess, you know, listen, I'm wrong.
+[22:57.040 --> 22:58.160]  If Nick says no, he's right.
+[22:58.760 --> 22:59.720]  What is the incense thing?
+[23:00.280 --> 23:02.660]  Eric, wait, you don't know what we're talking about.
+[23:03.300 --> 23:05.540]  I'm trying to set it up for you to explain to the audience.
+[23:05.860 --> 23:06.160]  That was perfect.
+[23:06.180 --> 23:08.480]  That was a perfect set up that I just spiked in the ground.
+[23:08.580 --> 23:10.680]  Sorry, that was a really good set up.
+[23:10.720 --> 23:11.620]  Andrew, you did a great job.
+[23:12.980 --> 23:15.320]  Yeah, I realized what you were doing as I was talking.
+[23:16.880 --> 23:18.280]  And Gavin's got it in for you today.
+[23:18.880 --> 23:21.020]  Eric came in hot and said that
+[23:21.920 --> 23:24.500]  there's no way an incense stick could start a fire.
+[23:24.760 --> 23:25.100]  I agree.
+[23:26.600 --> 23:31.700]  It's it's going to like melt your synthetic carpet, but you're not going to.
+[23:32.400 --> 23:35.040]  We talked about this because I was talking about like lighting incense
+[23:35.040 --> 23:38.920]  the other day or whatever, because your room smells like cat shit piss or whatever.
+[23:39.220 --> 23:41.480]  Yeah, but I didn't want to because the cats would knock it over.
+[23:41.600 --> 23:42.320]  And yeah, yeah.
+[23:42.340 --> 23:45.500]  And then and then it was and then I think we said, like, what are you worried about?
+[23:45.500 --> 23:46.420]  Like it catching on fire?
+[23:46.440 --> 23:47.060]  And you said, yeah.
+[23:47.140 --> 23:49.220]  And then Nick would. Yeah, it catch on fire.
+[23:49.380 --> 23:51.100]  And I'm not. No, it's not.
+[23:51.720 --> 23:54.260]  I don't think it would catch on fire.
+[23:54.260 --> 23:57.580]  So we're going to get together at our next live recording
+[23:57.580 --> 24:02.840]  and we're going to try to build fire all a fucking survivor.
+[24:03.300 --> 24:06.240]  But with incense and see if we can catch anything on fire.
+[24:06.360 --> 24:07.680]  But it's a constant ember.
+[24:07.940 --> 24:11.740]  It if it just sat in carpet for like 10 seconds, surely it would burn the carpet.
+[24:12.000 --> 24:13.540]  We'll find out. It will melt the carpet.
+[24:13.680 --> 24:14.760]  It's I don't think it's going to start a fire.
+[24:15.440 --> 24:16.500]  Melt? What do you mean melt?
+[24:17.400 --> 24:18.660]  Let's find out.
+[24:19.300 --> 24:20.220]  Yeah, this is all.
+[24:20.600 --> 24:22.520]  When do we get what are you guys doing next Friday?
+[24:23.920 --> 24:24.240]  Oh.
+[24:25.760 --> 24:27.000]  Setting the carpet on fire, I guess.
+[24:27.060 --> 24:28.500]  Let's get some carpet and set it on fire.
+[24:28.820 --> 24:30.500]  Nick's out of the office, so he won't even get to play.
+[24:31.320 --> 24:32.680]  Oh, rats. You'll be fine.
+[24:34.220 --> 24:34.980]  Speaking of rats.
+[24:35.280 --> 24:38.640]  I got some supplemental content I want to pitch you guys a little bit.
+[24:39.060 --> 24:40.700]  What? What is that?
+[24:40.820 --> 24:42.420]  Speaking of rats, I have some supplemental content.
+[24:42.420 --> 24:44.060]  No, no, no, I know, but what it like?
+[24:44.700 --> 24:48.500]  What do you mean? What rat related content is not getting?
+[24:48.980 --> 24:52.300]  I have two rat related ideas in addition to two other ideas.
+[24:52.300 --> 24:55.620]  Andrew heard that there's rat content and he got sick of the weasel and he's fucking done.
+[25:00.540 --> 25:03.520]  Oh, do you think the carrots? Andrew, did the carrots take you out?
+[25:04.400 --> 25:04.720]  Andrew?
+[25:05.180 --> 25:06.700]  I'm back. Sorry about that. My internet dropped.
+[25:07.840 --> 25:09.380]  We thought maybe the carrots took you down.
+[25:09.680 --> 25:10.960]  Yeah, we assumed it was carrot related.
+[25:11.140 --> 25:15.420]  But to sum it up and just to, you know, people are going to post.
+[25:15.740 --> 25:16.880]  Here's the thing, like Nick did.
+[25:17.100 --> 25:20.360]  Here's the thing online that said don't light this on fire because it'll start a fire.
+[25:20.360 --> 25:22.780]  Yeah, things on fire can start a fire.
+[25:23.360 --> 25:26.400]  When you burn an incense and then you blow it out.
+[25:26.520 --> 25:30.000]  So that way it just goes and it's just like the little wafts of smoke.
+[25:30.120 --> 25:31.360]  That's not going to set anything on fire.
+[25:31.660 --> 25:33.680]  Where do you think the wafts of smoke come from? It's an ember.
+[25:34.040 --> 25:41.460]  And listen, and the reason I back Eric up here is because I can't light incense on fire with incense and it's designed to burn.
+[25:41.780 --> 25:43.340]  There's no way. There's no way.
+[25:43.480 --> 25:47.180]  You can't hold incense to incense and make incense catch on fire when incense is already on fire.
+[25:47.180 --> 25:52.260]  So I'm excited to test this out and I'll be happy to be wrong if I am, but I don't think Eric and I are wrong.
+[25:52.520 --> 25:56.280]  If you, if you hold incense to petrol, do you think it'll burn?
+[25:58.700 --> 26:00.820]  Hold incense to, oh, to like gasoline?
+[26:01.140 --> 26:02.120]  Yeah, puddle of gasoline.
+[26:03.980 --> 26:11.140]  Uh, I, I don't know. I don't, like, that seems what an insane thing to have in your house, I guess.
+[26:12.540 --> 26:12.940]  Perfect!
+[26:13.320 --> 26:16.020]  Here's my bucket of gas and I put it right next to my incense.
+[26:16.020 --> 26:16.840]  You did what?
+[26:17.780 --> 26:20.080]  If it's, if it's not burning, then what's the problem?
+[26:20.860 --> 26:25.300]  No, I'm saying it's not hot enough to catch like your normal room on fire.
+[26:27.500 --> 26:30.360]  I don't think that I'm out of line here at all.
+[26:30.700 --> 26:31.420]  I don't think it's...
+[26:32.000 --> 26:39.340]  I don't think, I think that if you are keeping your incense next to your gasoline, you shouldn't be, you shouldn't throw your hat in the ring for this one.
+[26:39.820 --> 26:41.980]  Well, I'm pulling out of this conversation.
+[26:42.600 --> 26:46.840]  Don't store gasoline and incense next to each other. Everybody knows that.
+[26:46.900 --> 26:49.820]  You probably don't store gasoline for very long anyway.
+[26:50.360 --> 26:51.880]  Well, if you want to wait for the price to come down.
+[26:52.440 --> 26:53.920]  Yeah, yeah, yeah, it's true. Put it in buckets.
+[26:54.100 --> 26:54.880]  What do you do with your old gas?
+[26:55.560 --> 26:56.360]  I just drink it down.
+[26:57.480 --> 26:59.500]  With the carrot juice? Mix it with carrot juice?
+[27:00.040 --> 27:06.860]  Yeah, mix it with carrot juice. I get my, I get my, get my vitamin A and my vitamin G, gasoline, all in one place.
+[27:07.000 --> 27:07.800]  Is it still antioxidant at that point?
+[27:08.380 --> 27:10.240]  Oh, no, it's, it's pure oxidant.
+[27:10.240 --> 27:11.600]  Oh, fuck yeah, okay.
+[27:11.800 --> 27:12.720]  Yeah, yeah, yeah.
+[27:13.320 --> 27:18.000]  So, Eric, if you feel strong about this, would you, say you left your house for an hour, and I'm in there.
+[27:18.340 --> 27:18.500]  Okay.
+[27:18.580 --> 27:24.280]  And I've got like a hundred incense sticks, and I'm just lighting them and blowing them out and flinging them all over. Would you be fine with that?
+[27:25.040 --> 27:27.140]  Yeah, I don't, I don't think it's going to catch anything on fire.
+[27:27.400 --> 27:28.300]  Oh, wow, okay.
+[27:29.200 --> 27:30.980]  I was not expecting you to say yeah.
+[27:32.180 --> 27:32.540]  Okay.
+[27:33.840 --> 27:37.740]  I'll be, like, wigging them at the curtains, into the kitchen, towels.
+[27:37.740 --> 27:50.420]  I'm not sure, I'm not sure why you would be doing this, or what scenario this would exist in, because I'm talking about a real practical scenario, where you light incense, put it on your little shelf, and then have it be incense in a room.
+[27:50.520 --> 27:52.600]  And then a cat knocks it over, and then your whole house burns down.
+[27:52.820 --> 27:55.840]  I think what Eric is saying is that's never, ever, ever going to happen.
+[27:56.180 --> 27:57.180]  Yeah, that's it.
+[27:58.420 --> 28:03.260]  The fact that he needs a hundred incense to burn your house down makes me feel like he doesn't even believe in your argument.
+[28:05.020 --> 28:05.840]  That's a lot of incense.
+[28:05.840 --> 28:12.020]  Here's what I need. I need a drum of gasoline, a hundred cats, and a thousand incense sticks.
+[28:15.180 --> 28:17.240]  Nick is typing when he can just talk.
+[28:18.100 --> 28:18.420]  Yeah!
+[28:20.980 --> 28:22.120]  Great podcasting, bud!
+[28:22.540 --> 28:24.020]  He does it all the time, he types.
+[28:24.320 --> 28:24.540]  He does.
+[28:25.260 --> 28:27.440]  He is in this argument.
+[28:28.200 --> 28:28.780]  That is true.
+[28:29.320 --> 28:31.140]  If he gets all the way in, he has to lean forwards, though.
+[28:31.260 --> 28:33.560]  Yeah, and he's in this argument.
+[28:33.560 --> 28:35.500]  My back's bad now, you know?
+[28:38.100 --> 28:39.380]  Whose side is Nick on?
+[28:40.140 --> 28:40.740]  I'm on your side.
+[28:40.900 --> 28:41.160]  Thanks.
+[28:41.780 --> 28:42.920]  Yeah, you're right.
+[28:45.700 --> 28:51.500]  Gavin's just testing to see what level it will take for you to actually change your side.
+[28:51.780 --> 28:57.460]  If you leave an incense stick on fire and then just leave, that's probably not good.
+[28:57.940 --> 29:02.800]  If you light an incense stick on fire and go, and blow out the fire of it...
+[29:02.800 --> 29:05.860]  Look, I can already see the Reddit comments on this whole thing.
+[29:05.980 --> 29:09.680]  I'm not worried about it, I have my incense, I'm not lighting my house on fire with it.
+[29:09.840 --> 29:12.760]  I hate to see Team Weasel turn on themselves so quickly.
+[29:13.100 --> 29:19.960]  I will say, I have lit incense every night in my house, probably since the day I met Emily,
+[29:20.120 --> 29:23.840]  because she's big into incense, and when she gets home, you know, she works late at the salon,
+[29:23.960 --> 29:27.780]  and so when she comes home, I like to have the house all smelling and looking good for her,
+[29:28.080 --> 29:29.900]  and so I always light a little bit of incense for her.
+[29:29.900 --> 29:37.020]  And every day of my life for probably seven years, and I have never had even close to an errant issue
+[29:37.020 --> 29:43.000]  with incense setting anything on fire, or getting out of control, or being dangerous in any way whatsoever.
+[29:43.200 --> 29:44.920]  Out of control. This incense is fucking out of control!
+[29:45.440 --> 29:46.820]  This incense is out of control.
+[29:50.200 --> 29:54.200]  But I want to go back to what... I want to know what Geoff's rat content is.
+[29:54.200 --> 30:01.660]  Oh! Yeah, so I came... I went into the lab the other day. I felt like it had been a minute since I'd come up with some new ideas,
+[30:02.460 --> 30:07.540]  and I've been thinking a lot about supplemental, I've been thinking a lot about getting out and doing stuff in the world,
+[30:07.680 --> 30:10.700]  and so I came up with a couple of ideas I wanted to pitch you guys on today.
+[30:10.780 --> 30:16.040]  The first one, I like. I think Eric will not like it specifically, and I think we won't do it.
+[30:16.260 --> 30:18.560]  In much the same way you guys won't let me do the tombstone one.
+[30:18.760 --> 30:21.200]  But that's okay, because maybe somebody will make a video game out of it.
+[30:21.200 --> 30:26.320]  You guys know I want to go do a show where we walk around the mall, right?
+[30:26.400 --> 30:32.460]  I wanted to call it Mallwalkers. Everybody on Earth let me know there's another show called Mallwalkers where people do that.
+[30:32.900 --> 30:37.180]  We won't call it Mallwalkers, but guess what? Other people play GTA. We still play GTA.
+[30:37.500 --> 30:41.180]  We're allowed to go fucking to a mall and record ourselves. We'll probably still do it in some fashion.
+[30:41.620 --> 30:47.500]  But that got me thinking maybe we'll tweak the idea a little bit, although I do just think us walking around the mall is a phenomenal idea,
+[30:47.520 --> 30:48.760]  and I'm still on board for it.
+[30:48.760 --> 30:51.620]  But I got to thinking, what if we just call it something different, like Mallrats?
+[30:51.700 --> 30:57.180]  And I was like, oh, I love that phrase, but then that's like a Kevin Smith thing, and I think he's making a sequel to Mallrats, even maybe.
+[30:57.380 --> 31:01.220]  And so I don't want to be caught up in the middle of that, so I was thinking like Mallbrats, right?
+[31:01.260 --> 31:06.520]  Because that's like a play on Mallrats, but Bratsummer's over, and I don't want to relive that.
+[31:07.240 --> 31:13.880]  So what if instead we have a show where we all go around the mall, and I get one of those rubber mallrats,
+[31:13.880 --> 31:18.380]  one of those rubber rats, and I hide it somewhere in the mall, and then we play rat mall.
+[31:18.800 --> 31:22.140]  And then everybody goes around the mall, and you try to find the rat I hid in the mall.
+[31:23.700 --> 31:24.420]  Rat mall!
+[31:25.280 --> 31:26.140]  Rat mall!
+[31:27.700 --> 31:30.260]  Gavin, any thoughts on rat mall?
+[31:30.700 --> 31:31.360]  Sign me up!
+[31:32.760 --> 31:34.540]  Oh, I knew Gavin was on board from the jump.
+[31:35.100 --> 31:36.300]  I'll play rat mall!
+[31:36.800 --> 31:41.020]  And I was just thinking how much fun it would be if there was unintended consequences,
+[31:41.020 --> 31:45.600]  like people thought the rat was real, or security finds it, you know, and they're like,
+[31:45.660 --> 31:49.400]  what the fuck is this rubber rat? Is it a prank? But it's not a prank, it's just us playing a game.
+[31:49.900 --> 31:52.020]  I foresee a lot of unintended hilarity.
+[31:52.640 --> 31:57.340]  I also, man, I want somebody else to hide it so you can play rat mall, Geoff.
+[31:57.640 --> 32:03.900]  Yeah, maybe we'll get Emily or somebody, or anybody's wife or friend can come out and hide it for us,
+[32:03.940 --> 32:05.240]  and then we can all play rat mall together.
+[32:05.400 --> 32:08.180]  I think you should have to have somebody in the mall hide it for you.
+[32:08.180 --> 32:13.720]  You hand a guy his cell locker a rat? Hey, do something about this.
+[32:13.920 --> 32:15.580]  We need an inside person, yeah.
+[32:16.220 --> 32:18.100]  Okay, so that's my first idea. Rat mall.
+[32:18.520 --> 32:20.200]  Can we wear exterminator clothes?
+[32:20.740 --> 32:21.500]  I think we should.
+[32:22.160 --> 32:27.280]  I think you can dress however it makes you feel like you are best at finding the rat.
+[32:27.760 --> 32:32.360]  I want to come up with my own pest control company and get a logo made and wear a big...
+[32:32.360 --> 32:36.020]  I know what Nick will be wearing. He'll be wearing a big pair of red boots.
+[32:36.020 --> 32:37.140]  That's right!
+[32:38.200 --> 32:43.040]  Okay, here's my second idea I want to hit you guys with. I like this idea better than the first idea.
+[32:43.180 --> 32:46.040]  I've been thinking a lot about the past. I've been reminiscing a little bit.
+[32:46.500 --> 32:52.860]  And one of my favorite productions I ever made when we were doing Achievement Hunter back in the day
+[32:52.860 --> 32:55.980]  was this show I made called Sunday Driving.
+[32:56.380 --> 32:59.620]  And what that show was is essentially what I did already.
+[32:59.840 --> 33:02.100]  It's an old-timey thing that people used to do back in the day.
+[33:02.180 --> 33:04.400]  They would just go Sunday Driving back when cars were novel.
+[33:04.820 --> 33:08.320]  And you would just drive around and enjoy the weather and listen to music or whatever.
+[33:08.760 --> 33:12.380]  And so in Grand Theft Auto, I had this game that we would do.
+[33:12.980 --> 33:14.420]  I don't know. I guess it wasn't really a game.
+[33:14.420 --> 33:19.160]  But this video we would do where I would drive around and I would pick somebody up on the street, like say Gavin.
+[33:19.760 --> 33:21.520]  And then we would just start talking and have a conversation.
+[33:21.620 --> 33:24.960]  Then we'd go look for somebody else and eventually we'd find Andrew and pick him up.
+[33:24.960 --> 33:27.040]  And then find Eric or whatever.
+[33:27.100 --> 33:29.660]  And just go through the whole thing and make a video out of it and we're just talking.
+[33:29.660 --> 33:34.640]  And then the conversation flows interestingly because you're adding people to it as it goes.
+[33:34.980 --> 33:37.220]  And I was thinking about how much fun that was.
+[33:37.300 --> 33:38.560]  We've been back in GTA.
+[33:39.000 --> 33:41.240]  We've been kicking the tires on GTA quite a bit.
+[33:41.320 --> 33:43.200]  But I thought, why do that in GTA?
+[33:43.420 --> 33:45.060]  Why not do it in real life?
+[33:45.240 --> 33:51.900]  What if you guys go downtown in Austin in like a five or a six-mile radius and just stand on street corners?
+[33:52.240 --> 33:55.100]  And maybe one of you gives me like an address location.
+[33:55.280 --> 33:57.600]  And I just have to drive and pick up like say Eric.
+[33:57.600 --> 34:00.740]  And then Eric and I have to figure out how to navigate to Gavin and Nick.
+[34:00.840 --> 34:02.620]  And we just have a conversation while we do it.
+[34:02.680 --> 34:07.060]  And then once we're all in the car, we go get ice cream or hot dogs or something.
+[34:07.480 --> 34:08.200]  I love it.
+[34:08.400 --> 34:10.780]  We do Sunday driving in real life on a Sunday.
+[34:10.940 --> 34:14.340]  And everyone you pick up has the clue to the next person.
+[34:14.460 --> 34:15.820]  Yeah, that's like something like that.
+[34:15.880 --> 34:17.860]  So we gamify it a little bit.
+[34:17.940 --> 34:20.560]  But the point of it is the conversation and the journey.
+[34:20.560 --> 34:22.340]  Not necessarily like winning.
+[34:22.520 --> 34:23.760]  So we don't want to make it too hard.
+[34:23.760 --> 34:26.860]  But I like the idea of there being kind of stakes and us trying to figure.
+[34:27.000 --> 34:31.460]  I feel like that would be more fun than just GPSing to somebody, you know?
+[34:31.620 --> 34:32.580]  Yeah, definitely.
+[34:33.140 --> 34:36.340]  I think no maps is a really fun way to do that too.
+[34:36.820 --> 34:40.600]  With like just like trying to figure out what streets everything is on.
+[34:40.760 --> 34:41.240]  I think it's great.
+[34:41.520 --> 34:41.760]  Yeah.
+[34:41.840 --> 34:43.800]  And then like I was thinking we could dash cam that.
+[34:43.940 --> 34:49.380]  But also, if you don't want to, because I'm also cognizant of not wanting to step on toes.
+[34:49.380 --> 34:54.160]  I know 100%Eat does a thing where you guys record yourselves from the dash cam.
+[34:54.480 --> 34:56.200]  And so I wouldn't want to appear too similar to that.
+[34:56.460 --> 35:01.820]  So another idea I had, if we don't want to do it that way, is then we could go back and cam it in GTA.
+[35:03.100 --> 35:04.860]  Camming it in GTA would be insane.
+[35:05.640 --> 35:07.480]  That is so much extra work.
+[35:07.580 --> 35:09.140]  I'd rather just film it.
+[35:09.360 --> 35:11.360]  What an insane amount of work that is.
+[35:11.600 --> 35:13.400]  I don't think it is an insane amount of work.
+[35:13.540 --> 35:15.060]  I think we just listen to it.
+[35:15.100 --> 35:17.360]  And then we just all play GTA while we listen to it.
+[35:17.360 --> 35:20.420]  We would just machinimate it as a big one.
+[35:20.600 --> 35:23.900]  And then think about how realistic the audio would sound.
+[35:24.080 --> 35:25.800]  That is crazy.
+[35:26.200 --> 35:27.300]  That's crazy.
+[35:27.940 --> 35:28.420]  Wow.
+[35:29.040 --> 35:37.100]  Either way we do it, I think a real life slash real life and GTA Sunday driving would be a lot of fun.
+[35:37.240 --> 35:41.620]  And I think that might be a cool Patreon show.
+[35:42.040 --> 35:43.600]  What if we do it in real life?
+[35:43.600 --> 35:47.500]  What if we do it in real life where you pick me up and then I have the clue to go get Gavin.
+[35:47.720 --> 35:49.420]  And then Gavin has the clue to go get Nick.
+[35:49.440 --> 35:56.000]  And then after we go get Nick, we record all this in real life and then we do it in the game.
+[35:56.200 --> 35:59.720]  But at that point where we go get Nick, that's where we end.
+[35:59.880 --> 36:03.160]  And then we pick up the rest of the conversation and it's in the game.
+[36:03.220 --> 36:07.100]  But now Andrew can go and we pick up Andrew and then we do something in the game.
+[36:07.220 --> 36:07.900]  That's cool too.
+[36:08.040 --> 36:09.580]  So then we are all participating.
+[36:09.760 --> 36:10.380]  I like that too.
+[36:10.380 --> 36:19.280]  If you didn't want to do the navigation thing, maybe I'm on a Discord call with Geoff and I have maps of Austin.
+[36:19.700 --> 36:21.340]  And I'm the only one who knows where everybody is.
+[36:21.500 --> 36:25.620]  And I'm having to try to relay to Geoff how to get to these people.
+[36:26.040 --> 36:30.420]  I think that is a completely separate idea that's its own show.
+[36:31.640 --> 36:35.860]  I keep talking and nobody explodes, but I think that's a great idea.
+[36:37.120 --> 36:37.620]  Andrew navigation?
+[36:37.620 --> 36:41.180]  We do like a scavenger hunt or something through Austin and Andrew navigates us.
+[36:41.240 --> 36:42.180]  I think that could be fucking fun.
+[36:42.580 --> 36:46.040]  I mean, we can combine it with this too, but I think there's a lot there just in that alone.
+[36:47.120 --> 36:47.780]  So that's great.
+[36:48.060 --> 36:49.880]  That's kind of like the second idea I had in the lab.
+[36:49.940 --> 36:53.800]  And then the third idea I had, I actually had the other night.
+[36:55.360 --> 36:56.700]  We went to dinner.
+[36:57.360 --> 37:00.880]  What was it? Sunday night for your small wife's birthday, Eric?
+[37:01.020 --> 37:01.280]  Yes.
+[37:01.840 --> 37:07.300]  And so when we were done, we all said goodbye in a parking garage.
+[37:07.300 --> 37:13.240]  And I was just thinking, it struck me that we were the only people in the parking garage.
+[37:13.280 --> 37:15.440]  It was like 11 o'clock at night when we were finished with dinner.
+[37:15.720 --> 37:17.400]  And it was just like this downtown parking garage.
+[37:17.640 --> 37:22.460]  And it was empty and the sound was like, I don't know, the sound was kind of baffling.
+[37:22.780 --> 37:24.720]  And it was just like, it was a cool environment.
+[37:24.800 --> 37:28.900]  And I thought, it's funny that we're the only people in this whole space right now.
+[37:28.960 --> 37:31.740]  It would be fun to film something in here, but everybody was going their separate ways.
+[37:31.840 --> 37:34.620]  And it was, you know, we all went to bed or whatever, went home.
+[37:35.100 --> 37:42.320]  And that got me thinking, we should go back and do a podcast where we record in odd spaces.
+[37:42.500 --> 37:47.420]  Now, there was a podcast back in the day that Rooster Teeth, that was on The Roost called Podcast But Outside.
+[37:47.620 --> 37:52.760]  I don't want to rip off their idea where they would just like set up a folding table and they would invite people to come and they would have a conversation.
+[37:53.120 --> 38:01.980]  But what if we did like a supplemental series called Hide and Speak where we went out in public and then we've had to find a place where we hid.
+[38:01.980 --> 38:06.440]  Kind of like how Gavin would hide in Halo 2 behind the ramp.
+[38:06.840 --> 38:13.600]  And then we get in there, we hide. We're in public, but we're like, I don't know, behind a tree or we're in like a cubby somewhere.
+[38:13.740 --> 38:20.640]  And we're hidden and we record until somebody catches us, sees us, or until we hit like 20 minutes and then it's over.
+[38:20.760 --> 38:24.580]  And if we like hit 20 minutes, we complete the goal, which is to stay hidden for the whole time.
+[38:24.700 --> 38:29.440]  But we just do public podcasts that are hidden from the public. Hide and Speak.
+[38:29.440 --> 38:34.060]  I love it just for the name. So I'm in. Great.
+[38:34.160 --> 38:35.480]  Did that start with the name first?
+[38:35.820 --> 38:37.980]  No, I came up with the name about an hour ago.
+[38:38.480 --> 38:40.200]  The name's phenomenal.
+[38:40.460 --> 38:44.560]  Right before we started the let's play, I came up with the name.
+[38:45.280 --> 38:48.140]  Okay, last idea I have then. This one is a video game idea.
+[38:48.900 --> 38:51.460]  I saw today, and I just had this idea today.
+[38:51.460 --> 39:04.020]  I saw today on the regulation subreddit, somebody mentioned that in Feed the Beast, which is a Minecraft mod utility, I guess would be how you describe it.
+[39:04.700 --> 39:09.000]  There is a rats mod where you can play as rats and have rats all over the game and stuff.
+[39:09.180 --> 39:17.380]  And so I was thinking, what if when we finally play Minecraft, we do, but we only play as rats and we only do rat things and we call it RatCraft.
+[39:19.260 --> 39:24.200]  I mean, I like that as a like, yeah, I want to do that.
+[39:24.720 --> 39:26.520]  Like a one-off, it wouldn't be like a whole series.
+[39:26.960 --> 39:28.840]  Yeah, I think that's fun.
+[39:28.980 --> 39:31.700]  We return to Minecraft one time only for RatCraft.
+[39:31.720 --> 39:32.440]  And it's RatCraft.
+[39:32.860 --> 39:33.920]  And we play once.
+[39:35.140 --> 39:39.360]  This concludes, oh, I have one other idea. I don't think we'll actually do it, but I was thinking it would be fun.
+[39:39.420 --> 39:43.060]  If you guys ever wanted to have a roadside attraction, because I feel like that could be a lot of fun.
+[39:44.760 --> 39:51.000]  An area that people haven't really dove into yet, I think that could be that could be fun is retractions.
+[39:51.320 --> 39:53.540]  You know, like when a newspaper has to run a retraction.
+[39:53.700 --> 40:03.020]  What if you had a roadside retractions attraction where it was a roadside attraction that was full of retractions and you would go in and you would just see all the people, all the things people had to apologize for.
+[40:03.060 --> 40:03.860]  That's it. I'm done.
+[40:03.960 --> 40:05.020]  What are the retractions about?
+[40:05.940 --> 40:08.360]  Anything that was in the New York Times, they had to issue a retraction.
+[40:08.700 --> 40:10.140]  It's just all retractions are there.
+[40:10.240 --> 40:13.180]  So if you ever wanted to see a retraction, that's the clearinghouse of all retractions.
+[40:13.640 --> 40:16.940]  People are hearing this and probably going like, that's that's so weird.
+[40:17.040 --> 40:20.820]  That's crazy. Whatever. Drive anywhere on Route 66 and stop on any of those things.
+[40:20.920 --> 40:23.400]  We just saw cars in the ground that you could spray paint.
+[40:23.520 --> 40:24.660]  This is no different from that.
+[40:24.960 --> 40:26.960]  This is this is not a bad idea.
+[40:27.080 --> 40:30.180]  Yeah, it's no different than the world's largest thermometer.
+[40:33.400 --> 40:35.760]  I like all these out in the world ideas.
+[40:36.400 --> 40:40.320]  Well, the roadside retractions attraction was just the dumb name idea I had that I had to throw out there.
+[40:40.360 --> 40:41.960]  It's been making me giggle for a couple of weeks.
+[40:42.060 --> 40:45.160]  But the other the other things I would actually like to do.
+[40:45.780 --> 40:47.920]  It reminds me, Andrew, did you ever find the building?
+[40:49.180 --> 40:51.400]  What? Oh, no. Still looking.
+[40:52.040 --> 40:55.080]  Still looking. I'm still trying to find it. No idea where it is.
+[40:55.940 --> 41:00.160]  This is from when Andrew sent me a picture of somewhere in Austin and I had to find where it was.
+[41:00.160 --> 41:01.320]  And I immediately found it.
+[41:01.380 --> 41:03.340]  And then I sent him somewhere in Nanaimo.
+[41:04.560 --> 41:07.560]  Oh, just a picture of a place that he's still never found.
+[41:07.720 --> 41:08.960]  How long ago was that?
+[41:10.160 --> 41:10.980]  Months. Months ago.
+[41:12.260 --> 41:16.080]  I happened to pick a coffee shop that he had previously been to.
+[41:16.600 --> 41:18.540]  Yeah, you sent me a picture of a building.
+[41:18.820 --> 41:20.440]  It didn't say the name, but I recognized it.
+[41:20.460 --> 41:23.800]  I was like, oh, that's that's that's how Siona went there with whoever.
+[41:25.540 --> 41:26.900]  Yeah, still haven't found it. Still looking.
+[41:27.400 --> 41:29.260]  You have to update us when you do.
+[41:29.260 --> 41:31.640]  Oh, listen, it'll be top of my notes.
+[41:32.060 --> 41:37.040]  Oh, that's good. I actually have one thing that to bring to the table.
+[41:37.320 --> 41:39.760]  And it's Gavin won't stop sending me voice memos.
+[41:40.440 --> 41:45.440]  We found out at dinner on your small wife's birthday, which is for some reason also my birthday.
+[41:48.460 --> 41:51.160]  For some reason, I got brought a happy birthday dessert.
+[41:51.440 --> 41:53.480]  And so did she. And I was like, oh, my birthday too.
+[41:53.480 --> 41:59.320]  My wife said that she was so happy that that happened because it wasn't like she didn't have like all the attention on her.
+[41:59.480 --> 42:03.260]  It was like, oh, good. Everyone's paying attention to Gavin and like the goofy birthday thing.
+[42:03.500 --> 42:07.520]  By the way, that that fucking place that we went is my favorite restaurant in all of Austin.
+[42:07.660 --> 42:10.960]  I love it so much, although the service was a little all over the map.
+[42:10.980 --> 42:14.220]  I thought so. But fucking yogurt is not dessert.
+[42:15.140 --> 42:17.940]  That was really good. I loved it. I thought it was fantastic.
+[42:18.320 --> 42:22.980]  But during that meal, Eric let me know that he hates voice memos being sent.
+[42:22.980 --> 42:25.880]  Yeah, it's faster for the sender, but slower for the receiver.
+[42:26.100 --> 42:28.120]  It is. It's absolutely true.
+[42:28.280 --> 42:37.740]  If you're so distracted that you can't type out your thing concisely, that you're just recording a voice note that is like 45 seconds long because you're driving or whatever.
+[42:38.140 --> 42:41.520]  Don't bother. Yeah, I've received a lot and I've never sent any.
+[42:41.600 --> 42:44.680]  But now I'm sending them. He is sending them to Eric.
+[42:44.840 --> 42:47.780]  He's just said just a slurp of his coffee.
+[42:48.560 --> 42:50.720]  Yep. Just out here enjoying some coffee.
+[42:50.720 --> 42:54.440]  Do you have any previews? Do you have anything lined up that you could share?
+[42:55.180 --> 43:00.220]  I've got a good response from Eric because he sent one in reply.
+[43:02.520 --> 43:04.480]  I hate this.
+[43:05.880 --> 43:07.920]  None of that came through.
+[43:08.120 --> 43:11.500]  None of it came through. I think I said, I hate this.
+[43:11.760 --> 43:12.700]  That is correct.
+[43:15.460 --> 43:18.880]  Not a fan, but it is the only way that Gavin texts me now.
+[43:20.720 --> 43:27.400]  You sit through it. Also, it's you can see like it'll transcribe it, but it won't transcribe.
+[43:27.580 --> 43:29.480]  It says like tap for more or whatever.
+[43:29.680 --> 43:34.720]  And then at that point, you're already so so many steps into this thing that it's just not none of this is worth it.
+[43:34.780 --> 43:35.460]  It's the worst.
+[43:35.980 --> 43:41.680]  But now, because I don't text Eric that much and I want to send him voice memos, I'm just sending them for no reason.
+[43:41.740 --> 43:46.040]  I'm just like sending like little check-ins. I'm just telling about stuff that I would never normally text him.
+[43:46.040 --> 43:54.700]  It's so banal. And that's really what the voice memo thing is anyway, is that it's just banal stuff that is to you and not for you.
+[43:55.400 --> 43:57.760]  I probably won't play down the mic, but it's transcribed it.
+[43:57.820 --> 43:58.560]  This is what I sent him.
+[43:59.020 --> 44:00.620]  Hey, man. Yeah, I'm just out with dinner.
+[44:00.780 --> 44:05.500]  I'm wondering your thoughts on whether I should get this big guy chocolate cake or not.
+[44:05.740 --> 44:08.960]  Still undecided, but I figured I'd ask around some friends.
+[44:09.540 --> 44:13.400]  Yeah, because one of the desserts at the restaurant I was at was a big guy chocolate cake.
+[44:13.860 --> 44:15.840]  So, you know, I'm just checking in. I'm just seeing how he's doing.
+[44:16.080 --> 44:16.780]  Did you get it?
+[44:17.240 --> 44:19.980]  I didn't because he didn't say anything apart from I hate this.
+[44:20.320 --> 44:23.720]  Yeah, I think I just said I hate this. I didn't care about the big guy chocolate cake.
+[44:24.380 --> 44:26.060]  My wife, though, loves it.
+[44:26.100 --> 44:27.700]  My wife thinks this is hilarious.
+[44:27.980 --> 44:30.920]  She keeps telling me what to say back to Gavin and I just keep going.
+[44:30.940 --> 44:36.320]  I don't want to like I don't want I tried like once and then I just went this is not for me.
+[44:36.400 --> 44:37.680]  I don't want to encourage this.
+[44:37.840 --> 44:39.380]  What did she want you to say to me?
+[44:39.380 --> 44:46.120]  I don't remember what it was or what because you've sent me a bunch of voice memos and she has heard them.
+[44:46.280 --> 44:48.860]  And then she would be like, oh, say this. And I don't remember what it is.
+[44:48.980 --> 44:51.760]  And it's just like, no, I don't want to encourage this behavior.
+[44:52.040 --> 44:52.820]  This is terrible.
+[44:53.940 --> 44:59.120]  I think you two should have to communicate exclusively via walkie talkie for like a week.
+[45:00.020 --> 45:04.360]  I think you both need walkie talkies and that's the only way you can talk to each other.
+[45:05.100 --> 45:06.740]  You don't have to be as concise, though.
+[45:06.740 --> 45:09.020]  I don't have to do it all as big what one big long take.
+[45:09.260 --> 45:15.740]  No, but I think it's funny for you to just be able to like buzz in like you guys get your code names, whatever your trucker names are.
+[45:16.000 --> 45:16.960]  Use those.
+[45:17.300 --> 45:19.600]  What is what's the range on a walkie talkie?
+[45:19.800 --> 45:22.740]  I'm sure you could get a ridiculously long range one.
+[45:22.900 --> 45:24.300]  Maybe we should get into ham radio.
+[45:25.100 --> 45:27.640]  You can go across the fucking globe in ham radio.
+[45:28.060 --> 45:29.780]  Yeah, you'd bounce it off the atmosphere.
+[45:30.180 --> 45:32.600]  Let's see what some long range walkie talkies go for.
+[45:33.160 --> 45:35.460]  But long range is like what is long range?
+[45:35.460 --> 45:37.800]  I have no idea, man.
+[45:38.060 --> 45:41.260]  Four hundred dollars will get you to walkie talkie.
+[45:41.340 --> 45:41.740]  Oh, my God.
+[45:41.780 --> 45:43.600]  They're normally a thousand dollars.
+[45:43.660 --> 45:47.620]  But but everyone's saying like it's a pretty unlimited range.
+[45:47.940 --> 45:50.260]  What does that mean? Unlimited range?
+[45:51.100 --> 45:51.900]  Yeah, I believe that.
+[45:52.560 --> 45:53.440]  I don't believe that at all.
+[45:53.620 --> 45:56.260]  Unlimited distance, unlimited use nationwide.
+[45:56.440 --> 45:57.480]  I think it's just a phone.
+[45:57.480 --> 45:59.600]  I have a 50 foot ham.
+[46:00.400 --> 46:06.640]  I have a 50 foot ham tower that gives me about 13 miles of range with these walkie talkies around the house.
+[46:06.820 --> 46:08.600]  What the fuck?
+[46:10.940 --> 46:12.280]  You have a what?
+[46:13.280 --> 46:14.960]  Let's get into ham towers.
+[46:15.120 --> 46:16.700]  I don't want to get into ham towers.
+[46:17.780 --> 46:20.700]  We're in a different ham zone, but we're back in the ham zone.
+[46:21.080 --> 46:23.540]  We're in the return to the ham zone?
+[46:24.480 --> 46:26.260]  We're a whole different kind of ham fandom.
+[46:27.260 --> 46:27.660]  Wow.
+[46:28.380 --> 46:29.900]  Maybe that's what the ham was about.
+[46:30.740 --> 46:31.620]  Oh, ham fan?
+[46:32.160 --> 46:32.400]  Yeah.
+[46:32.460 --> 46:34.340]  Could have been a radio fan, not a Hamilton fan.
+[46:35.320 --> 46:40.440]  Yeah, I'd be willing to if we could get the range, I would do the walkie talkie fan.
+[46:42.220 --> 46:43.360]  I just think it's funny.
+[46:43.980 --> 46:44.900]  For how long? A week?
+[46:45.280 --> 46:45.560]  Yeah.
+[46:46.980 --> 46:48.420]  You have to buzz whenever.
+[46:48.960 --> 46:50.940]  It's more intrusive, I feel like.
+[46:51.580 --> 46:53.340]  I don't want to do that.
+[46:53.760 --> 46:54.600]  Because it's a live thing.
+[46:54.860 --> 46:55.040]  More intrusive than a phone?
+[46:55.040 --> 46:56.100]  Yeah, I think so.
+[46:56.180 --> 46:59.040]  Because the message isn't implied like you can get to it when you get to it.
+[46:59.460 --> 47:05.520]  Where you're just demanding that Eric respond in this moment to help you with your cake decision.
+[47:06.220 --> 47:07.620]  Oh, I got a voice message from Eric.
+[47:07.880 --> 47:08.380]  Oh, you did?
+[47:08.700 --> 47:09.880]  I'll see if it plays through.
+[47:11.120 --> 47:13.660]  I don't want to do that, thank you.
+[47:15.360 --> 47:18.840]  Now, is that the ham radio or just radios in general?
+[47:19.060 --> 47:20.080]  I assume all of this.
+[47:20.360 --> 47:21.020]  All of it?
+[47:21.460 --> 47:23.520]  Yes, Gavin is right.
+[47:23.960 --> 47:32.240]  You know, I gotta say though, that's a great way to communicate because I feel like I can understand Eric more here because of the inflection.
+[47:32.740 --> 47:34.920]  I'm not just having to interpret the text.
+[47:35.200 --> 47:39.540]  Right, right, but that was a quick, that one was a, what, a three second thing.
+[47:39.720 --> 47:43.920]  Gavin is sending me stuff that's like 25 seconds plus and you're trapped.
+[47:44.060 --> 47:48.920]  If I could like skip through or fast forward or whatever, then at least there's something there.
+[47:49.000 --> 47:50.320]  And also, it's about nothing.
+[47:50.600 --> 47:51.380]  There's the difference.
+[47:51.660 --> 47:52.700]  It's about big guy chocolate cake.
+[47:52.700 --> 47:53.980]  There's the difference, Eric.
+[47:54.020 --> 47:56.720]  You might be trapped, but I hang on his every word.
+[47:58.120 --> 47:59.660]  Go sit in his lap and shit.
+[48:02.180 --> 48:08.740]  What if I send the messages directly to your small wife and she can relay any important info to you?
+[48:08.980 --> 48:10.120]  Why don't you go ahead and do that?
+[48:11.540 --> 48:12.280]  I'm scared.
+[48:12.720 --> 48:16.820]  Yeah, you're gonna be texting my wife voice messages.
+[48:17.120 --> 48:18.180]  Hey, so what have you guys been up to?
+[48:18.440 --> 48:20.720]  Gavin's been sending my wife a lot of voice memos.
+[48:24.160 --> 48:27.740]  Maybe we need to add a Slack channel that's just voice memos.
+[48:29.500 --> 48:30.460]  It's terrible.
+[48:30.820 --> 48:33.760]  Oh man, we found out that our fart channel got archived.
+[48:33.980 --> 48:34.720]  A lot of farts are gone.
+[48:35.300 --> 48:35.860]  That's a bummer.
+[48:36.240 --> 48:39.080]  Slack is holding Geoff's farts hostage.
+[48:39.800 --> 48:41.240]  Our farts went behind the paywall.
+[48:41.600 --> 48:43.300]  Because they're over 90 days old.
+[48:44.220 --> 48:46.580]  You're supposed to pay for Slack and we just don't.
+[48:47.060 --> 48:50.520]  There is a premium, yeah, paid for version of Slack and then the free version.
+[48:50.520 --> 48:55.920]  And when I went to film something, I thought I could pull Geoff's farts and nothing was there.
+[48:56.260 --> 48:59.620]  And so I texted him, did you delete all your farts? Where did the farts go?
+[48:59.780 --> 49:01.720]  Andrew was like, why did you delete all your farts?
+[49:01.720 --> 49:02.980]  Why did you do this?
+[49:03.120 --> 49:05.380]  Like, very accusatory. And I was like, what?
+[49:05.640 --> 49:09.120]  Well, I just assumed that if anyone were gonna delete them, like, I just...
+[49:09.120 --> 49:09.820]  Why would I ever?
+[49:10.100 --> 49:11.920]  I don't know, that's why I was asking.
+[49:11.920 --> 49:15.220]  And then Geoff sent me a screenshot.
+[49:15.440 --> 49:21.040]  I didn't have it on my display of them saying that after like 30 or whatever, however many days, it archives it.
+[49:21.160 --> 49:25.820]  It's not permanently gone. If I pay for Slack now, they will reappear.
+[49:26.140 --> 49:28.360]  So they're holding Geoff's farts hostage.
+[49:28.520 --> 49:29.640]  I think it's so funny.
+[49:30.040 --> 49:30.100]  That's crazy.
+[49:30.260 --> 49:33.520]  I was able to find the farts on my phone and send them to him.
+[49:33.600 --> 49:38.420]  And I was actually kind of happy because when I did, I remembered, I had completely forgotten that right before I stopped recording,
+[49:38.500 --> 49:40.480]  I had started recording all my diarrhea as well.
+[49:40.480 --> 49:41.860]  And man, those are some sounds.
+[49:42.180 --> 49:43.960]  Yeah, why are you recording diarrhea?
+[49:44.120 --> 49:45.060]  I don't know.
+[49:46.220 --> 49:47.420]  That's genuinely repulsive.
+[49:47.560 --> 49:48.840]  I don't know, it was pretty gross, right?
+[49:48.960 --> 49:51.360]  I don't know what the point of that was, but I did it.
+[49:52.260 --> 49:53.420]  And I got a bunch of them.
+[49:54.020 --> 49:56.620]  Where are you holding the phone during that?
+[49:57.180 --> 49:59.100]  Just out in front of me? Like if I was reading it?
+[49:59.240 --> 49:59.380]  Yeah.
+[50:00.200 --> 50:03.280]  You think I'm like wedging it down into the toilet to get superior sound?
+[50:03.580 --> 50:03.780]  No.
+[50:04.040 --> 50:06.220]  Yes, I did think that.
+[50:06.220 --> 50:14.260]  I think it's because my shits are so loud that I can have a shit upstairs and Emily can hear it in the front yard.
+[50:15.500 --> 50:18.000]  Why don't you put your phone in the front yard and we'll see if that's true.
+[50:18.080 --> 50:19.820]  We can do that. We can absolutely do that.
+[50:20.760 --> 50:22.960]  See how loud my shits are? Yeah, we can do that.
+[50:23.200 --> 50:24.660]  I can play some for you right now. It's very loud.
+[50:24.960 --> 50:26.180]  No, it's good. We're good.
+[50:26.520 --> 50:29.360]  No, I mean, we'll just test it with the experiment later.
+[50:29.520 --> 50:30.520]  Yeah, you don't need to send it.
+[50:30.820 --> 50:32.080]  You sure? Because I got plenty.
+[50:32.160 --> 50:33.940]  No, we're sure. Thanks.
+[50:34.160 --> 50:34.480]  Okay.
+[50:34.480 --> 50:41.020]  I needed the the Geoff Farts for a video that we filmed in the Quiet Place game.
+[50:41.120 --> 50:44.640]  I got a code for it and I'd been playing it and they had a feature where you can make,
+[50:45.200 --> 50:52.680]  use your mic to capture your environmental audio doing testing of different things that you wouldn't see in the movie,
+[50:52.840 --> 50:55.100]  but are very much a part of day to day life.
+[50:55.560 --> 50:58.080]  And I've been playing that game a lot. That's a really fun game.
+[50:58.640 --> 51:02.860]  I was surprised by how tense it was for me.
+[51:02.860 --> 51:07.780]  As somebody who had seen the movies, I think it's almost the best thing you could say about a licensed game,
+[51:07.840 --> 51:11.400]  where it has changed my view of those films.
+[51:11.840 --> 51:15.620]  It has made me so much more invested and feel so much more intense for the characters.
+[51:16.740 --> 51:17.920]  It's tough to be quiet.
+[51:18.280 --> 51:20.600]  Should we try a let's play in it?
+[51:20.940 --> 51:21.560]  Oh, that'd be fun.
+[51:22.080 --> 51:22.600]  Yeah, let's do it.
+[51:22.740 --> 51:28.080]  It might be fun to kind of do what we did and have all of our Discord audio be coming through so we all have to be quiet.
+[51:28.080 --> 51:31.640]  Well, the problem with it, I originally thought, oh, I'll do a let's play.
+[51:31.780 --> 51:35.400]  But I ended up getting so into character, I just wasn't talking.
+[51:35.940 --> 51:40.340]  Like, I was in a group call with some people while playing it, and I just could not speak.
+[51:40.520 --> 51:42.200]  Because I was like, I gotta be fucking quiet.
+[51:42.440 --> 51:43.780]  Even though it couldn't pick up my voice.
+[51:43.940 --> 51:46.240]  To be fair, you did the same in Tombstone Tally.
+[51:46.720 --> 51:48.260]  Well, we were all doing it in Tombstone.
+[51:48.720 --> 51:52.520]  I like the idea that we could only really have conversations by waterfalls and stuff.
+[51:54.000 --> 51:55.200]  With a little talk sound.
+[51:55.720 --> 51:57.160]  A little hide and speak, if you will.
+[51:57.160 --> 51:59.280]  I'm gonna share my screen for a minute.
+[51:59.460 --> 52:01.520]  I have a clip from when I was playing it.
+[52:01.760 --> 52:07.560]  I thought I was the smartest person in the world for a moment.
+[52:08.380 --> 52:11.300]  And it went very much against me, so I'm sharing my screen.
+[52:11.740 --> 52:13.280]  So you're trying to be sneaky.
+[52:13.540 --> 52:17.540]  It is the whole thing of like, you're just trying to avoid these aliens as quiet as possible.
+[52:18.080 --> 52:24.520]  And I was in a real bad situation where you have these moments where you get these planks.
+[52:25.320 --> 52:26.480]  And you have to lay them down.
+[52:26.480 --> 52:28.320]  This is the first time I'd used a plank.
+[52:29.040 --> 52:34.020]  So the alien is following me around, to give context of this clip.
+[52:34.280 --> 52:35.560]  And I'll explain it while I'm walking through.
+[52:35.960 --> 52:37.040]  So I'm holding this plank.
+[52:37.540 --> 52:38.920]  And the alien is close by.
+[52:39.180 --> 52:41.260]  And I'm like, I just gotta get across here.
+[52:41.400 --> 52:42.120]  And then I'll checkpoint.
+[52:43.200 --> 52:43.940]  So I'm walking.
+[52:44.500 --> 52:46.420]  And I see... I've never placed one before.
+[52:46.500 --> 52:47.220]  I place it.
+[52:47.540 --> 52:49.980]  You have to slowly do it so it doesn't make noise.
+[52:50.060 --> 52:50.740]  It doesn't just thwomp.
+[52:51.120 --> 52:53.300]  I turn around. The alien's right fucking there.
+[52:53.480 --> 52:54.160]  And I'm like, oh god.
+[52:54.160 --> 52:56.260]  And I thought you clicked A to go across.
+[52:56.380 --> 52:57.620]  But that's how you reset it.
+[52:57.680 --> 52:59.040]  So then I had to place it again.
+[52:59.620 --> 53:01.480]  And I'm slowly bringing it down.
+[53:01.780 --> 53:02.860]  And then I turn.
+[53:03.380 --> 53:04.780]  And I'm like, I wanna move.
+[53:04.860 --> 53:05.920]  But the alien's right there.
+[53:06.040 --> 53:07.200]  And I make noise every step.
+[53:07.240 --> 53:08.280]  What do I do? What do I fuck?
+[53:08.480 --> 53:09.460]  Oh, he's looking at me!
+[53:09.480 --> 53:11.060]  And I'm like, I'll just get on the beam.
+[53:11.180 --> 53:12.840]  So that way he can't get me.
+[53:13.280 --> 53:14.900]  I'm just gonna stand here.
+[53:15.140 --> 53:17.180]  And I'll wait for him to leave while I just hang out on this beam.
+[53:17.320 --> 53:18.360]  Oh, I fucking broke!
+[53:19.180 --> 53:20.960]  You can't just stand on the beam.
+[53:21.220 --> 53:21.800]  Is what I thought.
+[53:22.100 --> 53:23.600]  The beam breaks.
+[53:23.600 --> 53:24.620]  The beam breaks.
+[53:24.800 --> 53:26.920]  Oh, what the fuck?
+[53:27.940 --> 53:29.000]  It's... all of the...
+[53:29.000 --> 53:32.360]  I was just clipping non-stop of me shitting myself playing this game.
+[53:32.580 --> 53:34.380]  Every time I'd have an interaction.
+[53:34.500 --> 53:35.460]  This is my first one.
+[53:35.700 --> 53:37.360]  Where I'm just like walking through.
+[53:37.800 --> 53:38.860]  Trying to be all sneaky.
+[53:39.900 --> 53:41.120]  Just looking at my bar.
+[53:41.220 --> 53:44.800]  You can see how much noise you're making in contrast to the world around you.
+[53:44.820 --> 53:45.640]  And I'm like, okay.
+[53:46.640 --> 53:47.580]  Everything's all good.
+[53:47.720 --> 53:49.140]  And it's fucking right there.
+[53:49.400 --> 53:50.360]  Oh my god!
+[53:50.640 --> 53:51.600]  Holy shit.
+[53:53.360 --> 53:54.420]  And it's just terrifying.
+[53:54.620 --> 53:59.400]  Cause you know, like in the movie I never think about the idea of like, if you end up next to one of these things, what do you do?
+[53:59.400 --> 54:00.500]  You're just kind of stuck.
+[54:00.880 --> 54:02.080]  You can't move.
+[54:02.640 --> 54:03.620]  Cause you make noise.
+[54:03.920 --> 54:05.320]  Your lungs aren't looking good.
+[54:05.480 --> 54:06.400]  No, it's real bad.
+[54:06.580 --> 54:09.420]  You play as an asthmatic pregnant woman.
+[54:09.520 --> 54:13.820]  Which is a deadly combo for a quiet place scenario.
+[54:14.160 --> 54:14.840]  Just tiptoeing.
+[54:15.160 --> 54:16.920]  But we're gonna have a...
+[54:16.920 --> 54:19.440]  Almost like a things to do type thing coming out.
+[54:19.460 --> 54:19.800]  For that.
+[54:19.800 --> 54:21.320]  It'll be out by the time this comes out.
+[54:21.660 --> 54:25.800]  If you want to see the video of that, the YouTube version will have it in.
+[54:26.100 --> 54:26.400]  Yes.
+[54:26.920 --> 54:27.540]  If you're listening.
+[54:29.940 --> 54:31.360]  That's not the only gaming thing.
+[54:31.640 --> 54:35.080]  Do you mind if I pivot to another gaming?
+[54:35.080 --> 54:35.580]  Please do.
+[54:36.140 --> 54:37.400]  Geoff, you were part of this.
+[54:38.020 --> 54:38.280]  A little bit.
+[54:38.280 --> 54:42.220]  I was playing Sea of Thieves.
+[54:42.500 --> 54:43.500]  Having a good time.
+[54:43.800 --> 54:44.720]  By myself.
+[54:45.060 --> 54:45.700]  Just relaxing.
+[54:45.900 --> 54:46.520]  Doing some chess.
+[54:46.600 --> 54:48.180]  Getting up some loot and treasure.
+[54:48.720 --> 54:51.200]  And I got boarded by two people.
+[54:51.800 --> 54:52.280]  Who were dicks.
+[54:52.580 --> 54:54.740]  And they just kept killing me over and over again.
+[54:55.060 --> 54:57.200]  I noticed a ship on a different island.
+[54:57.380 --> 54:58.300]  And I thought, I'll avoid that.
+[54:58.340 --> 54:59.040]  I don't want to fight.
+[54:59.540 --> 55:03.700]  They had, I guess, cannonballed or rowboated to where I was.
+[55:03.760 --> 55:04.760]  And just hid in my boat.
+[55:05.360 --> 55:07.880]  And then when I went to leave, they just started killing me.
+[55:08.260 --> 55:12.280]  And their plan was to steer my boat back to their boat to sink me.
+[55:12.380 --> 55:13.560]  And then steal all my stuff.
+[55:14.180 --> 55:16.780]  But at the last minute, I killed them.
+[55:16.780 --> 55:19.100]  And I took control of my boat again and I escaped.
+[55:19.480 --> 55:22.600]  Then another ship showed up and started attacking them.
+[55:23.160 --> 55:23.920]  Sunk them.
+[55:24.220 --> 55:25.180]  And I thought, this is great.
+[55:25.260 --> 55:27.320]  I can now just get rid of all my stuff and sell it.
+[55:27.540 --> 55:30.500]  They happened to spawn in the path of where I needed to go.
+[55:31.020 --> 55:32.420]  So then we started a whole new chase.
+[55:32.780 --> 55:34.300]  And they were just trying to shoot me.
+[55:34.400 --> 55:36.600]  They were clearly very experienced in this game.
+[55:37.420 --> 55:39.200]  And so I pulled up my recent players.
+[55:39.360 --> 55:40.400]  I recognized one of the names.
+[55:41.260 --> 55:43.860]  And once again, great feature at Xbox.
+[55:43.860 --> 55:46.620]  You can link your Twitch account to your profile.
+[55:47.380 --> 55:49.700]  And if they do that, you can open their Twitch.
+[55:50.220 --> 55:55.260]  And so I opened the Twitch and they were streaming their perspective of chasing me.
+[55:55.660 --> 56:00.500]  And so I tweeted out, hey, these guys are chasing me.
+[56:00.620 --> 56:02.320]  It's real. This isn't going great.
+[56:02.880 --> 56:03.880]  Go watch if you want.
+[56:04.540 --> 56:06.080]  And then their chat went from...
+[56:06.380 --> 56:08.060]  They had two people in their stream.
+[56:08.180 --> 56:10.560]  It was the guy who was streaming himself watching.
+[56:10.820 --> 56:12.720]  And his friend who was playing with him watching.
+[56:12.720 --> 56:15.500]  And they suddenly spiked to 100 viewers.
+[56:15.720 --> 56:17.100]  And they didn't know why.
+[56:17.680 --> 56:19.660]  And they started freaking out as to why.
+[56:19.820 --> 56:22.420]  It was also very funny where I was messing with them.
+[56:22.720 --> 56:25.740]  And he was the most upset streamer I've ever heard.
+[56:25.820 --> 56:27.600]  He was cursing and like punching the wall.
+[56:27.720 --> 56:30.140]  And be like, this is bullshit. This is the worst fucking thing.
+[56:30.480 --> 56:31.900]  And then all these people showed up.
+[56:31.960 --> 56:33.560]  And they were like, oh, hey, hey.
+[56:33.560 --> 56:34.620]  Hey, there are people here.
+[56:35.020 --> 56:37.320]  Whoa, I get raided by somebody.
+[56:37.980 --> 56:39.380]  And they didn't know how to react.
+[56:39.460 --> 56:40.780]  They were losing their minds about it.
+[56:40.780 --> 56:42.860]  And the chat was so fucking funny.
+[56:43.020 --> 56:45.840]  Where nobody was revealing where they came from.
+[56:45.880 --> 56:48.800]  But they were making all sorts of references to the podcast.
+[56:49.280 --> 56:50.840]  Like, this is a regulation stream.
+[56:51.080 --> 56:51.940]  And all that type of thing.
+[56:52.160 --> 56:55.480]  And they had no clue what was going on.
+[56:56.160 --> 56:58.540]  And so I texted Gavin.
+[56:58.900 --> 57:00.360]  Saying like, I need help.
+[57:00.580 --> 57:02.320]  Because I was trying to accomplish something.
+[57:02.900 --> 57:05.320]  And I really needed a second hand on deck.
+[57:05.600 --> 57:08.960]  And I know Gavin has never had one of these moments in that game.
+[57:08.960 --> 57:14.040]  So I thought, oh, it would be great to let Gavin see this side of this game that he hasn't seen before.
+[57:14.560 --> 57:15.300]  Gavin was busy.
+[57:15.880 --> 57:17.160]  So then I went to the Slack.
+[57:17.260 --> 57:18.880]  And said, is anyone around?
+[57:19.240 --> 57:21.340]  And Geoff was kind enough to hop on.
+[57:21.580 --> 57:23.380]  And help with this getaway.
+[57:24.540 --> 57:25.520]  Which was perfect.
+[57:25.520 --> 57:29.040]  Because I did a thing that allowed me to go into a part of the map.
+[57:29.160 --> 57:31.040]  That you can only go to if you do that thing.
+[57:31.540 --> 57:35.040]  And they did not know that you had to manually activate it.
+[57:35.360 --> 57:38.540]  So they went to swap over to do what I was doing.
+[57:38.540 --> 57:40.320]  And it would not work for them.
+[57:40.460 --> 57:41.740]  And so they got sunk.
+[57:42.060 --> 57:43.440]  All while yelling about it.
+[57:43.580 --> 57:45.540]  And it was great trolling.
+[57:46.000 --> 57:47.700]  And then we had to try to escape.
+[57:47.840 --> 57:49.580]  The problem when all the people joined.
+[57:49.680 --> 57:52.160]  Is they became way more committed to sinking me.
+[57:52.200 --> 57:53.720]  It was like, oh, they're never going to stop.
+[57:53.900 --> 57:55.860]  They're just going to continue to chase.
+[57:56.220 --> 57:59.160]  And so I said, Geoff, take the wheel and go west.
+[57:59.440 --> 58:01.760]  And Geoff, there's no fault of your own.
+[58:02.040 --> 58:04.760]  I did not know Geoff had never steered the boat before.
+[58:04.760 --> 58:09.060]  So the first question Geoff said was, how do I tell which way is west?
+[58:09.320 --> 58:12.420]  And there's a compass right next to the wheel that tells you what direction you're going in.
+[58:12.420 --> 58:13.360]  Figured it out immediately.
+[58:13.560 --> 58:16.640]  Yeah, he instantly figured it out after that and said, ignore me.
+[58:17.280 --> 58:20.220]  And then you said, I think you misinterpreted the wind.
+[58:20.800 --> 58:22.200]  It was a whole thing, but it was like, oh boy.
+[58:22.520 --> 58:26.020]  We are, this is an unexperienced crew for this scenario.
+[58:26.820 --> 58:27.580]  It's not great.
+[58:28.200 --> 58:30.060]  How do you misinterpret the wind?
+[58:30.480 --> 58:31.700]  I don't even know what he's talking about there.
+[58:31.700 --> 58:35.240]  I don't, you said, like, how do I, I don't remember.
+[58:35.840 --> 58:37.980]  It was a small detail, but it was, you, I think.
+[58:38.060 --> 58:40.580]  So we, we on voice, we on voice chat talking?
+[58:41.000 --> 58:41.580]  We were on Discord.
+[58:41.880 --> 58:44.120]  Yeah, we were on, no, yeah, we're talking back and forth.
+[58:44.220 --> 58:47.300]  And I sent Geoff a link to the stream so he could hear what they were saying.
+[58:48.100 --> 58:50.340]  They wanted me banned for stream sniping.
+[58:51.120 --> 58:55.360]  They were not, because I was in their chat saying like, hey, maybe you should let this guy go.
+[58:55.940 --> 58:57.200]  Maybe this isn't worth it.
+[58:58.260 --> 58:59.800]  Maybe you should just let them escape.
+[59:00.180 --> 59:01.580]  They eventually killed us.
+[59:01.700 --> 59:03.060]  They eventually, yeah.
+[59:03.720 --> 59:07.820]  We did not, we did not last long beyond sinking them in that one instance.
+[59:08.080 --> 59:15.320]  I'm not much help in a fight in a game I haven't played since the last time we recorded in it, which would have been before Rooster Teeth went under, I think.
+[59:15.900 --> 59:18.540]  I think I'm the same way, though, you know, I don't think I've ever driven the boat.
+[59:19.180 --> 59:23.060]  I just never considered it. It was very funny to be like, okay, Geoff, you take the wheel.
+[59:23.060 --> 59:28.380]  I was weird. I was like, I've literally never, I mean, surely I have for like one second before.
+[59:28.580 --> 59:32.360]  But whenever I play with the Burndog and Antonio, Antonio is always the captain.
+[59:32.520 --> 59:35.480]  And whenever I play with y'all, Andrew's always the captain.
+[59:35.540 --> 59:36.700]  So I just never come up.
+[59:37.500 --> 59:44.480]  Yeah, it's funny, but it was so, I think it's the thing I'm going to do whenever anybody's chasing me and I notice they happen to be streaming.
+[59:44.940 --> 59:48.000]  Because it's so funny to see the reaction change and how they adjust.
+[59:48.280 --> 59:51.480]  I was hoping it would kind of throw them off, which it did initially.
+[59:53.360 --> 59:55.240]  But that was great. It was a lot of fun.
+[59:55.420 --> 59:58.400]  After you messaged me, I reinstalled Sea of Thieves.
+[59:58.960 --> 59:59.220]  Great.
+[59:59.320 --> 01:00:04.460]  Just in case I was able to jump in again. And then today, Call of Duty needed like a 300 gig update.
+[01:00:04.580 --> 01:00:05.240]  So I deleted it.
+[01:00:05.720 --> 01:00:09.720]  Dude, I wish you wouldn't. They just released a big update to Sea of Thieves that we should play.
+[01:00:10.420 --> 01:00:11.860]  I need to get a bigger storage.
+[01:00:12.240 --> 01:00:14.420]  How do you shit on us for not having a bigger storage?
+[01:00:14.460 --> 01:00:17.220]  You're constantly shitting on us for not having enough space.
+[01:00:17.700 --> 01:00:21.580]  What a great turn near the end of the episode that this just took. This is fantastic.
+[01:00:21.600 --> 01:00:26.340]  I just went out and bought a two terabyte fucking drive because Gavin shit on me in an episode like three weeks ago.
+[01:00:26.900 --> 01:00:29.180]  Mine's one terabyte, but I had to delete Fallout.
+[01:00:30.180 --> 01:00:32.060]  Well, we're not going to use Fallout. That's fine.
+[01:00:32.820 --> 01:00:33.580]  Yeah, and Sea of Thieves.
+[01:00:33.980 --> 01:00:34.800]  Reinstall Sea of Thieves.
+[01:00:35.620 --> 01:00:40.680]  I just need more time to properly consider what to delete. I just did it quickly because we were going to play.
+[01:00:40.900 --> 01:00:41.260]  I understand.
+[01:00:41.980 --> 01:00:44.240]  But they just released like a trolling update, which is cool.
+[01:00:44.820 --> 01:00:51.700]  They did, but this man always shitting on us deleting stuff. He's deleting stuff. He's just quietly deleting.
+[01:00:52.420 --> 01:00:58.360]  Well, I couldn't exactly be... I'm going to get a bigger storage, but that wouldn't help me today when we needed to play the other game.
+[01:00:59.680 --> 01:01:00.040]  Interesting.
+[01:01:00.300 --> 01:01:03.480]  I feel like that wouldn't fly if you were on the other end of this conversation right now.
+[01:01:04.980 --> 01:01:05.340]  Interesting.
+[01:01:06.260 --> 01:01:12.860]  I feel like that wouldn't be good enough. I feel like Gavin would hit back with a, but we need the space today. Or one of those.
+[01:01:13.540 --> 01:01:14.240]  Snarky comments.
+[01:01:14.440 --> 01:01:15.640]  It's a portable drive.
+[01:01:16.260 --> 01:01:24.600]  I may have snarked it. I think it's also a bit of a bummer that, you know, if you upgrade from one terabyte to two terabytes, you can't... it's not three. You just have two of them.
+[01:01:24.860 --> 01:01:26.900]  You have to take out the one and then...
+[01:01:26.900 --> 01:01:28.120]  It really does suck.
+[01:01:28.660 --> 01:01:29.000]  I agree.
+[01:01:30.020 --> 01:01:31.440]  Oh, got a voice memo, I think.
+[01:01:32.020 --> 01:01:32.380]  Oh, you did?
+[01:01:33.580 --> 01:01:35.900]  Hey man, I think they got you on this one. Sorry.
+[01:01:37.720 --> 01:01:41.720]  No, I was just agreeing with you guys and letting Gavin know that he got got.
+[01:01:42.320 --> 01:01:45.120]  Oh, can I leave voice memos on Slack? Yeah, I can.
+[01:01:45.840 --> 01:01:47.720]  Oh, shit. Oh, shit.
+[01:01:48.600 --> 01:01:49.760]  Are you guys getting in a huddle?
+[01:01:50.480 --> 01:01:54.880]  Oh, no, that's a whole other thing. I love to huddle up, though. Great music in the huddle.
+[01:01:55.520 --> 01:01:57.260]  Andrew made a voice. Oh, can I play this?
+[01:01:57.600 --> 01:02:00.560]  I mean, it's just what I said, but yeah, you heard the memo.
+[01:02:00.680 --> 01:02:02.620]  Can I leave voice memos on Slack? Yeah, I can.
+[01:02:02.980 --> 01:02:03.460]  Oh, I see.
+[01:02:04.440 --> 01:02:11.100]  I was just testing. I think this is... we're getting in the voice memo territory and I'm very excited about it.
+[01:02:11.100 --> 01:02:13.760]  Is this our voice memo era? I think so.
+[01:02:14.040 --> 01:02:16.540]  Can we leave voice memos on Discord for the Falcons?
+[01:02:17.360 --> 01:02:18.960]  Could we? Could we?
+[01:02:19.800 --> 01:02:26.400]  I don't know. I feel like we could just go into the channel right now and then finish the episode out over there.
+[01:02:26.620 --> 01:02:29.200]  And that would be something. But that's all I could really think of.
+[01:02:29.680 --> 01:02:32.620]  Message Eric Badour. Don't message Eric Badour.
+[01:02:33.160 --> 01:02:36.060]  Wrap up episode instead of message Eric Badour.
+[01:02:36.880 --> 01:02:38.440]  I don't think I can send a voice memo.
+[01:02:38.440 --> 01:02:42.320]  Yeah, congratulations on making it a quarter of a century, guys.
+[01:02:43.940 --> 01:02:45.880]  25 episodes of Regulation Podcast.
+[01:02:46.080 --> 01:02:51.480]  It seems like just yesterday that we ended F*** Face at episode 206? 207? Whatever it was.
+[01:02:52.440 --> 01:02:53.380]  What did... what was it?
+[01:02:54.340 --> 01:02:54.740]  206.
+[01:02:54.820 --> 01:02:56.020]  Yeah, but it was our...
+[01:02:56.020 --> 01:02:56.100]  206?
+[01:02:56.320 --> 01:03:00.120]  It was... 206 would have been our 205th episode. Is that right?
+[01:03:00.600 --> 01:03:02.740]  So we did one episode for every bone in the body.
+[01:03:03.780 --> 01:03:06.640]  Which was exactly how we planned it out.
+[01:03:06.920 --> 01:03:10.340]  And thank you for finally revealing the true secret of F*** Face.
+[01:03:10.760 --> 01:03:15.300]  It was only designed to go as many episodes as we have bones in a body.
+[01:03:16.620 --> 01:03:18.660]  How are we going to end Regulation?
+[01:03:18.980 --> 01:03:22.560]  Hopefully we have more than 180-odd episodes or so to go.
+[01:03:22.860 --> 01:03:24.280]  We're going to have to get some new bones.
+[01:03:24.820 --> 01:03:30.120]  Speaking of getting new bones, you guys should go get a t-shirt over at TheRegulationStore.com.
+[01:03:30.120 --> 01:03:36.260]  Or if buying a t-shirt's not your thing, maybe go check out our Patreon over at...
+[01:03:36.260 --> 01:03:41.400]  Well, you know what? Just go to Regulatrion.com or Geoff.sucks and that'll answer all your questions.
+[01:03:42.580 --> 01:03:46.600]  And have a good day. Or night. I don't know what time... I don't even know when you're listening to this.
+[01:03:46.680 --> 01:03:49.320]  But if it's evening, have a good evening. If it's in the morning, have a good day.
+[01:03:49.720 --> 01:03:54.120]  That was a fantastic outro. Yeah, I just had a quick question for Eric and Gavin before we wrapped up.
+[01:03:54.920 --> 01:03:59.740]  Did you guys have hot dog paranoia last night? Because the hot dog counters were flying.
+[01:04:00.520 --> 01:04:03.500]  I never have hot dog paranoia, no. It's not a competition.
+[01:04:04.140 --> 01:04:07.480]  I'm just on one dog, so I just look at the nice pictures.
+[01:04:08.220 --> 01:04:12.280]  It's true, Geoff takes great photos. I take a photo of every hot dog I eat.
+[01:04:15.180 --> 01:04:16.820]  Bye! Bye!

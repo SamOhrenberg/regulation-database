@@ -1,0 +1,1155 @@
+[00:05.160 --> 00:06.580]  Previously on F*** Face.
+[00:17.010 --> 00:21.970]  Hello and welcome to another episode of the F*** Face podcast.
+[00:22.890 --> 00:25.590]  This is episode 97.
+[00:26.530 --> 00:28.130]  Does that sound right to you, Eric?
+[00:28.410 --> 00:30.150]  Yeah, that's yeah, that's right. I wrote it.
+[00:30.310 --> 00:31.930]  And it's episode. Oh, it's right in front of me.
+[00:31.990 --> 00:33.030]  Episode 97.
+[00:33.570 --> 00:36.850]  My name is Geoff Ramsey and with me, as always, Andrew Panton.
+[00:37.390 --> 00:38.450]  Hello, Andrew. How's it going?
+[00:38.990 --> 00:41.790]  I'm great. I have a question that I assume is for Eric.
+[00:41.950 --> 00:43.170]  I don't I don't know who does this.
+[00:43.270 --> 00:44.530]  I assume it's Eric's thing.
+[00:44.870 --> 00:45.350]  I could be wrong.
+[00:45.670 --> 00:46.870]  I'm not done with the intro yet, though.
+[00:46.890 --> 00:47.430]  Hold on just a second.
+[00:47.430 --> 00:47.810]  OK, go ahead.
+[00:47.910 --> 00:51.050]  And as and as always, Gavin free.
+[00:51.110 --> 00:51.990]  How's it going today, Gavin?
+[00:55.330 --> 00:57.790]  OK, sorry, Andrew, you wanted to ask your question.
+[00:58.430 --> 01:00.910]  That was actually that was actually not bad, Eric.
+[01:01.050 --> 01:02.650]  Thank you very much. I've been practicing.
+[01:03.350 --> 01:04.850]  As long as we needed.
+[01:05.110 --> 01:08.010]  Oh, no. OK, well, this changes the dynamic.
+[01:08.450 --> 01:09.830]  Well, never mind. Nothing's changed.
+[01:10.150 --> 01:12.150]  Hello, Gavin. How's it going, man?
+[01:12.290 --> 01:14.930]  You started. You said you're excited or you're tired.
+[01:15.350 --> 01:17.090]  No, I said, have you started? Neither.
+[01:17.250 --> 01:18.630]  Oh, yeah. We're starting right now.
+[01:18.710 --> 01:19.870]  It's three o'clock. Three o'clock.
+[01:19.970 --> 01:21.110]  We started about a minute ago.
+[01:21.450 --> 01:23.730]  Are you excited? Are you possibly tired?
+[01:24.230 --> 01:26.130]  No, just the first one.
+[01:26.190 --> 01:27.710]  You excited? Yeah, I'm excited.
+[01:27.790 --> 01:29.250]  Excited. I technically wasn't late.
+[01:29.410 --> 01:33.890]  I was on three exactly, but it was like three and probably fifty five seconds.
+[01:34.190 --> 01:37.470]  That's OK. You sent us a very funny image to the discord that we'll throw up
+[01:37.470 --> 01:40.490]  that just says it's a Windows screen that says working on updates.
+[01:40.590 --> 01:42.550]  30 percent complete. Do not turn off computer.
+[01:45.550 --> 01:48.370]  So you picked the time to update your computer.
+[01:48.450 --> 01:50.690]  I realized, well, I still haven't restarted it.
+[01:50.750 --> 01:53.850]  And I thought I can't wait like six weeks without restarting it.
+[01:54.030 --> 01:57.250]  So I just went for it about two fifty five.
+[01:57.330 --> 02:00.630]  But it was oh, I should have started two fifty four. Yeah.
+[02:01.410 --> 02:03.110]  Well, your computer finished updating.
+[02:03.390 --> 02:04.750]  Yeah. Holy fuck.
+[02:04.750 --> 02:08.870]  Takes me like six hours to like export one of these files.
+[02:08.990 --> 02:10.470]  I was like, there's no way he's going to make it.
+[02:10.590 --> 02:11.950]  I hate so much.
+[02:12.050 --> 02:13.990]  We've been doing this for almost two years.
+[02:14.150 --> 02:18.230]  And you still have the state, the same piece of shit steam train coal computer.
+[02:20.370 --> 02:21.770]  I'd love a new computer.
+[02:21.890 --> 02:23.630]  Get one then, we'll get you one.
+[02:24.230 --> 02:25.110]  That sounds great.
+[02:26.510 --> 02:27.310]  Sounds fantastic.
+[02:27.750 --> 02:28.950]  I don't know how to organize that.
+[02:29.090 --> 02:30.530]  Someone must organize that. That sounds great.
+[02:30.650 --> 02:31.930]  Eric, get the credit card.
+[02:33.210 --> 02:35.790]  Yeah, OK. Yeah, I'll get the credit card for the show.
+[02:37.890 --> 02:39.530]  Oh, Henry's starting off early today, too.
+[02:39.570 --> 02:40.490]  He's also excited.
+[02:40.790 --> 02:41.390]  Can I ask my question?
+[02:41.450 --> 02:44.510]  Because I feel like we're going to drift away and it's it's only it's really tied.
+[02:44.650 --> 02:45.510]  It's tied to the intro.
+[02:45.630 --> 02:51.070]  OK, I do a specific part of why did we stop numbering the episodes of the show?
+[02:51.310 --> 02:53.870]  What we didn't. I this is episode 97.
+[02:54.070 --> 02:55.190]  I just said it. No, I know.
+[02:55.210 --> 03:00.570]  But if you look at it on podcast apps, we number up to 43, I think.
+[03:00.570 --> 03:01.910]  And then the numbers stop.
+[03:01.950 --> 03:03.450]  I thought we didn't number at first.
+[03:03.630 --> 03:05.190]  And I was campaigning for the numbers.
+[03:05.290 --> 03:06.230]  And then the numbers came in.
+[03:06.270 --> 03:07.550]  Are you saying the numbers have gone again?
+[03:07.970 --> 03:09.730]  Oh, the numbers have been gone since 43.
+[03:09.930 --> 03:13.010]  From what I could tell. No, I'm pretty sure.
+[03:13.310 --> 03:15.590]  I was looking at least on Google podcast and their app.
+[03:15.730 --> 03:18.790]  We go to 43. And it's just it's just the name.
+[03:18.930 --> 03:20.890]  Who's in charge of that? Nick or Eric?
+[03:21.110 --> 03:22.410]  I don't know. Yeah, Nick.
+[03:23.030 --> 03:24.270]  Yeah, Nick's in charge of that.
+[03:24.270 --> 03:27.970]  Ha ha ha ha ha ha ha ha ha ha.
+[03:28.950 --> 03:30.890]  Nick just typed Jesus, what?
+[03:31.930 --> 03:33.250]  I'm just like, why?
+[03:34.070 --> 03:35.410]  I was just curious if there's a reason.
+[03:35.410 --> 03:39.890]  I also I'm looking at them, they're numbered on Apple.
+[03:40.290 --> 03:41.930]  So I don't want to tell you.
+[03:42.430 --> 03:43.250]  They're not numbered on YouTube.
+[03:43.870 --> 03:45.910]  Let me look at let me let me pull up my I don't want to.
+[03:46.070 --> 03:46.610]  I could be wrong.
+[03:46.710 --> 03:47.610]  I mean, I'm looking at the number.
+[03:48.530 --> 03:50.610]  So face. Yeah, the numbered on Apple.
+[03:50.610 --> 03:54.190]  On Google, on the Google podcast, which was... okay.
+[03:54.710 --> 03:56.290]  They're not here, that's why.
+[03:56.350 --> 03:58.590]  Today I found out Google has a podcast thing.
+[03:58.990 --> 03:59.510]  Yeah, me too.
+[04:00.870 --> 04:02.350]  I thought it was just Apple and Spotify.
+[04:03.370 --> 04:06.050]  We're in the process of the animated thing.
+[04:06.270 --> 04:09.790]  And I've been trying to source what episodes came from where.
+[04:10.550 --> 04:13.510]  And it's a nightmare beyond 43, but I'll switch to Apple.
+[04:13.750 --> 04:14.430]  I'll make it a lot easier.
+[04:14.770 --> 04:16.570]  We came up with a name for it. Have we announced the name?
+[04:16.950 --> 04:17.750]  I don't think we have.
+[04:17.750 --> 04:21.470]  I don't even think we've announced that we're doing an animated series.
+[04:21.830 --> 04:26.190]  I don't think we've gotten past early tests in animatics.
+[04:26.410 --> 04:30.310]  I don't think that we've proven that it's even going to be a viable thing.
+[04:30.770 --> 04:31.830]  Oh, okay. Whatever, Mike.
+[04:32.730 --> 04:35.950]  Well, why don't you go ahead and name it so people can ask for it when it never shows up.
+[04:36.110 --> 04:38.670]  Maybe it should be announced in a nice trailer or something.
+[04:39.010 --> 04:40.790]  Ah, we've already announced this.
+[04:40.930 --> 04:42.710]  We've already talked about it on the show.
+[04:42.710 --> 04:45.650]  In the most f*** face way ever.
+[04:46.590 --> 04:48.790]  We've announced it on the show now.
+[04:49.190 --> 04:52.250]  And now you're going, hmm, maybe we should announce it a different way.
+[04:52.450 --> 04:53.270]  That's not going to happen.
+[04:53.970 --> 04:56.050]  We've announced it like a week ago.
+[04:56.490 --> 04:58.470]  It's already come out, us talking about it.
+[04:58.590 --> 05:03.910]  I feel like two weeks ago, I think it's, as Nick said, I think I talked about it already.
+[05:04.010 --> 05:05.770]  I think I asked in the episode, can I talk about it?
+[05:05.790 --> 05:06.350]  You're like, yeah.
+[05:06.590 --> 05:08.150]  That was like a month ago, wasn't it?
+[05:08.170 --> 05:09.930]  It was quite a while ago.
+[05:09.930 --> 05:13.290]  So Gavin, you've been keeping everybody in suspense for a month.
+[05:13.410 --> 05:15.430]  You came up with the name. Why don't you say what it is?
+[05:15.930 --> 05:17.470]  I would say it was in collaboration with Eric.
+[05:17.610 --> 05:22.070]  But we've decided on F*** Face Regulation Animation.
+[05:29.020 --> 05:29.740]  It's a great name.
+[05:30.080 --> 05:31.800]  Yeah, that's a fantastic name. I absolutely love it.
+[05:31.920 --> 05:33.380]  Didn't want to take any credit away from Eric.
+[05:33.480 --> 05:35.600]  Didn't realize it was a combo naming.
+[05:36.200 --> 05:37.680]  Well, he's inspired me.
+[05:37.940 --> 05:38.980]  Congratulations to both of you.
+[05:39.900 --> 05:40.920]  I think it's a great name.
+[05:40.920 --> 05:42.680]  I'm all about it.
+[05:42.920 --> 05:49.140]  We cannot use the word, when appropriate, you cannot overuse the word regulation.
+[05:49.660 --> 05:50.900]  It's a regulation word.
+[05:51.860 --> 05:53.780]  It's a great word. It's a great regulation word.
+[05:54.480 --> 05:57.940]  What's the regulation amount of regulations per episode?
+[05:59.280 --> 06:02.560]  I mean, it's purely conversationally dependent, you know?
+[06:02.820 --> 06:03.060]  Yeah.
+[06:04.040 --> 06:08.480]  There might be episodes where the word's not appropriate at all.
+[06:08.720 --> 06:10.760]  Although I would find that hard to believe.
+[06:10.760 --> 06:11.560]  That's fair.
+[06:11.960 --> 06:14.520]  Hey, so we got three big things to talk about today.
+[06:14.520 --> 06:16.240]  And I want to make sure we get through all of them.
+[06:16.860 --> 06:19.160]  One, I know everybody remembers...
+[06:19.160 --> 06:21.860]  Well, first off, there was a beanhole.
+[06:22.060 --> 06:23.420]  We need to discuss that.
+[06:23.540 --> 06:26.740]  I'm so excited. I've been actively avoiding any infection.
+[06:26.900 --> 06:27.700]  It's so busy.
+[06:28.340 --> 06:30.700]  The beanhole saga has been completed.
+[06:31.000 --> 06:32.820]  And I saw there was some confusion.
+[06:33.040 --> 06:33.900]  I think a lot...
+[06:33.900 --> 06:35.920]  Now, of course, I'm talking to the audience from three weeks ago,
+[06:36.020 --> 06:37.160]  because we're recording in advance.
+[06:37.160 --> 06:39.520]  But a lot of people were looking for that little video teaser
+[06:39.520 --> 06:41.180]  that we watched in the episode.
+[06:41.400 --> 06:44.220]  We only released some images of it,
+[06:44.260 --> 06:45.680]  because we want to cut a full video together.
+[06:45.960 --> 06:46.920]  It's probably out by now.
+[06:48.180 --> 06:50.880]  But now, three weeks later, you'll understand why we didn't do it.
+[06:50.960 --> 06:53.760]  And stop complaining that it's not on the Instagram.
+[06:54.380 --> 06:57.940]  So we got the completed beanhole saga.
+[06:58.560 --> 07:05.500]  We have Geoff signing 350 baseballs.
+[07:07.160 --> 07:11.580]  And, of course, this is the unveiling of all of our cup ideas
+[07:11.580 --> 07:13.460]  that we were going to agree to come back with.
+[07:13.840 --> 07:18.260]  As somebody who has actively avoided the beanhole and the signing thing,
+[07:18.660 --> 07:20.480]  the fact that you described it as you...
+[07:20.480 --> 07:24.820]  I believe it's the first time you've described it as you signing the baseballs
+[07:24.820 --> 07:27.440]  and not hitting the baseballs, which has me worried.
+[07:28.000 --> 07:28.400]  Okay.
+[07:28.900 --> 07:30.220]  Well, I'll tell you what.
+[07:31.060 --> 07:33.440]  Of those three things, I'll let y'all pick.
+[07:33.520 --> 07:34.600]  What do we want to talk about first?
+[07:34.600 --> 07:37.780]  Well, baseball is something I've been working on all morning.
+[07:37.960 --> 07:39.200]  A little clip for you, Andrew.
+[07:40.660 --> 07:41.980]  Let's build up to that, then.
+[07:42.000 --> 07:43.620]  You don't have any clips of beanhole, do you?
+[07:44.440 --> 07:46.460]  Why are we building? What are we building for?
+[07:47.860 --> 07:51.420]  I think we should show Andrew the video.
+[07:52.120 --> 07:52.980]  I want to see the video.
+[07:53.140 --> 07:55.640]  Okay, well, before we do that, Andrew...
+[07:55.640 --> 07:56.760]  What are you doing?
+[07:56.900 --> 07:57.860]  No, no, this is part of it.
+[07:58.440 --> 08:00.360]  Andrew, before we do that, let me ask you a question.
+[08:00.360 --> 08:07.280]  You know, the premise of this, if you're new to f***face, if you're not deep into the lore of nothing,
+[08:08.760 --> 08:13.520]  then what was proposed was that I signed a baseball bat backwards,
+[08:14.240 --> 08:16.680]  well, burned my signature into a baseball bat backwards,
+[08:16.880 --> 08:20.300]  dipped it in paint, and was going to autograph 350 baseballs
+[08:20.300 --> 08:25.560]  by having them shot at me via a pitching machine and then me hitting them.
+[08:26.700 --> 08:29.300]  Andrew, let me ask you, how do you think that went?
+[08:29.900 --> 08:33.020]  Oh, horrible. It was never going to work. It's a disastrous idea.
+[08:33.380 --> 08:34.940]  It would just fail miserably.
+[08:35.120 --> 08:37.840]  Where do you think the breakdown was? Was it my ability to hit a ball?
+[08:37.980 --> 08:39.620]  Was it my decrepit age?
+[08:39.880 --> 08:40.780]  No, I think...
+[08:40.780 --> 08:43.340]  Was it just a flawed concept from the start?
+[08:44.060 --> 08:46.160]  Oh, it's a flawed concept from the start.
+[08:46.500 --> 08:48.440]  The bat would never... that's not how bats work.
+[08:48.580 --> 08:51.680]  It would never... what you did makes no difference to anything.
+[08:51.840 --> 08:53.800]  It just would be smeared paint on a ball.
+[08:54.140 --> 08:56.680]  It would do nothing. Your signature would not be legible.
+[08:56.900 --> 08:58.200]  We've known this from the start.
+[08:58.200 --> 08:59.860]  This is not a surprise.
+[08:59.980 --> 09:04.880]  So you think that the signature didn't work, but I probably was really good at hitting a baseball then?
+[09:05.260 --> 09:10.540]  I think you're capable of hitting a baseball. I don't think you're going to hit 350 in an afternoon.
+[09:10.800 --> 09:12.800]  How many do you think I could have hit in an afternoon?
+[09:13.940 --> 09:18.800]  I bet you hit... I would put the line at like 30 at most.
+[09:19.420 --> 09:20.200]  Well, I'll say this.
+[09:20.240 --> 09:21.620]  Why don't we refer to exhibit A?
+[09:22.140 --> 09:23.300]  Yeah, okay, here we go.
+[09:23.400 --> 09:23.800]  Oh!
+[09:24.300 --> 09:24.500]  Ready?
+[09:24.500 --> 09:28.760]  Okay, Geoff is in baseball gear. He's lining up, he's at the plate.
+[09:28.900 --> 09:31.120]  Okay, alright. I'm going to count down.
+[09:31.620 --> 09:32.660]  No, go ahead Andrew, go ahead.
+[09:33.000 --> 09:36.620]  It just looks like you've pined hard your bat the entire way.
+[09:36.740 --> 09:38.440]  That doesn't look at all like a thing.
+[09:38.560 --> 09:40.880]  I've dipped it in a bucket of black house paint.
+[09:41.640 --> 09:42.120]  What?
+[09:42.340 --> 09:43.400]  Really thick house paint.
+[09:43.800 --> 09:54.140]  I've got Larry Bird socks on, my oldest Vans, a baseball uniform, I've got a Don Zimmer shirt on under, and my kind lady kitty hat.
+[09:54.600 --> 09:55.500]  Gavin's playing catcher.
+[09:55.500 --> 09:56.420]  This is not going to sound...
+[09:56.420 --> 10:01.440]  That's Nick. By the way, Nick is there. Nick and Eric and Gavin were all present.
+[10:02.680 --> 10:03.120]  And...
+[10:03.120 --> 10:05.320]  This is super fan check, made an appearance.
+[10:05.760 --> 10:06.080]  Eventually.
+[10:06.240 --> 10:11.240]  Oh, that's great. This is going to sound like it's an insult, and I don't mean it to be, Geoff.
+[10:12.200 --> 10:21.060]  This is a very strange photo, because from like the hips up, it looks like somebody who knows baseball, but from the hips down, it looks so out of its place.
+[10:21.840 --> 10:25.860]  Nothing about your footing, or the way you're standing, it looks like you're very uncomfortable.
+[10:26.200 --> 10:27.380]  But waist up looks great.
+[10:27.500 --> 10:34.800]  I will tell you this, I am a little uncomfortable, because there are... that is a... it's just holes. Holes in the ground. I'm trying to stand around.
+[10:35.980 --> 10:41.640]  You can see my back foot is... my heel of my back foot is like three inches lower than the top of my foot.
+[10:41.900 --> 10:42.940]  I have a question for Gavin.
+[10:43.160 --> 10:50.560]  Before you saw this paint, and you have been visualizing this process in your mind, what color did you always see being used?
+[10:51.060 --> 10:54.840]  I'm curious if you had one. I had a very consistent in my head what this would look like.
+[10:55.320 --> 10:59.480]  I was... I think I was expecting something a bit more fluorescent, like orange or something.
+[11:00.040 --> 11:03.280]  I was thinking red. In my head, it was always red paint that you'd be using.
+[11:03.500 --> 11:06.540]  I'm pretty sure it was anything other than black for me.
+[11:07.800 --> 11:13.540]  Well, let me say this about the paint. Eric bought the paint, I didn't choose the color, but the color's fine. I thought it was okay.
+[11:13.940 --> 11:18.960]  I can't believe anybody thought anything other than black one of the colors for this show.
+[11:18.960 --> 11:23.180]  Yeah, it makes total sense, Eric. I just wasn't visualizing that at all.
+[11:23.500 --> 11:28.680]  Yeah, just my visualization has always been red. And like Gavin said, I don't know why, it's just where my brain has always been.
+[11:29.620 --> 11:35.460]  Well, do you guys want to see the... Gavin sent me this and said play it for everyone. I have not watched this.
+[11:35.920 --> 11:36.920]  Oh, I'm so excited.
+[11:37.640 --> 11:38.620]  It's about a minute long.
+[11:39.080 --> 11:39.920]  Oh, okay.
+[11:40.320 --> 11:40.960]  Right, here we go.
+[11:41.000 --> 11:43.060]  Will this be on Instagram?
+[11:43.460 --> 11:45.860]  I'm going to make a full episode for this, but something will be there.
+[11:46.580 --> 11:46.940]  Okay.
+[11:47.260 --> 11:48.100]  Okay, here we go.
+[11:53.160 --> 11:54.980]  Nothing's even happened, I'm already happy.
+[11:56.520 --> 11:57.760]  Oh, Jesus.
+[11:59.380 --> 12:00.580]  Oh, no.
+[12:01.180 --> 12:01.980]  Oh, no.
+[12:02.860 --> 12:03.980]  Oh, no.
+[12:09.400 --> 12:11.360]  Okay, this is like a baseball.
+[12:13.200 --> 12:15.460]  Did you swing three fifty times?
+[12:16.600 --> 12:18.660]  How long did it take?
+[12:19.660 --> 12:23.560]  This has to be the same, this is the same shot we're seeing over and over again.
+[12:23.820 --> 12:25.060]  Are these all different attempts?
+[12:26.060 --> 12:26.520]  No!
+[12:34.340 --> 12:37.160]  I've never seen anyone be so bad at anything.
+[12:37.880 --> 12:39.960]  Oh, he got one. He hit it.
+[12:40.820 --> 12:42.520]  We're going to sell one baseball.
+[12:42.840 --> 12:43.760]  This is what I've learned.
+[12:45.320 --> 12:46.880]  I see what you've done there, Gavin.
+[12:52.540 --> 12:53.680]  What do you mean, Geoff?
+[12:54.240 --> 12:56.100]  No, nothing, go right ahead, continue on.
+[13:02.490 --> 13:03.610]  I thought that was great.
+[13:04.130 --> 13:04.810]  That was cool.
+[13:04.830 --> 13:05.710]  That was fantastic.
+[13:08.270 --> 13:10.570]  Why don't you tell them what else happened?
+[13:13.610 --> 13:15.550]  Geoff, I've prepared a second video.
+[13:16.070 --> 13:16.730]  Okay, thank you.
+[13:18.650 --> 13:19.090]  Okay.
+[13:19.390 --> 13:20.730]  God, this better be a real video.
+[13:22.690 --> 13:25.130]  It's going to be a minute, I have to download it.
+[13:27.690 --> 13:29.310]  And it's two gigs!
+[13:31.530 --> 13:33.250]  Why didn't he send me both?
+[13:35.650 --> 13:39.690]  Geoff, I thought you looked great taking all those swings there, bud.
+[13:40.150 --> 13:40.630]  Thanks, man.
+[13:43.170 --> 13:45.690]  Hang on, about halfway, almost there.
+[13:46.130 --> 13:49.030]  I don't... I was laughing hard.
+[13:49.170 --> 13:50.450]  I was kind of making fun of you.
+[13:50.450 --> 13:54.710]  In your defense, it's impossible to look good missing at a baseball swing.
+[13:54.850 --> 13:55.570]  It's not your fault.
+[13:56.830 --> 13:58.910]  There's no way to look cool during that.
+[13:59.650 --> 14:03.150]  So for those who haven't seen it and are only listening,
+[14:03.410 --> 14:08.410]  I cut together every single Geoff swing and miss that I could find
+[14:08.410 --> 14:09.610]  and put it as one.
+[14:10.090 --> 14:12.690]  Honestly, so many of them look like they're repeat shots,
+[14:12.830 --> 14:14.450]  but they're all completely different.
+[14:14.930 --> 14:17.690]  To the point where the bat is swinging around in one shot
+[14:17.690 --> 14:19.930]  and then it cuts to the next shot and it's swinging the other way.
+[14:19.930 --> 14:21.430]  It kind of looks like a little helicopter.
+[14:23.770 --> 14:26.230]  How many swings and... Some of those were foul tips,
+[14:26.350 --> 14:28.130]  but how many swings and misses would you say there were?
+[14:29.050 --> 14:30.350]  I need to do the full count.
+[14:30.610 --> 14:33.690]  I'll be able to get that when I've finished the full thing.
+[14:34.310 --> 14:35.510]  Well, if those are just the misses,
+[14:35.750 --> 14:38.230]  I feel like you have greatly exceeded my expectations.
+[14:38.610 --> 14:40.430]  Are you ready for this second video?
+[14:41.050 --> 14:42.270]  I am so ready for this thing.
+[14:42.350 --> 14:42.690]  I certainly am.
+[14:43.010 --> 14:44.350]  I'm hoping I'm going to see some dinks.
+[14:44.810 --> 14:47.590]  Geoff, you don't want to watch that first video one more time just in case?
+[14:47.670 --> 14:48.530]  I'm good, I'm good.
+[14:48.530 --> 14:50.450]  That first video was very funny.
+[14:50.890 --> 14:53.010]  Would you have been mad if that was the only video I watched?
+[14:53.050 --> 14:55.030]  I might have been a little bummed, yeah.
+[14:57.310 --> 15:01.370]  Alright, this is a way less funny, way more surprising video.
+[15:05.190 --> 15:06.790]  This is the first ball.
+[15:07.030 --> 15:08.550]  The very first pitch.
+[15:17.300 --> 15:19.580]  Oh, that was great, Geoff. Great contact.
+[15:21.340 --> 15:22.460]  You hit a home run?
+[15:22.640 --> 15:23.240]  Yeah, yeah.
+[15:29.200 --> 15:29.640]  Wow!
+[15:30.120 --> 15:30.560]  Dude!
+[15:30.720 --> 15:31.840]  You're just dinging them.
+[15:35.300 --> 15:39.580]  I feel like this is contributing to the problems of the other video.
+[15:41.300 --> 15:42.580]  You're going full power.
+[15:44.040 --> 15:45.700]  Like, look at this. There's no cut here.
+[15:45.780 --> 15:46.640]  Well, wait.
+[15:47.460 --> 15:48.240]  So this is...
+[15:48.240 --> 15:48.980]  That was a home run.
+[15:51.760 --> 15:53.700]  There was people just giving up.
+[15:54.980 --> 15:56.160]  Every once in a while, I'm not lying.
+[15:57.320 --> 15:59.800]  Dude, Geoff, like, it's the strangest thing.
+[15:59.980 --> 16:01.860]  He has the least graceful form.
+[16:02.360 --> 16:05.760]  Nothing about the swing looks impressive, but it's just flying.
+[16:07.860 --> 16:09.260]  Another back-to-back.
+[16:10.800 --> 16:11.680]  So I have a question.
+[16:12.800 --> 16:14.980]  It's just, this is still, this is long, this is...
+[16:16.060 --> 16:16.640]  I apologize.
+[16:16.960 --> 16:18.500]  You hit some good, you hit some good swipes.
+[16:25.080 --> 16:25.560]  Good contact.
+[16:28.940 --> 16:30.680]  Wow, this is, you hit a lot of balls.
+[16:31.740 --> 16:38.480]  We got to the point where we had people just standing outside of the field at the back.
+[16:38.900 --> 16:41.140]  Because most of them were going into the trees.
+[16:42.020 --> 16:44.260]  I was going to say, we need to sell these.
+[16:44.940 --> 16:49.280]  Like, the backdrop looks like it just goes nowhere, like off a cliff.
+[16:49.400 --> 16:51.300]  Yeah, we lost so many.
+[16:55.140 --> 16:57.680]  Is it, so what is the backdrop of this place?
+[16:57.840 --> 17:00.780]  Is it, is it, as it appears, did it just like, is it hillside?
+[17:00.900 --> 17:03.160]  Yeah, it's like a hillside, kind of like canyon almost.
+[17:03.540 --> 17:05.900]  It just goes down into like brush and bramble.
+[17:06.460 --> 17:07.040]  Look at that.
+[17:12.560 --> 17:13.800]  Oh my god.
+[17:14.560 --> 17:16.680]  And this is Geoff looking for the balls.
+[17:17.780 --> 17:24.940]  The biggest problem we had on the day is that I hit too many home runs too far,
+[17:25.040 --> 17:27.080]  and we lost probably 20 balls.
+[17:27.500 --> 17:30.300]  I, next time I'm in Austin, I want to try to find one.
+[17:30.360 --> 17:30.600]  Okay.
+[17:30.700 --> 17:32.280]  I want to go there, I want to see if I can get one.
+[17:32.420 --> 17:37.480]  I would guess, you saw me miss about 40 swings out of, I'll be honest with you,
+[17:37.660 --> 17:41.120]  I didn't hit 350 balls, I hit 250, and I stopped.
+[17:41.260 --> 17:43.580]  Wow! That's way better than I thought.
+[17:43.740 --> 17:46.220]  250 proved to be, that was my limit.
+[17:46.580 --> 17:55.380]  Of the 250, I would say I connected, I fully connected on probably 70% of them on the first time, first try.
+[17:56.060 --> 17:56.400]  Wow.
+[17:56.400 --> 18:01.860]  You saw every time I missed in the first video, I would say, I would guess I probably hit 50 home runs.
+[18:02.780 --> 18:09.500]  And we decided that we would box up a ball if he swinged, or swung and missed, but not if he didn't swing.
+[18:09.740 --> 18:12.640]  So, he either hit it or he swung and missed, and that's what we're selling.
+[18:13.080 --> 18:14.900]  So we're only selling the ones he missed?
+[18:14.980 --> 18:18.740]  Yeah, like if he didn't go for the swing, we just put it back into the rotation to pitch again.
+[18:19.040 --> 18:21.480]  Hang on. Hang on. Hang on.
+[18:21.480 --> 18:22.660]  The wording of that is weird.
+[18:22.660 --> 18:31.420]  If, if Geoff swung the bat at the ball, that ball is being sold, whether it was connected with or not.
+[18:31.580 --> 18:32.920]  Okay, understood.
+[18:33.320 --> 18:39.760]  We, I hit every ball eventually. The ones that we swung and missed, we, we went, we, we, I hit again.
+[18:40.380 --> 18:40.720]  Back through the rotation.
+[18:40.720 --> 18:49.520]  Okay, so, that is all answered. Is there a photo of what a signature looks like with this, this bat paint idea?
+[18:49.520 --> 18:52.700]  I'd like to see what a ball after being hit appeared like.
+[18:54.140 --> 18:56.140]  Uh, I don't have one. Do you guys?
+[18:56.720 --> 19:00.140]  Hang on, if you give me a second, I think that I can send you a picture.
+[19:00.920 --> 19:03.460]  Okay, I'm, I'm leaving the stream. I'll go back to the chat.
+[19:03.460 --> 19:07.380]  No, no, you know what? I can, I can slack it. It's gonna be easier if I slack it to you guys.
+[19:07.480 --> 19:09.320]  Okay, I'm just looking to slack.
+[19:09.580 --> 19:15.260]  Because that is, the other layer of this, like beyond you being able to hit, I'm very impressed, Geoff, that you hit as many as you did.
+[19:15.940 --> 19:16.580]  That's amazing.
+[19:17.480 --> 19:19.920]  I'm curious what the signature actually looks like.
+[19:20.420 --> 19:23.280]  Uh, it looks like, well, I guess Eric will show you.
+[19:23.460 --> 19:28.580]  It looks pretty much like what you expect it to look like. I've sent the pictures now.
+[19:29.340 --> 19:29.780]  Oh.
+[19:31.160 --> 19:34.180]  Yes. It's just black smudges, which is great.
+[19:34.440 --> 19:36.100]  Awesome. Awesome.
+[19:36.600 --> 19:38.660]  So, what I, there was, Geoff's official signature.
+[19:38.880 --> 19:40.020]  What did you do to the bat?
+[19:41.460 --> 19:42.500]  What did I do to it?
+[19:42.880 --> 19:43.200]  Yeah.
+[19:43.900 --> 19:44.380]  What do you mean?
+[19:44.380 --> 19:48.120]  Like, what was the work you did on the bat that was meant to end up on the ball?
+[19:48.740 --> 19:53.820]  Oh, I burned my name into it so that, there was one ball we found that had a G on it.
+[19:55.860 --> 20:01.880]  One of the early, one of the early balls had an actual G on it. Somebody will get it. It'll be theirs.
+[20:02.120 --> 20:06.200]  But we worked out afterwards that you've burned into the bat.
+[20:06.520 --> 20:06.740]  Yes.
+[20:06.860 --> 20:10.880]  So the only way it could be a G is if it was an inverse G.
+[20:10.880 --> 20:15.000]  No, I burned it in backwards on the bat so that it would be correct on the ball.
+[20:15.140 --> 20:18.380]  No, but it's sunken into the bat. It's not sticking out from the bat.
+[20:18.380 --> 20:29.900]  Yeah, but the, what we, what I was doing early on is I was dipping it and then I was, I was wiping down the barrel so that the only paint that was on the bat was in the reservoirs of the G of my name.
+[20:30.100 --> 20:40.380]  Hey, Andrew, when you, when you looked at that bat and you said, boy, it looks like you rubbed pine tar all over that thing, did it look like the only paint on that bat were in the reservoirs of the signature?
+[20:40.380 --> 20:43.220]  Well, that, that's because that went out the window very quickly.
+[20:44.140 --> 20:48.920]  That, but for the, but that wouldn't, it worked with the first, like, four balls.
+[20:49.800 --> 20:56.980]  And then I, then I was just, then I was just trying to sling as much paint on them as possible, and I thought it looked way cooler to have a big black smudge than anything else.
+[20:57.780 --> 21:06.420]  I know, like, the, the MLB has changed their pine tar rules over time. I don't think there was ever a time in which that amount of pine tar would be acceptable for the coverage of the bat.
+[21:06.500 --> 21:09.640]  Like, it was, it was bottom to top, just coated.
+[21:09.640 --> 21:10.900]  Yeah, it looked like Trey Turner, right?
+[21:12.640 --> 21:12.960]  Uh...
+[21:12.960 --> 21:17.740]  Dude, I was hoping that Gavin was going to accuse you of corking the bat when he was asking about...
+[21:17.740 --> 21:19.460]  He doesn't know what corking the bat is.
+[21:19.480 --> 21:21.740]  Yeah, I don't, I don't know what that means, Andrew, I'm sorry.
+[21:22.240 --> 21:22.620]  Not Trey Turner.
+[21:22.620 --> 21:23.000]  That's a gag.
+[21:25.380 --> 21:32.380]  Uh, we were all very surprised, and I think, I don't, I can't tell if Geoff was strolling out there with confidence or whether he was just hoping.
+[21:33.060 --> 21:37.080]  Uh, what do you think it was, Geoff? Were you just relieved or were you like, oh, I knew I was going to do that?
+[21:37.500 --> 21:43.780]  Uh, I'll be honest with you guys, I, I have that level of confidence in all this stuff.
+[21:43.880 --> 21:47.560]  I still think I can throw, I still think I can throw the ball 80 miles an hour.
+[21:47.660 --> 21:49.360]  I wouldn't have said it if I didn't think I could do it.
+[21:49.400 --> 21:56.640]  My body has gotten in the way, but, uh, the thing that was, that I realized, I don't know if we talked about this on the podcast or not, but I'm 46.
+[21:57.160 --> 22:00.020]  I hadn't hit a baseball with a baseball bat since I was 17.
+[22:01.000 --> 22:03.180]  And so it's been 29 years.
+[22:03.460 --> 22:06.400]  In my head, I could still hit like I was 17.
+[22:07.280 --> 22:09.980]  Uh, and it turns out, I could.
+[22:10.580 --> 22:16.700]  I, I was still able, I would say I, my batting average on the day was probably 750, which is astronomical.
+[22:17.360 --> 22:21.840]  Uh, again, the pitching machine was only pitching 45, but, I mean, that's about as fast as I can throw.
+[22:22.400 --> 22:24.300]  Uh, and, uh, at the moment.
+[22:24.600 --> 22:27.980]  And I, and I, I probably knocked out 40 or 50 home runs.
+[22:28.060 --> 22:29.600]  I felt really, really good about that.
+[22:29.640 --> 22:35.700]  That first video, that first video, oh man, you really, you really got me with that one.
+[22:37.640 --> 22:38.460]  Boy, did ya.
+[22:39.340 --> 22:42.760]  But, uh, but out of 200, I hit 250 balls that day.
+[22:42.860 --> 22:46.160]  We probably lost 20, 20 of the home runs that we just couldn't get to.
+[22:46.760 --> 22:48.720]  Uh, how did I feel the next day? Eric asked.
+[22:49.160 --> 22:51.740]  Um, but no, Andrew, I was, I was relieved.
+[22:52.080 --> 22:56.620]  I was super relieved that it, that I, that I didn't embarrass myself.
+[22:56.740 --> 23:02.900]  I felt vindicated because there were about 10 people that went out there purely to watch me fall on my face.
+[23:02.900 --> 23:06.960]  Including my girlfriend, including her parents who were in from Oregon.
+[23:08.800 --> 23:13.340]  Uh, including Superfan Jack and Cole and a bunch of Eric's friends.
+[23:13.540 --> 23:18.720]  And I went out and first pitched, put one over the field and then proceeded to do it 50 more times.
+[23:19.200 --> 23:22.960]  Uh, so I felt like, I felt good about myself for once.
+[23:23.600 --> 23:24.260]  That was nice.
+[23:24.560 --> 23:29.020]  Now, to answer Eric's question, uh, how did I feel about the next day?
+[23:29.120 --> 23:30.020]  Or how did I feel the next day?
+[23:30.020 --> 23:33.420]  Uh, I, I, today is the first day I haven't limped.
+[23:34.460 --> 23:35.520]  Oh no.
+[23:37.520 --> 23:42.960]  I could, I had, Monday was hell, was excruciating.
+[23:43.560 --> 23:44.460]  Oh no.
+[23:44.560 --> 23:48.780]  My hip, my right hip where I was swinging, it was on fire.
+[23:49.120 --> 23:50.560]  My legs hurt.
+[23:50.940 --> 23:52.260]  My elbows hurt.
+[23:52.400 --> 23:53.480]  My back hurt.
+[23:54.020 --> 23:56.020]  Uh, my, my shoulders hurt.
+[23:56.020 --> 24:01.360]  Not all of that though, paled in comparison to my hands.
+[24:02.040 --> 24:07.180]  Which were just, I don't know if you've ever bruised the palms of your hands.
+[24:07.580 --> 24:09.240]  I guess I had not.
+[24:09.500 --> 24:10.820]  Certainly not to this extent.
+[24:11.060 --> 24:13.900]  My right hand was black, uh, on the padding.
+[24:14.600 --> 24:22.840]  And I, both of my hands, the entirety of the inside of my hands hurt so bad that just touching them was excruciating.
+[24:22.840 --> 24:27.160]  I, I, and by the way, fuck glass, let me get back to that.
+[24:27.440 --> 24:35.900]  I was in the bathroom, and I picked up a glass to get some laundry detergent from this thing, and my hand just immediately dropped it and shattered it everywhere.
+[24:36.080 --> 24:42.080]  And I couldn't hold the broom, because I couldn't hold the broom with my hands to sweep it up.
+[24:42.260 --> 24:44.080]  It hurt so fucking bad.
+[24:44.740 --> 24:45.700]  It probably was a pizza.
+[24:47.740 --> 24:48.560]  It hurt.
+[24:48.620 --> 24:50.720]  I mean that surely is not the glass's fault.
+[24:50.800 --> 24:51.960]  My hands are fine now.
+[24:51.960 --> 24:55.580]  But my, my finger, I had no tensile strength.
+[24:55.920 --> 24:57.880]  My finger, I could barely drive.
+[24:58.240 --> 25:00.220]  It was hard to put my hands around the steering wheel.
+[25:00.580 --> 25:01.620]  For, until yesterday.
+[25:01.760 --> 25:02.980]  My hands started to feel better yesterday.
+[25:03.080 --> 25:03.500]  Today they're fine.
+[25:03.540 --> 25:08.180]  You took your glove off on the day, and you had like a big fat forearm and wrist.
+[25:08.320 --> 25:09.360]  Like it would already swell up.
+[25:09.360 --> 25:09.540]  Oh yeah.
+[25:09.920 --> 25:12.220]  And my left wrist would swell up insane.
+[25:12.340 --> 25:12.820]  It was crazy.
+[25:13.300 --> 25:16.580]  But I hit 250 fucking baseballs swinging as hard as I could, so.
+[25:16.960 --> 25:18.520]  I guess, uh, you know.
+[25:18.880 --> 25:21.380]  I apologize if you've covered, how long were you guys out there?
+[25:21.380 --> 25:22.320]  How long did this take?
+[25:23.620 --> 25:24.760]  A couple hours?
+[25:25.140 --> 25:25.680]  Two hours maybe?
+[25:26.040 --> 25:27.200]  Yeah, probably about two.
+[25:27.400 --> 25:31.660]  I really thought it was going to take, I thought it was going to take us four or five hours to do this.
+[25:31.720 --> 25:33.560]  Because I thought there were going to be a lot of breaks.
+[25:34.100 --> 25:36.860]  Geoff took, maybe two breaks.
+[25:37.220 --> 25:42.220]  And that was mostly to give the outfielders a break from just standing in the sun.
+[25:42.660 --> 25:46.020]  Watching 200 foot bombs fly over their heads.
+[25:48.900 --> 25:53.340]  You once asked me in a podcast earlier, Eric, how far I thought I could hit the ball.
+[25:53.720 --> 25:56.580]  And I said I thought I could hit it about 200 feet and you laughed at me.
+[25:57.440 --> 25:59.320]  I think 200 feet is about my range though.
+[25:59.740 --> 26:02.220]  Oh, you were crushing of 200 consistently.
+[26:02.420 --> 26:04.640]  Like back to backers where they were going like the same spot.
+[26:05.880 --> 26:07.800]  I bet even people at the car show were impressed.
+[26:09.020 --> 26:10.020]  What was that?
+[26:12.660 --> 26:13.700]  There was a car show?
+[26:15.440 --> 26:16.740]  Eric, what was going on there?
+[26:17.200 --> 26:18.760]  What was the reaction when you arrived?
+[26:19.440 --> 26:22.840]  There was, so this is the park where we play all the time.
+[26:22.900 --> 26:26.500]  Like me and my friends, the guys who came out, Jordan Sweers and Cole and a few other people.
+[26:27.060 --> 26:30.100]  Every time we go out, it's a big empty park.
+[26:30.220 --> 26:32.320]  And we go to the baseball field, it's a big empty baseball field.
+[26:32.960 --> 26:36.860]  I show up Sunday morning to start getting set up before everyone gets there.
+[26:37.400 --> 26:40.560]  And it is just, it's like, Andrew, it's a car show.
+[26:40.560 --> 26:47.480]  Like a, like a tricked out, like, it's a car, it's like a full on car show.
+[26:47.640 --> 26:49.900]  And I almost had a panic attack.
+[26:51.020 --> 27:00.300]  I just, I pulled my 90, like my 2007 Hyundai Accent up to this car show where I usually park to go to baseball.
+[27:00.560 --> 27:04.120]  And the guy just looked at me and went, I don't think you're supposed to be here.
+[27:04.180 --> 27:08.360]  And I went, I don't think I am either, but can I unload my stuff and then park anywhere else?
+[27:08.360 --> 27:09.660]  And he's like, yeah, that's fine.
+[27:10.480 --> 27:13.400]  There's just a car show. A lot of people at this car show.
+[27:13.820 --> 27:15.440]  On a Sunday morning. So weird.
+[27:15.620 --> 27:23.240]  Yeah, with like the bonnets up, big tricked out rims, like big purple hummers with art on, like 19 speakers hanging out the back, like that kind of thing.
+[27:23.420 --> 27:26.700]  And then we're just there getting dropped off in normal cars.
+[27:27.200 --> 27:29.020]  And they're very confused about it.
+[27:29.620 --> 27:35.180]  It made me so excited because I've been actively avoiding all info about this because I want to hear it for the first time on the show.
+[27:35.180 --> 27:41.920]  The only thing I saw relating to this was Eric posted a map and a group text of where to go.
+[27:42.040 --> 27:45.800]  And it looked like reconnaissance from like a military movie.
+[27:46.140 --> 27:48.600]  It's like a Google Maps top down view.
+[27:48.660 --> 27:52.020]  And there's lines like the fact it seemed like a whole mission just to get there.
+[27:52.060 --> 27:54.700]  And I was immediately it just furthered the excitement.
+[27:55.440 --> 27:58.260]  This is great. I'm so glad that this finally came together.
+[27:58.380 --> 28:01.080]  When are we going to sell the baseballs? Do we have a date for that yet?
+[28:01.080 --> 28:03.820]  I don't know, but I would like... they were supposed to pick them up this week.
+[28:04.240 --> 28:06.160]  Econ was supposed to pick them up this week and they haven't done it yet.
+[28:06.240 --> 28:08.140]  But I got 250 baseballs.
+[28:08.200 --> 28:13.800]  And by the way, we have another 100 baseballs that we haven't... like we just didn't even open the final box.
+[28:13.940 --> 28:16.440]  So we can hit them with another color of paint.
+[28:16.640 --> 28:17.940]  Or maybe have Gavin hit them.
+[28:18.160 --> 28:21.900]  Or come up with some... we got 100 baseballs to fuck with in some way.
+[28:22.020 --> 28:23.520]  Or sell them pristine if we want.
+[28:23.580 --> 28:27.720]  But I feel like we could do... I feel like what we've done here is very fun and very clever.
+[28:27.940 --> 28:29.820]  And I think people will really like it.
+[28:29.820 --> 28:32.720]  We should say that there's not just a signature on these balls.
+[28:32.920 --> 28:38.140]  The way the pitching machine worked, I realized, was just a spinning tire inside that red thing.
+[28:38.220 --> 28:40.200]  So they all have a skid mark on them too.
+[28:40.400 --> 28:44.800]  Yeah, and there's also a lot of grass and mud and leaves and stuff.
+[28:45.480 --> 28:50.940]  Geoff, how many seconds into that first video did you realize that I'd screwed with you?
+[28:51.740 --> 28:56.420]  A second... well, the second... at that. So, immediately.
+[28:56.420 --> 28:56.980]  Immediately.
+[28:59.560 --> 29:00.320]  Yeah, immediately.
+[29:01.960 --> 29:07.400]  Man, I will say, I don't know why I haven't been hitting baseballs for the last 29 years.
+[29:07.520 --> 29:09.180]  It is a ton of fucking fun.
+[29:09.400 --> 29:11.280]  And I had never hit a pitching machine before.
+[29:11.540 --> 29:13.300]  Holy shit, those things are great!
+[29:13.620 --> 29:16.280]  Is that gonna be your new hobby now? Are you just gonna be in batting cages?
+[29:16.300 --> 29:20.180]  Yeah, but not... I'm gonna... I'll do like 50, not 250.
+[29:20.240 --> 29:22.600]  Yeah, you'll be immobilized.
+[29:28.600 --> 29:30.920]  This ad is brought to you by ExpressVPN.
+[29:31.480 --> 29:37.620]  Watching Netflix without using ExpressVPN is like buying tickets to a Taylor Swift concert but only being allowed to watch the opening act.
+[29:38.080 --> 29:39.360]  Why do you need ExpressVPN?
+[29:39.920 --> 29:45.420]  Netflix has thousands of shows, but without a VPN you only get access to a fraction of that based on your location.
+[29:45.920 --> 29:47.620]  How does ExpressVPN unblock content?
+[29:48.280 --> 29:50.540]  ExpressVPN lets you change your online location.
+[29:50.780 --> 29:53.980]  Control where you want Netflix or other streaming websites to think you're located.
+[29:53.980 --> 29:57.900]  I recently used it to watch Lassie because it was available in my region.
+[29:58.080 --> 30:04.600]  But you can use it to watch the libraries of any show or movie in any region that is available on the streaming service you're using.
+[30:04.920 --> 30:08.580]  Also, they have a Netflix content unblocking chart which you can find on their site.
+[30:09.060 --> 30:11.040]  It's super easy to use the service.
+[30:11.220 --> 30:16.620]  You just open the app, select the country name, tap one button to connect to it, and then once you refresh the page, it's there.
+[30:17.140 --> 30:19.880]  Why choose ExpressVPN over other VPNs?
+[30:19.880 --> 30:24.220]  ExpressVPN has blazing fast speeds, streaming HD with zero buffering,
+[30:24.640 --> 30:28.860]  it's compatible with all your devices, phones, laptops, media consoles, smart TVs, and more.
+[30:29.200 --> 30:33.120]  Servers in 94 different countries, gain access to thousands of new shows,
+[30:33.480 --> 30:37.620]  and it works with other streaming services, BBC iPlayer, YouTube, and more.
+[30:38.200 --> 30:43.620]  So be smart. Stop paying full price for streaming services and only getting access to a fraction of their content.
+[30:44.020 --> 30:46.440]  Get your money's worth at expressvpn.com.
+[30:47.120 --> 30:54.520]  Don't forget to use my link at expressvpn.com to get an extra three months of ExpressVPN for free.
+[30:54.940 --> 30:58.020]  This ad is brought to you by HelloFresh, America's number one meal kit.
+[30:58.320 --> 31:02.740]  Get farm-fresh seasonal produce and easy-to-make recipes delivered right to your door every week.
+[31:03.300 --> 31:07.300]  Ingredients travel from the farm to your doorstep in under a week so they always arrive fresh,
+[31:07.660 --> 31:10.260]  all without a trip to the grocery store or farmer's market.
+[31:10.640 --> 31:12.260]  It's all about convenience with HelloFresh.
+[31:12.260 --> 31:15.960]  Not only do the ingredients come pre-portioned so you're not overbuying or wasting food,
+[31:16.240 --> 31:22.400]  but it's easier than ever to get filling meals on the table in a snap with options like family-friendly or quick and easy recipes.
+[31:22.800 --> 31:28.400]  I love HelloFresh. Literally every time I talk about it, I discuss even just how exciting getting the box is.
+[31:28.520 --> 31:31.160]  It's so cool. You open it and you have all the pre-portioned ingredients.
+[31:31.580 --> 31:34.900]  It's so easy to navigate. The recipes are always delicious.
+[31:35.260 --> 31:41.040]  Regardless of what your skill level is, it's super approachable, and cooking is a thing that I've really enjoyed learning how to do.
+[31:41.040 --> 31:46.240]  And HelloFresh has made it easier to expand the recipes that I'm able to make. It's a great service.
+[31:46.780 --> 31:55.280]  So go to HelloFresh.com and use code FACE16 for up to 16 free meals and 3 free gifts.
+[31:55.600 --> 32:04.780]  That is HelloFresh.com and use code FACE16 for up to 16 free meals and 3 free gifts. Thank you.
+[32:05.100 --> 32:08.860]  Have you ever just been too damn high? With today's weed, it can be a dangerous game.
+[32:08.860 --> 32:12.140]  And we don't always have the time to play reefer roulette when we're looking to light up.
+[32:12.740 --> 32:16.440]  Dadgrass is reviving the pleasure of the casual smoke so you can chill out without the stress.
+[32:17.080 --> 32:21.140]  Dadgrass is legal, organic, smokeable hemp that relaxes your body and mellows your mind.
+[32:21.700 --> 32:29.800]  Their 100% organic pre-rolled joints are very low in THC and high in CBD so you can enjoy the effects of CBD while keeping a clear head.
+[32:30.220 --> 32:35.380]  Want the toke without the smoke? Dadgrass also has a CBD tincture made with the same high quality hemp.
+[32:35.760 --> 32:37.920]  It's easy to dose and the effects come on smooth.
+[32:37.920 --> 32:42.280]  Chill out without getting stoned. It's like having a glass of wine and not the whole bottle.
+[32:42.760 --> 32:48.480]  All Dadgrass products are federally legal for ages 18 and over and it ships right to your door anywhere in the U.S.
+[32:49.020 --> 32:54.680]  Whether you're looking for a new buzz or a chill way to enjoy an old favorite, Dadgrass will leave you in a euphoric mood.
+[32:55.140 --> 33:00.960]  Right now, Dadgrass is offering our listeners 20% off your first order when you go to dadgrass.com.
+[33:00.960 --> 33:08.860]  Go to dadgrass.com for 20% off your first order. That's dadgrass.com slash face.
+[33:10.380 --> 33:16.800]  So is it safe to say that beans are not a cure for swelling and just general hip pain?
+[33:17.120 --> 33:20.120]  Because I'm assuming it sounded like before those were back-to-back endeavors.
+[33:20.320 --> 33:30.220]  We went straight to the beans and I've not yet prepared the bean video, but I do have two pictures from it that I think sum it up quite nicely.
+[33:30.220 --> 33:31.520]  Oh, I'm so excited.
+[33:32.000 --> 33:37.340]  So, it's been a long day. Or two hours at least, sweating hot out in Texas, swinging at baseballs.
+[33:38.440 --> 33:39.960]  You come home for the-
+[33:42.100 --> 33:43.560]  So Gaff...
+[33:43.560 --> 33:52.250]  I look like dog shit!
+[33:58.260 --> 34:03.340]  What a heart-breaking story!
+[34:03.640 --> 34:04.280]  Two photos!
+[34:06.980 --> 34:11.720]  Nick said it looks like the pots of food in Resident Evil 7
+[34:11.720 --> 34:12.560]  It does!
+[34:15.540 --> 34:19.300]  It's so bad! I can't believe
+[34:19.300 --> 34:22.220]  There was a time in which I was sad I missed the beans!
+[34:34.040 --> 34:36.660]  How many people came over for the beans?
+[34:37.600 --> 34:40.260]  Just Nick and Eric and Gavin
+[34:41.360 --> 34:44.640]  It was a very exclusive... it was limited to f***face
+[34:44.640 --> 34:45.880]  And Emily's parents
+[34:45.880 --> 34:47.480]  Well yeah and Emily and her parents
+[34:49.040 --> 34:51.120]  Emily's dad was so sweet he had two helpings
+[34:51.120 --> 34:52.360]  I don't know why
+[35:01.300 --> 35:04.800]  It was a contrasting day of highs and lows
+[35:05.460 --> 35:08.360]  I think that the baseball thing couldn't have gone better
+[35:08.360 --> 35:11.220]  Biggest vindication of my adult life
+[35:11.220 --> 35:21.900]  It turns out I am... I should be back in cleanup for the Dodgers, but probably not cooking for them.
+[35:22.300 --> 35:26.380]  The bean hole was a disaster. An unmitigated disaster.
+[35:27.780 --> 35:34.160]  Not only did it come out of the ground looking like that, they were undercooked.
+[35:36.020 --> 35:37.960]  And lukewarm at best.
+[35:39.500 --> 35:43.560]  At one point we went to the hole where we just buried all the ashes the day before.
+[35:43.960 --> 35:47.640]  And I put my hand on the ground and I was like, ooh, it's a bit warm.
+[35:47.820 --> 35:53.460]  And then Eric was like, is it warm because of the fire or warm because the sun is on it?
+[35:53.540 --> 35:57.540]  And I just put my hand on a different piece of the yard that had the sun on it.
+[35:57.600 --> 35:59.880]  And I was like, it's because the sun's on it.
+[36:01.480 --> 36:04.600]  Absolutely no heat coming from underground whatsoever.
+[36:04.600 --> 36:11.200]  It's clear to me that we... I'll be honest, I was pretty demoralized.
+[36:11.580 --> 36:18.260]  I actually haven't moved that Dutch oven of beans from that spot. It's still sitting there.
+[36:19.520 --> 36:20.880]  I'm just avoiding my backyard.
+[36:21.640 --> 36:24.800]  Can you quickly take a photo of what the beans look like now? Can we get a bean update?
+[36:25.140 --> 36:26.660]  Yeah, I'll go outside in a second and do it.
+[36:29.200 --> 36:34.000]  They definitely didn't fully cook. Clearly the fire went out early.
+[36:34.000 --> 36:36.700]  I don't know if we didn't put enough coals in there. I don't know.
+[36:37.080 --> 36:39.500]  We gotta go back to the drawing board.
+[36:39.700 --> 36:43.060]  You didn't have enough space to put coals in your one-foot hole?
+[36:43.080 --> 36:47.540]  Dude, it was so hot. Gavin and I could barely get them in. It was so hot, right?
+[36:47.920 --> 36:49.760]  Because it's one foot off the ground!
+[36:50.300 --> 36:55.780]  I was wondering whether we should have left an air chimney to keep the embers alive.
+[36:55.920 --> 36:58.400]  But I think in all the videos it just says completely burial.
+[36:58.900 --> 37:00.080]  Yeah, it's so weird.
+[37:00.900 --> 37:02.820]  So clearly we have to do it again.
+[37:04.360 --> 37:07.840]  Because while we were eating the beans, and we all ate the beans,
+[37:09.400 --> 37:12.240]  we realized that we should make a cookbook.
+[37:12.780 --> 37:14.000]  F***face cooks the food.
+[37:14.340 --> 37:17.480]  And we can have our perfected bean hole recipe in there.
+[37:18.240 --> 37:20.460]  What was the other recipe?
+[37:20.500 --> 37:24.600]  Well, we wanted to use the pizza oven that you've never touched.
+[37:25.040 --> 37:28.760]  Gavin's gonna make pizza in my pizza oven, and we're gonna come up with a F***face pizza recipe.
+[37:28.760 --> 37:31.720]  Andrew can make it. We can put Andrew's salad in there.
+[37:31.840 --> 37:36.780]  Andrew, did you know Geoff has a fully massive proper outdoor pizza oven?
+[37:37.220 --> 37:38.440]  I'm seeing this now.
+[37:38.640 --> 37:40.620]  And he doesn't use it. He's never used it.
+[37:40.880 --> 37:43.080]  I mean, that checks out. That feels like a thing you...
+[37:43.080 --> 37:43.500]  Do you know why?
+[37:43.760 --> 37:44.020]  Why?
+[37:44.180 --> 37:45.160]  It's right behind me in that photo.
+[37:45.520 --> 37:46.700]  Because there's a spider in it.
+[37:48.040 --> 37:51.160]  So I'm gonna go in there, pest control, I'm gonna burn out all the wildlife.
+[37:52.020 --> 37:54.460]  I can't. I can't. I can't do this.
+[37:55.100 --> 38:02.040]  Oh my god. Why? Why is that just... Why is that the reason?
+[38:02.880 --> 38:05.960]  Well, I also don't know how to make pizza in a pizza oven.
+[38:05.980 --> 38:07.060]  Yeah, that's fine.
+[38:07.080 --> 38:09.100]  But it's icky. It's like icky in there.
+[38:09.620 --> 38:10.840]  I'll clean it out. I'll clean it out.
+[38:11.280 --> 38:11.580]  Alright!
+[38:12.420 --> 38:15.600]  Gavin's gonna... and it's gonna be... and we're gonna illustrate.
+[38:15.800 --> 38:20.740]  I was even thinking we could use the illustrations from the F***face regulation animation show.
+[38:21.300 --> 38:25.880]  So we could have really well-illustrated, complicated cooks.
+[38:26.300 --> 38:28.380]  Because like the beanhole, it's not easy. It's not for the faint of heart.
+[38:28.480 --> 38:30.560]  But when we get it perfected, it's gonna go right in the book.
+[38:31.120 --> 38:32.180]  Gavin's pizza, boom.
+[38:32.460 --> 38:34.500]  F***face just became so much work all at once.
+[38:34.640 --> 38:37.860]  I've got... I'm editing like multiple videos in the F***face universe.
+[38:38.160 --> 38:41.560]  I'm cleaning buckets of house paint off the front of my camera.
+[38:41.800 --> 38:44.840]  I'm trying to buy a new leg for my tripod because...
+[38:45.420 --> 38:51.860]  As soon as one ball whizzed right by my camera, Andrew, the game completely changed for Geoff.
+[38:51.960 --> 38:53.940]  He was no longer going for the ball signing.
+[38:54.380 --> 38:59.240]  He was trying his absolute hardest to wreck my camera with baseballs.
+[38:59.700 --> 39:03.120]  You know, that's a good point. I probably could have hit more home runs.
+[39:03.360 --> 39:09.740]  But for the last... I would say the last half of the day, I was trying purely to kill Gavin's camera.
+[39:10.180 --> 39:12.520]  And I did take out his tripod.
+[39:12.520 --> 39:16.700]  It's true. And I've looked into replacement parts because I don't really want to...
+[39:16.700 --> 39:22.040]  He basically bent one leg, but it's really just one, like, telescopic segment of one leg.
+[39:22.440 --> 39:25.240]  And I looked it up, they're $45 per segment.
+[39:25.840 --> 39:27.520]  So I think I could just replace it with two.
+[39:28.620 --> 39:32.620]  I'm just glad you didn't hit the lens. You painted the lens, but it's not functioning.
+[39:32.960 --> 39:37.620]  I tried so hard. And you know, if I would have hit that lens, I wouldn't have felt bad at all.
+[39:37.620 --> 39:44.120]  No, I know. You would have cheered. And I would have had to congratulate you because I chose to put it there.
+[39:45.600 --> 39:47.640]  If you would have hit the lens, we'd only have one video.
+[39:48.200 --> 39:49.520]  It would only be the first video.
+[39:49.860 --> 39:53.980]  The leg got hit. And then it was like, oh man, it won't even close.
+[39:54.280 --> 40:00.440]  And then it was Gavin, when we were done trying to close it, until eventually he did get it closed.
+[40:01.160 --> 40:04.840]  And then couldn't get it back open because it's bent.
+[40:05.080 --> 40:06.220]  And then it just broke off.
+[40:06.220 --> 40:12.160]  Yeah, I think by shoving... I was trying to bend it back and I shoved the leg in and now it's permanently stuck in.
+[40:12.260 --> 40:17.700]  So now I feel like I'm actually going to have to replace the entire leg instead of just removing that bent in section.
+[40:18.340 --> 40:22.840]  Just send me the thing and I'll buy it. Happy to do it.
+[40:23.580 --> 40:26.740]  Jesus Christ. I'm laughing so hard.
+[40:26.780 --> 40:28.560]  It was a very eventful weekend.
+[40:29.220 --> 40:33.540]  It was a huge face weekend. And it was sad that you weren't there, Andrew.
+[40:33.540 --> 40:39.660]  We actually talked about, we wanted to conference call you in on the bean hole, but then we didn't want to spoil anything for you.
+[40:39.840 --> 40:45.920]  Yeah, we wanted your reaction for the episode, but also it made me just super excited for our first Canada trip.
+[40:46.140 --> 40:50.140]  Oh, that's another thing. We're going to have a crab leg recipe.
+[40:50.600 --> 40:55.040]  Because we're going to go crabbing and then we'll have a crab... F***face cooks the food.
+[40:55.400 --> 40:59.720]  We'll have crabs and pizza and beans and Andrew's salads and hot dogs.
+[41:00.280 --> 41:03.080]  You want to make ramen in a Keurig?
+[41:03.720 --> 41:05.080]  Andrew's got the recipe.
+[41:05.400 --> 41:09.100]  Can we make a hot dog hole? Can we figure out a way to do this?
+[41:09.100 --> 41:10.960]  We can totally make a hot dog hole.
+[41:11.240 --> 41:14.400]  Would we just drill little individual holes?
+[41:16.640 --> 41:20.040]  No, that's a funny idea. I was thinking just putting them in a giant pot.
+[41:20.680 --> 41:24.780]  Like boiling, like water boil, like hot dogs, like that type of style.
+[41:24.980 --> 41:27.460]  There's no way it'll work, but it can't be worse than the beans.
+[41:27.900 --> 41:29.720]  The bar's already been set so low.
+[41:29.720 --> 41:35.340]  Flavor-wise, I feel like we're fine. They just tasted a little bit like room-temperature, day-old baked beans.
+[41:35.640 --> 41:37.000]  That weren't fully cooked.
+[41:38.000 --> 41:39.720]  But nobody gets sick.
+[41:40.120 --> 41:46.640]  That's true. I was pretty gassy because I had two full bowls, but didn't throw up.
+[41:46.960 --> 41:49.540]  Nick said they weren't that bad. They weren't, but they weren't that good either.
+[41:49.680 --> 41:51.280]  And they definitely looked like shit.
+[41:54.720 --> 41:58.480]  When you took the lid off, they looked so pale brown.
+[41:58.620 --> 42:00.280]  It was a weird color.
+[42:00.960 --> 42:05.500]  It was such a letdown after such a successful day hitting home runs.
+[42:06.140 --> 42:10.000]  I went from home runs to striking out fucking hard on beans.
+[42:10.480 --> 42:11.560]  Oh my god.
+[42:11.840 --> 42:16.260]  But I'm going to get over it, and we're going to go back to the drawing board.
+[42:16.360 --> 42:20.120]  We're going to improve the hole, we're going to improve the process, and we're going to figure it out.
+[42:20.120 --> 42:22.640]  And that's what making a cookbook is all about.
+[42:23.080 --> 42:26.800]  Figuring out the recipe that nobody else has managed to get right.
+[42:27.260 --> 42:31.140]  Ooh, maybe I should buy a jackhammer of some sort.
+[42:31.140 --> 42:32.020]  That's not a bad idea.
+[42:32.180 --> 42:33.720]  To get deeper through the rocks.
+[42:34.160 --> 42:34.340]  Yeah.
+[42:34.940 --> 42:38.340]  My mind went pickaxe. I like that you've gone all the way to the jackhammer.
+[42:38.580 --> 42:46.320]  I feel like there couldn't be a larger jump between just a literal hammer to a jackhammer being your next tool.
+[42:48.320 --> 42:51.460]  Look, if we're going to start cooking stuff in the ground more, we're going to need the tools.
+[42:52.100 --> 42:54.440]  We're going to start cooking stuff in the ground more.
+[42:54.720 --> 42:58.640]  It's an untapped market. We cook exclusively underground.
+[43:00.320 --> 43:01.200]  Oh man.
+[43:02.380 --> 43:06.740]  So there you go. Hitting the baseballs, huge success.
+[43:08.380 --> 43:12.580]  Signature, it's cool. It may not look like my name, but it looks like something.
+[43:13.500 --> 43:16.380]  Bean hole, to be continued.
+[43:17.220 --> 43:20.060]  I would argue the bean hole couldn't be more successful.
+[43:20.460 --> 43:22.520]  It was everything I'd want from the bean hole.
+[43:22.840 --> 43:25.780]  If we get good at it, we can dig in public. We could have a little sign.
+[43:27.280 --> 43:29.160]  It would be my hubby's hole.
+[43:29.900 --> 43:30.540]  My hubby's hole.
+[43:32.620 --> 43:35.500]  Oh, I watched my hubby's bagels.
+[43:35.740 --> 43:39.380]  They were Instagram living last night. I watched them give a little tour of their facility.
+[43:40.420 --> 43:41.580]  Aren't they so sweet?
+[43:41.580 --> 43:42.740]  Yeah, they're awesome.
+[43:43.100 --> 43:46.080]  I can't wait. I can't wait to get their shop opens in like a week.
+[43:46.160 --> 43:47.180]  I can't wait to buy.
+[43:47.600 --> 43:52.160]  I think they're at like 250 something followers on Twitter, which is very funny.
+[43:52.280 --> 43:52.980]  They're at 315.
+[43:53.780 --> 43:55.460]  That's amazing. It's fantastic.
+[43:55.700 --> 43:58.780]  It's going to become our official hangout spot in Canada.
+[43:59.000 --> 44:00.440]  Absolutely. I'm so excited. It looks great.
+[44:00.540 --> 44:03.800]  Maybe you should go there when it opens and give a little bagel review video.
+[44:04.760 --> 44:07.280]  Oh, I'm absolutely going to buy them as soon as it opens for sure.
+[44:08.380 --> 44:11.440]  I mean, it's... I'm not going to promise that. Maybe.
+[44:11.660 --> 44:12.640]  I mean, you're a bagel guy.
+[44:13.480 --> 44:15.660]  I'm a bagel guy. Here's the thing, though.
+[44:16.160 --> 44:19.640]  I'm not going to commit to this because if I don't post a review, I didn't like the bagels.
+[44:20.160 --> 44:20.540]  I see.
+[44:21.180 --> 44:24.080]  Like if there's no review, then people will assume I didn't like them.
+[44:24.080 --> 44:25.380]  So I'm not going to say it. Maybe I will.
+[44:25.520 --> 44:28.480]  Maybe their Facebook account will just unfollow it randomly.
+[44:28.900 --> 44:30.160]  They'll be like, it never happened.
+[44:30.820 --> 44:31.180]  No.
+[44:32.160 --> 44:33.600]  I can't wait to try their food.
+[44:34.240 --> 44:40.100]  Before we go too far, Gavin said if we get good at it, we can do this in public places.
+[44:40.480 --> 44:44.840]  Do you really think that if somebody walks by and is like, why are you doing this?
+[44:45.060 --> 44:46.740]  Say, don't worry, I'm an expert.
+[44:46.980 --> 44:50.080]  Like solves any of the issues that would cause being in public.
+[44:50.360 --> 44:55.200]  Like what does our skill level or proficiency have to do with publicly doing it?
+[44:55.580 --> 44:58.800]  Well, just because it's like it'd be like a food trailer, but it'll be just...
+[44:58.800 --> 44:59.660]  No, it's not, though.
+[44:59.660 --> 45:04.100]  We can't just dig a hole in a park and be like, we're good at this.
+[45:04.100 --> 45:06.060]  If you replace your divots, I'm sure it's fine.
+[45:07.900 --> 45:12.140]  This is even better than caffeinated soup, which we still got to make, by the way.
+[45:12.400 --> 45:14.800]  I still think caffeinated soup is a phenomenal idea.
+[45:15.300 --> 45:17.060]  No, our caffeinated soup does not exist.
+[45:17.220 --> 45:18.660]  That stuff you showed me looked like dog food.
+[45:18.680 --> 45:21.980]  It wasn't specifically. It wasn't like chicken noodle soup and caffeine.
+[45:22.000 --> 45:23.620]  From the inventor of whole beans.
+[45:23.800 --> 45:25.120]  We're going to introduce you.
+[45:26.080 --> 45:29.180]  The whole world was lousy with food trailers for a couple of years, right?
+[45:29.180 --> 45:33.000]  And then everybody got anal worms, and then they all went to brick and mortars.
+[45:33.200 --> 45:35.620]  But we, the next generation, who needs the truck?
+[45:35.720 --> 45:37.440]  We've got the ground food holes.
+[45:37.820 --> 45:41.380]  Come on over to F*** Face Food Hole, and we'll dig up whatever you want.
+[45:41.480 --> 45:43.660]  We can do like a luau, have a buried pig.
+[45:43.900 --> 45:45.240]  We can have buried hot dogs.
+[45:45.620 --> 45:47.560]  We can cook anything you want in the ground, okay?
+[45:47.740 --> 45:48.660]  F*** Face Food Holes.
+[45:49.200 --> 45:52.880]  To like a kid's birthday, show up two days before and dig it up.
+[45:56.060 --> 45:57.460]  That's what I was going to say.
+[45:57.520 --> 46:02.540]  Kind of. There's a 0% chance anyone does like this is going to apply to anyone that listens to the show.
+[46:03.040 --> 46:11.640]  If you own a golf course and don't mind us f***ing up a green, it'd be so funny to dig a hole on a green and just watch people trying to golf.
+[46:11.820 --> 46:15.780]  Like dealing with the fact that we're digging a f***ing bean hole on the green.
+[46:16.240 --> 46:18.260]  Like just completely f***ing up their game.
+[46:18.720 --> 46:21.260]  If there's anyone that's cool with that, please let us know.
+[46:21.260 --> 46:24.200]  That'd be a very funny video to see people reacting.
+[46:24.620 --> 46:28.640]  If you're not cool with that, what about a sand trap? Could we do it in the sand trap next to the green?
+[46:28.740 --> 46:31.180]  Well you know, golf clubs, they're notoriously easy going.
+[46:32.840 --> 46:37.140]  Yeah. Chill, relaxed people that are tolerant to all sorts of groups.
+[46:37.400 --> 46:40.080]  I saw Caddyshack 1 and 2. It's just antics.
+[46:40.100 --> 46:41.740]  Wow. You're really committed.
+[46:42.040 --> 46:45.180]  Maybe a future RTX we can have a bean hole.
+[46:45.400 --> 46:46.860]  I would love that. I would love that.
+[46:46.860 --> 46:52.800]  Well, I mean, people can come on down to our food hole space and then get in line and buy it like everybody else.
+[46:53.400 --> 46:55.120]  We're going to be the hottest thing in Austin.
+[46:55.280 --> 46:57.420]  We'll be like the Veracruz tacos, but in the ground.
+[46:58.080 --> 47:03.780]  I just, this is, there's so many great possibilities of food underground.
+[47:04.280 --> 47:09.400]  And why are we doing this underground? Because Geoff read an article once that apparently it was very good.
+[47:09.580 --> 47:10.260]  Yeah, that's right.
+[47:12.060 --> 47:14.720]  It's a rich part of my American heritage.
+[47:14.720 --> 47:18.040]  I'll be honest. I was so surprised at both things.
+[47:18.160 --> 47:23.280]  Like I was actually expecting good things from the bean hole and I was expecting dog shit from the baseball.
+[47:23.500 --> 47:27.000]  My entire Saturday was just turned upside down.
+[47:27.120 --> 47:28.180]  Well, Sunday. Yes, it was Sunday.
+[47:28.600 --> 47:32.140]  But it was very unexpected. I couldn't believe the beans didn't work out.
+[47:32.920 --> 47:34.380]  Yeah, me too, man. Me too.
+[47:34.480 --> 47:36.540]  That's the most believable thing I've ever heard.
+[47:36.780 --> 47:38.040]  This is shocking to me.
+[47:38.560 --> 47:41.880]  Did you not see the hole? You made the hole. You're part of the hole making process.
+[47:41.880 --> 47:43.360]  It was a zero percent chance.
+[47:43.460 --> 47:44.620]  It was a hole, Andrew.
+[47:45.240 --> 47:46.840]  It was a zero percent chance.
+[47:48.420 --> 47:52.440]  I will say the look on all of your faces after about my 15th home run.
+[47:52.800 --> 47:55.680]  That made all the bean failure worth it.
+[47:55.740 --> 47:57.660]  But man, I wanted those beans to...
+[47:57.660 --> 48:00.440]  I wanted them to look like in the YouTube videos I watch.
+[48:00.560 --> 48:02.400]  They look so good in those videos.
+[48:03.060 --> 48:06.520]  Where would you rank, let's say, if the beans were perfect, Geoff?
+[48:06.700 --> 48:09.080]  You have the perfect bean day. You have an amazing baseball day.
+[48:09.080 --> 48:12.180]  Where would that day have ranked in your all-time greatest days?
+[48:12.400 --> 48:14.940]  Probably top three. Top three, 100%. Easily.
+[48:15.080 --> 48:15.800]  Top three? Yeah.
+[48:16.140 --> 48:20.420]  Top three. And only because I have to reserve Millie's birth for one of those days.
+[48:20.620 --> 48:21.740]  Absolutely. Yes.
+[48:22.880 --> 48:23.880]  Definitely top three.
+[48:26.720 --> 48:30.280]  If none of my family is listening to this podcast, maybe best day of my life.
+[48:33.400 --> 48:36.660]  It was funny watching like the surprise and the cheering at the beginning.
+[48:37.160 --> 48:39.560]  To the... just people standing there.
+[48:39.680 --> 48:43.240]  Just like watching them sail over one at a time, hitting trees.
+[48:43.420 --> 48:45.340]  It was almost like a downer for everyone else.
+[48:45.680 --> 48:48.100]  But Geoff was just absolutely knocking them.
+[48:48.860 --> 48:50.480]  It's fun. Baseball's fun.
+[48:51.640 --> 48:56.520]  So when we've sold all these balls, there's almost certainly at least 10 still back there.
+[48:56.820 --> 48:58.260]  So feel free to go and find them.
+[48:58.280 --> 48:59.360]  Oh, I can't wait to get one.
+[48:59.360 --> 49:00.320]  Oh, I'm gonna go.
+[49:00.340 --> 49:03.660]  Just be careful. It is snake country back there.
+[49:04.060 --> 49:04.740]  Oh, fuck.
+[49:05.320 --> 49:09.480]  I went back there like, I am gonna go find my home runs. Fuck this.
+[49:09.800 --> 49:12.720]  And I was back there about 30 seconds and went, oh no. Okay, I get it.
+[49:13.520 --> 49:17.180]  I understand why Cole and Jordan don't want to tromp through this.
+[49:20.340 --> 49:21.220]  Pretty sketchy.
+[49:21.300 --> 49:23.220]  Okay, that just changed the whole game.
+[49:23.540 --> 49:27.380]  I was all excited. You ever collect golf balls that were shot?
+[49:27.520 --> 49:28.200]  Yeah, yeah, yeah.
+[49:28.200 --> 49:29.960]  That was fun. I loved doing that when I was younger.
+[49:30.440 --> 49:34.360]  I had a friend who lived on a golf course when I was in Florida.
+[49:34.580 --> 49:39.520]  So I'd go over to his house on a Saturday and we would go fucking nuts collecting golf balls.
+[49:39.940 --> 49:40.640]  That's great.
+[49:41.000 --> 49:42.460]  He lived on the golf course?
+[49:42.980 --> 49:43.680]  Yeah, yeah.
+[49:44.880 --> 49:46.740]  A lot of people do.
+[49:47.400 --> 49:49.980]  Yeah, there's a lot of houses on Perimeter's golf courses.
+[49:50.840 --> 49:53.660]  I assume he's not in the middle between hole 7 and 8.
+[49:53.660 --> 49:58.840]  No, yeah, he operates the food hole over at the sand trap at 17th hole.
+[49:59.000 --> 50:01.460]  It's like a fucking mini golf course. He lived in the lighthouse.
+[50:04.280 --> 50:05.840]  His bathroom was in the giant whale.
+[50:06.540 --> 50:12.920]  No, it was like a golf community and they were just like on the edge of the golf course.
+[50:13.940 --> 50:14.660]  He's a nice kid.
+[50:15.600 --> 50:16.180]  That's great.
+[50:16.600 --> 50:19.120]  Yeah, I don't remember his name. I remember enjoying him.
+[50:20.360 --> 50:22.540]  Do you think he'd be an enthusiast of cups?
+[50:22.540 --> 50:24.240]  How do you think he would feel about cups?
+[50:24.240 --> 50:28.400]  Oh, dude, that's a great point. That's an excellent transition. I think he would be excited about cup and cup theory.
+[50:28.880 --> 50:33.500]  Andrew, do you have your cup?
+[50:33.600 --> 50:40.100]  So, to catch the audience up, we determined that glass is dog shit and people shouldn't own it.
+[50:40.520 --> 50:43.300]  Especially near their mouths. It's just a recipe for death.
+[50:44.020 --> 51:01.120]  And so we decided to design the perfect plastic cup and then hopefully go into production in it so that we can help revolutionize the world, save people's teeth and save people with sore hands from hitting a couple hundred baseballs from dropping glasses left and right and smashing their feet in the ground.
+[51:01.600 --> 51:06.320]  A recipe for death would actually be a perfect name for our cookbook. We need to write that down. We need to remember.
+[51:07.160 --> 51:08.360]  Circle back to it.
+[51:08.360 --> 51:17.600]  I think we're all supposed to do a blueprint under your guidance of the perfect cup. I have mine. I don't know if the two of you had time.
+[51:17.800 --> 51:18.180]  I did.
+[51:19.300 --> 51:20.360]  Gavin, do you have your drawing?
+[51:23.260 --> 51:25.120]  Listen, he was very busy with the videos.
+[51:25.560 --> 51:29.300]  I'll be honest, there were two reasons. I was busy editing two videos at the same time.
+[51:29.540 --> 51:36.220]  And also, we talked about this in the last episode, which is always between the one that came out and the one we're recording.
+[51:36.960 --> 51:40.720]  Completely forgot about it. Absolutely in one ear out the other, that one.
+[51:41.320 --> 51:47.760]  Yeah, that's fair. I remembered it. I woke up at 5 a.m. for a moment and thought cups and then went back to bed.
+[51:51.040 --> 51:57.660]  So I too put this in last minute. I'll submit mine. We can talk about mine because I feel like I went against direction.
+[51:57.900 --> 52:01.260]  Geoff, you asked for something simple, which is fair. I understand that.
+[52:01.260 --> 52:06.320]  But it was the perfect cup. So I wanted to illustrate in my head what I think the perfect cup is.
+[52:06.420 --> 52:10.580]  And I'd love to hear your guys' suggestions and how you generally feel about it.
+[52:11.280 --> 52:17.160]  This is the Gerpler. We're going to have to get it because some of the illustration is going to be tough to...
+[52:17.160 --> 52:21.360]  Oh, I posted it in the fucking... I'm in Slack for some reason. Let me go to Discord.
+[52:21.940 --> 52:22.860]  Whoops, that would help.
+[52:23.200 --> 52:24.640]  Gerpler. Okay, here we go.
+[52:24.720 --> 52:25.540]  Oh my God.
+[52:26.560 --> 52:27.460]  So we got the Gerpler.
+[52:28.290 --> 52:34.220]  I understand this is a complicated thing to decipher. So we're going to go piece by piece for it.
+[52:35.820 --> 52:37.960]  So we got...
+[52:37.960 --> 52:39.620]  What does that look like to you, Geoff?
+[52:40.620 --> 52:45.200]  It looks like a bat monster with one tooth.
+[52:46.760 --> 52:49.780]  It looks like a Venus flytrap with a rash.
+[52:54.300 --> 53:00.500]  So it's very tough to convey when you have ideas for both the top of the cup and the bottom and the side.
+[53:00.680 --> 53:05.680]  It's tough to get the angle of trying to display in a flat scenario.
+[53:06.200 --> 53:07.400]  What angle is that?
+[53:08.280 --> 53:10.720]  So we're going to start... It's an angle that doesn't actually exist.
+[53:10.920 --> 53:15.800]  So what you're looking at at the very top, first of all, the lines in the circle...
+[53:16.740 --> 53:17.920]  Non-Euclidean cup.
+[53:18.380 --> 53:19.720]  Are you talking about the barbed wire?
+[53:19.720 --> 53:24.860]  The barbed wire around the edge with the lines coming out of it, that's a little parachute.
+[53:25.060 --> 53:26.880]  We have a little parachute on top of the glass.
+[53:26.980 --> 53:31.920]  So in the event that you drop the glass, it will just softly float down.
+[53:32.320 --> 53:35.740]  Because to me, the perfect cup, as somebody who knocks over a lot of cups,
+[53:36.200 --> 53:41.520]  the perfect cup is a cup that can be covered in any scenario and you maintain at least...
+[53:41.520 --> 53:46.720]  We're going to do a 50% beverage guarantee that you will not lose more than half of your drink.
+[53:47.960 --> 53:50.740]  If you're using it outside on a windy day, see you later.
+[53:52.840 --> 53:55.940]  We're not done. There's more protection mechanisms built into this thing.
+[53:56.280 --> 53:58.520]  So we got a little parachute on the top.
+[53:58.760 --> 54:01.680]  Now what's in the circle, you're looking at the top of the glass.
+[54:01.760 --> 54:03.520]  You see that little tooth that you said?
+[54:04.000 --> 54:08.760]  That is a piece of plastic that you would spin around like a full circle
+[54:08.760 --> 54:10.700]  and that would seal the top of the glass.
+[54:10.960 --> 54:13.080]  Just so you're safe. You don't have to worry about...
+[54:13.080 --> 54:15.340]  So if it tips over, there's a lock in place.
+[54:15.340 --> 54:17.360]  I think I see what...
+[54:17.840 --> 54:21.920]  It's a spinning mechanism. You just grab the top of it and you tilt it
+[54:21.920 --> 54:27.540]  and the whole thing would spiral out and fully cover the glass and lock in on the other side.
+[54:27.580 --> 54:30.180]  Geoff knows what you mean. I have absolutely no idea what you're talking about.
+[54:30.980 --> 54:33.360]  So you know when you fan a deck of cards, Gavin?
+[54:33.460 --> 54:33.720]  Yeah, yeah.
+[54:34.160 --> 54:39.320]  It's like that. So that's the base part and you'd fan it across the top of the glass.
+[54:39.640 --> 54:39.980]  That's cool.
+[54:41.100 --> 54:44.460]  So that's the idea. Because you don't want it fully fanned because you need to fill the glass.
+[54:44.460 --> 54:48.220]  So it needs to just be a small piece that you could fan out once it's locked in.
+[54:48.460 --> 54:51.080]  There's a little hole below that on the side for your straw.
+[54:51.440 --> 54:53.480]  This would be a straw-designed product.
+[54:54.040 --> 54:54.680]  You have a straw there.
+[54:55.260 --> 54:58.060]  Then you have all the edges shooting out the side.
+[54:58.320 --> 55:02.620]  That is in the event that you knock over the glass and you do not have the top sealed.
+[55:03.220 --> 55:05.260]  If there's not falling, if the parachute can't help,
+[55:05.300 --> 55:07.220]  if you're just on a counter and you knock it over,
+[55:07.640 --> 55:10.060]  those will prevent it from going fully flat.
+[55:10.440 --> 55:11.420]  That will keep it at an angle.
+[55:11.420 --> 55:15.620]  You're going to lose some beverage, but we're maintaining a 50% beverage guarantee
+[55:15.620 --> 55:17.740]  with these little arms on the side just to carry it.
+[55:17.820 --> 55:22.940]  But if the parachute doesn't kick in from counter height, when would the parachute be useful?
+[55:23.960 --> 55:27.840]  I think it would from counter height, but sometimes you knock a cup over and it doesn't fall.
+[55:28.060 --> 55:29.220]  It lands on the counter.
+[55:29.820 --> 55:33.620]  So this is a scenario in which it doesn't go past the counter.
+[55:33.740 --> 55:34.940]  It just gets caught on it.
+[55:35.040 --> 55:38.140]  So it's got guard wings.
+[55:38.140 --> 55:40.700]  Yeah, essentially. It's like guard wings. It's a great way.
+[55:40.820 --> 55:42.340]  Guard wings, we're going to trademark that.
+[55:42.780 --> 55:44.160]  We've got guard wings all over it.
+[55:44.460 --> 55:46.800]  Makes sense. What does it say in the middle? Iron hole.
+[55:46.980 --> 55:47.480]  What does it say?
+[55:48.200 --> 55:49.580]  Oh, that was straw hole.
+[55:49.900 --> 55:51.720]  Yeah, and then I decided to color it in.
+[55:53.240 --> 55:56.880]  So then the last part, and this is a key part, and this is more just fun,
+[55:56.940 --> 55:58.140]  because you want a glass to be fun.
+[55:58.680 --> 56:01.400]  Four tiny retractable wheels on the bottom.
+[56:03.620 --> 56:05.940]  Because if you're at a table and someone's like,
+[56:05.940 --> 56:09.160]  Oh, yeah, like little Hot Wheels wheels.
+[56:09.420 --> 56:15.560]  So it's just, you know, I'm enjoying myself a nice frozen pineapple lemonade right now.
+[56:15.860 --> 56:18.700]  If we were at a table and I was like, hey, I want to try that.
+[56:18.920 --> 56:22.100]  Just pop the glass down, the wheels come out and I just push it over.
+[56:22.820 --> 56:24.380]  Don't have to get up, don't have to move, don't have to do anything.
+[56:24.440 --> 56:25.560]  Just slides across.
+[56:25.900 --> 56:29.060]  You see those scenes at the bar where they throw the glass down?
+[56:29.160 --> 56:31.240]  That's always seemed dangerous. I don't trust that.
+[56:31.300 --> 56:32.440]  Got to put some wheels on that.
+[56:32.960 --> 56:34.340]  Wheels, it'll go even further.
+[56:34.540 --> 56:36.660]  And then you just push it down, the wheels go back up.
+[56:37.100 --> 56:38.040]  It's like landing gear.
+[56:38.780 --> 56:39.300]  It's fantastic.
+[56:39.300 --> 56:40.980]  Do they retract up into the liquid?
+[56:41.360 --> 56:47.020]  They retract into, so there'd be kind of a thicker part of the bottom of the glass that it would retract into.
+[56:47.280 --> 56:49.360]  They would not be, there'd be like a space between.
+[56:50.300 --> 56:51.820]  It would not go into the liquid, no.
+[56:51.960 --> 56:52.940]  Is it dishwasher safe?
+[56:53.080 --> 56:54.880]  It is dishwasher safe, of course it is.
+[56:54.920 --> 56:55.760]  The parachute as well?
+[56:57.760 --> 56:59.580]  Uh, you know, we got to look into that.
+[56:59.740 --> 57:01.840]  I'm not sure, not sure about that process.
+[57:02.000 --> 57:04.300]  We got to narrow down the material to use it for the parachute.
+[57:04.500 --> 57:08.680]  But outside of the cup itself, maybe we could sell multiple parachutes.
+[57:08.780 --> 57:11.520]  We could do fun little designs on the top so you can customize your cup.
+[57:11.520 --> 57:13.640]  Oh, you could upsell, that's a great, that's, yeah.
+[57:14.380 --> 57:18.440]  So when you're drinking out of it, does the parachute just hang down by the glass?
+[57:18.820 --> 57:21.300]  Uh, yeah, yeah, the parachute just hangs, just a little hang.
+[57:21.300 --> 57:25.440]  It'll hang off the back, but the straw is on the opposite side, so you don't have to worry about the parachute.
+[57:26.160 --> 57:27.300]  No straws included.
+[57:30.620 --> 57:31.740]  You're gonna have to buy that in a pen.
+[57:31.940 --> 57:33.860]  I'm impressed, I think that's a great design.
+[57:34.480 --> 57:39.800]  It's, uh, it is the opposite of what I had envisioned, but I love it.
+[57:39.920 --> 57:46.620]  I appreciate the ingenuity, you've definitely added a lot to the cup.
+[57:47.740 --> 57:50.140]  I'd love to know what that means, what is the opposite of that cup?
+[57:50.140 --> 57:51.900]  Well, I'll show you.
+[57:56.580 --> 58:00.280]  I mean, if it had a USB port, it would be perfect.
+[58:02.660 --> 58:15.360]  That way you could be a smart cup and you could keep data on, like, how cold your beverage usually is, how many sips you take, how far it fell, distance traveled, all that stuff.
+[58:16.040 --> 58:17.020]  USB Fridge?
+[58:18.600 --> 58:25.200]  It's a bullshit product that works, but it's pointless. It's like a little USB fridge that can chill one drink.
+[58:25.580 --> 58:33.240]  That's what makes this cup. Solar-powered cup with a USB in it, you plug the USB fridge into the cup, you put the cup in the fridge, it freezes itself.
+[58:33.380 --> 58:36.000]  This is genius, Geoff. This is a great idea by you.
+[58:36.860 --> 58:41.920]  Well, I love it, I think it's great. I would love to get a prototype built out.
+[58:43.260 --> 58:45.040]  I don't know if you're up for that.
+[58:45.280 --> 58:46.100]  What's the name of it?
+[58:46.100 --> 58:47.220]  The Gerpler.
+[58:47.300 --> 58:47.700]  Oh, the Gerpler.
+[58:48.280 --> 58:49.640]  Just straight up Gerpler.
+[58:51.080 --> 58:57.800]  The name came before the cup. The name is non-negotiable. It's the Gerpler, no matter what the final form of the cup is.
+[58:57.920 --> 58:59.280]  It's a Gerpler, regardless.
+[58:59.680 --> 59:00.280]  So what's yours, Geoff?
+[59:00.900 --> 59:05.760]  Yeah, let me show you mine. It's not that one, that's for sure.
+[59:09.600 --> 59:20.380]  I said that I thought the red Pizza Hut cup was damn near perfect, but you said any cup we had had to be larger.
+[59:20.840 --> 59:29.000]  So I thought the Pizza Hut cup is a great cup, and you can see here in the illustration there's one holding in someone's hand to give you a scale.
+[59:29.000 --> 59:35.900]  I took that cup and I made it bigger. And then I slapped... and you can see on the side there, it says much bigger.
+[59:36.400 --> 59:38.600]  Because it is. It's much bigger.
+[59:38.900 --> 59:41.060]  Did it not go into the...?
+[59:41.060 --> 59:41.580]  No.
+[59:41.800 --> 59:42.700]  Oh, okay. Sorry, there it is.
+[59:43.100 --> 59:43.860]  There we go.
+[59:44.180 --> 59:50.680]  So you can see on the left, that's a great cup. That is your standard Pizza Hut cup. It's red, it's plastic, it's awesome.
+[59:51.320 --> 59:56.040]  Then, on the right, you can see best cup. I mean, I didn't put Gerpler, but obviously it's the Gerpler.
+[59:56.500 --> 01:00:04.780]  It's the same cup, but much larger. And I put a f*** face logo on it. That way people know where it came from.
+[01:00:04.960 --> 01:00:09.580]  Yeah, I would buy this cup. This looks like a great cup.
+[01:00:10.040 --> 01:00:10.480]  It's...
+[01:00:10.480 --> 01:00:11.920]  There's no wheels on it.
+[01:00:12.360 --> 01:00:19.280]  You're right. I was thinking about putting... honestly, I was thinking about putting a racing stripe down or something on it to add a little pizzazz,
+[01:00:19.280 --> 01:00:21.840]  but then I decided not to. I didn't want to overcomplicate it.
+[01:00:22.120 --> 01:00:28.180]  But I'm glad I didn't go that route, because you took those ideas and you put wheels on yours. Insane.
+[01:00:28.600 --> 01:00:35.300]  So these are two variations on a theme. I think they're both valid. I think that they both have their pluses.
+[01:00:35.460 --> 01:00:43.700]  I think, if the business world has shown us one thing, it's there's nothing better than taking somebody else's idea and just making it slightly larger,
+[01:00:44.300 --> 01:00:47.020]  and then putting our brand... like, that's a great. This is established. This works.
+[01:00:47.880 --> 01:00:50.700]  Well, to be fair, this one is much bigger. I don't know if you can see.
+[01:00:50.720 --> 01:00:52.280]  It is. It's completely different.
+[01:00:57.220 --> 01:00:58.480]  How big is much bigger?
+[01:00:58.960 --> 01:00:59.600]  I don't know.
+[01:00:59.820 --> 01:01:00.280]  The scale of the hand.
+[01:01:00.660 --> 01:01:02.680]  You can see it's exactly that much bigger.
+[01:01:04.600 --> 01:01:05.220]  I don't know.
+[01:01:05.340 --> 01:01:06.220]  The scale of the hand.
+[01:01:06.440 --> 01:01:06.800]  Well, it's not on a hand.
+[01:01:06.800 --> 01:01:12.620]  I was just curious if you had... well, I know, but it's just... it's a weird way to phrase it. You're assuming it's the same hand.
+[01:01:12.800 --> 01:01:13.840]  Those could be two different hands.
+[01:01:13.900 --> 01:01:15.480]  It's the same hand. I got it from the same image.
+[01:01:15.560 --> 01:01:15.800]  Okay.
+[01:01:16.980 --> 01:01:21.660]  It could be... the left could be Andre the Giant's hand, and the right could be Verne Troyer's hand.
+[01:01:21.760 --> 01:01:26.060]  It's not, though. For the purposes of... it's the same hand. It's the exact same hand.
+[01:01:26.640 --> 01:01:27.520]  It's an important clarification.
+[01:01:27.740 --> 01:01:30.200]  I even copied and pasted it. It was so the same.
+[01:01:36.200 --> 01:01:36.960]  Yeah, yeah, yeah.
+[01:01:40.260 --> 01:01:41.060]  Yeah, exactly.
+[01:01:43.060 --> 01:01:46.540]  Eric just posted two photos of, like, visualizations of our ideas.
+[01:01:47.420 --> 01:01:49.840]  My inspiration was 100% the Simpsons car.
+[01:01:50.460 --> 01:01:52.420]  He even mentioned that ahead of time.
+[01:01:52.500 --> 01:01:53.180]  I did, yeah.
+[01:01:53.260 --> 01:01:57.960]  He said he was gonna Simpsons car this cup. You definitely did. You definitely did.
+[01:02:00.540 --> 01:02:01.500]  Oh, man.
+[01:02:02.000 --> 01:02:03.600]  We closed some threads on that episode.
+[01:02:03.740 --> 01:02:05.860]  We closed some threads.
+[01:02:06.060 --> 01:02:06.440]  Great.
+[01:02:07.760 --> 01:02:10.240]  And Andrew was talking about, like, this was up there.
+[01:02:10.320 --> 01:02:13.980]  Andrew was talking to me yesterday about how, expressing some frustration.
+[01:02:14.140 --> 01:02:18.100]  He's looking for bits to pull to be animated.
+[01:02:18.380 --> 01:02:23.240]  And he was saying the difficult thing about it with our podcast is how they flow from episode to episode.
+[01:02:23.480 --> 01:02:25.040]  So it's hard to tell a contained story.
+[01:02:26.000 --> 01:02:28.740]  And then he pointed out one episode where...
+[01:02:29.280 --> 01:02:30.060]  Time to feed the dog.
+[01:02:30.400 --> 01:02:34.720]  I would have thought it was 12 episodes worth of material.
+[01:02:34.720 --> 01:02:36.480]  And he was like, nope, that was all in one episode.
+[01:02:36.660 --> 01:02:40.080]  Hard to believe that we had the entirety of cup theory.
+[01:02:41.840 --> 01:02:44.460]  The introduction of the f*** face cooks the food.
+[01:02:46.860 --> 01:02:48.500]  Two wildly different cups.
+[01:02:48.800 --> 01:02:53.520]  The baseball signature and the completion of the bean hole saga.
+[01:02:53.760 --> 01:02:54.760]  Or this iteration of it.
+[01:02:54.880 --> 01:02:58.660]  And the teasing of Gavin's pizza recipe.
+[01:02:58.900 --> 01:02:59.700]  All in one episode.
+[01:03:00.180 --> 01:03:01.280]  This one was packed.
+[01:03:01.280 --> 01:03:03.560]  We completed it all in this episode.
+[01:03:03.680 --> 01:03:04.400]  And it was fantastic.
+[01:03:05.160 --> 01:03:07.360]  Genuinely, I have a headache from laughing so hard.
+[01:03:08.280 --> 01:03:10.560]  Trying to source this is a nightmare.
+[01:03:10.740 --> 01:03:12.340]  We talked about the baseball thing.
+[01:03:12.480 --> 01:03:15.480]  And probably three minute chunks over 12 different episodes.
+[01:03:17.100 --> 01:03:19.660]  How long ago did we start talking about that too?
+[01:03:19.820 --> 01:03:21.040]  I would love to know that.
+[01:03:21.080 --> 01:03:23.260]  What is the first mention of the bat?
+[01:03:23.380 --> 01:03:24.980]  I remember when you brought it up.
+[01:03:25.060 --> 01:03:25.880]  But I don't know.
+[01:03:26.080 --> 01:03:27.220]  I feel like it was months ago.
+[01:03:27.240 --> 01:03:30.020]  If it was after episode 46, there's no way to know, right?
+[01:03:30.700 --> 01:03:34.580]  I'm going to cut together full saga videos for our YouTube channel.
+[01:03:34.740 --> 01:03:39.560]  From the introduction, the idea, to the end of each random thing we end up doing.
+[01:03:39.920 --> 01:03:41.460]  I think it'll be a fun little compilation.
+[01:03:42.260 --> 01:03:43.000]  That'd be great.
+[01:03:43.140 --> 01:03:45.580]  I'll do that after I'm finished with the other two videos.
+[01:03:47.360 --> 01:03:52.360]  Hopefully by the time this is out, you'll be able to see definitely the baseball video on YouTube.
+[01:03:52.620 --> 01:03:53.780]  On our F*** Face channel.
+[01:03:54.120 --> 01:03:55.880]  And hopefully also the bean hole saga.
+[01:03:56.760 --> 01:03:57.200]  Amazing.
+[01:03:57.200 --> 01:04:00.860]  Gavin was so dejected when we were walking off the baseball field.
+[01:04:00.980 --> 01:04:04.820]  He was like, I gotta go through two hours of baseball footage.
+[01:04:05.080 --> 01:04:11.460]  I mean, between the baseball and the bean hole and all the baseball stuff, I had two cameras going and my phone was in slo-mo.
+[01:04:11.600 --> 01:04:14.000]  I've got about four and a half hours of footage.
+[01:04:14.440 --> 01:04:15.780]  Oh man, that's so much.
+[01:04:17.060 --> 01:04:19.340]  We need to do a F*** Face Hires an Editor.
+[01:04:20.140 --> 01:04:21.300]  I mean, not that we don't have Nick.
+[01:04:21.500 --> 01:04:23.700]  F*** Face Hires a Supplemental Video Editor.
+[01:04:24.360 --> 01:04:25.140]  That'd be amazing.
+[01:04:25.140 --> 01:04:26.560]  Eric, get the credit card.
+[01:04:27.080 --> 01:04:31.020]  You got it. I'll hire an editor with the credit card.
+[01:04:37.220 --> 01:04:45.660]  In all seriousness, thanks to Eric and Gavin and Nick for devoting time on their weekend to hitting balls and eating beans.
+[01:04:46.000 --> 01:04:47.600]  And you guys were wonderful.
+[01:04:47.660 --> 01:04:51.080]  And I'm happy that we had that stuff in the rearview mirror.
+[01:04:51.160 --> 01:04:53.400]  It was a ton of fun, but it was also your weekend.
+[01:04:53.400 --> 01:04:56.240]  And Nick was ignoring his wife and child for it.
+[01:04:56.300 --> 01:04:59.380]  And I know that caused a lot of strain on his relationship.
+[01:04:59.460 --> 01:05:01.120]  And I'm not even sure if he's sleeping at home yet.
+[01:05:01.460 --> 01:05:04.080]  So I appreciate you taking that bullet.
+[01:05:04.620 --> 01:05:09.220]  And that'll do it for another episode of the F*** Face Podcast.
+[01:05:12.340 --> 01:05:13.460]  See you next time.
+[01:05:14.160 --> 01:05:16.740]  And do you have any ideas?
+[01:05:17.520 --> 01:05:17.740]  What?
+[01:05:18.240 --> 01:05:20.920]  It was strong. It was a strong episode up until that.
+[01:05:21.420 --> 01:05:22.460]  I don't know. I'm tired.
+[01:05:22.960 --> 01:05:26.880]  If you have any ideas on how to improve our bean hole, let us know.
+[01:05:27.040 --> 01:05:30.460]  If you're interested in buying some of our cups, let us know.
+[01:05:31.180 --> 01:05:34.560]  And look out for autographed baseballs on sale soon.
+[01:05:34.640 --> 01:05:37.800]  We've got a hundred more if you have an idea on what we should do with the final hundred.
+[01:05:38.720 --> 01:05:41.260]  Maybe it's just a different color. I don't know. Let us know.
+[01:05:41.540 --> 01:05:46.360]  Remember, as always, give us one million stars anywhere you have an opportunity to.
+[01:05:46.960 --> 01:05:48.740]  Thank you very much. Bye.
+[01:05:48.740 --> 01:05:53.280]  Hey guys, minor league fan Jack here with a look at next week's episode of F*** Face.
+[01:05:53.680 --> 01:05:56.980]  Once again, the boys are behind, so here are some predictions for the future.
+[01:05:57.380 --> 01:05:59.000]  Geoff peed himself on stage.
+[01:05:59.400 --> 01:06:00.960]  Gavin can't control his cats.
+[01:06:01.340 --> 01:06:02.860]  It's the return of piss boy.
+[01:06:03.160 --> 01:06:05.120]  The gang decides to open a restaurant.
+[01:06:05.520 --> 01:06:07.180]  Geoff loves r slash place.
+[01:06:07.640 --> 01:06:10.000]  And once again, Andrew does not eat the pencil.
+[01:06:10.460 --> 01:06:13.100]  All that and more on next week's episode of F*** Face.

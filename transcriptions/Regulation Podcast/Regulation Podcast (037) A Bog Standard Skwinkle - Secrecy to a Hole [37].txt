@@ -1,0 +1,793 @@
+[00:00.000 --> 00:04.500]  Hello and welcome to another episode of the Regulation Podcast. My name is Geoff Ramsey.
+[00:04.620 --> 00:12.600]  This is episode 37. With me as always, Andrew Pantin, Eric Baudour, Gavin Frey, and Nick
+[00:12.600 --> 00:18.220]  Schwartz. And as I was typing that, I looked down at my phone. I had a text from Bernie
+[00:18.220 --> 00:22.940]  Burns. Would anyone like to guess what that text was? Let me ask you a question. How often
+[00:22.940 --> 00:25.540]  do you get a text from Bernie Burns and it's positive?
+[00:25.540 --> 00:30.680]  I was going to say the last time I got a text from Bernie, it was probably the day he learned
+[00:30.680 --> 00:34.100]  Rooster Teeth was dying, but I did not know yet. So...
+[00:34.100 --> 00:39.100]  I guess it's bad news and I was going to commiserate with you after this.
+[00:39.140 --> 00:43.180]  Yeah, I wasn't going to bring it up. I saw it as soon as we ended our last reporting.
+[00:43.460 --> 00:45.960]  I did not text you. I didn't want to be the one to do it.
+[00:46.080 --> 00:50.520]  Literally just found out about it as I was saying the intro.
+[00:51.140 --> 00:53.560]  Yeah, do you want to stop down or what's up?
+[00:53.560 --> 00:57.360]  No, no, I'll be fine. Sorry, we're talking around it to the audience,
+[00:57.520 --> 01:02.100]  but Bernie just let me know that one of my like three or four heroes of my life,
+[01:02.580 --> 01:03.540]  David Lynch, just died.
+[01:04.380 --> 01:05.260]  Creative genius.
+[01:05.720 --> 01:11.160]  That's a weird... I was weirdly struck by emotion there for a second, but yeah, that's incredibly
+[01:11.160 --> 01:18.680]  sad. David Lynch, one of the most brilliant auteurs in the history of our country and has
+[01:18.680 --> 01:25.640]  provided me with a lifetime of entertainment. And he also smoked every day of his life and
+[01:25.640 --> 01:31.060]  developed emphysema so badly that he had to stop directing, doing the thing that he truly
+[01:31.060 --> 01:35.920]  loved in life because his health was so poor from the fucking emphysema.
+[01:36.080 --> 01:39.940]  So don't smoke like David Lynch. I don't know why he died, but I'm going to guess it was
+[01:39.940 --> 01:44.060]  emphysema related. He died at 78, which is far too young. He should be directing movies
+[01:44.060 --> 01:48.960]  into his 90s like fucking Clint Eastwood, but he's not. So don't smoke.
+[01:49.060 --> 01:54.080]  Clint Eastwood still... he doesn't even care if the film is in focus, which is what I appreciate
+[01:54.080 --> 01:59.220]  about current day Clint Eastwood. Yeah, you'll watch a Clint Eastwood movie and it'll just be
+[01:59.220 --> 02:02.180]  out of focus for a frame. And it's like, he doesn't give a fuck. He's 90.
+[02:02.280 --> 02:06.660]  Oh, I don't think the director has much say over whether it's in focus or not.
+[02:06.660 --> 02:09.980]  I feel like he's behind the lens. He's going...
+[02:09.980 --> 02:13.780]  I don't think people block out a scene and then at the last minute say,
+[02:13.840 --> 02:17.620]  oh, by the way, in focus. Action! I don't think there's anything that Clint
+[02:18.720 --> 02:22.660]  does on that set that I think he's in control of at all. I don't think there's anything that
+[02:22.660 --> 02:26.560]  happens he doesn't know about. I think someone says, oh, we're kind of out of focus. And he goes,
+[02:26.600 --> 02:31.560]  who gives a fuck? And then they move to the next. Someone knows. Somebody would know and
+[02:31.560 --> 02:36.380]  somebody report to Clint. We have all kinds of stuff to talk about, not the least of which is
+[02:36.380 --> 02:41.620]  last weekend. And I'd like to zag really fast to take my mind off of David Lynch for a second,
+[02:41.660 --> 02:48.300]  if you don't mind. Of course. I was at the airport a day ago or so, and I discovered a candy that is
+[02:48.300 --> 02:54.960]  the funniest candy name I've ever heard in my entire life. And it's too silly to be sat around.
+[02:55.280 --> 02:59.940]  So I didn't buy it. And now I kind of wish I had. Maybe we could try to get some. This is when we
+[02:59.940 --> 03:09.060]  were leaving Cancun. I put in the discord. I noticed squinkels chunks. Hell yeah. Squinkles
+[03:09.060 --> 03:15.660]  chunks. What are squinkles? We couldn't stop saying it. You had a bag of squinkles chunks in
+[03:15.660 --> 03:18.860]  your hand that you didn't pull the trigger. I didn't pull the trigger. I said go back and buy
+[03:18.860 --> 03:24.720]  squinkles chunks. He wouldn't do it. He did not buy squinkles chunks. What? Because I was I was in
+[03:24.720 --> 03:32.880]  the throes of. Listen, I was deep into the diarrhea at that point, and I was heavily distracted.
+[03:33.160 --> 03:38.580]  I was heavily distracted. I am alarmed by the grape colors. Are those grapes? What are those?
+[03:38.680 --> 03:43.800]  Like the coloring of the fruit is alarming on the package. You got grapes for that? Is that grape?
+[03:44.880 --> 03:52.520]  Are those cherries? What are they? The artist's rendition above the K in squinkles makes it look
+[03:52.520 --> 03:57.700]  like long combos, but they look nothing like combos in the bag. And why is that little diagram
+[03:57.700 --> 04:02.120]  like a bean? There's like three beans in a pod of some sort. That's what I was saying was the cherry
+[04:02.120 --> 04:06.820]  or grapes. Well, I assume it's like tamarind or something, right? Probably. Sorry. Wait, which
+[04:06.820 --> 04:13.520]  cherries and grapes are together in a in a bean case? Yeah, I thought that I couldn't tell the
+[04:13.520 --> 04:17.860]  casing. I thought maybe, you know, when you grab a thing of grapes and they're on the stem
+[04:18.300 --> 04:22.920]  and they're like next to each other, like it's just we couldn't see any of the like. I tell you
+[04:22.920 --> 04:28.920]  something, though, if a grape grew in like a five pack, I would love that. Yeah, that'd be delicious.
+[04:29.340 --> 04:34.900]  They wait, but they grow in like a 30 pack. You could just get a bundle that's six times better.
+[04:35.060 --> 04:38.940]  He wants in a row, I think. Yeah, like if they were like that picture where they were like there's
+[04:38.940 --> 04:43.000]  like a big skin and then there were like three grapes inside. You want grapes like peas?
+[04:44.400 --> 04:48.940]  I think it'd be good. Has anybody ever eaten grapes and cherries at the same time? You might
+[04:48.940 --> 04:54.040]  be on to something there. What if you cut a grape in half and a cherry in half and then you stuck
+[04:54.040 --> 05:01.140]  that together? A chape? You made a chape, yeah. I would love to try making a chape. A Gary flavored
+[05:02.480 --> 05:08.480]  chape. So what's bigger, a cherry or a grape? I can get them in the same size. I think one
+[05:08.480 --> 05:12.220]  could be bigger than the other. I think we should turducken this. I think it should be like a cherry
+[05:12.220 --> 05:19.420]  in a grape and then a cranberry inside of that. A cherry grape turducken. I'm trying to think
+[05:19.420 --> 05:24.860]  like other berries that you can progressively. Geoff, I don't want to alarm you. Did another
+[05:24.860 --> 05:30.320]  one of my heroes die? Did another one of my heroes just die? No. H-E-B sells squinkles chunks.
+[05:31.020 --> 05:38.620]  Hell yeah. Oh my god. Can we like Instacart some? Geoff, Instacart some squinkles chunks. All right,
+[05:38.640 --> 05:42.140]  all right, hold on. Let me get back. What was the cranberry? Let me get the other thing down.
+[05:42.920 --> 05:49.540]  Cranberry grape cherry. Yeah, it's turducken. So H-E-B has squinkles chunks. Yeah, and get some
+[05:50.000 --> 05:54.960]  cranchapes as well. Because my H-E-B doesn't have to do us a favor. Well, he does that. Can I
+[05:54.960 --> 06:01.480]  pivot really quickly? Just a very brief. Yeah. Loden. And Loden was the wrong word. Loden is
+[06:01.480 --> 06:05.620]  because I'm looking at what's on my screen. What the fuck? And I know we've been talking about a
+[06:05.620 --> 06:11.800]  lot. I hope people aren't annoyed by it. What is overtime rumble in GTA 5? What is this? How have
+[06:11.800 --> 06:16.380]  we not done this? Is that the like land on the platform with the scores? I don't know what it is.
+[06:16.700 --> 06:21.660]  Look at this. Look at how fucking cool that looks. Yeah, we made like 150 videos in that,
+[06:21.760 --> 06:26.080]  I think. I didn't know that. Are you playing GTA right now, Andrew? No, I was just seeing what the
+[06:26.080 --> 06:31.400]  update was. What do you mean you're not playing? You said the word loading because you're loading
+[06:31.400 --> 06:37.300]  GTA. No, now I'm entering online. It doesn't say loading. It says entering. I thought you said you
+[06:37.300 --> 06:40.220]  weren't going to do this anymore. Yeah, I'm closing. I'm out. I'm out. I'm out. Listen,
+[06:40.220 --> 06:44.740]  I have a problem. I'm an addiction. I can't stop. I'm sorry. Not available for online order
+[06:45.460 --> 06:49.980]  delivery. Of course. OK. OK. So do they have Squink Lotte?
+[06:51.560 --> 06:57.180]  Squink Lotte? I'll take a trip to my ATB right after this and I'll get some. I'll squink up.
+[06:57.420 --> 07:02.240]  Who's that cool duck? Hold on. Squink up. Let me write that down. So they've got Squink Lotte
+[07:02.240 --> 07:07.900]  and Squinkles Chunks. Is there like an original squink? Like just like a normal squinkle? I don't
+[07:07.900 --> 07:15.640]  know. What's just a bog standard squinkle? That's the title of the episode. A bog standard squinkle.
+[07:16.160 --> 07:23.220]  Also, Andrew, Overtime Rumble is amazing. It looks so much fun. It is all the best of that
+[07:23.220 --> 07:28.840]  game. What was the monkey ball? It's kind of like monkey ball. OK. Oh, awesome. I love monkey ball.
+[07:29.660 --> 07:33.080]  Squink Lotte. I'm looking into this. I'm going to get myself some Squink Lotte. Maybe
+[07:33.740 --> 07:37.600]  next episode we try some on the show if we can all get it in time. I think that's a great
+[07:37.600 --> 07:43.040]  idea. And I thank you guys for allowing me to zag for a second there. Squinkles Chunks has
+[07:43.040 --> 07:48.500]  completely lifted my spirits. What the fuck? It's orange? There's an orange Squink Lotte?
+[07:49.040 --> 07:52.480]  We got to sync up on what Squink Lotte we're getting. We got to squink up.
+[07:55.380 --> 07:58.980]  We should stop syncing up. We should only squink up from here on out.
+[07:59.620 --> 08:04.600]  Oh, we need to huddle up is what we need to do. Brother, it's getting weirder. I'm looking up
+[08:04.600 --> 08:12.480]  what original squinkles are. I can't... what is happening? Gavin, what does that say?
+[08:14.680 --> 08:25.280]  Salsa Getty, you idiot. Sprinkle Salsa Getty. Sprinkles. It's fucking candy spaghetti.
+[08:29.360 --> 08:35.700]  This is... what? Squinkles has opened our minds. Should we do the squink gauntlet?
+[08:35.700 --> 08:42.940]  Yeah, definitely. Also, the squinkle duck looks cool as fuck. I'm trying to learn about this duck.
+[08:43.080 --> 08:49.800]  However, Squinkles Rihannos. Yeah, Squinkles Rihannos is not looking... that looks awful.
+[08:51.300 --> 08:55.440]  Yeah, dusty. I would eat it like crazy, though. I just got to say.
+[08:55.540 --> 08:59.520]  I am excited for next episode when we have Squink Fest 2025.
+[09:00.420 --> 09:05.000]  Squink Fest! Yo, what's up, Squinkles? If you want to sponsor this podcast,
+[09:05.140 --> 09:07.740]  please let us know. We would squink like crazy, dude.
+[09:08.080 --> 09:10.960]  Hey, we would squink all over the place. And that goes for the audience, too. Hey,
+[09:11.260 --> 09:15.580]  what we're announcing now, next episode is going to be Squink Fest 2025. If you want to squink
+[09:15.580 --> 09:20.280]  along with us, check out your local grocery store. See if you can squink out. It's going
+[09:20.280 --> 09:26.740]  to be squink-tastic. See if you can squink out? Dude, Squinkles is crazy.
+[09:27.640 --> 09:28.840]  Man, I'm so glad I took that photo.
+[09:29.540 --> 09:32.800]  Man, you never know. You never fucking know.
+[09:33.260 --> 09:35.180]  Yeah. Squinkles.
+[09:35.360 --> 09:37.720]  Why can't I find out more info on this goddamn duck?
+[09:38.200 --> 09:42.540]  I would assume it's in Spanish if you find anything about it, right?
+[09:42.560 --> 09:47.620]  I'm just trying to find a website or anything. I'm fine with it being in the wrong language.
+[09:50.260 --> 09:51.460]  I expect that.
+[09:52.140 --> 09:54.320]  We did better in the wrong language than in our language.
+[09:56.360 --> 09:58.200]  Andrew's referencing a video we recorded earlier.
+[09:58.200 --> 10:04.020]  I was just being a general. I can handle that. I can. I trust that I can decipher the words
+[10:04.020 --> 10:08.320]  eventually. I just need the words. The problem is the lack of the words.
+[10:08.760 --> 10:12.240]  You can you can contact them. They have an email address if you want to contact them
+[10:12.240 --> 10:14.040]  for help. Yes, I would love to.
+[10:14.240 --> 10:16.680]  Okay, here. You know who you're talking to.
+[10:17.000 --> 10:20.100]  Drop that in there for you. This fucking duck is so cool.
+[10:20.340 --> 10:23.480]  There's a con. There's a contact at the bottom of that page if you want to go ahead and contact
+[10:23.480 --> 10:27.740]  Squinkles. What's Lucas is the name of the company, which is like where all the Mexican
+[10:27.740 --> 10:32.540]  candy comes from. Like, that's all we ate when we were kids. Not squinkles, but like
+[10:33.100 --> 10:36.520]  like Lucas Mexican candy. Yeah, that's awesome.
+[10:37.180 --> 10:42.140]  Should we dive into what some of us did last weekend? Yeah, I would love to know.
+[10:42.560 --> 10:43.180]  Yeah, me too.
+[10:45.300 --> 10:52.900]  Okay, well, on Thursday, Eric and Gavin and I and then our all of our wives
+[10:53.800 --> 11:03.000]  went to Cancun to the exact same all inclusive hotel resort where we met the Falcon and I
+[11:03.000 --> 11:09.600]  discovered the stars. Happy to report the Falcon was there again. Unhappy to report there were
+[11:09.600 --> 11:13.660]  zero stars the entire trip. Oh, yeah, I still don't know what stars is.
+[11:13.960 --> 11:17.540]  Oh, they don't have them anymore. Stars are fucking stars fell out of that sky,
+[11:18.080 --> 11:22.000]  unfortunately. Yeah, so we went for like a similar kind of thing to two years ago,
+[11:22.000 --> 11:26.940]  like a little four day weekend beach getaway where we were just going to lay around and do
+[11:26.940 --> 11:33.180]  nothing at all the entire time. And I think we kind of accomplished that.
+[11:33.760 --> 11:38.880]  What Gavin has posted there, or Eric whoever posted that, is a photo of the Falcon shitting.
+[11:39.340 --> 11:43.280]  I did not know that's how a Falcon takes a shit. I didn't realize it has to get its wings up.
+[11:43.540 --> 11:45.800]  Does it shit on the back of its wings if it doesn't do that?
+[11:45.840 --> 11:50.340]  It turns into a triangle when it shits. It turns into like mid-air Angry Birds.
+[11:51.100 --> 11:55.560]  I I feel like when you're shitting, you're pretty vulnerable and the Falcon is letting
+[11:55.560 --> 11:58.400]  everybody know, I'm still ready to attack you. I'll still kill you.
+[11:59.180 --> 12:03.520]  We we spent a lot of time with that Falcon and near that Falcon, and we took a bunch of photos
+[12:03.520 --> 12:07.520]  with it that we're hoping we can turn into a shirt similar to the Sloppy Joe shirt that we
+[12:07.520 --> 12:11.060]  sold when we were face. Does anybody have any photos of the Falcon of us with the Falcon?
+[12:11.540 --> 12:14.040]  Maybe me. Yeah, no, I have to.
+[12:14.040 --> 12:21.300]  Your your lovely wife sent them and they're very good. They're they look great, but
+[12:22.280 --> 12:27.780]  they refused to save to my phone. So what I had to go scroll through to download them again,
+[12:28.480 --> 12:32.420]  I just saw Gavin taking a picture of the back of my head, which
+[12:34.040 --> 12:37.860]  yeah, not necessarily what I was looking for. We got breakfast at the same time.
+[12:38.120 --> 12:43.260]  So you decided to take a picture of the back of my head, which, you know,
+[12:43.260 --> 12:46.640]  again, not super thrilled about, but thank you very much.
+[12:47.040 --> 12:50.820]  Yeah, I was I had to angle it right because I didn't want to take a picture of your small wife.
+[12:52.260 --> 12:55.080]  I just didn't want to wait her out. So I blocked her with you.
+[12:57.360 --> 13:03.820]  I can't find these photos now. Did you? I also am having trouble finding these photos.
+[13:04.260 --> 13:06.980]  I think she deleted the photos. She doesn't want us to have them.
+[13:07.420 --> 13:10.300]  No, no, no, no. I can't. Here's one right here. Oh,
+[13:10.300 --> 13:14.000]  save shared photo. It's a shared photo, so I can save it. That's stupid.
+[13:15.600 --> 13:21.220]  Here's a couple. Let me discord these bad boys. Feel free to vamp while I'm doing this.
+[13:22.000 --> 13:25.600]  I'm just looking at other Mexican candy. There's four of you, so I figured one of you.
+[13:25.760 --> 13:31.400]  I'm looking at. Have you have you heard of Cranky Candy? Oh, this looks even better.
+[13:31.820 --> 13:36.100]  Here we go. They got the coolest logos for Mexican candy. I'm a big fan of this.
+[13:36.420 --> 13:39.820]  So there's us with the falcon and the falcon lady. We figured we could Photoshop
+[13:40.520 --> 13:45.600]  Nick and Andrew's head on top of her, maybe. Oh, I love it. Yeah, there's a great one with
+[13:45.600 --> 13:48.440]  the falcon. And then we got one of the falcon mid-flight, which is pretty cool.
+[13:49.060 --> 13:56.140]  He scared me. Eric is alarmed. Oh, man, he got he really got there's something in like my monkey
+[13:56.140 --> 14:00.580]  brain that went like, get away from this thing that's about to get me. He was trying to get me.
+[14:00.760 --> 14:06.100]  It's facing me. Look at how big like zoom in. Look at how big it's toenails, claws. Look at
+[14:06.100 --> 14:13.660]  how big it's claws are. Talons. Talons. Thank you. Boy, listen, I got popcorn seeds. I get it.
+[14:13.780 --> 14:21.040]  Is the talon the claw or is it the whole foot grabby? Oh, foot grabby? Like, is it just the
+[14:21.040 --> 14:25.860]  feet or is it? I think it's all the feet. Yeah, I think it's all of it. It's like a collective.
+[14:26.200 --> 14:31.020]  Yeah, yeah, yeah, yeah. I didn't like being that close to it when it started getting big.
+[14:31.020 --> 14:37.680]  It got very big, which is very scary, but very cool that they let us take pictures near the
+[14:37.680 --> 14:41.600]  falcon on the first day. On the first day I was there, I asked if I could take a picture
+[14:42.080 --> 14:46.280]  with the falcon and the guy said, yeah, you can't hold it. And I went on. Yeah, no, I'm not trying
+[14:46.280 --> 14:50.660]  to. I just want to take a picture near it, man. We absolutely were trying to hold it. Yeah. And
+[14:50.660 --> 14:54.900]  then that that set us in that direction. The other thing I thought the falcon was great.
+[14:54.900 --> 15:01.580]  The other thing that Gavin learned was about tres leches cakes, which means three milks.
+[15:01.760 --> 15:05.120]  And then Gavin, how many milks is this? Six milks.
+[15:06.580 --> 15:11.220]  There's six milks. Everything was translated into English, including tres leches
+[15:11.220 --> 15:16.420]  cakes, which is just called three milk cake. Very strange to see on a menu.
+[15:16.660 --> 15:20.120]  We were at dessert and at one of the restaurants, the guy goes,
+[15:20.340 --> 15:23.820]  the fuck is three milk cake? And I was like, think about it for a second. And he's like,
+[15:23.820 --> 15:28.560]  what? I was like, think about it. He's like, what? Tres leches idiot. And he goes,
+[15:28.740 --> 15:33.560]  I saw Gavin realize his own stupidity in the moment, and it was kind of depressing.
+[15:34.700 --> 15:39.320]  Because it really, you could tell he felt really dumb. I'd never done the translation before.
+[15:40.360 --> 15:43.060]  I've also never had it. It's foul. It's disgusting. I don't like it.
+[15:43.680 --> 15:45.680]  Well, Nick likes everything. Well, I don't think I've ever had it.
+[15:45.820 --> 15:47.040]  Milk's fucking gross to begin with.
+[15:48.640 --> 15:50.340]  You just have a bunch of milk and you call it a cake?
+[15:50.340 --> 15:55.300]  No, it's a good cake. No, it's just made with three different milks,
+[15:55.440 --> 15:57.960]  but it's not like a milky cake. No, it's a wet bread cake.
+[15:58.180 --> 16:03.280]  It's super moist. It's not wet. It's not like it's wet.
+[16:03.460 --> 16:07.520]  It's just cake. It's cake. It's just cake. It's moist.
+[16:08.320 --> 16:11.580]  It's just, Andrew, it's just cake. What do you mean it's not wet?
+[16:11.620 --> 16:16.220]  It's sat in a puddle of milk. Yeah, it looks, the bottom definitely.
+[16:16.240 --> 16:19.320]  Look at the sheen on the left side. Look at the sheen on that.
+[16:21.060 --> 16:25.280]  And the bubbles up the front. You're a maniac if you think that's not wet.
+[16:25.660 --> 16:28.540]  Yeah, that's definitely wet at the bottom. Nah, it's normal.
+[16:29.060 --> 16:32.080]  One of the highlights of our trip, our time in the ocean.
+[16:32.640 --> 16:35.540]  We could talk about sunglasses and the whole sunglasses saga.
+[16:36.160 --> 16:41.180]  We could talk about Montezuma's Revenge. We could talk about the show I watched, Urban.
+[16:41.980 --> 16:45.560]  It was, oh, we could talk about how everybody got TV in English but Geoff and Emily.
+[16:47.880 --> 16:53.340]  Meg kept watching episodes of CSI on TNT. It was like playing CSI constantly.
+[16:53.640 --> 16:56.540]  And we'd come to breakfast and she'd be like, oh, this is what happened on CSI last night.
+[16:56.780 --> 16:59.580]  Everybody, we should all be watching CSI at night when we go to bed.
+[16:59.740 --> 17:03.680]  And everybody was able to, but our TV was only in Spanish.
+[17:03.860 --> 17:06.540]  We had all the same channels, but they were all in Spanish.
+[17:06.580 --> 17:09.280]  And there was nothing on the remote or the TV that would let me change it.
+[17:09.480 --> 17:13.460]  And so everybody got to have these like in-depth CSI conversations every morning.
+[17:13.500 --> 17:15.540]  And we were left the fuck out. I like that it was in Spanish.
+[17:15.540 --> 17:20.360]  This is what happened on CSI last night, even though it was last night in 2004.
+[17:21.240 --> 17:26.520]  Well, it sparked a whole conversation about, we'll get into either here or in Sausage,
+[17:26.540 --> 17:30.560]  talk about an idea around old content. It was actually pretty fruitful.
+[17:31.300 --> 17:35.860]  Also, we learned that, I didn't know that this was a thing,
+[17:36.660 --> 17:38.860]  because I kind of grew up on the Gulf Coast. I spent a lot of time in the ocean.
+[17:39.020 --> 17:41.360]  But we learned you can be bad at ocean.
+[17:41.880 --> 17:42.280]  Really?
+[17:42.680 --> 17:43.120]  Yeah.
+[17:43.120 --> 17:45.900]  And one of us is naturally bad at ocean.
+[17:46.720 --> 17:47.720]  Who do you think?
+[17:48.540 --> 17:50.060]  I think Eric is bad at ocean.
+[17:50.140 --> 17:50.920]  He's bad at ocean.
+[17:51.360 --> 17:54.260]  I'm not bad at ocean. My sunglasses stayed on the whole time.
+[17:54.860 --> 18:00.000]  I didn't lose any. I did get slammed so hard in the ear with a wave that I think I got a
+[18:00.000 --> 18:02.320]  very small ear infection.
+[18:02.720 --> 18:03.440]  Oh no.
+[18:03.680 --> 18:08.800]  Yeah, you recoiled like someone like the ocean just grew a hand and slapped you.
+[18:08.860 --> 18:11.900]  It went like into my brain. It went into my brain.
+[18:11.900 --> 18:16.320]  Every time I turned around, Eric was eating three gallons of salt water.
+[18:16.580 --> 18:22.020]  It was just like it had it in for him. It was slapping him around like a gnat all day long.
+[18:22.200 --> 18:26.300]  It was bad. It was really bad. The waves started getting crazy. It started getting nuts.
+[18:26.600 --> 18:31.080]  And if you're far enough into the ocean, a big, big wave that will break in,
+[18:31.260 --> 18:35.440]  you know, great fashion at the end of the sand, you just kind of float over as though it's nothing.
+[18:35.600 --> 18:39.000]  And I was a little bit further out. So I was just bobbing over these giant waves.
+[18:39.000 --> 18:43.940]  And then I would hear the break on Eric's head and he would just be screaming my eyes.
+[18:44.080 --> 18:47.160]  I couldn't I couldn't get closer. It kept pushing me away.
+[18:47.480 --> 18:49.400]  It was fighting me big style. I hated it.
+[18:49.620 --> 18:55.500]  He had like he had like 11 drinks in him, too. So he was just like challenging and yelling at
+[18:55.500 --> 18:59.340]  the ocean. It was a thing to behold. Meg was very entertained. We were laughing.
+[18:59.680 --> 19:07.600]  Yeah, I I gave Javier was a great dude who was coming around to our area and I gave him 20 bucks
+[19:07.600 --> 19:10.740]  and I said, man, you've been great today. Thanks. And he said, no problem. And they
+[19:10.740 --> 19:16.840]  started bringing me doubles. And I that was like I remember like the first half of the day. Pretty
+[19:16.840 --> 19:23.420]  good. Second half of the day, a little hazy, a lot of sleeping. We were making some dinner plans.
+[19:23.520 --> 19:26.260]  And then your small wife texts the group. I don't think Eric's going to make it.
+[19:26.360 --> 19:31.480]  No! It was like 5pm. You were done for the rest of the day. I was too in a different way,
+[19:31.520 --> 19:36.840]  unfortunately. But yeah. So what was up? Because I was I was fighting the ocean and tequila.
+[19:36.840 --> 19:42.180]  What were you fighting, Geoff? Well, it seems at some point and I don't I don't want to pivot too
+[19:42.180 --> 19:45.500]  far away from the sunglass saga because I think that's fascinating. We should get into. But at
+[19:45.500 --> 19:53.500]  some point right around the time you passed out from alcohol poisoning, I I got a little rumble
+[19:53.500 --> 19:59.720]  in my tummy, which I was kind of expecting. Unfortunately, when I travel now with the
+[19:59.720 --> 20:05.340]  diverticulitis, you know, with my butthole issues, any like change to my routine kind of fucks me up
+[20:05.340 --> 20:09.220]  a little bit. And so I always at like some point have like a crampy day I got to deal with and I
+[20:09.220 --> 20:16.120]  bring extra Miralax and stuff for it. So I was expecting to have like a an issue. I wasn't
+[20:16.120 --> 20:20.320]  expecting to have this issue. I did not have I did not have a diverticulitis issue. I had I
+[20:20.320 --> 20:25.280]  suddenly in the water hanging out, beating the shit out of the waves with everybody. I realized
+[20:25.280 --> 20:32.240]  I had I was about to have explosive diarrhea. Oh no! So I ran up to the hotel room and I had a I
+[20:32.240 --> 20:38.560]  had a dumb and dumber-esque shit. Legs straight out. Yeah, legs straight out. That was followed by
+[20:40.660 --> 20:48.240]  uh 14 more in the next few hours. I ended up I got up to shit seven times in the middle of the
+[20:48.240 --> 20:53.380]  night that night. Like I luckily I have an aura ring now, so it tells me it's like you took a
+[20:53.380 --> 20:59.980]  shit at 115. You took a shit at 132. You took a shit at 208. And so I have like the record of it.
+[20:59.980 --> 21:05.340]  Stress levels detected. I got Montezuma's Revenge, which I've never had before. It
+[21:05.340 --> 21:13.180]  kicked in around Saturday afternoon and it didn't end until Tuesday evening. And uh I was just I
+[21:13.180 --> 21:17.240]  didn't let it affect the vacation other than Saturday night. I took it easy. I still did all
+[21:17.240 --> 21:22.240]  the stuff with you guys, but I just would have to take breaks to just blow chunks out of my
+[21:22.240 --> 21:27.580]  asshole for a while. And I was just like I was like a water hose by Sunday afternoon. I was just like
+[21:27.580 --> 21:34.580]  fucking turn it on and just water the plants with it. It was brutal. And I don't know how I got it
+[21:34.580 --> 21:39.260]  because, you know, everything I drank was Diet Coke for the most part. I did have a lot of those
+[21:39.260 --> 21:44.460]  Virgin Miami vices, which are the non-alcohol version of the drink everybody else was having.
+[21:45.220 --> 21:50.000]  And so I don't think that would have done it. And I really didn't eat much. Yeah, but did you brush
+[21:50.000 --> 21:56.520]  your teeth and use the faucet one time by accident? Maybe one time by accident. I can't specifically
+[21:56.520 --> 22:01.660]  remember one night. Did you maybe take a shower and put a bunch of water in your mouth? Maybe? No,
+[22:01.760 --> 22:07.380]  I drank a bunch of salt water from the ocean, unfortunately. And the only thing is, I really
+[22:07.920 --> 22:14.240]  over indexed on the Neapolitan ice cream. That was the new stars. Andrew, you would not believe
+[22:14.240 --> 22:18.520]  how good the vanilla ice cream is. And I'm a person who considers ice cream to be the base
+[22:18.520 --> 22:22.640]  ice cream. You know, we've talked about this, but this vanilla ice cream was next level.
+[22:25.180 --> 22:28.720]  And if that's what gave me the shits, it was worth it. That's not true. It wasn't worth it.
+[22:28.800 --> 22:35.820]  Nothing was worth it. Yeah, nothing at all was worth it. But it was like, I even, it was
+[22:35.820 --> 22:41.060]  fucking, I was nervous to fly. So I had to like take a shit the second before we got on the plane.
+[22:41.180 --> 22:46.060]  And then I took a shit the second we got off the plane. But I managed not to blow out the
+[22:46.960 --> 22:51.240]  bathroom on the plane, which was awesome. Did you just not need to on the plane? Or were you
+[22:51.240 --> 22:58.380]  having to like mentally manage it? No, I needed to, uh, right as they announced we were landing.
+[22:58.560 --> 23:02.960]  So when there's about 30 minutes left, that's when it hit me. A little bit of hope. And then I
+[23:02.960 --> 23:06.880]  was like, as long as we don't taxi too long and what, you know what I mean? And it was fine. But
+[23:06.880 --> 23:10.960]  I like, I basically sprinted because then I got off the plane and I realized, oh, fuck,
+[23:11.440 --> 23:17.120]  we're an international flight. I have to go through fucking passport control. Oh no. I've
+[23:17.120 --> 23:23.960]  never done that in Austin before. You're in an office building for like a football field.
+[23:24.500 --> 23:28.940]  There's nothing in there. That is the craziest place. Every time I've done international,
+[23:29.100 --> 23:33.200]  you land in like Houston or Dallas and like do it there. Never done that in Austin. You're just
+[23:33.200 --> 23:39.680]  inside of the building from severance to like go to show someone your passport. It was crazy.
+[23:39.740 --> 23:44.080]  It goes so fast in Austin too, though. It's so great. I will say the upstairs bathroom
+[23:44.080 --> 23:49.020]  before you get down to that is pretty empty, but I wouldn't recommend using it for a while
+[23:49.020 --> 23:54.180]  because they're going to need to do some renovations. Oh, man. Speaking of airports,
+[23:54.400 --> 24:00.200]  did you notice that in the Cancun airport, they've implemented car park technology to the toilets?
+[24:00.920 --> 24:07.900]  What? What? Oh, where it tells you the light that it's open? It's unbelievable. Every park
+[24:07.900 --> 24:12.520]  should have this. Yeah. Yeah, that's cool. Oh, wow. I completely agree with that. Interesting.
+[24:12.520 --> 24:16.380]  Yeah, I should. I've never seen that in box, but now you don't have to look between the
+[24:16.380 --> 24:20.800]  massive cracks in American toilet store. What? What is this that you're signed into
+[24:20.800 --> 24:25.980]  that you just sent this with? What? Other Gabby? What account? What account is this?
+[24:26.080 --> 24:30.880]  Oh, Other Gabby. That's the second account I made so that I can stream my gameplay.
+[24:31.640 --> 24:36.840]  I made that for you. Other Gabby. You ungrateful bastard. Thank you. Thank you, Gabby.
+[24:37.980 --> 24:43.920]  Speaking of ungrateful, you know who's not ungrateful? Gavin. He's a true fucking friend.
+[24:44.040 --> 24:54.660]  I gotta say, I love Gavin. We were in the water on Saturday and Gavin and I love to get hit by
+[24:54.660 --> 24:59.240]  waves when we're playing around. We invented a game where this is for... I want to pitch you
+[24:59.240 --> 25:02.560]  guys on something called Hot Dog Olympics. I don't want to get too much sausage talk in this episode
+[25:04.640 --> 25:11.160]  because we got a lot of... we solicited a response from the audience for last week about whether we
+[25:11.160 --> 25:16.420]  should do GTA or whatever. We got a ton of response that was really helpful and I read all of it. But
+[25:16.420 --> 25:20.420]  one of the pieces of response that I got that I took to heart was that we talked too much sausage
+[25:20.420 --> 25:24.860]  talk in the episode and they wanted podcast talk. So I don't want to get too deep into that. But we
+[25:24.860 --> 25:30.500]  invented a thing called Hot Dog Olympics and one of them is to hold two hot dogs above your hand,
+[25:30.500 --> 25:34.880]  above your head, and try to walk as far out into the ocean as you can before the hot dogs get wet.
+[25:35.020 --> 25:38.880]  And we were playing that for a while with air hot dogs. It was fucking awesome. Yeah,
+[25:38.920 --> 25:42.180]  we were practicing. We just had empty hands so we're just holding up just like
+[25:42.180 --> 25:47.060]  two grabbed hands above our heads. And having Meg and Emily tell us if the hot dogs would have got
+[25:47.060 --> 25:55.040]  wet. It was so much fun. But at some point, Gavin turns around and he gets whacked by a wave really
+[25:55.040 --> 26:00.520]  hard and his sunglasses go flying. And he's like, oh, my glasses. It was the back of my head and
+[26:00.520 --> 26:05.120]  they just got sucked right off like I don't even see him. So everybody just starts swimming around
+[26:05.120 --> 26:10.980]  looking for Gavin's glasses in the water. And we look for like 10 minutes and we can't find him.
+[26:11.480 --> 26:14.700]  And I thought that's really disappointing. And Gavin's like, there was a, you know,
+[26:15.060 --> 26:18.540]  I have other pairs as a free pair I got from an endorsement or whatever, probably.
+[26:19.100 --> 26:22.580]  And he was like, it's no big deal. I have more sunglasses. And so the next day he came out with
+[26:22.580 --> 26:28.260]  a different pair and we're hanging out and playing the same dumb games. And Meg turns around and she
+[26:28.260 --> 26:35.060]  gets fucking whacked with a wave and her sunglasses go flying. And Meg's like, no, my sunglasses. And we're kind of
+[26:35.060 --> 26:41.380]  laughing about it. And she goes, they're prescription. And I was like, no, fuck this ocean. I'm not letting
+[26:41.380 --> 26:46.220]  another one of my friend's sunglasses go. And I thought, I bet these things don't, I bet they just
+[26:46.220 --> 26:50.900]  sink. So I ran over to where, well, I swam over to where Meg was and I just started shuffling on the
+[26:50.900 --> 26:56.760]  ground with my feet. Kind of like in Mario party, Jubilee, you know, the one mini game where you're the stamp
+[26:56.760 --> 27:01.480]  and you're trying to cover as much of the... You know what I'm talking about? The new Mario party?
+[27:01.600 --> 27:04.220]  Yes. Uh, where you're trying to cover the... Yeah, yeah, Mario party Jubilee. Yeah.
+[27:05.480 --> 27:11.200]  Isn't that what it's called? Jamboree. Yeah, but it's a fishing Jubilee. Whatever, fishing Jubilee.
+[27:12.460 --> 27:17.560]  Same shit. Uh, anyway, so like that. And then after like, and everybody starts to do it. And after like
+[27:17.560 --> 27:22.220]  90 seconds, I fucking found it with my toe and I'm like, holy shit, I think I got it. And I reached
+[27:22.220 --> 27:26.980]  out and I pull out Meg's glasses and we saved her prescription glasses. It was, it was incredible.
+[27:27.300 --> 27:34.240]  It was so crazy. It was so crazy. And so I felt like a fucking hero. And I felt like we discovered
+[27:34.240 --> 27:39.080]  a tactic that if you lose your glasses in the ocean, they go straight to the bottom. So don't
+[27:39.080 --> 27:43.720]  bother looking through the water at stuff. Don't bother looking where they might've been pushed to
+[27:43.720 --> 27:48.800]  just start shuffling around on the ground. And then like, I don't know, maybe a half hour later,
+[27:49.100 --> 27:56.120]  Gavin loses his new sunglasses. And I'm like, no, not again. Now we know how to do this. And so I,
+[27:56.220 --> 28:03.000]  I fucking launch into action. And within firstly though, Meg, Meg was like, oh, I found him. They,
+[28:03.160 --> 28:07.420]  they flew into my hands. And then she realized that her own ones had fallen off again. And she
+[28:07.920 --> 28:12.460]  caught her own. Yeah, that was funny too. But so I jumped over to where Gavin is and in less than 90
+[28:12.460 --> 28:15.920]  seconds, I found them. They're at my foot. And I'm like, yeah, I found your glasses right here.
+[28:16.000 --> 28:20.180]  But they're like right where a wave is breaking. So it keeps like hammering me and hammering me.
+[28:20.360 --> 28:24.400]  And I'm like, yeah, my foot's autumn swim down and get it. And he's like trying to look with his
+[28:24.400 --> 28:28.400]  hands to get it. And I'm like, he's, I love you, but you're useless. And I'm like, fuck it. I'll
+[28:28.400 --> 28:33.200]  get it myself. And so I dive down to go get him. And right as I do, I get fucking whacked with
+[28:33.200 --> 28:37.780]  another wave and my glasses go flying. These glasses that Emily and I bought together in
+[28:37.780 --> 28:42.280]  London. And I'm like, no, not my glasses. And then I lose Gavin's glasses in the same breath.
+[28:42.280 --> 28:47.220]  And then my glasses are fucking gone, gone. And then so we're like looking around again. And then
+[28:47.220 --> 28:53.620]  I think Meg or Emily found Gavin's glasses like 30 seconds later. So we, we ended up with everybody's
+[28:53.620 --> 29:00.820]  glasses, but mine, I, I got annoyed because, uh, I, you know, I, I didn't plan on losing my glasses
+[29:00.820 --> 29:04.480]  at any point and I'm able to find everybody else's, but my own. And so I'm looking around and
+[29:04.480 --> 29:08.140]  looking around. And finally I do the thing when I get pet pissed, I'm like, I'm just going to buy
+[29:08.140 --> 29:14.240]  my way out of this. So I just walk out of the ocean. I walk back up to my hotel room, get my
+[29:14.240 --> 29:19.940]  wallet, take a couple of diarrhea shits, go downstairs to the sunglass store, buy a new pair
+[29:19.940 --> 29:25.320]  of sunglasses, go back up to my hotel room, take another diarrhea shit, drop my wallet back off
+[29:25.320 --> 29:29.340]  cause I don't need it at the beach, come all the way back down to the beach. And as I'm walking up
+[29:29.340 --> 29:34.880]  to the beach, Gavin's walking out of the ocean. He's like, would you find your sunglasses? Cause
+[29:34.880 --> 29:37.840]  I'm wearing new sunglasses. And I go, no, I just went to the, I just went to the store and bought
+[29:38.360 --> 29:43.420]  and took eight shits or whatever. Why? Have you been in the water this whole time looking for mine?
+[29:43.480 --> 29:48.260]  And he was like, well, yeah, he spent probably 30 minutes looking for my sunglasses by himself.
+[29:48.360 --> 29:54.040]  I had no idea. I was out there. I was out there buying sunglasses and taking care of business.
+[29:54.220 --> 29:58.600]  And he's such a good friend. He never gave up looking for them. I really appreciated that.
+[29:58.600 --> 30:03.940]  Well, I felt bad because it was, it was a one for one sacrifice. Like you, you lost yours and
+[30:03.940 --> 30:09.120]  ended up with mine. I like that you said I was useless though. You said, I got them,
+[30:09.380 --> 30:16.080]  they're on my foot. And I'm like, get it. You can't see, I couldn't see where your foot was.
+[30:16.140 --> 30:21.540]  So I was like starting at your hip, which I could see. And then you, then you're acting like I didn't
+[30:21.540 --> 30:27.160]  also get washed away by the waves. So I'm like getting flipped upside down as well. Desperate
+[30:27.160 --> 30:33.460]  to hang on to your fucking glasses. My big toe. I should have just put my hand on the front of
+[30:33.460 --> 30:41.280]  your face to protect yours. Was there any consideration to just not wear sunglasses
+[30:41.280 --> 30:48.640]  in this environment after like the seventh time sunglasses went missing? It was so bright, Andrew.
+[30:48.920 --> 30:58.100]  It was cloudless. The sea was so blue. Everything reflected into your eyes. I,
+[30:58.700 --> 31:03.180]  after getting my ass kicked by the ocean the first time, I'm like, I'm going, I'm going back out there
+[31:03.180 --> 31:09.260]  like the next day with no sunglasses. I've got ankle deep and I went, fuck that. And I turned
+[31:09.260 --> 31:14.240]  back around. I got my sunglasses. It's so bright. I figured it was as much, but it just, it had to
+[31:14.240 --> 31:18.980]  be asked after this has happened eight times in a row. I mean, you can sunburn your eyes,
+[31:19.500 --> 31:23.800]  but I don't think you're allowed to put sunscreen in. Yeah, yeah, yeah. It's illegal actually to do
+[31:23.800 --> 31:32.180]  that. It was, it was pretty impressive to see like the ocean be conquered and then get its wind back
+[31:32.180 --> 31:37.800]  so quickly with like all this stuff. Like you try to go against Poseidon. Yeah. The ocean stays
+[31:37.800 --> 31:43.220]  undefeated, dude. Yeah. Undefeated since forever. The sun kind of started behind the ocean in
+[31:43.220 --> 31:48.940]  perspective to where we were. And as the sun moves over and gets behind us, the ocean just goes like
+[31:48.940 --> 31:54.600]  super blue mode. And in my opinion, that was the time to get in there. Like full blue. It was,
+[31:54.660 --> 31:59.180]  it looked fucking fake. Like Meg said, it looked cell shaded and she was right. It really is. You
+[31:59.180 --> 32:03.040]  play Sea of Thieves and you're like, I wish the water looked like this. Apparently it does.
+[32:03.540 --> 32:07.080]  Yeah, it was, it's the best it's ever looked. I think you pointed out last time, like when we
+[32:07.080 --> 32:12.940]  went before it was, there was like some seaweed and stuff like that. This was like the most
+[32:12.940 --> 32:17.280]  pristine ocean I think I've ever, I mean, I grew up around the ocean and this was like gorgeous
+[32:17.280 --> 32:21.120]  compared to any ocean I've ever seen. It was incredible. And pictures don't even do it
+[32:21.120 --> 32:25.360]  justice. Like it was blue in this picture, but the camera tries to like white balance off some
+[32:25.360 --> 32:30.840]  of the blue by like adding yellow. It was bluer than that. Yeah. And like so see through, like
+[32:30.840 --> 32:34.540]  you could just see to the bottom and say it was, it was really, really cool. It was great. And then
+[32:35.380 --> 32:41.780]  bunch of food. We just kept eating and hanging out. We went to the alien sports bar again.
+[32:42.060 --> 32:46.040]  It was great. Showed Gavin the dartboard, really great stuff.
+[32:47.000 --> 32:50.220]  Eric, what game did, what game was that we watched? That was Eagles Packers, right?
+[32:50.500 --> 32:55.240]  Yeah. Yes. Dude, Eric and I sat down together, just the two of us to watch
+[32:55.240 --> 33:01.880]  the Eagles Packers game in this room, in this alien sport bar. And it was one of the funniest
+[33:01.880 --> 33:06.460]  experiences I've ever had because the sports bar was split into two groups. There was the Packers
+[33:06.460 --> 33:12.640]  group in one room and the Eagles group in another behind us. And for some reason, our TV was about
+[33:12.640 --> 33:20.480]  a minute and five seconds behind every other TV in the building, but it was the only place for us to
+[33:20.480 --> 33:25.000]  sit. So we would be waiting for, we'd just be waiting during a dead play or whatever. And then
+[33:25.000 --> 33:30.300]  suddenly all the Packers fans would be screaming and hooping for joy. And we'd be like, Oh, well,
+[33:30.300 --> 33:33.900]  something's going to happen positive for them. Oh, there you go. They got a first down. And so we got
+[33:33.900 --> 33:38.540]  like, we could determine what was going to happen ahead of time based on who was screaming in the
+[33:38.540 --> 33:43.560]  place. And it was a really funny way to watch a football game. It was the most unique way I've
+[33:43.560 --> 33:47.960]  ever watched a football game that I didn't care about because it made me go, Oh, I think this
+[33:47.960 --> 33:53.780]  might be the way to do it. Like divide the room behind you, let them be a minute ahead and then
+[33:53.780 --> 33:57.960]  just go, Ooh, I'm excited for what they just yelled for. And you just keep sitting and waiting.
+[33:58.220 --> 34:04.640]  It's so cool. Gavin sent me a football text. And I was curious if you two were part, what?
+[34:06.080 --> 34:13.140]  Gavin sent me what I described as the worst take I think you'll have all year. It made no sense.
+[34:13.540 --> 34:19.300]  It was related to football. I wonder if the others could guess what my suggestion for an
+[34:19.300 --> 34:23.920]  improvement to the sport would be. There's no way they can. Okay. How are you going to even
+[34:23.920 --> 34:32.440]  set it up? The clock doesn't stop. Yeah. No, it's related to, um, okay. So, so sometimes,
+[34:32.780 --> 34:36.200]  you know, if there's like a, if there's like an inception or something and the guy just starts
+[34:36.200 --> 34:42.860]  cooking in the other direction and everyone's behind it. Not, I mean, like it really depends,
+[34:42.960 --> 34:47.720]  but for the, for the sake of whatever Gavin's going to say, absolutely, absolutely dude. I agree.
+[34:47.720 --> 34:52.560]  They are behind him. Well, sometimes he's just completely uncontested.
+[34:54.040 --> 35:00.900]  So you think there should be a goalie? Is that, is that what you're getting? You think
+[35:00.900 --> 35:07.380]  there should be a goalie? Gavin texted me 7 57 PM. I figured out the problem with American football.
+[35:07.680 --> 35:17.220]  No goalkeepers. I saw that and replied insane take 11 on every play. It's the entire one of
+[35:17.220 --> 35:23.400]  the teams is all goalkeepers. Their entire function is to prevent goals of any kind.
+[35:23.760 --> 35:28.580]  Well, why is it? Wait, what? What? Cause there's an offense and there's a defense.
+[35:28.920 --> 35:34.440]  We're in soccer or football, your football. It's fluid when you're on offense and defense
+[35:34.440 --> 35:39.580]  and it's the same people in the same roles. Say your team is go is attacking going one way, right?
+[35:39.920 --> 35:45.460]  Right. Have a guy that just stays all the way back on your goal line. They do. It's called
+[35:45.460 --> 35:50.320]  safety. No. Okay. I now understand what he's saying. He thinks that there should be an
+[35:50.320 --> 35:56.400]  offensive goalkeeper. Yes. So when it flips around and the guy just starts booking his
+[35:56.400 --> 36:00.480]  asshole all the way and there's no one in front of him, all he has to do is outrun behind him.
+[36:00.680 --> 36:04.920]  If there was one goalkeeper that he had to deal with at the last second, I think that'd be
+[36:04.920 --> 36:08.400]  phenomenal. Yeah. I, I'm going to go ahead and agree. I'm going to go ahead and agree with
+[36:08.400 --> 36:13.320]  Gavin. I think there should be an offensive goalkeeper also. I agree. Yeah. Upon further
+[36:13.320 --> 36:19.540]  understanding this, I assume that he, he got this take between you guys. And then when I said,
+[36:19.600 --> 36:24.260]  this is a wild take by you. And then he just never replied, which then made me think,
+[36:24.260 --> 36:30.720]  did he come up with this? Does he not have the knowledge to... No, I just, I'm always scared
+[36:30.720 --> 36:37.040]  of getting into content off, off podcast. I actually, I think, I think everybody agrees
+[36:37.040 --> 36:41.160]  with your idea, Gavin. I think we should try it for one season. Yeah. One described that way.
+[36:41.160 --> 36:44.980]  I think that's really fun. Yeah. I like that. I actually had a note while we're on the subject
+[36:44.980 --> 36:49.040]  of improving sports. Uh, you know, I'm a, I'm a big time hockey fan now. Big as big a hockey
+[36:49.040 --> 36:55.920]  fan is Andrew even. And, uh, Noah backwards and forwards and all this stuff. Uh, I had an idea
+[36:55.920 --> 37:06.960]  on how to improve hockey. Okay. Two pucks. Oh my God. Yes, baby. Multipuck. All I can think of
+[37:06.960 --> 37:11.600]  every time I watch hockey is man, imagine if you had to split your focus between two pucks at once,
+[37:11.640 --> 37:17.120]  that would heighten the tension. That's awesome. I would love, I would love a hockey if it was
+[37:17.120 --> 37:22.180]  streamed on Twitch and it was like, you know, when you get knocked out of party animals and you get to
+[37:22.180 --> 37:29.980]  throw the occasional bomb. Yeah. If the, if Twitch could just like vote on what goes in like a second
+[37:29.980 --> 37:37.540]  puck, be phenomenal. I think that if you go to the penalty box, one point per game, somebody in
+[37:37.540 --> 37:43.320]  that penalty box can throw the multipuck in and now you just have to deal with it. So now it's
+[37:43.320 --> 37:47.420]  like, it's not, it's not like there's a, like there is a benefit to the penalty. So you like,
+[37:47.500 --> 37:50.800]  want to get in there, but you don't want to get in there too soon unless you really want that
+[37:50.800 --> 37:58.720]  multipuck early. And what if in the penalty box under your seat, there's an electric shock that
+[37:58.720 --> 38:03.280]  can be controlled by the other penalty box and vice versa. And there's a button you can push to
+[38:03.280 --> 38:09.720]  shock them, but they can push a button to shock you. I mean, let's just be honest. Every sport is
+[38:09.720 --> 38:15.280]  improved with a multi-ball functionality. I can't think of a single one where it'd be less fun to
+[38:15.280 --> 38:19.060]  have a moment in which there are two balls in place simultaneously. Could you imagine if a
+[38:19.060 --> 38:22.580]  quarterback had a holster and he had a ball on each side and he fucking throws the first ball
+[38:22.580 --> 38:28.620]  in complete and he pulls out and throws the second? Would totally change the way that like we view
+[38:28.620 --> 38:31.640]  quarterbacks where it's like, oh, you can like scramble, like get out of the pocket. Right.
+[38:31.680 --> 38:36.860]  But how does he throw that second football? What does the defense do at a double handoff?
+[38:37.100 --> 38:42.620]  Two guys going other directions as fast as they can. Wow. Double handoff. You know what else is
+[38:42.620 --> 38:49.060]  too, if you, if you're like say a running back and you, you get handed off both balls and you
+[38:49.060 --> 38:56.260]  score with double footballs, that should count as two touchdowns, right? Like that's a double score.
+[38:58.220 --> 39:02.980]  Absolutely. The XFL had a really dumb rule when they brought it back where if you're on defense
+[39:02.980 --> 39:08.380]  and you, you like recovered a fumble, you got to keep the other team's ball that had their logo on
+[39:08.380 --> 39:13.020]  it, which I thought was like fun, dumb, but it really could have been amazing if it was like
+[39:13.020 --> 39:17.860]  the, if the other team ran out of balls, you just won. Like every team had like four footballs.
+[39:17.860 --> 39:22.220]  And if you intercepted or like recovered all four, the game just ended with you winning.
+[39:23.160 --> 39:27.760]  It's like halfway, they were halfway there with a great rule. How weird. That's like,
+[39:28.760 --> 39:34.100]  weird, like difficult to explain, but also I, I think I understand like immediately.
+[39:34.620 --> 39:39.200]  That's, uh, it's like the, the offense always had their own team logo on the ball. So you got to
+[39:39.200 --> 39:44.280]  keep it as like a trophy and that's all it was. But I liked the idea of they only have like five.
+[39:44.280 --> 39:51.540]  And if you get all five, it's over. Nothing says poverty franchise. Like we only brought five balls.
+[39:54.360 --> 39:58.880]  Cause there, there's not really a mechanism in sport where like you have to stop playing
+[39:58.880 --> 40:02.520]  because you're out of equipment. No. Yeah. That's sort of like, they're like billion
+[40:02.520 --> 40:05.820]  dollar industries. So I think it would be really crazy if they just went, well,
+[40:05.820 --> 40:09.560]  we're out of bats. We can't bat anymore. We don't have like seven home runs. We're
+[40:09.560 --> 40:17.060]  out of balls. It must've happened once. Oh, definitely. In like the fifties or something
+[40:17.060 --> 40:23.660]  like the, you just know the NFL when it started back when it was like the NFL and the AFL,
+[40:23.780 --> 40:28.180]  like before they merged, it was just like, well, the Cincinnati Bengals couldn't play today. They
+[40:28.180 --> 40:32.080]  only had one ball. And then they popped it. They're like, get on the loudspeaker. Does anyone
+[40:32.080 --> 40:37.780]  in the crowd have a football on them? We could borrow. We will give it back at the end of the
+[40:37.780 --> 40:42.940]  game. In our lifetime. Like, I think, Geoff, I think you've seen it a little bit more,
+[40:43.040 --> 40:47.360]  but in our lifetime, we've seen like sports in the U.S. get so big and like so expensive,
+[40:47.940 --> 40:56.440]  but there was a time where it was just like some guys doing this and then they would get done with
+[40:56.440 --> 41:01.820]  the game and go back to work at the grocery store or the bar. And that was just it. Like that was
+[41:01.820 --> 41:07.080]  just what sport was. Yeah. Until the late seventies, early eighties, even probably in a lot
+[41:07.080 --> 41:11.560]  of sports. Yeah, definitely. It's crazy. Crazy. Do you think we could potentially do a draft that
+[41:11.560 --> 41:18.360]  was sports improvements draft? Oh, that's so good. That's interesting. I'll put it on the list. I'll
+[41:18.360 --> 41:22.320]  put it on the list of ideas. Maybe putting it on the list of ideas. Speaking of, well, I don't
+[41:22.320 --> 41:26.040]  want to take it away and get it to into Sasha's talk territory, but there is one draft I wanted
+[41:26.040 --> 41:31.780]  to pitch Eric or Eric, you know it, Gavin, you know it, but Andrew and Nick that I came up with
+[41:31.780 --> 41:36.880]  the other day that we've been kind of mulling around. I was thinking it would be cool to do
+[41:36.880 --> 41:44.800]  it's like a two part draft. The first part is everybody has to draft four movies from their
+[41:44.800 --> 41:51.300]  birth year. OK, so we all pick the four coolest movies from our birth year. We've looked at yours,
+[41:51.400 --> 41:56.760]  Andrew. They're very good. You have some options that are pretty cool. And and then we do that
+[41:56.760 --> 42:00.680]  draft and, you know, snake draft style. And then at the end, then we take all those movies and we
+[42:00.680 --> 42:06.540]  have to rank them and see where we think they go from there. I love this idea so much. I think
+[42:06.540 --> 42:10.860]  it's so good. I think it's so, so good. I just put it in the bank. I think it's fantastic. So would
+[42:10.860 --> 42:15.700]  that be our first draft ranker? Yeah. How would the draft work? Because we can't. Is it just us
+[42:15.700 --> 42:22.540]  declaring what will be on the list? Yeah. Like every other draft we've done? Just what? I didn't
+[42:22.540 --> 42:27.500]  understand his question. No, no, no. OK, so like because where we can't snipe each other's picks.
+[42:27.500 --> 42:31.400]  Yeah, that's essentially what I'm saying of like we all are just going to have what we have.
+[42:31.600 --> 42:36.200]  Yeah, but it's very rare that we ever snipe each other's picks. Yeah. Yeah. You're not really
+[42:36.200 --> 42:39.920]  playing for the draft part. You're playing for the ranking part, right? Because you're trying
+[42:39.920 --> 42:44.860]  to get your four best or the four that you think are going to rank the best. And so you're drafting
+[42:44.860 --> 42:49.280]  for the ranking. I think you've got the potential to win, but I also think you have the potential
+[42:49.280 --> 42:55.520]  for the biggest fumble of this. I agree. Really? Oh, yeah. Yeah. You? Yes. And I think I probably
+[42:55.520 --> 43:00.880]  should have the highest ranked movie in the draft, but we'll see. We'll see. I was worried
+[43:00.880 --> 43:07.820]  briefly that I was born the same year as Nick, but apparently Nick's an 87. OK, good. Surviving
+[43:07.820 --> 43:12.500]  the game. I know what I'm going with. That sounded like you just told Nick when he was born and he
+[43:12.500 --> 43:17.760]  was like, oh, I am. OK, cool. Thanks for letting me know. I was worried Gavin shared the same year
+[43:18.500 --> 43:23.060]  as well. Yeah. Nick's been a big Nick's been like a real guy lately. Nick's been a real
+[43:23.540 --> 43:25.800]  Nick's been a real character. And we're just
+[43:27.420 --> 43:31.940]  hey, we want to record this thing. I have to pick up my car. I OK. All right. Well,
+[43:32.500 --> 43:37.060]  the hardest guy to get pinned down. I don't know, man. I think Nick is secretly the busiest
+[43:37.500 --> 43:42.560]  person of the whole group. Yes. Yes, I agree. I don't know if it's a secret. He's he's the only
+[43:42.560 --> 43:47.520]  one of us with a toddler that instantly makes him busier. Yeah. But didn't you have a toddler
+[43:47.520 --> 43:54.860]  when you worked at work? Yes. Didn't I have a toddler when I worked at work? No, Nick. Oh,
+[43:56.780 --> 44:00.880]  yeah. But he's more active now and I have to do I've taken places to do shit.
+[44:01.200 --> 44:04.840]  I'm going to delete that. You put in, Eric, this is it was already in above it.
+[44:05.600 --> 44:11.700]  Oh, OK, great. Oh, what was the other one that we had? We added Wheel of Decades. OK,
+[44:11.700 --> 44:15.940]  Berthier movie draft. Are we Nostradamus and sports improvement draft?
+[44:16.860 --> 44:19.800]  These are good. We'll talk about all these thoughts of chalk or whatever. We want to
+[44:19.800 --> 44:24.800]  pitch these ideas later. But like, are we Nostradamus? It was such a fun. I just like
+[44:24.800 --> 44:29.860]  that name so much. It's great. We got to do that soon. I just watched interview the vampire. It's
+[44:29.860 --> 44:36.640]  a ninety four film. What a like disappointing watch current day to thrilling at the time
+[44:37.180 --> 44:42.140]  because that that film ends in a way of like, shit's going to go down. We're going to make
+[44:42.140 --> 44:48.020]  more movies. And then just knowing none of that happens. It is such a disappointing end to that
+[44:48.020 --> 44:53.660]  that movie. But the whole point of the ending is like, oh, man, that was really unsatisfying.
+[44:53.720 --> 44:57.060]  And it's like, yeah, that's how life is sometimes. And then they set up like what
+[44:57.060 --> 45:02.220]  the next act will be. And then none of those people came back to follow through on that story.
+[45:02.220 --> 45:06.700]  It kind of took the air out of the whole Anne Rice mystique at the time because she was
+[45:06.700 --> 45:12.240]  really fucking big at the time. Interview with the vampire, vampire stat, all that stuff.
+[45:12.440 --> 45:17.140]  That was very much like like the grown up version of Harry Potter for that era. And everybody was
+[45:17.140 --> 45:21.160]  in love with it and her. And then that movie came out and was kind of a dud. And then that
+[45:21.700 --> 45:27.480]  was pretty much it. It felt like it could have been like an alternate universe exists where that
+[45:27.480 --> 45:32.880]  is the twilight of that time. It was just like the actors in it were too popular. So there's no
+[45:32.880 --> 45:38.260]  need for them to be in seven of these. But they could have. There's a world in which we got seven
+[45:38.260 --> 45:43.040]  of these. And what a weird time that would have been. It was also honestly a much better book
+[45:43.040 --> 45:48.580]  than a movie. They didn't do a great job with the film any like from casting on it. They really did.
+[45:48.660 --> 45:51.560]  I could see that. Not going to part of that fucking movie. Oh, it's not going to be on
+[45:51.560 --> 45:55.040]  my list. How do you fuck up Brad Pitt and Tom Cruise at the height of their career?
+[45:55.040 --> 46:03.180]  Yeah. Yeah. Was Meet Joe Black a good movie? Never saw it. There's the funny part in it
+[46:03.180 --> 46:12.160]  where Brad Pitt speaks Patois. He's like, I'm not. I was about to do it. I'm not going to do it. But
+[46:12.160 --> 46:21.700]  he starts speaking Patois to a to a woman in a hospital where he sounds like Chet Hanks,
+[46:21.700 --> 46:27.320]  uh, you know, just doing like a Jamaican accent. It's very strange. I've only seen that clip
+[46:27.320 --> 46:33.920]  because she she can like see who he really is. Right. And that and just getting hit by two cars.
+[46:34.080 --> 46:39.560]  That's the only thing. Yes. Oh, it's so cool. Have you seen that, Andrew? Yes. It's so cool.
+[46:39.720 --> 46:45.580]  It's awesome. It's so crazy. Half of Meet Joe Black. We had a moment on the Slack while we're
+[46:45.580 --> 46:50.500]  in Mexico where for some reason Andrew was posting a flag. I think it was the UAE flag or something.
+[46:50.500 --> 46:55.740]  Oh yeah. I don't know. I didn't know what flag it was. We were trying to figure out what flag it
+[46:55.740 --> 47:01.540]  was. And then eventually we got onto like someone guessed Chad and then we looked up the flag of
+[47:01.540 --> 47:06.560]  Chad and it wasn't that. And then I thought, Ooh, I know I'm going to change. I'm going to change
+[47:06.560 --> 47:14.800]  my contact for Chad James to the flag of Chad and James. And Chad James used to work at Screw
+[47:14.800 --> 47:20.020]  Attack and all that stuff. And then I was like, Oh, I'm excited to get a text from Chad now.
+[47:20.020 --> 47:25.040]  And then Eric was like, how often does Chad text you? And I was like, Oh, I don't know. Let me,
+[47:25.120 --> 47:30.360]  let me search. And I searched my messages for Chad. Nothing came up because I've changed him
+[47:30.360 --> 47:38.640]  to the flag. You can't search for him. You can't type Chad. You got rid of his name. He's a symbol
+[47:38.640 --> 47:43.520]  now. It was, it screwed me over within like 20 seconds of me doing it. I was like, Oh, good
+[47:44.100 --> 47:52.640]  I don't know. But that's how he's in my phone now. Oh my God. I have a question for you, Gavin.
+[47:53.020 --> 47:58.020]  Yeah. I was thinking about this. Have you, you've played some Sea of Thieves, right? And you've,
+[47:58.100 --> 48:02.740]  you know how like the health works or like you have a health bar and if you eat meat,
+[48:02.780 --> 48:08.360]  you get a second health bar. You can get an additional bar. If real life worked that way,
+[48:08.480 --> 48:13.040]  if you could just accumulate, like, imagine like life was a survival game where you have
+[48:13.040 --> 48:18.200]  your sleep and you have your water and you have your food and you could just accumulate
+[48:18.200 --> 48:24.180]  bars that slowly depleted as they naturally would. Would you spend like, would you take
+[48:24.180 --> 48:28.900]  two months of the year off to just get all your eating done and all your sleeping and drinking
+[48:28.900 --> 48:34.920]  for the year? If I could eat like a golden apple equivalent, I would not eat for two months.
+[48:35.400 --> 48:41.700]  Crazy, crazy. Now, in a scenario in which it's not like, there's not like a calorie issue,
+[48:41.700 --> 48:47.600]  like everything is healthy, everything is good. You're just like essentially just ingesting your
+[48:47.600 --> 48:52.440]  calories now to be distributed across that time period. It's kind of like a bear getting ready
+[48:52.440 --> 48:57.740]  for... Sure, like hibernation. Yeah. You're like front loading that work so that you can just
+[48:57.740 --> 49:02.100]  focus on slow-mo guys, I guess. Yeah, I mean... So if you could, you would opt out of eating
+[49:02.100 --> 49:06.760]  like day to day? I would opt out of, I mean, I would probably still eat a social dinner.
+[49:08.480 --> 49:15.240]  There's a bear... What is hibernation? It's not what you think it is, I think. I thought
+[49:15.240 --> 49:19.540]  they were just having like a three month kip, but apparently they're like awake and stuff.
+[49:21.280 --> 49:26.940]  Yes. I don't know what they're doing. There's something... They're like half awake,
+[49:27.020 --> 49:33.020]  half asleep, just hanging out, losing weight. Are they in like a different state to being
+[49:33.880 --> 49:38.580]  awake and asleep? Is it like a middle ground? Yeah, I think it's a middle thing. I think it's
+[49:38.580 --> 49:44.440]  just like it's a lot of sleep where like they lower their heart rate and metabolism. But I
+[49:44.440 --> 49:49.800]  kind of want to go back. What's a kip? Is a kip a nap? Yeah, I think it's a nap. I don't think I've
+[49:49.800 --> 49:54.000]  ever heard that. I heard Nick say kip and I felt the same way. Yeah, I don't think I've ever heard
+[49:54.000 --> 49:59.820]  that. It just kind of threw me off. Oh, I wonder if I can find me saying kip in an episode of this
+[49:59.820 --> 50:04.160]  podcast. I bet you can. Probably. I think you've talked about the golden apple thing before. So
+[50:04.160 --> 50:10.120]  yeah, probably. Isn't there like a certain type of squirrel that like actually hibernates and they
+[50:10.120 --> 50:15.560]  have an extremely high alcohol tolerance because their berries ferment? And then so they come out
+[50:15.560 --> 50:19.860]  and they like eat the berries and then other animals eat them and get fucked up off of them.
+[50:20.180 --> 50:24.560]  And then they die. Like they get other animals drunk by being ingested by the animals. So the
+[50:24.560 --> 50:31.000]  squirrel is basically a bottle of vodka for other animals. Yes. It's like, oh, what is it? It's like
+[50:31.000 --> 50:35.420]  a rodent of some kind. They're tiny little guys. You wouldn't expect them to have an insanely high
+[50:35.420 --> 50:40.140]  alcohol content. Oh, and they get drunk from eating the squirrel. Yes. So the squirrel eats it,
+[50:40.160 --> 50:46.020]  is unfazed by it. Then like a wolf eats the squirrel and then the squirrel gets drunk off
+[50:46.020 --> 50:52.940]  of the squirrel and it fucks them up. Wait, the squirrel gets drunk? No, the wolf. The wolf eats
+[50:52.940 --> 50:57.920]  the squirrel and the squirrel dies and the wolf and the wolf gets drunk from the squirrel. Squirrel
+[50:57.920 --> 51:04.580]  dies. Yeah. What you didn't consider is the squirrel dies in the wolf. Wow. Rodent alcohol content. What
+[51:04.580 --> 51:10.360]  am I thinking? Did I make this up? Did I dream this? That's an insane search. That's a 12% squirrel.
+[51:12.040 --> 51:17.660]  The squirrel's like wine. This is just like mice. This is like the Goldschlager of squirrels.
+[51:20.040 --> 51:24.040]  Rodent gets animals drunk. Oh, this squirrel's like Ruppelmütz. Fuck.
+[51:27.360 --> 51:32.440]  I'd love to see a six pack of squirrels. This is like squirrel ever clear. I'm gonna have a
+[51:32.440 --> 51:38.640]  fucking brutal headache tomorrow. Do you want squirrel or do you want squirrel light? I got
+[51:38.640 --> 51:46.320]  a big mouth squirrel here. You want a big mouth? Look at this image I got from searching it. You
+[51:46.320 --> 51:59.800]  know, researchers are trying to get mice drunk or something, I guess. That's me in Cancun.
+[52:02.740 --> 52:10.140]  That's Javier giving me doubles. That is what you look like at the end. Oh, dude, I was toast. It
+[52:10.140 --> 52:15.720]  was bad. Um, Gavin, do you remember any of the hypotheticals that you were laying out to the
+[52:15.720 --> 52:24.020]  group? Yeah. Does it involve me dying again? No, we stayed away from that. Okay. It's not good for
+[52:24.020 --> 52:28.980]  your dick, though. I think the first one was you get $50,000, but your belly button is seasonal.
+[52:30.560 --> 52:36.620]  Okay. What does that mean? I thought it moved around your body. Yeah, it just like rotates
+[52:36.620 --> 52:41.380]  around your body until a year later it's in the same spot. Oh, right. Yeah, that's fine.
+[52:42.800 --> 52:49.040]  Yeah, that's a yes. Do you have any other ones? That one was easy. You wouldn't find it weird if
+[52:50.160 --> 52:54.860]  in August your belly button was on your shoulder or something? Okay, well, I guess let me ask,
+[52:55.020 --> 53:00.660]  does the hole move? Or is it like any indentation move? Or is it just the thing?
+[53:01.500 --> 53:06.920]  What do you think about it? How would your belly button move and leave the hole where it is?
+[53:08.820 --> 53:11.520]  What do you think he's talking about, Andrew?
+[53:13.260 --> 53:17.780]  Well, you know how they have an innie and an outie, right? The belly button. Yeah. Yeah.
+[53:18.900 --> 53:25.560]  So if you're an innie, that's your belly button. Yeah, go ahead. Yeah. How do I describe this? So
+[53:25.560 --> 53:33.280]  there's a hole. So the belly button itself, it's the thing that does the hole move with the belly
+[53:33.280 --> 53:38.060]  button. How are they different? What do you mean? They're the same thing! How are you gonna have...
+[53:39.100 --> 53:44.720]  What? Okay, no, because this is... if the hole moves, I'm less weirded out by it. What do you
+[53:44.720 --> 53:51.000]  mean if the hole moves? If I just got a hole with nothing at the bottom of it... But the hole isn't
+[53:51.000 --> 53:55.120]  there for... and then it just happens to have the belly button inside. The belly button causes the
+[53:55.120 --> 54:00.780]  hole. It's not a hole either. It's just a lucky little indent. A little crevice. Yeah. Whatever.
+[54:00.780 --> 54:08.300]  It's like the end of a balloon knot. I guess... I was just curious if it moved. If all of them
+[54:08.300 --> 54:14.220]  moved or just the one part. How would they move independently of each other? I don't... I can't
+[54:14.220 --> 54:18.980]  visualize it. How would they move at all? This is an insane hypothetical. Even if they could move
+[54:18.980 --> 54:22.880]  independently, what difference would it make if there's suddenly a big hole on your shoulder?
+[54:23.220 --> 54:27.780]  What difference does it make if there's a knot at the bottom of it or not? I think the knot is
+[54:27.780 --> 54:32.940]  weirder than the hole. People have to look down it. Yeah. They're not going to be looking at my
+[54:32.940 --> 54:38.780]  hole, but they'll see my knot. I don't like that sentence. Someone's going to clip that. Please
+[54:38.780 --> 54:43.460]  clip that. That's going to be messed up, man. That's... oh man. That's a ringtone right there.
+[54:43.500 --> 54:49.480]  The knot is just exposed. The hole... there's some secrecy to a hole. You don't necessarily
+[54:49.480 --> 54:55.120]  know what's going on with the hole. Clip all that too. You can think that the hole goes somewhere.
+[54:55.720 --> 55:00.120]  Like you... if I see a belly button hole on someone's shoulder, I don't go, oh, that's a
+[55:00.120 --> 55:05.800]  belly button hole. I go, that's a hole. Wonder what happened there. And I don't judge. You wouldn't
+[55:05.800 --> 55:09.500]  think, wow, that looks like they have a belly button on their shoulder. That would be weirder
+[55:09.500 --> 55:15.120]  to me because there's mystery. You guys ever see J.J. Abrams talk about the mystery box? It's a
+[55:15.120 --> 55:21.840]  delightful thing. The mystery of not knowing. If it was just the foldy belly button part,
+[55:21.840 --> 55:26.440]  I would know. Did anybody at any point glean what the fuck he was talking about between the
+[55:26.440 --> 55:30.460]  hole and the belly button? Spill in how he's talking about like you wouldn't know. Like it's
+[55:30.460 --> 55:36.800]  like Schrodinger's belly button. Yeah. How wouldn't you know? Let me show you. It looks
+[55:36.800 --> 55:42.840]  exactly like the belly button on your tummy. It's just on your shoulder. Okay. I looked up
+[55:42.840 --> 55:49.560]  belly button hole. Okay. This and alcohol rats or whatever is going to fuck up your search history.
+[55:49.560 --> 55:56.500]  This is bad. Okay. So see, I'm posting a photo of a belly button hole. Yeah. The belly button.
+[55:56.940 --> 56:01.600]  Okay. But there's a hole and then there's the button part in it. That's just an innie. Yes.
+[56:01.980 --> 56:06.480]  Oh, really? The outie's still in the hole. It's just filled. What do you mean? Oh, okay.
+[56:07.000 --> 56:16.820]  What did you just learn? Wait. What was learned? What's at the bottom of the innie hole?
+[56:17.900 --> 56:27.720]  The freaking knot. Okay. Let me look up an outie. It's the same thing. It's just further out.
+[56:28.080 --> 56:35.000]  The outie fills the hole. What is an outie? Is it just like a botched knot? I think so. Yeah,
+[56:35.040 --> 56:41.860]  I think so. It just didn't stay in. Okay. Here we go. Maybe the baby coughed wrong and it popped
+[56:41.860 --> 56:46.800]  out. This kind of illustrates my point a little bit better. You guys are going to get it now.
+[56:47.380 --> 56:53.200]  Okay. So see, I'm posting a thing. Oh, gross. Is your belly button an innie or an outie? Oh,
+[56:53.260 --> 56:58.960]  I hate this. Yeah, well, this is what you did. See on the right, I just know that that's a belly
+[56:58.960 --> 57:05.660]  button knot. Yeah, but that's... On the left, I know it's a belly button knot because of where
+[57:05.660 --> 57:11.260]  the belly button is. Listen, moron. These are saying there's six belly buttons here. These
+[57:11.260 --> 57:17.500]  are all belly buttons. Imagine you had number four. It moves around your body seasonally. I
+[57:17.500 --> 57:23.460]  don't know what you don't get. You're explaining belly buttons. You can have multiple. Like,
+[57:23.520 --> 57:29.100]  when you're a kid, it's probably not going to be as innie as it is now. Right? Guys, I hate to say
+[57:29.100 --> 57:36.340]  it, but I think I understand where he's coming from. Here we go. To a degree. Let me talk it
+[57:36.340 --> 57:40.840]  out. Okay. What Andrew's saying, I think, and Andrew, correct me if I'm wrong, but if we're
+[57:40.840 --> 57:44.520]  just going to go with the top belly button, the left one and the right one, right? We're not going
+[57:44.520 --> 57:49.420]  to look at the six, just the top of the image. The belly button on the right, the outie, if you see
+[57:49.420 --> 57:53.780]  that on your shoulder, you immediately think, oh, that's a fucking belly button on his shoulder.
+[57:54.040 --> 57:58.920]  But if you see the belly button on the left, which is a pretty extreme innie, it just looks like a
+[57:58.920 --> 58:04.720]  hole. It could be a staph infection or something. It doesn't necessarily scream belly button. I
+[58:04.720 --> 58:10.800]  understand that. But when I said your belly button moves, I don't know how we separated
+[58:10.800 --> 58:16.080]  those as two things. Nobody does. I don't think he does. Well, no, I assume that the hole...
+[58:17.460 --> 58:18.320]  the hole is...
+[58:23.760 --> 58:31.200]  Yeah. So the hole, I was thinking, I guess I just wasn't, I guess. I don't know. I just, to me,
+[58:31.260 --> 58:35.400]  I feel like the hole is a product of the button, but I see what you mean of you couldn't have the
+[58:35.400 --> 58:40.120]  hole without the button. But in a world in which these are all moving in ridiculous ways,
+[58:40.200 --> 58:45.140]  I don't think it's an unfair question to ask if the hole moves. You're gonna love the clone
+[58:45.140 --> 58:49.580]  question Gavin has next for you. That was number three. I was trying to remember number two,
+[58:49.760 --> 58:53.080]  but that's like saying, like, imagine if your mouth was seasonal and then you were like,
+[58:53.180 --> 59:02.000]  wait, is the mouth moving or the hole? It's the same thing. Yeah, I guess. Yeah, I guess your
+[59:02.000 --> 59:08.060]  lips. Yeah. Yeah. Yeah. You're right. I just, I don't know. I didn't think about belly buttons
+[59:08.060 --> 59:11.900]  that much. This is the most I've ever thought about. He just, he keeps saying, yeah, but there's
+[59:11.900 --> 59:16.640]  like, I don't think there's any understanding behind it. Does anyone remember that next one?
+[59:16.840 --> 59:20.440]  I got it. I don't. I just remember the, I just remember the clone one there. I think there was
+[59:20.440 --> 59:23.560]  one other one, but I don't remember it. I don't know, but this just gave me a really weird idea.
+[59:23.840 --> 59:28.220]  You know how, when you pierce your ears and then you, you'd have to like pop a hole through your
+[59:28.220 --> 59:32.400]  ear and then it's pierced. And then if you take your earring out for too long, it'll eventually
+[59:32.400 --> 59:35.940]  grow over a little bit with a little slap of skin, but then you have to pierce it again to
+[59:35.940 --> 59:41.860]  repop it. What if your butthole worked like that? And like you originally had a grown over butthole
+[59:41.860 --> 59:45.940]  and you had to pierce it so that you could poop. And then if you like have, I don't know if you
+[59:45.940 --> 59:50.000]  don't poop enough, uh, or if you get too constipated, your, your butthole can grow back
+[59:50.000 --> 59:53.660]  over and then you got to repop it every time you got to poop. I mean, isn't that kind of what
+[59:53.660 --> 59:57.600]  happened to you when you were off solids for all that time? And then you poop like a little
+[59:57.600 --> 01:00:01.860]  piece worth, but it was really... Yeah, but I didn't have to like break through any skin or
+[01:00:01.860 --> 01:00:05.100]  anything, but yeah, no, it was essentially the same thing. I was just thinking more of
+[01:00:05.460 --> 01:00:09.440]  like having to go to Claire's boutique to get your butthole pierced again so that you can poop.
+[01:00:09.520 --> 01:00:15.860]  Like if an anus had a regrowable hymen. Yes. Yeah. Yeah. Yeah. Oh Jesus.
+[01:00:18.940 --> 01:00:23.480]  Anyway, what was your next, what was your next one? I don't know. But the third one was, um,
+[01:00:23.480 --> 01:00:27.800]  you get a hundred grand and then a clone, an exact clone of you in this moment,
+[01:00:29.140 --> 01:00:34.040]  gets birthed from somewhere and then just waits in a hotel room and anyone can go and have sex
+[01:00:34.040 --> 01:00:39.180]  with it. Well, no, you said they can do whatever they want to it, not just have sex with it,
+[01:00:39.220 --> 01:00:43.940]  which is way worse. No, I said they could just go and bang it. And then, and then Emily was like,
+[01:00:44.000 --> 01:00:48.020]  oh, but people are going to beat the shit out of it and stuff. And you were like, yeah, they do
+[01:00:48.020 --> 01:00:51.360]  whatever they want. They have it for an hour. No, I never said they do what they want. They just,
+[01:00:51.360 --> 01:00:57.440]  they just have, uh, anything sexually, I guess. I didn't, I didn't assume that I'd mean like
+[01:00:57.440 --> 01:01:01.040]  beating it and killing it. You guys thought I didn't have my story straight with this belly
+[01:01:01.040 --> 01:01:06.560]  button thing. I don't know what you have a clone and you're fucking your clone. No one liked this.
+[01:01:06.800 --> 01:01:11.240]  No one liked this, by the way. No one was on board with this. No, I don't think anyone wanted
+[01:01:11.240 --> 01:01:16.080]  to do this one, but it was the one that had the most discussion around it over and over and over
+[01:01:16.080 --> 01:01:21.260]  and over. And Meg was like, I'm going to find the loophole. I should have been here at Cancun. I
+[01:01:21.260 --> 01:01:26.840]  would have tripled the belly button hole. Gavin seems to think it's a good idea. My point was if
+[01:01:26.840 --> 01:01:32.120]  there are two of me in the world, I must immediately seek that other me out and kill it because I know
+[01:01:32.120 --> 01:01:37.340]  the other me that's getting fucking railed by old gross businessmen all day long for a hundred
+[01:01:37.340 --> 01:01:41.840]  thousand dollars a pop so that this me can go off and have fucking lavish vacations and stuff
+[01:01:41.840 --> 01:01:46.120]  while the other me is getting pegged night and day. That guy's going to get pissed real fast
+[01:01:46.120 --> 01:01:49.680]  and he's going to come looking for this me and he's going to take me out and replace me as the
+[01:01:49.680 --> 01:01:53.900]  real me and he can do that because he is me. So I got to kill that motherfucker before he thinks
+[01:01:53.900 --> 01:01:58.460]  to kill me. Yeah, I was just trying to create a bigger moral dilemma than a belly button. Is the
+[01:01:58.460 --> 01:02:05.240]  clone exactly like in every way, in every way the clone exists as me? Identical. Meg's going to have
+[01:02:05.240 --> 01:02:15.780]  hers streamed for her. No. I couldn't do this because I had this as like a Carl Pilkington
+[01:02:15.780 --> 01:02:20.000]  thing recently, like a Rick Gervais show clip, where he was concerned he wouldn't know which was
+[01:02:20.000 --> 01:02:25.180]  him. And I agree with that. Yeah, I remember that clip. I think Carl's immediate question was how
+[01:02:25.180 --> 01:02:32.240]  would I know which one I was? Yes. And that would be a dilemma if it is identical. Yeah, but that's
+[01:02:32.240 --> 01:02:37.600]  not... the reason that's a mental thing to say is that you can only experience you. If there's three
+[01:02:37.600 --> 01:02:42.700]  of you, you'll still be you. You won't be like, oh, I'm that one over there. Well, I wouldn't know if
+[01:02:42.700 --> 01:02:51.340]  I was the original me or not, if I was a copy. What do you mean? Well, yeah, that is true. The
+[01:02:51.340 --> 01:02:55.600]  clone doesn't necessarily know it's a clone. That's true. The clone has no idea it's a clone.
+[01:02:56.000 --> 01:03:00.520]  I would assume that I was the original, but in a world in which there are clones, I also would
+[01:03:00.520 --> 01:03:04.980]  have to accept the fact I don't necessarily know that. Wasn't this a Ewan McGregor movie? You gotta
+[01:03:04.980 --> 01:03:09.080]  look for the dots under your eye. It's the island. The island, yeah. I don't want... this podcast
+[01:03:09.080 --> 01:03:17.340]  doesn't need three of me's all agreeing about belly buttons. If this show is all me and just
+[01:03:17.340 --> 01:03:20.340]  everything that's just, yeah, that makes sense, it would be a lot less interesting.
+[01:03:22.820 --> 01:03:26.160]  All right, there's three of you, but you have to share the belly button. It's a time share.
+[01:03:27.200 --> 01:03:34.060]  What part of the body do I get it on? I don't know. I would take shoulder. I don't want it on
+[01:03:34.060 --> 01:03:40.020]  my lower back. I would take where a belly button normally goes. Well, that's not fun. If you're
+[01:03:40.020 --> 01:03:43.420]  gonna time share a belly button, you might as well get it somewhere else for a little bit of
+[01:03:43.420 --> 01:03:53.760]  the year. What? If you're gonna time share a belly button, why would you have it be the exact place
+[01:03:53.760 --> 01:03:58.420]  you always have it? The whole joy of the time share would be to experience something different
+[01:03:58.420 --> 01:04:05.060]  in a non-permanent way. Where's the joy? There's no joy in sharing or in belly button. Why else
+[01:04:05.060 --> 01:04:12.220]  am I paying for this time share if it's not about joy? Why am I investing in a time share that I'm
+[01:04:12.220 --> 01:04:18.920]  not enjoying? Okay, so if you could choose to have just a perfectly smooth gut with no belly button,
+[01:04:19.100 --> 01:04:24.400]  would you would you want that over a belly button? Absolutely. Yeah. Really? Why? No strategic
+[01:04:24.400 --> 01:04:33.460]  defensive deficiencies. What the fuck? I think I would swim better too. I think it'd be more
+[01:04:33.460 --> 01:04:40.980]  aerodynamic. You're a crazy person. Defensive? Well, I've never seen Star Wars, but don't they
+[01:04:40.980 --> 01:04:45.840]  shoot the ball in like a hole? It's like a small hole. I just feel like the belly button is a weak
+[01:04:45.840 --> 01:04:51.740]  part of my body. The belly button is literally opposite of that. It's like a closed door. It's
+[01:04:51.740 --> 01:04:57.440]  inside. Doesn't come out. It's welded shut. Yeah, but a door can be opened. Not this door shut by
+[01:04:57.920 --> 01:05:04.020]  what is more security or a solid wall or a door? It's a wall. A wall is more secure.
+[01:05:04.300 --> 01:05:10.600]  What's the wall? The wall is just around the door. So you're saying it's easy. It's
+[01:05:11.300 --> 01:05:15.900]  it's easier to penetrate a door than it is a wall because the door is designed to be open.
+[01:05:16.020 --> 01:05:20.960]  I figure the belly button's got to be a lot of scar tissue layered on top of each other,
+[01:05:20.960 --> 01:05:25.080]  it's got to be like a little bit of armor more than anything. Sounds like suddenly we're all
+[01:05:25.080 --> 01:05:31.640]  a bunch of experts on how belly buttons work. If one of us isn't, I have a feeling I know who that
+[01:05:31.640 --> 01:05:39.260]  is. Well, what's the stronger part of a bank vault, the wall or the door? Certainly the wall
+[01:05:39.260 --> 01:05:44.500]  would have to be equally strong or else what would be the point of the door? Fair point.
+[01:05:46.760 --> 01:05:53.060]  Let's let's make a vault and have three or four angles that are weak as shit and then one super
+[01:05:53.060 --> 01:06:02.120]  strong one that moves. Well, the walls are in the wall. The walls are in the wall. You can't
+[01:06:02.120 --> 01:06:07.300]  often get to the wall from the outside. That's my point. You can't even get to it. But I don't know
+[01:06:07.300 --> 01:06:13.800]  about the belly, but you can't even get to it to be a weak point. It's just gone. No, no. Yeah,
+[01:06:13.800 --> 01:06:22.380]  because. Yeah. If you if you remove your nose, you can't break your nose. Think about it that way.
+[01:06:28.810 --> 01:06:32.410]  Oh, Geoff, did you get a root canal in your teeth? Oh, you don't have any teeth. You can't.
+[01:06:32.530 --> 01:06:36.630]  They're gone. Not that I want that for you, Geoff. Don't bring me into this.
+[01:06:37.510 --> 01:06:42.590]  My point is, if you don't have a thing, you can't lose the thing. But I mean,
+[01:06:42.590 --> 01:06:45.670]  go all the way. If there's no you, you can't break your leg.
+[01:06:46.330 --> 01:06:50.330]  That's true. Guess who's never broken their leg? Someone that was never born.
+[01:06:51.470 --> 01:06:52.930]  That's factual. Yeah.
+[01:06:54.770 --> 01:06:58.170]  So $50,000, but you get born? Is that what we're asking?
+[01:07:03.540 --> 01:07:05.640]  Where did it go off the rails? Was it the belly button?
+[01:07:07.240 --> 01:07:14.720]  Oh, God. Well, that'll probably do it for this episode, I guess. What do you guys think?
+[01:07:14.820 --> 01:07:17.380]  I had a lot of notes that I didn't get to, but I think that's fine.
+[01:07:17.620 --> 01:07:21.840]  Why don't you have one of your notes? Let's go with one of Gavin's notes. So why don't you play
+[01:07:21.840 --> 01:07:29.840]  us out? Jesus Christ. Can I quickly? Did you leave your notes in another room? Can I say my
+[01:07:29.840 --> 01:07:34.460]  note? It's very quick. It's very please go for it. I brought up the Marvel Rivals thing last episode,
+[01:07:34.560 --> 01:07:38.720]  you know, my name and it being taken. This was a great opportunity for me to go back to the
+[01:07:38.720 --> 01:07:43.060]  Facebook group chat of all Andrew Pantons. I checked in on him because I thought if one of
+[01:07:43.060 --> 01:07:48.060]  them had it, I wouldn't be upset about it. I'll let them have it. Boil one. Yeah, none of them
+[01:07:48.060 --> 01:07:51.540]  have it. So I'm back to being upset about somebody else taking it. And they don't deserve
+[01:07:51.540 --> 01:07:54.560]  it. They're not part of the chat. But but the interference are good. Just an update on the
+[01:07:54.560 --> 01:08:04.100]  interference. Gavin. It's. I guess on planes, right? Fucking you guys are going to you side
+[01:08:04.100 --> 01:08:08.520]  with this guy, this belly button fucking wanting son of a bitch. I do want one.
+[01:08:08.860 --> 01:08:11.700]  Gavin sounded like he was trying to start a lawnmower.
+[01:08:13.900 --> 01:08:19.020]  It's a new thing that's happening on planes. Well, for some reason, I'll sit down in my seat
+[01:08:19.580 --> 01:08:25.280]  and then every bastard that walks past me has a backpack. And on the back of their backpack
+[01:08:25.860 --> 01:08:31.640]  is a neck pillow that hits me in the face. Every time I sit down on a plane, I get walloped like
+[01:08:31.640 --> 01:08:36.360]  seven or eight times. And it didn't used to happen. Has anyone else experienced this?
+[01:08:36.800 --> 01:08:40.180]  No. Can't say that wouldn't happen if you didn't have a face.
+[01:08:41.320 --> 01:08:46.700]  Thanks for watching. Can you believe Eric and Gavin? Can you believe we just created
+[01:08:46.700 --> 01:08:52.360]  more than an hour of content this week? How is that even possible? No one else is doing it, man.
+[01:08:52.700 --> 01:08:56.920]  No, it's it's no one else is doing it. I was sharing with them over the break,
+[01:08:57.020 --> 01:09:00.680]  guys, that I had a conversation with my daughter when she was in town from college,
+[01:09:00.680 --> 01:09:05.180]  you know, for the holiday. She was very excited because she was going to go see a comedian that
+[01:09:05.180 --> 01:09:10.800]  she really loves. Millie really loves standup. And so it's like her big thing. She goes to a lot
+[01:09:10.800 --> 01:09:16.060]  of standup. And so there's a younger Gen Z standup she really digs. And she was telling me about him
+[01:09:16.060 --> 01:09:19.260]  and how how cool he is and stuff. And I was like, oh, that's awesome. That's awesome. I'm glad you
+[01:09:19.260 --> 01:09:23.200]  get to go see it. That's really cool. And she goes, and dad, it's like the crazy thing is he
+[01:09:23.200 --> 01:09:28.200]  does his standup, right? He's a standup for a living. But then he has a YouTube channel where
+[01:09:28.200 --> 01:09:34.080]  he creates like an hour of new content every fucking week. Like who's doing that? That's
+[01:09:34.080 --> 01:09:40.240]  game changing. And I was like, is he doing an hour of standup every week? No, it's like a podcast
+[01:09:40.240 --> 01:09:44.600]  conversation type stuff. Oh, yeah. It's like, well, we and I was just like, yeah, who who could
+[01:09:44.600 --> 01:09:52.040]  come up with an hour of new content a week? Boy, that's a revolutionary idea. And there you have
+[01:09:52.040 --> 01:09:59.260]  it. We just did it. Thanks for tuning in to Episode 37 of the Reg You Motherfucking Latian
+[01:09:59.260 --> 01:10:05.640]  Podcast. It was a joy to perform it for you. Believe it or not, we nailed it on the third
+[01:10:05.640 --> 01:10:09.260]  take today. We'll see you next time. Don't forget to rate and review. Bye bye.
+[01:10:10.020 --> 01:10:11.300]  People are going to be real mad at me.

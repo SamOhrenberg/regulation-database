@@ -1,0 +1,963 @@
+[00:15.470 --> 00:19.990]  This is episode 128, by the way. So if we can get recording all around, then I think
+[00:19.990 --> 00:22.830]  we're good and we can get off to the races.
+[00:23.890 --> 00:27.970]  And that was the intro for episode 128. Thank you, Eric. That was awesome.
+[00:28.470 --> 00:29.110]  What was the intro?
+[00:29.650 --> 00:30.450]  Eric just did it.
+[00:31.070 --> 00:32.030]  Eric just did the intro?
+[00:32.310 --> 00:33.350]  You didn't hear it? It was awesome.
+[00:33.510 --> 00:39.190]  No, it was so smooth. I, uh, this actually seems like a great time. I need to make an
+[00:39.190 --> 00:41.650]  apology. I need to admit I was wrong.
+[00:42.510 --> 00:45.930]  Oh, is this a, is this the, are we retract, is this a retraction section?
+[00:46.330 --> 00:49.650]  Uh, is it a retract? No, I don't think it's a retract. Maybe it is, technically. I'm sure
+[00:49.650 --> 00:50.170]  I argued.
+[00:51.050 --> 00:56.870]  Yeah, I think generally an apology. I think it was, uh, more of an apology to Eric. And,
+[00:56.990 --> 01:02.210]  uh, oh, maybe you. I don't know. An apology, this is a lot of things. But, um, someone,
+[01:02.370 --> 01:06.750]  there's a post in the subreddit for this show about wanting to watch it on YouTube from
+[01:06.750 --> 01:07.230]  the beginning.
+[01:07.570 --> 01:07.790]  Hmm.
+[01:07.790 --> 01:12.550]  But they weren't sure what episode was the first one on YouTube because they're not numbered
+[01:12.550 --> 01:17.750]  and they're like, which one is this? Where do we start? Uh, I was, I was wrong about
+[01:17.750 --> 01:23.490]  the intros. We need intros. Intros are very useful. Your naming convention, Geoff, it's
+[01:23.490 --> 01:29.550]  incredibly useful because I tried to answer this person and it took me four attempts to
+[01:29.550 --> 01:32.250]  figure out what episode was the first episode.
+[01:32.750 --> 01:35.370]  So did you just have to listen and then you cross-referenced it with the podcast app?
+[01:35.370 --> 01:37.090]  Is it even numbered on there though?
+[01:37.550 --> 01:43.170]  No, so I went, I went to the Rooster Teeth site and I looked and the, uh, the earliest
+[01:43.170 --> 01:48.110]  episode we have on YouTube doesn't have an intro until eight minutes into the show. So
+[01:48.110 --> 01:52.230]  it's not, it wasn't at all, you couldn't just listen to it and he's like, this is episode
+[01:52.230 --> 01:57.290]  120 or whatever. Like that wasn't there. Uh, it is a terrible, it's a disaster. We have
+[01:57.290 --> 02:04.110]  an episode on the site that is titled episode one of season two and it's, it's listed as
+[02:04.110 --> 02:08.810]  the 10th episode of season two. Like we're just, our naming conventions are terrible.
+[02:09.090 --> 02:13.950]  The lack of an intro adds no clarity. I was wrong. I was wrong about that. That was a
+[02:13.950 --> 02:19.290]  mistake by me. It's a disaster. I take largely the blame for us having zero organizational
+[02:19.290 --> 02:22.630]  abilities as far as what episode is what on this show.
+[02:23.070 --> 02:27.110]  Do you know how, uh, we've determined that future Gavin is throwing sticks at current
+[02:27.110 --> 02:28.130]  Gavin or past Gavin?
+[02:28.470 --> 02:28.810]  Yes.
+[02:28.910 --> 02:33.730]  Uh, do you think if, if you could time travel, that would be the one thing you'd go back
+[02:33.730 --> 02:35.510]  and fix at the beginning of this podcast?
+[02:36.250 --> 02:41.270]  Ooh, yeah, I think it would. I think that'd be of all the lessons. Uh, I probably would
+[02:41.270 --> 02:47.750]  never claim to eat a pencil. That's actually number one on the list. Then number two would
+[02:47.750 --> 02:55.270]  probably be me fighting against doing an intro for 80 episodes of this show. That was dumb.
+[02:55.970 --> 03:00.190]  That's a dumb hill to die on. And I did like 80 times. I died multiple times.
+[03:00.190 --> 03:04.730]  I didn't realize because we've been like proofing, I guess, trying to cut down episode
+[03:04.730 --> 03:09.270]  16. We're trying to cut like, what is it Nick? Like six minutes from that episode. So it
+[03:09.270 --> 03:14.950]  will fit onto a stupid piece of vinyl. Seven minutes. That's deep in pencil lad. That is
+[03:14.950 --> 03:19.050]  like right in there. It's so frustrating to listen to that again. We've got the most
+[03:19.050 --> 03:20.710]  annoying episode 16.
+[03:22.770 --> 03:27.190]  So should we talk about that real fast? Uh, what you're referencing there? Uh, oh, and
+[03:27.190 --> 03:30.050]  let me just say, I know Eric already did it, but just for posterity's sake, before we get
+[03:30.050 --> 03:33.310]  eight minutes in, uh, this is episode 128 season.
+[03:34.810 --> 03:42.770]  Five, right? I believe we determined. Are you asking? Yeah. I don't know. I'm sorry.
+[03:42.850 --> 03:47.510]  I gave up. I gave up in a, in a, in a flurry of anger at the beginning of a podcast, like
+[03:47.510 --> 03:51.370]  three months ago, I gave up on the naming stuff. So I'm, I'm trying to remember, but
+[03:51.370 --> 03:56.270]  I feel like it's, we, we said season five began like right around episode 125 or so.
+[03:56.270 --> 04:02.390]  I want to say, uh, anyway, I'm Geoff. Eric is, was the indignant one there. And then
+[04:02.390 --> 04:10.250]  Andrew and Gavin, uh, so only four minutes into this episode is the intro. Yeah. Well,
+[04:10.250 --> 04:13.770]  he started with an intro and then explained that I fucked up the interest. Go ahead.
+[04:13.870 --> 04:19.550]  So anyway, we, uh, we've been long talking about way back, probably not too, not too far
+[04:19.550 --> 04:25.170]  past episode 16. We've been talking about wanting, uh, wanting to make a vinyl of an
+[04:25.170 --> 04:31.190]  episode of F**ks. We thought that would be, uh, the, I don't know, fun, I guess, to release
+[04:31.190 --> 04:37.350]  our own record and, uh, a little bit easier than, uh, a little bit easier than doing an
+[04:37.350 --> 04:42.490]  eight track, uh, probably a little bit more useful. Um, and it was like the oldest piece
+[04:42.490 --> 04:47.570]  of technology we could record our voices on. Uh, like it's, I don't think gramophones or,
+[04:47.670 --> 04:52.770]  or that you remember that thing that they had in like the 1800s where you would like
+[04:53.250 --> 04:58.890]  have a sheet of paper with a bunch of fucking, uh, holes in it that wound up and then you'd
+[04:58.890 --> 05:03.050]  stick it on like a piano and then the piano would play it. Like I would be interesting
+[05:03.050 --> 05:06.370]  if we could do a f**k face version of that. Just need everyone to have a play a piano.
+[05:06.650 --> 05:10.170]  Yeah. Just need everybody at home to have a player piano. Uh, and then we'll sell the rolls.
+[05:10.550 --> 05:14.750]  Uh, but we determined that a vinyl would be a fun way to release an episode. So we picked
+[05:14.750 --> 05:22.250]  one of the episode 16s. Uh, I think maybe the first one, uh, but, but the limit is,
+[05:22.510 --> 05:27.110]  is what is the limit on recordability, uh, on a, on a two sided vinyl?
+[05:27.390 --> 05:30.530]  I think it's like 58 minutes, something like that.
+[05:31.070 --> 05:35.390]  And since our episode was slightly longer, there was a, there's two versions. There's
+[05:35.390 --> 05:40.010]  two ways you could do it, right? We could cut the episode down or we could reduce the audio
+[05:40.010 --> 05:45.890]  quality to something less than stellar to fit more on. And we decided that it would be better
+[05:45.890 --> 05:53.510]  to cut out the fluff, uh, and just have a solid ass 20, 25 minutes per side, Nick says. So we
+[05:53.510 --> 05:57.710]  need to cut it down from like 59 minutes down to 50 to make a solid ass episode.
+[05:57.870 --> 06:00.130]  So I would just speed it up by like 11%.
+[06:02.030 --> 06:07.230]  So my, my idea was we would do like the opposite of like George Lucas, right? We would have like,
+[06:07.230 --> 06:11.570]  like our special edition would be, we cut the nine shitty minutes out so you don't have to
+[06:11.570 --> 06:16.290]  listen to them. But when all 59 minutes are shitty, it's hard to find the five or six minutes
+[06:16.290 --> 06:20.070]  you got to cut. I was listening to, I've only got halfway through. I was listening to it yesterday
+[06:20.070 --> 06:25.450]  because we're trying to decide what to cut. And, uh, I couldn't, I couldn't find a single bit that
+[06:25.450 --> 06:29.870]  I would cut. So I was like, we have to just cut whole chunks. I don't know. It's weird to like
+[06:29.870 --> 06:35.610]  remove the occasional pause or word and like, like James Cameron Titanic this thing to be shorter.
+[06:35.610 --> 06:37.910]  I don't think we're going to be able to do it. We're going to have to just take a lump
+[06:37.910 --> 06:41.670]  and kick it out of there. I like your idea though, of accelerating a little bit,
+[06:41.750 --> 06:46.330]  like sitcoms. They do that, right? To like get an extra ad break. Like they slightly speed up
+[06:46.330 --> 06:50.990]  the play. I think that could work. Well, maybe we could use AI to like remove silence.
+[06:51.830 --> 06:57.710]  Oh, what if we wrote down every bit or like topic that's on the show and do like a draw
+[06:57.710 --> 07:02.010]  and whatever it lands on, it's just dead. No matter what it is. We have no say in the matter.
+[07:03.270 --> 07:08.490]  Or write down how long each segment is. Or we fluke face it ourselves. We re-perform it
+[07:08.490 --> 07:15.730]  slightly faster. That would be terrible. There's no way that would come out shorter,
+[07:15.830 --> 07:19.650]  right? That would definitely be longer. It would be so much longer. I fucking,
+[07:19.810 --> 07:25.250]  I can't stay on track to save my life. I was in the, I lost track of this podcast earlier. That's
+[07:25.250 --> 07:28.090]  why I would continue. I forgot what we were fucking talking about. I'd forgot about the
+[07:28.090 --> 07:31.850]  vinyl by the time I was done saying whatever the fuck I said. Uh, there's no way I could
+[07:31.850 --> 07:36.810]  stay on point that long. Um, yeah, I do say though, I do think though, like better than
+[07:36.810 --> 07:43.610]  cutting nine minutes out, if we could condense or like keep all like by speeding it up or whatever,
+[07:43.890 --> 07:48.310]  our jokes per minute goes up by a percentage pretty significantly, like probably like 10% there.
+[07:48.630 --> 07:50.630]  Why don't we cut every sentence that isn't a joke?
+[07:51.930 --> 07:56.650]  It'd be four minutes long. I don't think that works.
+[07:57.730 --> 08:02.690]  Eric, is that something we're concerned with? Jokes per minute? Oh man.
+[08:03.130 --> 08:07.450]  If we had to, if we fluke faced it ourselves, I think it would be a whole new level
+[08:07.450 --> 08:13.890]  of self-hatred of just hating, thinking everything you said isn't funny. It'd be terrible. I'd hate
+[08:13.890 --> 08:18.970]  to read anything that I've said on this podcast and attempt to re-deliver it again, thinking at
+[08:18.970 --> 08:22.310]  time I was being funny. Laughs. I'm terrible. Laughs.
+[08:24.250 --> 08:29.230]  Hey, I was, uh, I was talking to Eric this morning. Uh, we were doing another production
+[08:29.850 --> 08:35.790]  and I listened to the most recent episode of F*** Face that's out, which I guess is maybe 126.
+[08:36.410 --> 08:40.530]  It's the one where we promo that we're going to all put icy hot on our balls.
+[08:40.870 --> 08:45.910]  And then only Andrew did it. And then only Andrew did it. And I didn't think much of it at the time
+[08:45.910 --> 08:49.350]  when we were recording the episode where Andrew, because, because I think we all agree it was
+[08:49.350 --> 08:56.290]  Andrew's funniest episode. Uh, and he, it was so strong, but going back and listening to that
+[08:56.290 --> 09:00.150]  other episode, we really leaned in hard to the fact that we were all going to do it together
+[09:00.150 --> 09:04.850]  at the beginning of an episode. And I'm, I don't want to salad cream it. So I do think we should
+[09:04.850 --> 09:11.410]  probably all put icy hot on our balls this episode or to stay fair to the audience. Do I have to do
+[09:11.410 --> 09:16.710]  this again? Do I have to do, do I have to do a second wave of this? Yeah, no, I think you definitely should
+[09:16.710 --> 09:21.450]  because it's, it's, it's a group, it's a group effort, isn't it? Yeah. Last week was kind of
+[09:21.450 --> 09:26.550]  one-sided and that was unfortunate. Yeah. And also that wasn't our fault. That was your fault. So you
+[09:26.550 --> 09:33.270]  should definitely be a part of this. I have tiger balm ultra strength or I have icy hot original.
+[09:33.650 --> 09:38.230]  Well, I got the icy hot original because that's what everybody said. Well, actually mine's advanced
+[09:38.230 --> 09:42.390]  Yeah, I didn't, I could only find ultra strength for both products.
+[09:42.750 --> 09:47.770]  How long is it? How long is this going to last? Geoff was spot on. He was like 45 minutes.
+[09:48.130 --> 09:53.870]  Yeah, it was, it was after we recorded, the next hour was spent in my bathtub,
+[09:54.190 --> 09:58.850]  hating the world. And they'd say, calm down, maybe like 45 minutes. If, if you want to know
+[09:58.850 --> 10:03.310]  how long icy hot lasts on your balls, ask the guy who's done it before a couple of times.
+[10:05.270 --> 10:10.490]  I will say this, I had a great, I don't know how this works. I don't know what this show is. Oh,
+[10:10.570 --> 10:17.250]  Geoff's already applied. It sounds like, okay. That's a lot. You know how we, we, after the
+[10:17.250 --> 10:22.750]  show, Gavin comes back. We typically talk for a few minutes when we're done recording. I did that
+[10:22.750 --> 10:28.650]  on the tiger. Yeah. Post pleasantries, having pleasantries, just having, trying to have a
+[10:28.650 --> 10:35.090]  conversation with somebody while your balls have tiger balm on them felt ridiculous. I feel like
+[10:35.090 --> 10:38.950]  there could almost be a show there where it's like a group of people talking. One of them has
+[10:38.950 --> 10:44.070]  tiger balm on their balls and you have to figure out who it is. I think, I think that's a great
+[10:44.070 --> 10:50.310]  idea. It's kind of like we used to do bits. Uh, we used to do bits back in the day where you'd
+[10:50.310 --> 10:55.290]  have like, uh, we would do like variety shows for like, I don't know, for live stream stuff.
+[10:55.290 --> 11:00.510]  We would have like five drinks and one would be a shot of, or like five would be shots of vodka and
+[11:00.510 --> 11:05.830]  one would be a shot of like vinegar. And you try to like, try to mask who got the vinegar. I love
+[11:05.830 --> 11:13.150]  doing those kinds of things. Um, Eric, have you put yours on? No, I don't have any icy hot. And
+[11:13.150 --> 11:16.750]  I did not know we were doing this today. I mean, Eric and I did talk about this morning and he
+[11:16.750 --> 11:21.430]  agreed. I did not agree to do it today. I definitely agreed that we should do it as a team.
+[11:21.950 --> 11:25.210]  And you agreed that you would do it with us. And then last week we were going to do it. So just
+[11:25.210 --> 11:30.750]  get the icy hot that you prepared last week. No, no, no. You have to understand. I don't have any.
+[11:30.990 --> 11:38.110]  I have none. So I can't do this because I was not prepared to do this today. Cause when I talked to
+[11:38.110 --> 11:43.650]  Geoff, the way he made it sound was we should pick one episode where we're all going to do it. So what
+[11:43.650 --> 11:51.410]  I think we should do is wait to do it together as a team. So that way we all have the funniest
+[11:51.890 --> 11:57.370]  episode. Right Gavin? Because it doesn't make sense if only some of us are doing it. Oh, all
+[11:57.370 --> 12:00.170]  of us should do it together. Don't you think? I have a mound of it in my hand.
+[12:00.270 --> 12:08.310]  But what I'm saying is that you have a choice right now. You don't have to do this together.
+[12:13.610 --> 12:21.390]  We all have to do it as a group. Don't we? There's no hop down the shops for me. That's
+[12:21.390 --> 12:26.310]  stuff. I mean, do you have it? Is it in your hand? It's on my hands. Okay. But what I'm saying
+[12:26.310 --> 12:29.770]  is that you could rinse it off your hands real quick. And then we just, you know, we pick an
+[12:29.770 --> 12:33.010]  episode and we like really go for it. Gavin, Gavin, Gavin. I'm moving it towards my balls,
+[12:33.130 --> 12:38.310]  Eric. You don't have to do that. How much should we put in? Think about how funny you're going to be.
+[12:38.770 --> 12:46.170]  Is it like toothpaste? How much, how much goes? I put more than toothpaste on me. All right. Hold
+[12:46.170 --> 12:54.870]  on. Oh, okay. I made a mistake. Oh, all right. You guys roll around in it. I'll go see if I have
+[12:54.870 --> 13:02.170]  any, but I surely don't. Oh, I put, I like, I covered my balls. Like all of it. Like if it's,
+[13:02.190 --> 13:06.130]  if it's considered my balls, it's got icy hot on it. I feel like I'm going to puke.
+[13:07.830 --> 13:12.210]  No, the worst part is, is I put icy hot on my ears before we did this to prove
+[13:13.110 --> 13:17.310]  that it wasn't the ears. It's like on my ears too. Oh,
+[13:19.490 --> 13:24.530]  this is a terrible idea. Gavin, how you doing? Oh shit. Damn. That's instant.
+[13:26.290 --> 13:29.530]  Oh, that's like 20 seconds of my nuts are in the fire. Ah,
+[13:32.010 --> 13:35.810]  I'm so glad I didn't do. I'm so glad. Okay. I'm still going uphill. Like when does this level
+[13:35.810 --> 14:00.210]  off? When is it? It hasn't leveled off yet for me. So, uh, how's everybody doing? Is it just me?
+[14:01.270 --> 14:11.970]  I, uh, I feel like I dipped my balls in a wet fire. Okay. Well, here's the thing. I just looked,
+[14:11.970 --> 14:16.890]  I kind of dug around our medicine cabinet, some other places I looked, I don't have any. So what
+[14:16.890 --> 14:22.690]  we're going to have to do is just do this again another time. Um, so, you know, yeah, so you guys
+[14:22.690 --> 14:28.030]  will have to probably, I mean, you guys just for, you guys will have to do it again. Um, a different
+[14:28.030 --> 14:33.210]  time. Yeah. Nick said same. So, you know, we want to make sure it's the whole group thing.
+[14:36.650 --> 14:41.250]  It's pretty quiet for a podcast. Is that normal? Yeah. I'm still here. I'm still trying to do a
+[14:41.250 --> 14:45.330]  podcast. I'm trying to channel this into the funniest podcast ever. I don't know where my
+[14:45.330 --> 14:50.370]  co-hosts went. Um, Eric, how are you? What's going on in your, let's talk about stuff. What
+[14:50.370 --> 14:55.430]  do you got going on? I just, uh, Nick said he has some Vicks Vapor Rub, but that's for his sick
+[14:55.430 --> 14:59.370]  wife. And he doesn't think that he could rub that on his dick and balls and then give it back to
+[14:59.370 --> 15:04.550]  her. He's right. He should not. Yeah. Don't do that. No, don't do that. I do think that, you
+[15:04.550 --> 15:08.590]  know, unfortunately just we're going to have to do, you guys are gonna have to do this one more
+[15:08.590 --> 15:13.350]  time. So that way we all do it. Um, but that's okay. You know, we can, we'll do like a regular
+[15:13.350 --> 15:19.170]  episode this time and then it'll be fine. So, um, I'm good. How's, how's things going with you?
+[15:19.770 --> 15:25.590]  Excited for an office day? I'll be honest with you, Eric. Yeah. I feel a little nauseous. Oh
+[15:25.590 --> 15:30.150]  yeah. Yeah. Um, I'm excited about an office day too. We should probably talk about that.
+[15:30.490 --> 15:37.690]  Couple things have happened since we last recorded. Oh my God. That was like a puke burp.
+[15:37.690 --> 15:45.550]  Oh Jesus Christ. Fuck. It's like a million tiny needles on my dick all at once. It's like
+[15:45.550 --> 15:52.490]  if you took 60 cooking knives all with like sharp tip up and I'm just swinging my balls across the
+[15:52.490 --> 15:58.250]  top of all the knives. That is like, that is like five times worse than I expected it to be.
+[15:58.830 --> 16:04.350]  Oh my God. Yeah. I'll just say this. Oh my God. I'm glad we didn't do the tiger bomb.
+[16:04.350 --> 16:09.850]  This Icy Hot sucks, but it is not tiger bomb bad. This is like, I'm not doing tiger bomb.
+[16:10.330 --> 16:13.730]  It's like the difference between a jalapeno and a habanero, you know, it's like, or a
+[16:13.730 --> 16:18.410]  habanero and a serrano. They're both hot as dicks, but um, one's a little bit worse.
+[16:19.330 --> 16:25.230]  Woo! Fucking assholes. So yeah, we watched the monkey movie. That was pretty, that's good stuff.
+[16:25.790 --> 16:30.770]  Soon. Yeah. Good call. Uh, well that's what I wanted to get back to last week. We, uh, we,
+[16:30.770 --> 16:34.630]  we said we were, after we recorded, we decided we were going to watch the monkey movie. I don't
+[16:34.630 --> 16:38.450]  remember if we said in episode or not, but we definitely did decide we were going to do it.
+[16:38.630 --> 16:47.210]  And we did. Um, and uh, it actually, it was interesting. It elicited an apology to me from
+[16:47.210 --> 16:56.150]  Andrew for something I didn't even know I was upset about. Um, I thought it was awesome. I
+[16:56.150 --> 17:02.730]  thought Andrew, Andrew's presentation is 10 minute intro was amazing. Uh, I think it, I was
+[17:02.730 --> 17:07.390]  talking about with Eric today, this morning, I think it opened up a whole new, it could be a
+[17:07.390 --> 17:14.110]  whole new product for us. If we combine, if we combine, uh, our, our, our monkey movie, uh,
+[17:14.110 --> 17:19.350]  kind of a thing that we do in the tuxedo of the movie, uh, with Dubox, I feel like we have a,
+[17:19.430 --> 17:24.650]  and a solid intro. I feel like we have a whole package we can start delivering to people, um,
+[17:24.650 --> 17:27.950]  that I think that they would really resonate. Are we talking monkey movie? Yeah. I was just
+[17:27.950 --> 17:31.910]  saying we watched, we actually a hundred percent watched the monkey movie. Uh, it took us from,
+[17:31.930 --> 17:39.950]  uh, March till, uh, I guess late October, but we did it. It was a great movie. I had an idea
+[17:39.950 --> 17:44.390]  about that, that I wanted. I'm in the, I'm in the ice phase, by the way. Yeah. And that's the ice.
+[17:46.250 --> 17:52.010]  Icy hot was so much worse. Or maybe I just wasn't prepared in the same way. That was terrible.
+[17:52.010 --> 17:56.710]  This is terrible. Still terrible. It's still awful. I don't know how you're hanging in,
+[17:56.830 --> 18:03.090]  Geoff, the way, the way you are. I had to feel like I could piss petrol. I've done it a couple
+[18:03.090 --> 18:09.510]  times in the past for similarly stupid reasons. And so I, you know, plus I genuinely thought I
+[18:09.510 --> 18:16.130]  was going to puke. Plus, Andrew, I could have, uh, I could have one of my arms hanging like
+[18:16.570 --> 18:21.730]  sliced 90% off and just hanging on. But for 45 minutes, I'd be able to, I could, I could focus and
+[18:21.730 --> 18:25.350]  work to focus on the podcast because I'm a professional.
+[18:27.610 --> 18:31.690]  I got genuinely worried there of how much the, how much it kept building.
+[18:32.330 --> 18:35.730]  It went maybe two or three times beyond my tolerance for pain.
+[18:36.090 --> 18:43.030]  Yeah. It was high. It was bad. It's definitely like at the, at the tolerance line. Yeah.
+[18:43.770 --> 18:50.070]  It's like, I don't feel any funnier. I told you guys one time I got jalapeno juice all over my
+[18:50.070 --> 18:55.810]  dick and I had to put my dick in milk. Like that was worse, but not that much worse.
+[18:56.730 --> 19:03.870]  This isn't funny. No, it's not. This is the episode with the most belabored pauses.
+[19:04.610 --> 19:08.690]  Go to the shop, Eric. Go to the damn shop. I already looked around. We're going to have to
+[19:08.690 --> 19:13.870]  do this again because I didn't have any of the stuff. So I'll just be the least funny person
+[19:13.870 --> 19:19.370]  in the room. I'm good. I've done it twice. Oh shit. It's terrible. It's heating up again.
+[19:19.370 --> 19:24.350]  The ice is melting. Really? I got the, the cool breeze right now. If I put a thermal
+[19:24.350 --> 19:29.930]  camera on my nuts, do you think it would show my temperature? Absolutely. If there was predator
+[19:29.930 --> 19:34.150]  vision on you right now, it would think that there's like 12 people in your balls with the
+[19:34.150 --> 19:39.590]  amount of heat that's radiating. My nuts wouldn't make it through the airport through those like
+[19:39.590 --> 19:43.910]  fever detectors. No, it wouldn't. Here's what I'm gonna, I'm gonna recommend for you, Gav.
+[19:43.910 --> 19:49.410]  Uh, sit forward. Don't lean back too much right now because what can happen?
+[19:49.570 --> 19:54.310]  Oh, it can drip down. Yeah. As your balls will start to sweat from the heat and the pain,
+[19:54.410 --> 19:57.850]  and then they'll carry it right up, right down your gooch, right into your butthole. And you
+[19:57.850 --> 20:03.230]  don't want a flaming butthole and flaming balls. So just like try to protect that area because it
+[20:03.230 --> 20:06.910]  gets, it's like a whole other level of hell when your assholes, I mean, that's why I created the
+[20:06.910 --> 20:12.230]  two spicy ice here, right? Like you don't, you don't want to go, uh, you don't want to double
+[20:12.230 --> 20:18.670]  dip there. So on the subject of MVP2, I had an idea. I was thinking about, so we watched,
+[20:18.710 --> 20:23.930]  we watched the tuxedo, right? And then we got the tuxedo from the tuxedo. I think we should try to
+[20:23.930 --> 20:30.150]  get a prop from MVP2 somehow and maybe try to get a prop from every movie we watch. I think you're
+[20:30.150 --> 20:36.230]  a goddamn genius. You have been perfect for the museum. You have been firing on all creative
+[20:36.230 --> 20:41.110]  cylinders lately. And I just got to say, I appreciate it. That's a fantastic fucking idea,
+[20:41.110 --> 20:46.350]  Andrew. And I've been looking into it. It's really tough to find any prop available for sale
+[20:46.350 --> 20:51.350]  for MVP2. Uh, so I'm trying to figure out a way to like reach out to the production company in
+[20:51.350 --> 20:56.350]  some way and see if I could get something through that. But yeah, just the thought I had. Also
+[20:56.350 --> 21:01.590]  consideration for every movie we pick going forward. So we got tuxedo. Uh, we need to make,
+[21:01.670 --> 21:06.010]  so we only need to make, we need to make sure we watch movies that we can get props from.
+[21:07.910 --> 21:14.130]  None of us are able to communicate a thought right now. Yeah, it's bad. I'm luckily in the
+[21:14.130 --> 21:18.510]  cooling phase. I feel like I could communicate again, but yeah, that would be the goal. I mean,
+[21:18.550 --> 21:23.890]  obviously we want to pick what we want to watch that overrules it. But, uh, if we could find a
+[21:23.890 --> 21:30.370]  prop from it, that'd be amazing. I think it leans in heavily with the, uh, the whole museum idea.
+[21:31.390 --> 21:37.790]  What, what do you think the shortest episode we've done is? And is it, is 27 minutes too short?
+[21:38.130 --> 21:43.010]  Way too short. Yeah. Damn it. Incredibly short. But you're a professional, as you just said,
+[21:43.310 --> 21:48.030]  you like to focus and hang into things and that you'd be fine. I tell you what fit real nice on
+[21:48.030 --> 21:54.450]  vinyl though. No, it's too short for vinyl because there's a B side. Well, that's it. Yeah. We just
+[21:54.450 --> 21:57.610]  have to do, this is an A side and then we just have to figure out what the B side is, I guess.
+[21:58.550 --> 22:03.030]  It's ironic that, it's ironic that we wouldn't have a B side due to a balls issue. That'd be
+[22:03.030 --> 22:14.670]  perfect. That'd set up great. I feel legitimately pukey. Yeah. No, I, that's how I felt. I had to
+[22:14.670 --> 22:17.770]  step away for a moment. If you need to step away, Geoff, nothing wrong in that. I had to step away
+[22:17.770 --> 22:22.250]  and gather myself. Now we're back. I mean, there, I will say that I do think there's,
+[22:22.330 --> 22:27.110]  where it's the podcast, you probably shouldn't be stepping away in general. No, no, but you should
+[22:27.110 --> 22:30.430]  also have fucking icy hot in your balls. Not everything's perfect. Well, I looked and so it
+[22:30.430 --> 22:34.390]  just, it's fine. You just have to do it one more time. Yeah, no, it's fine. If I puke, I'll just
+[22:34.390 --> 22:38.630]  do it off. I'll just do it right off. Yeah, that's fine. Hey, gather yourself. This is, it's not like
+[22:38.630 --> 22:43.350]  I haven't cleaned, I didn't clean up years worth of dog piss shit. No, on a scale of one to 10,
+[22:44.230 --> 22:46.610]  on a scale of one to 10, how funny do you feel right now, Gavin?
+[22:50.090 --> 22:56.070]  Oh, perfect. It's a perfect response. 1.5. It's really, it's really interesting because
+[22:56.070 --> 23:00.850]  Andrew was definitely like an 11 out of 10 last week when he put the icy hot on,
+[23:01.190 --> 23:06.610]  but I don't feel like it's transferred to me. Definitely not me. So I, I don't think I've said
+[23:06.610 --> 23:13.870]  anything funny and I don't plan on it. Do you know how I faced myself with it last week? You
+[23:13.870 --> 23:18.470]  know what I did? I made a huge mistake. I did it so late in the show and you even commented on it.
+[23:18.590 --> 23:22.310]  Why would you do it so late? There's no payoff. I was under the belief that we were going to
+[23:22.310 --> 23:28.490]  record two episodes. And so it was going to start there and go into the next. And then as soon as
+[23:28.490 --> 23:32.270]  we were done, Geoff was like, oh, nobody told me that we're going to do two today. I can't,
+[23:32.290 --> 23:37.050]  I'm busy. So we only did one. I wasted it. I'd never thought I'd be doing this again,
+[23:37.590 --> 23:42.050]  but here we are. And then we're going to be doing it again a third time when Eric and Nick decide
+[23:42.590 --> 23:46.970]  I'm just going to be the least funny guy in the room. I mean, I gotta be honest with you. We were
+[23:46.970 --> 23:52.210]  ready to do it last episode. We'd all agreed on it. You did it. We didn't. So I just assumed,
+[23:52.530 --> 23:58.270]  like, for instance, I'll explain how it went in my house. I got the Icy Hot. I put it on my desk
+[23:58.270 --> 24:03.770]  in preparation of doing it last week. We didn't do it. I left the Icy Hot on the desk. It never moved.
+[24:04.050 --> 24:07.950]  So when I sat down to record today, it was there and ready to go. So I don't understand how Nick
+[24:07.950 --> 24:12.010]  and Eric aren't prepared. I don't want to hear a bunch of half-assed excuses either.
+[24:12.310 --> 24:16.710]  So I guess we'll just move on. They're whole assed excuses. They're not half.
+[24:16.710 --> 24:18.430]  No, they're not. They're full assed. If you listen...
+[24:26.870 --> 24:29.330]  I feel like I'm looking at us cryptic.
+[24:30.470 --> 24:35.650]  Gavin, can we post that photo? I don't know. I don't think so. Can we?
+[24:36.050 --> 24:39.670]  I mean, we probably shouldn't.
+[24:40.650 --> 24:44.290]  I've put my mic all the way down to the ground and I'm just on all fours,
+[24:45.810 --> 24:48.910]  letting the air get to it. And, uh...
+[24:48.910 --> 25:01.190]  I've got to say, I'm definitely failing on the funny side. But the photo that Gavin just posted
+[25:01.190 --> 25:06.690]  that's been double edited to hide his junk while he's on all fours staring into the screen
+[25:06.690 --> 25:11.310]  is maybe the funniest thing he's ever done. Gavin, you're at 11 and a half right now.
+[25:12.490 --> 25:17.390]  He blacked out his junk with red marker and then he decided to double up with black,
+[25:17.690 --> 25:21.830]  but you can see the red poking through still. And it looks like he's just wearing a t-shirt,
+[25:23.210 --> 25:26.910]  struggling in his face, looking at the camera with his ass hanging out the other end,
+[25:28.230 --> 25:30.490]  looking like he's presenting. It is awesome.
+[25:31.190 --> 25:35.010]  The name isn't getting a good view. Honestly, I felt like I could see through the red.
+[25:38.890 --> 25:45.750]  The worst part for me is I applied to my ears prior to, so they're sequencing off. My ears
+[25:45.750 --> 25:49.950]  are incredibly hot right now while my balls are cold and then my balls are going to get hot and
+[25:49.950 --> 25:55.490]  my ears are going to sink. It's out of sync. It's completely out of sync. I gotta say,
+[25:55.530 --> 25:58.330]  Gav, if we could put that image on a shirt, I bet we'd sell it.
+[26:00.050 --> 26:04.930]  If we could just sell, just for, like, just sell them for an hour, as many as we sell.
+[26:05.250 --> 26:12.930]  I gotta think we'd, we'd... I think if you were to photoshop Gavid's face out of that photo,
+[26:13.350 --> 26:17.270]  people wouldn't recognize that as Gavid. He looks like a different human being
+[26:17.270 --> 26:22.270]  through this paint. I didn't realize I was making that face. That's just your face.
+[26:22.550 --> 26:27.070]  It's the perfect, it's an honest expression of what's happening at the current moment.
+[26:27.570 --> 26:33.730]  There was a bit they were going to do on Howard Stern 20 years ago now, 15 years ago,
+[26:33.810 --> 26:39.830]  where this guy Scott the Engineer was going to take anal from a porn star in Madison Square Garden
+[26:41.070 --> 26:47.490]  for $250,000 and Howard was going to sell tickets to it. And they were just going to be,
+[26:47.570 --> 26:52.070]  it was just going to be a little curtained off room and all that you could see was Scott's head
+[26:52.070 --> 26:56.250]  sticking out as he was receiving the anal. And I think it fell through because, well,
+[26:56.250 --> 26:59.390]  Scott's family told him he couldn't do it. His wife and kid were like, absolutely not.
+[27:01.170 --> 27:08.810]  Fuck man, $250,000, that's a lot of money. And to find out, to have 15 great or terrible minutes,
+[27:09.010 --> 27:16.250]  who knows until you try it, right? The face you're making is what I assume Scott's face would
+[27:16.250 --> 27:22.390]  have looked like sticking out of that curtain. I've never seen you make a face like that.
+[27:22.390 --> 27:31.310]  You've lived with me for many years. I feel like we could post this if we censor it even more.
+[27:31.550 --> 27:34.910]  Even though you've censored all the necessary areas, it still, it feels like a lot.
+[27:35.150 --> 27:43.950]  It feels like a Pornhub thumbnail. What if we crop it from, you know,
+[27:44.050 --> 27:47.550]  kind of like the chest up so you can at least see the look on his face.
+[27:47.550 --> 27:54.890]  Yeah, just know that like the rest of what you're not seeing in the photo is,
+[27:55.450 --> 28:00.770]  I mean, it's all, it's, there's a lot going on. I feel like the face is the most explicit part.
+[28:00.870 --> 28:06.170]  No, it's not. It's the limbs to me. There's something about poking out at the bottom with
+[28:06.170 --> 28:12.650]  the sun hitting your thigh hair. To me, it's the, it's your posture. Like, yeah, you have like a
+[28:12.650 --> 28:18.190]  hunch. You have a hunch. Yeah. Between me speaking, my head is just hanging down towards
+[28:18.190 --> 28:22.610]  the ground and I'm just lifting it up to talk in the mic. I think the thing that, um, that is the
+[28:22.610 --> 28:27.950]  most insane to me about it is that your asshole is facing away from the camera, right? And it
+[28:27.950 --> 28:35.010]  is facing out and away from the camera from your position and your blinds are up. They're like
+[28:35.010 --> 28:40.910]  halfway up. I don't think anyone can see me up here, but I don't know. There's a lot of wasps
+[28:40.910 --> 28:46.070]  and birds right now that are doing way more than they bargained for. I just hope maybe the Google
+[28:46.070 --> 28:55.030]  Earth picture doesn't get taken. Well, I have some minor good news for you, Gavin. Yeah. I
+[28:55.030 --> 29:00.170]  realized I fucked up and, uh, accidentally over the weekend, I realized I'm a big dumb idiot.
+[29:00.510 --> 29:06.890]  Who's incompetent at cashing in on bets. Do you remember that, that you and I, we did a little
+[29:07.350 --> 29:13.390]  speed run bet thing in the past and I won that bet. Do you remember what my prize was for winning
+[29:13.390 --> 29:18.050]  that bet? This is where I feel like face falls apart is that we have these elaborate bets and
+[29:18.050 --> 29:21.550]  then we always forget what we're supposed to do afterwards. Yeah. I would forget on and
+[29:21.550 --> 29:25.350]  off and it would come back to me like, oh yeah, I have this, my prize, my victory.
+[29:42.200 --> 29:49.200]  So the, the victory, what I got for winning Gavin is I got to pick a piece of gum for you to chew.
+[29:49.620 --> 29:56.000]  Oh, that's right. By choosing, that was my big prize. Yeah. I, and you chose dentine accidentally
+[29:56.800 --> 30:04.720]  redeem the bet while trying to do jukebox. I had this, I felt so stupid. I'm sitting at my desk.
+[30:04.880 --> 30:09.180]  I'm staring at it as soon as you said that, I was like, oh yeah, I've tried to get it. And there's
+[30:09.180 --> 30:13.600]  no way around it. I told you what brand I told you what type you even asked how many pieces that I
+[30:13.600 --> 30:20.720]  told you how many, I absolutely accidentally redeemed that bet in the least impactful way I
+[30:20.720 --> 30:27.320]  could have. It's a total waste. Give me regular gum. I just gave you a normal gum. That's phenomenal.
+[30:27.760 --> 30:33.380]  Yeah, I completely, I was sitting at my desk cooking hash browns and I connected everything
+[30:33.380 --> 30:37.360]  together. I was stunned. I was stunned and disappointed with myself. What did you cook
+[30:37.360 --> 30:42.200]  hash browns on, on your desk? I have a little skillet. You mean potato patties? I have like
+[30:42.200 --> 30:46.020]  the shredded hash browns. I got the waffle maker that I gave you all. And I have the, I bought
+[30:46.020 --> 30:50.500]  myself a little skillet version. Oh, is that the thing you cooked part of a piece of bacon on?
+[30:50.500 --> 30:55.480]  Yeah, that's what I was cooking the little strips of little cuts of bacon on. So I tried some hash browns.
+[30:55.560 --> 31:00.840]  I gotta say I did not heed the advice I gave Gavin and my gooch is on fire.
+[31:01.960 --> 31:08.180]  And it is not fun. I'm not on all fours. It's a hardwood floor in here. I had old knees.
+[31:08.800 --> 31:14.540]  Uh, oh my God is my asshole. Not my asshole. My gooch is unhappy.
+[31:17.140 --> 31:21.180]  Oh, I think mine's wearing off. I think I've got on on the tail end of mine. Yeah, I feel
+[31:22.440 --> 31:27.820]  physically sweating. That's unfortunate for you. I'm amazed you stuck in. As he said,
+[31:27.860 --> 31:32.680]  very professional, Jack. You did a good job. I genuinely felt like I was going to die. So I
+[31:32.680 --> 31:37.700]  stepped away. These old balls have taken a beating a few times. This ain't my first ball rodeo.
+[31:38.040 --> 31:40.580]  Where does this rank on the worst things done to your testicles?
+[31:41.840 --> 31:46.860]  Oh, it's not. It's up. It's not like seven out of ten. I've done way worse. I mean,
+[31:46.900 --> 31:52.720]  you slammed your penis in the toilet. I twice. Was that one or two? Those are up there.
+[31:53.180 --> 31:55.860]  I mean, that's a stars. When I did that, I almost blacked out.
+[31:59.940 --> 32:06.700]  Um, I have another update from past. This is a real update show for me. The other day,
+[32:06.700 --> 32:11.440]  I still had my remember when I poured water on my keyboard and all the keys refusing to different
+[32:11.440 --> 32:16.800]  different ones. And so I swapped out keyboards and I was putting something down on my desk and I put
+[32:16.800 --> 32:22.580]  it on the old keyboard that I spilled everything on. And to my shock, it was still connected to my
+[32:22.580 --> 32:29.040]  computer. I assume that because I plugged a USB one in that it would desync, but it's still
+[32:29.040 --> 32:34.220]  connected. It still works. I was like, oh, I'll give this a try again. All of my keys. I'm going
+[32:34.220 --> 32:39.220]  to post. I don't know how I'll do. I'll just, I'll just say all my keys work. It's better than it
+[32:39.220 --> 32:45.140]  was. Everything is fine. I've been going through. The problem is though, one of my keys did die.
+[32:45.420 --> 32:52.420]  All the keys came back, but one, I unfortunately lost my M key. It does not work. But to solve
+[32:52.420 --> 32:57.880]  this problem, I've been doing this whenever I need to put an M. Is that why you've been doing that?
+[32:58.340 --> 33:03.580]  That is. And to this point, nobody has called me on it. I've been doing it for a little over a week.
+[33:03.580 --> 33:07.740]  I've just been using two ends for my M because I don't have an M.
+[33:08.040 --> 33:10.160]  Why don't you just copy the M and paste it?
+[33:10.400 --> 33:14.420]  Because when I copy and paste, it typically deletes whatever I'm trying to put it into.
+[33:15.000 --> 33:20.440]  And sometimes you have multiple, you have multiple sentences and it could be a real problem.
+[33:20.760 --> 33:21.100]  It looks ridiculous.
+[33:21.100 --> 33:24.260]  Did this happen before you had to make the presentation for the Anki Uvi?
+[33:24.860 --> 33:26.880]  I was using the USB keyboard for that.
+[33:27.040 --> 33:27.460]  Oh, okay.
+[33:28.120 --> 33:31.800]  Yeah. So that was fine. That was unimpacted. But like when I wrote in my notes, this is what I
+[33:31.800 --> 33:36.420]  wrote in my notes. My keyboard is working again, but I don't have an M key.
+[33:36.620 --> 33:39.580]  So instead I use two N's to make my N and M.
+[33:46.000 --> 33:47.960]  Can that be the episode title?
+[33:49.700 --> 33:52.840]  Yeah, please. My keyboard is working again, but I don't have an M key.
+[33:53.000 --> 33:55.800]  So instead I use two N's to make an M key.
+[33:56.040 --> 33:57.080]  You got it.
+[34:00.340 --> 34:01.400]  Oh, my balls.
+[34:02.640 --> 34:03.720]  You okay, Geoff?
+[34:04.220 --> 34:07.500]  Yeah, I mean, I'm yeah, I mean, it's better, right?
+[34:07.580 --> 34:10.560]  It's not as bad as it was 10 minutes ago or anything, but it's good.
+[34:11.160 --> 34:12.120]  You know, bouncing back.
+[34:12.700 --> 34:14.080]  I don't think I'm gonna throw up anymore.
+[34:14.620 --> 34:15.080]  That's good.
+[34:20.540 --> 34:23.000]  No need to stress over the holidays this year.
+[34:23.140 --> 34:26.660]  We've even got those impossible to shop for family members covered.
+[34:27.160 --> 34:31.320]  Dadgrass now has something for everyone, including your most loved furry friends.
+[34:31.320 --> 34:35.220]  Take the edge off and enjoy the season with their classic pre-rolled joints,
+[34:35.660 --> 34:39.140]  hemp flour, tinctures, gummies, and CBD dog bones.
+[34:39.760 --> 34:44.000]  Dadgrass is legal, organic, smokable hemp that relaxes your body and mellows your mind.
+[34:44.460 --> 34:49.820]  Their 100% pre-rolled joints and flour are very low in THC and high in CBD,
+[34:50.260 --> 34:53.540]  so you can enjoy the effects of CBD while keeping a clear head.
+[34:53.960 --> 34:58.380]  And now they offer a variety of products you can toque or dose just the way you like.
+[34:58.380 --> 35:03.280]  From their CBD tincture drops to the newly launched CBD gummies in flavors like classic
+[35:03.280 --> 35:07.960]  blackberry ginger, good time hibiscus lime, and nighttime midnight berry,
+[35:08.340 --> 35:10.080]  you can chill out without getting stoned.
+[35:10.560 --> 35:12.640]  And Dadgrass didn't forget your furry friends.
+[35:12.920 --> 35:17.160]  They also just released CBD dog bones so everyone in the house can enjoy.
+[35:17.360 --> 35:22.680]  All Dadgrass products are federally legal for ages 18 and over and it ships right to your door
+[35:22.680 --> 35:24.060]  anywhere in the US.
+[35:24.060 --> 35:28.280]  Whether you're looking for a new buzz or a chill way to enjoy an old favorite,
+[35:28.760 --> 35:30.820]  Dadgrass will leave you in a euphoric mood.
+[35:31.260 --> 35:35.040]  Right now, Dadgrass is offering our listeners 20% off your first order
+[35:35.040 --> 35:37.760]  when you go to dadgrass.com slash face.
+[35:37.960 --> 35:41.880]  Go to dadgrass.com slash face for 20% off your first order.
+[35:42.280 --> 35:45.020]  That's dadgrass.com slash face.
+[35:46.300 --> 35:48.740]  Have you started shopping for the holidays yet?
+[35:48.880 --> 35:52.200]  I know it might seem like a thing that's kind of in the distant future,
+[35:52.200 --> 35:56.820]  but it will creep up on you quickly and there's nothing worse than waiting until the last minute
+[35:56.820 --> 36:00.360]  everything you want is sold out or it's just difficult to get.
+[36:00.940 --> 36:02.600]  It's a nightmare.
+[36:02.840 --> 36:06.980]  So thankfully, right now, you can shop early and skip the stress
+[36:06.980 --> 36:10.840]  and snag some of the best deals of the season on something everyone will love.
+[36:11.220 --> 36:13.120]  Premium audio products from Raycon.
+[36:13.640 --> 36:18.440]  When you're looking for a gift everyone needs or a stocking stuffer, Raycons are the way to go.
+[36:18.440 --> 36:22.460]  Their wireless earbuds, headphones, and speakers offer premium sound,
+[36:22.820 --> 36:28.440]  useful features, an almost custom comfortable fit, and up to 54 hours of battery life.
+[36:28.800 --> 36:30.060]  And as the person gifting them,
+[36:30.360 --> 36:34.180]  you've got to love that they start at half the price of other premium audio brands.
+[36:34.660 --> 36:39.100]  Plus, Raycon makes it easy with holiday gift guides for everyone in your life,
+[36:39.200 --> 36:42.460]  whether it's your friends or family, co-workers, it's great.
+[36:42.780 --> 36:47.840]  You can even knock that list out all at once and get 30% off by shopping Raycon's holiday bundles.
+[36:47.840 --> 36:51.760]  I personally love the audio lovers bundle, that's my favorite of the list.
+[36:52.420 --> 36:56.000]  Everyone needs a pair of Raycons in their ears, whether it's for listening to music,
+[36:56.140 --> 36:58.120]  taking work calls, blasting a workout playlist,
+[36:58.420 --> 37:02.760]  listening to podcasts, or even audiobooks are things I enjoy. Raycon is great for all of this.
+[37:03.160 --> 37:06.860]  You know what everyone doesn't need? Two little white stems hanging out of their ears.
+[37:07.140 --> 37:12.080]  Luckily, Raycons are sleek and stylish and come in a range of color ways to match anyone's style.
+[37:12.540 --> 37:16.980]  You can find Raycons in stores now like Kohl's or Walmart, but let me tell you right now,
+[37:16.980 --> 37:22.260]  you're always going to get the best deal when you use my special link, buyraycon.com.
+[37:22.740 --> 37:27.200]  The Raycon website also offers buy now pay later options.
+[37:27.580 --> 37:34.300]  Right now go to buyraycon.com and use code EARLYBF to get 20% off site-wide.
+[37:34.640 --> 37:38.800]  That's 20% off any Raycon product, which almost never happens.
+[37:39.260 --> 37:43.840]  Or save even bigger and get 30% off Raycon's exclusive holiday bundles.
+[37:43.840 --> 37:50.500]  That's code EARLYBF at raycon.com slash face for 20% off your Raycon purchase.
+[37:51.180 --> 37:56.980]  Buyraycon.com slash face. Today's episode is sponsored by PayPal Honey,
+[37:57.180 --> 37:59.800]  the easy way to save when shopping on your iPhone or computer.
+[38:00.020 --> 38:04.300]  We are in the holiday season, so it's a busy time for shopping.
+[38:04.540 --> 38:07.820]  Stores are always filled with people. There's lines. It's terrible.
+[38:08.140 --> 38:11.220]  That's why I prefer to online shop. It's so much easier and convenient.
+[38:11.220 --> 38:16.320]  It's fantastic. But the annoying part about shopping online is you never have a coupon
+[38:16.320 --> 38:20.280]  code ready or know what the promo is. It's just an annoyance to find. It's impossible.
+[38:20.660 --> 38:24.720]  But thanks to Honey, manually searching for coupon codes is a thing of the past.
+[38:25.220 --> 38:29.200]  Honey is the free shopping tool that scours the internet for promo codes and applies the
+[38:29.200 --> 38:33.320]  best one it finds to your cart. Imagine you're shopping on one of your favorite sites.
+[38:33.680 --> 38:37.860]  When you check out, the Honey button appears and all you have to do is click Apply Coupons.
+[38:37.860 --> 38:41.400]  Wait a few seconds as Honey searches for coupons it can find for that site.
+[38:41.780 --> 38:45.160]  If Honey finds a working coupon, you'll watch the prices drop.
+[38:45.640 --> 38:49.960]  Honey is a great service. I've saved on things like clothes and food in the past.
+[38:50.140 --> 38:53.000]  It's so easy to use. It's just fantastic.
+[38:53.820 --> 38:57.620]  You can save even more money when you ask Honey to keep track of price drops on your
+[38:57.620 --> 39:01.980]  holiday shopping list. If the price drops on anything on your list, you'll instantly get
+[39:01.980 --> 39:06.540]  an alert to let you know. If you don't already have Honey, you could be straight up missing out.
+[39:06.540 --> 39:10.280]  And by getting it, you'll be doing yourself a solid and supporting this show.
+[39:10.440 --> 39:14.480]  I'd never recommend something I don't use. Get PayPal Honey for free
+[39:14.480 --> 39:19.860]  at joinhoney.com slash face. That's joinhoney.com slash face.
+[39:22.060 --> 39:24.600]  I've realized that I've been really stupid all week.
+[39:24.960 --> 39:28.120]  Yeah? Because you came up with this idea and made us do it?
+[39:28.620 --> 39:31.300]  Yeah, well that was a few weeks ago. I've apparently been stupid for a long time.
+[39:31.300 --> 39:33.380]  Just this week and not the preceding every other week?
+[39:33.380 --> 39:37.120]  Yeah, but extra stupid this week. And I figured out why.
+[39:37.560 --> 39:41.700]  So it's finally got a little bit colder here, to the point where my heating has kicked on for the
+[39:41.700 --> 39:48.460]  first time. But in my office, I have two computers. I have servers. It's hot as balls in here all the
+[39:48.460 --> 39:56.380]  time. I don't need a heater. So I just shut my vent to the AC and Meg's been out of town. So
+[39:56.380 --> 40:00.440]  when she's gone, the cats aren't split up. They all just huddle around whoever's home.
+[40:00.440 --> 40:05.480]  So I've been sat in my office editing with all four cats and I was just editing the other day
+[40:05.480 --> 40:11.800]  and I was just like, man, I feel a bit foggy. Just got the old brain fog in. I feel really
+[40:11.800 --> 40:15.840]  dumb. I'm like making shitty editing decisions. I'm like, what am I thinking? What am I doing?
+[40:16.200 --> 40:19.000]  And I'd like to walk around, like pick stuff up and forget where I was going. I'm like,
+[40:19.320 --> 40:24.560]  what is going on? And I just couldn't figure it out. And I realized, oh, I've probably got like
+[40:24.560 --> 40:31.600]  high amounts of carbon dioxide in this room. So I bought a CO2 detector. I turned it on. It was
+[40:31.600 --> 40:38.480]  like 2,100 parts per million. And I think that's like dangerous levels. Oh my God. I think normal
+[40:38.480 --> 40:44.200]  outside is like what used to be like 200, but because of people, it's now like 300 outside.
+[40:44.640 --> 40:50.160]  And I've been like pushing 2000. I was like, man, I feel shitty and I get a headache whenever I'm
+[40:50.160 --> 40:54.640]  editing. What's going on? And it's just me and the cats have been filling this room with carbon
+[40:54.640 --> 41:03.000]  dioxide. Yeah. How are the cats still alive? They love hanging out. Yeah. Occasionally they would
+[41:03.000 --> 41:08.240]  leave to go get air, I think. And I've just stood in here like a, like a fog brain dipshit.
+[41:12.080 --> 41:18.140]  It's currently down to, uh, 1140, which is still high, but I have a, I have a window open.
+[41:18.880 --> 41:24.600]  Okay. I was going to ask you to not leave on my crevice. Uh, three. What are you doing? Get one
+[41:24.600 --> 41:33.540]  plant. You think a plot is going to make a dent in that? It's better than a bunch of cats exhaling
+[41:33.540 --> 41:41.740]  on you until you fucking pass out. I appreciate you clarifying the temperature, Gavin, because
+[41:41.740 --> 41:47.320]  you opened that with hot as balls, which in this current context, I feel like you need to elaborate
+[41:47.320 --> 41:52.980]  on what that means. Do you know how, like, when people are so far gone with alcoholism,
+[41:53.320 --> 41:57.040]  sometimes they, they'll, they'll have people pour alcohol directly into their butthole.
+[41:57.840 --> 42:06.300]  Uh, no, no. I said yes to that before you finish that. Yeah. No, like it, uh, and, uh, it's kind
+[42:06.300 --> 42:10.200]  of a thing. And also if you haven't like, like liver and kidney issues, I think it's like a way
+[42:10.200 --> 42:14.680]  to bypass some stuff. Uh, and it also like gets into your bloodstream way quicker. Um, I wonder
+[42:14.680 --> 42:20.940]  if Gavin is consuming or, uh, receiving more CO2 through his butthole than his mouth right now.
+[42:22.980 --> 42:27.960]  How much CO2- Like if you're getting like a double dose. How much CO2 is dangerous? Oh,
+[42:28.140 --> 42:34.680]  40,000. So I'm- Oh, you're fine. Uh, poisoning. Yeah. I think I'm a long way off being killed
+[42:34.680 --> 42:41.160]  by it, but I, I was definitely in the- Definite poison? Stupidity. You're, you're, you're legally
+[42:41.160 --> 42:48.140]  safe, but you're down to my Alabama public education. Oh yeah. It says, uh, you start
+[42:48.140 --> 42:55.240]  worrying above a thousand. Oh yeah. Yeah. It's not, it's not good. Cognitive scores are lower
+[42:55.240 --> 43:04.520]  when exposed to 1400. Oh shit. Yeah. Cause I was just like, oh boy. I hope it's permanent.
+[43:06.120 --> 43:10.640]  Forever dumb. Yeah. I got my window open now.
+[43:12.360 --> 43:16.660]  I'd be interested in the plant experiment. I wonder how much that would help. I mean,
+[43:16.820 --> 43:22.360]  get two or three. I can't hurt. And if they die, like in a week, it's like a kid. You'll that'll
+[43:22.360 --> 43:27.240]  be your canary in the coal mine. You're like, I can't stay in this room anymore. I'm killing plants.
+[43:28.420 --> 43:32.020]  Uh, prolonged exposure to levels between two and 3000 is linked to
+[43:32.620 --> 43:36.960]  stress, kidney calcification, and bone demineralization. None of that sounds good.
+[43:38.140 --> 43:48.800]  No. I'm just going to be like a puddle of paste. How long has this been an issue? Because your
+[43:48.800 --> 43:53.020]  ankles have been at an all-time low recently. There've been some body issues with you. You've
+[43:53.020 --> 43:59.140]  not taken blows. I would say this has been since Monday. So maybe two days. And then I, I, uh, I
+[43:59.140 --> 44:05.500]  bought the, the CO2 thing arrived today. So yeah, I'm already on the, on the mend. Still be careful.
+[44:05.500 --> 44:14.040]  You, you might have demineralized ankles right now on top of your already. Oh God. Everyone doing
+[44:14.040 --> 44:21.020]  okay. Yeah. I'm, I'm back to like, I can focus on shit again. I feel like the first 30 minutes of
+[44:21.020 --> 44:26.520]  the podcast, I was, uh, uh, unable to focus. Oh, Eric brings up. We have an office day tomorrow.
+[44:26.600 --> 44:33.100]  That is true. Uh, we, we're so fucking productive right now since we handily knocked out the,
+[44:33.100 --> 44:37.800]  the monkey movie. And by the way, I don't want to spoil it for people who haven't watched it yet.
+[44:37.900 --> 44:42.900]  I highly recommend you watch it, uh, watch along with us. I even more so recommend you watch
+[44:42.900 --> 44:47.960]  Andrew's presentation. Uh, but let me just say, if you're a fan of monkey, uh, banana wipes,
+[44:48.040 --> 44:54.380]  holy shit. Uh, that's all I'll say. Uh, but anyway, we've been so fucking productive that tomorrow
+[44:54.380 --> 45:00.180]  we're making pizzas. Monday of this week, I was sending you guys photos. I cleaned all the spiders
+[45:00.180 --> 45:05.680]  out of the pizza oven. Like, I ran them out of town and, uh, and spruced that motherfucker up
+[45:05.680 --> 45:13.340]  and we are ready to go. I'm so jazzed. I'm excited. I can't wait to see how it turns out. Have you
+[45:13.340 --> 45:17.480]  ever cooked a pizza in your pizza oven before, Geoff? I've never cooked anything in my pizza
+[45:17.480 --> 45:22.760]  oven. We've been scared of the spiders. It's, it's, it, my pizza oven is where spiders and
+[45:22.760 --> 45:27.580]  antifreeze live. That's pretty much it. And like 30 second cleaner. Yeah, I, I've, it was just like
+[45:27.580 --> 45:33.300]  storage for like charcoal and shit. So it's all burned out? Yeah, it's all burned out and cleaned
+[45:33.300 --> 45:38.940]  out. Okay. I'm going to go buy some fresh wood, like non spider wood that hasn't been in my
+[45:38.940 --> 45:42.720]  backyard since I moved in. Uh, there's been a wood pile in my backyard. I've, I've lived here for
+[45:42.720 --> 45:47.380]  over three years now. I've barely made a dent in it. Uh, it was so big, but I'll go buy fresh,
+[45:47.540 --> 45:52.420]  clean, like hickory or something, uh, so that we're not cooking, uh, you know, snakes and spiders.
+[45:52.420 --> 45:56.100]  And is the plan, we're going to make individual pizzas or we're just going to make one pizza?
+[45:56.420 --> 46:00.180]  I think we should make it individual pizzas. Individuals. Yeah. Okay. Okay. I can get,
+[46:00.280 --> 46:03.560]  I can get enough pizza stuff for everyone. I do know what Gavin wants to make. I mean,
+[46:03.580 --> 46:07.760]  do we want to talk about what exactly we're making or why we're making pizzas or is that best?
+[46:07.760 --> 46:13.100]  We could talk about it. Yeah. I don't know why we wouldn't. That's the cue for you to talk about it.
+[46:13.180 --> 46:18.280]  Yeah. Well, I mean, that's where you pick up the ball and run with it. No, I hear you. I hear you.
+[46:18.340 --> 46:23.120]  But it's a three hosted show and Gavin is the one who wanted to make the pizzas in the first
+[46:23.120 --> 46:27.120]  place. So I thought he would be the one to pick up the ball. I do agree. But picking up a ball
+[46:27.120 --> 46:32.980]  might be a little difficult for somebody who's breathing in 23,000 parts of carbon monoxide a
+[46:32.980 --> 46:38.580]  second or whatever. Yeah. I'd argue his brain is all ball right now. And to be honest, the heavy
+[46:38.580 --> 46:44.380]  breathing while the icy hot was on my nuts has really boosted the levels in here. I thought,
+[46:44.480 --> 46:49.260]  so I thought we could start with the Branston pickle pizza, which had, it didn't really say
+[46:49.260 --> 46:53.160]  what was on top. I think it was just cheese, but in the crust was cheese and Branston pickle.
+[46:53.500 --> 46:57.880]  So I requested those. So we're going to make a slightly more complex, you know, cheesy Branston
+[46:57.880 --> 47:02.920]  crust. And then I feel like because you often get cheese and Branston pickle as a part of a
+[47:02.920 --> 47:07.700]  plowman's lunch, I would just complete the plowman's and have that as the toppings.
+[47:08.580 --> 47:13.440]  Okay. What is a plowman's lunch? It's like a little board. I think somebody has a little bit
+[47:13.440 --> 47:18.520]  salad or sometimes ham, a boiled egg or something. I sent the Wikipedia to Andrew and he was having
+[47:18.520 --> 47:23.520]  none of it. No eggs on a pizza just threw me off. I'd never heard of that before. I felt weird.
+[47:24.000 --> 47:27.300]  I think to keep it classic to the plowman's, it has to be a boiled egg. I've only ever had a
+[47:27.300 --> 47:32.060]  fried egg on a pizza, which is pretty good, but I'm not sure about like sliced boiled egg on pizza.
+[47:32.440 --> 47:36.700]  We can boil up an egg tomorrow. I don't have any eggs. Eric will have to buy an eggs, but
+[47:37.280 --> 47:44.000]  it's on, it's on my list. Now here's the thing. Here's sort of my, I'm trying to find the Branston
+[47:44.000 --> 47:49.800]  pizza recipe from wherever, whatever place was making the Branston pickle pizza. However,
+[47:50.280 --> 47:57.920]  I did find the Branston, the Branston website, which has the cheese pickle and ham pizza.
+[47:58.120 --> 48:02.860]  And I don't know if that's necessarily it, but they do have the recipe on the Branston site.
+[48:03.060 --> 48:08.280]  So I am doing some research. I'm doing some digging. You've seen my list of ingredients
+[48:08.280 --> 48:12.420]  there, right? I did. Yes, I did. Yes. How much luck have you had with? Oh, it'll be fine. I'm
+[48:12.420 --> 48:15.720]  grabbing everything tomorrow and we'll be good to go. I'm not going to salad cream it. I am getting
+[48:15.720 --> 48:20.160]  the things that you need. You're getting everything I wrote? Well, I'm going to do my best to get
+[48:20.160 --> 48:23.760]  everything you wrote. I don't know. Like, look, you started going into like egg territory. So
+[48:23.760 --> 48:29.060]  really who fucking knows, but we're going to try. I also asked for pickled onions and chutney. Do you
+[48:29.060 --> 48:34.140]  think you can get that? Uh, I can definitely try. While you're out there doing that, why don't you
+[48:34.140 --> 48:39.700]  pick up some icy hot? Uh, just in case. Oh yeah, yeah, yeah. I'll definitely make sure. Yeah.
+[48:39.700 --> 48:44.080]  Oh, that's perfect. Cause then while the pizza's cooking, Eric's nuts can be cooking in the
+[48:44.080 --> 48:48.300]  background. Simultaneous cook. Right. Yeah. We're all doing it at the same time, which is the
+[48:48.300 --> 48:53.580]  important part of the whole thing. Geoff, have you ever seen a plowman? No. I'll post one in the
+[48:53.580 --> 49:03.200]  chat for you. Oh, I'd appreciate it. Thank you. Uh, let the record state this is not a podcast.
+[49:03.200 --> 49:10.700]  Andrew just reposted the Gavin Brazzers image. It's immediately what my brain went to. You look
+[49:10.700 --> 49:16.640]  like a plowman in that photo. What does that mean? I don't know. Stay connected.
+[49:17.540 --> 49:23.160]  Uh, Eric, I just want to make a pepperoni pizza. Just simple, easy. So like mozzarella pepperoni.
+[49:23.280 --> 49:27.020]  No sweat. That's absolutely what I'm getting. Regular pizza. I was talking to Andrew before
+[49:27.020 --> 49:31.200]  this. I, he said, I want to make sure I get the same stuff. I said, no problem. I'm getting
+[49:31.940 --> 49:36.980]  freak ingredients for Gavin's insane pizza and then regular ingredients for normal pizzas as well.
+[49:37.380 --> 49:40.760]  I just figured this is the only time I'm going to cook a pizza in a real pizza oven. I figured
+[49:40.760 --> 49:47.080]  I'd make something personal. I like the idea. It's going to be nice to have a regular pepperoni to
+[49:47.080 --> 49:54.020]  fall back on when mine tastes like shit. Listen, I hired an electrician to, to see about like
+[49:54.540 --> 49:57.980]  moving the electric so that I could maybe put a pool in the backyard someday.
+[49:58.440 --> 50:07.180]  We hired an electrician in April and, uh, he, we, we still, he still hasn't done the work yet.
+[50:07.420 --> 50:11.560]  So there's a really good chance and there's no indication that it'll be done this year.
+[50:11.740 --> 50:17.180]  So there's a really good chance that that pizza oven is here for good, like forever. I'm not
+[50:17.180 --> 50:20.700]  going to pull those. I'm not going to tear it down if we're not going to do anything else with the
+[50:20.700 --> 50:25.120]  yard. Uh, so, cause it's just going to make a big ass hole in my yard that I don't have anything
+[50:25.120 --> 50:30.600]  to do with. Uh, so maybe, who knows, maybe pizzas in the oven will become a mainstay. Maybe it'll
+[50:30.600 --> 50:35.640]  go so well, it'll become a thing we all, we all do all the time. I'm convinced that it's going to
+[50:35.640 --> 50:40.200]  be a disaster because I've never cooked in a pizza oven before. I feel like it's probably incredibly
+[50:40.200 --> 50:44.860]  difficult and easy to fuck up, but I'm excited to see, I'm going to try to cook a little pizza
+[50:44.860 --> 50:48.880]  in my skillet and we'll see. We'll see who's turns out better. I feel like it could be
+[50:48.880 --> 50:53.980]  two ends of a terrible spectrum where I could see yours being burnt to a crisp and me not being
+[50:53.980 --> 50:58.740]  cooked at all. I think that's a, that's a good chance that'll happen. I will say, I think Emily
+[50:58.740 --> 51:01.740]  bought us a book or maybe one of our family members, I can't remember who bought the book,
+[51:01.760 --> 51:07.020]  but we got a book when we first moved in on how to cook in a pizza oven. And I opened that sucker
+[51:07.020 --> 51:12.260]  up and it was about 400 pages of math. And I went, never mind. It was the most complicated thing I've
+[51:12.260 --> 51:16.160]  ever seen in my entire life. So what I'll do is sometime between now and tomorrow, I'll watch one
+[51:16.160 --> 51:21.280]  YouTube video and then I'll be fine. We'll be pretty, pretty ready to go, I think. Yeah, it'll
+[51:21.280 --> 51:30.780]  be great. Dude, I'm about to go sub-thousand. You put a plant in there? It's 80 degrees in that
+[51:30.780 --> 51:37.120]  room. Turn on the AC, man. The rest of the house is cold. You're not in the rest of the house.
+[51:37.200 --> 51:41.340]  You're in that room. I can't freeze everyone else because my office is an oven. Meg's out of town.
+[51:41.460 --> 51:46.360]  You're there with the cats. The cats are in there with you. They love CO2. Do you think you're going
+[51:46.360 --> 51:50.060]  to get so much oxygen, you just like surpass this podcast to become too smart?
+[51:53.140 --> 52:00.540]  Should we do a podcast on oxygen and see how quick we are? I think we would be thinking too clearly.
+[52:00.760 --> 52:07.000]  I don't think it's a good idea. I'm done with taking like show theme ideas from you for a while.
+[52:07.260 --> 52:13.980]  We're good. We're good. Yeah, I've got high CO2 ideas, so they're not any good.
+[52:18.760 --> 52:24.480]  I just had another little wave hit me again. It hit you again? Yeah. Mine's totally over.
+[52:25.240 --> 52:30.500]  No, mine's definitely not over. Geoff, is it because it dripped into your butthole or what?
+[52:30.980 --> 52:36.000]  Yeah, a little bit of that. It didn't get in the butthole. It stopped at the gooch,
+[52:36.120 --> 52:41.460]  but there was definitely a transfer of pain. No, I think it just flared back up a little bit. Maybe
+[52:41.460 --> 52:48.740]  I used more. I don't know. I used like a shaving cream amount. I wanted to get in there really
+[52:48.740 --> 52:56.900]  good. So I might have just overdone it, I guess. I don't know. It sucks either way. And I feel all
+[52:56.900 --> 53:01.680]  sweaty still, which makes me feel like I need to take a shower. But it's probably a fucking terrible
+[53:01.680 --> 53:09.080]  idea because then it just reactivates with the water. It was bad when I did it last time we
+[53:09.080 --> 53:14.680]  recorded. The ears especially, I put way too much in. And on one of the ears, it fell right down
+[53:14.680 --> 53:21.480]  into the hole. And then after we recorded, taking the headphones off and just feeling every light
+[53:22.060 --> 53:29.620]  breeze go by was the worst feeling. Like it made me super sensitive to all wind in both ears. I
+[53:29.620 --> 53:34.080]  had a shower later to try to like wash it off. I was still feeling it. I know you're not supposed
+[53:34.080 --> 53:38.180]  to do this, but I was like, I just I feel like there was so much around my ear hole. I need to
+[53:38.180 --> 53:43.380]  I'll put a q-tip in and just see what I could get. I was scooping out icy hot. It was terrible.
+[53:43.400 --> 53:48.020]  It was a terrible time. It's probably what it must have been like for Daredevil early on
+[53:48.020 --> 53:51.540]  when he would like try to go to sleep at night and he could just hear everything and he couldn't
+[53:51.540 --> 53:58.440]  learn to sleep in the sleep deprivation chamber. Like your ears senses are so heightened. Yeah.
+[53:58.900 --> 54:04.080]  For that period of time. I did. Hey, I fell. Go ahead. No, you go ahead. You did found.
+[54:05.000 --> 54:09.480]  I found something that I was really excited about when I was looking. I don't remember what I was
+[54:09.480 --> 54:14.560]  looking for my desk, but I was going through things. We remember Gavin's tea towel. He had
+[54:14.560 --> 54:19.840]  the great tea towel as a kid. And we talked about how we wish we had images like that from our
+[54:19.840 --> 54:27.540]  childhood. I found some drawings I did of myself, my interpretation of what I look like as a child.
+[54:27.740 --> 54:33.600]  I think I was probably five when I did this and my family. So I'm going to post. Is this around
+[54:33.600 --> 54:40.820]  the same age that you were in that suit? No, this is a bit younger. OK, the men in black suits.
+[54:40.980 --> 54:49.260]  So this is click and drag my computer's piece of shit. One second. This is here we go. This is
+[54:49.860 --> 54:53.080]  my interpretation as a kid. I'm glad this isn't on a tea towel,
+[54:53.160 --> 54:59.420]  doesn't deserve to be. I'm trying to fill as my computer does nothing. Here we go.
+[55:01.220 --> 55:08.020]  Childhood me. Wait for it to pop. Processing. There we go. Look at that. Look at that art.
+[55:08.180 --> 55:15.240]  Look at that clear. My arms don't extend past my body. It appears. Are your arms the balls?
+[55:15.860 --> 55:22.260]  I think. I think the ball is supposed to be my body. Oh, maybe they are. I don't know. What is
+[55:22.260 --> 55:28.240]  the lines? This is a tough thing to interpret. It looks like you're holding up like a big gong stick.
+[55:29.460 --> 55:35.740]  It does. That's what I love to do. I was known for holding gong sticks. That was my main hobby
+[55:35.740 --> 55:42.760]  as a child. Can we do a shirt where that's next to my one? And Geoff has to Geoff, you must be able
+[55:42.760 --> 55:47.120]  to find something you did as a kid that we can. Oh, I guarantee you I can. I was actually I was
+[55:47.120 --> 55:53.100]  I'm really happy to hear you. God, I'm having trouble talking again. I'm really happy to hear
+[55:53.100 --> 55:59.320]  you say that because I was thinking of a similar shirt idea that I thought would be really cute.
+[56:01.100 --> 56:04.680]  Where I think it's great and I think we should absolutely do that. I guarantee you my mom has
+[56:04.680 --> 56:09.440]  something that I drew as a kid that we can throw up there. Wouldn't it be adorable to make a shirt
+[56:09.440 --> 56:14.980]  that's just the picture of Andrew either hitting the tennis ball, but I think that's from like a
+[56:14.980 --> 56:21.080]  newspaper, or like the picture of Andrew in his men in black suit with the gun. Then a picture
+[56:21.080 --> 56:26.100]  of Gavin, a young Gavin being really cute. And then a picture of me and I actually have a photo.
+[56:26.260 --> 56:29.840]  I can't find it right now, but I have a photo of me holding up a fish, being really proud of the
+[56:29.840 --> 56:33.680]  fish I caught. And I think like I think we just put each of those images on the shirt and then
+[56:33.680 --> 56:39.500]  that's just us as little boys. I think that'd be adorable. I love it. That's fantastic.
+[56:42.220 --> 56:47.660]  I'm so happy to find that. It was a sad document to read. It was. It was like the second. It was
+[56:47.660 --> 56:52.080]  a thing I made, I think, in kindergarten that was like explaining who you are, like an introductory
+[56:52.080 --> 56:57.160]  thing. So it's like all about me. And the second page was a handprint. And then one of the pages
+[56:57.160 --> 57:04.720]  was like my family that I drew. And then the last two pages were when you're happy. And my one I was
+[57:04.720 --> 57:11.120]  happy was when I'm not in the hospital, which is great. And then my I'm sad when dogs bite me was
+[57:11.120 --> 57:17.400]  how I closed out. Oh, it was incredibly sad. It was a five thing thing to read. That was sad.
+[57:17.820 --> 57:21.940]  I think the real the real move here would have been to replace Andrew with Raymond.
+[57:22.380 --> 57:28.240]  Yeah, it would have been if that was still. Why am I looking through the page to the page?
+[57:28.360 --> 57:34.180]  Why? Why does it say Mr. Hands? Oh, that's my hand. The next page is just like my hand. Mr.
+[57:34.180 --> 57:41.760]  My hands. It's not Mr. Interesting. And I can't find this fucking photo of me holding the fish.
+[57:41.820 --> 57:49.580]  Here's a picture of me with with Goofy. Yeah. Got other people in it, but I have a photo predicting
+[57:49.580 --> 57:54.380]  how the pizzas are going to go tomorrow. Post that quickly for you guys. This is my assumption
+[57:54.380 --> 58:00.020]  of what's going to happen when it's done. It'll be the same as just reaction to the beans.
+[58:01.620 --> 58:03.440]  I think the pizzas will turn out more like this.
+[58:06.180 --> 58:10.060]  Glad I'm not eating that. I'm excited about the pizzas. I think we're going to get some
+[58:10.060 --> 58:15.140]  some good shit. I've never used a pizza oven. No. Do we do we need to do research tonight?
+[58:15.720 --> 58:19.760]  I told you, man, I'm going to watch one YouTube video. I recommend everybody watch one YouTube
+[58:19.760 --> 58:23.500]  video and then we'll all have between the however many of us show up, we'll have
+[58:24.080 --> 58:29.280]  multiple YouTube video knowledge. You did say that. I remember that. It's okay. You're not
+[58:29.280 --> 58:32.740]  firing on all soldiers. Your balls are on fire and you're full of CO2.
+[58:35.680 --> 58:42.540]  Hey, we should start wrapping up. I fuck, man, I was I want to propose something to you guys.
+[58:43.560 --> 58:50.220]  Okay. But I can't do it till I feel like it comes after the proposal story story that I have. I
+[58:50.220 --> 58:54.940]  don't know if Jesus Christ. I forgot. I'm so sorry. We've been teasing your proposal thing
+[58:54.940 --> 58:58.800]  for like, I mean, I feel like we've been over teasing it now. It's not that funny. It's just
+[58:58.800 --> 59:02.620]  it's just more of I want to hear it, though, is the problem. All right. I'll tell it real fast
+[59:02.620 --> 59:06.700]  because I want to propose something to you guys after that. But it kind of comes hand in hand
+[59:06.700 --> 59:11.000]  with it. So as you guys know, I've been wanting to propose to Emily for a long time. I wanted to do
+[59:11.000 --> 59:18.480]  it in a really romantic, fun way. I wanted to do I had a bunch of ideas. I was going to do it
+[59:18.480 --> 59:22.080]  on a summer vacation. I was going to take her somewhere romantic. But, you know,
+[59:22.080 --> 59:29.640]  uh, Millie had her surgery and that took up our whole summer. And then then Henry got sick. And
+[59:29.640 --> 59:34.000]  like we tried to go to Disneyland and then we had to come home because Henry was sick. And then we
+[59:34.000 --> 59:37.600]  tried to go on a vacation with Gavin and Meg, but then Emily got covid. So we couldn't go. Just
+[59:37.600 --> 59:42.540]  like everything kept getting in the way of me proposing to Emily this summer. And so finally,
+[59:44.540 --> 59:47.140]  we decided we were going to we needed some time away because we'd missed
+[59:47.140 --> 59:50.760]  like every opportunity to have a vacation kind of got ruined. And so
+[59:52.080 --> 59:58.440]  we made this this vacation up to Mackinac Island in the like up at the top of the MIT in in
+[59:58.440 --> 01:00:02.400]  Michigan. Yeah, up to like Silent Cartographer and all that. Yeah, up to Silent Cartographer.
+[01:00:02.580 --> 01:00:10.320]  And so I decided this is the perfect place to well, to learn a little bit about the halo and
+[01:00:10.320 --> 01:00:16.560]  what it is and is it a weapon or not? I don't know. This is the perfect place.
+[01:00:19.020 --> 01:00:23.520]  The perfect place to propose to Emily. It's like it's this I've talked about it. I don't want to
+[01:00:23.520 --> 01:00:27.680]  like retread old ground, but it's this old timey island with no cars. Everything is horse drawn
+[01:00:27.680 --> 01:00:32.640]  carriages or bicycles. Right. And it's like antiquated. They have 13 different fudge shops.
+[01:00:32.740 --> 01:00:36.420]  We endeavored to eat at every fudge shop. We came pretty close. I think we got to nine of them.
+[01:00:36.860 --> 01:00:42.280]  And by the way, can I be honest with you guys? As an aside, I sampled nine of the 13 fudgeries.
+[01:00:42.860 --> 01:00:47.920]  They were all pretty good. I got to be 100 percent honest with you. I could buy better fudge in
+[01:00:47.920 --> 01:00:53.380]  Austin any day of the week. Wow. It's not so good that you got to travel to get there. Like the
+[01:00:53.380 --> 01:00:58.460]  fudge in your town is just as good as the fudge in Mackinac Island, if not honestly a little bit
+[01:00:58.460 --> 01:01:03.080]  better. Not to say that Mackinac Island isn't wonderful and that the fudge isn't absolutely
+[01:01:03.080 --> 01:01:07.880]  worth eating when you go there. Have the fudge. It's great. You'll love it. Andrew, would you
+[01:01:07.880 --> 01:01:13.760]  travel two blocks to try that fudge? 100 percent I would. I travel for fudge. Absolutely. I travel
+[01:01:13.760 --> 01:01:18.160]  for fudge. Anyway, so I realized this is my opportunity to propose to Emily. So I start
+[01:01:18.160 --> 01:01:22.460]  reading about the island. I start looking at places to to go to propose. There's this place called
+[01:01:22.460 --> 01:01:27.480]  Arch Rock. It holds the secrets to the universe and potentially to the future of my relationship.
+[01:01:27.840 --> 01:01:32.300]  So I decide that's where I'll do it. And I'm doing all this based off like Wikipedia
+[01:01:32.300 --> 01:01:36.860]  and like travel blogs and shit because I've never been there and I don't really know anybody who's
+[01:01:36.860 --> 01:01:42.700]  been there. And then I thought like one thing I did know is that Emily wanted there to be photos.
+[01:01:42.960 --> 01:01:46.620]  We had discussed this before. She's like, I want there to be a record of the proposal. So, you know,
+[01:01:47.680 --> 01:01:53.920]  we'll have that. And so I called a bunch of professional photographers on the island,
+[01:01:54.020 --> 01:01:58.220]  like wedding photographers and just like basically every person who is listed as a
+[01:01:58.220 --> 01:02:04.620]  photographer on Mackinac Island. And none of them got back to me. And then right about the time I
+[01:02:04.620 --> 01:02:13.020]  was like, oh, I need to double down and figure this out. Henry died. And so I was completely and
+[01:02:13.020 --> 01:02:16.960]  totally distracted with dealing with grief and that and all that. So I just totally dropped the
+[01:02:16.960 --> 01:02:21.880]  ball on the photo thing and scheduling a photographer. And I realized that kind of like
+[01:02:21.880 --> 01:02:26.140]  on the plane and I thought, well, fuck, I'll just figure it out when I get there, I guess. Right.
+[01:02:26.660 --> 01:02:32.120]  And so we get to Mackinac Island and we check into our hotel, which is right there. All the
+[01:02:32.120 --> 01:02:36.820]  hotels are like on the main strip, like right there at the bottom of the island. And then
+[01:02:38.600 --> 01:02:43.820]  kind of get my my bearings. I wanted to kind of preview our truck, but it's like three miles away
+[01:02:43.820 --> 01:02:48.600]  and I couldn't figure out an easy way to get there. And then so I thought, you know what? No,
+[01:02:48.620 --> 01:02:54.900]  no worries. The next day we had a horse drawn carriage ride tour of the island and it's going
+[01:02:54.900 --> 01:02:59.840]  by our truck. So I thought, oh, I'll get a kind of a kind of an idea of the preview there when we
+[01:02:59.840 --> 01:03:03.860]  go and then I'll be able to get the lay of the land and figure out where I'm going to propose
+[01:03:03.860 --> 01:03:07.080]  and, you know, kind of like work out the particulars and see if maybe I can find somebody
+[01:03:07.080 --> 01:03:11.400]  to photograph it. I've got like two days on this island so I can do some work. Like maybe Emily
+[01:03:11.400 --> 01:03:17.080]  goes to the bathroom and I call somebody real fast or whatever. And like, you know, so so the
+[01:03:17.080 --> 01:03:21.000]  one thing in my head is like I should try to I should try to I should try to fill her with foods
+[01:03:21.000 --> 01:03:24.920]  that make her go to the bathroom a lot. So I'll have time when she's like on the toilet that I
+[01:03:24.920 --> 01:03:32.100]  can figure this out. Didn't happen. So the next day we get up. It's like fucking 40 degrees,
+[01:03:32.100 --> 01:03:38.860]  of course, because it's October at the ass and top ass end of America. And so it's pretty cold
+[01:03:38.860 --> 01:03:44.460]  and windy. And so we go and we get on this horse drawn carriage and I'm I bring the ring with me
+[01:03:44.460 --> 01:03:49.020]  just in case I'm fucking jazzed because I'm like, oh, I'm going to figure this out now and then I
+[01:03:49.020 --> 01:03:52.420]  can plan it a little bit because I don't want to wing it too much. You know, this is an important
+[01:03:52.420 --> 01:03:57.600]  deal. And we get in this horse drawn carriage and we start going up a hill. And I realize
+[01:03:58.180 --> 01:04:02.600]  where the hotels and everything are is at the bottom of Mackinac Island and everything past it
+[01:04:02.600 --> 01:04:12.600]  is up. And this hill is so intense to get up that the horse drawn carriage has to stop three times
+[01:04:12.600 --> 01:04:19.220]  to allow the horses a break. It's like scheduled in and they have like doing shit with horses.
+[01:04:19.220 --> 01:04:23.960]  Dude, I know, right? It's like extra facts and shit that they rattle off while you're sitting
+[01:04:23.960 --> 01:04:27.420]  there and the horses are like getting a breather and drinking some water before they go back up
+[01:04:27.420 --> 01:04:34.260]  again, you know? And I'm watching this. This is like the one road that goes up and there's tons
+[01:04:34.260 --> 01:04:40.240]  of people walking bicycles up looking miserable. And I'm like, well, that's good to know, you know?
+[01:04:40.420 --> 01:04:44.980]  And we continue this tour. And about an hour later, after the horses have had enough breaks
+[01:04:44.980 --> 01:04:48.780]  and we get up the hill, the guy's like, all right, we're going to go to pass a great,
+[01:04:48.900 --> 01:04:52.640]  like, here's a cemetery, here's a cemetery, there's an old Civil War battle or War of 1812
+[01:04:52.640 --> 01:04:58.280]  battle or whatever. But by the way, the British loved Mackinac Island. Gavin, your people fought
+[01:04:58.280 --> 01:05:03.460]  fiercely for Mackinac Island for some reason. They won it back from America like three times.
+[01:05:04.220 --> 01:05:12.400]  And they actually controlled it for a good clip after the Revolutionary War even. Yeah,
+[01:05:12.400 --> 01:05:18.340]  it was very strategic because of, I guess, Canadian fur trapping and stuff would come
+[01:05:18.340 --> 01:05:21.340]  through Mackinac Island. It's apparently where Paul Astor made all of his money where he bought
+[01:05:21.340 --> 01:05:29.060]  half of New York. He made millions of dollars on furs on Mackinac Island. Anyway, so I get kind
+[01:05:29.060 --> 01:05:34.060]  of jazzed because we're heading kind of towards Arch Rock. And I'm like, okay, now I can finally
+[01:05:34.780 --> 01:05:39.960]  figure this shit out. And as we're getting there, it's getting colder and
+[01:05:41.780 --> 01:05:49.060]  windier. And we just keep going up and up and up. And I realize there's no way I'm going to get
+[01:05:49.060 --> 01:05:54.980]  Emily back to Arch Rock. Unless it's unbelievably beautiful. We're not going to walk a bicycle up
+[01:05:55.380 --> 01:06:00.920]  two miles of hills when it's 40 degrees and windy, right? That makes no fucking sense.
+[01:06:01.240 --> 01:06:04.460]  That's not going to happen. So I'm like, oh shit, maybe I have to do it right now.
+[01:06:04.700 --> 01:06:08.640]  And so I look around me on the horse-drawn carriage. It's like a big carriage that holds,
+[01:06:08.640 --> 01:06:14.840]  I don't know, maybe 20 people. And so there's like 10 people on it. And everybody is 80 years
+[01:06:14.840 --> 01:06:19.860]  old. Because it's a place where old people go to vacation, I think, at least in the fall.
+[01:06:20.660 --> 01:06:26.340]  And so everybody around us is like septuagenarian, octogenarian, just lovely people.
+[01:06:28.280 --> 01:06:33.360]  And I'm like, oh, this is kind of a weird vibe. And then we get to Arch Rock. And they go,
+[01:06:33.400 --> 01:06:35.920]  all right, we're going to step out. We have 10 minutes for a bathroom break. Everybody,
+[01:06:35.920 --> 01:06:39.260]  there's the bathrooms. There's Arch Rock. You can take a look at it, take a photo,
+[01:06:39.400 --> 01:06:42.320]  and then we're going to head back on. And I realized this place is on the other end of
+[01:06:42.320 --> 01:06:46.180]  the island. There's no way I'm getting Emily back to Arch Rock, right? Like, it's not going to
+[01:06:46.180 --> 01:06:49.720]  happen. There's no way I can trick her into going back. Like, oh, maybe we should ride our bike
+[01:06:49.720 --> 01:06:55.700]  uphill in the wind and cold to see that thing we just saw 24 hours ago. There's no way I can work
+[01:06:55.700 --> 01:07:01.580]  that out. So I'm like, I think I have to do it right now. And so we wait in line to get up to
+[01:07:01.580 --> 01:07:06.880]  the walkway of Arch Rock, which is just like a little, like, metal walkway that goes out over
+[01:07:06.880 --> 01:07:10.960]  the side of the cliff for a second. You take a photo when you leave. And it's just slammed with,
+[01:07:11.160 --> 01:07:14.960]  like, tourists. It's where everybody on the island stops to go to the bathroom, apparently.
+[01:07:15.140 --> 01:07:20.480]  And everybody on the island's like 60, 70 years old. And so we have to fight through all these
+[01:07:20.480 --> 01:07:25.980]  old ass people to get to the edge. And then I'm like, it's now or never. I'm going to have to
+[01:07:25.980 --> 01:07:31.040]  propose to this lady right now, or I'm going to miss this window. I'm going to miss this window
+[01:07:31.040 --> 01:07:35.500]  and I don't know how to open that window back up. Like, the window is, it's like a
+[01:07:35.500 --> 01:07:39.660]  hundred year old window. It's, it's, it's, it's shut with paint. Like, there's no way
+[01:07:40.580 --> 01:07:43.760]  it's going to, it's going to open up. The, like, the fucking latch is like,
+[01:07:44.060 --> 01:07:47.420]  it hasn't been opened in 50 years, right? It's called that droopy glass. It's fatter at the
+[01:07:47.420 --> 01:07:51.920]  bottom. Yeah. It's got the droopy, fatter glass, you know, where gravity's taking over. Right.
+[01:07:52.820 --> 01:07:56.360]  And so, uh, I'm like, uh, I get kind of fucking nervous. And Emily's like,
+[01:07:56.360 --> 01:07:58.760]  why are you shaking? And I'm like, oh, no reason. It's just so fucking cold.
+[01:07:58.760 --> 01:08:03.440]  And I start taking off my gloves because I can't fucking, I got fat glove fingers, you know,
+[01:08:03.640 --> 01:08:06.940]  and I'm trying to get my ring out. And she's like, what are you doing? And I'm like, oh,
+[01:08:07.000 --> 01:08:10.220]  nothing. And she's like, why are you taking your gloves off? And I'm like, uh, no reason.
+[01:08:10.500 --> 01:08:15.580]  And then I just get down on my knee and, and, and I pull the fucking box out.
+[01:08:16.020 --> 01:08:22.980]  And right as I do it, the lady next to me goes, oh my God, are you for real?
+[01:08:23.640 --> 01:08:28.280]  And I look at her and I'm like, what? And the people behind me go, what's going on? What's
+[01:08:28.280 --> 01:08:35.840]  happening? And then Emily goes, what are you doing? And I go, uh, nothing. And she goes,
+[01:08:36.280 --> 01:08:40.900]  and the lady goes, is this really happening? I'm like angry. And I go, yeah, it's really
+[01:08:40.900 --> 01:08:45.900]  happening. I'm proposing to her. Okay. And she goes right here. And I'm like, yeah, right here.
+[01:08:46.140 --> 01:08:50.880]  And the people behind me go, is he, is he, and they just start pointing at us and nobody's happy
+[01:08:50.880 --> 01:08:56.220]  about it. And Emily goes, let me go. Emily goes, are you, are you, are you serious, Clark? Which
+[01:08:56.220 --> 01:09:02.420]  is like a line from, uh, fucking Beverly DeAngelo says to, uh, Clark Griswold in like, uh, fucking,
+[01:09:03.180 --> 01:09:08.320]  uh, National Olympians vacation. Like, are you for real Clark? And I'm like, yeah. And then I'm
+[01:09:08.320 --> 01:09:12.240]  like, I'm like shaking, holding the box and I'm looking up at her and this lady's mad. And she
+[01:09:12.240 --> 01:09:17.440]  goes, uh, she goes, well, do you want me to take a picture or something? And I go, oh, fuck. Right.
+[01:09:17.440 --> 01:09:21.160]  God, thank you. I forgot. I'm so nervous. And I'm like, yes, please. That would be,
+[01:09:21.320 --> 01:09:25.140]  I would really appreciate it if you would take a photo. And Emily's just standing there and the
+[01:09:25.140 --> 01:09:29.800]  lady goes, well, you're going to give me a camera or what? How do I take the photo? And I'm like,
+[01:09:29.860 --> 01:09:33.760]  oh my fucking God. I'm like, yeah, let me give you my phone. And I give her my phone and I unlock
+[01:09:33.760 --> 01:09:39.020]  it for her. And then she starts taking photos. Uh, and then the people behind her go, uh, is it,
+[01:09:39.040 --> 01:09:43.560]  is this real? Are they really doing this right now? And I'm like, yeah, I'm trying to. And then
+[01:09:43.560 --> 01:09:47.480]  some other people go, congratulations. And I go, she hasn't said yes yet. I haven't had the time
+[01:09:47.480 --> 01:09:51.580]  to fucking ask her, you know? And then I'm like Emily. And I say some stuff that I came up with
+[01:09:51.580 --> 01:09:53.820]  about how much I love her. And she's like the most important thing in the world to me. And
+[01:09:53.820 --> 01:09:58.100]  I just changed my life. And she, you know, saved me from despair. And I, you know, all that she's
+[01:09:58.100 --> 01:10:01.580]  the, all, you know, all the things about how I profess my undying love to her. And I like put
+[01:10:01.580 --> 01:10:06.120]  the ring on her and she's like, oh my God. And then, and then the people are like, did she say
+[01:10:06.120 --> 01:10:10.100]  yes yet? And I'm like, yeah, I think so. And I look at her, I'm like, you haven't actually said
+[01:10:10.100 --> 01:10:13.980]  yes. And she's like, oh right. Yes. And I'm like, okay. She said yes. And then like, I got like
+[01:10:13.980 --> 01:10:21.760]  this, like, like two golf claps. And then, and then we went back down to the bathrooms where the car
+[01:10:21.760 --> 01:10:26.020]  was and we got back on the, in the horse-drawn carriage and they none, it was all the same
+[01:10:26.020 --> 01:10:30.020]  people. Nobody said anything to us. They just got back on. They gave us dirty looks. The lady who
+[01:10:30.020 --> 01:10:34.440]  was sitting next to us who took the photos, she just looked at us for like 10 minutes. And then
+[01:10:34.440 --> 01:10:38.020]  after, after we'd been on the ride again for a little while, she leaned over and she goes,
+[01:10:38.020 --> 01:10:44.120]  I really wish the best for you guys. It was like the least sincere way ever. And I'm like this
+[01:10:44.120 --> 01:10:50.920]  fucking, this fucking asshole. But then I realized this lady is like 72 and she's on a trip to
+[01:10:50.920 --> 01:10:56.040]  Mackinac Island by herself. Probably things, you know, like there might be, she might have some
+[01:10:56.040 --> 01:11:00.500]  issues, right? Like maybe, who knows what's going on in her life. So I like try not to take it
+[01:11:00.500 --> 01:11:06.820]  personally. And then when we get off to leave, everybody goes up and tips the driver money.
+[01:11:06.820 --> 01:11:10.960]  Like here's a dollar. Thanks for whatever. And I go up and I tip the driver. I give him 10 bucks and
+[01:11:10.960 --> 01:11:14.300]  I go, Hey man, thank you so much. It was a big day for us. And I tip him, I give him a $10 bill,
+[01:11:14.480 --> 01:11:18.200]  which is at least eight bucks more than anybody else has given him. He just looks at me,
+[01:11:18.300 --> 01:11:27.980]  looks the other way. And, and that's it. Like my proposal, my proposal somehow ruined the day
+[01:11:27.980 --> 01:11:37.540]  of everyone who came into contact with it, but us. Like it was funny and sweet and it was actually
+[01:11:37.540 --> 01:11:42.700]  beautiful and it was a great setting and it was lovely, but I did it, I had to do it on a bathroom
+[01:11:42.700 --> 01:11:49.700]  break on a tour of old people who were not into it and didn't appreciate it and were completely
+[01:11:49.700 --> 01:11:55.520]  and totally not sold on me proposing to him. If you knew that's how it was going to go,
+[01:11:55.520 --> 01:12:00.480]  would you have figured a way to open the old window again? Yeah. Yeah. I think I would've,
+[01:12:00.500 --> 01:12:07.040]  I think I would've come up with an audible. Yeah. You described it as like a mild
+[01:12:07.740 --> 01:12:12.480]  inconvenience occurred. That was completely fucked on every level. It was a disaster at
+[01:12:12.480 --> 01:12:19.400]  every stage. It was like, it was like, I'm just trying to profess my love to this person who's
+[01:12:19.400 --> 01:12:23.920]  very important to me and who I want to commit to, you know, for the remainder of my life. And
+[01:12:23.920 --> 01:12:32.000]  it really put a couple of old ass people out. Like they were not into it. And I, God damn man,
+[01:12:32.360 --> 01:12:37.800]  everybody in the, universally, I've been spending a lot of time in Michigan in the last few years
+[01:12:37.800 --> 01:12:43.440]  because Emily's family lives there now. And every person I've come into contact with in Michigan
+[01:12:43.440 --> 01:12:49.960]  was lovely. Just like the sweetest, most kind, happy, nicest, polite Midwestern people you'd
+[01:12:49.960 --> 01:12:56.240]  meet. Except for everybody who was on Mackinac Island that weekend, who was an absolutely
+[01:12:56.240 --> 01:13:02.920]  raging utter cunt. Maybe it's an altitude thing. Maybe people from Michigan at altitude get beta.
+[01:13:03.820 --> 01:13:07.360]  Or like none of those people were from Michigan. They're all tourists, maybe. But God damn,
+[01:13:07.760 --> 01:13:13.420]  I like, I like ruined a bunch of old people's day by, by telling my girlfriend I wanted to marry
+[01:13:13.420 --> 01:13:19.340]  her. Uh, it was so fucking weird. Anyway, I had to tell you all that because I've been thinking
+[01:13:19.340 --> 01:13:24.200]  about something and I wanted to run it by you guys. Uh, Emily asked me, she's like,
+[01:13:24.240 --> 01:13:27.220]  are you going to do like a bachelor party? And I'm like, I'm not going to a bachelor party guy.
+[01:13:28.620 --> 01:13:33.540]  Um, and I don't drink anymore or anything like that. Uh, but then it hit me. I think a perfect
+[01:13:33.540 --> 01:13:40.340]  bachelor party weekend for me, if you guys are into it. And, and, and, and unless you guys want
+[01:13:40.340 --> 01:13:48.480]  to be those old people on, on our truck, um, which I would love to go crabbing with you guys in
+[01:13:48.480 --> 01:13:52.980]  Vancouver Island. I think that would be like the perfect bachelor party weekend. Bachelor crabbing?
+[01:13:53.100 --> 01:13:56.620]  Let's do it! Yeah, let's make that our crabbing weekend. And it'll be like my bachelor weekend.
+[01:13:56.860 --> 01:14:01.960]  And we'll just, we'll just go crabbing and then hell yeah. I love it. I think that's a fantastic
+[01:14:01.960 --> 01:14:07.900]  idea. I can't think of any, I can't think of anybody else I'd rather spend that time with
+[01:14:07.900 --> 01:14:12.500]  than you guys. So I would love to be there. I'd love that. That'd be so much fun. So just to
+[01:14:12.500 --> 01:14:17.560]  recap this, I believe this is the photo, right? This is the old lady took this photo. Yeah,
+[01:14:17.560 --> 01:14:22.620]  she took great photos. That's a great photo. Second of all, it brings me so much joy knowing
+[01:14:22.620 --> 01:14:28.360]  that everybody behind that camera is irate with you for no reason. Just, there's a pile of 12
+[01:14:28.360 --> 01:14:33.900]  people that are like, hurry up, we want to take our photos too. I want to look over the railing.
+[01:14:34.060 --> 01:14:38.800]  Just, you got a combined age of 10,000 irate with you behind that camera.
+[01:14:40.240 --> 01:14:45.320]  And they were like, is this a joke? And I'm like, no, it's not. I'm like, is this a joke?
+[01:14:45.320 --> 01:14:50.100]  I was like, no, it's not a joke. I'm trying to propose here. And they're like, oh, congratulations.
+[01:14:50.340 --> 01:14:53.220]  And I'm like, she hasn't said yes. I haven't been able to. You're still talking to me.
+[01:14:55.620 --> 01:15:01.100]  Anyway, so that's, that's how that was. That's great. Oh, man. That's fantastic.
+[01:15:02.260 --> 01:15:07.260]  I'm excited to go crabbing. I'm excited to go crabbing with y'all. And I, I don't know
+[01:15:07.260 --> 01:15:12.080]  if it was the funniest episode we've ever done, but there were three sets of balls that were
+[01:15:12.080 --> 01:15:16.120]  definitely uncomfortable and on fire throughout it. Uh, so...
+[01:15:17.880 --> 01:15:20.220]  Six testicles were spent in the making of that episode.
+[01:15:20.260 --> 01:15:21.180]  Do you still have six?
+[01:15:21.940 --> 01:15:22.260]  What?
+[01:15:22.820 --> 01:15:23.940]  Do you still have two, rather?
+[01:15:25.080 --> 01:15:27.420]  Is it one of your, did they remove it or did they just staple it?
+[01:15:27.640 --> 01:15:29.240]  Uh, they popped it out and popped it back in again.
+[01:15:29.500 --> 01:15:30.040]  Your ball...
+[01:15:30.040 --> 01:15:30.980]  And stapled it down.
+[01:15:31.340 --> 01:15:33.620]  Your testicle left your body briefly.
+[01:15:33.780 --> 01:15:37.460]  Yeah, one of my balls knows what it's like to briefly live outside of the sack.
+[01:15:38.060 --> 01:15:41.440]  Your testicle, you have a testicle that's essentially like a ball astronaut.
+[01:15:42.440 --> 01:15:42.920]  Wow.
+[01:15:45.140 --> 01:15:46.180]  That's pretty impressive.
+[01:15:46.340 --> 01:15:47.620]  Ballstronaut. That's amazing.
+[01:15:51.920 --> 01:15:53.320]  Nixon's re-entry was rough.
+[01:15:55.460 --> 01:15:56.740]  Uh, it looked like this.
+[01:16:02.040 --> 01:16:04.120]  That's Gavin on the, on the surgery table.
+[01:16:04.920 --> 01:16:09.340]  Oh, oh, well, uh, well, there you go. I guess that's probably good for an episode.
+[01:16:10.100 --> 01:16:13.700]  Thank you for indulging me in my, uh, my proposal story.
+[01:16:13.840 --> 01:16:16.220]  I had to get through it so that I could ask you guys to go crabbing with me.
+[01:16:16.760 --> 01:16:21.900]  And, uh, uh, guess we'll see you next week for another episode.
+[01:16:22.280 --> 01:16:24.880]  Um, look, be on the lookout for a monkey movie.
+[01:16:25.040 --> 01:16:26.260]  Watch, watch along.
+[01:16:26.400 --> 01:16:29.520]  That'll be out, uh, on YouTube and the site here pretty soon.
+[01:16:29.600 --> 01:16:31.860]  I don't think we know when, but soon.
+[01:16:31.960 --> 01:16:36.840]  Be on the lookout for, uh, pizza, pizza making video content.
+[01:16:36.840 --> 01:16:40.440]  Uh, that'll be a non-regulation supplementary content.
+[01:16:40.560 --> 01:16:41.940]  That'll be out sooner or later.
+[01:16:42.440 --> 01:16:45.060]  I'm just going to go ahead and make one single video from that event.
+[01:16:45.520 --> 01:16:48.020]  If that's, yeah, just, just that's enough.
+[01:16:48.380 --> 01:16:49.800]  And we'll make sure it goes out.
+[01:16:50.280 --> 01:16:55.080]  Be on the lookout for our animated show, which I think should be out by the time
+[01:16:55.080 --> 01:16:58.360]  that this episode releases based on previous release schedules.
+[01:16:58.560 --> 01:16:59.600]  I believe so.
+[01:16:59.940 --> 01:17:01.300]  Yeah, that will be on our YouTube.
+[01:17:01.380 --> 01:17:04.100]  The first, it's the, the Vancouver child kicker is the first episode.
+[01:17:04.160 --> 01:17:04.800]  It's fantastic.
+[01:17:04.800 --> 01:17:07.100]  How many episodes are in this season?
+[01:17:07.440 --> 01:17:08.340]  I think six.
+[01:17:08.600 --> 01:17:11.400]  Yeah, six or seven, somewhere around there.
+[01:17:11.680 --> 01:17:15.660]  I saw thumbnails today for the first three episodes and they are so adorable.
+[01:17:16.020 --> 01:17:16.600]  I'm very excited.
+[01:17:16.860 --> 01:17:17.980]  I can't wait for people to see them.
+[01:17:18.400 --> 01:17:23.900]  And also, while we're at it, because we are, we are a supplementary content podcast now.
+[01:17:24.300 --> 01:17:30.040]  Uh, be on the lookout for an in-depth overview of Gavin and Andrew's experience
+[01:17:30.040 --> 01:17:31.380]  on Survive Black Island.
+[01:17:31.560 --> 01:17:34.160]  I believe that show is wrapping up here pretty soon.
+[01:17:34.760 --> 01:17:39.140]  And on, you guys will remember on our first office day, we recorded about an hour long,
+[01:17:39.760 --> 01:17:43.480]  uh, just a little audio podcast that you guys talking about, uh, your experience on,
+[01:17:43.560 --> 01:17:46.460]  on, uh, participating in that game show.
+[01:17:46.580 --> 01:17:50.680]  And so, uh, once, as soon as that's out, as soon as the final episode of that show is out,
+[01:17:50.740 --> 01:17:53.140]  then I see no reason why we wouldn't dump out that video too.
+[01:17:53.300 --> 01:17:57.480]  Or definitely watch the show first and also get ready for us to discuss a lot of stuff
+[01:17:57.480 --> 01:17:58.660]  that was never in the show.
+[01:17:59.060 --> 01:17:59.460]  Yeah.
+[01:18:00.000 --> 01:18:01.520]  Because it hadn't been edited yet.
+[01:18:01.520 --> 01:18:04.800]  I guess so many of the things we talk about are just like
+[01:18:04.800 --> 01:18:07.960]  snipped out as if they were trying to fit every episode onto vinyl.
+[01:18:08.340 --> 01:18:09.580]  There's entire chunks missing.
+[01:18:13.360 --> 01:18:14.620]  Well, they were working with them.
+[01:18:14.680 --> 01:18:16.220]  They had a lot of footage and a little bit.
+[01:18:17.820 --> 01:18:19.580]  Not everything could make it in, unfortunately.
+[01:18:22.440 --> 01:18:23.660]  Uh, well, there you go.
+[01:18:23.900 --> 01:18:27.000]  Uh, also maybe if you like this video, uh, why did I say that?
+[01:18:27.220 --> 01:18:30.700]  Maybe if you like this podcast, um, it's not a video.
+[01:18:31.120 --> 01:18:35.460]  Listen, I got, I'm getting, yeah, maybe Gavin and I don't live too far from each other.
+[01:18:35.560 --> 01:18:37.000]  Maybe there's some CO2 seeping.
+[01:18:39.860 --> 01:18:40.220]  952.
+[01:18:41.700 --> 01:18:42.240]  That's great.
+[01:18:42.340 --> 01:18:43.560]  It's going down, it's going down.
+[01:18:43.760 --> 01:18:46.560]  Uh, you're, you're headed, you're trending in the right direction.
+[01:18:47.380 --> 01:18:51.980]  Uh, anyway, if you like the podcast, uh, maybe, maybe give it a like or a review or just tell
+[01:18:51.980 --> 01:18:54.680]  somebody that you like about it and then maybe they'll like it.
+[01:18:54.700 --> 01:18:56.220]  And then it's something that you guys can bond over.
+[01:18:56.960 --> 01:18:59.960]  Uh, and that's, I think that isn't that what it's all about at the end,
+[01:18:59.960 --> 01:19:01.480]  bonding with people over podcasts.
+[01:19:01.800 --> 01:19:03.120]  That's, uh, that's why we exist.
+[01:19:03.520 --> 01:19:06.880]  So, uh, you know, do that.
+[01:19:07.500 --> 01:19:07.940]  Bye!
+[01:19:08.920 --> 01:19:09.820]  That's pretty good.
+[01:19:10.300 --> 01:19:11.160]  It's a good outro, Geoff.
+[01:19:11.420 --> 01:19:12.040]  No, it wasn't.
+[01:19:12.320 --> 01:19:13.460]  You don't think that was a good outro?
+[01:19:13.680 --> 01:19:16.660]  No, you, it's so... what happened?
+[01:19:17.040 --> 01:19:17.960]  I mean, you did the intro.
+[01:19:18.080 --> 01:19:19.520]  Why didn't you just do a quick outro for us?
+[01:19:19.880 --> 01:19:23.400]  Thank you so much for listening to episode 128 of F*** Face.
+[01:19:23.600 --> 01:19:25.540]  If you like this, follow us on Instagram.
+[01:19:25.760 --> 01:19:28.700]  Follow us on Twitter at F*** Face Pod.
+[01:19:28.700 --> 01:19:31.520]  It's so easy to stay up to date with everything that's going on.
+[01:19:31.900 --> 01:19:33.520]  Hope you like the monkey movie stuff.
+[01:19:33.600 --> 01:19:35.220]  Hope you like the Survive Block Island stuff.
+[01:19:35.280 --> 01:19:38.040]  We have so much supplementary content coming your way.
+[01:19:38.540 --> 01:19:40.920]  Only here on the F*** Face podcast.
+[01:19:41.520 --> 01:19:42.560]  I mean, it was higher energy.
+[01:19:42.840 --> 01:19:43.400]  All right, this sucks.
+[01:19:43.460 --> 01:19:43.840]  All right, goodbye.
+[01:19:44.200 --> 01:19:44.820]  And just end it.
+[01:19:44.900 --> 01:19:45.460]  Just f***ing end it.
+[01:19:46.000 --> 01:19:50.160]  Hey guys, Major League Fan Jack here with a look at next week's episode of F*** Face.
+[01:19:50.500 --> 01:19:54.620]  Really quickly, I'd like to hijack the episode to let you know we are auctioning off an original
+[01:19:54.620 --> 01:19:58.540]  F*** Face hat that Andrew had made in order to raise money for Extra Life.
+[01:19:58.540 --> 01:20:03.480]  Just go to bit.ly slash el auction in all caps for info.
+[01:20:04.040 --> 01:20:04.980]  And now with the episode.
+[01:20:05.560 --> 01:20:07.000]  What is the sneakiest animal?
+[01:20:07.620 --> 01:20:08.620]  Hard stuff is easy.
+[01:20:09.120 --> 01:20:10.580]  Is Andrew an ace at darts?
+[01:20:11.120 --> 01:20:12.360]  Sidearm pitching is weird.
+[01:20:12.680 --> 01:20:15.140]  And once again, Andrew does not eat the pencil.
+[01:20:15.660 --> 01:20:18.240]  All that and more on next week's episode of F*** Face.

@@ -1,0 +1,780 @@
+[00:00.000 --> 00:06.120]  Hello and welcome to another episode of the Regulation Podcast. This is number 40. My
+[00:06.120 --> 00:12.260]  name is Geoff Ramsey. With me, as always, Andrew Panton, Gavin Frey, Eric Baudour, and Nick
+[00:12.260 --> 00:12.760]  Schwartz.
+[00:13.300 --> 00:18.360]  Hello, boys. Off the jump, let's just get it out of the way right now because this episode's
+[00:18.360 --> 00:23.400]  coming out, I think, two days before Gerpeltine's Day. We should just, before Eric gets mad
+[00:23.400 --> 00:27.100]  because we forget and let it slip to the last three minutes of the podcast, don't forget
+[00:27.100 --> 00:33.800]  the Gerplers coming out on Friday, I almost said April, Friday, February 14th at noon
+[00:33.800 --> 00:38.860]  Central time, Gerpeltine's Day. We have 5,000 of them. There will also be some signs and
+[00:38.860 --> 00:40.540]  a t-shirt reorder in there as well.
+[00:41.180 --> 00:44.620]  I've won Mario Party at this point and I feel very good about it. Everything is right in
+[00:44.620 --> 00:44.940]  the world.
+[00:45.500 --> 00:49.060]  I'll tell you what didn't happen. I didn't get disconnected. I may not have won, but
+[00:49.060 --> 00:50.420]  I was connected the entire time.
+[00:50.860 --> 00:55.720]  And we'll be locked down at this point. But checking in at the sign vote at this current
+[00:55.720 --> 01:04.120]  moment, 709 for the scrumping, 459 for the Falcons. I am surprised. I'm surprised it's
+[01:04.120 --> 01:08.940]  so big. I honestly, I went with the scrumping because that's where my heart is. But I thought
+[01:08.940 --> 01:13.960]  Falcons would be higher. We'll see. We'll see what happens.
+[01:16.080 --> 01:19.400]  How was everybody's week since we last recorded a podcast?
+[01:19.640 --> 01:21.120]  I got injured in my sleep.
+[01:22.140 --> 01:27.020]  Oh, I thought it was a dream go on face episode six. Hell yeah.
+[01:28.460 --> 01:33.700]  I was sleeping and you know, like when you're in that state of not knowing if you're awake
+[01:33.700 --> 01:37.640]  or if it's like, if that's real, like if it really happened or maybe you dreamt it, I
+[01:37.640 --> 01:44.600]  had one of those. And for some reason I decided to bring my elbow as high up past my head
+[01:44.600 --> 01:51.380]  as I could. And I did that and I felt like a tinge in my kind of shoulder blade area.
+[01:51.540 --> 01:57.220]  And I went, oh, fuck, I'm 30 now and I need to be careful of how I'm stretching in my
+[01:57.220 --> 02:03.480]  sleep. God damn it. And then I went to sleep again. I fell back to sleep and thought nothing
+[02:03.480 --> 02:09.420]  of it. Continued on for the day, then went to go to sleep the following evening. And
+[02:09.420 --> 02:15.540]  upon laying down, it felt like I was getting stabbed in the back and I had to adjust.
+[02:15.800 --> 02:21.140]  I can't pull on things without pain. I don't know what I've done if I've like pulled a
+[02:21.140 --> 02:28.040]  muscle or like strained a tendon in my shoulder. But I've been I've been on the injury report
+[02:28.040 --> 02:34.580]  for the past three days. Hopped out of the tub yesterday, tried to dry off, went, oh,
+[02:34.580 --> 02:39.920]  oh, when I'm doing the little shake motion with the towel, we're hurt. Anybody else get
+[02:39.920 --> 02:46.180]  on the injury report from sleeping? Uh. No, I mean, Gavin's always on the injury report.
+[02:46.740 --> 02:52.840]  How's the gas situation, Gavin? Oh, I wouldn't say it's an injury, though. That's just something
+[02:52.840 --> 03:00.080]  to wake up with and deal with and then it's fine. It's not an injury. It's just a way
+[03:00.080 --> 03:05.820]  of life. It's just a misery. Like if your roof has a leak and you just have to dump
+[03:05.820 --> 03:11.200]  the bucket once a day, is that injury? No, that's certainly. Well, maybe to the house,
+[03:11.220 --> 03:18.120]  actually. I think it's exactly what it is to the roof. Yeah. Yeah. It seems like something
+[03:18.120 --> 03:21.880]  that should be referred. I mean, it's a bad analogy, right? All time worst analogies.
+[03:22.040 --> 03:27.520]  Yeah. Too bad you don't have a get out of Greg free card because you could have definitely
+[03:27.520 --> 03:33.360]  used it there. Yeah, I am stuck inside, Greg. So did Andrew ever use his? Oh, yeah. Andrew,
+[03:33.420 --> 03:38.200]  did you know? No, no, no, no, no, no, no, no. And I'm glad I didn't. Yeah, he's looking
+[03:38.200 --> 03:42.880]  forward to using it soon, though. I there's been multiple opportunities. Is it because
+[03:42.880 --> 03:45.740]  so much of the audience agreed with you and whatever you were going to use it for? No,
+[03:45.760 --> 03:51.940]  it just wasn't as bad. The pitchforks were in a sharp as I thought. The only reason why
+[03:51.940 --> 03:56.800]  I didn't use it is because I thought the funniest way to use it would be to have me interject
+[03:56.800 --> 04:03.260]  right before the conversation happened in the episode. Just be like, oh, stop everyone.
+[04:03.620 --> 04:08.760]  The conversation that's about to happen. But I had that thought too late and I didn't want
+[04:08.760 --> 04:15.640]  to, like, make that suggestion to Nick. So I was like, fuck it. I'll just whatever comes
+[04:15.640 --> 04:20.340]  comes right it out. Why would you have to inform Nick about the Greg? Yeah, because
+[04:20.340 --> 04:25.220]  I wanted that edited into the episode at that point. I wanted we would have the argument
+[04:25.220 --> 04:29.140]  and then just remove it from the cut. No, no, no, no, no. It wouldn't be removed. What
+[04:29.140 --> 04:34.980]  would happen is I would like right before it would start, new audio of me coming in
+[04:34.980 --> 04:39.180]  would interject, be like, I'm stopping the episode for a minute. I'm playing the Greg
+[04:39.180 --> 04:45.500]  card. Everything that precedes this argument, I'm safe for. So you have to use you have
+[04:45.500 --> 04:50.660]  to fire up the time machine to use your Greg card. I mean, that's not how our reality works.
+[04:50.660 --> 04:57.180]  It's how the show reality would work. Yeah. So no. Well, sort of. Yeah, yeah, yeah, yeah.
+[04:57.180 --> 05:02.280]  I see what you mean. Yeah, yeah, you're right. Interesting. I didn't realize it would it
+[05:02.280 --> 05:05.580]  would use the time machine because so far I think only Nick and Eric have used the time
+[05:05.580 --> 05:11.780]  machine and I've never used it. You've used it. I think the three of us have used it when
+[05:11.780 --> 05:15.820]  we were promoting the first Gerpler. Yeah, I think you're right. That was the first time
+[05:15.820 --> 05:20.160]  we used it. Yeah, I think so. The three of us. Yeah. We're just not known for using it.
+[05:20.160 --> 05:24.760]  No, we're not. We're not known. Eric and Nick are iconic time machine users. Yeah,
+[05:24.760 --> 05:29.220]  but I'm happy to open that door if you guys want to become time machine guys yourself
+[05:29.220 --> 05:32.740]  as well. Just sort of like a whole show of people who can use the time machine so it
+[05:32.740 --> 05:36.840]  doesn't have to be me. I'm fine with that. I feel like when I think about time travel,
+[05:36.920 --> 05:43.040]  I think about like a dinosaur with like a laser contraption on its eyes and a machine
+[05:43.040 --> 05:50.680]  gun and then Nick and Eric. Can I can I use the time machine now to go back to the beginning
+[05:50.680 --> 05:57.440]  of this conversation? Please don't. OK. Oh, wow. OK. I was going to say yes, but Nick said
+[05:57.440 --> 06:02.280]  no. So I guess that's sort of... Let's see what happens. Look, if you want to hide the
+[06:02.280 --> 06:06.760]  keys to the time machine, that's fine. You know, Nick drives it. I just I'm along for
+[06:06.760 --> 06:10.600]  the ride. You know what I mean? Let's go fucking nuts. Nick, do you want to use the time machine
+[06:10.600 --> 06:17.220]  to go back and be less negative towards Gavin's idea? Will you use it to have a better analogy
+[06:17.220 --> 06:22.980]  than if there was a leak in your roof? Is that the plan? You just tell me where you want to go, Gavin.
+[06:23.220 --> 06:28.920]  I want to go right before I made a really shit analogy about the leak. Absolutely not. Absolutely not.
+[06:29.100 --> 06:35.940]  It's too close. The time machine has to go further back in time. They can't go that soon back.
+[06:35.940 --> 06:40.140]  I'm sorry, man. It's like a limitation. Unless you don't have a Gregg free card.
+[06:40.440 --> 06:44.840]  That's true. What if I go back to the beginning of the time machine conversation and let everyone
+[06:44.840 --> 06:49.640]  know that we're about to start talking about the time machine? Is that still too soon? I think you
+[06:49.640 --> 06:57.440]  should use the time machine and be here on time. That would be a great call. High five. Get him.
+[06:57.980 --> 07:03.420]  That was good. Was I not on time today? You were one minute late. You were one minute late.
+[07:03.900 --> 07:08.560]  Oh, shit. I apologize. And now that we sync at the beginning, I feel like it really fucks up
+[07:08.560 --> 07:13.360]  your whole showing up on time thing. Because you technically, you need to be here for a sync.
+[07:13.800 --> 07:17.700]  Also, Nick got weird today and wanted to sync without you. He's like,
+[07:17.760 --> 07:21.420]  should we do the sync without Gavin? It's like, I don't understand what that would accomplish.
+[07:22.360 --> 07:23.960]  Nick, what do you think the sync is for?
+[07:26.900 --> 07:31.100]  Nick, I took notes on this question from before. If you want, I'll give, I got you.
+[07:31.100 --> 07:37.720]  OK, OK, go ahead. But it's lining up audio, clearly. Put all the tracks down and they all
+[07:37.720 --> 07:42.180]  go at the same time. Yeah, I can see at the beginning where everybody's countdown is. And
+[07:42.180 --> 07:48.420]  if it's further in the track, it's harder to find. I, uh, I don't I don't need to throw
+[07:50.520 --> 07:53.400]  shade at you, Geoff, but. Oh, please do. Please do.
+[07:54.920 --> 07:59.260]  I had something happen to me in a in a game in GTA. I was playing by myself.
+[07:59.260 --> 08:05.520]  And I thought, oh, this is going to be a funny story to tell. And I captured clips of it. And
+[08:05.520 --> 08:09.300]  I was like, well, this is, you know, podcast to be easier for as a photo. And I went to look.
+[08:09.540 --> 08:17.100]  I took the most Geoff photo of this story that I could have possibly taken. I was so disappointed
+[08:17.100 --> 08:25.000]  in myself where this is the one image I took during this process. It doesn't it doesn't explain
+[08:25.000 --> 08:33.960]  anything that happened or what the issue was. It is so contextually just empty
+[08:35.000 --> 08:42.320]  within the context of the story it makes it. But it's just like even within knowing what I'm doing
+[08:42.320 --> 08:48.240]  with this, it's like, why did I take this angle? What was there was just zero thought process.
+[08:48.700 --> 08:54.200]  I was clearly panicking. I, uh, I was playing GTA five by myself and I've been trying to do
+[08:54.200 --> 08:59.320]  these research missions where you go out and you have to steal something and then bring it back to
+[08:59.320 --> 09:05.540]  your bunker and you can like unlock new upgrades that way of like different gun attachments or
+[09:05.540 --> 09:14.200]  a heavy machine gun on a car type thing. And so for this one, I had to steal a tank that was like
+[09:14.200 --> 09:21.780]  six miles away, but they let you have a cargo bob next to the tank so you could scoop it up.
+[09:21.780 --> 09:29.140]  You can attach a clip to it and then fly it all the way to your bunker, which I did. And it was
+[09:29.140 --> 09:34.240]  great. It only took me like four minutes, except when I went to put it in the little yellow circle,
+[09:34.240 --> 09:42.060]  I came in a little bit hot and the tank flipped upside down like two feet away from the circle
+[09:42.060 --> 09:47.660]  and I couldn't get into the tank. And I had to try to figure out how am I going to move this tank
+[09:47.660 --> 09:55.720]  two feet just so I could wrap this up by myself? And it became a mass struggle. I was trying to
+[09:55.720 --> 10:01.570]  steal vehicles to ram into it. It wouldn't move it. I was like, how the fuck am I going to?
+[10:02.120 --> 10:08.600]  It's two feet like it's just two feet and I got 20 minutes to do it. Come on. I called in,
+[10:08.660 --> 10:14.900]  as you can see in the screenshot, my ramp vehicle. I thought I was very clever seven minutes into
+[10:14.900 --> 10:19.300]  this 20 minute timer. I was like, I'm going to get the ramp vehicle and then I'm just going to
+[10:19.860 --> 10:25.300]  scoop it up. It's going to launch over like everything else. It does not do shit. Didn't
+[10:25.300 --> 10:31.980]  work at all. Just drive under it. Just bounced off of it like it didn't really. Yeah. Like it
+[10:31.980 --> 10:37.420]  didn't scoop it in any capacity. I could not figure out how to get this thing to move. And what's
+[10:37.420 --> 10:43.600]  annoying about the tank, and I guess this is just how tanks work, is the heavy part is the lid
+[10:44.160 --> 10:50.660]  and the part that you shoot. Like if you shoot the body of it, it just spins because it rotates
+[10:50.660 --> 10:57.480]  around the head like it's the part you can't. It's not solid. Like it just spins in a circle.
+[10:57.720 --> 11:05.000]  If you make contact with the trucks when they're upside down, like a 360s, it doesn't see. Yeah.
+[11:05.280 --> 11:11.600]  Yeah. So instead of the the blow of the impact going in a singular direction, all you do is
+[11:11.600 --> 11:19.000]  you spin it either clockwise or counterclockwise, which makes it harder to push. I was I thought
+[11:19.000 --> 11:25.440]  one of my solutions was, oh, maybe maybe Gavin can help because I eventually came to the idea
+[11:25.440 --> 11:31.000]  of I'm an alien blaster. And I don't know if any of you guys have that, but I know Gavin does.
+[11:31.380 --> 11:35.260]  Yeah. Call me in. Well, I was going to. You're streaming with Meg, so I didn't want to interrupt
+[11:35.260 --> 11:43.640]  that. So I was like, I'm fucked. But I kept trying. Took me 17 and a half minutes to move a
+[11:43.640 --> 11:50.620]  tank two feet. I got there. I did it. I completed it. But it was just me constantly shooting this
+[11:50.620 --> 11:55.620]  thing for like 17 minutes straight with an alien blaster. Is that how you did it was shooting?
+[11:55.820 --> 12:01.420]  That's how I did it. There is nothing else I could do to flip it. And I only flipped it not like I
+[12:01.420 --> 12:06.620]  didn't even push it to the yellow. I was able to move it like a foot to the left and it just
+[12:06.620 --> 12:12.120]  rolled over because it's kind of on a hill going downward. Geoff, we've played a lot of the game.
+[12:12.220 --> 12:14.900]  Should we both present our ideas for what we would have suggested?
+[12:16.020 --> 12:19.460]  Yeah, you go ahead. I know what I would have used immediately, but you go ahead.
+[12:19.760 --> 12:24.440]  OK, Andrew, I would have pulled up in the Batman rocket car and I would have just backed up to it
+[12:24.440 --> 12:31.180]  and then just blasted my jet engine. I don't have it. OK, but I like the idea that I do have that.
+[12:31.180 --> 12:35.180]  I could have done that for you. Gavin or Andrew, I'd have been happy to. I would have pulled up in
+[12:35.180 --> 12:41.580]  my phantom wedge, which is the 18 wheeler with the scoop front that will push through anything.
+[12:41.760 --> 12:46.560]  And I would have just nudged it with that. It's got my nose on the front. I did look at that.
+[12:46.660 --> 12:50.460]  I didn't have enough cash. I considered trying to buy my way out of this problem,
+[12:51.020 --> 12:57.720]  but I didn't. I was like 400,000 short. Yeah, I wish I could have loaned you the 400,000.
+[12:57.720 --> 13:05.820]  I have a clip for this, if you want to see that. Oh, yeah, sure. Just as an example of
+[13:06.740 --> 13:13.760]  the frustration that I was going through. Let me put a link here. You'll see what I mean by where
+[13:13.760 --> 13:24.680]  it spins. The trucks spin on this thing. It's very annoying. So this is just me. I'm trying to.
+[13:24.680 --> 13:29.840]  Andrew. Like it's right there and I'm trying to get it. I'm just trying to scooch it a little bit.
+[13:29.980 --> 13:36.320]  This is so stupid. I'm just trying to scooch it. This is so. This is the dumbest. I'm like, how?
+[13:37.500 --> 13:43.820]  Why didn't you just redo the mission, man? I can't. I'm locked in and I'm like, it's two feet
+[13:43.820 --> 13:48.020]  away. That little green bunker symbol next to the ammo. That's where I got to get it.
+[13:48.440 --> 13:52.500]  So I eventually decide I'm just going to try to push it down the hill because it's closer.
+[13:52.500 --> 13:57.100]  I mean, this is working might be. Yeah, I'm getting what you're like five minutes from when
+[13:57.100 --> 14:02.600]  you took the screenshot originally. Just if you're listening to this, just know the tank is totally
+[14:02.600 --> 14:09.220]  upside down and it is teetering on the top part of the tank that spins. And so he's just shooting it.
+[14:09.500 --> 14:17.440]  It's kind of rocking back and forth, but literally inching to where it like this isn't right.
+[14:17.860 --> 14:22.400]  It's like watching a seven year old try to move her refrigerator. So it was daytime when I started
+[14:22.400 --> 14:29.500]  this mission in the context of how long I spent. This is me fleeing. You're a maniac. So this is
+[14:29.500 --> 14:36.300]  when you come in hot. Yeah, great. So I'm coming. They're chasing me. And you're going to see that
+[14:36.300 --> 14:41.040]  it was a problem. This whole mission had problems to it. Yeah, everything's wrong with this mission.
+[14:46.560 --> 14:51.100]  Andrew clipped the tank on a tree. He's just hitting all the trees. He's hitting shrubs.
+[14:51.100 --> 14:57.600]  I'm trying to avoid the trees. I'm getting chased by helicopters. But I may have come up with a new
+[14:57.600 --> 15:01.900]  sport, I believe, if this lines up the way I think it does. Oh, like conkers? Oh no!
+[15:03.260 --> 15:12.180]  Shot put with the tank. Dude, that was a trebuchet. How did you do that? That's the coolest thing I've ever seen.
+[15:13.080 --> 15:18.940]  Oh my god, Gavin and I were in unison. It started with that. What?
+[15:18.940 --> 15:25.180]  That was... I've never seen that work. That is my tank journey GTA, but mainly when I wanted to show
+[15:25.180 --> 15:29.580]  a screenshot of like, this is where the tank was to the hole. And I didn't have that. And I felt
+[15:29.580 --> 15:35.360]  like such an idiot just looking at my one dumb side screenshot. I want people to know
+[15:35.360 --> 15:40.680]  who are listening. What we just saw was Andrew in a Cargo Bob carrying a tank so low that he's
+[15:40.680 --> 15:48.240]  hitting trees and shrubs. It gets hung up on a pole and it catches so that Cargo Bob keeps going
+[15:48.240 --> 15:53.500]  forward. The tank drags behind and then the momentum gets to the point where he does a full
+[15:53.500 --> 16:00.240]  front flip and then launches the tank forward. Like Gavin said, like a trebuchet. That's insane.
+[16:00.600 --> 16:06.380]  Yeah, it's very cool. He did a full flip. That was in a Cargo Bob. What? Can I ask a question?
+[16:07.160 --> 16:11.700]  We're not recording tomorrow morning, right? We decided not to. Yeah, we're doing a thing.
+[16:12.160 --> 16:16.200]  You, Gavin and I are doing a thing, but we can also do this. Oh, right. After we do the thing,
+[16:16.200 --> 16:21.760]  we do this? Yeah. I would love to try this. This and also I want to do my Call of Dirty idea that
+[16:21.760 --> 16:26.400]  I pitched to you guys yesterday. I did some research on it and it gets even better. Yeah.
+[16:26.640 --> 16:31.640]  Oh, great. Yeah, we could try a tank toss. Like, light up on the same tree and see who can throw
+[16:31.640 --> 16:36.560]  it the furthest. Oh, that's really interesting. Just something to think about. Who knows how long
+[16:36.560 --> 16:40.140]  the thing that the three of us are doing will take. I also had an idea for a draft that we
+[16:40.140 --> 16:45.460]  could maybe do at some point. And what's that? How do you feel about a peeve draft?
+[16:46.300 --> 16:51.660]  Yeah, I love it. What? What is that? Oh, yeah, like drafting peeves. What's that? Things that
+[16:51.660 --> 16:57.760]  annoy us. Pet peeve. Like, we were just talking about one of mine earlier today, actually. Is pet
+[16:57.760 --> 17:01.880]  peeve one of the types of peeves or are they all pet peeves? I don't know what that means.
+[17:02.800 --> 17:04.440]  You're asking the helium guy that question?
+[17:07.540 --> 17:10.920]  I've just never used, never really used peeve on its own. It's always pet peeve. But why do you
+[17:10.920 --> 17:17.240]  specify what kind of peeve? Peeve, verb, annoy or irritate. That was one thing that peeved him.
+[17:17.600 --> 17:21.180]  But what's the pet part? My peeve is people treating me like a moron.
+[17:21.420 --> 17:31.820]  When you go to the Wikipedia for it, it says pet peeve. A pet peeve, pet aversion or pet hate is
+[17:31.820 --> 17:37.140]  a minor annoyance that an individual finds particularly irritating to a greater degree
+[17:37.140 --> 17:42.400]  than the norm. What the fuck is a pet aversion? Just seems like you don't like cats. So it's like
+[17:42.400 --> 17:48.220]  a pet to mean small? Is that what it means? I think so. I think so. Oh, dude, should we create
+[17:48.940 --> 17:53.980]  Wikipedia where we just list all the things that are peeves? That's so good. Pretty good. I think
+[17:53.980 --> 17:57.700]  this is going to be Eric's honorable mentions. I think we're going to finish the draft. Do you
+[17:57.700 --> 18:03.180]  have any honorable mentions? And Eric just be like, boys, boys, sit down, boys. I got my list.
+[18:03.180 --> 18:09.100]  Yeah, Wikipedia could just be the name of our peeve draft. I like Wikipedia. I love it. That's great.
+[18:10.900 --> 18:15.680]  Think about how the Gerpler gets to you. There's a business behind the business. It's not just
+[18:15.680 --> 18:20.780]  make the cup, give you the cup. There's a whole situation. And often the overlooked secret is
+[18:20.780 --> 18:25.920]  actually the business behind the business that makes selling simple. For millions of businesses,
+[18:25.920 --> 18:33.900]  that business is Shopify. Nobody does selling better than Shopify. We know that. That's why
+[18:33.900 --> 18:39.880]  we use it. Everything we're selling is through Shopify. When you go to our store, it's the home
+[18:39.880 --> 18:44.360]  of the number one checkout on the planet and the not so secret secret with shop pay that boosts
+[18:44.360 --> 18:50.040]  conversions up to 50%, meaning way less cards getting abandoned and way more sales going.
+[18:51.000 --> 18:55.460]  Nick probably put the sound in. So if you're growing your business, your commerce platform,
+[18:55.460 --> 19:01.500]  better be ready to sell wherever your customers are scrolling or strolling on the web, in the
+[19:01.500 --> 19:07.880]  store, in the feed and everywhere in between. Businesses that sell more sell on Shopify.
+[19:08.640 --> 19:14.620]  We use it. I'm telling you. I am telling you that that is what we do. We love Shopify because it
+[19:14.620 --> 19:19.440]  provides you with the Gerpler, the Koozler, protected by Falcon signs, regulation shirts,
+[19:19.440 --> 19:28.160]  and so much more coming this year. So upgrade your business and get the same checkout that we get
+[19:28.160 --> 19:35.640]  when you shop with us. That's us and who we are. Sign up for your $1 per month trial at
+[19:35.640 --> 19:43.520]  Shopify.com slash face, all lowercase. Go to Shopify.com slash face F-A-C-E to upgrade your
+[19:43.520 --> 19:50.220]  selling today. Shopify.com slash face. Hey, have you ever woken up with kind of like a weird
+[19:50.220 --> 19:54.820]  symptom? You're like, Oh man, my eyes itchy. You got this rash, my throat sore, just something
+[19:54.820 --> 20:00.420]  that you're not used to feeling. But then instead of going to tick tock, maybe there's a different
+[20:00.420 --> 20:04.800]  rabbit hole to go down. And this isn't even a rabbit hole. This is the solution for you.
+[20:05.040 --> 20:11.280]  This is ZocDoc. ZocDoc is a free app and website where you can search and compare high quality
+[20:11.280 --> 20:19.160]  in-network doctors and click to instantly book an appointment. We're talking about booking in
+[20:19.160 --> 20:26.300]  network appointments with more than 100,000 doctors across every specialty from mental health
+[20:26.300 --> 20:32.540]  to dental health, primary care, urgent care, and more. Now is the time to get these things
+[20:32.540 --> 20:38.380]  looked at. A lot of stuff happens suddenly and it's always good to know what it is that you need,
+[20:38.380 --> 20:42.840]  where your in-network doctor is. Look, if I was looking for my in-network doctor,
+[20:42.960 --> 20:47.980]  this is exactly what I would be using to find them so I could get something treated. ASAP,
+[20:48.520 --> 20:55.140]  stop putting off those doctor's appointments. Go to ZocDoc.com slash regulation to find and
+[20:55.140 --> 21:04.720]  instantly book a top rated doctor today. That's Z-O-C-D-O-C slash regulation. ZocDoc.com slash
+[21:04.720 --> 21:11.760]  regulation. Should we take a second before we get too far into the episode to discuss the
+[21:11.760 --> 21:17.340]  rooster teeth of it? Oh, that's probably a good idea. Yeah, we probably should. I'll be honest,
+[21:17.520 --> 21:23.920]  it's been 24 hours and I'm already sick of talking about it. But we definitely should address it in
+[21:23.920 --> 21:28.640]  the main podcast. If people aren't aware, our previous parent company, Rooster Teeth,
+[21:30.020 --> 21:35.120]  a company that was around for about 22 years, went out of business last year.
+[21:35.800 --> 21:39.180]  If you're listening to this, you probably are aware that we spun off and started our own company.
+[21:39.640 --> 21:46.220]  Well, one of the other founders, Bernie, was able to acquire the name of Rooster Teeth and some of
+[21:46.220 --> 21:53.300]  the intellectual property and has reformed the company in some manner that isn't entirely clear
+[21:53.300 --> 21:58.260]  yet. They have more information coming. But a lot of people have been asking if this means that we
+[21:58.260 --> 22:03.740]  will then be rejoining Rooster Teeth because we were once a part of Rooster Teeth and what that
+[22:03.740 --> 22:09.200]  means for regulation. And what it means for regulation is that we are so fucking excited
+[22:09.200 --> 22:13.960]  and happy for Bernie and Ashley and for Rooster Teeth and for the people that like Rooster Teeth
+[22:13.960 --> 22:19.460]  content to be able to have that home on the internet again. But we aren't involved with it.
+[22:19.600 --> 22:24.480]  We spent the last nine months creating our own company, carving out our own space on the internet,
+[22:25.020 --> 22:31.440]  and building our own little self-contained universe. And we're very, very happy here and
+[22:31.440 --> 22:36.180]  very excited about where we are and the direction that we're going and the adventure that we are on.
+[22:36.620 --> 22:43.480]  And we will be tremendous fans of the new Rooster Teeth adventure and whatever direction that goes.
+[22:43.520 --> 22:48.380]  And we will be friends of them. And I'm sure you will see us co-mingle at different points in the
+[22:48.380 --> 22:56.060]  future. But we will be distinct and separate companies. And I don't think there's any plans
+[22:56.060 --> 23:01.400]  for that to change anytime soon, if at all. No. Not at all. Not at all. Not at all. Zero. Yeah.
+[23:01.780 --> 23:06.200]  Will not happen. I mean, if you want to get to the weeds of it, I think I could take credit
+[23:06.200 --> 23:12.480]  for that idea. Yeah, please do. For Bernie buying it. Floated it to him. Sent him a little message.
+[23:12.580 --> 23:17.620]  I said, hey, you know what would be cool? You bought it. Bought some of the IP. And then it
+[23:17.620 --> 23:21.880]  happened. You know, so I'm not saying that's a factual story that I just said, but if you want to
+[23:21.880 --> 23:28.800]  give me credit, I'm open to it. Yeah, I'm willing to take some. I'll credit to you, Andrew. Thank
+[23:28.800 --> 23:32.280]  you so much for doing that. Yeah. Yeah. I just like floating those ideas. You know, he was about
+[23:32.280 --> 23:37.820]  the eighth person I texted saying, hey, you know what would be cool? Buying the RT property. If
+[23:37.820 --> 23:43.920]  anybody else wants to has anything else they want to add or elucidate to that or if I misframed
+[23:43.920 --> 23:49.120]  anything. But I think there's just the general gist is that we are genuinely happy and excited.
+[23:49.360 --> 23:54.880]  And I don't think anybody wanted Rooster Teeth to disappear from the Internet because of some
+[23:54.880 --> 24:00.720]  Warner Brothers purge. So the fact that Bernie has it in some fashion and is able to keep it alive,
+[24:00.760 --> 24:06.740]  I think, is great. We were all there when it died. Like, clearly, we didn't want that to happen. We
+[24:06.740 --> 24:15.000]  were all employed by it as it sank. But yeah, we had zero. Yeah, we had health care. I still do.
+[24:15.200 --> 24:22.660]  Yeah, health care was cool. It still is. Anyway, yeah, there will be no collab between, I just
+[24:22.660 --> 24:26.140]  think, being definitive. There's no thought of one, at least. Yeah, I don't know what that would
+[24:26.140 --> 24:29.960]  be. Like, we don't collab. Like, people have been asking me a lot about it. And I get it. I
+[24:29.960 --> 24:33.840]  totally understand that we spent 22 years making content together. I would also point you to 22
+[24:33.840 --> 24:37.100]  years worth of content if you're looking for any, because we made a shitload of it. Like,
+[24:37.140 --> 24:39.860]  if you started today, it would take you a decade to get through all the content Bernie and I
+[24:39.860 --> 24:45.100]  made together. But we don't collaborate with anyone. Like, we don't have guests on the podcast.
+[24:45.240 --> 24:51.500]  We never did. I dare say never will, you know? When we were at Rooster Teeth, we didn't have
+[24:51.500 --> 24:58.940]  people on from Rooster Teeth on this. We've had one person come on and they're delightful. They're
+[24:58.940 --> 25:04.780]  so funny. Part of me, though, was like, we don't do this. We don't do this. I get it. Yeah, we had
+[25:04.780 --> 25:10.100]  one person come on as a whim during the chip tasting. And I don't know that that'll ever
+[25:10.100 --> 25:17.260]  happen again. It was great. It was fine. Yeah. But we're pretty keyed into making what we're
+[25:17.260 --> 25:22.640]  making with each other and only us, if that makes sense. Yeah, absolutely. I think that was really
+[25:22.640 --> 25:30.760]  well said. I think that was great. Do we all have squinkles? I got my squinkles. I got my squinks.
+[25:31.000 --> 25:37.460]  My squinkles are on the way. Are you fucking serious? This is a bit. You're doing a bit.
+[25:37.680 --> 25:41.840]  Are you serious? Oh, hang on. Did they just get delivered? How are they not there? Dude,
+[25:42.480 --> 25:50.060]  we took a break. We took a 90 minute break between our last recording and this one. So you could get
+[25:50.060 --> 25:55.840]  a sandwich in that time. How could you not uber eat squinkles? I did. They're on the way.
+[25:56.900 --> 26:02.740]  That's insane. Why did we take the break? Because I was going to go and they weren't at that store.
+[26:03.280 --> 26:07.080]  Okay, fair enough. That, you know what? You really should have led with that.
+[26:07.560 --> 26:13.900]  I agree with these other guys. You should have said that first. Nick, Nick, fire up the time machine.
+[26:13.900 --> 26:18.540]  No. All right. All right. They're delivered anyway. They're here. I just didn't see.
+[26:19.080 --> 26:23.280]  Fair enough. Okay, go get your squinkles. Okay. Well, he gets those. Let me just say
+[26:23.280 --> 26:27.320]  a little communication could be nice. Gavin's come at me for a lack of communication a little.
+[26:27.640 --> 26:33.320]  Hey, I went. They didn't have any. I'm going to order them. Gavin likes to start in. You start
+[26:33.320 --> 26:38.360]  in the second act. Go get your squinkles. Well, I'm just going to. Okay. Go get your squinkles.
+[26:39.320 --> 26:42.640]  I talked to Geoff about this yesterday. I said there are times where
+[26:42.640 --> 26:46.220]  Gavin does stuff and the way he presents a question, it's like he's waiting for you to
+[26:46.220 --> 26:51.580]  walk into a trap. But that's never what he's actually doing. It just feels like it every time.
+[26:51.880 --> 26:56.920]  It's a great example of that. God. He's not even going to like these squinkles. No. After all
+[26:56.920 --> 27:00.080]  this, he's not going to like them. We're all going to hate him and he's going to hate him twice as
+[27:00.080 --> 27:04.500]  much. Oh, I think I'm going to like them. Eric, I was trying to answer your question as directly
+[27:04.500 --> 27:07.520]  as possible. You said, does everyone have their squinkles? I'm telling you, no.
+[27:08.140 --> 27:11.440]  You want to start with the story? The answer.
+[27:14.980 --> 27:20.000]  I think the reason everyone was mad at you is that we took a 90 minute break for your answer
+[27:20.000 --> 27:25.360]  to still be no. Well, yeah, but wouldn't it be annoying if you're like, you don't have that
+[27:25.360 --> 27:30.720]  squinkles? And I'm like, here's what happened. So I went to the... I don't have them. I do have
+[27:30.720 --> 27:39.780]  them, though. I was wrong. Boo! Boo! So, Geoff, reset the squinkles stuff. Tell us about the
+[27:39.780 --> 27:49.060]  squinkles. Okay, we are at the airport leaving Cancun. We've had an amazing four days together,
+[27:49.320 --> 27:58.740]  sun and fun and saltwater and a lot of diarrhea and some pretty questionable evening entertainment.
+[27:58.740 --> 28:04.040]  And now we're hanging out at the airport at Margaritaville, waiting to come back to America.
+[28:04.040 --> 28:10.380]  And we decide to walk to our gate and glance over to the right. And what do I see but a package
+[28:11.000 --> 28:19.100]  of candy called Squinkles Chunks. And I thought to myself, that can't be real. So I go and I pick
+[28:19.100 --> 28:22.720]  it up and I take a picture of it to go show Eric. And then he goes, that's the craziest thing I've
+[28:22.720 --> 28:27.140]  ever seen. And then we get on a plane and go back to America. Very dumbly didn't buy the squinkles
+[28:27.140 --> 28:32.340]  chunks. Thought the photo was enough. Don't know what was wrong with me there. Mentioned it on the
+[28:32.340 --> 28:37.920]  podcast. Everybody's decided they want to try squinkles. So then every week when we record the
+[28:37.920 --> 28:41.660]  podcast, we all get ready to eat the squinkles, but Gavin never has them. And I think this is like
+[28:41.660 --> 28:46.400]  the ninth podcast in a row we've tried to do squinkles. And now it sounds like Gavin has them.
+[28:46.480 --> 28:51.500]  So we're all going to eat squinkles and see what we think. Well, you kept changing the time of the
+[28:51.500 --> 29:05.180]  podcast to be earlier than my squinkle getting. It's in two weeks. In between the days. This is proof that I have my squinkles with today's date.
+[29:07.080 --> 29:12.780]  All right. I was not able to find squinkles chunks, but I got squinklote and I got squinkles
+[29:12.780 --> 29:20.700]  salsagetti. I got squinkles salsagetti. I have squinkles chunks. They are not hard to find.
+[29:20.700 --> 29:27.600]  They're at like Walgreens and CVS. I tried both of those stores, didn't I? Wow. Is that what your
+[29:27.600 --> 29:33.780]  clock looks like, Gavin? What is that? Yeah, that's my satellite clock. So I'm always on time exactly.
+[29:33.860 --> 29:38.920]  I obviously didn't use it today. You were a minute late. Yeah. So that's how I get on time. Why do
+[29:38.920 --> 29:43.240]  you put things of importance on the floor? You're shaving with a mirror on the floor. Your clock's
+[29:43.240 --> 29:50.300]  on the floor. What are you doing? That's not the floor. That's a footstool. Okay. That's low,
+[29:50.300 --> 29:55.460]  the clock. That's where I put the clock to take the picture. Oh, that's a nice chunk. That's what
+[29:55.460 --> 29:59.860]  a squinkles chunk looks like. It looks like dog food. It looks like a little cat treat. It does
+[29:59.860 --> 30:07.560]  look like a cat treat. How's the chunk? Oh, I love it. Good chunk. Really? What does it taste like?
+[30:11.120 --> 30:15.580]  Tamarind and mango. Okay. And like almost like it's got like a little bit of like tahini and
+[30:15.580 --> 30:21.260]  sugar. Like a little bit. Squinkles salsagetti looks kind of like somebody rolled red vines
+[30:21.260 --> 30:28.180]  around in in sand. It does. That is a great explanation. Like you dropped your you dropped
+[30:28.180 --> 30:33.180]  your red vines in the in the sand pit and you had to eat it anyway. We're going to we're getting
+[30:33.180 --> 30:38.220]  into the salsagetti. Should we do it? Yeah, let's do it. All right, let's put the little sauce back
+[30:38.220 --> 30:41.800]  in. Open mind. Well, do you put it on it or is it on the side? I'm supposed to do with it.
+[30:41.880 --> 30:47.240]  Sauce on the side. I feel like you probably put it on, I'd assume. So I'm opening. What's the soy?
+[30:47.240 --> 30:58.740]  What is this? Yeah, it's a sauna on there. You know what? That's not half bad. Oh, that's thick.
+[31:01.220 --> 31:07.620]  Holy shit. Oh, is it a little spicy? Yeah. Got a little kick to it.
+[31:08.420 --> 31:12.360]  What's that? I haven't used the brown sauce yet. What's the soy sauce like? Oh,
+[31:14.640 --> 31:21.280]  it's sour. Jesus Christ. I think it's better without it. I bet the salsagetti or whatever
+[31:21.280 --> 31:27.060]  is like a like a watermelon-y strawberry thing. It is. And then the sauce is probably like a
+[31:27.060 --> 31:32.120]  tamarind flavor thing. Yeah, it's very watermelon. That's great. That's really good.
+[31:33.560 --> 31:39.020]  Dude, I'm a squinkle guy. These squinkles chunks are so good. So your squinkles chunks kind of
+[31:39.020 --> 31:42.840]  you said they're mango? Yeah, they're definitely mango and like tamarind,
+[31:43.040 --> 31:49.000]  like a little bit tamarind. Dude, squinkle salsagetti is fucking good. Yeah. You ever eat
+[31:49.000 --> 31:55.100]  something and all you can taste is just the fact that your body probably can't make use of any of
+[31:55.100 --> 32:03.720]  this? Oh, yeah. Yeah. McDonald's is what it tastes like. I mean, it tastes like every like Mexican
+[32:03.720 --> 32:08.760]  candy I would get growing up as a kid. I really like it. Yeah. Yeah. This just tastes like it
+[32:08.760 --> 32:14.320]  tastes like all of that. Easy, super easy to eat. Not a candy guy. I'm a squinker. I think I am.
+[32:14.480 --> 32:21.020]  I'm a squinker. Yeah, I'm a squink fan from here on out. Hey, I got a gift for you next week.
+[32:22.200 --> 32:26.680]  I'll take any extra squinks off your hands for you. I got the five packets.
+[32:30.660 --> 32:35.660]  Wow, you went all in. Yeah, I ordered what was available. Speaking of going all in,
+[32:35.660 --> 32:40.180]  can I tell you guys a little story about going all in without realizing it over the weekend?
+[32:40.380 --> 32:45.760]  Please. Last Friday. This is a follow up to my dick story. This is kind of dog related.
+[32:46.560 --> 32:56.340]  Last Friday, Emily and I had to take little Albert to the allergy specialist, right? Because he's,
+[32:56.460 --> 33:02.920]  you know, he's he's a little nerd and he's got a billion allergies and he it's just been a
+[33:02.920 --> 33:07.140]  it's a problem with being an English bulldog, right? Henry had all the same shit. And so we
+[33:07.140 --> 33:11.460]  had to take him up there because he has to get shots. I have to personally because Emily can't
+[33:11.460 --> 33:16.120]  do it. She's too grossed out by it. I have to give him two shots every three days for the next
+[33:16.120 --> 33:21.000]  hundred years. And then at some point he'll be no longer be allergic to outside, I guess.
+[33:21.500 --> 33:27.720]  But anyway, so we had to go all the way up to Round Rock to to this allergy specialist to go
+[33:27.720 --> 33:33.380]  get the medicine and everything. And it just so happens that right next door to it, you have to
+[33:33.380 --> 33:39.680]  actually the way it's at like a cul-de-sac off the or some sort of like a traffic circle off of 35
+[33:39.680 --> 33:44.740]  in Round Rock where you end up, you have to go through a Freddy's fast food restaurant to get
+[33:44.740 --> 33:50.100]  back to the main road after you go to the allergy place. And I've never been to a Freddy's, but it
+[33:50.100 --> 33:54.560]  had a nice sign. And I was like, hey, do you do I get some food? And it was like, yeah, let's let's
+[33:54.560 --> 33:58.160]  get some food from that place. And so we went through the drive through. They had hot dogs.
+[33:58.460 --> 34:01.400]  So I was like, obviously, I'm going to get a chili cheese dog, right? I showed you guys a picture of
+[34:01.400 --> 34:07.060]  it. It was number 38 on the list, I believe, 38 or 39. And, and they asked me, they said,
+[34:07.220 --> 34:10.620]  what would you like, sir? And I said, I'll take a chili cheese dog. And they said, do you want
+[34:10.620 --> 34:15.740]  onions on that? And I went, well, yeah, of course. And they go, okay. And then, then they said,
+[34:15.920 --> 34:19.360]  ma'am, what would you like? And she was like, I'll have a cheeseburger. And they're like,
+[34:19.420 --> 34:22.300]  just like the number one or whatever. And they're like, okay, do you want onions on that? And she
+[34:22.300 --> 34:27.840]  was like, yeah, it comes with it, you know, like, okay. And then they give us our, our food and we
+[34:27.840 --> 34:34.800]  go pull into the parking lot and eat. And my hot dog is swimming in onions. And we're like, well,
+[34:34.800 --> 34:38.880]  they went a little heavy on the onions, huh? And Emily's like, I swear, it's just, it's just like
+[34:38.880 --> 34:46.280]  patty, cheese, onion, mustard, and bun, but mostly onion. And we kind of laugh about it. And we eat
+[34:46.280 --> 34:50.820]  it. And then we throw the bag away immediately in the parking lot. There's a trash can and go home,
+[34:50.820 --> 34:56.940]  go into the house, go about our business, go back into the car to leave. And the car smells so
+[34:57.400 --> 35:03.460]  intensely like onion, we can't be in it with the windows rolled up. And we're like, holy shit,
+[35:03.680 --> 35:08.540]  how did it get so oniony in here? This is crazy. How did we not notice it last time? And so we go
+[35:08.540 --> 35:12.180]  do our business. We have to drive around town with the windows down. We go to our business,
+[35:12.260 --> 35:15.860]  we come home, we leave the windows down. We're like, yeah, we'll just leave the windows down
+[35:15.860 --> 35:20.500]  for a while. I'm sure we'll be fine. That began a saga of us trying to get the onion smell out of
+[35:20.500 --> 35:28.940]  our car that has not ended. No, I don't know. Under Emily's car right now are like seven
+[35:28.940 --> 35:37.020]  air fresheners, like leather scent air fresheners. I drove the car around on Sunday for like an hour
+[35:37.020 --> 35:43.720]  with every window down intently just to get breeze in. On Sunday day, I left it in the yard
+[35:43.720 --> 35:52.200]  with every window down and the rear trunk up for like nine hours. We sprayed, we for breezed,
+[35:52.580 --> 35:59.160]  we've vacuumed to see if there were onions that fell somewhere. We cannot get onion out of this
+[35:59.160 --> 36:06.100]  goddamn car. We've made tremendous progress. But let me tell you, Friday, Saturday, Sunday and
+[36:06.100 --> 36:12.320]  Monday, you couldn't sit in the car. That's crazy. I've never seen anything like it in my entire
+[36:12.320 --> 36:19.900]  life where the onion scent transference was so strong. It just it just like imbued itself into
+[36:19.900 --> 36:26.080]  the inner workings of the car. You couldn't have made it smell more like onions if you chopped up
+[36:26.080 --> 36:32.680]  an onion and just shoved it into the air vent. It was insane. It's still insane. Do you think
+[36:32.680 --> 36:39.640]  some onion did get in the vent? No, how's onion going to get in the vent? Have you seen me eat?
+[36:39.640 --> 36:46.340]  It's not that messy. Do you think a worse smell would stack with the onion or would it displace
+[36:46.340 --> 36:51.520]  the onion? Like if you went full windows up, canister strumming sort of thing, would it blast
+[36:51.520 --> 36:55.720]  the onion out? I don't think so. I don't think anything is getting rid of this onion. This onion
+[36:55.720 --> 37:01.640]  has taken hold of my wife's car and it's not letting go. It's like it's like a demon onion.
+[37:01.840 --> 37:07.700]  It's like we need to have some sort of an onion exorcism. I don't know what else to do. The car
+[37:07.700 --> 37:14.880]  has been aired out for like 16 hours of Texas air straight. It just it it won't go away. I want to
+[37:14.880 --> 37:19.940]  come and puff some of this onion. All right. The only solution is to have Gavin come over,
+[37:20.160 --> 37:26.380]  have a sleepover, fill that gut up with air and then let him go fart crazy in this car.
+[37:26.760 --> 37:31.280]  Start pushing those scents around. I think you might be able to feed it. I'll sleep in the car.
+[37:31.360 --> 37:36.920]  Do you have a USB plug for my seat? Yeah, we do. I'm willing to try it, man. I'm willing to try it.
+[37:36.920 --> 37:40.880]  I wish it smelled as bad as it did initially. You can still smell it now, but it's also the thing
+[37:40.880 --> 37:44.860]  where like, do I smell onions or am I just convinced that I smell onions? But I definitely
+[37:44.860 --> 37:49.160]  think we still smell them. Yeah. You need to make like popcorn in the car. You need to get a
+[37:49.160 --> 37:56.060]  air popper in there. You need to just try to overpower it. What if we all sit in the car?
+[37:56.160 --> 38:02.040]  There's five seats, right? Yeah. And we'll all do a different task in the car that makes a nicer smell.
+[38:02.040 --> 38:06.800]  I'll tell you what, let me get in there this weekend and see how bad it is.
+[38:07.220 --> 38:10.840]  And maybe that's a supplemental we can film. We could do a popcorn in one seat. Maybe I could
+[38:10.840 --> 38:14.840]  get some bacon going in a different seat. I did. I actually...
+[38:17.000 --> 38:23.700]  This is something maybe we could try. The day... actually on Monday, I had to go back up to the
+[38:23.700 --> 38:29.500]  allergists because one of the vials cracked and all the fucking, I don't know, whatever it is,
+[38:29.500 --> 38:34.720]  medicine fell out. And so I had to go make an emergency run. And I was like,
+[38:34.760 --> 38:37.300]  you know what I'm going to do? Because I was in my car. I was like, I'm going to get
+[38:37.300 --> 38:42.640]  the same order and I'm going to eat it in the parking lot. I'm going to eat both orders
+[38:42.640 --> 38:46.860]  since I'm by myself. And then I'm going to see if it was a one-time thing.
+[38:46.920 --> 38:54.260]  You're insane. Or if it's something else that just like simultaneously made an onion smell,
+[38:54.340 --> 38:57.420]  like some problem with the engine or something that we're attributing to the onions, but it's
+[38:57.420 --> 39:02.400]  not, you know, or like whatever. And I was all set to do it. And I even told Emily, I'm going to
+[39:02.400 --> 39:05.420]  do this. She's like, that's a terrible idea. You shouldn't do it. This has been a nightmare for us.
+[39:05.440 --> 39:10.420]  And I'm like, I know, but I got to know. I got to know. I got to know whether you onioned or the
+[39:10.420 --> 39:16.020]  car onioned. You can't do this. Right. So I drive because it's like fucking 40 minutes up to
+[39:16.020 --> 39:21.480]  Round Rock to go do this. Right. I drive up there to go get the vial and the goddamn Freddy's wasn't
+[39:21.480 --> 39:25.600]  open yet because I drove out there too early in the morning because I'm a morning guy and I didn't
+[39:25.600 --> 39:32.880]  realize that they don't open till like 11. So I couldn't perform the test, but maybe, maybe that's
+[39:32.880 --> 39:37.220]  what we do. Maybe that's our supplemental. I'm not trying to step on 100% eats territory or anything,
+[39:37.220 --> 39:42.940]  but maybe we should try to onion out the car and see if we can destroy my car with onions. See if
+[39:42.940 --> 39:47.280]  we can replicate what happened to Emily's car. We should do this tomorrow. Well, I'm certainly
+[39:47.280 --> 39:53.480]  okay with that. Go and onion the car and then we'll all try and de-onion the car. Okay. I support it.
+[39:53.480 --> 39:59.440]  Uh, you guys will have to schedule that. Do it after the game stuff. Gavin won't show
+[39:59.440 --> 40:02.740]  up if it's not on the calendar. That's true. I forgot about recording yesterday
+[40:02.740 --> 40:09.960]  because it wasn't on the calendar. We'll figure it out. The worst thing is that usually when I'm late
+[40:09.960 --> 40:14.940]  or I've just forgotten about something, I'm right here just working at my desk. Like I don't have to
+[40:14.940 --> 40:21.400]  physically move anywhere. I'm just being late in the right place. I really, I'm not a negative review
+[40:21.400 --> 40:29.120]  food place guy, but if I read a review for a restaurant that said, do not go here. The onion
+[40:29.120 --> 40:35.560]  is so strong. It has taken over the scent of my car for the past two weeks. I'm going to that place.
+[40:35.780 --> 40:40.440]  I need to figure out what's going on with these onions. If you guys can't get the onions out,
+[40:40.540 --> 40:43.740]  you need to go to the restaurant and just interview. What are you doing? What are,
+[40:43.760 --> 40:49.400]  what are these onions? Where are you importing these from? Oh man, we need to do a deep dive
+[40:49.400 --> 40:53.760]  on onions. I'm, I'm, I'm glad we're going to go do this. I really am. Uh, whether we do it tomorrow
+[40:53.760 --> 40:57.200]  or sometime in the future, I really, I do want to get to the bottom of it and, uh, and I'm prepared
+[40:57.200 --> 41:03.200]  to sacrifice Gavin's car to do it. Yeah. And I think, I think my thing, I'm going to cook bacon
+[41:03.200 --> 41:08.460]  in my seat. Okay. And then everyone can come up with a different task for Eric and Nick. Do you,
+[41:08.540 --> 41:14.080]  do you have any ideas? I'm sure we can, uh, land on something. I'm just looking at the calendar.
+[41:14.200 --> 41:18.900]  We're not going to be able to do it tomorrow, but. How many USB plugs do you have in the car,
+[41:18.900 --> 41:25.960]  Geoff? How many devices could be possibly plugged in? I have, well, I have, I have one and I have
+[41:25.960 --> 41:31.780]  wireless charging. Well, I can bring my, I can bring my battery that will power like four or
+[41:31.780 --> 41:36.040]  five things. Oh yeah. That's a good call. You can have your little battery. Do you guys ever think
+[41:36.040 --> 41:43.260]  about bandanas? Only when I'm looking at Marcus Fenix. Outside of that, no. But I think about
+[41:43.260 --> 41:47.220]  them a lot when I'm looking at Marcus Fenix. I was thinking about bandanas the other day
+[41:47.220 --> 41:50.840]  and I was thinking, so I did a little research because I was like, who invented the bandana,
+[41:50.880 --> 41:54.140]  right? This was a so all right thing. That's not going to, I'm not going to do for so all right.
+[41:54.420 --> 41:59.260]  But, uh, and bandanas were invented like in India, I want to say like a billion years ago,
+[41:59.260 --> 42:04.720]  right? And they were invented to do what you would think to cover your neck, protect your neck and
+[42:04.720 --> 42:10.140]  to tie your hair back. Right. And I got to thinking about cowboys and how cowboys used bandanas
+[42:10.140 --> 42:15.300]  mostly when they're riding their horses to stop from breathing in dust and shit. Right.
+[42:15.900 --> 42:21.980]  I figured they were probably the first people to wear a bandana up over their nose to cover
+[42:21.980 --> 42:27.700]  their mouth, which got me thinking, who was the first guy? Because there must have been a first
+[42:27.700 --> 42:32.600]  guy who like put his bandana up with his buddy because they were going to go, you know, drive
+[42:32.600 --> 42:36.860]  right on down to the next town. And he goes, you know what, Steve, with that bandana up,
+[42:36.940 --> 42:42.340]  I you could be anybody. I couldn't tell who you were. If you went and robbed a bank right now,
+[42:42.340 --> 42:47.040]  nobody would know it was Steve. You're completely anonymous. And somebody was like,
+[42:47.380 --> 42:53.420]  that is true. With a bandana up over my nose, I'm anonymous. I can commit crimes. And then all
+[42:53.420 --> 42:57.120]  crimes were committed in the cowboy days by people who wore bandanas over their face.
+[42:57.320 --> 43:02.780]  So I wonder if the guy who invented bandana crime knows what he did going forward.
+[43:06.160 --> 43:09.160]  You think the bandana was the first face covering crime?
+[43:09.160 --> 43:14.600]  Might have been. That's interesting. Whether it was the first face cover crime or not,
+[43:14.640 --> 43:20.060]  there was a first person who said, I'm going to use it for this reason. And then let's be honest,
+[43:20.500 --> 43:25.680]  bandanas are iconic with robbing banks now, right? When I think of a bandana,
+[43:25.700 --> 43:32.820]  I think of a cowboy robbing a stagecoach or a bank. And that had to start somewhere.
+[43:33.400 --> 43:36.200]  It probably started with a cloth. Do you think there was intentionality
+[43:36.200 --> 43:42.080]  to it? Or do you think it was like, let's say a crew of four people. And one of them is like,
+[43:42.200 --> 43:47.520]  you see what you see? John is going to fucking wear his bandana. And that guy refuses to take
+[43:47.520 --> 43:52.140]  that bandana off. He thinks it's so cool. What an idiot. He looks so dumb. And then the three of
+[43:52.140 --> 43:56.900]  them get identified immediately. And nobody fucking knows who the fourth guy is. And then
+[43:56.900 --> 44:01.040]  that's the lightbulb moment. He's the guy who figured it out. He's like the wet bandits. He's
+[44:01.040 --> 44:05.840]  the bandana bandit. Yeah. It feels to me like a thing where it happened and then there was a
+[44:05.840 --> 44:10.740]  result and they went, oh, shit, we can use it like this, as opposed to someone being like,
+[44:10.780 --> 44:15.980]  I can cover. I'll be anonymous. I'll never arrest me. There was a moment, though. You're absolutely
+[44:15.980 --> 44:20.640]  right, Andrew. There was a lightbulb moment. For all I know, bandit is it comes from the word
+[44:20.640 --> 44:25.080]  bandana. Do you think there's ever been a police lineup where all five of the people in the lineup
+[44:25.080 --> 44:32.520]  are wearing bandanas? Oh, I guarantee. Yeah, absolutely. Let's try and identify. That's
+[44:32.520 --> 44:39.820]  funny. I never considered the bandana history, Geoff. Yeah, I got that. I got thinking about it
+[44:39.820 --> 44:43.460]  the other day and I just couldn't stop thinking about like that. Whoever that person was who was
+[44:43.460 --> 44:48.780]  like, I'm going to rob this fucking stagecoach and you'll never know it was me. I'll never
+[44:48.780 --> 44:52.320]  figure it out. Everybody's like, that's brilliant. I'm going to do that, too. I wonder if it created
+[44:52.320 --> 44:59.140]  criminals. I never would have done this in a million years, but now it's like people being
+[44:59.140 --> 45:05.440]  trolls on the Internet, like nobody's going to do it like that. Man, if only I could do this
+[45:05.440 --> 45:11.600]  anonymously, I would be the biggest son of a bitch. Wait a minute. Do you think there was like a
+[45:11.600 --> 45:17.180]  corner store where like they couldn't keep bandanas in stock? It's like, oh, I'm really worried about
+[45:17.180 --> 45:21.720]  what's going to happen in this town. These are flying off the shelf. Do you think anyone ever
+[45:21.720 --> 45:27.420]  robbed the store? They bought the bandana? Yeah. You know, there was a guy who was selling it to
+[45:27.420 --> 45:33.700]  who was like, I'm going to remember your face and then there's no fucking cameras. So he's like,
+[45:33.700 --> 45:38.620]  he's got his partner has to draw every person that comes in and buys a bandana just so they
+[45:38.620 --> 45:42.320]  have a record. He just draws everyone from the eyes to the top of the head.
+[45:44.540 --> 45:48.920]  I came up recently with what I think is going to be a good invention. This is probably some
+[45:48.920 --> 45:55.600]  lab work, but it's an advanced lab. Like I don't have these skills. Sure. But I feel like I'm at a
+[45:55.600 --> 46:02.080]  certain age. I'm of an age where this would come in handy. I want to place a little fist on
+[46:03.020 --> 46:09.080]  on like a bidet attachment. You know, when the thing comes out and it squirts water into your
+[46:09.080 --> 46:14.680]  anus. Yeah. I want just a little fist on the end of that to just knuckle the back of my balls a
+[46:14.680 --> 46:19.020]  little bit. I hate it. I hate everything you're saying. I didn't know. You said fists and I
+[46:19.020 --> 46:22.000]  didn't know where any of this was going. Yeah. I didn't think it was going to be that. I didn't
+[46:22.000 --> 46:27.980]  think you want to bolt like speed bag your sack. But can you explain that again so I make sure I
+[46:27.980 --> 46:33.140]  understand what you're saying? Well, sometimes when I stand up and I've done I've done a piss,
+[46:33.160 --> 46:37.620]  like if I sat down to pee and I stand up, sometimes it's just like a little in the pipes
+[46:37.620 --> 46:42.800]  and I've got to just move some stuff around to get all the drips out. And I feel like if that
+[46:42.800 --> 46:47.740]  was automated, that'd be real nice. That's going to be a that's a short term solution for a problem
+[46:47.740 --> 46:52.740]  that's only going to get worse as you age. There aren't enough little fists in the world to punch
+[46:52.740 --> 46:57.100]  your balls enough to get all the pee trapped in there. By the time you're like my age, dude,
+[46:57.140 --> 47:02.680]  it's just a constant dribble. It's like a it's like a it's like a fucking yard hose that won't
+[47:02.680 --> 47:08.000]  fully turn off. So you're just like constantly throughout the day leaking piss? Nah, but for
+[47:08.000 --> 47:13.080]  like maybe a minute, there's like a danger zone of like a minute after I pee where I have to like
+[47:13.080 --> 47:17.240]  think, like, do I need to go back to the bathroom and try again just in case? And there's all and if
+[47:17.240 --> 47:21.240]  I do, there's always a little bit more. And if I don't, I'm always like, well, change my pants.
+[47:21.340 --> 47:26.500]  Because for me, it's I'm only trapping piss when my balls are in hang mode. But whenever they're
+[47:27.220 --> 47:30.960]  lifted up again by the boxes, that's when the rest comes out. And I'm just sick of it.
+[47:31.340 --> 47:38.140]  I would say piss is the thing that changes the most with age. Honestly, I pee. I was thinking
+[47:38.140 --> 47:43.000]  about this the other day. I want to start recording it. I pee now like every one of my
+[47:43.000 --> 47:49.240]  pees is longer than my previous longest pee from my 20s or 30s. It's just like every time I piss,
+[47:49.280 --> 47:52.820]  it's like a camel now. I don't know where it comes from. I don't know why. It doesn't matter
+[47:52.820 --> 47:59.380]  if I pee twice a day or 18 times a day. And there's always just like, just like the dribbliest
+[47:59.380 --> 48:06.100]  of dribbles for a while. It's all and this is for every one of you dudes. It only gets worse. I don't
+[48:06.100 --> 48:12.180]  want to sugarcoat it for you because it definitely sucks. You're definitely not one to sugarcoat.
+[48:12.180 --> 48:18.480]  I'm at the point now where I would say maybe once every three weeks, I'm changing my boxes
+[48:18.480 --> 48:29.780]  after a piss. Oh, that's so funny. Enjoy it while you can. Oh, man. Maybe I need to do some, uh,
+[48:29.940 --> 48:35.340]  like, well, what's the clenchy thing that like... Kegels? Yeah. Maybe we need to do some of those
+[48:35.340 --> 48:39.280]  too. Oh, maybe. But yeah, at the moment I'm just having to get down there and sort of
+[48:39.760 --> 48:41.800]  nurse the balls around a little bit just to get it all out.
+[48:43.240 --> 48:45.720]  And I think if that was automated, it'd be phenomenal.
+[48:49.520 --> 48:52.420]  I think you should. I think you should try it. Would you use it, Geoff?
+[48:52.940 --> 48:56.740]  Yeah, I would definitely try it. I just I think that the whole point that I was trying to make
+[48:56.740 --> 49:03.880]  is that I think I'm beyond getting use out of it. Right. It's like it would maybe handle 20%
+[49:03.880 --> 49:08.340]  of the problem, but I still got to deal with the other 80% after, you know, but for the window that
+[49:08.340 --> 49:12.060]  you're in right now, I bet that would work very well. Yeah. Maybe it would do me for 10 years and
+[49:12.060 --> 49:18.020]  then I'm just beyond repair. I have a sole right idea for you, Geoff. I've been sitting on for a
+[49:18.020 --> 49:23.500]  while. OK, you'll like it. It's going to do some take some research. You've been talking, you know,
+[49:23.540 --> 49:29.760]  about all star players not playing and how much money they make in the NBA. I'd love to know
+[49:30.300 --> 49:35.800]  if there is a player that is making like 60 million and is just a bench player at this point.
+[49:36.240 --> 49:43.360]  If there is a time in the NBA's history in which him sitting as an individual is making more money
+[49:43.360 --> 49:50.340]  than the entire roster of a championship team and like the 70s or the like 60s. I don't think it
+[49:50.340 --> 49:54.500]  would have been in the 60s or the 70s because there weren't pay disparities like there are now. There
+[49:54.500 --> 49:58.740]  just wasn't money in the league like there is now. There'd be a much greater chance of it happening
+[49:58.740 --> 50:04.020]  in 2024 or 2025 than any other time, I'd say. No, I'm saying like if you take the roster of
+[50:04.020 --> 50:11.840]  every player from 1970 and you add it up, is it less than the amount that they're paying this one
+[50:11.840 --> 50:16.120]  guy to not play? Like every player in the league? No, every player on the team that won the
+[50:16.120 --> 50:21.720]  championship that year. So you take the roster of the winning team. I just the idea of that like,
+[50:21.820 --> 50:28.900]  yes, you're paying more to one guy to not play than a team paid all of their guys that won a
+[50:28.900 --> 50:33.300]  championship is very funny to me. I'm curious if that has ever happened. I guarantee you it
+[50:33.300 --> 50:37.480]  probably has. It has. But I'll look into it. I'll definitely look into it. You mentioned that and
+[50:37.480 --> 50:43.220]  there was like some big NBA news this week that kind of like I think it exploded to such a degree
+[50:43.220 --> 50:49.180]  that it was bigger than NBA. Like it was invading my wife's TikTok. And like I had to explain to
+[50:49.180 --> 50:52.220]  Vanessa what was going on. She's like, why am I getting inundated with this Luka Doncic shit,
+[50:52.300 --> 50:58.220]  you know? But there was a huge NBA trade this week where Luka Doncic was traded to the Los Angeles
+[50:58.220 --> 51:02.640]  Lakers for a guy named Anthony Davis and people are up in arms about it, myself included. But
+[51:02.640 --> 51:06.900]  what I want to talk to you guys about is when it happened Saturday night, kind of in the middle of
+[51:06.900 --> 51:12.300]  nowhere or out of the middle of nowhere, I was playing Call of Duty. And so I watched Sports
+[51:12.300 --> 51:16.620]  Center and I was like consuming all the media I could. And then I was just about to go to bed.
+[51:16.740 --> 51:22.540]  And at like 1.30 in the morning, I got an alert from my phone that there was an emergency Bill
+[51:22.540 --> 51:28.460]  Simmons podcast to discuss the Luka Doncic trade. And so I thought, oh, fuck, I got to stay up and
+[51:28.460 --> 51:32.360]  listen to this. This is what I've been waiting for. And then so from 1.30 to like 2.45 or whatever,
+[51:32.360 --> 51:37.600]  listen to that podcast and then I went to bed and that got me thinking we should do an emergency
+[51:37.600 --> 51:44.300]  podcast one day about something. I love it. Oh, preferably something we don't know anything
+[51:44.300 --> 51:48.560]  about. But yeah, like I just want us to have to do an emergency podcast one night where we all have
+[51:48.560 --> 51:53.900]  to get together at 1 a.m. and like and talk about it. You know, we should all install a siren in
+[51:53.900 --> 52:00.420]  our house that's linked to the same like button press. And if you hear the siren, you have to
+[52:00.420 --> 52:07.120]  start podcasting. We should be able to rig that up, right? I could rig it up. Yeah. Yeah. I take
+[52:07.120 --> 52:12.380]  Eric's silence to mean he's on board. Oh, you know, I'm I'm I'm for any good idea, guys.
+[52:13.140 --> 52:17.100]  I'm just trying to it would be. Take that how you will.
+[52:20.460 --> 52:28.180]  I wish that we were friends with like a Shands type person, like an insider, a sports insider
+[52:28.180 --> 52:35.520]  to be like when this trade happens, maybe like two seconds before you post about it. Hit this button.
+[52:36.020 --> 52:41.380]  Let us know. Have the light go off. Like I'm trying to figure out what would be the thing
+[52:41.380 --> 52:48.880]  that unites us for this emergency reaction. What's a fun emergency? Sports have fun emergencies.
+[52:50.140 --> 52:55.000]  There has to be other things that also have fun emergencies. What's the most fun emergency?
+[52:55.000 --> 53:00.640]  Like a surprise iPhone drop or something. Oh, you know, sometimes they're like,
+[53:00.700 --> 53:05.080]  and it's available right now. Yeah. But maybe for like something none of us follow.
+[53:05.460 --> 53:11.100]  Right. Yeah. It's got to be for something none of us follow. Yeah. That's a good thing to think
+[53:11.100 --> 53:15.500]  about. Something coming out would be cool. Like what if what if it was like, hey, Elder Scrolls
+[53:15.500 --> 53:21.500]  six came out? But we'll all know about that. Yeah. Or do you want to like the the emergency
+[53:21.500 --> 53:27.120]  aspect of it is, I don't think delivering on that. Yeah, I got to agree. It's just us
+[53:27.120 --> 53:30.300]  doing a recording about Elder Scrolls coming out when it comes out.
+[53:30.520 --> 53:36.320]  They're not opposed to, but if it came out now, like right this second, shouldn't we
+[53:36.320 --> 53:43.260]  start playing it? Yeah. If it's if it comes out as a surprise. I've played GTA five while this
+[53:43.260 --> 53:48.700]  podcast is happening. That game came out 10 years ago. I'm ready for a new release. What's funny is
+[53:48.700 --> 53:54.520]  I think the announcement for Elder Scrolls six between then and now is longer than when
+[53:54.520 --> 53:59.820]  Skyrim came out and that announcement. Jesus. Yeah. So all they really told us with that
+[53:59.820 --> 54:05.500]  announcement was that the number after five is six. That's all the information we got.
+[54:05.740 --> 54:12.620]  They clearly haven't didn't start working on it. Yeah. Yeah. Well, I think they planned on.
+[54:12.800 --> 54:18.580]  Yeah. It's a weird time over there. Starfield, I think, was going to have a lot longer of a
+[54:18.580 --> 54:24.120]  tale than I think it will end up having. Yeah, I agree with that. I need to play that DLC.
+[54:24.700 --> 54:28.560]  Really good first mission, that DLC. A lot of fun. We have this fucking deja vu.
+[54:28.700 --> 54:36.740]  Did we talk about this yesterday? Yep. Word for word. Oh, man. Anyway, I guess until we figure
+[54:36.740 --> 54:40.420]  out what it is, everybody just keep your eyes peeled for an emergency. And if anything pops
+[54:40.420 --> 54:44.460]  up and you're like, holy shit, that was unexpected, maybe we can assemble. I think
+[54:45.580 --> 54:48.380]  if you have a suggestion as a listener as well, please let us know.
+[54:48.580 --> 54:54.040]  This is like getting creative with it. Anything that we could have like a news alert for on a
+[54:54.040 --> 54:58.180]  phone would be ideal of just it pops and then we all have to go.
+[55:00.520 --> 55:05.220]  Gavin, you need to construct an alarm system or something because I have my alerts off at all
+[55:05.220 --> 55:10.340]  times. So I'm going to miss this emergency alert. Yeah. Is there a reason that you just never have
+[55:10.340 --> 55:17.600]  alerts on for anything? I just I don't really notice when it vibrates. I don't like the noise
+[55:17.600 --> 55:23.500]  my phone makes when it has an alert. Yeah, but do you not think that every every day where we're
+[55:23.500 --> 55:28.380]  like, hey, can we can we do this or can we change this? No, it's because the four of us all say
+[55:28.380 --> 55:33.320]  sure. And then you don't reply for 80 minutes. It's probably because I'm sleeping. If that
+[55:33.320 --> 55:40.820]  happens at like 2 p.m. Oh, if I'm sick. Yeah. I mean, I'm sick. Yeah. I mean, yeah. 2 p.m. here.
+[55:40.820 --> 55:48.060]  It's noon. What do you mean? What do you mean? Why? He sends us 80 percent of my slacks from
+[55:48.060 --> 55:55.260]  Andrew at five in the morning. Yeah. Like he keeps on hours. Sleep at night. I would love to.
+[55:56.700 --> 56:02.640]  He's great idea. Beat of his own drummer. Maybe when you injured your shoulder, was that in a
+[56:02.640 --> 56:09.000]  night's sleep or a day's sleep? It's a great question. I think I think it was like probably
+[56:09.000 --> 56:15.080]  10 p.m. It was a night's sleep. OK, man, if you if you wore an aura ring, it wouldn't know what
+[56:15.080 --> 56:28.800]  the fuck to do with you. Change everything. Stop whatever this is. The ring would be like
+[56:28.800 --> 56:34.280]  human malfunctioning. Please remove me. I can be of no help. We should get you in and see if you
+[56:34.280 --> 56:40.720]  could be the first person to score a one for asleep. Dude, I would love to see Andrew sleep
+[56:40.720 --> 56:48.700]  score. We'll do it. Let's get it. So you're saying that you have your alerts off because you don't
+[56:48.700 --> 56:56.200]  like when your alerts go off? Yeah. No one likes it. Yeah. I'm never like sick. Yeah. So turn it
+[56:56.200 --> 57:00.560]  off. They're called alerts. They alert you. They're not called feel goods. Like I check my
+[57:00.560 --> 57:07.140]  phone constantly. So I see you brought up that like I've been delayed. First of all, this is a
+[57:07.140 --> 57:12.700]  democracy of a company we have. You technically don't need my vote. Oh, there are things where
+[57:12.700 --> 57:16.800]  I'm not I'm not moving forward until I hear from everyone. We like to check in with you and make
+[57:16.800 --> 57:21.840]  sure you're good with tons of stuff. And sometimes we'll be talking in Slack. You'll be talking in
+[57:21.840 --> 57:26.640]  Slack. And then someone will ask a question about the schedule, like maybe 10 minutes later.
+[57:26.640 --> 57:31.400]  And we don't hear from you for like two hours. Yes, that it's that has been funny. And then
+[57:31.400 --> 57:34.600]  because then I'll get a text from Gavin and he'll just say, what happened?
+[57:35.140 --> 57:39.820]  It's also not always purely a yes or no. Sometimes your insights are invaluable.
+[57:40.460 --> 57:45.960]  Yeah. We'd like to see your opinion on stuff that you're even in. I just I want I want it noted
+[57:46.480 --> 57:52.300]  that the man that had two weeks to get squinkles is coming at me right now about me being timely.
+[57:53.220 --> 57:59.120]  He's got you. Damn, you just got squinked, bro. Dude, you really dropped the squink on that one,
+[57:59.240 --> 58:04.720]  Gavin. No, you squinked the ball. That's better. We film videos in the morning and then we film
+[58:04.720 --> 58:08.220]  the podcast much later in the afternoon. I assume I'm just going to go and get the squinks between
+[58:08.220 --> 58:14.080]  and you keep moving the podcast up. Step it on my screen time. Do it literally any other day
+[58:14.080 --> 58:17.980]  at any other time. I've got other stuff for other days. I'm doing other things. Oh my god,
+[58:17.980 --> 58:23.900]  you're not that busy. You said that when you have stuff going on, you're typically just at
+[58:23.900 --> 58:28.300]  the desk you're at right now. Yeah, I mean, I could have stopped editing Pineapple Donut and
+[58:28.300 --> 58:31.240]  gone and got squinks. But guess what? I was editing the video that comes out tomorrow.
+[58:31.460 --> 58:36.540]  You didn't even go to get squinks. I did, they weren't there. They didn't sell any.
+[58:39.310 --> 58:47.630]  I should have. We put out a video. You should have. Sometimes you're just wrong,
+[58:47.630 --> 58:50.770]  but I get to fight. I respect fighting and knowing internally you're wrong.
+[58:50.910 --> 58:56.190]  Look, I'm back to tomorrow's corner. Andrew, if the mind table is where it was last week,
+[58:56.270 --> 59:00.150]  where's the corner? I don't know how to answer that question. What do you mean?
+[59:04.270 --> 59:11.990]  I'm locked in on my sleep for a second. I got a call from Eric one day and I went, oh fuck,
+[59:12.390 --> 59:16.030]  what happened? And it was the day you guys were filming the agility thing.
+[59:16.430 --> 59:21.410]  And I was like, why did I get a call? I wonder what happened? What did I need? And then in the
+[59:21.410 --> 59:26.430]  video, you guys have a wheel and one of the things you talk about is call Andrew. And then
+[59:26.430 --> 59:32.730]  it's cut me getting called because I didn't answer and I assume it was nothing. But I spent at least
+[59:32.730 --> 59:37.010]  a week going, I wonder what the call was about? Because we never talked about it. I never asked.
+[59:37.710 --> 59:41.930]  I was curious. Did you see it in the moment and just decide not to answer it or you just missed
+[59:41.930 --> 59:47.130]  the call? I missed the call. Okay. But it was funny to watch the video and see you guys set
+[59:47.130 --> 59:52.710]  up a wheel and then the edit of like never calling me. But knowing the call happened,
+[59:53.070 --> 59:57.690]  it landed on me. I assume it was 30 seconds of silence. Yeah, absolutely.
+[59:59.410 --> 01:00:03.570]  But I felt like I had behind the scenes info when watching. It was nice. It was an exciting watch.
+[01:00:03.990 --> 01:00:08.110]  Great video. I'm excited to watch the pineapple. Oh, have you not seen it yet? Not yet. No,
+[01:00:08.110 --> 01:00:11.850]  I saw you dropped it in in the evening last night. I dropped it in. And there's a...
+[01:00:13.090 --> 01:00:17.710]  for those who've seen it or were about to watch it, there are moments where people just start
+[01:00:17.710 --> 01:00:21.150]  laughing at something that's happening off screen. And I assume that was me just bending
+[01:00:21.150 --> 01:00:25.990]  over to try and fart. We actually get one in the video towards the end. Yes, that's exactly what
+[01:00:25.990 --> 01:00:30.590]  that is. It is. It's very funny. It happened a couple of times. It's very funny every time.
+[01:00:30.770 --> 01:00:35.710]  There's also a moment I left in that I don't think is clear. It was kind of just an in-joke,
+[01:00:35.710 --> 01:00:39.810]  but Eric constantly bitches about Nick's ability to film the action. And he's apparently always
+[01:00:39.810 --> 01:00:44.530]  filming something else. So I spent a lot of that video just just filming the complete opposite
+[01:00:44.530 --> 01:00:48.470]  thing. And at one point, Eric's opening the fridge and saying, look at that. And I'm like
+[01:00:48.470 --> 01:00:52.470]  filming the fridge door and I'm filming all the other stuff in the fridge. And Eric gets mad.
+[01:00:52.870 --> 01:00:56.290]  It's a real mess. But it's not clear that's what I'm doing. So that was what I was doing in that
+[01:00:56.290 --> 01:01:00.650]  moment. Yeah, he has to cover up his inability to be able to film and be like, it was actually a bit
+[01:01:00.650 --> 01:01:03.910]  what I was doing was like a funny bit. If you thought that it was filmed bad, it was actually
+[01:01:03.910 --> 01:01:09.630]  funny and you should like it. The bit where the fridge was a bit, the bit where I was actually
+[01:01:09.630 --> 01:01:15.750]  filming the wrong thing while Geoff was eating, it was totally real. You see, it's easy to do.
+[01:01:16.110 --> 01:01:21.650]  My wife was so excited that call Barbara was one of the things on the wheel. She's like,
+[01:01:21.690 --> 01:01:26.230]  oh my God, that's awesome. And all of the comments are none of them are about my small
+[01:01:26.230 --> 01:01:33.430]  wife. All of them are about, oh my God, Bimmy Dunks coming into regulation. Morons!
+[01:01:38.970 --> 01:01:43.830]  That's great. This is a good episode. This is a really good episode. Yeah, I would, I'd put this
+[01:01:43.830 --> 01:01:50.210]  up there like eight. I feel good about like, yeah. I want to, if we do go and onion out the car,
+[01:01:51.130 --> 01:01:56.790]  you onioned your car out with two meals, right? A hot dog and a hamburger meal. Yeah. And they
+[01:01:56.790 --> 01:02:01.630]  both had onions. Yeah. We can make it worse if we four. So we could like quad quad up the onion
+[01:02:01.630 --> 01:02:07.230]  or double it from what you had. We can absolutely do that. Yeah. Interesting. Yeah. Well, if it's
+[01:02:07.230 --> 01:02:10.730]  not one for tomorrow, I think we should try that soon. If we can't do it tomorrow and I'm going to
+[01:02:10.730 --> 01:02:14.290]  guess we can't, let's do it next week. Let's just put it on the calendar sometime next week.
+[01:02:14.350 --> 01:02:21.390]  We can, we can schedule it Monday and uh, and make sure we do it. There you go.
+[01:02:24.530 --> 01:02:30.290]  Onion, onion chant. Oh, all right. Well, that's a, that's probably a pretty good place to stop
+[01:02:30.290 --> 01:02:39.050]  then. And uh, it's real strong ending guys. That was like watch, that was like watching Gavin after
+[01:02:39.050 --> 01:02:44.030]  he's had CPAP all night where it's just a fart that doesn't come. It just never, geez, man.
+[01:02:44.230 --> 01:02:49.090]  Are you still, so are you still CPAPing? Yeah. Are you, have you adjusted so you're not being
+[01:02:49.090 --> 01:02:53.790]  filled with air like a balloon? Uh, well I need to find the sweet spot still. Like I could turn
+[01:02:53.790 --> 01:02:59.290]  it down, but then, uh, I just have apnea through the machine. Like it's not powerful enough.
+[01:03:00.830 --> 01:03:08.110]  So I need to have it so it opens my nose, but not my throat. Okay. Okay. And sometimes if I get it,
+[01:03:08.190 --> 01:03:14.670]  if it's like just too weak, my, my nose like blows open and close like a, like a door in the wind.
+[01:03:14.670 --> 01:03:24.620]  It's like, I'll be, I'll be dreaming about something. And then suddenly I just hear like,
+[01:03:25.360 --> 01:03:46.840]  and it's just my nose flap getting rattled. I'm already, I'm already a massive disadvantage
+[01:03:46.840 --> 01:03:52.280]  because I, I, everything, everything in that industry comes in like small, medium, large,
+[01:03:52.280 --> 01:03:57.800]  and it's obviously the large doesn't work. I need to go online and find the secret menu option of
+[01:03:57.800 --> 01:04:03.680]  extra large for my nose. Otherwise nothing, nothing like my nose, nothing seals it. It's
+[01:04:03.680 --> 01:04:09.980]  just this gaping nostrils that can't close around anything. It's a nightmare. I might be the worst
+[01:04:09.980 --> 01:04:18.120]  CPAP user. Completely impossible. We could all have a go on it though.
+[01:04:20.340 --> 01:04:26.340]  I'll buy everyone a fresh attachment. Okay. In that case, yeah. And see if it fills you with
+[01:04:26.340 --> 01:04:31.580]  air. Maybe, maybe you should connect the CPAP to your ass and blow it out the other way.
+[01:04:32.920 --> 01:04:41.720]  All day long. Uh, well, um, don't forget this Friday. It's Gerpal time's day
+[01:04:41.720 --> 01:04:46.740]  at noon central time. We're going to be live on Twitch, twitch.tv slash the regulation pod
+[01:04:46.740 --> 01:04:51.180]  just before noon to celebrate the release of the Gerplers, the Koozlers, the two signs
+[01:04:51.180 --> 01:04:57.280]  and the reprint of the shirt. And you can celebrate by going to regulation store.com
+[01:04:57.280 --> 01:05:03.020]  or regulation store.store. Was that the other one? Yeah. I'm still not convinced I ever had
+[01:05:03.020 --> 01:05:08.800]  Geoff.sucks. That's insane. Oh, was it someone else? It had to have been. It was you. No,
+[01:05:08.820 --> 01:05:15.220]  it happened in the meeting. I'm so, I love, I love when Nick swoops in like this. It is.
+[01:05:15.220 --> 01:05:22.140]  Nick piped in from the background. Not even verified info. Yeah. It happens a lot. It happens
+[01:05:22.140 --> 01:05:26.760]  a lot in 100% Eat where he'll just go. Yeah. And then you don't know what he's talking about. He
+[01:05:26.760 --> 01:05:33.800]  said it's mostly, he says mostly verified. What percent certain are you, Nick? I am, uh, 75%.
+[01:05:33.800 --> 01:05:47.080]  Yeah. Also pretty wild that at the mind table, Nick was like as close as everyone else. Surely
+[01:05:47.080 --> 01:05:52.880]  Nick should be sat slightly further back from the mind table. Andrew. He's in an island of his own.
+[01:05:53.500 --> 01:05:57.700]  He's the furthest away from the table from everybody else. He did say that because of
+[01:05:57.700 --> 01:06:03.200]  the monkey mask. No, but he was the same distance from Geoff as Geoff from the table.
+[01:06:03.800 --> 01:06:08.600]  Well, in the way you drew it. Yeah. And you're drawing. No, it's not about the table. It's about
+[01:06:08.600 --> 01:06:16.500]  where we are at the table. What? So dude, we were wrapping up. We were wrapping up. We were about
+[01:06:16.500 --> 01:06:20.460]  to put this episode to bed. It was going to be done like three minutes ago. I don't want to go
+[01:06:20.460 --> 01:06:25.580]  anywhere. What the fuck are you talking about? Can you just draw the correct mind table then?
+[01:06:26.480 --> 01:06:30.900]  I'll put it together, but like, it's, it's, I mean, we were there. Sorry, man. We don't,
+[01:06:30.900 --> 01:06:37.640]  sorry. We don't want to tax you too hard, man. I really apologize for asking for clarification.
+[01:06:39.160 --> 01:06:42.320]  Some people drew their own great ones. It was just like, yeah, there's so many good ones. Someone
+[01:06:42.320 --> 01:06:47.240]  with headphones and then just us floating around. I'm such, I'm such a big fan of that one. I think
+[01:06:47.240 --> 01:06:54.100]  this is so, I think this is great. It's so funny. I think these mind tables are so good. Yeah. If
+[01:06:54.100 --> 01:06:59.060]  Andrew could draw, draw the accurate mind table and as well, put in the corner that I'm backed
+[01:06:59.060 --> 01:07:03.980]  into. He's going to draw. Well, everyone has to be sitting at the mind table. That's first of all,
+[01:07:04.380 --> 01:07:11.640]  everyone has to be at the table. Okay. So just give me a sec. Okay. I'm making a drawable
+[01:07:11.640 --> 01:07:18.800]  surface. No, no. Oh my God. What does that mean? He's turning, he's turning some, some papers of
+[01:07:18.800 --> 01:07:25.660]  trash into paper, or he just took a screenshot or an image that he's drawing all over like a JPEG.
+[01:07:25.660 --> 01:07:31.300]  Yeah. He's using the squinkles wrapper. It's a JPEG of like a receipt that he's drawing on
+[01:07:31.300 --> 01:07:38.320]  the bottom of in like paint. While he's preparing that, did everybody have their homework ready?
+[01:07:40.120 --> 01:07:47.780]  Yeah. What? What? We had homework from the last episode. I have squinkles. Andrew mentioned it
+[01:07:47.780 --> 01:07:50.200]  yesterday. And so I went and listened to the episode and he was right. We had homework.
+[01:07:50.820 --> 01:07:55.100]  Oh, what was it? Well, I don't want to, I just wanted to see if everybody had it ready so we
+[01:07:55.100 --> 01:08:01.900]  could dive into it after. I want to, I want to find out about this mind table first. Let me see
+[01:08:01.900 --> 01:08:07.560]  if I've done my homework. What could be homework around here? I don't know. Look on your floor
+[01:08:07.560 --> 01:08:15.480]  where all your important things are kept. I don't know. I was mostly just trying to create a layer
+[01:08:15.480 --> 01:08:19.360]  of unease while we're waiting for Andrew to finish. No, yeah, you did it. Yeah. Yeah. No,
+[01:08:19.400 --> 01:08:23.760]  you, you nailed it, buddy. I really appreciate that. Thank you. Okay. I got it. Did it. Okay.
+[01:08:23.760 --> 01:08:31.540]  Okay. I'm excited. Let's see it. Download photo. Save as J5th.
+[01:08:36.860 --> 01:08:43.040]  Okay, here we go. Here's the table. Now we all have to be sitting at the table.
+[01:08:43.840 --> 01:08:50.420]  You're an idiot. It does not say who's who. No. You're so stupid. You said it was a square.
+[01:08:50.420 --> 01:08:54.540]  And then you said that Geoff's at the head. Firstly, how could Geoff be at the head of a square?
+[01:08:54.800 --> 01:09:00.140]  And secondly, that's not a square, you idiot. Oh, one sec. Okay. Let me go back into the lab here.
+[01:09:02.320 --> 01:09:03.240]  That's a good point.
+[01:09:05.660 --> 01:09:08.140]  And what's that bit at the bottom? There's like a black line.
+[01:09:08.440 --> 01:09:11.380]  That was the thing that I drew over. I missed a little part of it.
+[01:09:14.240 --> 01:09:18.940]  You know, you can like go file new and you don't have to rub out what you've already drawn in paint.
+[01:09:19.520 --> 01:09:24.000]  Okay, well, this table's a little wonky because I'm I'm trying to speed through it.
+[01:09:24.640 --> 01:09:29.540]  It's a tool for drawing a square. There we go. Okay, here we go. This is a speed draw
+[01:09:30.060 --> 01:09:34.360]  version of it. Where did that photo come from? That's not I don't even know what that was that
+[01:09:34.360 --> 01:09:40.040]  just popped up on my screen. Here we go. Sounds like porn. No, it was like a bunch of drawings.
+[01:09:40.600 --> 01:09:46.440]  I wish I guess still could be porn, but it wasn't porn speed thing. So the square is not the best
+[01:09:46.440 --> 01:09:56.900]  square. Is that the Windows 95 logo? Says you can clearly see Nick's at the top the furthest
+[01:09:56.900 --> 01:10:02.880]  away from all of us, but he's still at the table. You can clearly see that's Nick, Gavin. What don't
+[01:10:02.880 --> 01:10:09.400]  you understand? This is you coming in being like, this is how it actually is. And it's so much worse
+[01:10:09.400 --> 01:10:14.600]  than mine. You threw it at me at the last second of this recording. That's fine. I did do that. I did
+[01:10:14.600 --> 01:10:19.700]  drop you in it. But that is a disgrace. Yeah, I'm not saying it's my best work. I never claimed that.
+[01:10:20.320 --> 01:10:25.840]  Why is it different from your other drawings? Because he wanted a square. But the sides are
+[01:10:25.840 --> 01:10:32.560]  different. Also, why is it flipped now? Yeah. So who's at the top? Who's at the bottom? Bottom is
+[01:10:32.560 --> 01:10:38.420]  Geoff. Top is Nick. I thought I was at the head. How can the head be the bottom? I thought I was
+[01:10:38.420 --> 01:10:44.580]  at the table. Why am I so far? How do you determine what the top of the table is? Andrew, on the
+[01:10:44.580 --> 01:10:48.820]  first drawing, there are two people on the left. On the second drawing, there are two people on
+[01:10:48.820 --> 01:11:01.260]  the right. So what is the top to you? That's a good point, I guess. Yeah. You know what? To say
+[01:11:01.260 --> 01:11:05.540]  my drawing was completely wrong based on his instructions, and then follow up with this is
+[01:11:05.540 --> 01:11:10.000]  how it is, and then draw two completely different things is absolutely unbelievable. I was just
+[01:11:10.000 --> 01:11:15.020]  thinking about, because we're looking at it from a top-down angle, if I walk into your room, I don't
+[01:11:15.020 --> 01:11:20.780]  know what the head of the table is. How do we know where the head is? You were the one telling us
+[01:11:20.780 --> 01:11:27.640]  that someone is at the head. No, I'm just curious. I'm asking you, in this picture, where is the head
+[01:11:27.640 --> 01:11:33.400]  of the table? It's in your mind you determine where the head is. It's at the bottom. It's at the
+[01:11:33.400 --> 01:11:38.840]  bottom. Okay, the head is the bottom in your mind. Yes. But that was just more of a general question,
+[01:11:38.840 --> 01:11:42.740]  because when you say the head of the table, you think of the top, because the head is on the top.
+[01:11:42.940 --> 01:11:49.320]  But how do you determine... The top, like the surface of the table. Who is you in the situation where
+[01:11:49.320 --> 01:11:56.920]  you're explaining this to us? Is you us, or is you you? Thanks for listening to the Regulation Podcast.
+[01:11:58.100 --> 01:12:00.740]  Like and subscribe. So many more questions than I had before.
+[01:12:02.620 --> 01:12:08.660]  We were gonna end like five minutes ago. We'll continue. This is absolutely crazy. We are going
+[01:12:09.320 --> 01:12:14.460]  straight into mind table in episode 41. We are not done with this. I was hoping to have something
+[01:12:14.460 --> 01:12:18.220]  that we could recreate in real life with a real square table. Yes. And I have like balloon people
+[01:12:18.220 --> 01:12:23.400]  to represent it. I would have no idea. It's like, it's because you would put two people on one side
+[01:12:23.400 --> 01:12:27.880]  and they would be on the wrong side, maybe? They would have to be on both sides simultaneously,
+[01:12:27.880 --> 01:12:32.060]  I guess. Yes, yeah. Does anyone have an actual answer to that? How do you know where the head
+[01:12:32.060 --> 01:12:37.980]  of the table is on a real table? It's the end. It's like a long rectangular table. There's the
+[01:12:37.980 --> 01:12:46.620]  two ends in it. So there are two heads? Yes. That's stupid. Well, I would say maybe one head.
+[01:12:47.360 --> 01:12:53.340]  Maybe the head is like opposite the door you came in. Oh yeah. Okay. I was just curious if we knew.
+[01:12:53.480 --> 01:12:56.840]  I didn't know that. Well, I don't know. I've always heard the expression like,
+[01:12:56.840 --> 01:13:01.480]  they're sitting at the head of the table. At a round or square table, the head seat
+[01:13:01.480 --> 01:13:06.980]  is wherever the host wants to sit, according to Google. Oh wow. This is like vintage.
+[01:13:07.500 --> 01:13:12.080]  Geoff's the host. Wait, so Andrew is saying that you've just heard it as an expression,
+[01:13:12.340 --> 01:13:16.860]  but you don't know what it is? I always assumed it was the person who was sitting at the end.
+[01:13:16.980 --> 01:13:20.920]  I feel like in mob movies, it's always... Even if you think they were sitting at the end,
+[01:13:20.920 --> 01:13:27.350]  how does a square have an end? How does a square have an end?
+[01:13:31.390 --> 01:13:37.290]  Well, there you go. Another awesome episode of the Regulation Podcast. This has been
+[01:13:37.290 --> 01:13:46.150]  episode 40. I want to say this puts us somewhere around 250 episodes or something. My slider is at
+[01:13:46.150 --> 01:13:53.290]  9.4. I really felt it this episode. The last probably 10 minutes of this really put it over
+[01:13:53.290 --> 01:13:57.910]  the top for me. I'll be honest. I took it down a little bit with that low energy ending that we
+[01:13:57.910 --> 01:14:04.150]  were doing, and then it totally rebounded. Kudos to Andrew and his mind table. I cannot wait to
+[01:14:04.150 --> 01:14:11.750]  sit at it again next week. With all of you, would we introduce to the world our gift to the universe?
+[01:14:11.870 --> 01:14:18.350]  Episode 41 of the Regulation Podcast. It'll be in a post-Gerbaltine's world. I can only imagine
+[01:14:18.350 --> 01:14:25.590]  that the sun shines a little bit brighter, the sky's a little bit bluer, the plants in the trees
+[01:14:25.590 --> 01:14:30.170]  are a little bit greener, and the air is a little bit crisper in a post-Gerbaltine's world. I can't
+[01:14:30.170 --> 01:14:33.250]  wait to see you there. Bye-bye, everybody. Love you, bye. Bye.

@@ -1,0 +1,1417 @@
+[00:00.000 --> 00:06.280]  Hello and welcome to the inaugural episode of a Regulation Sausage Talk.
+[00:07.060 --> 00:10.500]  This is kind of a carryover from the old podcast. Every once in a while,
+[00:10.940 --> 00:15.080]  we would do a little supplemental behind the scenes, peer behind the curtain,
+[00:15.580 --> 00:19.560]  appear through the sausage casing to the meat inside, if you will,
+[00:19.920 --> 00:24.860]  of the business that was F*** Face and is now the Regulation Podcast.
+[00:25.760 --> 00:28.560]  We figured it was probably time to sit down with y'all and kind of give a state of
+[00:28.560 --> 00:32.020]  affairs. We're... how far into this company now? Two months?
+[00:32.060 --> 00:32.740]  About three months.
+[00:33.220 --> 00:36.680]  Three months? Ten episodes in, I think, have come out as of the recording?
+[00:38.060 --> 00:43.580]  Yeah, three months. I'm bad at that. Never mind. Why am I saying that? I'm bad. I always get...
+[00:43.580 --> 00:44.540]  my brain gets scripted up.
+[00:44.780 --> 00:50.240]  Hey, guys, it's been exactly two months on the date of this recording that we have gone live.
+[00:50.240 --> 00:51.580]  We started in May.
+[00:51.720 --> 00:53.300]  I mean, I just don't get...
+[00:53.300 --> 00:55.000]  May, June, July are three months.
+[00:55.000 --> 00:59.920]  There's a date, like, exactly associated with... like, there's a date where it occurred.
+[01:01.420 --> 01:04.400]  I just don't... like, I... do you know when your birthday is?
+[01:04.500 --> 01:07.800]  Like, do you think that fluctuates? Like, it's a date that it happened.
+[01:08.440 --> 01:11.360]  Yeah, but it's three months. But it's two months.
+[01:11.800 --> 01:14.280]  What do you mean? Why do you keep saying three months?
+[01:14.480 --> 01:15.680]  Because we started in May.
+[01:16.440 --> 01:16.760]  Okay.
+[01:17.100 --> 01:18.220]  May was two months ago.
+[01:18.740 --> 01:23.640]  Yeah. Hey, Gavin, in fact, it was exactly two months ago from the date of this recording
+[01:23.640 --> 01:24.980]  when it all happened.
+[01:25.000 --> 01:26.380]  Andrew, I'm going to help you out.
+[01:26.500 --> 01:27.760]  I'm going to... we're going to get this real simple.
+[01:27.960 --> 01:30.460]  And everybody at home, listen along if you're confused as well.
+[01:31.340 --> 01:34.080]  May 10th, Rooster Teeth ended, and this company began.
+[01:34.440 --> 01:35.120]  Yeah, it's my birthday.
+[01:35.680 --> 01:36.300]  May 10th...
+[01:36.300 --> 01:36.620]  Happy birthday.
+[01:36.880 --> 01:37.280]  Happy birthday.
+[01:37.620 --> 01:41.240]  May 10th to June 10th, that was one month, right?
+[01:41.320 --> 01:43.040]  Okay, I'm with you so far.
+[01:43.420 --> 01:48.380]  Then from June 10th to July 10th, which is today, is one additional month.
+[01:48.440 --> 01:48.840]  That's two months.
+[01:49.180 --> 01:53.700]  It crosses over three-month names, but it's only been two months.
+[01:53.940 --> 01:54.500]  You lost me.
+[01:55.000 --> 01:57.460]  We've been doing this for three months.
+[01:57.960 --> 01:59.520]  We've not been doing this for three months.
+[01:59.620 --> 02:00.500]  We've been doing this for two months.
+[02:00.860 --> 02:02.880]  We've done this across three months.
+[02:03.460 --> 02:04.820]  This is... shut up.
+[02:04.920 --> 02:06.120]  Just say, you know what, I was wrong.
+[02:06.120 --> 02:06.820]  May 2nd, July.
+[02:07.260 --> 02:09.440]  No, no, no.
+[02:09.900 --> 02:11.580]  So we started the business together.
+[02:11.840 --> 02:15.000]  As you know, Rooster Teeth went under, and we...
+[02:15.920 --> 02:20.440]  Yeah, you may or may not have heard, but Rooster Teeth, in fact, closed down.
+[02:21.120 --> 02:24.120]  We knew that this was a possibility for a long time.
+[02:24.120 --> 02:28.940]  I think anybody who works in entertainment has to build contingency plans,
+[02:29.620 --> 02:32.400]  because that's just the way this world works, unfortunately.
+[02:32.600 --> 02:33.780]  The entertainment industry works.
+[02:34.080 --> 02:38.280]  And so we had been in discussions privately for a long time about, you know,
+[02:38.580 --> 02:41.540]  if something were ever to happen and Rooster Teeth was no more,
+[02:41.900 --> 02:42.640]  what would we do?
+[02:42.720 --> 02:43.820]  Would we want to continue?
+[02:43.920 --> 02:48.400]  And I think we weren't planning for it, but we wanted to make sure we were all on the same page.
+[02:48.580 --> 02:51.740]  And so when we did, in fact, in, I think, March,
+[02:51.740 --> 02:59.380]  find out that Rooster Teeth was shuttering and all of our content would be closed down, I guess,
+[03:01.300 --> 03:02.760]  it was a shock.
+[03:02.940 --> 03:05.080]  But we kind of basically just said,
+[03:05.180 --> 03:06.720]  OK, well, we knew this was a possibility.
+[03:07.120 --> 03:08.940]  We know we want to continue working together.
+[03:09.680 --> 03:10.520]  What does that look like?
+[03:10.560 --> 03:11.300]  Let's get started.
+[03:11.380 --> 03:13.920]  And we put our heads down and we started busting our ass.
+[03:14.160 --> 03:20.460]  And I think the day Rooster Teeth ended was the day this company began.
+[03:20.460 --> 03:23.740]  And if you've ever started a company, you know it's a lot of work.
+[03:23.980 --> 03:25.780]  It's a hell of a lot of work to do in two months.
+[03:26.100 --> 03:29.340]  It's even more work to do when you're ending another company at the same time.
+[03:29.520 --> 03:32.780]  So it was frustrating and it required us to do all the things
+[03:32.780 --> 03:38.760]  that one does to start a business from getting a tax identification number,
+[03:39.160 --> 03:43.600]  and filing as a corporation with the United States government,
+[03:43.740 --> 03:44.980]  and getting the name wrong,
+[03:45.080 --> 03:48.060]  and having to file to get the name corrected with the United States government,
+[03:48.060 --> 03:52.080]  which alone can set everything back two and a half weeks, just so you know.
+[03:52.860 --> 03:54.480]  And getting bank accounts.
+[03:54.800 --> 03:56.880]  And deciding the president and the secretary.
+[03:57.260 --> 03:59.740]  Deciding the president of the company, which we had to do.
+[04:00.020 --> 04:00.560]  And the secretary.
+[04:00.800 --> 04:05.300]  We have like a 45-page article of incorporation that I don't understand any of it.
+[04:05.340 --> 04:10.080]  But I know that we're all in a business, equal partners, running this company together.
+[04:10.720 --> 04:12.960]  This regulation company together.
+[04:12.960 --> 04:19.720]  That's job is to produce this podcast and all of the supplemental content that surrounds it.
+[04:19.760 --> 04:22.400]  Is that a pretty good summarization of what we've been doing for the last two months?
+[04:22.680 --> 04:23.320]  Or how we got here?
+[04:23.440 --> 04:23.740]  I would agree.
+[04:24.180 --> 04:26.380]  Yeah, it's a good three-month summary. Yeah.
+[04:26.760 --> 04:26.980]  Yeah.
+[04:27.240 --> 04:27.700]  Thank you.
+[04:27.760 --> 04:32.700]  Those months between March and May, like finding out it was ending and it ending,
+[04:33.000 --> 04:34.520]  that somehow felt like six months.
+[04:34.940 --> 04:37.960]  That was like saying goodbye to everyone for like two straight months.
+[04:38.240 --> 04:38.900]  Holy shit.
+[04:39.340 --> 04:41.900]  It was seeing people that I hadn't seen in a long time
+[04:41.900 --> 04:45.540]  at the office that we were going to infrequently after COVID.
+[04:45.740 --> 04:49.360]  And then saying goodbye every day for 60 days.
+[04:49.620 --> 04:51.340]  Yeah, you started after a while.
+[04:51.400 --> 04:53.020]  You'd be like, would you fucking can we leave already?
+[04:53.140 --> 04:54.020]  Jesus is kidding.
+[04:54.600 --> 04:56.600]  I said goodbye to you eight times.
+[04:57.000 --> 05:00.900]  As someone who works remote, maybe I had a little bit different of experience where
+[05:00.900 --> 05:04.200]  two months felt like, oh, that's so far away.
+[05:04.300 --> 05:05.920]  And then one month happened.
+[05:06.020 --> 05:09.900]  And I went, holy shit, this is like once the one month crossed.
+[05:09.900 --> 05:11.900]  It was like, this feels like it's going to end tomorrow.
+[05:12.200 --> 05:12.840]  This is insane.
+[05:13.300 --> 05:16.760]  I had a moment like that with Eric where we planned out like,
+[05:16.860 --> 05:20.940]  these are all the things we're going to have to get done over the next 60 days.
+[05:21.200 --> 05:22.640]  And you start to portion it out and be like,
+[05:22.660 --> 05:23.840]  well, we don't have to worry about that right now.
+[05:23.960 --> 05:25.040]  And then everything else is going on.
+[05:25.160 --> 05:29.800]  Also, ending the other company is a lot of work because they basically came to us and said,
+[05:29.900 --> 05:33.360]  anything that doesn't have an ad sold on it, you guys don't have to do.
+[05:33.560 --> 05:34.140]  We get it.
+[05:34.220 --> 05:35.020]  The company's ending.
+[05:35.600 --> 05:37.680]  If you don't want to continue doing F*** Face,
+[05:38.280 --> 05:40.240]  well, F*** Face had an ad sold, so we would have had to.
+[05:40.300 --> 05:41.880]  But if you don't want to continue doing Let's Plays,
+[05:42.040 --> 05:43.920]  or if you don't want to continue doing this supplemental content,
+[05:44.000 --> 05:46.040]  or if you don't want to wrap this stuff up, you really don't have to.
+[05:46.420 --> 05:46.620]  But we...
+[05:47.380 --> 05:49.340]  I was just going to say, it's so funny you just bring that.
+[05:49.480 --> 05:50.700]  We were so far ahead in Let's Play,
+[05:50.960 --> 05:53.760]  we only needed to record like two or three videos to...
+[05:53.760 --> 05:54.840]  Yeah, that's true.
+[05:55.080 --> 05:58.260]  It definitely helped that we, you know, we tried our best to stay ahead.
+[05:58.740 --> 06:01.800]  But we wanted to end strong and we wanted to do...
+[06:01.800 --> 06:08.920]  to give, I guess, the amount of respect to the product and the production in the company.
+[06:09.240 --> 06:11.260]  So we did a lot of work at the end there.
+[06:11.360 --> 06:16.360]  In addition to like, you know, the nuts and bolts of dismantling a company and like
+[06:16.360 --> 06:19.780]  f***ing cleaning out your desk with a cardboard box.
+[06:19.900 --> 06:22.000]  And our desks had a lot of cardboard boxes.
+[06:22.420 --> 06:27.220]  And f***ing all kinds of F*** Face nonsense that we had to figure out what to do with.
+[06:27.540 --> 06:28.980]  Porta-potties and whatnot.
+[06:28.980 --> 06:33.620]  Um, but, you know, everybody also was trying to figure out their own personal life too.
+[06:33.720 --> 06:38.240]  Like some of us sold houses and moved across town, you know, at the same time.
+[06:38.380 --> 06:40.480]  So I remember there was a conversation where Eric and I were like,
+[06:41.000 --> 06:44.060]  we about the same time you said, Andrew, about a month in where we realized,
+[06:44.260 --> 06:46.120]  oh my God, time has evaporated.
+[06:46.220 --> 06:47.760]  How the f*** are we going to get all this done?
+[06:48.040 --> 06:49.060]  Where did it go?
+[06:49.320 --> 06:50.420]  Two months, my ass.
+[06:50.600 --> 06:54.900]  And I, and it's been, I think since that conversation, I've just been running full speed.
+[06:55.400 --> 06:56.640]  It absolutely has felt that way.
+[06:56.640 --> 07:01.440]  There was a great moment where we rented a U-Haul to like take some of the bigger stuff.
+[07:02.160 --> 07:08.460]  And, um, this really nice fan of Rooster Teeth had showed up and set up a little sign on the
+[07:08.460 --> 07:12.860]  entrance that just said, you know, thanks for everything Rooster Teeth or like goodbye Rooster
+[07:12.860 --> 07:13.500]  Teeth or something like that.
+[07:13.940 --> 07:14.680]  Sweetest guy.
+[07:15.100 --> 07:15.700]  It was weird.
+[07:15.780 --> 07:21.860]  Like in full view of this person, all of us show up and put a pink porta-potty into the U-Haul
+[07:21.860 --> 07:25.880]  and then drive away, just waving at this guy like thanks so much.
+[07:26.160 --> 07:28.260]  It was like a really like sweet moment. I thought it was funny.
+[07:28.540 --> 07:30.380]  It was really sweet and very surreal.
+[07:30.680 --> 07:31.700]  Yeah. It was bizarre.
+[07:31.980 --> 07:35.320]  We just drive away into the sunset with our giant pink porta-potty.
+[07:35.860 --> 07:40.340]  I like that it wasn't like, it wasn't that we just assigned someone to go and take that
+[07:40.340 --> 07:46.900]  somewhere else. It was literally you, me, and Eric just trying to put this thing into the van.
+[07:47.180 --> 07:48.860]  There was like no one to help. Everyone was so busy.
+[07:49.320 --> 07:51.220]  That's what this company is though.
+[07:51.220 --> 07:56.120]  It's the five of us doing everything. And that's what I want it to be.
+[07:56.400 --> 08:01.060]  And maybe we should talk about that for a little bit because we were born out of the ashes of a
+[08:01.060 --> 08:06.820]  very successful previous production that we were all fortunate enough to get to participate in that
+[08:06.820 --> 08:15.560]  success. But I'll be honest with you, the company outgrew my comfort level early on. I have talked
+[08:15.560 --> 08:19.300]  many times about how I wanted to stay in the spare bedroom. I never wanted to leave it.
+[08:19.300 --> 08:25.840]  And every successive production I did, I tried to make a new bedroom, but I tried to make it
+[08:25.840 --> 08:33.480]  even smaller. A lot of bloat in those bedrooms as time goes on. And so that's essentially what
+[08:33.480 --> 08:40.400]  we have crafted here, that we are a five-person unit. We're going to hire a CPA. We're not going
+[08:40.400 --> 08:45.520]  to do our own taxes. And we're contracting out editors. And we hired Michelle to do our logo,
+[08:46.060 --> 08:50.560]  who did the Face logo as well. We're still working with other people, but the company is the five of
+[08:50.560 --> 08:57.540]  us and we're doing everything. From running the business, to editing, to posting socials,
+[08:57.560 --> 09:05.300]  to thumbnails, to the entire thing is the five of us. And I couldn't... I don't know about you guys,
+[09:05.520 --> 09:12.200]  I keep waiting for it to be scary, but it's not. I couldn't be happier. I couldn't feel more
+[09:12.200 --> 09:17.660]  comfortable with where we are. I couldn't feel better about the support from the audience and
+[09:17.660 --> 09:25.920]  how much they have showered us with love and support that has really helped turn us into,
+[09:26.080 --> 09:31.720]  overnight, a functioning company. A legitimate functioning company.
+[09:32.200 --> 09:39.680]  I couldn't imagine the launch being... pursuing beyond the launch without the level of support
+[09:39.680 --> 09:45.940]  we had. It was so... just having that encouragement, because as you said, it was such an exhausting
+[09:45.940 --> 09:52.380]  road to get to that point. And I feel like we are just now kind of getting our feet under us
+[09:52.380 --> 09:57.080]  in a way that's really exciting. Where that support has enabled us to bring in editors
+[09:57.620 --> 10:04.520]  on a contractual basis to make a different variety of content, or content that we're excited about
+[10:04.520 --> 10:08.640]  and we think our audience and community will be excited about, that we just wouldn't be
+[10:08.640 --> 10:17.700]  enabled to make without that support. So beyond just the personal gust of momentum that the
+[10:17.700 --> 10:25.020]  enthusiasm our community has given us, it has also enabled our content to, I think, be better
+[10:25.020 --> 10:29.980]  in ways that it couldn't be without that support. So it's so many levels of appreciation.
+[10:30.360 --> 10:35.180]  The support has helped us ramp up back to what we were doing so much faster than
+[10:35.180 --> 10:39.540]  if we had to do it ourselves. We're already talking about adding in a second
+[10:40.120 --> 10:45.280]  gameplay day upload every week, just because we're so excited about making content that's like,
+[10:45.340 --> 10:49.180]  we're so far ahead, there's not enough days to actually put the stuff out.
+[10:49.480 --> 10:56.060]  Which is crazy when you think about how it costs money to start this company and to do things and
+[10:56.060 --> 11:04.640]  to acquire F*** Face as a brand. We started pretty massively in the negative when we started. And so
+[11:04.640 --> 11:10.740]  being in a position where we feel we're able to bring on additional help is amazing. And we're
+[11:10.740 --> 11:15.060]  so appreciative of the support that we've had. Yeah, it was immediate like heartwarming relief
+[11:15.060 --> 11:19.420]  on that first day, I feel like. Yeah. And I think I feel like we've talked about this maybe in the
+[11:19.420 --> 11:23.480]  early regulation episodes, but we were able to acquire F*** Face. We were able to buy that.
+[11:24.040 --> 11:27.540]  But we were not able to acquire Let's Play, which is why we don't have it. That was way too
+[11:27.540 --> 11:34.360]  expensive. We kind of shot ourselves in the foot with Let's Play because we took it over and made
+[11:35.320 --> 11:41.020]  profitable for the first time in a long time, really quickly and gave it value. And then
+[11:41.020 --> 11:44.520]  Warner Brothers looked at it and said, oh, this is valuable now. We want a lot of money for it.
+[11:44.520 --> 11:48.840]  And we went, ah, God damn it. Yeah. Just for the sheer amount of videos on that channel.
+[11:49.200 --> 11:53.140]  Yeah. We re-energized it to the point where it really took off again.
+[11:53.480 --> 11:57.040]  Yeah. It was tremendous back catalog on that thing. But that's OK because, you know,
+[11:57.040 --> 12:01.180]  we have our new gameplay YouTube channel, the Regulation Gameplay, and that's off to a phenomenal
+[12:01.180 --> 12:08.400]  start as well. And it's amazing. We're at that period where the episodes are getting more views
+[12:08.400 --> 12:14.480]  than we have subscribers, which is great to see, you know? Oh, that's true. Yeah. Yeah. That's a
+[12:14.480 --> 12:22.160]  really good point. It won't be that way forever. Definitely. Enjoy it while you can. But yeah,
+[12:22.200 --> 12:27.120]  I'm really glad you said that thing, Gavin, because I think that is the real, the key,
+[12:27.120 --> 12:31.240]  I guess, point I want to emphasize in this Sausage Talk to the audience,
+[12:31.380 --> 12:37.240]  amongst all the other points, is that their support from day one allowed us not only to
+[12:37.240 --> 12:41.800]  survive, but to grow, like you said, so much faster. I had a rough outline in my head. I
+[12:41.800 --> 12:47.160]  talked about it with you guys a little bit. I was hoping that we would get back to essentially where
+[12:47.160 --> 12:52.440]  we were the day before we found out Rooster Teeth was shutting down, which is, you know,
+[12:52.960 --> 13:00.520]  Face was at an all-time high as an entity. We were humming. And that's part of what sucked
+[13:00.520 --> 13:04.940]  so badly about getting the rug pulled out from under us is we knew we could get up to that point
+[13:04.940 --> 13:09.320]  again, but it was going to be a lot of work to get to that point. I thought it would take us,
+[13:11.160 --> 13:15.200]  optimistically, I thought it would take us six months to get up to where we're releasing the
+[13:15.200 --> 13:21.340]  amount of content and it's of the quality and in the same vein as where we were at that moment.
+[13:21.340 --> 13:26.000]  And I think we're there now. We're damn near there now if we're not there now, but we're going
+[13:26.000 --> 13:33.820]  to surpass it in a month or two, maybe. And that's because of just like, I cannot state it enough.
+[13:34.160 --> 13:40.720]  The audience has been so wonderful and to support us to such a degree that it's, I just, I can't
+[13:40.720 --> 13:47.180]  believe we're able to create the content that we're creating so early and so plentifully.
+[13:47.180 --> 13:52.340]  And it's such an indescribably good feeling to be at the helm of something that people are excited
+[13:52.340 --> 13:57.000]  about, like people looking forward to the episode each week. I like that we can hop into a game,
+[13:57.040 --> 14:01.700]  even if it's one that's, you know, 15 years old and churn out something that makes people
+[14:02.280 --> 14:06.460]  like tear up laughing. It's just such an exciting feeling that we have the ability to do that. And
+[14:06.460 --> 14:12.460]  that's our job. Yeah. Yeah. It's the best feeling in the world. It is tough to vocalize how many,
+[14:12.460 --> 14:18.940]  I will have at least six moments a day of just being, this is, I'm so thankful for our community
+[14:18.940 --> 14:26.360]  and our ability to continue to do this outside of Rooster Teeth. It is insane that I get to spend
+[14:26.360 --> 14:33.540]  all of this time making stuff I'm super excited about with people I love. And it's an indescribable
+[14:33.540 --> 14:39.280]  joy. There is something I'm quite thankful for with this company of these five people in that
+[14:39.280 --> 14:44.260]  when something lands on our plate, there's always someone who's happy to take it. Like we've all,
+[14:45.020 --> 14:49.120]  you know, stepped up beyond what we used to do to take care of things that aren't necessarily
+[14:49.700 --> 14:54.220]  our strength, but we end up, everything's handled and there's enough eyes on it where
+[14:54.220 --> 14:59.400]  not a lot of stuff is falling through the cracks. And I think that is one of the benefits of a
+[14:59.400 --> 15:03.700]  small team. Like when, if there was 50 of us, there would be, that sounds wrong, but there'd
+[15:03.700 --> 15:08.700]  be more that would fall through the cracks. I think. We joke about it, but the democratic process
+[15:08.700 --> 15:14.980]  with five is great. If like there's an issue, it's such an easy, we're all in agreement of
+[15:14.980 --> 15:21.400]  majority rules on choices, no hard feelings. I mean, it's just, it's the movement is constant
+[15:21.400 --> 15:28.980]  and there isn't that sludge of like trying to work through any decision. Yeah. That's a great
+[15:28.980 --> 15:35.060]  point, Andrew. There is the, the voting system, not that we often come, you know, find ourselves
+[15:35.060 --> 15:44.160]  very rare at ends. But the voting system just allows us to blow through stuff really quickly,
+[15:44.160 --> 15:48.020]  that could just, that you, like you said, could bog you down for a while. And that's,
+[15:48.120 --> 15:55.220]  I really do appreciate that. And, and to Gavin's point, the other, the nice thing about it is,
+[15:55.300 --> 15:58.140]  you know, just everybody's willing, more than willing to jump in and excited to jump in.
+[15:58.320 --> 16:02.640]  We're at that point, that sweet spot in a company. And I've talked about the, how the opposite is
+[16:02.640 --> 16:07.520]  good. Like when I turned the store over to Emily McBride and she was so much better than I was.
+[16:07.580 --> 16:12.060]  And I realized that being a jack of all trades has definitely limitations, but we're all the, the,
+[16:12.120 --> 16:17.940]  the point where we are right now is I feel like everybody is touching everything. And when that
+[16:17.940 --> 16:25.500]  happens, it just creates a cohesion with everything that we make. You know what I mean? And that's,
+[16:26.220 --> 16:33.400]  that can only happen when you're this size. Totally. And beyond us is, I just wanted to say,
+[16:33.460 --> 16:38.280]  you know, if us like launching everything, how appreciative I am of the mods on like our discord
+[16:38.280 --> 16:46.940]  and whatnot and how they have been so unbelievably helpful and sort of this process of enabling us
+[16:46.940 --> 16:53.480]  to do stuff in that discord space. And just, I couldn't imagine that side of it without their
+[16:53.480 --> 16:59.820]  support. So I, and we all are, I believe, I'm incredibly thankful. I also love the fact that
+[16:59.820 --> 17:03.940]  there's a lot of content we're making. It feels like people are going to like it because I'm
+[17:03.940 --> 17:09.080]  excited to proof them. Like when something is posted to our QC channel and it's like, Oh,
+[17:09.100 --> 17:14.460]  here's chained together or here's like the GTA traffic thing. I'm really excited to watch it again,
+[17:14.460 --> 17:20.520]  even if I was in it, which I had lost over the years where in other game plays, I'd maybe just
+[17:21.140 --> 17:25.560]  experiencing it in real life was enough for me. Yeah. Yeah. I completely agree. I watched the,
+[17:25.700 --> 17:30.620]  um, the traffic thing in GTA twice and I would never do that. Yeah. I was so excited to watch
+[17:30.620 --> 17:35.520]  it that I just edited it really quickly after we did it. I was like, I just want to, that was so
+[17:35.520 --> 17:40.620]  fun. What's taking this editor so long? I gotta watch this fucking video. Uh, but maybe we should
+[17:40.620 --> 17:44.480]  talk for a second about what the business is. So the businesses, the regulation company is,
+[17:44.560 --> 17:48.880]  it is a Patreon. Uh, that's where we, uh, are, are, that's where it's, that's, what's mostly
+[17:48.880 --> 17:54.200]  funding what we're doing here. It's also, you know, we do have ads on the podcast. That's a
+[17:54.200 --> 18:01.460]  source of revenue and we have, uh, revenue from YouTube. That's a source of revenue. And then the
+[18:01.460 --> 18:05.740]  other piece to that would be merchandise that doesn't exist yet. And we can talk about that,
+[18:05.780 --> 18:11.160]  but that's, uh, that's like the four prongs of our company, I guess. And that's, uh, that's
+[18:11.160 --> 18:15.960]  essentially what it boils down to. Um, I know people used to always like when Bernie would give
+[18:15.960 --> 18:20.140]  the talks about like how Rooster Teeth makes its money and what are like the six pools and all that
+[18:20.140 --> 18:26.420]  shit. But that's what it is for us. It's Patreon. It's going to be merch. It's YouTube, uh, ad
+[18:26.420 --> 18:34.320]  revenue and it's, um, ad revenue. D-D-I-A or D-A-I as they call it. And, um, direct read. As we,
+[18:34.440 --> 18:39.820]  as we grow. Just touching on the ads for a minute, it's another great thing about us having full
+[18:39.820 --> 18:46.140]  control and whatnot is when we're setting up the ads, it was so cool to see all of the brands
+[18:46.140 --> 18:51.740]  that sort of we had the ability to work with and being able to choose stuff we wouldn't want to do
+[18:51.740 --> 18:57.300]  or things that we would no longer be interested in that don't necessarily reflect, you know,
+[18:57.360 --> 19:01.560]  and for Rooster Teeth stuff. And this is not, you know, it's just how the business operates.
+[19:01.840 --> 19:07.420]  We didn't have the same level of control of, I don't want to partner with this company.
+[19:07.960 --> 19:12.860]  You, you, ultimately you did, but it's harder to say no in that environment. I'll say that.
+[19:13.360 --> 19:16.020]  Sure. Okay. Well, I didn't feel like I did in that environment.
+[19:16.400 --> 19:20.760]  Yeah. So maybe, maybe sometimes you didn't, but it was pretty hard. It was,
+[19:20.820 --> 19:23.460]  it can be pretty hard to say no, especially when the company was struggling.
+[19:23.960 --> 19:29.940]  Sure. And if I did, I would then have to like, this is a thing we would all have to first degree.
+[19:30.080 --> 19:33.120]  Then we'd have to bring it to someone. And then there'd be a meeting about like,
+[19:33.120 --> 19:39.480]  there'd just be so many hoops to get there to essentially have the company agreed to take a
+[19:39.480 --> 19:44.580]  loss, like, cause there'd be no reason for us to not do it from a term, in terms of financial.
+[19:44.900 --> 19:49.540]  Cause like we would make more money to do it. It's just, we don't necessarily feel we reflect
+[19:49.540 --> 19:54.660]  with some of the things that this company may be involved in. So to be able to just from the
+[19:54.660 --> 19:59.760]  start, say like, ah, I don't, even though we can make money this way. And that has been another
+[19:59.760 --> 20:04.440]  amazing thing of how we've been supported by the community is being able to say, we don't,
+[20:04.440 --> 20:08.360]  we don't need to make the most amount of money at all times. We're more concerned about
+[20:08.360 --> 20:13.940]  serving our community in a way that is meaningful to us and that we think would be of interest to
+[20:13.940 --> 20:18.240]  them. And that feels like to me, one of the main reasons we haven't jumped back into everything
+[20:18.240 --> 20:22.960]  at once, like hopping straight into merch and stuff is that we do need to make sure that because
+[20:22.960 --> 20:28.820]  there's no staff and it's just us, we don't lose focus on the most important thing the company
+[20:28.820 --> 20:33.880]  does, which is the podcast. Yeah. The podcast is the thing that we do the best and merch would be
+[20:33.880 --> 20:40.980]  the thing that we, I guess, would manage the worst. Um, for sure. I mean, you're, you're
+[20:40.980 --> 20:46.620]  absolutely right. You're 100% right. Even with our experience, you know, um, over the years,
+[20:46.660 --> 20:52.740]  but I will say that merch to me is such an important part of what we're doing here. You know,
+[20:53.120 --> 20:57.180]  after I've, I've talked about this at length in other places, but you know, after selling,
+[20:57.180 --> 21:03.260]  after essentially running a t-shirt company for 20 fucking years, I just got so sick of that
+[21:04.000 --> 21:08.560]  process. And, you know, part of the thesis of F*** Face was that when we introduced merch,
+[21:08.780 --> 21:14.320]  it had to be merch that was a part of the show and of the show and a part of the comedy or the
+[21:14.320 --> 21:19.140]  bit. So that when you're, when you're buying a fucking, you know, a slop, a clock clock,
+[21:19.300 --> 21:25.320]  you're not just buying a clock, you're buying like a dumb story and a fun, uh, like moment to have on
+[21:25.320 --> 21:30.960]  your walls or a kitchen magnet, like you're buying into this thing. And it creates this
+[21:30.960 --> 21:37.460]  ownership of the audience. I feel over the content a little bit in a really, I don't know, uh,
+[21:37.460 --> 21:43.400]  uplifting way. And so I, I want to, I still feel that way about it. And I don't, I want to treat
+[21:43.400 --> 21:48.220]  it as preciously as we did with F*** Face. And we are just not in a position to do it justice right
+[21:48.220 --> 21:51.180]  now. And that doesn't mean we're not working on it. Eric and I had a meeting with a company
+[21:51.180 --> 21:54.460]  last week. They're putting together a pitch proposal for us right now.
+[21:54.460 --> 21:59.300]  We have, luckily there are a lot of talented people who worked in the e-commerce department
+[21:59.300 --> 22:04.080]  at Rooster Teeth and we have maintained contact with all of them. And so we have a healthy
+[22:04.080 --> 22:08.100]  relationship with a lot of people out there, but it's just something that we want to take
+[22:08.100 --> 22:12.540]  our time with because we want to get it right. And it was such a point of contention in the past
+[22:12.540 --> 22:16.260]  and we don't want to go through that again. And so when we put something out there for you,
+[22:16.320 --> 22:20.540]  we want it to be something that we believe in, that's good quality. That's not a logo slapped
+[22:20.540 --> 22:25.820]  onto a hat or a t-shirt or a messenger bag that makes sense. And that first thing will probably
+[22:25.820 --> 22:32.620]  be the throat lure, I guess, or some form of gurtler. But there are no immediate plans. There
+[22:32.620 --> 22:39.240]  have been no orders placed. There has been no sourcing done. We're handling all that in the
+[22:39.240 --> 22:43.600]  background and we're taking our time with it. So just understand, it's not something you're
+[22:43.600 --> 22:46.900]  going to see soon. But when we get it up and running, it will be up and running.
+[22:46.900 --> 22:53.840]  The thing with the thing with merch is that it's not a, why don't you just venture? It's not a
+[22:53.840 --> 23:01.160]  thing where we can just flip a switch and just have it done. Somebody has to, I do it for 100%
+[23:01.160 --> 23:05.840]  eat. We have to run a Printful and a Shopify and that's all print on demand. But even with that,
+[23:06.280 --> 23:11.540]  we have to send, we have to facilitate these orders, which are sometimes hit with fraud,
+[23:12.060 --> 23:19.160]  to send from one to request fulfillment to the other, to pay this thing, to send it out. But then
+[23:19.160 --> 23:23.100]  you email two days later and you go, Hey, I put the wrong address. Can you change it? And there
+[23:23.100 --> 23:29.720]  we're customer support for merch. We're also the person that has to go through and change the size
+[23:29.720 --> 23:36.100]  because you selected medium when you meant large. Like those things don't seem like big deals when
+[23:36.100 --> 23:43.800]  you are the person who is buying that thing. But when you are one of X number of people who
+[23:43.800 --> 23:53.860]  are emailing because something has gone wrong, it is near insurmountable to do that and continue to
+[23:53.860 --> 23:58.940]  make time for gameplay videos and podcasts and cut clips and put all this other stuff out.
+[23:59.000 --> 24:03.180]  So it's slow going with the merch, but we are working on it.
+[24:03.180 --> 24:06.820]  Yeah, I feel like it's similar to the whole like video game thing where it's like,
+[24:06.860 --> 24:11.820]  I feel like now people would rather have a delayed game than a busted piece of shit that came out
+[24:11.820 --> 24:13.320]  when the investors wanted it.
+[24:13.500 --> 24:18.380]  But, but the thing that's important to keep in mind is that when, if there are pre orders and
+[24:18.380 --> 24:26.320]  stuff like that, you aren't happy until you have the physical thing in your hand. And the thing
+[24:26.320 --> 24:32.700]  that I don't want is to put time in between you giving us the money and then you having the item.
+[24:32.700 --> 24:38.100]  I want that to be as immediate as possible, because that's the only way any of this works.
+[24:38.440 --> 24:42.480]  Our theory on how, how to do merch is the same as it was when we talked about it in those previous
+[24:43.900 --> 24:48.320]  sausage talks back in the day on Face. We're, we're, we are not a pre orders company. I'm not
+[24:48.320 --> 24:53.420]  participating in that. That is a nightmare. I've done it. It's brutal. There are legal
+[24:53.420 --> 24:59.700]  requirements and regulations with notifying people when their stuff gets delayed. There are
+[24:59.700 --> 25:04.640]  supply chain issues. It is an organizational nightmare that I don't want any part of.
+[25:04.660 --> 25:10.620]  I just wanted to say that we talked a lot about in this recording the ability that because of
+[25:10.620 --> 25:17.020]  the support we've received from the community, how it has enabled us to grow faster than we
+[25:17.020 --> 25:25.440]  anticipated in certain areas. All of that growth is incredibly thoughtfully made. Like there is
+[25:25.440 --> 25:30.420]  no, we're not just expanding for the sake of expanding because there is a possibility in which
+[25:30.420 --> 25:36.100]  we could generate more money if we're selling merch right now. Everything that we've done as
+[25:36.100 --> 25:42.260]  far as growth has been, how can we make the best thing that we want to make and serve our community
+[25:42.260 --> 25:48.160]  in the best way that we can with the resources and support that they are providing? So it's a
+[25:48.160 --> 25:54.200]  thing of, I just, it, it would be so disrespectful. I feel like to our community to immediately just
+[25:54.200 --> 25:59.660]  launch something because we think that it could generate additional revenue for us, where every
+[25:59.660 --> 26:06.840]  choice I think that we make is from the perspective of doing right by this group of people that has
+[26:06.840 --> 26:13.620]  been so amazing in enabling us to do all the things that we have done so far. The audience is also
+[26:13.620 --> 26:19.440]  very switched on to how we've been in the past as well. Like I feel like we all are well aware of
+[26:19.440 --> 26:24.760]  what burnout feels like and, you know, what it feels like to just be churning out content
+[26:24.760 --> 26:31.380]  because we need to. And, uh, we just don't want to go anywhere near that anymore. Absolutely. Yeah.
+[26:31.380 --> 26:38.980]  Like it's a balance of, of making sure that we're, we're creating, it's a funny thing. We're like
+[26:38.980 --> 26:45.460]  the burnout that we face right now, at least there there's no burnout, but it's like having to
+[26:45.460 --> 26:52.580]  mindfully control how much we do because I could do constantly, uh, making stuff with you guys,
+[26:52.620 --> 26:57.540]  like whenever it is so much fun. I'm having so much fun doing everything we do. It just any
+[26:57.540 --> 27:02.900]  excuse to make more as great, but it is so important to create that time for yourself as
+[27:02.900 --> 27:08.400]  well. And like we have families and other responsibilities. The reality is oftentimes
+[27:08.400 --> 27:16.120]  that burnout is fueled by enthusiasm. And when, when you love what you do to the degree that we
+[27:16.120 --> 27:19.840]  do, you really do have to be mindful about that. And I will say, because I've seen a lot of audience
+[27:19.840 --> 27:25.860]  concerns about it as well. And I will say, uh, without being boastful in any way, I think Gavin
+[27:25.860 --> 27:34.300]  and I as a unit probably have more, if as much, if not more experience in this world than anybody
+[27:34.300 --> 27:40.280]  on earth at this point. Um, and I think we're both pretty, pretty conscious of doing it the
+[27:40.280 --> 27:45.420]  right way this time and, uh, well aware of, of where things went astray in the past. And
+[27:46.100 --> 27:49.460]  we've talked a lot about how the things we want to do differently this time. And so I we're,
+[27:49.480 --> 27:54.240]  I'm keeping a real close eye on us as we go. Yeah. And I feel like we've really learned
+[27:54.240 --> 28:00.360]  our limits. I'm currently, I feel so far from burnout. Yeah. Oh, same. Absolutely.
+[28:00.360 --> 28:05.680]  Could I give a little inside baseball that I think is fun talking about merch stuff? Yeah,
+[28:05.740 --> 28:12.560]  I think we can talk about. So when we were acquiring, uh, the rights to Face as a brand,
+[28:13.300 --> 28:19.040]  Gavin asked a fantastic question. Like this was the final hours of like, oh, we've been waiting
+[28:19.040 --> 28:24.180]  a long time to do it. I mean, people are aware our launch was not exactly as smooth as we'd
+[28:24.180 --> 28:28.360]  want it to be. We didn't have feeds. It was a whole process of going back and forth, but it
+[28:28.360 --> 28:34.780]  felt like we were at the very end of it. And then there was a realization of do we get merch rights
+[28:34.780 --> 28:40.740]  for everything we've done in the past? Is that, is that part of this? And just assuming like,
+[28:40.780 --> 28:43.940]  yeah, of course it would be like, we're getting Face. Why wouldn't we get everything that falls
+[28:43.940 --> 28:49.960]  under that umbrella? That was not at all part of the deal, which then created this thing of like,
+[28:50.040 --> 28:56.040]  okay, well we need every piece of merch that we've ever made to submit. So we could like just
+[28:56.040 --> 29:01.140]  display what exactly it is that we're going to take ownership of. And completely unrelated to
+[29:01.140 --> 29:06.900]  this, just as like an exercise, Tony, who did all of our merch for us, who's so amazing. He made an
+[29:06.900 --> 29:12.800]  image during the shutdown period that was a singular photo that contained every piece of
+[29:12.800 --> 29:19.200]  merch we had made. And because of that, we were able to secure all of our merch in like an easy,
+[29:19.400 --> 29:24.380]  convenient way that didn't take hours of going back and forth and double checking. We're just
+[29:24.380 --> 29:29.920]  able to use this reference image that he created that completely simplified the process. It was the
+[29:29.920 --> 29:35.160]  most amazing, like, you've got to be kidding me, aha moment where they literally said, we're going
+[29:35.160 --> 29:40.320]  to need this. And we went, oh fuck. And somebody went, Tony's image. And we were like, no problem.
+[29:40.920 --> 29:44.320]  Responded to them in minutes. Like they probably thought, well, we're never going to hear from
+[29:44.320 --> 29:48.800]  those assholes again. Or like, that'll take them a couple of weeks. Did not. Took us 35 seconds to
+[29:48.800 --> 29:52.760]  find that image and send it to them. And then it was great. That image is in the contract as well.
+[29:52.760 --> 29:56.820]  It is. Yeah. Should we post it? Have we posted that anywhere? We talked about it. I don't know
+[29:56.820 --> 30:01.080]  if we ever did. Yeah. We shouldn't post it with this, that, that image that Tony made. Yeah. I
+[30:01.080 --> 30:04.400]  feel like at the beginning, you know, you just assume it's like, oh, we're acquiring
+[30:04.840 --> 30:08.680]  f***face. So we just get all of, but, and then they were like, you need to specify everything.
+[30:08.700 --> 30:11.940]  I was like, I think that's everything. And then the last minute I was like, wait a sec,
+[30:12.520 --> 30:16.880]  I guess we don't, we need the merch designs. If we ever want to resell any of that stuff.
+[30:17.540 --> 30:20.180]  And then suddenly we all started looking at everything with a real
+[30:20.740 --> 30:25.160]  like magnifying glass kind of approach. It was like, have we, have we got everything in this
+[30:25.160 --> 30:30.700]  contract? Which, which is where, uh, Ratty Boy came to be, by the way. Have we talked about
+[30:30.700 --> 30:35.000]  that? Like where we are with Ratty Boy? No. I don't. Yeah. Do you want to give the update,
+[30:35.140 --> 30:39.960]  Andrew? I don't even know how to give the update. It's a weird situation where like,
+[30:40.800 --> 30:44.600]  we, I don't, I don't know. I don't know how to, I don't even know how to give this up. So
+[30:44.600 --> 30:49.680]  there's technically not a legal, like there is an agreement and an understanding and parties were
+[30:49.680 --> 30:54.780]  paid, but there isn't a legal contract that was made for Ratty Boy because it's fucking Ratty Boy.
+[30:54.860 --> 31:02.040]  It seems ridiculous. Uh, so we were trying to get specific rights to Ratty Boy and they couldn't
+[31:02.040 --> 31:09.560]  transfer them because technically, legally there is nothing to transfer, but we, we have them,
+[31:09.600 --> 31:14.460]  but we technically don't like, I don't, I don't even know necessarily where it lays right now.
+[31:14.820 --> 31:19.320]  Yeah. So as a limbo, I think is where Ratty Boy is and probably will be for a while.
+[31:20.260 --> 31:24.000]  Yeah. I don't, honestly, that is a thing we will figure out down the road.
+[31:24.380 --> 31:28.620]  Originally I had him removed from the original contract because we were just trying to get our
+[31:28.620 --> 31:34.180]  stuff as soon as possible. Ideally we wanted to launch with our feeds, um, which ended up
+[31:34.180 --> 31:39.160]  being delayed, but I was just like, I don't want to, I don't want Ratty Boy to hold, to like,
+[31:39.160 --> 31:42.780]  hold our thing back any more weeks. So we just, I will deal with that later.
+[31:43.340 --> 31:51.340]  Yeah. And then it was the process of they are trying to negotiate sales of huge properties
+[31:51.820 --> 31:57.020]  and us. So what about Ratty Boy? What's going on with that? Hey, can you, are we good with Ratty
+[31:57.020 --> 32:03.560]  Boy? It was great. It was very funny that, you know, from our perspective of like, I'd be awesome
+[32:03.560 --> 32:07.940]  to have that. And then having like a million things that they need to do that are way more important.
+[32:07.940 --> 32:13.160]  Yeah. I think if, if on the list of all the properties, those people were dealing with right
+[32:13.160 --> 32:18.560]  at the end of the company, Ratty Boy would have been the very, very bottom. If not, I would love
+[32:18.560 --> 32:27.480]  to know what was below it. We, we must have been the least important production to cross the
+[32:27.480 --> 32:32.860]  threshold. You know what I mean? Like we were just over the line of like, we, it's an issue,
+[32:32.900 --> 32:36.840]  we have to deal with it, it's money and business, but we were definitely at the bottom of the list.
+[32:36.840 --> 32:44.480]  Which made it difficult and annoying, not blaming anyone, for the feed situation of
+[32:45.000 --> 32:50.280]  we, we had crossed, as he said, we had barely crossed that line of we needed to pay for this
+[32:50.280 --> 32:56.120]  thing being the face like back catalog and rights and all that stuff. We needed money for it. There
+[32:56.120 --> 33:01.200]  needed to be legal terms worked out. Parties needed to be involved. We, we crossed the line
+[33:01.200 --> 33:06.260]  where that all needed to happen, but we were at the bottom of that line. So it was priority to
+[33:06.260 --> 33:12.220]  everybody else before us. So it was, that is a large factor in why we weren't able to launch
+[33:12.220 --> 33:17.480]  with our feeds is having to go through that lawyer process while also understanding that we are not
+[33:17.480 --> 33:24.760]  the priority. Which by the way, no hard feelings. Like we get it. I looked at the other properties.
+[33:24.880 --> 33:29.360]  We were at the bottom of that list. Like that's how you would prioritize it. It makes total sense.
+[33:29.660 --> 33:33.280]  We didn't feel slighted or anything. It was annoying, but it wasn't any less annoying than
+[33:33.280 --> 33:36.860]  anything anyone else went through or any more annoying than anything anyone else went through.
+[33:37.000 --> 33:42.780]  It's just what the process is. And we were just where we were, you know, in the hopper because of,
+[33:42.780 --> 33:50.020]  you know, how valuable we were. And honestly, incredibly thankful to have it at this point.
+[33:50.040 --> 33:56.340]  Cause I, I listened to a podcast that was going through essentially the exact same
+[33:56.340 --> 34:01.440]  thing we were of transfer of ownership and they still don't have everything worked out. And they
+[34:01.440 --> 34:06.600]  were probably two months prior to when we started. So it's been interesting to hear their perspective
+[34:06.600 --> 34:10.860]  of what they're going through of like trying to get their YouTube channel transferred over and
+[34:10.860 --> 34:15.360]  all of that stuff. Just knowing like, wow, as annoying as it felt at the time,
+[34:15.480 --> 34:18.920]  cause there was definitely a period where it felt like, okay, we're going to get this done on Friday.
+[34:19.240 --> 34:22.440]  And then it would be Monday and it would be okay. This is going to take two more weeks.
+[34:22.640 --> 34:27.160]  And then there would be more time. Like it was a shifting. It felt like deadline, but
+[34:28.500 --> 34:32.040]  ultimately I think we got it in an incredibly timely manner. And I'm super thankful,
+[34:32.200 --> 34:35.640]  obviously for everybody involved in that process of allowing it to happen.
+[34:35.840 --> 34:40.260]  Yeah. I was, I was being a real pain in the ass. Like I've never been particularly good of
+[34:40.260 --> 34:44.880]  about like advocating for myself. Like I've, I'm bad at chasing people up. Cause I'm like that,
+[34:45.020 --> 34:49.300]  you know, they're busy. And yeah, but in the past, in my personal and professional life,
+[34:49.300 --> 34:52.840]  I've just been forgotten a bunch of times where it's like, oh yeah, you know that no one was
+[34:52.840 --> 34:56.460]  looking at that the whole time. And I was waiting on it. So I, on for this, I was literally like
+[34:56.460 --> 35:01.900]  slacking every morning, like, Hey Eddie, I was feeling like a real pain, but I think,
+[35:02.560 --> 35:06.520]  I don't know. I think our enthusiasm for getting it done was eventually, it eventually paid off.
+[35:06.960 --> 35:13.260]  Yes. I think so. Totally. Absolutely. But that's, that's kind of, you know, we've discussed a lot
+[35:13.260 --> 35:17.040]  of this in the early days of the regulation podcast, but that's kind of in a nutshell,
+[35:17.360 --> 35:24.220]  the, the business where we are and where we are is honestly a couple of months ahead of schedule.
+[35:25.320 --> 35:29.120]  And, uh, we've gotten there a little bit faster. So we're kind of at a point now where we're like,
+[35:29.200 --> 35:32.840]  okay, well let's, let's look at what's possible now. Let's look at what's attainable. Gavin
+[35:32.840 --> 35:38.260]  mentioned that we might be adding another gaming slot weekly in the near ish future.
+[35:38.360 --> 35:42.000]  We still got to work out our editing pipeline a little bit better, I think, but we're in the
+[35:42.000 --> 35:47.820]  process of that. And we have some really, really, really fast and talented, uh, editors that we're
+[35:47.820 --> 35:51.860]  working with, which, which is people that we worked at with let's play, which is so nice to,
+[35:51.860 --> 35:58.020]  you know, I had so much fun kind of being able to have a big creative lead and like work with the
+[35:58.020 --> 36:04.660]  team involved in that. So being able to now be in a position to give a work to those people that I,
+[36:04.660 --> 36:08.400]  I just, I had so much fun working with at roosterteeth has been awesome.
+[36:08.660 --> 36:11.400]  And the amount of stuff coming in that the, where I'm just like, yeah, no notes.
+[36:11.700 --> 36:12.340]  It's great.
+[36:12.460 --> 36:16.540]  Yeah, I know. It's right. The quality is fucking awesome, but it's also, that's part of the beauty
+[36:16.540 --> 36:21.160]  of finding, uh, editors that, um, are not only good at editing. Uh, there's a lot of
+[36:21.160 --> 36:25.600]  talented editors out there, but that understand your sense of humor and get what you're trying
+[36:25.600 --> 36:30.540]  to do and able are able to help you convey that through editing and enhance it. And,
+[36:30.820 --> 36:35.580]  um, we're very fortunate, uh, with the, I think that shows in the work, like everybody who
+[36:35.580 --> 36:40.360]  touches any of the stuff we do as a genuine enthusiasm for it.
+[36:40.500 --> 36:45.720]  And it just adds a completely different layer of quality, I think to whatever that product is.
+[36:46.540 --> 36:48.420]  Video or whatever. Absolutely.
+[36:49.080 --> 36:53.980]  Uh, do we want to, uh, get into some of the questions that the Falcon people sent?
+[36:54.500 --> 37:00.080]  So if you're a member of the Falcon tier, like we can get back to talking about more other stuff
+[37:00.080 --> 37:02.960]  if there's other things we want to cover, but I definitely want to get to these questions.
+[37:02.960 --> 37:07.320]  Uh, we had a lot of people submit a lot of different stuff and, uh, I think these are
+[37:07.320 --> 37:10.720]  good sort of, uh, talking points for us to, uh, get into.
+[37:10.920 --> 37:16.000]  We got so many amazing questions. If your question is not answered or discussed in this
+[37:16.000 --> 37:20.020]  thing, that does not mean it won't be. I have, like, archived all these questions.
+[37:20.540 --> 37:24.260]  These were just some of the ones that jumped out at me or were questions where, like,
+[37:24.520 --> 37:28.760]  six people asked the same thing. And so it's sort of grouped under that.
+[37:28.920 --> 37:33.240]  So, uh, this is from that one guy over there, 33.
+[37:33.880 --> 37:40.940]  Will you finish previous series such as Escape Academy, uh, from, uh, Let's Plays and video game
+[37:40.940 --> 37:43.240]  stuff? I would love to, Geoff.
+[37:43.340 --> 37:44.640]  Do you want to keep doing Escape Academy?
+[37:44.640 --> 37:46.740]  I'm just waiting for the invite. Yeah.
+[37:46.940 --> 37:52.640]  Yeah, we, we, so we're sort of at a process, I think, with this where I'm so excited that
+[37:52.640 --> 37:56.620]  I feel like, and I don't know if you guys agree with this, that our legs are under us
+[37:56.620 --> 38:02.360]  as far as, like, we still have things to figure out on the logistic business end, but we are
+[38:02.360 --> 38:08.320]  able to shift more into, like, content pipeline in a way that I think is so exciting.
+[38:08.520 --> 38:14.520]  And I'm just being able to put more attention into that and not feel like we're having to
+[38:14.520 --> 38:17.700]  put out constant fires in different areas.
+[38:18.420 --> 38:18.860]  Yeah.
+[38:19.180 --> 38:22.400]  Stuff like Escape Academy is like, yeah, we're going to get back to that.
+[38:22.460 --> 38:26.940]  It just, we've, between getting a Patreon going in the back end of the business stuff,
+[38:26.960 --> 38:32.700]  like, it has just been, we have been scrambled in trying to get so many things done and can
+[38:32.700 --> 38:35.040]  focus more on, like, we can just do content stuff.
+[38:35.560 --> 38:40.580]  The process of Eric and I applying for credit cards for the business yesterday.
+[38:40.740 --> 38:41.300]  Oh my God.
+[38:41.300 --> 38:43.440]  Oh my fucking God.
+[38:43.520 --> 38:50.720]  Did they make it harder than it needs to be for any fucking human to, oh, I don't.
+[38:50.760 --> 38:52.240]  Was it harder than mailing someone to Canada?
+[38:53.260 --> 38:55.480]  Yeah, it was, it was right.
+[38:55.600 --> 38:57.480]  It didn't take as long, but it was right up there.
+[38:57.760 --> 38:59.040]  It was, see, I'm going to get mad.
+[38:59.100 --> 39:03.740]  I don't want to get mad, but there was just like, there was a, there was a fucking moment.
+[39:03.860 --> 39:05.440]  There was a fucking moment, dude.
+[39:05.560 --> 39:09.380]  There was a fucking moment where I'm talking to a dude at American Express to get an American
+[39:09.380 --> 39:11.720]  Express business fucking credit card.
+[39:11.800 --> 39:13.980]  And he goes, I need to see your bank statement.
+[39:13.980 --> 39:15.920]  And I go, not a problem.
+[39:16.080 --> 39:17.480]  Here's my bank statement.
+[39:17.540 --> 39:19.700]  He goes, well, I can't accept this bank statement.
+[39:19.700 --> 39:20.720]  And I go, why?
+[39:20.780 --> 39:22.680]  And he goes, because this bank is American Express.
+[39:22.680 --> 39:23.860]  And I go, that's correct.
+[39:24.020 --> 39:24.900]  You're our bank.
+[39:24.920 --> 39:28.200]  And he goes, yeah, but we can't have, we can't accept this.
+[39:28.240 --> 39:34.680]  And I go, but surely the process of vetting us to give us a bank account is the same as,
+[39:34.780 --> 39:38.260]  or more stringent than the process of vetting us to give us a credit card.
+[39:38.260 --> 39:40.040]  Seems like a duplicate of effort.
+[39:40.280 --> 39:41.780]  And the guy's like, yeah, I guess that so.
+[39:41.920 --> 39:43.000]  But anyway, I can't take it.
+[39:43.180 --> 39:48.220]  And I'm like, so are you suggesting that I close down my American Express checking account
+[39:48.220 --> 39:52.860]  and go across the street to open it up with a new bank and give them all of my money so
+[39:52.860 --> 39:55.860]  that I can then get accepted for a credit card with you?
+[39:55.960 --> 39:57.660]  And he goes, oh my God, I'm not excited.
+[39:57.700 --> 39:58.880]  Oh no, no, no, sir, I'm not.
+[39:59.000 --> 40:00.740]  And it just went on like that forever.
+[40:01.040 --> 40:01.880]  Oh my God.
+[40:01.920 --> 40:02.700]  Oh my God.
+[40:03.640 --> 40:04.040]  Sorry.
+[40:04.180 --> 40:05.740]  It was pretty cool.
+[40:06.240 --> 40:06.920]  It was annoying.
+[40:06.920 --> 40:10.380]  Surely if it's linked to the same bank, it's the most secure credit card in the world.
+[40:10.580 --> 40:13.400]  That's what we were thinking and saying.
+[40:13.680 --> 40:14.520]  And he was like, no.
+[40:14.540 --> 40:18.040]  And that was part of the appeal of going this route in the fucking first place.
+[40:18.320 --> 40:18.500]  Exactly.
+[40:19.220 --> 40:19.540]  Yeah.
+[40:19.580 --> 40:21.640]  I mean, that was like the whole reason was just like, oh, good.
+[40:21.680 --> 40:22.540]  It's all under one roof.
+[40:22.580 --> 40:24.060]  And it's like, well, why do we even do this then?
+[40:24.140 --> 40:27.220]  You've basically fronted them the money for the entire credit line.
+[40:27.560 --> 40:28.440]  Yeah, yeah, yeah, yeah.
+[40:28.640 --> 40:31.760]  It was just like, so now I'm excited because we put in the application.
+[40:31.840 --> 40:32.540]  We talked to him on the phone.
+[40:32.580 --> 40:35.380]  He's like, yeah, we just have to go through and look at this and make sure.
+[40:35.380 --> 40:37.240]  I'm so excited for them to say no.
+[40:37.440 --> 40:41.840]  I think we just have to go with if they say no, we have to go with someone else
+[40:41.840 --> 40:44.680]  and let them know we're going with someone else because they made it so difficult.
+[40:45.840 --> 40:46.860]  Like, it's insane.
+[40:46.980 --> 40:47.740]  It was so crazy.
+[40:47.960 --> 40:49.580]  It's just like, you're right, Andrew.
+[40:49.740 --> 40:54.120]  We're at the point now where our feet are mostly under us and we can focus on content creation.
+[40:54.400 --> 40:55.780]  But there's still some shit.
+[40:56.020 --> 40:58.140]  My buddy Nick over there.
+[40:58.180 --> 40:58.980]  I love him to death.
+[40:59.300 --> 41:01.820]  But every 30 minutes, he needs a new forum right now.
+[41:01.860 --> 41:04.080]  And it's just it's and I know it's not Nick.
+[41:04.080 --> 41:09.780]  He's dealing with people, but we're still dealing with some fucking administrative
+[41:09.780 --> 41:12.100]  stuff in the background that's making me pull my fucking hair out.
+[41:12.160 --> 41:12.860]  But we're close.
+[41:13.180 --> 41:13.800]  We're real close.
+[41:13.880 --> 41:14.620]  We're real close.
+[41:14.820 --> 41:16.920]  And that is why Escape Academy will continue.
+[41:19.260 --> 41:20.380]  We'll get back to it.
+[41:20.800 --> 41:24.500]  It was so funny that, you know, like when the tax.
+[41:25.100 --> 41:27.260]  So our business name was wrong with our tax thing.
+[41:27.540 --> 41:31.480]  And the only way to get that corrected is to mail them a physical letter
+[41:31.480 --> 41:34.180]  explaining it and what it needs to be changed to.
+[41:34.360 --> 41:36.580]  And then they just automatically process it.
+[41:36.760 --> 41:43.600]  I just watched John Q, which is a 2001 movie all about like trying to submit forms
+[41:43.600 --> 41:46.380]  and the annoyance and bullshit of like that process.
+[41:46.660 --> 41:48.120]  And it is hilarious.
+[41:48.120 --> 41:51.340]  In 2024, it is the exact same shit.
+[41:51.780 --> 41:57.660]  It is having to send physical letters for things and then being told the wrong thing
+[41:57.660 --> 41:58.960]  and having to send a letter somewhere else.
+[41:58.960 --> 42:03.060]  Like it was insane to watch a movie from 2001 and just go.
+[42:03.180 --> 42:08.560]  There has been no progress, zero progress in this field of submitting government forms.
+[42:09.440 --> 42:10.660]  It's gotten worse.
+[42:11.500 --> 42:15.500]  I think it's probably even more annoying, though, because like the tech has gotten so much better
+[42:15.500 --> 42:19.580]  around it, but it is just remained dog shit in physical form.
+[42:20.300 --> 42:21.420]  Oh my God.
+[42:21.960 --> 42:22.980]  Thank you so much for the question.
+[42:23.620 --> 42:23.840]  So.
+[42:27.800 --> 42:30.220]  This next one's from Luna E.
+[42:31.020 --> 42:36.900]  Do you guys still receive any sort of royalties for monetized old face content?
+[42:37.460 --> 42:37.720]  Yes.
+[42:38.720 --> 42:39.360]  All of it.
+[42:39.380 --> 42:41.260]  Like that's I feel like an important thing to clarify.
+[42:41.260 --> 42:43.420]  I've like if you watch any of the old stuff, it helps.
+[42:43.620 --> 42:44.820]  Yeah, the face channel.
+[42:44.940 --> 42:45.140]  Yes.
+[42:45.360 --> 42:45.640]  Yeah.
+[42:46.580 --> 42:47.240]  Let's play.
+[42:47.360 --> 42:49.840]  No, any any of our videos on let's play.
+[42:49.900 --> 42:51.840]  No, we don't get any any monetization for that.
+[42:51.880 --> 42:52.660]  No revenue for that.
+[42:52.980 --> 42:56.960]  But yeah, that was part of what took so long.
+[42:57.140 --> 43:00.860]  But yeah, as of I don't know, not very long ago, a couple of weeks ago, maybe we do.
+[43:01.480 --> 43:05.660]  Although I will say we got the YouTube channel and about a week in I
+[43:06.180 --> 43:10.080]  was looking around back there and realized no one had switched the AdSense account.
+[43:13.280 --> 43:16.920]  We were just still attached to the old rooster teeth AdSense.
+[43:17.200 --> 43:21.000]  So I think the first few days of our channel went all the revenue still went to them,
+[43:21.080 --> 43:21.840]  which is fantastic.
+[43:22.480 --> 43:24.320]  We're fucking so stupid.
+[43:24.460 --> 43:26.600]  There's just so much in so many directions.
+[43:27.260 --> 43:28.340]  That's not even a dumb.
+[43:28.520 --> 43:31.000]  That was just like, yeah, we were doing a million things.
+[43:31.000 --> 43:32.620]  And that was the thing that just got past.
+[43:32.680 --> 43:35.340]  Yeah, I'm going to I'm going to go out on a limb and say we're not stupid.
+[43:35.520 --> 43:36.480]  This shit sucks.
+[43:36.820 --> 43:40.900]  Yeah, this stuff, every fucking stupid little step.
+[43:41.460 --> 43:42.880]  Everything has to be checked.
+[43:42.960 --> 43:46.200]  And you don't know what you don't know until you figure it out.
+[43:46.400 --> 43:48.080]  And we I don't know half this shit.
+[43:48.080 --> 43:49.620]  That's why I apologize to you, Eric.
+[43:49.660 --> 43:52.980]  But I refuse to fill out any forms here on out without Eric in my presence.
+[43:53.580 --> 43:55.300]  There just have to be two of us at all times.
+[43:55.500 --> 43:57.040]  That's why I'm just a lot faster in my house a lot.
+[43:57.120 --> 43:58.660]  Yeah, it's just a lot faster.
+[43:59.240 --> 44:02.680]  Luna also asked, will Gracie be making any appearances anytime soon?
+[44:02.960 --> 44:04.180]  The hope there?
+[44:04.300 --> 44:05.520]  I talked to Gracie not too long ago.
+[44:05.580 --> 44:10.580]  The hope there is yes, but Gracie works a full time, full time job like big.
+[44:10.720 --> 44:14.240]  She's working a big girl job like this is a real thing.
+[44:14.620 --> 44:17.160]  Yeah, dumbass Gracie went and became a grown up.
+[44:17.160 --> 44:18.600]  Yeah, yeah.
+[44:18.920 --> 44:21.100]  Like she's all professional and fucking corporate.
+[44:21.340 --> 44:24.120]  She has a career. It's fucking crazy.
+[44:24.600 --> 44:26.920]  So we'll try not to tank that, but also get her in stuff.
+[44:27.060 --> 44:28.940]  She's also in some stuff that hasn't released yet.
+[44:29.140 --> 44:30.680]  That is true. We do have something.
+[44:30.900 --> 44:37.600]  And I I've been working with Gracie a little bit on the side on something that I think is fun.
+[44:38.260 --> 44:41.960]  Waiting out a great scene in a way that I'm excited about it.
+[44:43.800 --> 44:45.120]  Yeah, as long as it's not it.
+[44:45.520 --> 44:47.640]  I mean, you can't blindside us again, so it's fine.
+[44:47.960 --> 44:49.180]  Yeah, it's true. It's true.
+[44:49.300 --> 44:54.620]  Did this is from Scoob D. Did Geoff take his refrigerator when he moved?
+[44:55.960 --> 44:58.040]  I was just genuinely curious about it.
+[44:58.040 --> 44:59.840]  I saw that question. It's like, that's a great question.
+[45:00.140 --> 45:01.220]  Do you have that fridge?
+[45:02.640 --> 45:03.360]  No, no.
+[45:03.620 --> 45:04.780]  The fridge stays.
+[45:06.080 --> 45:06.440]  Right.
+[45:07.380 --> 45:08.600]  Yeah, it's custom size.
+[45:08.660 --> 45:09.220]  I wouldn't fit.
+[45:09.320 --> 45:10.120]  And what am I going to do?
+[45:10.120 --> 45:11.880]  Put it in this new house that already has a refrigerator?
+[45:11.960 --> 45:12.660]  I'm renting.
+[45:13.300 --> 45:14.680]  It would just sit in the garage.
+[45:14.680 --> 45:15.420]  Such a saga.
+[45:15.940 --> 45:17.240]  It's it was such a saga.
+[45:17.560 --> 45:22.100]  And but that's that those are the highs and the lows of homeownership.
+[45:22.200 --> 45:23.520]  That's what it's like.
+[45:23.820 --> 45:25.820]  That's the naked, honest truth.
+[45:25.860 --> 45:33.080]  If I did anything over the course of the Face podcast, it was to lay bare to you the joys
+[45:33.080 --> 45:35.040]  and the pains of homeownership.
+[45:35.060 --> 45:36.040]  And that's one of them.
+[45:36.360 --> 45:41.360]  Sometimes you may buy a refrigerator that costs as much as a car and may take you more than
+[45:41.360 --> 45:45.980]  a year to get it, and then you may get it put in and then about a year later, lose your
+[45:45.980 --> 45:46.840]  job and have to move.
+[45:47.840 --> 45:49.560]  That's just the way it works sometimes.
+[45:52.220 --> 45:55.320]  This next one is from Fortunes Faded.
+[45:55.720 --> 46:01.660]  What is your assessment of the England-Netherlands matchup this Wednesday in the UEFA Championship?
+[46:01.660 --> 46:02.900]  That's in UEFA.
+[46:02.920 --> 46:03.860]  Less than an hour.
+[46:04.200 --> 46:04.780]  Yeah, I'm sorry.
+[46:04.940 --> 46:06.060]  It's you just say UEFA?
+[46:06.560 --> 46:06.740]  Uh-huh.
+[46:07.260 --> 46:07.540]  UEFA.
+[46:07.980 --> 46:08.500]  I didn't know that.
+[46:08.820 --> 46:09.220]  UEFA.
+[46:09.220 --> 46:09.400]  Yeah.
+[46:10.080 --> 46:10.940]  I don't watch this shit.
+[46:11.940 --> 46:13.060]  Gavin, what do you think?
+[46:13.320 --> 46:14.840]  That's in like an hour, isn't it?
+[46:15.280 --> 46:16.580]  It's less than an hour.
+[46:16.820 --> 46:19.200]  I've been shitting my pants all morning.
+[46:19.460 --> 46:22.260]  I think that was from food, but also because I'm scared of England going out.
+[46:22.580 --> 46:25.880]  Because they've been like, I feel like just scraping through every game.
+[46:27.120 --> 46:28.240]  So fingers crossed.
+[46:28.500 --> 46:29.520]  Is Netherlands...
+[46:29.520 --> 46:31.060]  Are they a big underdog?
+[46:31.140 --> 46:32.660]  Are they a good team?
+[46:33.260 --> 46:34.260]  Do you know anything about the Netherlands?
+[46:34.600 --> 46:36.380]  Do you know how many gears the Netherlands has?
+[46:36.880 --> 46:39.320]  Yeah, do they have a secret gear that British people tell me about?
+[46:39.320 --> 46:42.100]  I feel like I saw them in their high gear and it was... it was impressive.
+[46:43.280 --> 46:44.440]  They seem like a good team.
+[46:44.860 --> 46:46.740]  Still waiting to see England in their high gear, yeah.
+[46:48.100 --> 46:50.080]  They sort of pulled it out in the last...
+[46:50.080 --> 46:51.100]  Well, yeah, good point.
+[46:51.360 --> 46:52.540]  Yeah, yeah, there you go.
+[46:52.820 --> 46:55.360]  If it goes to penalties, we might stream it.
+[46:55.480 --> 46:57.200]  So by the time you hear this, that's already happened.
+[46:57.380 --> 46:57.760]  Who knows?
+[46:58.980 --> 47:00.700]  This is from TheFrostyCrane.
+[47:01.340 --> 47:05.280]  Is there a plan to eventually release or continue F*** Faceoff?
+[47:05.340 --> 47:08.580]  And will the previous episodes that were first exclusive get up
+[47:08.580 --> 47:09.800]  or behind the Patreon?
+[47:10.460 --> 47:10.780]  Absolutely.
+[47:11.620 --> 47:14.240]  And I think there's stuff with that that I'm excited about.
+[47:14.300 --> 47:17.700]  I think being kind of vague about the timeline of that stuff
+[47:18.340 --> 47:19.680]  is the way to go for now.
+[47:19.720 --> 47:21.740]  But yeah, we're definitely going to do more of it.
+[47:22.620 --> 47:25.500]  And there will be... that will be accessible.
+[47:25.900 --> 47:27.560]  And I think the not too distant future.
+[47:28.020 --> 47:29.840]  And is that going to be for everyone or for the...
+[47:29.840 --> 47:32.580]  We haven't had that conversation, but I assume everyone.
+[47:33.640 --> 47:36.960]  Okay, like all F*** Faceoffs going forward or just that first season?
+[47:37.080 --> 47:38.280]  Just the first season.
+[47:38.280 --> 47:40.800]  Re-releasing the first season is a public thing.
+[47:40.940 --> 47:42.260]  And then the second season...
+[47:42.260 --> 47:43.940]  To promote the second season, which would probably be, yeah.
+[47:44.500 --> 47:46.780]  Which is a model that Rooster Teeth did a few times, I think.
+[47:47.520 --> 47:51.140]  As the second season is airing behind a paywall, the first season's going up for free.
+[47:51.680 --> 47:52.780]  You know what they didn't do that with?
+[47:53.100 --> 47:56.680]  Because there was no third season, I guess, is Survive Block Island Meltdown.
+[47:57.320 --> 48:02.400]  I am the winner of a reality show that does not exist anywhere.
+[48:04.100 --> 48:07.880]  I wish we would have figured out a way to maintain that.
+[48:08.320 --> 48:09.400]  I really like that show.
+[48:09.400 --> 48:09.640]  That would have been fun.
+[48:12.020 --> 48:14.020]  I'm so glad that I got to be a part of it.
+[48:14.100 --> 48:15.100]  That was such a unique experience.
+[48:15.720 --> 48:16.380]  Yeah, it really was.
+[48:16.480 --> 48:19.840]  It was one of the best experiences I had working with the company, for sure.
+[48:20.540 --> 48:22.620]  This is from Jocelyn M.
+[48:22.740 --> 48:24.360]  Said, can't wait for the new Sausage.
+[48:25.000 --> 48:26.420]  Loving everything we've been putting out.
+[48:26.480 --> 48:27.700]  Pico Parkstream killed it.
+[48:27.840 --> 48:32.920]  Are there any new types of videos or content that you're interested in exploring,
+[48:33.140 --> 48:34.640]  but haven't tried out yet?
+[48:34.860 --> 48:37.040]  Love y'all and appreciate the joy you bring.
+[48:37.740 --> 48:40.020]  So many, and I feel like we're right on the cusp.
+[48:40.180 --> 48:41.700]  I feel like of doing a lot of that stuff.
+[48:42.260 --> 48:44.000]  There's so much stuff that we can do.
+[48:44.060 --> 48:47.000]  That is, I know we all have different things we're excited about.
+[48:47.040 --> 48:51.780]  As far as content goes, I know me, especially like it has just been a process of,
+[48:52.460 --> 48:56.080]  as I said, feeling like we need to get our feet under us and then being able to pivot
+[48:56.080 --> 48:59.880]  in unique and interesting ways of things that we're excited about.
+[48:59.940 --> 49:01.940]  And I think the audience will really like as well.
+[49:02.780 --> 49:06.900]  And with Patreon, it being a unique situation of being able to make stuff
+[49:06.900 --> 49:09.980]  that we think you'll like and that we're really excited about
+[49:09.980 --> 49:14.900]  and are not worried about it being a massive hit on YouTube or other platforms.
+[49:15.180 --> 49:17.640]  Like that, if that happens, that's cool.
+[49:17.880 --> 49:21.060]  But like that is not at all the goal of a lot of this content.
+[49:21.600 --> 49:27.020]  To me, the thing I'm most excited about is how fast we can turn stuff around
+[49:27.020 --> 49:28.840]  when we have ideas for this new stuff.
+[49:28.840 --> 49:30.560]  Like we were talking about it the other day, Gavin,
+[49:30.560 --> 49:35.500]  where it was that, hey, I got this mod thing for GTA 4.
+[49:35.600 --> 49:36.680]  Do you want to try it?
+[49:36.740 --> 49:38.340]  And that was like a Wednesday.
+[49:39.080 --> 49:42.840]  And then we did it on a Thursday and then it was like ready to go out.
+[49:43.100 --> 49:48.320]  It was just like from idea to completion was turned around so fast.
+[49:48.360 --> 49:53.780]  And that is not something I've been really used to with what we were doing previously.
+[49:54.600 --> 49:57.500]  And that mod was something I'd seen probably a decade ago.
+[49:57.500 --> 50:01.480]  But I remember at the time in Achievement Hunter or in Let's Play,
+[50:01.580 --> 50:03.500]  we weren't really PC gamers yet.
+[50:03.800 --> 50:05.660]  We were just like console exclusives.
+[50:05.840 --> 50:08.940]  So I was like, it kind of just like fell into the back of my brain for ages.
+[50:09.420 --> 50:10.440]  Yeah, it's exciting.
+[50:11.520 --> 50:14.180]  It's exciting to be able to do that stuff fast and everything.
+[50:14.580 --> 50:19.680]  And it's like, that's a great example of like that video spun off an idea for a series of them
+[50:20.360 --> 50:22.180]  that we're really excited about doing.
+[50:22.360 --> 50:24.100]  And it's we'll talk about, you know,
+[50:24.100 --> 50:27.020]  talk about all the different things we want to make.
+[50:27.080 --> 50:30.080]  And it's kind of hard because there's so many opportunities
+[50:30.080 --> 50:32.700]  and there's so much stuff out there that we want to make.
+[50:32.780 --> 50:35.880]  That's one of the things that I think will probably happen and happen sooner than later,
+[50:35.900 --> 50:38.340]  because I think it's something we're all invested and excited about.
+[50:38.760 --> 50:41.360]  Yeah, this is from Julia M.
+[50:41.760 --> 50:45.180]  What was everyone's favorite part of switching to RegulationPod?
+[50:45.740 --> 50:47.440]  Oh, that's tough.
+[50:48.560 --> 50:50.080]  For me, it's so easy.
+[50:50.080 --> 50:54.540]  I have so much more time to make stuff and not have to be in meetings
+[50:54.540 --> 50:59.100]  explaining why things are happening or what needs to happen
+[50:59.100 --> 51:00.460]  or being told what needs to happen.
+[51:00.980 --> 51:06.400]  There is so much more time to do rather than to sort of like mull over.
+[51:06.760 --> 51:09.980]  To me, it's such a slam dunk answer.
+[51:10.080 --> 51:13.740]  My time is so much more valuable this way in what we're doing.
+[51:14.500 --> 51:15.980]  Like infinitely more valuable.
+[51:16.600 --> 51:17.500]  I find it hard to explain.
+[51:17.600 --> 51:19.080]  My excitement has just gone way up.
+[51:19.080 --> 51:23.240]  I just feel so much more responsible and I have eyes on more things that I'm just...
+[51:24.020 --> 51:27.160]  I don't know. I'm just so much more all in than I was before.
+[51:27.420 --> 51:28.060]  Yeah. Yeah.
+[51:28.660 --> 51:35.500]  I feel lighter and freer as if like 21 years of weight has been lifted, honestly.
+[51:35.740 --> 51:38.780]  And I don't I don't even mean that to be silly, you know.
+[51:40.060 --> 51:47.680]  But it's just like it's just such an exciting time to be here with you guys.
+[51:47.680 --> 51:50.760]  It's just energizing at all times, you know.
+[51:51.440 --> 51:53.040]  And it wasn't like that before.
+[51:53.200 --> 51:58.580]  I mean, I loved it before, but this is just like a different thing, you know.
+[51:58.660 --> 52:04.360]  And it just feels like we're all plugged in to the same entity.
+[52:05.000 --> 52:05.600]  And we're all like...
+[52:06.260 --> 52:09.940]  It's very Borg-ish if I can if I can get Star Trek-y for a second.
+[52:10.140 --> 52:10.800]  You know what I mean?
+[52:11.260 --> 52:12.540]  I feel like we're a little...
+[52:12.540 --> 52:14.620]  It's like we've got a little Borg unit going.
+[52:14.620 --> 52:16.480]  And I love it because it makes...
+[52:17.320 --> 52:19.200]  It's what Achievement Hunter was at its best.
+[52:19.260 --> 52:20.440]  It's what Rooster Teeth was at its best.
+[52:22.700 --> 52:28.540]  It's just like the sum of the parts creating something greater than they are individually.
+[52:28.940 --> 52:30.300]  Regulation Borg Cube.
+[52:31.220 --> 52:32.600]  Yeah, we're Regulation Borg Cube.
+[52:33.440 --> 52:39.080]  It is a really exciting thing of like we are making the stuff and our stuff is the thing.
+[52:39.320 --> 52:43.400]  And anyone who is part of this community or involved with it
+[52:43.400 --> 52:46.900]  is excited about that thing and everything is unified.
+[52:47.160 --> 52:52.740]  As opposed to being in a place where it felt like we have a little corner of this larger thing.
+[52:53.680 --> 52:59.060]  And to incorporate specific stuff for us just felt complicated.
+[52:59.140 --> 53:04.880]  Or maybe things that from the top down of Rooster Teeth as a business
+[53:04.880 --> 53:08.860]  made sense didn't at all make sense with what we wanted to do.
+[53:09.000 --> 53:11.140]  Or like how we would handle certain things.
+[53:11.340 --> 53:11.540]  Yeah.
+[53:11.540 --> 53:16.100]  Just having full autonomy and it being all about the thing
+[53:16.100 --> 53:19.620]  that we are specifically invested in and excited about has been incredible.
+[53:20.260 --> 53:21.860]  Yeah, it kind of goes to what Eric was saying.
+[53:22.060 --> 53:25.380]  And it's just that like no one can say no to us.
+[53:25.600 --> 53:25.840]  Right?
+[53:25.920 --> 53:26.100]  Yeah.
+[53:26.140 --> 53:28.980]  Like we don't have to ask anybody's permission for anything.
+[53:29.200 --> 53:30.520]  I don't have to pitch anything.
+[53:30.880 --> 53:31.740]  I don't have to make up.
+[53:32.020 --> 53:35.940]  You guys said we'll have like you guys, not you guys, but the audience has no idea
+[53:36.380 --> 53:39.020]  how many, even as a founder of Rooster Teeth,
+[53:39.040 --> 53:41.420]  how many pitch decks I personally created,
+[53:41.560 --> 53:44.660]  how many one sheets I had to create to get stuff made,
+[53:44.800 --> 53:46.700]  to get face made, to get everything made.
+[53:46.740 --> 53:48.860]  Even though you would think I would have some sort of a,
+[53:48.940 --> 53:51.260]  what Bernie called founder's wand that I could just wave and say,
+[53:52.100 --> 53:54.740]  I bequeath myself a new podcast, but it doesn't work that way.
+[53:54.800 --> 53:54.960]  Right?
+[53:55.040 --> 53:58.000]  You still have to have good ideas and those good ideas still have to compete
+[53:58.000 --> 53:58.760]  against the other ideas.
+[53:58.860 --> 54:00.660]  And you still have to get yeses.
+[54:00.680 --> 54:03.680]  And it's still, you still have to go through the process and do the work.
+[54:03.960 --> 54:05.440]  And all that's gone.
+[54:05.440 --> 54:06.820]  It's just stripped away.
+[54:06.900 --> 54:10.400]  Are the only people I have to get approval from are two of you.
+[54:10.680 --> 54:12.660]  And I don't care which two of you, you know what I mean?
+[54:13.780 --> 54:16.740]  They could be two spite votes and those work just the same.
+[54:17.060 --> 54:21.260]  It's also nice to not have to say no to a bunch of stuff and piss off like
+[54:21.260 --> 54:23.360]  entire departments, like marketing.
+[54:23.500 --> 54:27.680]  We were always saying no to some like forced collaboration that then resulted in
+[54:27.680 --> 54:30.360]  us being punished kind of because we don't want to work.
+[54:30.740 --> 54:33.340]  We wanted to keep our thing the way people like it basically.
+[54:34.180 --> 54:38.360]  Nobody's trying to... and this was a struggle that we all felt at RT.
+[54:39.260 --> 54:42.960]  But nobody's trying to drag us into things that we have no business being in.
+[54:43.420 --> 54:43.600]  Yeah.
+[54:43.780 --> 54:44.060]  You know what I mean?
+[54:44.060 --> 54:45.840]  It just don't make sense for any of us.
+[54:45.860 --> 54:50.340]  Nobody's trying to force us into other content that we don't want to be in.
+[54:50.740 --> 54:51.580]  You're absolutely right.
+[54:51.620 --> 54:52.320]  And I totally agree.
+[54:52.420 --> 54:56.660]  And this is a question from Megan Y that said what things have been easier since going,
+[54:56.860 --> 54:59.620]  you know, individual brand IP and what things have been harder.
+[55:00.000 --> 55:02.300]  And I think that's what we're talking to here is...
+[55:02.980 --> 55:03.240]  Yes.
+[55:03.980 --> 55:04.420]  Yeah.
+[55:04.560 --> 55:10.160]  That is what Gavin just explained is such a double-edged sword.
+[55:10.320 --> 55:11.280]  Because you're right.
+[55:11.560 --> 55:14.920]  We don't have to do these things that are asked of us and everything.
+[55:15.300 --> 55:20.080]  However, all of the heavy lift of doing all of the things, a sales department,
+[55:20.180 --> 55:24.560]  a marketing department, like all of those pieces of parts, a design department, like all of that
+[55:24.560 --> 55:30.540]  is now on the five of us to see that stuff through.
+[55:30.540 --> 55:36.560]  And it is easier to say yes and no and however we want to sort of delineate those things.
+[55:36.800 --> 55:43.000]  But boy, seeing it through when you are a structureless form of just five people
+[55:43.000 --> 55:49.180]  in a Discord call is way harder than when it is emails and somebody else's job.
+[55:50.060 --> 55:55.200]  The way that I was thinking about that question is everything that they,
+[55:55.500 --> 55:58.920]  as an audience or community member, sees is easier.
+[55:58.920 --> 56:02.260]  Everything that they don't experience as that is harder.
+[56:02.660 --> 56:03.740]  You're absolutely right.
+[56:03.900 --> 56:05.740]  That's a brilliant way to put it.
+[56:05.940 --> 56:07.020]  Man, that is it.
+[56:07.080 --> 56:11.780]  Everything that you care about as somebody who consumes this content and wants to be part of
+[56:11.780 --> 56:17.900]  what we're doing, infinitely easier. All the stuff that has zero impact on you, so much harder
+[56:17.900 --> 56:22.500]  and it's so much more pressure because we have to figure this stuff out.
+[56:22.920 --> 56:26.240]  But it is absolutely worth it for that trade-off.
+[56:26.240 --> 56:30.600]  And it's also like, it's not like a thing of we have an idea.
+[56:30.800 --> 56:35.680]  Let's now pitch like 50 people about it and then get different tiers of approval
+[56:35.680 --> 56:40.380]  and then have to try to figure it out and then make adjustments to it based off of that approval.
+[56:40.720 --> 56:44.920]  It is like we come up with thing, we make thing and the only like,
+[56:45.060 --> 56:49.880]  it's not an approval thing, but like being able to see the audience community reaction to it
+[56:49.880 --> 56:52.980]  is like that is the thing of like, how do they feel about this?
+[56:52.980 --> 56:56.880]  Like, what feedback are they going to give us that like,
+[56:56.940 --> 56:59.820]  oh shit, you're like, that is an interesting point. We didn't consider that.
+[57:00.340 --> 57:03.360]  Obviously, everything we're making is because we're passionate about it and we're leading with
+[57:03.360 --> 57:08.800]  what we want to do first. But it's like, that's the only wall of feedback we have as opposed to
+[57:08.800 --> 57:13.900]  like getting the thing. It's not justifying getting the thing made. It is making the thing
+[57:13.900 --> 57:19.920]  and then seeing like, oh, OK, this is what people are into. Or like maybe there's a takeaway that
+[57:19.920 --> 57:23.340]  we wouldn't have naturally figured out, but now the audience is bringing forward.
+[57:23.620 --> 57:27.520]  So it's just a completely different, much more rewarding process.
+[57:27.900 --> 57:31.360]  I think it is more rewarding. I think it's a good way to put it. I feel better about it.
+[57:31.660 --> 57:35.020]  I don't wake up at three and be like, oh, fuck it. I got to email that guy. Like,
+[57:35.200 --> 57:38.500]  you know, I think there's a handle that we have on it and I feel good about it.
+[57:39.300 --> 57:44.960]  It's, I'll say I'm working harder and longer than I have in years and I feel like I'm working less
+[57:44.960 --> 57:47.400]  than ever, if that makes any sense. I agree. I know what you mean.
+[57:47.400 --> 57:52.840]  I'm tired from all the stuff we're doing, but it's felt like all of my energy has been spent
+[57:52.840 --> 57:59.900]  so well and it's not been frustrating. Although I do miss, occasionally Eric and I would have
+[57:59.900 --> 58:05.100]  to brainstorm for collaborations that the company were going to do. And they were always ridiculous.
+[58:05.560 --> 58:09.980]  But like the premise that Eric and I had to come up with an idea of what our borderlands,
+[58:10.120 --> 58:12.160]  the movie promotion would be... Oh, it was so good!
+[58:13.600 --> 58:16.260]  I'm sad that that's not a thing that's going to happen. But just like
+[58:16.260 --> 58:20.640]  having those conversations, because it's still, and I think it will always feel to me,
+[58:20.760 --> 58:26.720]  that we're just making dumb stuff as a group of idiots who are friends and like, this is fun.
+[58:26.840 --> 58:32.720]  And then it gets weird when it's like, bad boys wants, like, you got to promote bad boys the movie
+[58:32.720 --> 58:37.520]  and like, okay, well, this is that. Let's shoot hot dogs at a cutout of Martin Lawrence.
+[58:37.840 --> 58:44.040]  There is a layer of like, professionalism and then us having to touch like this
+[58:45.300 --> 58:48.980]  professionalist documents and be like, this is, let's see if we can get this dumb shit approved.
+[58:49.460 --> 58:54.780]  To be like, questioned about it too. Like to go, hey, we're going to shoot hot dogs at these cutouts
+[58:54.780 --> 58:59.560]  and they go, what does that have to do with bad boys? And you go, it has this to do with bad boys.
+[58:59.560 --> 59:05.360]  And they go, I don't know. And it's like, what? What do you mean? I don't know. I don't know
+[59:05.360 --> 59:11.320]  either. No one here knows. I never understood. People used to have to hate or people used to
+[59:11.320 --> 59:15.320]  hate when those RFPs would come in from like Doritos or whatever. And they'd be like, we need
+[59:15.320 --> 59:19.740]  10 ideas by tomorrow. Let's get a little session together and brainstorm. I always really enjoyed
+[59:19.740 --> 59:23.480]  that. It was always just such a fun, creative thought exercise, you know? But it's, but it's
+[59:23.480 --> 59:29.460]  fruitless. No, it usually is. Nine times out of 10, it is fruitless. But every once in a while,
+[59:29.460 --> 59:34.620]  something would, would go through and it would be good. But even, even if nothing happened from it,
+[59:34.640 --> 59:38.940]  I always save those ideas. And a lot of the idea, a lot of the stuff we made at Achievement Hunter
+[59:38.940 --> 59:45.420]  or Let's Play was initially from a different pitch that I just put my pocket and held onto
+[59:45.420 --> 59:49.420]  and then used it for us later. So it wasn't like it didn't get, it was wasted. If anything,
+[59:49.540 --> 59:54.120]  it probably helped because I may not have ever had the idea if I hadn't been forced to sit in the
+[59:54.120 --> 01:00:00.740]  room and, and, you know, iterate on something. Right. Um, I have some break. We, there's,
+[01:00:00.780 --> 01:00:03.780]  we have a couple more questions and we'll wrap it up and see if there's anything else we want
+[01:00:03.780 --> 01:00:08.600]  to talk toward. But I do have some unfortunate breaking news in the middle of this recording.
+[01:00:09.160 --> 01:00:15.380]  12 minutes ago, discussing film, Kevin Costner's Horizon 2 has had its August 16th theatrical
+[01:00:15.380 --> 01:00:22.620]  release canceled. What? What? The studio, the studios are hoping that allowing more time to
+[01:00:22.620 --> 01:00:26.640]  grow the audience for the first film before releasing the second. That makes sense. That
+[01:00:26.640 --> 01:00:30.740]  makes sense. Let's focus on the first movie. Give me my points back. You can't have your
+[01:00:30.740 --> 01:00:37.480]  points back. You bought this. Oh my God. My, my untitled new line horror movie got pushed.
+[01:00:37.480 --> 01:00:41.120]  I don't have that. It's like, that's the way it works sometimes. You knew what you were getting
+[01:00:41.120 --> 01:00:47.360]  into second part of a Kevin Costner Western coming out within a month of the first part.
+[01:00:47.780 --> 01:00:52.640]  Oh, 500 million ahead of everybody. You're fine. I'm the studio. Why did I do that?
+[01:00:56.140 --> 01:01:01.420]  Did you see Kevin Costner dejectedly talking about the failure of Horizon the first part?
+[01:01:01.820 --> 01:01:07.100]  And I was just like, I've never seen a director be like, yeah, like I got another one coming in
+[01:01:07.100 --> 01:01:10.920]  the pipeline. There's nothing I can do about it. But Hey, at least those movies look the way they
+[01:01:10.920 --> 01:01:15.380]  do. I'm real proud of that. Like I'm going to lose a lot of money on this, but they look the way I
+[01:01:15.380 --> 01:01:21.400]  want. Yeah. Did he go bankrupt making this film? Like he self-funded it, took out a mortgage on
+[01:01:21.400 --> 01:01:26.640]  his house. So he is, he, he was getting divorced and everything that might've had something to do
+[01:01:26.640 --> 01:01:31.440]  with it. And then, uh, he's having to do stuff that I know he doesn't want to do. I just dropped
+[01:01:31.440 --> 01:01:39.820]  a photo of it in. Yeah. Kevin, Kevin Costner has released his own blend of a green mountain
+[01:01:39.820 --> 01:01:48.420]  Keurig cups at a Walmart and it's Kevin Costner in front of them. 1298 at a Walmart. I think like
+[01:01:49.160 --> 01:01:54.780]  it's so fucking funny that they're doing this for part two when he's currently filming part three
+[01:01:54.780 --> 01:01:59.560]  and part four is still to be started. This is supposed to be a four movie series.
+[01:01:59.560 --> 01:02:04.600]  That is insane. Wow. There's a real Avatar situation going on. We do. We really do.
+[01:02:05.100 --> 01:02:10.700]  That's right, Geoff. This is exactly like Avatar. Man, I can't wait for the audience to catch onto
+[01:02:10.700 --> 01:02:16.360]  the first one, which is going to create, you know, uh, enthusiasm for the second one. Unfortunately,
+[01:02:16.360 --> 01:02:20.260]  it'll be out of the window. So Gavin won't receive the benefit from it, but the slow build of the
+[01:02:20.260 --> 01:02:25.460]  first one is going to really help me out. I think it's, it's the furthest on the opposite side of the
+[01:02:25.460 --> 01:02:30.160]  spectrum you could have where Avatar is movie about blue people that everyone wants to see.
+[01:02:30.600 --> 01:02:37.140]  And this is about white people that nobody wants. It's fantastic. Similar to everyone,
+[01:02:37.140 --> 01:02:42.440]  to people getting post-Avatar depression syndrome, I'm having post-Horizon depression syndrome.
+[01:02:42.820 --> 01:02:47.260]  I know there's more on the horizon. However, they have pushed it and now I don't know what
+[01:02:47.260 --> 01:02:52.000]  I'm going to do. So I live in a bleak sepia toned world. I wonder if they put a, if they
+[01:02:52.000 --> 01:02:57.580]  took the film of horizon and they put a blue filter over all the characters and then drew
+[01:02:57.580 --> 01:03:03.040]  some like Avatar marks on them and then re-released it the exact same way, but just with Avatar-ish,
+[01:03:03.180 --> 01:03:08.720]  if they would do better. If they gave Kevin Costner a tail, it is, it's making money. It's banking.
+[01:03:09.180 --> 01:03:14.160]  Here's what they do to make this movie happen. They cut out each scene and give each scene to
+[01:03:14.160 --> 01:03:19.060]  a different special or VFX house and they can add whatever CG they want.
+[01:03:21.380 --> 01:03:25.840]  That rocks. Then people will go and see that movie. That would be an amazing film.
+[01:03:26.320 --> 01:03:33.660]  Look for the Easter egg in every shot. Oh my God. Okay. This next question is from Sven E.
+[01:03:34.160 --> 01:03:40.540]  Sven says, what happened to all the stuff from the museum, like the tuxedo and the porta potty?
+[01:03:40.540 --> 01:03:43.780]  We have half of those things. Well, the porta potty,
+[01:03:43.920 --> 01:03:47.200]  the porta potty was last seen riding off into the sunset in a U-Haul.
+[01:03:49.440 --> 01:03:52.460]  I've got it in my studio currently. Yeah, Gavin's got it.
+[01:03:53.260 --> 01:03:55.840]  Like I knew we had it, but I didn't know where it was.
+[01:03:56.160 --> 01:03:59.280]  He's got that. He's got the break show and he's got a bunch of like
+[01:03:59.280 --> 01:04:02.140]  leftover merch that was sitting around. A lot of straws.
+[01:04:02.700 --> 01:04:08.700]  But because those are things that we bought, that's our money.
+[01:04:10.080 --> 01:04:14.400]  The tuxedo, however, was a purchase that we did not purchase.
+[01:04:15.000 --> 01:04:21.100]  So we do not have the tuxedo any longer. I apologize, but we do have the porta potty
+[01:04:21.100 --> 01:04:25.940]  and we can try to dress it up, but that's the best we're going to be able to do. I'm very sorry.
+[01:04:26.080 --> 01:04:28.100]  We can always try and get another Jackie Chan outfit.
+[01:04:28.640 --> 01:04:31.320]  Maybe we need to. Oh, what a good idea.
+[01:04:31.820 --> 01:04:34.380]  Here's the thing with that, because I've had a similar thought.
+[01:04:34.860 --> 01:04:39.840]  We are in a community like we are largely funded from Patreon.
+[01:04:40.220 --> 01:04:43.000]  I think it would be so fun to get, like, figure out what
+[01:04:43.000 --> 01:04:48.460]  either movie or item that is as like a community and do one of those auctions again
+[01:04:48.460 --> 01:04:50.300]  and try to secure it. But I think that's a good idea.
+[01:04:50.560 --> 01:04:54.140]  Everybody on board because it's. Yeah, I really like that.
+[01:04:54.140 --> 01:04:57.700]  I wonder if anybody, if they were to auction off any of his socks.
+[01:04:59.040 --> 01:05:03.720]  I think we could go further. I think we could even leave the realm of Jackie Chan.
+[01:05:03.840 --> 01:05:06.980]  I think we could. You're thinking of a different tuxedo?
+[01:05:08.260 --> 01:05:13.160]  I like the idea of getting a different tuxedo that is unrelated to the tuxedo.
+[01:05:13.340 --> 01:05:16.720]  What is the next great tuxedo? Is it a Bond tux? James Bond.
+[01:05:17.020 --> 01:05:19.660]  Yeah, that's the classic one. That's out of reach.
+[01:05:20.300 --> 01:05:24.900]  I don't know, because if we're lucky, we can afford a George Lazenby and who wants that?
+[01:05:26.540 --> 01:05:30.820]  I was going to say that they're like, I noticed when they were doing a big John Wick 4 auction,
+[01:05:30.980 --> 01:05:35.120]  John Wick had like 25 tuxes. Now, all were cheaper than you'd expect.
+[01:05:36.260 --> 01:05:39.820]  Now, I don't think we're getting more John Wick, unfortunately, but like if those
+[01:05:39.820 --> 01:05:42.360]  the old ones go in rotation, that is a consideration.
+[01:05:42.720 --> 01:05:46.600]  I was looking on an auction site. You can buy Luke Cornette's
+[01:05:47.160 --> 01:05:50.580]  game-worn NBA shorts from the finals for $700.
+[01:05:52.280 --> 01:05:55.740]  You can buy Jason Tatum's for about $70,000, but Luke Cornette was the cheapest I could find.
+[01:05:56.640 --> 01:06:00.760]  $700, you can have his sweaty dick sweat all over you.
+[01:06:01.020 --> 01:06:02.640]  What if we went for a Chris Tucker suit?
+[01:06:06.420 --> 01:06:08.080]  A Ruby Rod outfit.
+[01:06:08.620 --> 01:06:13.280]  What if we built a collection of Jackie Chan sidekicks?
+[01:06:14.720 --> 01:06:15.240]  Owen Wilson's suit.
+[01:06:15.240 --> 01:06:17.680]  Just people that have appeared alongside Jackie Chan.
+[01:06:17.720 --> 01:06:19.040]  I love that idea.
+[01:06:19.380 --> 01:06:22.620]  We don't have the original thing that started us down this road,
+[01:06:22.720 --> 01:06:24.780]  but we're going to do all of his sidekick stuff?
+[01:06:24.980 --> 01:06:26.380]  All of his adjacent stuff.
+[01:06:26.420 --> 01:06:31.100]  We could start a museum where the center container of prop is just completely empty.
+[01:06:31.420 --> 01:06:36.140]  I want Owen Wilson's cowboy suit from Shanghai Noon so bad.
+[01:06:36.700 --> 01:06:37.620]  That'd be awesome.
+[01:06:38.300 --> 01:06:41.680]  You know, some say the absence of a tuxedo is the real tuxedo.
+[01:06:41.880 --> 01:06:42.280]  Wow.
+[01:06:43.440 --> 01:06:46.640]  I mean, I don't say that, but yeah, I mean, I guess I get what you're saying.
+[01:06:47.200 --> 01:06:49.280]  I didn't say it, some say it.
+[01:06:50.060 --> 01:06:51.240]  All right, last question.
+[01:06:52.320 --> 01:06:56.540]  Will you guys ever consider having a P.O. box for us to send things?
+[01:06:56.660 --> 01:07:01.440]  I bought some gifts to send in for the Break Show right around the time the closure was announced.
+[01:07:01.660 --> 01:07:02.620]  Love you guys and all you do.
+[01:07:02.660 --> 01:07:03.620]  That's from Christy.
+[01:07:04.280 --> 01:07:05.560]  We have a P.O. box.
+[01:07:05.740 --> 01:07:06.660]  I'm happy to report.
+[01:07:07.340 --> 01:07:07.580]  We do.
+[01:07:08.080 --> 01:07:10.240]  That you can send stuff to whenever you want to.
+[01:07:11.600 --> 01:07:15.180]  And Andrew is going to say that P.O. box number right now.
+[01:07:15.360 --> 01:07:18.100]  But hang on, wait, wait, wait, stop, stop, stop, stop, stop.
+[01:07:18.820 --> 01:07:21.820]  Here's the issue that I have with the P.O. box right now.
+[01:07:22.520 --> 01:07:26.020]  We don't have anywhere for this stuff to go.
+[01:07:26.360 --> 01:07:26.980]  Go to my house.
+[01:07:27.660 --> 01:07:29.880]  Okay, we all heard it.
+[01:07:30.320 --> 01:07:31.240]  It's recorded.
+[01:07:31.560 --> 01:07:35.260]  When Emily messages me and says, what the fuck is all this?
+[01:07:36.180 --> 01:07:38.420]  Then I will go, here is the recording.
+[01:07:38.640 --> 01:07:40.080]  Then it'll go to the studio.
+[01:07:40.240 --> 01:07:41.960]  And get in the porta potty.
+[01:07:42.000 --> 01:07:46.340]  Why don't we say we'll accept all mail in like microfilm format.
+[01:07:47.080 --> 01:07:48.280]  We'll just put it in the porta potty.
+[01:07:48.340 --> 01:07:49.060]  We got tons of room in there.
+[01:07:49.520 --> 01:07:51.440]  Okay, that's our storage unit.
+[01:07:54.040 --> 01:07:55.900]  Storage wars, but it's porta potties.
+[01:07:57.040 --> 01:07:59.420]  We're going to have to get a fucking office someday.
+[01:07:59.520 --> 01:08:00.580]  Yes, that's what I was.
+[01:08:00.680 --> 01:08:02.120]  That's what I'm bringing up because we're not going to.
+[01:08:02.160 --> 01:08:03.780]  I'm not keeping this stuff at my house, dude.
+[01:08:04.260 --> 01:08:05.620]  I don't think we need an office.
+[01:08:06.000 --> 01:08:07.200]  I disagree with this.
+[01:08:07.860 --> 01:08:09.480]  Oh, because you never go to it, fool.
+[01:08:09.480 --> 01:08:12.180]  Yeah, I was just saying, you don't want us to collaborate without you.
+[01:08:12.700 --> 01:08:14.060]  Well, no, well, first of all, yes.
+[01:08:14.220 --> 01:08:16.980]  Second of all, we do a remote thing.
+[01:08:17.760 --> 01:08:22.000]  Like, why would I want to pay money for you guys to make stuff I can't be a part of?
+[01:08:22.280 --> 01:08:24.300]  You could be a part of it over the internet.
+[01:08:24.880 --> 01:08:26.060]  But I'm never am.
+[01:08:26.200 --> 01:08:27.240]  It's never as good.
+[01:08:27.420 --> 01:08:31.180]  Every time we've recorded in person, you've been on the Discord.
+[01:08:31.200 --> 01:08:31.680]  Not true.
+[01:08:31.820 --> 01:08:33.760]  Not always.
+[01:08:34.040 --> 01:08:34.820]  Most of the time, not.
+[01:08:34.960 --> 01:08:35.960]  I think the best stuff.
+[01:08:36.460 --> 01:08:41.140]  Yeah, but the best stuff, I feel like when you guys are together does not involve me.
+[01:08:41.260 --> 01:08:42.500]  And it's like you're digging a hole.
+[01:08:42.880 --> 01:08:43.640]  You're doing a lie.
+[01:08:44.240 --> 01:08:44.600]  It's it's.
+[01:08:45.480 --> 01:08:47.920]  Wait, so we're not supposed to dig holes or we can't?
+[01:08:47.960 --> 01:08:50.140]  We're not supposed to do the best stuff.
+[01:08:50.500 --> 01:08:51.380]  Those are great.
+[01:08:51.680 --> 01:08:55.500]  I just don't think there is a value in us having a physical space.
+[01:08:55.760 --> 01:08:58.020]  Hey, you know what?
+[01:08:58.200 --> 01:08:58.940]  You know what, Andrew?
+[01:08:59.040 --> 01:09:00.460]  You make a very strong point.
+[01:09:00.480 --> 01:09:04.760]  So let's go ahead and take a vote all in favor of getting a space.
+[01:09:04.760 --> 01:09:05.500]  Say I.
+[01:09:06.080 --> 01:09:06.240]  I.
+[01:09:07.180 --> 01:09:07.620]  I.
+[01:09:08.880 --> 01:09:09.320]  I.
+[01:09:09.720 --> 01:09:10.160]  Nay.
+[01:09:11.200 --> 01:09:15.940]  Okay, I think it's a really like an unnecessary use of money.
+[01:09:16.360 --> 01:09:19.080]  What if we got a storage unit first?
+[01:09:19.460 --> 01:09:23.880]  The amount of stuff though, the amount of ideas that came from just being stood around each other.
+[01:09:24.060 --> 01:09:28.140]  So, so hang out, hang out in a place where we're not paying for an office.
+[01:09:28.320 --> 01:09:30.020]  You guys can hang out anywhere.
+[01:09:30.440 --> 01:09:30.940]  You do not.
+[01:09:31.040 --> 01:09:33.920]  We do not need to pay money for you guys to have a space to hang out.
+[01:09:33.920 --> 01:09:38.780]  This is the same issue as keeping stuff that people send in where we're just going.
+[01:09:38.860 --> 01:09:40.040]  We're just going somewhere.
+[01:09:40.180 --> 01:09:41.380]  We're just going to hang out somewhere.
+[01:09:41.420 --> 01:09:42.640]  We're going to go to someone's house.
+[01:09:43.220 --> 01:09:44.380]  Anywhere, any house.
+[01:09:44.380 --> 01:09:46.220]  Do you know where a really cool place would be?
+[01:09:46.320 --> 01:09:49.820]  A space that we rent that we can use for whatever we want.
+[01:09:50.120 --> 01:09:52.080]  Like we have, you guys could go to a coffee shop.
+[01:09:52.120 --> 01:09:53.480]  You could go to each other's houses.
+[01:09:54.080 --> 01:09:55.180]  Like this is happening.
+[01:09:56.040 --> 01:09:58.540]  Why are you dictating where we go?
+[01:09:58.860 --> 01:10:00.400]  This doesn't make any sense to me.
+[01:10:00.560 --> 01:10:01.980]  Geoff, you voted nay?
+[01:10:02.500 --> 01:10:04.280]  Because it doesn't make sense.
+[01:10:04.500 --> 01:10:04.940]  Hold on a second.
+[01:10:05.080 --> 01:10:07.340]  But what if we wanted to like do a cooking thing?
+[01:10:07.620 --> 01:10:09.560]  Like a melon balling or whatever.
+[01:10:09.940 --> 01:10:11.740]  Yeah, what if we wanted time to set something up?
+[01:10:11.820 --> 01:10:13.920]  Make it, you know, light it, make it look decent.
+[01:10:14.100 --> 01:10:15.620]  And then we don't necessarily want to film it that day.
+[01:10:15.680 --> 01:10:18.360]  What are we going to take all of our stuff back out of the coffee shop?
+[01:10:18.800 --> 01:10:22.420]  If only one of us has a studio in which you could film things.
+[01:10:22.440 --> 01:10:24.940]  He's volunteering your studio, Gavin.
+[01:10:25.040 --> 01:10:26.120]  I have to pay for that.
+[01:10:26.640 --> 01:10:28.400]  Well, that's that's what my point.
+[01:10:28.840 --> 01:10:30.000]  My point is that.
+[01:10:30.660 --> 01:10:32.620]  Sure, I wouldn't pay you rent for that.
+[01:10:32.620 --> 01:10:35.420]  Wait, we're paying Gavin rents, but we could be renting a space.
+[01:10:37.020 --> 01:10:40.980]  I don't see the value in us having a space constantly.
+[01:10:41.520 --> 01:10:42.640]  Don't say us, say you.
+[01:10:43.140 --> 01:10:44.180]  What if we did too?
+[01:10:44.220 --> 01:10:44.840]  What if we did this?
+[01:10:44.880 --> 01:10:48.600]  What if we, in conjunction with renting an office in Austin, we rented one in Vancouver Island?
+[01:10:48.780 --> 01:10:50.140]  And every time we went, you went.
+[01:10:50.380 --> 01:10:51.680]  And we all had to be at the office together.
+[01:10:53.280 --> 01:10:55.780]  It's just I think it doesn't make any sense.
+[01:10:55.840 --> 01:10:57.260]  But I respect the vote.
+[01:10:57.260 --> 01:11:04.800]  I feel like there's got to be a technical way to improve the lines of communication to make it better.
+[01:11:05.480 --> 01:11:09.640]  Like we it was always just a ramshackle thing we threw together in a conference room at RT.
+[01:11:09.960 --> 01:11:13.320]  Yeah, and there's always there's still stuff that we wanted to do that we
+[01:11:13.320 --> 01:11:15.400]  can't do because we don't have a space right now.
+[01:11:15.780 --> 01:11:17.360]  It's like a gameplay thing we want to do.
+[01:11:18.320 --> 01:11:20.040]  Yeah, we do a gameplay thing.
+[01:11:20.160 --> 01:11:20.740]  See, I don't know.
+[01:11:20.900 --> 01:11:21.100]  You do.
+[01:11:21.220 --> 01:11:21.660]  Yeah, you do.
+[01:11:21.660 --> 01:11:21.880]  You do.
+[01:11:22.000 --> 01:11:22.220]  You do.
+[01:11:22.600 --> 01:11:23.800]  You absolutely know about it.
+[01:11:24.360 --> 01:11:26.440]  It's just we don't have a place to do it.
+[01:11:26.440 --> 01:11:32.080]  The premise of I feel like a value that we have is that being a remote company,
+[01:11:32.160 --> 01:11:35.520]  like we're I don't think we lose anything in our remoteness.
+[01:11:35.580 --> 01:11:40.600]  So the idea of like making a physical space just as a constant doesn't make any sense to me.
+[01:11:40.780 --> 01:11:42.820]  We can hang out outside of that.
+[01:11:42.920 --> 01:11:44.100]  I can understand that.
+[01:11:44.160 --> 01:11:47.200]  I think I also think it's not like even if we decided.
+[01:11:47.420 --> 01:11:48.600]  Well, I mean, we voted.
+[01:11:48.720 --> 01:11:52.360]  So but decided to get a place.
+[01:11:52.780 --> 01:11:53.980]  I don't think we'd be doing it tomorrow.
+[01:11:53.980 --> 01:11:56.980]  I don't think I think it's a decision that would be like pretty far down the road
+[01:11:56.980 --> 01:12:00.080]  as we grow and maybe our needs grow and change, too.
+[01:12:00.180 --> 01:12:00.680]  I don't know.
+[01:12:02.100 --> 01:12:05.580]  But I definitely see that it's a point of contention and I don't want it to be.
+[01:12:05.920 --> 01:12:09.780]  I mostly I would be happy with a storage unit right now,
+[01:12:09.800 --> 01:12:12.640]  just so we have a place to put shit that doesn't burden Gavin or
+[01:12:12.640 --> 01:12:15.640]  I was I was on board with it till Eric mentioned my wife.
+[01:12:15.740 --> 01:12:16.680]  And then I got scared.
+[01:12:18.200 --> 01:12:20.740]  I don't know how that wasn't the first thing you thought of.
+[01:12:21.520 --> 01:12:23.620]  I just because I don't think a lot.
+[01:12:28.020 --> 01:12:31.320]  I'm like, if I'm being honest with you, I most of my idle thoughts these days
+[01:12:31.320 --> 01:12:32.320]  are taken up by hot dogs.
+[01:12:32.440 --> 01:12:33.840]  I just I think about hot dogs a lot.
+[01:12:33.920 --> 01:12:34.860]  That's mostly what I'm thinking of.
+[01:12:35.580 --> 01:12:35.940]  Buns.
+[01:12:36.060 --> 01:12:36.120]  What?
+[01:12:36.640 --> 01:12:39.740]  Yeah, I've been thinking I had like so many fucking hot dogs in Michigan.
+[01:12:40.880 --> 01:12:42.500]  It's weird that you shit so much.
+[01:12:42.700 --> 01:12:44.520]  Anyway, what do you think we'll lose?
+[01:12:45.400 --> 01:12:45.760]  Right.
+[01:12:46.460 --> 01:12:47.080]  What do you mean?
+[01:12:47.620 --> 01:12:50.920]  What will we lose that we currently have by getting a space?
+[01:12:50.920 --> 01:12:54.560]  By getting a like, I just want from money.
+[01:12:56.100 --> 01:12:58.020]  Money is like the obvious thing.
+[01:12:58.320 --> 01:13:02.040]  The second thing is like, I just feel like that is not going to be an optimal
+[01:13:02.040 --> 01:13:04.000]  way for me to interact with you guys.
+[01:13:04.080 --> 01:13:05.040]  And I want to be part of that.
+[01:13:05.100 --> 01:13:07.200]  And it's OK that there are times where I'm not part of that.
+[01:13:07.580 --> 01:13:11.640]  But if like the idea of you guys always are going to the space and I'm the only remote one.
+[01:13:12.040 --> 01:13:12.840]  I hate that.
+[01:13:12.940 --> 01:13:17.060]  I can listen, I can completely and totally understand that.
+[01:13:17.180 --> 01:13:20.240]  And I think that the fear there would be if I were in Andrew's position,
+[01:13:20.240 --> 01:13:23.640]  if you guys go to the office and you're in the office more and more and more,
+[01:13:23.820 --> 01:13:25.960]  then I'm a part of it less and less and less.
+[01:13:26.180 --> 01:13:26.580]  Yes.
+[01:13:26.680 --> 01:13:29.020]  And I would feel maybe pushed to the side.
+[01:13:29.340 --> 01:13:33.820]  And as somebody who is the only remote end of you guys in the office,
+[01:13:33.980 --> 01:13:35.540]  it sucks most of the time.
+[01:13:35.860 --> 01:13:36.740]  I completely understand.
+[01:13:36.900 --> 01:13:39.460]  I mean, the delay for content, I think it does suck.
+[01:13:39.580 --> 01:13:41.260]  But I don't think we would want to record a ton.
+[01:13:41.760 --> 01:13:44.220]  But we all used to go to an office anyway.
+[01:13:45.040 --> 01:13:49.140]  But then like for me, just my position of from a business perspective,
+[01:13:49.140 --> 01:13:52.580]  why do we need to pay for a place that you guys hang out in?
+[01:13:53.400 --> 01:13:56.300]  Why is that like you can't hang out in other places?
+[01:13:57.100 --> 01:13:58.260]  That is just my thought.
+[01:13:58.580 --> 01:14:00.440]  As somebody who is not going to utilize the space.
+[01:14:00.680 --> 01:14:05.280]  We can definitely hang out at a coffee shop and kick around ideas or go to lunch and stuff.
+[01:14:05.360 --> 01:14:05.800]  That's easy.
+[01:14:05.980 --> 01:14:10.940]  But there is a benefit of having a creative space to play in.
+[01:14:11.620 --> 01:14:13.400]  Kind of like the old Achievement Hunter office.
+[01:14:13.700 --> 01:14:17.380]  I don't know that we need to address it today or even a month from now.
+[01:14:17.380 --> 01:14:21.680]  But I do think that there would be a benefit of just having a place where we could go that
+[01:14:21.680 --> 01:14:28.400]  we can mess up and we don't have to disrupt my life or Eric's life or Gavin's other business.
+[01:14:28.540 --> 01:14:31.600]  And we can turn the lights off and leave, you know.
+[01:14:33.340 --> 01:14:35.660]  And like that whiteboard wouldn't have happened remotely.
+[01:14:36.320 --> 01:14:37.340]  Why wouldn't it have though?
+[01:14:37.920 --> 01:14:39.220]  Why couldn't that have happened remotely?
+[01:14:39.300 --> 01:14:40.760]  We need a place to store stuff.
+[01:14:40.900 --> 01:14:42.140]  We need a place to store stuff.
+[01:14:42.240 --> 01:14:44.240]  And if we're already going to pay for a place to store stuff,
+[01:14:44.360 --> 01:14:46.900]  I want it to be a place that we can go to as we see fit
+[01:14:46.900 --> 01:14:49.580]  and not have to go through so many hoops to get into.
+[01:14:50.060 --> 01:14:55.820]  I don't see the benefit of not having a space if we are going to get together occasionally
+[01:14:57.220 --> 01:14:59.560]  and film things in person.
+[01:14:59.740 --> 01:15:02.260]  I understand what you're saying about being remote.
+[01:15:02.800 --> 01:15:04.620]  We can figure that out.
+[01:15:04.800 --> 01:15:07.560]  I do not think it will be a day-to-day place that we will go to.
+[01:15:07.660 --> 01:15:10.960]  But I can see a Friday afternoon where we know we're going to film something.
+[01:15:11.760 --> 01:15:12.500]  That's there.
+[01:15:12.500 --> 01:15:18.440]  And we have all of the cards that people are going to send to this PO box that I'm about to read out
+[01:15:18.440 --> 01:15:21.660]  and all of this other stuff because it's not going to stop.
+[01:15:21.760 --> 01:15:26.560]  And we won't change anything that's remote now into an in-person thing down the line.
+[01:15:26.680 --> 01:15:28.620]  We're still going to keep everything we do the same.
+[01:15:29.160 --> 01:15:31.040]  I understand saying that, but like...
+[01:15:31.580 --> 01:15:33.400]  Eric does bring up one point.
+[01:15:33.880 --> 01:15:41.160]  I am not going to start the card show back until I have a dedicated space for it.
+[01:15:41.160 --> 01:15:43.000]  I've been kind of holding out on that.
+[01:15:43.080 --> 01:15:44.520]  I just don't have the room for it in my house.
+[01:15:45.620 --> 01:15:47.620]  My office is mostly cards.
+[01:15:48.960 --> 01:15:50.320]  So I need a dedicated...
+[01:15:50.320 --> 01:15:52.620]  I need a set if I want to continue the break show.
+[01:15:52.700 --> 01:15:56.220]  And I would like to continue the break show for regulation at some point or some iteration of it.
+[01:15:56.280 --> 01:15:57.260]  I do think that there's...
+[01:15:57.260 --> 01:16:00.200]  Just highlighting collectibles and having fun and playing with collectibles, I think,
+[01:16:00.440 --> 01:16:03.700]  is something that there's a lot of entertainment value in.
+[01:16:04.220 --> 01:16:06.540]  And I definitely would like a place to do that.
+[01:16:07.160 --> 01:16:09.760]  But I also think that we're having a very serious discussion
+[01:16:09.760 --> 01:16:13.640]  about something that's a long way off, probably.
+[01:16:16.160 --> 01:16:19.200]  So just to clarify, I fully support that.
+[01:16:19.320 --> 01:16:21.040]  Like, I totally see value in that,
+[01:16:21.260 --> 01:16:23.580]  especially if like we want to film a specific show,
+[01:16:23.700 --> 01:16:26.120]  like having like a does it do type thing.
+[01:16:26.200 --> 01:16:27.760]  We would need a space like that.
+[01:16:27.840 --> 01:16:28.620]  And I love that.
+[01:16:28.820 --> 01:16:33.100]  Like, I want as many of our creative ideas to have a place to exist
+[01:16:33.100 --> 01:16:35.600]  and to make them the best they can be as possible.
+[01:16:35.920 --> 01:16:38.920]  My opposition to it was that it was originally framed to me as
+[01:16:38.920 --> 01:16:41.320]  let's have a physical space to hang out in.
+[01:16:41.740 --> 01:16:42.540]  Yeah, that's not...
+[01:16:42.540 --> 01:16:44.060]  I don't believe that's how we framed it.
+[01:16:44.380 --> 01:16:45.520]  No, it was.
+[01:16:45.900 --> 01:16:47.320]  I 100%...
+[01:16:47.320 --> 01:16:51.080]  Andrew, I completely understand what you're saying.
+[01:16:51.280 --> 01:16:52.400]  I disagree with your premise.
+[01:16:52.580 --> 01:16:53.880]  I don't believe that's what we said.
+[01:16:54.120 --> 01:16:55.600]  I said, I need a place to put stuff.
+[01:16:55.960 --> 01:16:58.920]  Whether it's what we said or not, it's what he heard.
+[01:16:59.020 --> 01:17:00.100]  And that's the only thing that matters.
+[01:17:00.360 --> 01:17:03.560]  But I will say we had the old face office, Andrew.
+[01:17:03.840 --> 01:17:06.400]  And I would go in there and I would sit there sometimes for a couple hours.
+[01:17:06.520 --> 01:17:07.900]  I rarely ran into any...
+[01:17:07.900 --> 01:17:09.520]  I saw Eric a handful of times.
+[01:17:09.640 --> 01:17:12.440]  I never saw Gavin there once, I don't think.
+[01:17:12.500 --> 01:17:15.860]  Yeah, I would see people in other places just around the office.
+[01:17:16.120 --> 01:17:17.300]  So, I mean, I don't...
+[01:17:17.300 --> 01:17:19.980]  Nobody went to the office when we had one very often.
+[01:17:20.100 --> 01:17:21.880]  It was mostly just a storage room.
+[01:17:22.580 --> 01:17:27.240]  So I don't envision it would be that different in the future as well.
+[01:17:27.320 --> 01:17:29.440]  Just from my perspective, just to clarify,
+[01:17:29.740 --> 01:17:33.000]  it was originally brought in the context that you guys were swimming.
+[01:17:33.420 --> 01:17:35.400]  And then it was like, yeah, we need a place to hang out.
+[01:17:35.840 --> 01:17:37.440]  And that was just all I heard about it.
+[01:17:37.440 --> 01:17:42.380]  So that was my main point of being against it.
+[01:17:42.560 --> 01:17:44.020]  So you're saying we shouldn't rent a pool?
+[01:17:45.540 --> 01:17:47.260]  No, unless we have pool content.
+[01:17:47.680 --> 01:17:49.720]  Then I fully support the renting of the pool.
+[01:17:50.080 --> 01:17:52.000]  Andrew, I completely understand where you're coming from.
+[01:17:52.620 --> 01:17:53.020]  So...
+[01:17:53.020 --> 01:17:53.420]  I'm excited.
+[01:17:53.920 --> 01:17:56.720]  The P.O. box, if you guys want to send us stuff,
+[01:17:57.180 --> 01:17:58.900]  and please be mindful about what you're sending,
+[01:17:59.000 --> 01:18:01.700]  because you're going to send a bunch of cards for a show that we're not making right now.
+[01:18:01.720 --> 01:18:04.360]  Don't send anything food-related, because it will...
+[01:18:04.820 --> 01:18:05.160]  Yeah, yes.
+[01:18:05.300 --> 01:18:07.100]  We don't know how often we're going to check this P.O. box.
+[01:18:07.100 --> 01:18:07.880]  That's going to go bad.
+[01:18:08.080 --> 01:18:10.360]  So please just be mindful of what you're sending,
+[01:18:10.520 --> 01:18:12.620]  because it's for shows we're not making yet and stuff we're not doing.
+[01:18:12.980 --> 01:18:15.440]  So please don't feel like you have to utilize this P.O. box.
+[01:18:15.580 --> 01:18:17.380]  But we want to open it up.
+[01:18:17.560 --> 01:18:20.920]  It is P.O. box 13146.
+[01:18:21.380 --> 01:18:23.540]  And you send that to Care of Regulation Company,
+[01:18:25.840 --> 01:18:31.760]  111 East 17th Street, Austin, Texas, 78701.
+[01:18:32.060 --> 01:18:35.420]  And to be clear, we will not be hanging out in the P.O. box.
+[01:18:37.100 --> 01:18:40.120]  I got the biggest P.O. box they have, so we could if we wanted to.
+[01:18:41.660 --> 01:18:42.680]  Now that's a hang.
+[01:18:43.700 --> 01:18:45.140]  We're already paying for it, might as well.
+[01:18:45.200 --> 01:18:46.360]  Oh, fuck, I'm paying for it.
+[01:18:46.400 --> 01:18:47.400]  I'm going to switch that over to our company.
+[01:18:47.780 --> 01:18:48.420]  Yeah, you blew it.
+[01:18:48.480 --> 01:18:49.040]  Yeah, you did.
+[01:18:51.180 --> 01:18:52.940]  But that'll do it for...
+[01:18:52.940 --> 01:18:54.280]  Is there anything else you guys want to cover?
+[01:18:54.400 --> 01:18:56.840]  This went a little bit longer than I was anticipating, but...
+[01:18:56.840 --> 01:18:57.320]  Yeah, this is great.
+[01:18:57.320 --> 01:18:58.920]  I feel like that was a really strong sausage talk.
+[01:18:59.200 --> 01:19:02.900]  Why do you think they never dye the outer packaging of sausages
+[01:19:02.900 --> 01:19:04.700]  to make them more fun for kids?
+[01:19:05.120 --> 01:19:07.460]  They're always the, like, translucent, clear ones.
+[01:19:07.680 --> 01:19:08.780]  What do you mean?
+[01:19:09.080 --> 01:19:10.320]  Like a blue sausage?
+[01:19:10.760 --> 01:19:12.400]  Can you imagine, like, a blue and red sausage?
+[01:19:12.980 --> 01:19:15.240]  No, I don't want to imagine that.
+[01:19:15.360 --> 01:19:16.260]  That sounds awful.
+[01:19:16.880 --> 01:19:18.220]  What about those Red Hots?
+[01:19:18.300 --> 01:19:19.600]  Isn't that kind of what they are?
+[01:19:20.440 --> 01:19:22.960]  Oh, I just assumed that was from, like, physical red pepper and stuff.
+[01:19:23.080 --> 01:19:23.800]  Is that a dye?
+[01:19:24.300 --> 01:19:25.060]  Oh, I don't know.
+[01:19:25.920 --> 01:19:29.180]  I feel like you could easily dye the sausage casings.
+[01:19:29.680 --> 01:19:31.720]  Now, if you add white, you get red, white, and blue.
+[01:19:31.780 --> 01:19:32.460]  I'm all about that.
+[01:19:33.040 --> 01:19:33.440]  Patriotic.
+[01:19:33.440 --> 01:19:34.500]  I'll put an eagle.
+[01:19:35.540 --> 01:19:36.580]  What the fuck?
+[01:19:36.720 --> 01:19:37.960]  You think this is more fun?
+[01:19:38.740 --> 01:19:39.460]  Oh, my God.
+[01:19:39.920 --> 01:19:40.980]  This is worse!
+[01:19:41.400 --> 01:19:42.240]  Now, that looks great.
+[01:19:42.380 --> 01:19:44.900]  That looks like I'm getting my five a day, even though I'm not.
+[01:19:47.180 --> 01:19:48.500]  Is that a British thing?
+[01:19:48.540 --> 01:19:49.880]  You gotta get five sausages a day?
+[01:19:49.960 --> 01:19:50.260]  What do you mean?
+[01:19:50.440 --> 01:19:51.980]  Five veg a day, five fruit a day.
+[01:19:52.380 --> 01:19:53.780]  Five a day keeps the doctor away.
+[01:19:54.000 --> 01:19:54.640]  So that's right.
+[01:19:55.080 --> 01:19:55.700]  Never heard that.
+[01:19:55.700 --> 01:19:56.320]  That's what they say.
+[01:19:57.860 --> 01:19:59.300]  It's a thing from when we were kids.
+[01:19:59.640 --> 01:20:00.860]  That looks awesome.
+[01:20:01.400 --> 01:20:02.780]  No, it doesn't.
+[01:20:03.440 --> 01:20:04.580]  What are you talking about?
+[01:20:04.580 --> 01:20:05.860]  What's not to like about that?
+[01:20:06.220 --> 01:20:06.880]  The gradient.
+[01:20:07.080 --> 01:20:07.700]  Oh, green.
+[01:20:07.800 --> 01:20:11.340]  You know, those runs were like they get dye thrown at them or whatever.
+[01:20:11.480 --> 01:20:13.700]  It looks like those sausages went through those.
+[01:20:13.800 --> 01:20:14.900]  They've all been on a fun run.
+[01:20:15.860 --> 01:20:16.660]  Yeah, exactly.
+[01:20:20.320 --> 01:20:21.720]  Oh, man.
+[01:20:21.880 --> 01:20:23.760]  Well, this has been a lot of fun and I love it.
+[01:20:23.840 --> 01:20:25.040]  Yeah, this has been a great sausage talk.
+[01:20:25.160 --> 01:20:25.820]  This is really great.
+[01:20:26.460 --> 01:20:28.300]  Being able to recap our business stuff.
+[01:20:28.380 --> 01:20:32.140]  And I'm so beyond thankful for like the community support and all that.
+[01:20:32.140 --> 01:20:34.140]  I'm incredibly thankful for all of you guys.
+[01:20:34.220 --> 01:20:35.780]  You make this so much fun.
+[01:20:36.580 --> 01:20:37.840]  And it's a genuine.
+[01:20:38.360 --> 01:20:39.260]  No, fuck.
+[01:20:39.420 --> 01:20:40.020]  Fuck you.
+[01:20:40.220 --> 01:20:40.400]  Yeah.
+[01:20:40.660 --> 01:20:41.320]  Yeah, get up.
+[01:20:43.540 --> 01:20:45.700]  I'm genuinely excited about Monday meetings.
+[01:20:45.700 --> 01:20:50.060]  Like it's I know, like I am just to be able to sync up if we haven't talked in a few days.
+[01:20:50.060 --> 01:20:50.600]  Like, it's great.
+[01:20:51.040 --> 01:20:53.800]  Oh, hey, can I give one piece of advice to the rest of Regulation Company?
+[01:20:54.060 --> 01:20:55.540]  Well, while I have you guys here?
+[01:20:55.640 --> 01:20:56.040]  Oh, yeah.
+[01:20:56.040 --> 01:20:56.700]  Before we end.
+[01:20:56.960 --> 01:20:58.000]  Don't go on vacation.
+[01:20:58.760 --> 01:20:59.600]  You'll be miserable.
+[01:20:59.720 --> 01:21:00.720]  You'll miss it so much.
+[01:21:00.720 --> 01:21:02.120]  It's a stay here.
+[01:21:02.460 --> 01:21:03.400]  Vacation in your bedroom.
+[01:21:03.560 --> 01:21:05.020]  It's like the FOMO is real.
+[01:21:05.100 --> 01:21:05.940]  And I don't get FOMO.
+[01:21:06.100 --> 01:21:07.420]  And it's a new experience for me.
+[01:21:07.500 --> 01:21:08.140]  It's not cool.
+[01:21:09.280 --> 01:21:12.140]  Wait until you see these heists.
+[01:21:12.280 --> 01:21:15.560]  You think that these guys are almost done with this one.
+[01:21:15.620 --> 01:21:16.760]  They're going to beat it in one.
+[01:21:17.140 --> 01:21:19.300]  And then you realize you're halfway through the video.
+[01:21:21.640 --> 01:21:22.340]  Yeah, Gavin.
+[01:21:22.440 --> 01:21:23.040]  We love you, Nick.
+[01:21:29.320 --> 01:21:29.980]  I'm sorry, Andrew.
+[01:21:30.000 --> 01:21:30.500]  I cut you off.
+[01:21:30.500 --> 01:21:30.780]  Continue.
+[01:21:32.580 --> 01:21:35.360]  No, listen, I'm done blowing you guys.
+[01:21:35.540 --> 01:21:36.580]  It's a lot of fun.
+[01:21:36.780 --> 01:21:38.180]  I love you guys.
+[01:21:39.000 --> 01:21:39.920]  You can move on.
+[01:21:41.420 --> 01:21:45.840]  Well, guys, if you want to send in your sausage talk questions for our next one, you can.
+[01:21:45.880 --> 01:21:47.260]  Did you just say sausage talk?
+[01:21:48.800 --> 01:21:49.560]  Sausage talk?
+[01:21:49.760 --> 01:21:50.200]  What did I say?
+[01:21:50.300 --> 01:21:51.240]  Did I say sausage talk?
+[01:21:51.580 --> 01:21:51.760]  Sausage talk.
+[01:21:51.760 --> 01:21:57.000]  Well, if you want to send your questions in for sausage talk or sausage talk, either one,
+[01:21:57.000 --> 01:22:00.000]  you can go to patreon.com slash the regulation pod.
+[01:22:00.160 --> 01:22:04.440]  Or you can go to, for some reason, regulatrion.com.
+[01:22:05.740 --> 01:22:09.360]  I can't wait to make my compilation of regulatory on the floor.
+[01:22:11.300 --> 01:22:12.660]  You can send in your questions.
+[01:22:12.840 --> 01:22:13.760]  Those are really great questions.
+[01:22:13.860 --> 01:22:14.600]  We had a lot of repeats.
+[01:22:14.760 --> 01:22:15.800]  Those are the ones that we selected.
+[01:22:15.900 --> 01:22:16.900]  But those are fantastic questions.
+[01:22:17.220 --> 01:22:18.660]  Thank you guys so much for your support.
+[01:22:18.840 --> 01:22:22.920]  Thank you for being here for us and listening to us sort of just ramble and
+[01:22:22.920 --> 01:22:24.920]  prattle about whatever all this stuff was.
+[01:22:24.920 --> 01:22:27.940]  Any final thoughts for the folks listening at home, guys?
+[01:22:28.640 --> 01:22:29.240]  Just thank you.
+[01:22:29.540 --> 01:22:30.620]  Spay and neuter your pets.
+[01:22:30.900 --> 01:22:31.740]  Oh, shit.
+[01:22:32.040 --> 01:22:32.540]  Thank you.
+[01:22:33.160 --> 01:22:33.700]  Love you.
+[01:22:34.600 --> 01:22:35.020]  Bye.

@@ -1,0 +1,1167 @@
+[00:00.000 --> 00:04.220]  Hello and welcome to another episode of the Regulation Podcast.
+[00:04.660 --> 00:06.400]  This is episode 31.
+[00:06.640 --> 00:09.460]  My name is Geoff Ramsey. With me, as always,
+[00:09.620 --> 00:15.640]  Eric Baudour, Andrew Payton, Nick Schwartz, Gavin Frey, in no particular order.
+[00:16.360 --> 00:19.400]  Hello, boys. Did everybody have a happy Thanksgiving?
+[00:20.360 --> 00:21.960]  Yes. It was a day.
+[00:24.220 --> 00:27.040]  All right. Well, I don't have... It wasn't my Thanksgiving.
+[00:27.360 --> 00:27.780]  It was a day.
+[00:27.780 --> 00:30.200]  Yeah, it was.
+[00:30.460 --> 00:31.820]  How was your last Thursday, Andrew?
+[00:32.280 --> 00:33.500]  It was good. I had a lot of barbecue.
+[00:33.800 --> 00:34.520]  I bought barbecue.
+[00:34.880 --> 00:36.000]  I ate a bunch of barbecue.
+[00:36.500 --> 00:39.660]  Is that because it was other people's Thanksgiving or you just fancied it for?
+[00:40.000 --> 00:45.940]  Yeah, like typically, I don't do turkey on Canadian Thanksgiving
+[00:45.940 --> 00:48.900]  than do one on American, because that's when I end up having time off.
+[00:49.900 --> 00:53.080]  And I decided, you know, I'm just going to buy a bunch of barbecue instead.
+[00:53.700 --> 00:55.140]  Just skip the turkey entirely.
+[00:55.560 --> 00:56.940]  And it was a good decision.
+[00:57.540 --> 00:59.260]  You get turkey in barbecue.
+[01:00.180 --> 01:01.060]  That's true.
+[01:01.300 --> 01:02.880]  But I didn't.
+[01:04.860 --> 01:07.120]  I got a story about skipping turkey.
+[01:07.980 --> 01:08.840]  Oh, I'm excited.
+[01:09.080 --> 01:11.240]  We have a lot of homework to do as well on this episode.
+[01:11.520 --> 01:13.080]  Yeah. What was the... We had homework.
+[01:13.260 --> 01:14.780]  Was it signs or potatoes?
+[01:14.940 --> 01:15.460]  I can't remember.
+[01:15.640 --> 01:17.440]  I believe it was signs and trail mix.
+[01:18.040 --> 01:19.860]  Yeah. What was the trail mix?
+[01:20.080 --> 01:21.000]  I made signs.
+[01:21.480 --> 01:22.180]  Yeah, signs.
+[01:22.500 --> 01:24.840]  I made signs and...
+[01:24.840 --> 01:27.500]  Because the calendar invite said sign homework,
+[01:27.740 --> 01:29.320]  but it didn't say trail mix homework.
+[01:29.580 --> 01:31.900]  I thought it... And I thought it was supposed to be potato homework.
+[01:32.000 --> 01:34.080]  I thought we were supposed to be inventing new potato meals.
+[01:35.340 --> 01:38.140]  I don't remember anything other than the sign homework.
+[01:38.200 --> 01:39.040]  Well, I did it all.
+[01:40.480 --> 01:41.480]  Way to go, man.
+[01:42.420 --> 01:44.280]  I can suck it up to the teacher.
+[01:46.020 --> 01:47.500]  We all thought it was different homework.
+[01:51.680 --> 01:54.780]  So, can I tell you guys three stories real fast?
+[01:55.080 --> 01:55.640]  Of course.
+[01:55.640 --> 01:59.220]  Of the three stories that I guess would encapsulate my holiday.
+[01:59.960 --> 02:01.040]  The first two are fun.
+[02:01.400 --> 02:02.440]  The third one's a little longer.
+[02:03.080 --> 02:05.520]  So, Gav, I don't know if you remember, but a couple weeks ago,
+[02:05.980 --> 02:13.980]  I was talking to you about how I remembered this turkey we used to order around Thanksgiving and Christmas at Rooster Teeth that we would ship out.
+[02:14.080 --> 02:17.840]  It was like a smoked turkey that we would give out to our clients and to friends of the company.
+[02:18.040 --> 02:18.880]  It was like our Christmas gift.
+[02:18.980 --> 02:21.040]  It was called a Greenberg smoked turkey.
+[02:21.300 --> 02:23.440]  And I got to thinking about it, and I couldn't remember what it was called.
+[02:23.480 --> 02:24.880]  So, I asked Bernie, and he told me.
+[02:24.880 --> 02:28.220]  And then, I thought, I'm going to be the fucking coolest dude at Thanksgiving.
+[02:28.960 --> 02:34.780]  Because my family, and Emily's family, and some of our friends, we were all meeting in Branson, Missouri.
+[02:36.180 --> 02:39.700]  Kind of equidistant from where everybody was coming from their homes.
+[02:39.900 --> 02:44.480]  And then, we rented a big house and went to Silver Dollar City and had a Branson Thanksgiving, right?
+[02:44.860 --> 02:51.280]  I thought, I'm going to be the fucking coolest dude in town because I'm going to buy one of these smoked turkeys.
+[02:51.640 --> 02:54.460]  And I'm going to bring it with me on the road trip because we're driving up.
+[02:54.460 --> 03:01.760]  And so, I, well in advance, I ordered a 17-pound smoked turkey, which is fucking huge.
+[03:01.800 --> 03:03.700]  But I knew there was going to be like 15 people there, right?
+[03:04.360 --> 03:06.660]  This isn't a surprise turkey, right?
+[03:07.700 --> 03:09.480]  I mean, it would have been a surprise for all of them.
+[03:09.900 --> 03:11.600]  It was... Emily and I knew about it.
+[03:12.160 --> 03:15.020]  Anyway, I set for it to arrive the day before we left.
+[03:15.160 --> 03:17.420]  It arrived, smelled amazing.
+[03:18.280 --> 03:21.740]  The instructions say just to keep it refrigerated, and it'll keep for 7 to 10 days.
+[03:21.740 --> 03:24.780]  So, perfect. We had this like refrigerated bag.
+[03:24.840 --> 03:29.040]  We stuck it in with a bunch of like, you know, a little like gels and stuff to keep it cool.
+[03:29.400 --> 03:34.880]  Threw it in the back of the car, took off on the road trip, decided to break the road trip into two days
+[03:34.880 --> 03:37.940]  because we just weren't sure how Albert would do on the road because we took him with us.
+[03:38.280 --> 03:43.400]  And so, we stayed in Tulsa for the night, rented a hotel, very eventful hotel for Geoff.
+[03:43.720 --> 03:49.480]  Rented a hotel, like a double tree that had a full-size fridge in it so that we could store the turkey, right?
+[03:50.260 --> 03:56.800]  So, we got to the hotel, shoved the turkey in the fridge, looking good, smelling better, everything is great.
+[03:58.600 --> 04:03.200]  At some point in the evening, I'm not feeling well. I'll get into that in a minute. That's the third story.
+[04:04.440 --> 04:09.600]  And I lay down. I get naked. I feel bad. I get like...
+[04:09.600 --> 04:12.000]  I'm the sick... when I'm sick, I get naked.
+[04:12.500 --> 04:15.580]  Like, I don't know what it is, but what I like, when I get right, I don't feel well.
+[04:15.580 --> 04:20.520]  The only time I ever want to be naked is in a shower or when I'm sick in bed.
+[04:20.960 --> 04:23.660]  Usually, I sleep in, you know, pajamas or underwear or whatever.
+[04:24.120 --> 04:29.700]  And so, I'm totally naked and I'm just like clutching myself in a fetal position in the bed, kind of whining and feeling sorry for myself.
+[04:30.800 --> 04:33.900]  And Emily goes to take a shower, you know, because we've been driving all day.
+[04:34.500 --> 04:42.060]  And she asks me to order an additional blanket for the bed because the hotel blanket's really thin and it's never enough.
+[04:42.060 --> 04:46.160]  And so, I order a blanket and she's like, hey, I'm going to hop in the shower.
+[04:46.280 --> 04:48.860]  If it comes, will you get the front door? And I'm like, yeah, no worries, man.
+[04:49.280 --> 04:53.320]  And so, I'm laying in bed and sure enough, somebody knocks on the door while she's in the shower.
+[04:53.480 --> 04:56.380]  And so, I jump up to get it. And the only thing I see is her bathrobe.
+[04:56.620 --> 04:59.440]  So, I throw her bathrobe around me, a woman's bathrobe.
+[04:59.820 --> 05:02.600]  And I open up the door and the guy hands me the thing.
+[05:02.680 --> 05:03.480]  And I'm like, no problem.
+[05:03.780 --> 05:06.620]  And as I'm pulling the blanket in, he turns around and leave.
+[05:06.720 --> 05:09.240]  Albert shoots out the door like Adam.
+[05:09.240 --> 05:11.060]  I go, oh, fuck.
+[05:11.300 --> 05:13.400]  So, I jump out after him.
+[05:13.560 --> 05:14.920]  I grab Albert by the harness.
+[05:15.160 --> 05:16.160]  He's not attacking or anything.
+[05:16.280 --> 05:17.620]  He's just trying to get out and he's excited.
+[05:18.320 --> 05:19.200]  And I'm grabbing.
+[05:19.300 --> 05:20.320]  The guy turns around and looks at me.
+[05:20.420 --> 05:21.280]  I'm in a bathrobe.
+[05:21.820 --> 05:25.160]  I've got a blanket he just gave me in one hand and a bulldog in the other.
+[05:25.260 --> 05:25.780]  And I'm like, ugh.
+[05:26.060 --> 05:29.000]  And he just looks at me like I'm an idiot and just keeps walking, turns the corner.
+[05:29.480 --> 05:32.540]  And then, and I'm like, and like that second, the door shuts.
+[05:32.760 --> 05:34.000]  And I go, oh, fuck.
+[05:34.880 --> 05:35.520]  Oh, fuck.
+[05:36.860 --> 05:38.920]  I've got this, I've got a riled up bulldog.
+[05:38.920 --> 05:42.700]  I'm naked, except for this half open woman's bathrobe.
+[05:43.160 --> 05:45.100]  And I'm locked out of the room now.
+[05:45.260 --> 05:47.020]  And Emily's taking a shower.
+[05:47.260 --> 05:50.520]  And end of the day, I've been on the road for eight hours.
+[05:50.840 --> 05:51.760]  I'm exhausted.
+[05:51.980 --> 05:55.320]  Let me just fucking unwind a little bit in the shower shower.
+[05:55.880 --> 06:06.080]  And so Albert and I spent about 12 minutes just sitting on the ground, hiding my genitals with the blanket while I waited for her to get out of the shower and hear the knocks.
+[06:06.640 --> 06:08.660]  And then she opens the door and she's like, what the fuck are you doing?
+[06:08.920 --> 06:11.940]  And at this point, is she now naked because she's got no bathrobe?
+[06:12.200 --> 06:13.200]  Yeah, she's in a towel.
+[06:13.420 --> 06:14.260]  Wonder where her bathrobe is.
+[06:16.900 --> 06:17.220]  Jesus.
+[06:17.240 --> 06:17.900]  So that's Christ.
+[06:17.980 --> 06:18.800]  That's my first story.
+[06:19.000 --> 06:23.060]  I locked myself out of the bed, out of the room with the dog with no clothes on and no way to get back in.
+[06:23.920 --> 06:27.740]  And then, and then I go to bed.
+[06:27.760 --> 06:28.280]  I'm not feeling well.
+[06:28.380 --> 06:28.820]  I'll get to that.
+[06:29.360 --> 06:30.060]  Get up next day.
+[06:30.180 --> 06:31.800]  Go get on the road.
+[06:31.880 --> 06:32.460]  Go get breakfast.
+[06:32.700 --> 06:34.280]  We're about three hours into the trip.
+[06:34.360 --> 06:36.320]  And Emily goes, the turkey.
+[06:37.740 --> 06:46.600]  The turkey is still in the fridge, to my knowledge, at the Doubletree in Tulsa, Oklahoma.
+[06:46.600 --> 06:47.760]  Oh my God.
+[06:48.100 --> 06:48.800]  Three hours.
+[06:48.980 --> 06:51.120]  It was three hours into a five-hour drive.
+[06:51.320 --> 06:57.440]  We were not turning around and going back, turning that five-hour drive into like an 11-hour drive.
+[06:57.540 --> 06:58.600]  It's just not going to do it.
+[06:59.360 --> 07:06.000]  And so I hope that the cleaning staff or the employees of the Doubletree
+[07:06.320 --> 07:21.080]  had one hell of a turkey for Thanksgiving, because they had a 17-pound monster just sitting in the fridge, chilling out, perfectly smoked, smelled amazing, just waiting for him.
+[07:21.380 --> 07:25.900]  And then the entire week I was in Branson, everybody just was like, man, turkey.
+[07:26.180 --> 07:28.000]  This is a good day, but turkey would have made it so much better.
+[07:28.480 --> 07:30.400]  And yeah, I never would have been able to do it.
+[07:32.480 --> 07:34.800]  I can't believe you forgot the turkey.
+[07:34.800 --> 07:36.400]  How do you forget the turkey?
+[07:37.000 --> 07:38.880]  Well, I was a little distracted.
+[07:40.700 --> 07:43.060]  The day before we left.
+[07:43.920 --> 07:45.100]  All right, let me explain it like this.
+[07:45.800 --> 08:03.920]  I've been experiencing for the past month, not the last time I talked about you or anybody with, but for the past month or so, I've been experiencing a difficult-to-define, an amorphous anxiety that has been difficult for me to get a hold of, to get under control.
+[08:06.760 --> 08:10.680]  And so it's just been something I've been working on and just kind of trying to fight through.
+[08:11.100 --> 08:20.640]  But one of the ways my anxiety tends to manifest on the rare occasions that I have it is that it gives me phantom mouth pain, you know, because like my biggest fear is my teeth.
+[08:21.100 --> 08:29.420]  And so I get a particular kind of like phantom mouth pain, like a buzzing feeling in my mouth in one area that I just...
+[08:29.420 --> 08:32.020]  I know it's not real, but it is, but I can still feel it.
+[08:32.040 --> 08:32.420]  It is real.
+[08:32.420 --> 08:37.800]  It's been so bad that I've gone to the dentist twice before and had full checkups and they're like, it's nothing there.
+[08:37.860 --> 08:40.680]  And then it goes away after that, after they tell me there's nothing there, it goes away, right?
+[08:41.220 --> 08:44.900]  So the day before the trip, I start to kind of feel that a little bit.
+[08:44.920 --> 08:46.980]  And I'm like, well, I'm about to have a long trip.
+[08:47.080 --> 08:47.540]  It's stressful.
+[08:47.780 --> 08:49.040]  I've been having this anxiety.
+[08:49.180 --> 08:51.860]  I don't know what... I'm not doing a good job of handling it.
+[08:52.360 --> 08:54.460]  And I think it just it has to be that I'm just in my head.
+[08:54.500 --> 08:55.160]  I got to get out of my head.
+[08:55.200 --> 08:55.720]  I got to get out of my head.
+[08:56.160 --> 08:57.120]  And so I try to ignore it.
+[08:57.120 --> 08:57.760]  I try to ignore it.
+[08:57.780 --> 08:58.540]  It gets worse.
+[08:58.620 --> 08:59.360]  It gets worse.
+[08:59.540 --> 09:01.780]  The pain starts to move around a little bit.
+[09:01.780 --> 09:08.260]  It's radiating in my ear and in my jaw to my upper and my lower teeth on the left side.
+[09:08.360 --> 09:12.560]  It starts to shoot down my neck and like I can feel it on my chest.
+[09:13.000 --> 09:17.200]  And then it just it comes and goes and comes and goes.
+[09:17.260 --> 09:18.360]  It doesn't ever keep me from sleeping.
+[09:18.980 --> 09:22.780]  But so I start the trip and I'm like, well, this sucks that I have to deal with this on the trip.
+[09:22.820 --> 09:27.740]  And then it just gets worse and worse and worse to the point where...
+[09:27.740 --> 09:29.760]  And then there'll be days where I think it's getting better and it's going away.
+[09:29.840 --> 09:30.860]  And then it's back with a vengeance.
+[09:30.860 --> 09:39.020]  And on Thanksgiving Day, it got so bad that we were at that they're like the hillbilly theme park in Branson,
+[09:39.200 --> 09:41.620]  Silver Dollar City, which is fucking delightful, by the way.
+[09:41.880 --> 09:43.780]  And we have to take Gavin to Branson.
+[09:43.960 --> 09:44.700]  Oh, my God.
+[09:44.920 --> 09:46.540]  We have got to take Gavin to Branson.
+[09:46.900 --> 09:48.520]  I went to a magic dinner theater.
+[09:48.780 --> 09:52.240]  I what and howed and so loud.
+[09:52.320 --> 09:52.880]  Oh, my God.
+[09:52.880 --> 09:53.680]  I was like, what?
+[09:53.900 --> 09:55.000]  It was fucking great.
+[09:55.400 --> 09:56.740]  And I had the time of my life.
+[09:56.820 --> 09:58.160]  Anyway, you're going to love.
+[09:58.220 --> 09:59.080]  You've never seen America.
+[09:59.220 --> 10:00.300]  None of us have seen America.
+[10:00.300 --> 10:01.100]  It is Branson.
+[10:01.900 --> 10:08.040]  But anyway, about halfway through the day, it was just hurting so bad that I just took all the grandparents home because they were tired anyway.
+[10:08.560 --> 10:13.440]  And then I just and I got in bed and I started looking up emergency dentists.
+[10:13.520 --> 10:19.500]  And I found a dentist like an hour and 15 minutes away in Springfield that had an appointment at like 8 a.m.
+[10:19.520 --> 10:20.260]  on Friday morning.
+[10:20.440 --> 10:21.500]  And I booked it.
+[10:21.680 --> 10:28.760]  And Emily and I drove at like 7 in the morning from our house in Branson with the whole family all the way to Springfield to go.
+[10:28.760 --> 10:30.920]  And I got x-rays taken.
+[10:31.200 --> 10:34.220]  I was convinced I was going to need to get a root canal on this bottom tooth.
+[10:34.280 --> 10:37.320]  And they looked it all over and there's fucking nothing wrong with my teeth.
+[10:37.500 --> 10:47.260]  And they tell me that I probably have been clenching my jaw or grinding my teeth and my sleep due to stress and that I have now developed TMJ issues.
+[10:47.460 --> 10:48.440]  Oh, no.
+[10:48.680 --> 10:57.540]  So that the pain I'm feeling is real and it's really intense and really bad because I've now been clenching the entire left side of my body.
+[10:57.540 --> 11:04.280]  And so they send me to the grocery store to get like an over-the-counter mouth guard, which I use and that helps.
+[11:04.480 --> 11:10.480]  And then this morning, first thing, I went to my dentist and got fitted for a permanent mouth guard.
+[11:10.940 --> 11:14.780]  Now, TMJ is a thing that I have that I have to deal with.
+[11:14.840 --> 11:17.760]  And my mouth has hurt for 12 straight days and it hurts right now.
+[11:17.840 --> 11:19.180]  And I don't know when it's going to stop.
+[11:20.440 --> 11:21.400]  That's awful.
+[11:22.000 --> 11:24.020]  Why did everyone go with you?
+[11:24.800 --> 11:26.940]  Who went with you to the dentist?
+[11:26.940 --> 11:27.680]  Oh, just Emily.
+[11:27.940 --> 11:28.880]  Oh, okay.
+[11:29.060 --> 11:30.400]  I thought like the whole family went.
+[11:30.680 --> 11:31.200]  No, no, no.
+[11:31.800 --> 11:32.440]  I'm sorry.
+[11:33.220 --> 11:35.820]  She just drove me in case I got numbed up.
+[11:35.820 --> 11:36.060]  Okay.
+[11:36.260 --> 11:37.660]  That makes sense.
+[11:38.480 --> 11:47.340]  I thought the way that that was explained, I thought that Emily and the rest of the family drove an hour and a half with you to be told that you don't need surgery.
+[11:47.640 --> 11:51.360]  I was, dude, I was like, there's no way that that's what happened.
+[11:51.540 --> 11:53.380]  That sucks.
+[11:53.740 --> 11:55.200]  So like, what's like the long term?
+[11:55.500 --> 11:56.240]  Like, what's next?
+[11:56.240 --> 11:57.040]  Like, what do you do?
+[11:57.620 --> 12:03.860]  Well, I'm using the over-the-counter thing until the new one comes, the permanent one comes in, which by the way, they're expensive.
+[12:04.060 --> 12:05.480]  It's $400 to get a mouth guard.
+[12:05.560 --> 12:05.960]  Oh my God.
+[12:06.000 --> 12:10.360]  I don't get that till like December 23rd.
+[12:10.660 --> 12:12.920]  And so I'll just continue using this one.
+[12:13.060 --> 12:20.520]  They prescribed me some muscle relaxers for my jaw, for my, I can't remember the name of the masseter muscle, I guess.
+[12:22.460 --> 12:34.180]  And I am going to see a sports chiropractor and therapist on Wednesday to see about what they can do to help relieve the pressure and work out some of this.
+[12:34.180 --> 12:37.700]  Does TMJ go away after a period of non-clenching?
+[12:39.140 --> 12:40.360]  I assume so.
+[12:40.540 --> 12:41.440]  It came out of nowhere.
+[12:41.900 --> 12:50.000]  And I recognize that it's got to just be the anxiety I'm feeling and I don't know, I don't have anywhere to put it, you know, and so it's finding its own path.
+[12:50.000 --> 12:57.400]  I had a thing, it was probably like a few months into the pandemic, my jaw hurt for like two or three months, but maybe it was that. Maybe I was just clenching.
+[12:57.500 --> 12:59.800]  I bet you were just clenching. I bet you were.
+[13:00.020 --> 13:07.640]  Yeah, and so it just sucks because it's just like my left, it just feels like it's like a withering pain, you know, and it's definitely better than it was.
+[13:07.680 --> 13:11.220]  It's like a tenth of how bad it was, but just fucking wears you down after a while.
+[13:11.760 --> 13:17.000]  I have somebody who, I have a friend who recently went through this and I had never heard of this before to help with it.
+[13:17.320 --> 13:19.040]  They got Botox in their jaw.
+[13:19.040 --> 13:21.260]  So you might, you might be on a Botox.
+[13:22.480 --> 13:29.640]  Emily wants me to do that. Yeah, she's already suggested it. I wanted to see the dentist first, but yeah, I might get Botox in my jaw as well this week.
+[13:30.300 --> 13:34.920]  Botox is a crazy medicine. I feel like you can also get Botox for migraines and stuff.
+[13:35.260 --> 13:35.560]  Really?
+[13:36.140 --> 13:46.060]  Yeah, yeah, yeah. It can help with like a lot of that stuff. Do you think while they're like shooting you up like in the Masseter or whatever, you think they'll like just take care of like a couple other things too and you'll be like a new man?
+[13:46.060 --> 13:51.840]  Dude, I don't, here's the thing about me. I want wrinkles. I think they're cool.
+[13:52.040 --> 13:56.920]  I like, my favorite actor, my favorite, like my favorite looking dude is Lance Hendrickson.
+[13:57.220 --> 14:03.420]  I think that guy's face is awesome. I want wrinkles like him. I'm not hiding from wrinkles. I want them and I want them early.
+[14:03.560 --> 14:06.440]  I don't, I, I'm, I'm not going to be one of those dudes.
+[14:07.060 --> 14:11.940]  I will get the Botox purely to save myself from the pain, but man, I don't want a clean forehead.
+[14:12.220 --> 14:14.940]  I want a forehead that looks like I had a shitty life.
+[14:15.480 --> 14:19.820]  Do you also want to do the knife trick on your fingers on top of someone else's hand?
+[14:21.520 --> 14:27.360]  Botox might be the most legitimate medicine that has the worst branding in my head.
+[14:27.640 --> 14:31.680]  Because whenever I hear about Botox, I just think of Christmas with the cranks.
+[14:32.260 --> 14:39.600]  The only time I think of Christmas with the cranks is like a branded, this Tim Allen with a shitty face that's stuck.
+[14:40.020 --> 14:44.020]  I don't even remember. It's like he's at a dinner and he gets Botox and he can't move his mouth.
+[14:44.020 --> 14:46.340]  But this is to me, this is the face of Botox.
+[14:46.420 --> 14:49.380]  So to hear that it's like a legitimate medicine.
+[14:49.780 --> 14:51.620]  Send the same picture.
+[14:52.680 --> 14:55.020]  They just redrew his eyebrows.
+[14:55.560 --> 15:01.700]  Like what? This is, this sucks, this sucks shit.
+[15:03.760 --> 15:08.960]  Something happens to him where he has to like get these procedures done and it's a disaster.
+[15:09.440 --> 15:12.460]  But yeah, the face of Botox to me.
+[15:14.140 --> 15:18.940]  Why is he wearing, why is he wearing like a Miami Vice jacket with a shirt?
+[15:20.060 --> 15:24.760]  He looks like the sidekick guy from Eastbound and Downer.
+[15:25.140 --> 15:29.620]  He does! That's exactly what he looks like.
+[15:29.700 --> 15:30.800]  Like the Thieksons guy?
+[15:32.820 --> 15:37.300]  Oh man, I don't even remember what that movie was about, but it was not good.
+[15:38.760 --> 15:41.640]  So, Christmas with the cranks, I remember what it was about.
+[15:41.640 --> 15:48.360]  They were gonna go to, instead of having a shitty snowy Christmas like in Long Island or wherever,
+[15:48.740 --> 15:52.400]  he and his wife, which was Jamie Lee Curtis, they were gonna go to the beach
+[15:52.820 --> 15:54.780]  and have like an awesome beach vacation.
+[15:55.300 --> 15:58.180]  And they were like rude to everybody kind of around who was like,
+[15:58.200 --> 15:59.300]  oh you're gonna miss out on Christmas.
+[15:59.480 --> 16:02.360]  And then they ended up not being able to go and they were stuck at home
+[16:02.360 --> 16:05.400]  and then everybody tried to like drag them into the Christmas spirit
+[16:05.400 --> 16:06.480]  and they didn't want any part in it.
+[16:07.200 --> 16:07.460]  I see.
+[16:07.960 --> 16:10.280]  So, do you look like a boxer when you're sleeping now?
+[16:11.620 --> 16:14.140]  Yeah, it's a little guard. It kind of sucks.
+[16:14.300 --> 16:16.960]  And it doesn't work for shit and it falls out of my mouth three times a night
+[16:16.960 --> 16:18.420]  and I gotta put it back in and it wakes me up.
+[16:18.660 --> 16:21.860]  But, you know, I'll have the real one in a couple weeks.
+[16:22.600 --> 16:26.400]  Do you think like before you go to bed when you have the real one,
+[16:26.460 --> 16:28.600]  you'll say ring the bell and then you'll put the mouth guard in
+[16:28.600 --> 16:32.560]  and then you'll act like somebody knocked you out and you'll go to sleep?
+[16:32.840 --> 16:35.860]  I hope so, because that's a much tougher way to go to bed
+[16:35.860 --> 16:37.560]  than laying in bed and hearing my wife go,
+[16:37.560 --> 16:40.180]  Don't forget to put your little mouth thing in!
+[16:40.260 --> 16:41.140]  And it's like...
+[16:42.120 --> 16:45.340]  The fucking most emasculating thing I can hear.
+[16:45.920 --> 16:46.940]  Yes, mommy!
+[16:48.540 --> 16:54.120]  Remember the iconic Mike Tyson walkout of it's just like chains rattling, essentially?
+[16:54.280 --> 16:58.560]  You brush your teeth and then that music starts playing as you walk into bed.
+[16:59.460 --> 17:03.460]  You're the first person who hears the alarm first and then goes to sleep.
+[17:04.280 --> 17:05.720]  Really switching it up.
+[17:07.560 --> 17:10.040]  Maybe you just recreate boxing movies in bed.
+[17:10.440 --> 17:15.020]  We should just get you boxing themed stuff like a giant pillow that looks like a punching bag.
+[17:15.040 --> 17:17.120]  Oh, this is such a good idea!
+[17:17.640 --> 17:18.020]  Yeah.
+[17:18.260 --> 17:19.100]  And sleep gloves.
+[17:19.520 --> 17:20.720]  You know what fucking sucks?
+[17:21.160 --> 17:22.480]  You know what really fucking sucks?
+[17:22.640 --> 17:26.640]  That the last like eight years of my life has been like one catastrophe
+[17:27.160 --> 17:30.080]  in front of another catastrophe constantly.
+[17:30.340 --> 17:33.580]  And then when I finally get past it all, my brain goes,
+[17:33.580 --> 17:36.540]  Hey, hold on now. Hold on now.
+[17:36.880 --> 17:39.740]  No, we can't just let things be good.
+[17:39.920 --> 17:42.360]  How about if we wrench your face in half?
+[17:42.600 --> 17:44.000]  How about if we just twist it?
+[17:44.200 --> 17:45.780]  And that'll be fun for a while.
+[17:46.060 --> 17:47.460]  Why can't things just be cool?
+[17:47.880 --> 17:51.840]  I feel like all of your catastrophes as well, instead of dying down,
+[17:52.200 --> 17:54.720]  there's just like filler root canals in between.
+[17:55.160 --> 17:58.720]  It's like in Tony Hawk when you want to do a manual between the tricks.
+[17:59.260 --> 18:00.560]  There are your root canals.
+[18:00.860 --> 18:01.820]  Those are my root canals?
+[18:02.300 --> 18:03.840]  Just keeping the combo going.
+[18:04.560 --> 18:06.700]  Geoff, we got to get you personalized towels
+[18:06.700 --> 18:08.780]  so that way when it's bedtime, you got to throw in the towel.
+[18:12.560 --> 18:16.940]  Why don't we all take a different piece and make Geoff a boxing sleep kit?
+[18:17.720 --> 18:19.660]  Oh, that's really sweet of you guys. I appreciate it.
+[18:19.740 --> 18:21.640]  Now you don't have to wear Emily's robe anymore
+[18:21.640 --> 18:23.140]  because you'll have a new robe
+[18:23.140 --> 18:26.220]  that says like Ramscoop or whatever on the back.
+[18:26.300 --> 18:27.340]  This is really exciting.
+[18:28.260 --> 18:30.320]  You know, Geoff, you can get Kool-Aid mouth guards
+[18:30.320 --> 18:32.940]  really just like embrace the flavor, have a good time.
+[18:33.360 --> 18:34.540]  Now that's pretty cool.
+[18:34.900 --> 18:35.740]  That is pretty cool.
+[18:36.180 --> 18:40.880]  That's the most white trash thing is going to sleep tasting Kool-Aid.
+[18:44.120 --> 18:47.060]  And then maybe some nights we could just have the corner of a ring
+[18:47.060 --> 18:49.280]  as a nightstand and I'll just sit in it
+[18:49.280 --> 18:50.820]  and like coach you to sleep a little bit.
+[18:51.120 --> 18:52.360]  Oh, that's a good idea.
+[18:52.640 --> 18:54.900]  Oh, this is such...
+[18:54.900 --> 18:56.340]  Man, I love...
+[18:56.340 --> 18:58.780]  Geoff, your mouth guard has just opened up
+[18:58.780 --> 19:00.120]  a whole possibility for us.
+[19:00.320 --> 19:04.060]  If this helps me eliminate mouth pain,
+[19:04.240 --> 19:05.960]  I am 100% on board.
+[19:06.100 --> 19:08.640]  I'll put the chair in the spot right now, Gavin.
+[19:09.440 --> 19:12.240]  I'm so desperate not to feel pain in my mouth.
+[19:12.500 --> 19:13.120]  I'm ready.
+[19:13.480 --> 19:14.280]  Whatever it takes.
+[19:14.400 --> 19:15.100]  Whatever it takes, coach.
+[19:15.740 --> 19:18.360]  So that's two of us with sleep injuries.
+[19:18.760 --> 19:20.280]  So you're clenching too much
+[19:20.280 --> 19:21.840]  and Andrew's ankles are going into sleep.
+[19:22.700 --> 19:24.760]  I'm glad I've avoided that for quite a while.
+[19:24.940 --> 19:25.400]  Which is nice.
+[19:25.400 --> 19:28.220]  No sleep injuries in the last year or so?
+[19:28.520 --> 19:30.180]  No, it would be like where my ankle would be sore
+[19:30.180 --> 19:31.680]  and then I'd dream that I'd roll it
+[19:31.680 --> 19:34.140]  and I'd like hyper extend it.
+[19:34.520 --> 19:35.340]  Thought he makes it real.
+[19:35.900 --> 19:37.100]  Yeah, awful.
+[19:39.180 --> 19:40.340]  Have you noticed
+[19:40.340 --> 19:42.220]  that the days are getting shorter
+[19:42.660 --> 19:44.900]  but your daily activities,
+[19:45.200 --> 19:46.900]  your to-do list are not?
+[19:47.300 --> 19:48.100]  Well, you can
+[19:48.100 --> 19:49.720]  power through those busy days
+[19:49.720 --> 19:51.500]  with factors, no prep,
+[19:51.620 --> 19:55.060]  no mess, easy peasy meals.
+[19:55.060 --> 19:57.480]  From breakfast to dinner and anything in between
+[19:57.480 --> 19:59.660]  Factor has some easy and yummy
+[19:59.660 --> 20:01.420]  options to keep you fueled
+[20:01.420 --> 20:03.340]  and feeling your best. Whether you like
+[20:03.340 --> 20:05.400]  routine or you enjoy mixing things up
+[20:05.400 --> 20:07.740]  they've got you covered with 35 delicious
+[20:07.740 --> 20:09.200]  meals each and every week
+[20:09.200 --> 20:11.460]  and over 60 additional convenience
+[20:11.460 --> 20:13.260]  options that you can add to your box
+[20:13.260 --> 20:15.740]  like keto cookies or pressed juices
+[20:15.740 --> 20:17.660]  or smoothies, etc.
+[20:17.900 --> 20:18.220]  etc.
+[20:18.320 --> 20:21.760]  I was currently checking out this week's Factor selection
+[20:21.760 --> 20:23.200]  to figure out what I'm going to be ordering
+[20:23.200 --> 20:25.920]  and I think I'm going to go with the grilled chicken
+[20:25.920 --> 20:28.280]  and browned butter yukon mash.
+[20:28.820 --> 20:29.920]  I like a meal that makes me
+[20:29.920 --> 20:31.740]  feel like a frontiersman, you know what I mean?
+[20:31.860 --> 20:33.740]  Yukon mash. That could be a name
+[20:33.740 --> 20:35.660]  or it could be a delicious mashed potato.
+[20:35.920 --> 20:37.460]  I'm also pretty partial to
+[20:37.460 --> 20:40.080]  four-cheese tortellini and Italian sausage
+[20:41.320 --> 20:41.840]  pizzaiola
+[20:41.840 --> 20:43.340]  which is how you say that.
+[20:43.800 --> 20:45.660]  Mmm, sun-dried tomato chicken.
+[20:46.020 --> 20:47.720]  So please join us in thanking Factor
+[20:47.720 --> 20:49.200]  for sponsoring today's episode.
+[20:49.420 --> 20:51.580]  Don't let shorter days slow you down
+[20:51.580 --> 20:53.660]  Stay energized with America's number one
+[20:53.660 --> 20:55.900]  ready-to-eat meal delivery service
+[20:55.900 --> 20:58.080]  head to factormeals.com
+[20:58.080 --> 21:00.060]  slash 50regulation
+[21:00.060 --> 21:02.180]  and use code 50regulation
+[21:02.940 --> 21:05.020]  to get 50% off
+[21:05.020 --> 21:05.880]  your first box
+[21:05.880 --> 21:06.860]  plus free shipping.
+[21:06.860 --> 21:09.420]  That's right, head to factormeals.com
+[21:09.420 --> 21:10.920]  slash 50regulation
+[21:10.920 --> 21:13.300]  and use code 50regulation
+[21:13.300 --> 21:15.540]  to get 50% off your first box
+[21:15.540 --> 21:16.320]  plus free shipping.
+[21:16.580 --> 21:19.720]  That's code 50regulation at factormeals.com
+[21:19.720 --> 21:23.000]  slash 50regulation to get 50% off your first box
+[21:23.000 --> 21:24.220]  plus free shipping
+[21:24.220 --> 21:26.500]  while your subscription is active.
+[21:26.840 --> 21:27.520]  50, get it?
+[21:29.420 --> 21:29.980]  So
+[21:29.980 --> 21:32.400]  did everybody do their sign homework?
+[21:33.340 --> 21:33.580]  Sure did.
+[21:33.640 --> 21:36.360]  I did some sign homework. I couldn't quite remember
+[21:36.360 --> 21:38.340]  what I was supposed to be doing.
+[21:39.820 --> 21:40.320]  The homework was
+[21:40.320 --> 21:41.820]  just make a sign.
+[21:42.220 --> 21:44.520]  How many signs did everybody make?
+[21:44.820 --> 21:45.400]  I made three signs.
+[21:46.300 --> 21:48.140]  I only have one
+[21:48.140 --> 21:49.580]  but I feel really good about it.
+[21:49.880 --> 21:50.600]  I made nine
+[21:50.600 --> 21:53.240]  but I probably only have three good ones.
+[21:53.940 --> 21:55.920]  Wow, holy cow.
+[21:56.580 --> 21:58.360]  I made three and I don't think any of them are that good.
+[21:59.660 --> 22:00.860]  I feel good about
+[22:00.860 --> 22:01.600]  mine but
+[22:01.600 --> 22:04.000]  it's definitely already a thing
+[22:04.000 --> 22:05.420]  that people have thought of
+[22:05.420 --> 22:07.340]  because it's a very easy thing to like
+[22:07.340 --> 22:08.880]  Google and look up
+[22:08.880 --> 22:10.980]  but I want it implemented.
+[22:12.540 --> 22:13.760]  I think that
+[22:14.820 --> 22:16.220]  while you're on the freeway
+[22:16.220 --> 22:17.260]  these should be
+[22:17.260 --> 22:18.920]  just every so often
+[22:18.920 --> 22:20.740]  there shouldn't be a rhyme or reason
+[22:20.740 --> 22:22.320]  to where they should be
+[22:22.320 --> 22:23.520]  but this is just a reminder.
+[22:23.920 --> 22:25.260]  I think we need more go signs.
+[22:26.880 --> 22:29.240]  This is just a sign to let people know
+[22:29.240 --> 22:30.860]  why are you slowing down?
+[22:31.060 --> 22:32.340]  Stop looking at this thing. Go.
+[22:32.700 --> 22:33.200]  Just go.
+[22:33.640 --> 22:35.200]  Wait, that's not a stationary sign.
+[22:35.280 --> 22:36.840]  That's one that someone holds surely.
+[22:37.620 --> 22:39.320]  No, they would just be stationary
+[22:39.320 --> 22:40.280]  on the side of the highway.
+[22:40.720 --> 22:43.260]  You can put them on regular streets
+[22:43.260 --> 22:44.300]  and everything too but then you
+[22:44.680 --> 22:46.020]  think people might be going too fast
+[22:46.020 --> 22:47.580]  because they're so used to seeing them on freeways.
+[22:47.720 --> 22:49.560]  You know what's funny, Eric?
+[22:50.200 --> 22:51.700]  We had very similar thoughts.
+[22:52.040 --> 22:53.780]  That ties into one of my signs.
+[22:54.380 --> 22:55.860]  Slightly different spirit.
+[22:56.500 --> 22:58.180]  You wanted things to progress
+[22:58.180 --> 22:59.760]  in a helpful way with the go sign.
+[23:00.260 --> 23:01.960]  I just wanted to confuse people
+[23:01.960 --> 23:04.080]  so mine is a stop sign
+[23:04.080 --> 23:05.760]  that is just a stop sign
+[23:05.760 --> 23:08.240]  but it says go with green letters on it.
+[23:08.240 --> 23:10.940]  I thought about that too
+[23:10.940 --> 23:12.440]  but that's too confusing.
+[23:12.920 --> 23:14.860]  Really just throwing a wrench
+[23:14.860 --> 23:16.160]  into their driving plan.
+[23:16.280 --> 23:17.240]  They don't know what to do.
+[23:17.780 --> 23:20.420]  I don't know if you did it intentionally but the green on red
+[23:20.420 --> 23:23.020]  and so small, absolute eyesore.
+[23:23.420 --> 23:24.000]  It is.
+[23:24.380 --> 23:26.840]  It's ugly and also the text is small
+[23:26.840 --> 23:28.240]  so you have to try to squint.
+[23:28.480 --> 23:30.360]  Is that a stop? It's just go?
+[23:30.880 --> 23:32.660]  At a distance it's stop
+[23:32.660 --> 23:35.280]  and as you creep closer it's like, ah, son of a bitch.
+[23:35.540 --> 23:36.240]  This is good.
+[23:36.240 --> 23:38.300]  I think on the freeway every so often
+[23:38.300 --> 23:41.100]  no rhyme or reason, it shouldn't be every 100 yards
+[23:41.100 --> 23:42.340]  or whatever, it's just
+[23:42.340 --> 23:44.380]  throw in some of my go signs but also
+[23:44.380 --> 23:45.760]  throw in some of Andrew's go signs.
+[23:46.740 --> 23:47.980]  You don't know what's coming.
+[23:48.680 --> 23:50.840]  Well, you kind of know. Go!
+[23:51.660 --> 23:52.160]  That's true.
+[23:54.400 --> 23:55.800]  Geoff, do you want to share one of your signs?
+[23:56.120 --> 23:58.420]  I didn't make pictures of mine.
+[23:58.520 --> 23:59.000]  I feel bad.
+[23:59.840 --> 24:01.500]  My first sign that I have
+[24:01.500 --> 24:04.400]  is for individuals
+[24:04.400 --> 24:06.640]  who may not know exactly what they need
+[24:06.640 --> 24:08.680]  the sign for today but they know
+[24:08.680 --> 24:10.980]  they're going to need a sign in the near future
+[24:10.980 --> 24:12.300]  so you get the
+[24:12.300 --> 24:15.420]  not for underline sign
+[24:15.420 --> 24:16.540]  and then you can write in
+[24:16.540 --> 24:18.380]  whatever it's not for in the future.
+[24:20.080 --> 24:22.020]  So like a future-proofed sign.
+[24:22.220 --> 24:24.680]  Yeah, not for eating.
+[24:25.280 --> 24:26.860]  Not for diaper changing
+[24:26.860 --> 24:27.960]  or like whatever it is.
+[24:28.100 --> 24:30.540]  Sure, yeah. Multi-use.
+[24:30.900 --> 24:32.060]  Similar to one of my signs
+[24:33.600 --> 24:35.100]  It's in progress.
+[24:35.940 --> 24:37.540]  Oh, I like that.
+[24:37.660 --> 24:38.640]  It will be something
+[24:38.640 --> 24:40.500]  but currently it's just a warning
+[24:40.500 --> 24:42.320]  because my favorite sign
+[24:42.320 --> 24:44.700]  my favorite real sign in America
+[24:44.700 --> 24:46.360]  is this stupid thing.
+[24:47.220 --> 24:49.180]  It's a sign about a sign coming up.
+[24:49.740 --> 24:50.920]  Yeah, there's a sign. Stop ahead.
+[24:51.220 --> 24:51.480]  Absolutely.
+[24:51.900 --> 24:53.560]  I couldn't believe that's a real thing.
+[24:54.760 --> 24:56.380]  You don't want people to be warned
+[24:56.380 --> 24:57.560]  that there's a stop ahead?
+[24:58.220 --> 24:59.840]  There's a sign ahead, though.
+[25:00.410 --> 25:02.020]  Well, here's the thing.
+[25:02.180 --> 25:04.160]  Maybe Andrew's go sign can be used
+[25:04.160 --> 25:05.760]  instead of this
+[25:05.760 --> 25:08.160]  where now people know to keep going
+[25:08.160 --> 25:10.300]  but just heads up, there's a stop sign
+[25:10.300 --> 25:12.400]  coming up and that's how they can be warned.
+[25:12.560 --> 25:14.300]  So keep going until you see the next
+[25:14.300 --> 25:15.860]  one of these and it says stop.
+[25:16.200 --> 25:18.300]  Maybe it'd be more helpful if you saw it
+[25:18.300 --> 25:20.400]  in this format. Sign posted
+[25:20.400 --> 25:22.060]  sign to let you know
+[25:22.060 --> 25:24.140]  that there's a sign posted ahead somewhere.
+[25:24.160 --> 25:24.980]  That would be helpful.
+[25:25.500 --> 25:27.340]  But it's all words instead of pictures
+[25:27.340 --> 25:29.120]  so you won't be looking for a stop sign
+[25:29.120 --> 25:31.600]  because it could be a different kind of sign. Sign posted.
+[25:32.020 --> 25:33.540]  So if I miss the sign posted
+[25:33.540 --> 25:35.240]  and I end up in a car accident, I swear to God
+[25:35.240 --> 25:36.880]  I better be having a warhead mouthguard in
+[25:36.880 --> 25:39.560]  because I don't want to be locked in.
+[25:39.620 --> 25:41.820]  Andrew is finding some real stuff for you, man.
+[25:41.880 --> 25:42.420]  This is great.
+[25:43.640 --> 25:44.700]  I've got another sign.
+[25:45.060 --> 25:46.140]  Just a warning sign.
+[25:48.780 --> 25:49.680]  Poster, you idiot.
+[25:50.160 --> 25:50.920]  Poster, you fool.
+[25:51.520 --> 25:52.060]  Is it a dong?
+[25:53.140 --> 25:56.240]  It says type and it's processing.
+[25:57.460 --> 25:59.620]  Lightning has not struck here yet.
+[26:00.620 --> 26:01.600]  It's possible.
+[26:02.400 --> 26:03.240]  That is dangerous.
+[26:03.540 --> 26:04.720]  And my final sign
+[26:05.920 --> 26:07.120]  would be
+[26:07.120 --> 26:09.280]  maybe slightly lower down
+[26:09.280 --> 26:10.060]  on the side of the road.
+[26:10.840 --> 26:11.580]  Upside down.
+[26:12.360 --> 26:13.660]  You can't park there, mate.
+[26:14.320 --> 26:16.980]  If you roll your car right in front of that.
+[26:18.060 --> 26:19.160]  Useful instruction.
+[26:19.880 --> 26:20.960]  That's a very useful sign.
+[26:21.480 --> 26:23.340]  Very specific, but I like it.
+[26:25.380 --> 26:26.340]  I, uh
+[26:26.900 --> 26:28.060]  one of my signs
+[26:28.060 --> 26:29.660]  very, you know
+[26:29.660 --> 26:31.560]  it's an important thing to notice
+[26:31.560 --> 26:33.560]  when you do notice it, but if you don't notice it
+[26:33.560 --> 26:35.060]  that's okay because it is a
+[26:35.060 --> 26:36.540]  I saw the sign sign
+[26:37.840 --> 26:39.020]  just for anyone who
+[26:39.020 --> 26:40.500]  happens to see it.
+[26:41.000 --> 26:43.480]  They can say that they in fact did see the sign.
+[26:46.000 --> 26:47.660]  And my last sign
+[26:47.660 --> 26:49.880]  Why is it on like a wooden board sign?
+[26:50.440 --> 26:52.040]  I just used a template.
+[26:52.040 --> 26:54.580]  It works. It's very Sea of Thieves.
+[26:55.160 --> 26:56.060]  It is very Sea of Thieves.
+[26:56.740 --> 26:57.800]  My final sign, which is
+[26:57.800 --> 27:00.480]  maybe the truest expression of signs
+[27:00.480 --> 27:02.780]  generally speaking, is a sign
+[27:02.780 --> 27:04.200]  that just says, nobody cares.
+[27:04.660 --> 27:05.700]  This sign doesn't matter.
+[27:06.100 --> 27:08.140]  No one's going to follow this. Doesn't matter.
+[27:08.860 --> 27:10.340]  They're not really going to stop. They're going to stop
+[27:10.340 --> 27:12.360]  for half a second ago. There won't be a full stop.
+[27:12.860 --> 27:14.360]  I think these are some great signs, guys.
+[27:14.980 --> 27:16.500]  Do you want to rattle off the rest of yours, Geoff?
+[27:17.060 --> 27:18.140]  Well, yeah, I mean
+[27:18.140 --> 27:19.960]  when you're dealing with a lot of signs
+[27:19.960 --> 27:22.980]  sometimes you want to know if you're in a sign zone
+[27:22.980 --> 27:24.500]  that way you'll know
+[27:24.500 --> 27:26.200]  to look out for more signs
+[27:26.200 --> 27:27.340]  but then at some point
+[27:27.800 --> 27:29.720]  sometimes you leave your sign zone
+[27:30.340 --> 27:33.180]  maybe you don't want to be in a sign zone anymore
+[27:33.180 --> 27:34.940]  you want to be in a sign free zone
+[27:34.940 --> 27:36.060]  so you're going to want to
+[27:37.180 --> 27:39.140]  That might have to be on the coming up sign though
+[27:39.140 --> 27:40.480]  because otherwise the sign would be
+[27:40.480 --> 27:41.360]  in the sign zone.
+[27:42.760 --> 27:44.280]  It's actually a good point.
+[27:44.680 --> 27:45.900]  And then it's not always meta.
+[27:46.020 --> 27:48.100]  Sometimes you want to convey a message
+[27:48.100 --> 27:49.700]  and I feel this way a lot
+[27:49.700 --> 27:51.740]  when I see kids in a yard
+[27:52.320 --> 27:54.920]  or outside of a business having too much fun
+[27:54.920 --> 27:56.240]  you want to have a sign that says
+[27:56.240 --> 27:57.840]  hey, do not enjoy
+[27:57.840 --> 28:00.020]  this is not what you're here for
+[28:00.620 --> 28:02.060]  if that doesn't do it
+[28:02.060 --> 28:02.840]  ah fuck
+[28:02.840 --> 28:06.280]  if that doesn't do it
+[28:06.280 --> 28:08.100]  what if you had a sign posted
+[28:08.640 --> 28:09.760]  not for fun
+[28:09.760 --> 28:12.500]  that way if somebody's trying to manipulate
+[28:13.020 --> 28:14.100]  maybe the swing
+[28:14.100 --> 28:15.300]  I should swing on it, that's fun
+[28:15.300 --> 28:16.740]  no this is not a for fun swing
+[28:16.740 --> 28:19.820]  and then also this is a pretty niche one
+[28:20.400 --> 28:21.740]  I don't think it'll come up a lot
+[28:21.740 --> 28:23.820]  but when you're in it you want to know
+[28:24.660 --> 28:26.040]  like say you walk in a door
+[28:26.040 --> 28:27.900]  and suddenly you're in Andrew's
+[28:27.900 --> 28:28.640]  mind palace
+[28:28.640 --> 28:30.340]  you're going to want to know you're in a mind palace
+[28:30.340 --> 28:31.720]  so I think a mind palace sign
+[28:32.260 --> 28:34.060]  oh I like the mind palace
+[28:35.180 --> 28:36.380]  that's pretty much it
+[28:36.380 --> 28:38.480]  most of my other signs were identical
+[28:38.480 --> 28:39.480]  to the ones you guys made
+[28:42.160 --> 28:43.420]  I like these signs
+[28:43.840 --> 28:47.180]  Geoff, this is a great idea to go deep on the signs. Yeah, it's fun.
+[28:47.540 --> 28:51.180]  This is good. We're just, we're, you know, retreading some Bill Ingvall territory,
+[28:51.460 --> 28:54.520]  but not in the same way. His signs are hot, man. Next, we're going to do some
+[28:54.520 --> 28:58.320]  Geoff Foxworthy stuff next. It's going to be really good. Bill Ingvall was a sign guy?
+[28:58.760 --> 29:03.510]  What? That's his whole thing. Yeah, he just...
+[29:05.220 --> 29:08.760]  Maybe he should have been playing in Branson and then I'd know about it.
+[29:08.760 --> 29:13.500]  Hey, honestly, yeah, I was going to say it's kind of a surprise that he wasn't in Branson.
+[29:14.300 --> 29:18.800]  Did you know that in Branson, you just drive down the road. It's like I drive in Orlando.
+[29:19.000 --> 29:21.560]  Everybody knows what I'm talking about. International Drive in Orlando, right?
+[29:21.580 --> 29:24.460]  There's like Ripley's, believe it or not. There's a Wonder Works. There's all these like just
+[29:24.460 --> 29:30.240]  tourist traps that are like chains, right? But in Branson, every third or fourth one,
+[29:30.240 --> 29:35.060]  and there's a million of these things in Branson. There's so much shit to do. There's a Titanic
+[29:35.060 --> 29:39.600]  museum I went to where you go through and it's actually kind of cool. You go in and it's like
+[29:39.600 --> 29:43.280]  a half a Titanic that they've built and then they give you a card and they go, this is your name.
+[29:43.540 --> 29:49.180]  You're a first, second or third class passenger on the Titanic and you're a real person. And then
+[29:49.180 --> 29:52.640]  you go through the whole museum and at the end, you find out if you lived or died. I died.
+[29:54.600 --> 30:00.720]  I was fucking dead as dicks. But anyway, like every third or fourth building is a family theater
+[30:00.720 --> 30:06.720]  and it's like the Dunbar's every night, five o'clock, seven o'clock and nine o'clock. And
+[30:06.720 --> 30:11.140]  it's like a family that sings and performs and they have their own fucking theater.
+[30:11.480 --> 30:17.340]  So if Yakov Smirnov has his own theater with a big picture of him from 40 years ago and a
+[30:17.340 --> 30:22.200]  sign that says you'll laugh your mask off to give you an idea of how current the content is there.
+[30:22.460 --> 30:27.040]  But if Bill Engvall wanted to, he'd have a shrine there based on some of these buildings. It's like,
+[30:27.040 --> 30:32.640]  the Duddards have a three story building. The Presley's have a big people you've never
+[30:32.640 --> 30:39.340]  fucking heard of own entire theaters there. It's crazy. What a weird architecture system.
+[30:39.800 --> 30:46.240]  Do they have a Branson Pickle? I didn't see any and I looked. The shame. That is a shame.
+[30:46.720 --> 30:52.400]  What was Nick's sign? Oh yeah, there's Nick. Do you do your homework? I came up with an answer
+[30:53.020 --> 31:02.040]  during Thanksgiving. This is a different version of the sign that I found, but mine would say,
+[31:02.300 --> 31:10.900]  don't speak to the chef. Is that a knife in his face? No, it's a pan. That's a pan. Oh,
+[31:11.540 --> 31:19.320]  the head's behind. Oh, sorry. Are you? Oh, I see. Okay. Yeah, yeah, yeah, yeah. Okay. I see what
+[31:19.320 --> 31:26.000]  I see where you went. Okay. Because sometimes you're in the middle of trying to figure out,
+[31:26.020 --> 31:30.220]  you know, how long this roux has left and somebody's like, so how's the dropping going?
+[31:30.420 --> 31:34.960]  All right. Chill out. I gotta finish mixing this shit.
+[31:37.320 --> 31:45.040]  And then the other one is a, and this is a, this is a very important message I feel for most people
+[31:45.040 --> 31:51.380]  that's do not back into spaces. You don't need to back into that space. Why not? Some people love
+[31:51.380 --> 31:57.100]  to back into a space. Because it causes everyone else to have to wait for them. And they do this
+[31:57.100 --> 32:01.680]  slow little turn. What are you talking about? You have to wait for them to back out otherwise.
+[32:02.580 --> 32:07.040]  Yeah. Later. What does it matter to anyone else? They don't know whether you're coming or going.
+[32:07.480 --> 32:13.100]  When you poke a hole in Nick's logic, he just agrees with you, but in a tone that goes, ugh.
+[32:13.940 --> 32:19.520]  Yeah, later. I'd rather wait on the back end. But how do you, but if you're just arriving and
+[32:19.520 --> 32:23.960]  someone's backing into a space or backing out to a space, you don't care whether they're
+[32:23.960 --> 32:30.020]  coming or going. You care, get out of the way. I care. Yeah, that's fair. But most of the time
+[32:30.020 --> 32:34.360]  you end up following them in, they stop and then they start to back in right in front of you,
+[32:34.460 --> 32:37.840]  which takes longer. Right. So if someone backs out of a space as you're coming in,
+[32:38.360 --> 32:42.660]  you just keep going? Well, no, but you know that space is cleared and you're going to get that
+[32:42.660 --> 32:47.160]  space. There are times where the person who's backing in will go past the space and you may
+[32:47.160 --> 32:52.900]  think, oh, this is going to be my space. And then they start reversing into it. Or also, I'll just
+[32:52.900 --> 33:01.100]  not give them the room to back out. That is a move. I think that the backing in,
+[33:01.160 --> 33:06.300]  I just watched this movie called City of Industry, this Harvey Keitel movie, and Stephen
+[33:06.300 --> 33:12.160]  Dorf is in it. And he's like the wheel man in the movie. And he backs into every spot that he parks
+[33:12.160 --> 33:18.380]  in to a point where I was watching it going like, what the, like, stop doing this. And then you
+[33:18.380 --> 33:22.880]  realize like, oh, that's like his thing. He backs in so he can make like a quick getaway. So did
+[33:22.880 --> 33:26.660]  you consider that? Do you consider these people need to make quick getaways because they might be
+[33:26.660 --> 33:32.080]  in the middle of something? It hadn't occurred to me, but they better cut me in. Oh, that's a good
+[33:32.080 --> 33:37.900]  point. Wait, hang on. Why would they? Because they're taking up my time. Time is money. You
+[33:37.900 --> 33:43.740]  watch them back into a spot so they have to cut you in to like the diamond heist? I mean, I watched
+[33:43.740 --> 33:50.520]  them back and I waited for them to back in. He greases palms a little bit for the inconvenience.
+[33:50.520 --> 33:54.600]  The guy takes off really fast and throws Nick one diamond.
+[33:57.040 --> 34:00.020]  I'll take it. How do you feel about people parallel parking in front of you?
+[34:00.920 --> 34:04.880]  That's a good question. I hadn't thought about it until just now. I think the parallel park is
+[34:04.880 --> 34:09.600]  OK because you have to. Right. Yeah. Also, it's a respectable move because if you can do it,
+[34:09.920 --> 34:14.640]  a lot of people complain about not being able to. So could you not do it? No, I can do it.
+[34:15.120 --> 34:19.540]  You don't think Nick can parallel park? Yeah. Should we have a parallel park off?
+[34:19.540 --> 34:24.880]  Hell yeah. Sure. I think it's the guy that doesn't drive. I was going to say,
+[34:25.120 --> 34:30.260]  where do you think you rank in the parallel park off, Gavin? I don't think I'll be the best,
+[34:30.340 --> 34:34.640]  but I don't think I'll be the worst. And I think potentially I could do it quicker and better
+[34:34.640 --> 34:43.300]  than someone who drives. And who do you think that is? How about double or nothing on the boots,
+[34:43.500 --> 34:49.320]  Gavin? On the boots? Oh, no. If I have to do boots, I'm going to wait a year like you did.
+[34:50.060 --> 34:55.940]  Wait, double or nothing on the boots. That would mean you have to wear two pairs of boots? I'll
+[34:55.940 --> 35:01.420]  put a second pair on my hands. Twice as long. Twice as long. Walk around the mall dog style
+[35:01.420 --> 35:10.320]  in red boots. Like fucking Pluto. Going for a walk. What the hell? Yeah, I immediately wasn't
+[35:10.320 --> 35:17.460]  thinking double or nothing. I was thinking like Meg style double or double. That is the way that
+[35:17.460 --> 35:24.900]  she does it. Double or double. You're disadvantaged somehow either way.
+[35:30.400 --> 35:36.240]  Oh, man. Can I tell you guys something about my Thanksgiving that I've kept a secret until now
+[35:36.240 --> 35:45.440]  and I've been debating on if I should bring it up? Oh, my God. It'll be a whole story. I
+[35:45.440 --> 35:51.700]  flew in and then flew out the next day for Thanksgiving. We did it at my grandparents'
+[35:51.960 --> 35:56.180]  house there. My grandpa's like 90. I'm like, you know what? This will be... I should go. I should
+[35:56.180 --> 36:01.760]  definitely do this. Got on the plane. It was on time. The airport was not that crowded. It was
+[36:01.760 --> 36:07.040]  totally fine. As soon as we sat down, the captain came out of the cockpit and said, hey, thanks for
+[36:07.040 --> 36:10.760]  boarding. That was really great. So we're going to get you guys all off the plane because we're
+[36:10.760 --> 36:16.500]  on a ground delay because of fog into San Diego. And I went, great. So everyone had to get off the
+[36:16.500 --> 36:23.180]  plane. That's fine. Got off the plane, went over to Haymaker at the bar, talked to a nice hippie
+[36:23.180 --> 36:31.440]  guy for an hour, had a beer and some poutine and then got back on the plane, flew back in.
+[36:31.540 --> 36:36.240]  Then we took off, flew to San Diego, circled the desert about eight times before we could go into
+[36:36.240 --> 36:42.260]  San Diego and then finally got into San Diego and they said, haha, not so fast. And then we circled
+[36:42.260 --> 36:49.240]  on, like, we taxied on the ground probably like five times, just kept driving in circles in the
+[36:49.240 --> 36:53.800]  plane. So that was like, oh man, that was weird. That just took like a long time. So it kind of
+[36:53.800 --> 37:00.460]  like threw off like the rest of the day, but it was fine. I got a ride, went to Thanksgiving at
+[37:00.460 --> 37:04.160]  my grandparents' house and I started like not feeling good. I just kind of had like a stomach
+[37:04.160 --> 37:10.840]  ache. And then I started feeling like overheated and woozy. And I'm like, man, what happened?
+[37:10.980 --> 37:16.480]  Like, why do I not feel good? So I ate dinner and it was fine. And then I like, I went to the bathroom
+[37:16.480 --> 37:23.600]  real quick and I felt really sick and I threw up. But I didn't tell anyone. I was just
+[37:23.600 --> 37:29.760]  like, oh, I don't want anyone to worry. And I don't, I just feel like off. And after I threw up, I'm
+[37:29.760 --> 37:33.580]  like, man, but I guarantee it was nothing that we ate because no one else is sick. I think it was
+[37:33.580 --> 37:40.080]  the poutine that I had. And I'm like, oh, do I have poisoning? About 45 minutes later, I'm like, oh,
+[37:41.440 --> 37:50.220]  I'm going to shit my pants right now. I had to, my parents live down the street from my
+[37:50.220 --> 37:53.900]  grandparents. So I'm like, hey, let me borrow a house key real quick. I have to go get
+[37:53.900 --> 38:00.900]  a pill that I have to take with dinner. That's a lie, but it's fine. Ran, well ran,
+[38:00.900 --> 38:06.820]  power walked over to my parents' house as fast as I could without jostling anything.
+[38:07.780 --> 38:12.500]  Geoff, I'm sure you can attest to this. When I say that it was a photo finish,
+[38:14.560 --> 38:22.360]  I had never felt more sick and then more relieved from one second to the next.
+[38:24.100 --> 38:29.440]  Whatever was in me was out of me. I felt totally fine. And then the rest,
+[38:29.440 --> 38:33.880]  and then went back to my grandparents' house and was like, great. The rest of the day,
+[38:34.020 --> 38:41.180]  I don't know what happened. It was, it all, everything happened within six hours. It was
+[38:41.180 --> 38:50.760]  like all of this, all of this fucking travel shit, feeling bad, exploding, feeling like I'm going to
+[38:50.760 --> 38:55.300]  die. And then feeling instant relief was all in a six hour period. It was the weirdest Thanksgiving
+[38:55.300 --> 39:01.520]  I've ever had in my life. That's the best feeling of relief though is when the, the shit like fixes
+[39:01.520 --> 39:07.800]  the shit feeling and the vomit feeling at the same time. Yep. Yep. That's wild that it was so intense
+[39:07.800 --> 39:15.600]  and so quick. It was crazy. I've, you know, I've had food poisoning before, but this was like,
+[39:16.420 --> 39:21.820]  I mean, I don't know, so sudden and then so out of nowhere and then so over and boy,
+[39:21.820 --> 39:30.020]  it was close to being a really different rest of my day. Oh God. Really different. That was,
+[39:30.580 --> 39:34.100]  boy, it was weird because I was totally fine after that. I went and hung out with like Mega64
+[39:34.100 --> 39:37.980]  for like the rest of the day over there. And it was like, I didn't feel sick. I didn't feel
+[39:37.980 --> 39:41.360]  anything. I went back to my grandparents' house. I like had a drink. It, everything was fine.
+[39:41.740 --> 39:46.140]  Did you tell anyone about your photo finish? No, you are the first people that I've brought
+[39:46.140 --> 39:50.860]  this up to. Because I was like, I'm like, I didn't tell, I didn't even tell my wife.
+[39:51.160 --> 39:59.880]  I didn't tell anyone. And then you guys were talking to me. Geoff had a really bad Thanksgiving
+[39:59.880 --> 40:06.580]  story and I'm like, all right, mine isn't great. Well, Eric, your secret's safe with us, buddy.
+[40:06.700 --> 40:09.800]  I won't tell anybody. All right. That's good. That's good. Everyone out there listening to this,
+[40:09.960 --> 40:12.020]  don't tell anyone. Not a word from me.
+[40:13.620 --> 40:15.100]  Shit rats in the chat.
+[40:16.560 --> 40:21.720]  Dude, it was, I don't think, I've never, I've never shit my pants and I'm knocking on wood.
+[40:22.300 --> 40:25.700]  But like, boy, that's, that's probably the closest I've ever been.
+[40:27.620 --> 40:30.940]  Sometimes, sometimes when I'm watching a film, if it's a film I've seen a bunch of times,
+[40:30.940 --> 40:35.040]  I'm like watching an iconic scene. And I just think, I wonder what I was doing at that exact
+[40:35.040 --> 40:40.560]  moment. Like when that was being filmed. And all I was thinking is what was I doing
+[40:41.000 --> 40:46.680]  when you were power walking to take a big old ice cube liquid shit. I bet I was just chilling on my
+[40:46.680 --> 40:51.260]  switch. Let me, let me think about what time it was. It, it was probably, so I was on the,
+[40:51.380 --> 40:55.360]  I was on the West Coast. So it was on Pacific time. So me and Andrew, you know,
+[40:55.440 --> 41:01.440]  clocking like the same, he's probably eating that good-ass barbecue. It was the evening.
+[41:02.100 --> 41:09.260]  I bet it was five. I bet it was 5.45 PM. So 7.45 your time.
+[41:09.260 --> 41:11.140]  Oh, I was probably playing Mario Party.
+[41:12.580 --> 41:16.100]  We were both having a party. We were both having a blowout jamboree.
+[41:19.740 --> 41:22.400]  Poutine is an insane pick for a flight, in my opinion.
+[41:23.160 --> 41:24.180]  What was in it?
+[41:24.440 --> 41:29.060]  I wanted something that was just something salty with a beer. Yeah. I just wanted something with
+[41:29.060 --> 41:32.100]  a beer. I hadn't eaten all day and it was like, well, if I'm going to be delayed an hour. And
+[41:32.100 --> 41:35.800]  then the guy that I sat and talked to was really cool. It was a guy named Peter who was like
+[41:36.460 --> 41:38.900]  rad and like flying to Oakland. He was just a cool guy.
+[41:39.140 --> 41:41.280]  Was he any chance a pumpkin eater?
+[41:42.260 --> 41:47.640]  No, he did. He did though have a wife. And my understanding is that he did not have
+[41:47.640 --> 41:50.580]  any trouble feeding her. So everything seemed to be working out for Peter.
+[41:50.900 --> 41:51.860]  Okay. Good. Good. Good.
+[41:51.860 --> 41:54.640]  Yeah. Yeah. Yeah. He's just a, he's a cool dude. And then I,
+[41:54.860 --> 42:00.960]  it's weird because I felt sick suddenly. And then I don't know. I ate so much at Thanksgiving too.
+[42:00.960 --> 42:05.600]  Oh boy. I ate so much at the, I had, Oh, I went insane mode on Thanksgiving.
+[42:06.240 --> 42:12.860]  And you got so lucky that you didn't have to shit while you were circling the runway.
+[42:13.120 --> 42:14.380]  That's because you wouldn't have been able to get up.
+[42:14.740 --> 42:18.760]  I think that's, I think that's a very crucial part of the story because they told us while
+[42:18.760 --> 42:23.680]  we were flying over the desert, they're like, use the bathroom right now because when we are
+[42:23.680 --> 42:29.420]  on the ground taxiing, you cannot get out of your seat. And then looking back, I only missed it by
+[42:29.940 --> 42:32.200]  two hours or whatever to like...
+[42:32.200 --> 42:32.640]  That's nuts.
+[42:32.880 --> 42:38.520]  Yeah. It was bad. It was really, it was really something. Uh, so I don't recommend the poutine
+[42:38.520 --> 42:44.740]  at, uh, Haymaker at the airport. I do recommend it at Haymaker or normal Haymaker, but, um,
+[42:45.080 --> 42:47.060]  maybe not the, not, maybe not the one at the airport.
+[42:47.500 --> 42:51.540]  I can't believe you got food poisoning from poutine because the base poutine is just
+[42:51.540 --> 42:53.880]  gravy and cheese curds with fries.
+[42:54.180 --> 42:57.880]  Yeah. I have a feeling that something just wasn't cleaned or there was like...
+[42:57.880 --> 42:58.740]  I see. Okay.
+[42:58.740 --> 43:02.280]  You know what I mean? Like, I have a feeling it was just that, like, there's nothing else that I
+[43:02.280 --> 43:10.120]  ate that would have caused me to feel sick. Cause I ate the same stuff at the family thing. And then
+[43:10.120 --> 43:11.440]  I don't know, man, it was...
+[43:11.440 --> 43:15.140]  What time were you eating the poutine? Would you, would you say? What time was this?
+[43:15.740 --> 43:23.360]  Uh, I would say probably like my time. It was probably like one, like Austin time,
+[43:23.580 --> 43:24.840]  1.30, something like that.
+[43:25.220 --> 43:28.400]  I had poutine the same day at probably 4 PM.
+[43:29.080 --> 43:31.100]  I was curious if we were insane.
+[43:31.780 --> 43:32.620]  Mine was not poisonous.
+[43:32.840 --> 43:34.100]  You guys are poutine brothers.
+[43:34.420 --> 43:37.840]  Yeah, man. Poutine's a thing where I think it's weird that we don't have it here.
+[43:38.120 --> 43:38.580]  It is strange.
+[43:39.120 --> 43:44.020]  It seems like... does it not seem like an American food? Like take the name out of it.
+[43:44.080 --> 43:48.080]  It's gravy with French fries and cheese. Like, it seems like a thing that you would get in the U.S.
+[43:49.000 --> 43:52.760]  But take into consideration you got it in the U.S. and it made you sick.
+[43:53.440 --> 43:57.300]  Right. But that's like, that's anything. I just, I've had the,
+[43:57.300 --> 44:00.300]  I've had the poutine at, I've had the poutine at Haymaker before,
+[44:00.400 --> 44:02.080]  just not the Haymaker at the airport.
+[44:02.440 --> 44:04.840]  Eric, I should have given you a heads up. I apologize. That is, uh,
+[44:04.840 --> 44:08.000]  in response to the 25% tariff thing, we were poisoned.
+[44:09.260 --> 44:10.800]  We are retaliating right now.
+[44:10.880 --> 44:14.800]  Yeah, no, that's smart, actually. Yeah, I get why Trudeau flew down. I understand.
+[44:15.680 --> 44:17.260]  Yeah, the poutine's good now. It's all clear.
+[44:17.340 --> 44:18.600]  Yeah, I should have, but I should have let you reply.
+[44:18.600 --> 44:19.840]  I just did it on the wrong day.
+[44:19.980 --> 44:22.860]  But yeah, I didn't, I really, I didn't know if I was going to tell that story or not.
+[44:22.860 --> 44:24.960]  And I figured if I was going to tell it anywhere, it might as well be here.
+[44:25.700 --> 44:26.260]  Yeah, absolutely.
+[44:26.780 --> 44:30.040]  That could be their new slogan. Poutine, it's a poo thing.
+[44:31.340 --> 44:34.300]  I don't think it should be their slogan, but I'm with you, it could be.
+[44:34.440 --> 44:35.380]  They could put it on a sign.
+[44:35.860 --> 44:39.800]  What if in a couple of weeks we all just get lunch there and have the poutine and see what happens?
+[44:40.260 --> 44:41.340]  Jeez. Oh, okay.
+[44:41.540 --> 44:42.460]  Like a Russian roulette.
+[44:42.660 --> 44:44.280]  At the airport or the regular one?
+[44:44.480 --> 44:44.800]  Airport.
+[44:45.580 --> 44:48.140]  So we have to book flights.
+[44:48.700 --> 44:51.100]  Well, maybe on our flight to Branson we'll eat there.
+[44:53.460 --> 44:55.120]  Easy as that. I love it.
+[44:55.120 --> 44:56.260]  I got a new sign.
+[44:57.020 --> 44:57.880]  Oh, what's your new sign?
+[44:58.280 --> 45:00.180]  I put it together right now.
+[45:00.480 --> 45:04.600]  A little niche, a little specific, but just in case, it would've been helpful.
+[45:05.220 --> 45:05.840]  Forgot the turkey.
+[45:08.240 --> 45:11.540]  And I assume that would be in the car park on the way out of a Doubletree?
+[45:11.960 --> 45:12.900]  I believe so, yeah.
+[45:13.580 --> 45:15.000]  Yeah, that'd be a good place to have it.
+[45:15.400 --> 45:16.600]  Maybe the highway out of town.
+[45:16.960 --> 45:19.440]  It would be next to the Do Not Back Into Spaces sign.
+[45:20.640 --> 45:26.900]  And an episode or two ago, I presented a new game to y'all called Worst Products in the World.
+[45:27.460 --> 45:27.720]  Yes.
+[45:28.200 --> 45:30.880]  I have another submission for you I'd like to give you guys.
+[45:30.980 --> 45:31.260]  Okay.
+[45:31.340 --> 45:34.900]  That I found somewhere in Oklahoma at a Walmart, I think.
+[45:35.360 --> 45:40.100]  I think this is one of the worst things to ever exist, and I'm happy to share it with you now.
+[45:40.220 --> 45:46.280]  It is Cheetos Flamin' Hot Bath Gust Citrus Scented.
+[45:46.280 --> 45:50.560]  Have you ever wanted to take a bath with Flamin' Hot Cheetos?
+[45:51.280 --> 45:52.240]  Did you buy it?
+[45:52.620 --> 45:54.200]  No, I didn't buy it.
+[45:54.300 --> 45:55.480]  Oh, you gotta buy these.
+[45:55.720 --> 45:58.940]  All right, I'll go back and buy it if I see it again.
+[45:59.140 --> 46:00.460]  Okay, hang on, I'm gonna look it up.
+[46:00.520 --> 46:01.920]  Cheetos Bath Dust?
+[46:02.300 --> 46:03.520]  Yeah, Cheetos Bath Dust.
+[46:03.520 --> 46:05.500]  It's a bad product on several levels.
+[46:05.680 --> 46:09.900]  Because one, you don't want to smell like Cheetos, but also it's citrus scented,
+[46:10.060 --> 46:12.140]  which has nothing to do with Flamin' Hot Cheetos.
+[46:12.260 --> 46:12.840]  It's not even representative.
+[46:12.840 --> 46:14.640]  And it's Flamin' Hot.
+[46:14.640 --> 46:16.840]  Which is a weird thing to describe a bathtub.
+[46:17.380 --> 46:19.540]  So apparently, there's other...
+[46:20.140 --> 46:21.540]  There's other ones.
+[46:21.620 --> 46:22.540]  Oh, yeah, there you go.
+[46:22.540 --> 46:22.940]  Why?
+[46:23.080 --> 46:23.880]  Bath dust.
+[46:24.400 --> 46:25.300]  Why did they do that?
+[46:25.500 --> 46:26.240]  To sell $1?
+[46:26.800 --> 46:28.440]  I don't understand what it...
+[46:28.440 --> 46:29.820]  I see you don't eat it.
+[46:30.040 --> 46:30.360]  No.
+[46:30.840 --> 46:32.300]  The icy one I'm fine with.
+[46:32.720 --> 46:34.040]  That's fine, that's whatever.
+[46:34.140 --> 46:34.460]  Why?
+[46:34.600 --> 46:37.120]  Why was everyone mad about Tide Pods?
+[46:37.440 --> 46:38.760]  But it's blue raspberry, Andrew.
+[46:38.920 --> 46:39.540]  Like, what?
+[46:42.180 --> 46:43.700]  I don't recognize them then.
+[46:43.700 --> 46:44.300]  Why?
+[46:45.420 --> 46:48.860]  So wait, everyone was mad about Tide Pods, but this...
+[46:48.860 --> 46:49.780]  But not this stuff?
+[46:50.080 --> 46:50.280]  Yeah.
+[46:50.780 --> 46:51.720]  This is just food.
+[46:52.120 --> 46:52.340]  Yeah.
+[46:52.820 --> 46:54.160]  Fruity pebbles soap.
+[46:54.500 --> 46:56.120]  I mean, fucking come on.
+[46:56.280 --> 46:59.160]  To be fair, nobody's eating this as a trend, to my knowledge.
+[46:59.440 --> 47:00.440]  I think that would...
+[47:00.440 --> 47:05.900]  These would equally be hated if people started eating their Cheetos Flamin' Hot bath dust.
+[47:08.720 --> 47:10.080]  This is crazy.
+[47:10.260 --> 47:11.220]  I swear to God.
+[47:11.640 --> 47:12.160]  Oh my God.
+[47:12.160 --> 47:14.140]  I'm not even looking for this shit.
+[47:14.380 --> 47:17.360]  I just... Emily was buying Christmas garland and I...
+[47:17.360 --> 47:19.000]  It happened to be near where we were getting the garland.
+[47:19.120 --> 47:20.860]  It's just unbelievable.
+[47:21.240 --> 47:24.060]  I think this affected my ads because I got an ad for this.
+[47:24.560 --> 47:27.660]  But it doesn't sound as bad as the Cheeto dust.
+[47:28.220 --> 47:28.620]  Oh yeah.
+[47:28.840 --> 47:30.500]  Bucket of chicken scented candle.
+[47:30.500 --> 47:31.520]  Bucket of chicken candle.
+[47:31.880 --> 47:34.400]  Ew, Eric, this was the photo of the...
+[47:34.400 --> 47:35.660]  What it looks like.
+[47:35.940 --> 47:39.160]  I found a video of this guy dumping it in.
+[47:39.680 --> 47:41.140]  Oh my God.
+[47:41.140 --> 47:45.600]  It makes your bathtub look like you're about to cook mac and cheese.
+[47:49.520 --> 47:53.300]  Surely you would stand up and it would dye your body on the way out.
+[47:55.800 --> 47:57.360]  Wow, this is nuts.
+[47:57.680 --> 47:58.960]  I can't believe these are real.
+[47:59.380 --> 48:03.220]  We'll have to buy some and all take baths in it and then rate it.
+[48:04.160 --> 48:05.840]  Maybe we have to interact with these in some way.
+[48:05.920 --> 48:10.140]  Do you think bath dust is like the weapon grade crystal meth version of bath salts?
+[48:11.440 --> 48:12.580]  Escalation of drugs.
+[48:13.080 --> 48:17.380]  I can see some people going zombie mode after eating some bath dust Cheetos.
+[48:17.600 --> 48:19.320]  Instead of eating a face, they eat the whole head.
+[48:19.820 --> 48:22.280]  I think it's a de-escalation of bath salts.
+[48:22.520 --> 48:23.900]  I think it's like a lighter version.
+[48:24.180 --> 48:24.560]  Yeah, yeah, yeah.
+[48:24.560 --> 48:25.560]  I think it's like a lighter version.
+[48:25.680 --> 48:28.700]  It doesn't get you so zombie insane, but just like medium zombie insane.
+[48:28.700 --> 48:31.200]  It's like the CBD of bath salts.
+[48:31.560 --> 48:32.200]  Yeah, yeah.
+[48:32.260 --> 48:36.000]  This is the part of bath salts that's actually good for you.
+[48:39.040 --> 48:45.000]  I also saw this packet of batteries when I was looking at stuff and I was struck by the brand
+[48:45.000 --> 48:53.000]  name Best Choice and that got me thinking, do you think we could sell, ironically,
+[48:53.680 --> 48:56.840]  products if we put Worst Choice as the brand name?
+[48:57.380 --> 49:00.460]  Yeah, absolutely. Like we were like the shittiest batteries.
+[49:01.080 --> 49:01.740]  Worst batteries.
+[49:02.060 --> 49:04.220]  Well, we could do that once we have enough products in our store.
+[49:04.220 --> 49:08.160]  We could have like a weekly worst choice, like the worst product of the week.
+[49:08.700 --> 49:09.940]  I love it. Worst of the week.
+[49:10.080 --> 49:11.600]  Worst of the week. That's great.
+[49:12.000 --> 49:13.900]  And it'd be our worst selling thing.
+[49:14.240 --> 49:16.400]  It's our wow item. Our worst of the week.
+[49:16.760 --> 49:17.200]  Yeah.
+[49:18.240 --> 49:19.720]  Wow. Worst of the week.
+[49:20.080 --> 49:22.800]  Yeah. And it's just a discount on shit we can't sell properly.
+[49:23.580 --> 49:27.400]  You said the Best Choice thing and I'm like, don't they make mayonnaise?
+[49:27.680 --> 49:30.680]  And they do. Best Choice makes mayonnaise and batteries.
+[49:31.780 --> 49:34.200]  I'm sure they make everything because they're the best choice.
+[49:37.760 --> 49:42.740]  Oh man, I mixed up my Best Choice stuff. A bunch of batteries on my sandwich.
+[49:43.000 --> 49:44.680]  Just for fun. Here's a picture of Emily and I on the Titanic.
+[49:45.580 --> 49:47.500]  Oh, they have the jewel.
+[49:51.900 --> 49:53.060]  Oh, my God.
+[49:54.180 --> 49:56.340]  Oh, that's really... did Emily live or did she die?
+[49:56.980 --> 50:01.160]  She died. Yeah, everybody... my mom lived.
+[50:02.160 --> 50:04.180]  My mom lived and I can't... I think that's it.
+[50:04.180 --> 50:05.720]  I think everybody else died.
+[50:06.200 --> 50:09.660]  No, Emily lived. Emily and her fucking kids lived. That's right.
+[50:09.900 --> 50:11.600]  Yeah, she and my mom lived. Everybody else died.
+[50:12.140 --> 50:13.900]  What? Yeah, that's not... or did she die?
+[50:14.460 --> 50:15.820]  Nah, I don't know. Who can remember?
+[50:16.120 --> 50:16.980]  I'm dead. What's it matter?
+[50:21.640 --> 50:25.860]  Anyway, I love this. We now have... we have wow items that...
+[50:25.860 --> 50:27.880]  we just need more than two products in the store.
+[50:28.300 --> 50:30.940]  Speaking of wow, we sold the GoPla.
+[50:31.580 --> 50:32.060]  Oh, wow.
+[50:32.920 --> 50:33.560]  Yeah, we did.
+[50:34.140 --> 50:34.620]  We...
+[50:34.620 --> 50:37.360]  That's right. That happened between recordings.
+[50:37.740 --> 50:41.380]  We sold 4,000 in four minutes.
+[50:42.040 --> 50:42.520]  Yeah.
+[50:42.660 --> 50:45.280]  Giving us a 1,000 GPM rate.
+[50:45.460 --> 50:48.200]  Yes, that is... we are currently at 1,000 GPM.
+[50:48.540 --> 50:52.580]  I was trying to... I realized... I was asking Geoff some dopey questions. I was like,
+[50:52.920 --> 50:57.100]  so what does the... what does the graph look like? Was it like a bell curve or was it like
+[50:57.100 --> 51:00.820]  continually going up? And I realized we're trying to get data from what I assume is
+[51:01.400 --> 51:05.380]  four dots over four minutes. Like, I don't know how we can get any useful...
+[51:06.400 --> 51:09.780]  I don't know if it updates fast enough to get any usable data from that.
+[51:10.180 --> 51:11.380]  I sent them what I had.
+[51:13.440 --> 51:21.960]  Yeah, well, to... unbelievable response. Can't... can't state enough how gratified we are that
+[51:21.960 --> 51:29.800]  they sold and they sold so quickly. Cannot tell you how relieved I am that the store stayed up
+[51:29.800 --> 51:35.400]  and that they were... they... that day started shipping product out. And most people, I think,
+[51:35.400 --> 51:40.720]  have received their Gerplers at this point. And it seems like mechanically everything worked and
+[51:40.720 --> 51:42.680]  like a charm, which...
+[51:42.680 --> 51:43.180]  And I think...
+[51:43.180 --> 51:49.800]  You told us that a huge, huge percentage just ordered like one.
+[51:50.220 --> 51:54.740]  Yeah, almost everybody just ordered one. Yeah, there were a bunch of people... not a bunch,
+[51:54.820 --> 51:59.520]  but people ordered two. And there were, you know, one or two people here or there that ordered a few
+[51:59.520 --> 52:03.900]  more. But almost every order was a single order. Yeah, people were very respectful. People were
+[52:03.900 --> 52:10.100]  very cool. All of you comment leavers out there and regulation listeners were awesome and very
+[52:10.100 --> 52:15.000]  respectful for each other and made sure that as many people as possible could get them.
+[52:15.680 --> 52:21.000]  Clearly, we were hoping to sell them all. Yes, we were blown away by how quickly they were sold out.
+[52:22.180 --> 52:28.020]  Yes, we probably should have expected it more than we did. And to that end,
+[52:28.020 --> 52:34.520]  we have ordered 5,000 more Gerplers. They will be here early February. We will put them on sale.
+[52:35.160 --> 52:39.980]  We will see how long it takes to go through those. And if you've already bought one in the
+[52:39.980 --> 52:43.600]  first 4,000, then you don't need one of these. These are the same damn Gerplers, same color,
+[52:43.720 --> 52:48.000]  same everything. So hopefully everybody who didn't get one this time will be able to get
+[52:48.000 --> 52:53.320]  one in the next drop in early February. And then between these two orders, maybe we'll figure out
+[52:53.320 --> 52:58.760]  what the actual demand is so that the next Gerpler drop, we can meet it 100% or close.
+[53:00.100 --> 53:04.640]  Thanks to these sales, we can afford to buy more Gerps up front.
+[53:04.840 --> 53:12.160]  Yes, yes, yes, absolutely. Absolutely. And so yeah, but hopefully by the end of February,
+[53:12.160 --> 53:15.600]  we'll have a fucking figured out and we'll know, hey, we're gonna, you know, here's the new,
+[53:16.320 --> 53:20.260]  I don't know, electric blue Gerpler coming out in summer. We'll order, you know,
+[53:20.260 --> 53:23.560]  8,300 and we'll know that's the exact number we need or whatever.
+[53:25.020 --> 53:29.940]  Can't wait. Electric blue Gerpler. Electric blue. Is that a wow product?
+[53:30.240 --> 53:32.880]  That just came to my mind. Actually, I want to do it. Do you think it's going to be,
+[53:33.280 --> 53:36.640]  electric blue Gerpler is going to be the worst of the week? It's just like,
+[53:36.900 --> 53:43.400]  it should have like a lightning strike on it. All right. Okay. And now I'm into it.
+[53:43.500 --> 53:48.380]  What if we did a series of Gerps where it starts as, it starts as purple Gerps,
+[53:48.380 --> 53:54.640]  and then as they make more, they just change the color of the extrusion over time. And then
+[53:54.640 --> 53:59.460]  eventually we'll have just like a 5,000 GERP gradient of purple to green. Oh, it's like this
+[53:59.460 --> 54:04.680]  giant ombre that's across the entire stock. I love that idea. And then if you get one that's
+[54:04.680 --> 54:08.860]  more green, it's like, oh, this was at the end of the GERP line. I like this idea a lot, but I want
+[54:08.860 --> 54:15.960]  to send you to a factory somewhere and explain your premise to them. I want you to talk to the
+[54:15.960 --> 54:19.520]  people that have to execute it. Well, I assume they have to pour in a bunch of plastic pellets
+[54:19.520 --> 54:24.740]  or something and melt it down. Right. Right. That is what you assume. Yes. Yeah. You go into their
+[54:24.740 --> 54:30.440]  factory and say, where do you store the plastic pellets that I assume you have? That just slowly
+[54:30.440 --> 54:36.880]  add more green in. Yeah. And then you stand over the giant vat. Is that what you're imagining is
+[54:36.880 --> 54:40.840]  there? How are they doing this? And they're just pouring it in as they're making it. I would love
+[54:40.840 --> 54:45.440]  to go and oversee the GERPLER manufacturing process with a hard hat and a keyboard.
+[54:45.980 --> 54:53.280]  That's good. And then you can be on an elevated, you can be above the warehouse, sort of like
+[54:53.280 --> 54:57.980]  looking down and you should say, we should do this. And then there's a guy looking up at you
+[54:57.980 --> 55:06.940]  that says, who is we? And then it all makes sense. I don't think you were probably part of those
+[55:06.940 --> 55:15.140]  conversations. But when we did the GERPLER, the green into like the purple, that was so difficult
+[55:15.140 --> 55:21.320]  and like so many conversations to be like, no, it has to be like this color into this color.
+[55:21.420 --> 55:27.440]  And they had to like figure out a new method to do what we wanted to do. It was crazy.
+[55:27.740 --> 55:34.100]  It was so crazy. How do you say we is you in Chinese? That's good. Guys, if anyone out there
+[55:34.100 --> 55:40.340]  speaks Mandarin, please let us know. Thank you. Maybe for the blue shot, because we were
+[55:40.340 --> 55:47.180]  experimenting with these before everything collapsed at the previous company that never
+[55:47.180 --> 55:53.760]  came out. But we're experimenting a GERPLER tech and we were on the the edge of a glow-in-the-dark
+[55:53.760 --> 56:00.000]  GERPLER. Maybe that's what's the blue shot like. It's a blue GERPLER. It looks blue and then at
+[56:00.000 --> 56:07.060]  night it glows. Yeah, it was like, it was pretty cool. Glow, glow, glow. It was awesome. Yeah,
+[56:07.600 --> 56:17.820]  taking some water to bed. Radioactive. Radioactive. Oh my God. It's like when you look at your
+[56:17.820 --> 56:25.860]  grandma's old like kitchenware from the 1920s in a black light and it's fucking bright lime green
+[56:25.860 --> 56:29.900]  because it's full of lead or whatever. I have a question for Nick before this episode closes.
+[56:30.000 --> 56:35.660]  Oh, I have a question for Nick too. I'll go after you. Okay. Mine is, so we did the regulation trail
+[56:35.660 --> 56:40.900]  mix where we all submitted a thing. Oh yeah. I went out on an expedition to put it together for
+[56:40.900 --> 56:44.800]  this show because I wasn't sure if that was homework enough for us to do. Went to five
+[56:44.800 --> 56:50.700]  different places, including a like a bulk store that just sells the scoop. Like you just go and
+[56:50.700 --> 56:56.420]  you scoop whatever you want. There's not a single one of your chips anywhere that I could find.
+[56:57.080 --> 57:02.840]  If I wanted an alternative because I would have to have one, what would you pick? Oh,
+[57:03.420 --> 57:07.620]  other than the ride ship, I believe is what it was. What about the bake? What about the
+[57:07.620 --> 57:15.540]  bagel chip? Is that a good chip? Okay. It's not the best alternative, but it'll do because it's
+[57:15.540 --> 57:23.520]  still got that nice crunch to it. Okay. Got it. A bagel chip. Okay. What is that brand called?
+[57:23.520 --> 57:28.180]  Do they not have Gordettos? Gordettos. Can you just get those and take them out? No.
+[57:28.180 --> 57:32.980]  Oh, damn. Oh, wow. That's crazy. Did we ever get Gracie's alternate pick off the ship picnics
+[57:32.980 --> 57:39.160]  thing? They were the pretzel twist things. Oh, yeah. I was able to get those, which is funny
+[57:39.160 --> 57:43.600]  because like I when you made that picnic, I was like, I'm aware of those, but I never like see
+[57:43.600 --> 57:48.580]  them around. And then I was looking at the guys or maybe you guys are talking about how like how
+[57:48.580 --> 57:54.780]  much people love those. I thought, interesting. It's just not it's not a thing I see. So did you
+[57:54.780 --> 57:59.440]  make the rest of the mix? I do. Yeah. I have everything bagged up right now outside of
+[57:59.440 --> 58:04.580]  Nick's. So I just wanted to get Nick's alternative to get this mix fully going.
+[58:05.620 --> 58:09.840]  Because they make they specifically make, yeah, the rye chips only from the Gordettos.
+[58:10.100 --> 58:14.900]  So that's interesting that you can't find a special request. That's a garlic one.
+[58:15.740 --> 58:18.460]  Put some garlic on this Gordetto.
+[58:21.710 --> 58:28.230]  Put it use your plastic pellets and add some garlic to the Gordetto. That sounds less like a
+[58:28.230 --> 58:35.110]  special request and more like a special demand. What? Oh, yeah. What accent are you? I'm the
+[58:35.110 --> 58:42.390]  fanciest man in the land and I want some garlic on my Gordetto. God damn it.
+[58:42.390 --> 58:49.010]  What? That's Andrew's like top hat mode. That is my top hat. Yes, sir. It is indeed.
+[58:50.670 --> 58:55.190]  Is that is that's that's what Johnny Caviar sounds like? No. No.
+[58:57.630 --> 59:02.990]  Oh, wow. We're coming up on the 100th anniversary of Gordettos in 2032.
+[59:03.030 --> 59:09.950]  Oh, the 100th anniversary, you say? OK, this sucks. Gavin, what was your question for Nick?
+[59:10.650 --> 59:15.230]  Oh, I was thinking about Thanksgiving and I was like thinking about all you guys because we were
+[59:15.230 --> 59:18.950]  writing some nice stuff to us, ourselves, not ourselves, each other in the Slack.
+[59:19.290 --> 59:23.210]  We did. We had we wrote nice stuff to each other. And I was thinking, oh, you know,
+[59:23.750 --> 59:27.230]  nice little crew. And then I realized I still don't know enough about Nick. Nick,
+[59:27.250 --> 59:31.890]  do you have any siblings? I have one brother. He's younger than me. Interesting. Didn't know that.
+[59:32.190 --> 59:35.990]  Do you like him? Yeah, I love him. Saw him for Thanksgiving. What's he do for a living?
+[59:35.990 --> 59:41.790]  He's a lawyer. Oh, shit. Where does he live? Dallas. Is he taller or shorter than you?
+[59:42.330 --> 59:48.210]  Taller. Unfortunately, younger and taller. Yeah. Yeah. You like him? Interesting. Yeah,
+[59:48.270 --> 59:56.710]  he's cool. Did you ever get hand me ups? No. OK. Oh, wait. Now. Yeah, actually, probably.
+[59:56.930 --> 59:59.510]  He's like, here's this shirt. I'm a lawyer. I can afford it.
+[01:00:02.410 --> 01:00:07.970]  I'm a lawyer. You think he says that? You think I'm a lawyer? I can afford it. Dude,
+[01:00:08.030 --> 01:00:11.610]  that's a direct quote from Thanksgiving. He said, I'm a lawyer. I can afford it.
+[01:00:11.790 --> 01:00:15.590]  He's handing Nick a box of clothes. Yeah. At the end. At the end, he said,
+[01:00:15.610 --> 01:00:20.630]  you keep the leftovers. You need it. Well, you were already boxing him up anyway. You
+[01:00:20.630 --> 01:00:24.110]  weren't waiting for permission. Boxing him up? I had already put him in the car.
+[01:00:27.670 --> 01:00:33.050]  Oh, man. Gavin, do you know about Nick's dog with people eyes? Have we talked about that?
+[01:00:33.210 --> 01:00:37.810]  Yes. Sounds familiar. We have. OK. I'm just curious. I'm just thinking of like more stuff
+[01:00:37.810 --> 01:00:43.030]  that I know about Nick. Some fun facts about Nick. Yeah. I know that Nick's dog was a human
+[01:00:43.030 --> 01:00:47.410]  that made a wish to become a dog. Have we photoshopped the eyes onto a human?
+[01:00:47.990 --> 01:00:52.570]  I think we did something like that. Can we maybe put them on a picture of Nick?
+[01:00:53.030 --> 01:00:56.790]  Oh, that's really good. Nick, can you post a picture of your dog with human eyes in the picture
+[01:00:56.790 --> 01:00:59.930]  and then people can post a picture of you with the dog with human eyes? This is really good.
+[01:01:00.070 --> 01:01:03.190]  Oh, God, that's horrific. But yeah, I'll find it. Yeah. Let me get the picture. Hold on.
+[01:01:03.310 --> 01:01:07.230]  Geoff, you've got photoshop. Why are you dragging me into this?
+[01:01:07.490 --> 01:01:10.810]  Well, I photoshop. I want the audience to do it. I want the audience.
+[01:01:11.030 --> 01:01:13.410]  He's not dragging you in, Geoff. He's saying we should do this.
+[01:01:13.990 --> 01:01:17.210]  Oh, we is me. Got it. Oh, no.
+[01:01:17.210 --> 01:01:23.010]  He's up above you. You're on the warehouse floor. And, uh, you can take notes.
+[01:01:23.450 --> 01:01:28.110]  Change the pellets in the Photoshop gun and just get to go.
+[01:01:28.230 --> 01:01:33.890]  No, no, no. Throw them counterclockwise. Put them in counterclockwise to get the effect.
+[01:01:35.750 --> 01:01:39.050]  Actually, that's more than what Gavin would say. Gavin would say color ain't right.
+[01:01:41.530 --> 01:01:44.130]  Why would I say that if I'm not overseeing it?
+[01:01:44.130 --> 01:01:49.490]  I'm not walking on them halfway through it. Exactly what he would do. He'd just go, no.
+[01:01:50.470 --> 01:01:57.330]  That might be how I start it. Like, what's the problem? The color ain't right. How are we going
+[01:01:57.330 --> 01:02:03.810]  to fix it? Well, that's what that's exactly what happened with the black Gerpler. The first one
+[01:02:03.810 --> 01:02:07.970]  came out kind of green. And what did we say? Yeah, we said color ain't right.
+[01:02:08.450 --> 01:02:11.710]  Yeah, but we're not there in the factory to give instruction on how to fix it.
+[01:02:11.710 --> 01:02:15.250]  Just send an email back that said color ain't right.
+[01:02:18.150 --> 01:02:20.530]  That might be the subject of the email, though.
+[01:02:25.850 --> 01:02:30.150]  Oh, man. All right. We got to wrap this one up, guys. We have to we got to go. We have to end
+[01:02:30.150 --> 01:02:35.130]  this thing. Oh, but I've missed you a lot. Yeah, but we're going to get together and we're going
+[01:02:35.130 --> 01:02:40.950]  to at the time of this recording. We're going to film the end of our advent calendar stuff very
+[01:02:40.950 --> 01:02:46.750]  soon. Very soon. If if you want to check out every day, a new regulation video,
+[01:02:46.870 --> 01:02:54.110]  you can go to Patreon.com slash the regulation pod. And this is free on Patreon. It is free
+[01:02:54.630 --> 01:03:02.250]  on Patreon. Free on Patreon. Just become a member, become a free member and then watch the videos
+[01:03:02.250 --> 01:03:09.310]  every day of us opening a different advent gift from Andrew, which is such a fun idea.
+[01:03:09.310 --> 01:03:12.610]  It's the worst picture you could have. How are we going to get the eyes?
+[01:03:19.770 --> 01:03:24.810]  Then just don't post it. You know what? That's like Gracie's hand in the bath.
+[01:03:25.010 --> 01:03:31.890]  That is worse. Well, don't take it down now. The audience needs to see it. You posted a picture of
+[01:03:31.890 --> 01:03:37.540]  a brown dog on brown carpet. I will say, though, if I had to fall down a flight of stairs, I'm
+[01:03:37.540 --> 01:03:42.640]  picking that one. That looks incredible. It's a very plush place. It's pretty good, dude. And
+[01:03:42.640 --> 01:03:47.160]  you would fall down the flight of stairs because you trip over that dog laying there. You can't
+[01:03:47.160 --> 01:03:51.480]  see him because he's the same color as the carpet. I'm like a triptych for a pair of floating eyes.
+[01:03:51.940 --> 01:03:57.420]  Here you go, Nick. Don't worry. I got you. You do? Oh, my God. Oh, you son of a bitch.
+[01:04:00.660 --> 01:04:06.400]  Nick photoshopped, photoshopped a Padres hat, photoshopped a Padres hat on Nick's dog
+[01:04:06.400 --> 01:04:13.460]  that has human eyes. I didn't even register to me as a photoshopped Padres hat. I just was like,
+[01:04:13.500 --> 01:04:20.780]  Nick's dog likes the Padres. I agree. Nick's dog likes the Padres. We should put that on a sign.
+[01:04:21.340 --> 01:04:31.360]  That's the new stop sign. I'll save it for next time. I had a moment of like,
+[01:04:31.360 --> 01:04:37.360]  it was the perfect. I just am willing to go with the flow on too many, like on too extreme of a
+[01:04:37.360 --> 01:04:43.560]  line. I love these. I yeah, I should probably save it. It's not a long story, but you only just do
+[01:04:43.560 --> 01:04:49.680]  we have time? Just do it. Just do it. I was on TikTok. I was scrolling and I'm someone who when
+[01:04:49.680 --> 01:04:53.600]  I see something about like if someone's like, hey, I'm this or whatever, it's just like, OK,
+[01:04:53.660 --> 01:05:00.560]  whatever. I don't care. It's fine. What? And it was a person. It was a news story about someone
+[01:05:00.560 --> 01:05:10.740]  who is 18 year old, who is a has been like. Established as a reincarnated llama is what it
+[01:05:10.740 --> 01:05:16.200]  said, and it was about the Dalai Lama, but I didn't I interpreted it as a literal llama.
+[01:05:16.660 --> 01:05:22.460]  So I loaded in. I was like, what this way in this? You can just be an animal in a past life
+[01:05:22.460 --> 01:05:27.360]  and they've determined this is a wild story. So I'm watching it, waiting for it to expand.
+[01:05:27.360 --> 01:05:32.220]  And they interview this 18 year old kid and he's like, yeah, you know, it's it's a pretty
+[01:05:32.220 --> 01:05:36.420]  unorthodox life. You know, I got a lot to learn. That's more than just going to college. And my
+[01:05:36.420 --> 01:05:40.660]  brain went, yeah, you're a fucking llama and you're fast. You don't even know how to do any
+[01:05:40.660 --> 01:05:46.260]  people's stuff. This is a whole thing for you. And then they immediately went, yeah, the Dalai
+[01:05:46.260 --> 01:05:54.300]  Lama. And I went, oh, fuck. Oh, no. This is just he's a past person who was a llama. Oh,
+[01:05:55.000 --> 01:06:01.460]  he is. He's from Minnesota. Yeah, he's a Minnesota guy here. Hang on. I want you to
+[01:06:01.460 --> 01:06:05.760]  I want you to look at this picture of this kid that definitely played like defensive end.
+[01:06:06.320 --> 01:06:12.360]  Yes, 100 percent. That kid was a starter for his high school football team, no doubt.
+[01:06:12.580 --> 01:06:19.280]  And now he's the Dalai Lama. Now he is. There you go. Pretty cool. He oh, this headline is
+[01:06:19.280 --> 01:06:24.880]  Minnesota teenager Buddhist llama reflects on teaching peace Timberwolves loss.
+[01:06:29.480 --> 01:06:36.780]  Oh, well, you know, you get it sometimes you got to find peace in the losses.
+[01:06:37.440 --> 01:06:41.880]  You got it. He's on the path to inner enlightenment and also trying to get
+[01:06:41.880 --> 01:06:49.960]  Julius Randall to be a two way player. That's so awesome. That's cool. All right.
+[01:06:49.960 --> 01:06:52.880]  Now we should wrap this up. Go check out the advent calendar content.
+[01:06:53.240 --> 01:06:58.120]  Listen to the podcast. Check out the gaming videos. Go catch up on all the heists from no
+[01:06:58.120 --> 01:07:05.400]  Nick November where there's still more. And we recorded one. And I don't know if we can release
+[01:07:05.400 --> 01:07:12.320]  it. It will it will destroy it will destroy our channel. It's like the fifth the movie we've made
+[01:07:12.320 --> 01:07:18.280]  since the company started. Yeah, it is. It's the longest video we've ever made, Geoff. And I
+[01:07:18.280 --> 01:07:24.320]  it will destroy our watch time on our channel. How long is it? Three
+[01:07:26.000 --> 01:07:30.560]  in three minutes. Yeah, that was one attempt where we died. We had to restart
+[01:07:30.560 --> 01:07:40.980]  and nobody said a word for maybe thirty five seconds. What was it? Eric was feeling it and
+[01:07:40.980 --> 01:07:47.000]  it was it was very didn't want to make him go deeper into the hole. Yeah, I had to keep
+[01:07:47.000 --> 01:07:52.520]  deafening and muting because it's not even like I was screaming. It's just that I needed
+[01:07:53.300 --> 01:07:58.060]  a minute of like, definitely in the loading screen.
+[01:08:04.480 --> 01:08:13.140]  I just I ran out of patience an hour and 50 minutes in and we had so much more to go.
+[01:08:14.060 --> 01:08:18.480]  I'm excited to scrub through the file. I have so much fun when I make your thumbnails. I just
+[01:08:18.480 --> 01:08:22.120]  download the video and then just scrub through it looking for an interesting death and going,
+[01:08:22.240 --> 01:08:25.260]  oh, I wonder what that's about. Oh, there are plenty of them. I mean, you could check it out
+[01:08:25.260 --> 01:08:31.180]  for when a helicopter lands on me. That might be in like the first 40 minutes. I did see that on
+[01:08:31.180 --> 01:08:39.420]  Slack. Yeah, yeah, yeah. Forgotten quickly because so much more happens. It's terrible. We've also
+[01:08:39.420 --> 01:08:42.560]  before before we leave. And I think it's for the Falcons, is it?
+[01:08:42.820 --> 01:08:47.140]  It was extra medium. The Andrew's mom Q&A. Phenomenal. Maybe. Oh, my God.
+[01:08:47.500 --> 01:08:53.880]  Just put out your mother is wonderful, Andrew. I was so proud. I want to meet her so badly.
+[01:08:54.100 --> 01:08:59.180]  I know she did such a good job. Seems like the kindest, sweetest person. Seems that way.
+[01:09:01.460 --> 01:09:04.280]  Yeah, she's great. I love her. She's amazing.
+[01:09:07.390 --> 01:09:10.530]  All right. Well, stop listening to us now. We should go away.
+[01:09:11.650 --> 01:09:18.970]  Oh, shit. I hear Eric frantically typing. I need to. I'm emailing back because Natalie
+[01:09:18.970 --> 01:09:22.370]  got back to me before I could email her because we were right from our meeting into this.
+[01:09:22.850 --> 01:09:26.810]  So it's an email that I already owed her. So I'm just doing that. But at the same time,
+[01:09:26.810 --> 01:09:30.930]  I need to call our lawyer in like the next two minutes. So I'm also. Yeah, let's wrap this up.
+[01:09:31.230 --> 01:09:34.450]  Well, that sounds good. That sounds great. Well, thank you guys so much for listening.
+[01:09:36.090 --> 01:09:39.810]  Yeah, we will. We'll be back with another episode so soon. Did you like this one?
+[01:09:39.810 --> 01:09:45.490]  Hopefully you did and you'll tell someone about it and you can give the gift of regulation this
+[01:09:45.490 --> 01:09:52.250]  holiday season at Patreon.com slash the regulation pod slash gift. You can gift anyone like a Twitch
+[01:09:52.250 --> 01:09:57.370]  sub. You can give anyone the gift of a Patreon subscription for a month so they can check out
+[01:09:57.370 --> 01:10:02.950]  all the backlog of stuff that we've been doing, all the drafts, oh boy, all of the Gears of War videos,
+[01:10:03.970 --> 01:10:08.930]  the Q&A and so much more. But thank you so much for the support and thank you for listening.
+[01:10:08.930 --> 01:10:14.690]  We'll update you when we have more Gerplers and we'll talk with you soon. Bye.
+[01:10:16.570 --> 01:10:20.050]  I'm going to get a sign that says end the podcast. That's what my sign should be.
+[01:10:20.470 --> 01:10:21.870]  Yeah, that's a really great sign. Yep.

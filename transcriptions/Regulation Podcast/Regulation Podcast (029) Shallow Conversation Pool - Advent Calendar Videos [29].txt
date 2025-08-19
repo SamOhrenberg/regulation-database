@@ -1,0 +1,1293 @@
+[00:00.000 --> 00:03.540]  Hello and welcome to another episode of the Regulation Podcast,
+[00:03.880 --> 00:10.800]  episode 29. Geoff Ramsey, Eric Padour, Gavin Free, Nick Schwartz, Andrew Pantin.
+[00:11.120 --> 00:16.400]  Hello, boys. Hello. How's it going? It's okay. How are you guys doing? I'm great.
+[00:17.000 --> 00:21.980]  I was all really excited to sit down and record two episodes with you guys today and then
+[00:21.980 --> 00:26.400]  something happened. Oh, we're going to record two episodes still? We can still do two episodes.
+[00:26.400 --> 00:30.520]  What's wrong with that? Absolutely. No, we just got sidetracked a little bit.
+[00:31.260 --> 00:34.920]  Threw off the rhythm. Rhythm is starting now, though. I mean, listen,
+[00:35.040 --> 00:40.860]  you got to shake out the jitters, Geoff. You got to shake it out and get back on track.
+[00:41.380 --> 00:46.660]  I don't know the rules of the lore of blindside. Are we allowed to talk about it after it happened
+[00:46.660 --> 00:50.280]  or is it something that we shouldn't address? I think we could say that we just got blindsided,
+[00:50.380 --> 00:53.340]  but then say no more. Yeah, and then say no more. Okay.
+[00:53.960 --> 00:57.980]  I'm glad because I was worried I was the only one that was going to utilize both my blindsides
+[00:57.980 --> 01:01.500]  because we're getting near the end of the year. What do you mean both blindsides?
+[01:01.840 --> 01:05.380]  How does the second one work? Let's play and a podcast. Right.
+[01:06.060 --> 01:09.360]  Have we ever had... what if two people blindside the same recording?
+[01:10.420 --> 01:13.600]  That's the whole blindside day. That'd be quite the blindside.
+[01:13.840 --> 01:14.700]  Then we'd pull out the wheel.
+[01:14.700 --> 01:28.020]  Oh, man. Hey, did you guys see the comments on episode 28 from last week? No. During the episode,
+[01:28.140 --> 01:32.940]  I mentioned, it just struck me when we were recording that this was episode 28 of Regulation,
+[01:33.020 --> 01:37.040]  but there was an episode 28 of F*** Face that we can directly compare and contrast.
+[01:37.700 --> 01:41.920]  Have we gotten better? Have we gotten worse? Are we funnier? Was the show similar or different?
+[01:41.920 --> 01:47.120]  Well, people went back and looked at it and they found some shocking similarities between episode
+[01:47.120 --> 01:51.880]  28 of F*** Face and episode 28 of Regulation. And you guys aren't aware of any of these, right?
+[01:52.340 --> 02:01.280]  No. No. Okay. Apparently, we spend some time talking about the Mike Tyson, Roy Jones Jr. fight.
+[02:02.180 --> 02:08.760]  That is insanely specific. We mentioned... have a conversation about how there's probably a NASA
+[02:09.400 --> 02:12.120]  member in the community. We did that twice.
+[02:12.300 --> 02:14.480]  That checks out. I remember that being a thing in the past.
+[02:15.140 --> 02:18.180]  And there was one more. What was the other one? Let me look at my notes.
+[02:19.580 --> 02:23.820]  Oh, I remember what it was now. That I was complaining that there was a sensor on my
+[02:23.820 --> 02:27.700]  car that was broken. Are you serious? For real?
+[02:28.040 --> 02:32.920]  So much so that people in the audience are like, well, clearly Geoff did this on purpose and he
+[02:32.920 --> 02:37.320]  went and listened to episode 28 of F*** Face and then seeded these things in so that we could find
+[02:37.320 --> 02:44.000]  them. But that is not the case at all. It's just an insane, just an insane amount of coincidence.
+[02:44.080 --> 02:50.320]  Or it just shows how shallow our conversation pool is. I don't know which. Maybe it's a combination.
+[02:50.920 --> 02:55.420]  What's tough is back at that time, you're dealing with a lot of problems everywhere. Your tooth was
+[02:55.420 --> 03:03.780]  broken. The house was broken. Your bike was broken and exploding. It's hard to keep track of what
+[03:03.780 --> 03:10.040]  you have had like explode or break in your past. Pretty f***ing wild, though,
+[03:10.260 --> 03:13.960]  that whatever that is, however many years later, four years later, three years later,
+[03:14.320 --> 03:18.540]  we're essentially having the same problems, talking about the exact same s***. Honestly,
+[03:18.600 --> 03:23.840]  of all of them, the Roy Jones Jr. Mike Tyson fight being brought up is the oddest to me
+[03:23.840 --> 03:28.200]  because I don't think I've thought about that since that time. I think I've thought about
+[03:28.200 --> 03:32.220]  that twice and it was both those times. That's odder than a sensor on a car there?
+[03:32.220 --> 03:36.800]  Sensor on a car, too. Yeah, it was. And then the conversation about whether somebody in the
+[03:36.800 --> 03:42.300]  community works at NASA and can answer a question for us. So three pretty crazy things. Also,
+[03:42.300 --> 03:47.120]  I think it was the first. It was a pretty lore heavy episode. Apparently, it was the first time
+[03:47.120 --> 03:52.440]  we discussed Andrew having an unbreakable nose. Oh, interesting. Which was the whole Mike Tyson
+[03:52.440 --> 03:56.480]  conversation. Did we figure out if there was ever a hot dog on those desks that were going up?
+[03:56.480 --> 04:03.080]  Why do I? Why do I think that? I still think there's a hot dog. I did see a comment from
+[04:03.080 --> 04:08.240]  somebody who said that the hot dog was never a part of it. But in the initial discussions,
+[04:08.240 --> 04:13.220]  one of us mentioned throwing a hot dog on top of the desk. OK, but it was like that never.
+[04:13.600 --> 04:18.220]  It was never explored. It was just like a throwaway line. My brain has clung onto that
+[04:18.220 --> 04:22.100]  and just holding on for dear life. That's what you took out of the whole experiment.
+[04:22.100 --> 04:24.840]  There could be a hot dog on top of it.
+[04:27.160 --> 04:33.080]  There's something really gross about that. Just a naked, just a wiener on a table with nothing.
+[04:34.580 --> 04:40.000]  A naked wiener? How are you going to say it like that? How else am I supposed to say it?
+[04:40.840 --> 04:42.920]  Well, I think you said it when you just said it was a hot dog.
+[04:43.680 --> 04:49.580]  A small, I don't, a hot dog to me implies a bun and condiments. And yeah, what I'm thinking about
+[04:49.580 --> 04:58.080]  as being gross is just like the wiener itself exposed on a table. Uncooked. Just a raw dog
+[04:58.620 --> 05:05.620]  on the table. I am so excited to record with you guys today because I have so much stuff I want to
+[05:05.620 --> 05:09.500]  talk to you guys about. Oh, I'm excited. I've just been writing down notes like a little fiend.
+[05:09.820 --> 05:16.840]  I had a product idea I want to I want to sell you guys on. This is a really simple and easy one.
+[05:16.840 --> 05:21.040]  It's not going to take me a long time to sell it to you, I don't think. It's definitely a
+[05:21.040 --> 05:26.240]  potential Unifarm product. Unifarm combining the power of one with Fabric of the Farm Uniform.
+[05:26.340 --> 05:31.580]  That is the first time I have said that in maybe since we started the new company. And I
+[05:31.580 --> 05:38.280]  briefly got scared. I wouldn't remember it. Nailed it. However, I was driving around yesterday.
+[05:38.500 --> 05:42.140]  That wasn't, that's a lie. I was on a walk yesterday. Look at me lying to you guys. I
+[05:42.140 --> 05:46.140]  was walking around yesterday. Why the fuck did I say I was driving? I'm not even driving my
+[05:46.140 --> 05:50.960]  car right now because it's got a check engine light. I'm so full of shit. So that's your car
+[05:50.960 --> 05:56.260]  that has the engine light. Oh, I didn't tell you guys that. Yeah, we got home. We got home
+[05:56.260 --> 06:00.880]  in Emily's car and dropped her car off. And then the next morning I got up and the check
+[06:00.880 --> 06:05.580]  engine light was on in my car. Oh, no. And I just haven't had time to fuck with it because
+[06:05.580 --> 06:09.100]  we've been recording up a bunch to get ready for the holidays. You know, I've been having to record
+[06:09.100 --> 06:13.220]  up on a salt ride as well. So it's just been a busy week. However, yesterday I was walking around
+[06:13.220 --> 06:19.100]  and I saw somebody had a boat and it had a for sale sign on it. But the for sale sign was partially
+[06:19.100 --> 06:24.180]  hidden. And for whatever reason, when I glanced at it, I read it wrong and I got really excited.
+[06:24.180 --> 06:28.180]  And then I looked and I realized it wasn't what I thought it was. But then I realized what I
+[06:28.180 --> 06:36.140]  thought it was is brilliant. Everybody sells for sale signs. Oh, you want to buy this house? It's
+[06:36.140 --> 06:40.660]  for sale. Here's the sign. You want to buy this car, this boat, this RV? It's for sale, right?
+[06:41.070 --> 06:50.680]  Yeah. Nobody sells not for sale signs. Think about it. It's like a wedding ring for your product.
+[06:51.360 --> 06:58.280]  Put it on your car, on your boat, on your RV and let people know this sucker is off the market.
+[06:58.560 --> 07:03.980]  Don't even think about it. Divert your eyes and your attention because this is my bass boat,
+[07:04.020 --> 07:09.800]  not yours. It is not on the market. It won't be on the market. It is not for sale.
+[07:10.360 --> 07:14.100]  If this takes off, maybe that becomes the norm. And if something doesn't have a sign,
+[07:14.200 --> 07:20.820]  you know it's for sale. Exactly. I especially like this idea for houses, the premise of
+[07:20.820 --> 07:26.820]  you have a for sale sign on your house and then a not for sale above it. So people know it will be
+[07:26.820 --> 07:32.840]  for sale, but not currently. So just keep it in mind. I like that. So will it just say not for
+[07:32.840 --> 07:39.600]  sale? Don't call this number. Yeah. You know how people have like no trespassing? Not for sale.
+[07:39.800 --> 07:44.980]  Don't call. I think that would be so much more intrigue, though. If I parked a car somewhere
+[07:44.980 --> 07:49.600]  and said not for sale, don't call this number. I think you get more people calling. Well, Gavin,
+[07:49.640 --> 07:54.200]  I'm glad you said that because there are secondary uses to a not for sale sign.
+[07:54.980 --> 08:01.000]  Nothing entices a person more than recognizing something that they can't have. What if you do
+[08:01.000 --> 08:06.340]  want to sell your house or your bass boat or your RV, Gavin, but you're having trouble drumming up
+[08:06.340 --> 08:12.040]  interest? It's hard to sell a house in America in 2024. The market crashed. It's not doing well.
+[08:12.140 --> 08:17.900]  Nobody's got extra money. The interest rates are too high. It's hard to stand out from the fray,
+[08:18.500 --> 08:23.860]  especially with all the competition. So why not take yourself off the market and put yourself
+[08:23.860 --> 08:30.300]  on the market at the same time? Dangle your house, your bass boat, your RV, your trailer
+[08:30.300 --> 08:35.380]  in front of the people, but say, no, it's not for you. It's not for sale. You can't have this.
+[08:35.380 --> 08:39.760]  I don't care how much money you have. I don't want to sell it to you. And then they go home and
+[08:39.760 --> 08:43.540]  they're like, yeah, I need to buy a house. And that one was nice. But the one that's not for sale and
+[08:43.540 --> 08:46.560]  they say it's not for sale. Why would they say that? There's got to be something really fucking
+[08:46.560 --> 08:49.300]  great about that house. I bet people are going by that house all the time. They're like, hey,
+[08:49.300 --> 08:52.440]  I want to buy your house. And they're like, oh, my God, it's not for sale. I had to put a fucking
+[08:52.440 --> 08:55.840]  sign up in front of the house to let people know to stop trying to buy it. It's not for sale.
+[08:56.140 --> 09:04.180]  I've got to buy that house. I like this idea a lot. Can I can I make a suggestion as another sign
+[09:04.180 --> 09:10.220]  maybe in this form? Yeah, absolutely. So we have not for sale. I really want a could be bought
+[09:10.220 --> 09:16.900]  sign. Not currently for sale. Not opposed to selling it. Could be bought, though. You like
+[09:16.900 --> 09:22.600]  this enough? You throw enough money at me? I could make it. Yeah. Could be bought. That's
+[09:22.600 --> 09:26.780]  better than make an offer. Should we put some stuff up in the regulation store that's not for sale?
+[09:27.980 --> 09:28.840]  Convince me.
+[09:30.840 --> 09:31.940]  Make a deal.
+[09:33.780 --> 09:36.160]  Convince me just on its own could mean anything.
+[09:38.180 --> 09:42.500]  What if it says hear me out and then the price?
+[09:47.140 --> 09:55.160]  Anyway, guys, we had so much success with our protected by Falcons and no scrumping signs.
+[09:55.160 --> 09:59.620]  It just it seems like a natural place, a natural playground for us to play.
+[10:00.000 --> 10:10.720]  If you regulation. Maybe we do like a poll or something to see what what the people need.
+[10:11.060 --> 10:15.540]  Like we we come up with a not for sale could be bought. Maybe like let the audience pick.
+[10:15.640 --> 10:20.420]  I like that idea. I'm telling you, dude, if we make a not for sale sign,
+[10:20.480 --> 10:25.140]  people are going to buy it. I would buy a not for sale. Of course you would.
+[10:26.140 --> 10:31.040]  Of course you would. Think about all the things that you own that are not for sale,
+[10:31.300 --> 10:37.300]  that you don't want people to buy from you. What about you take it a step further? You put
+[10:37.300 --> 10:42.160]  a second mailbox next to your original mailbox and put a sign on it that says not for mail.
+[10:43.600 --> 10:49.700]  And see which one. It's not for mail, but you can see if the postman ever or the post
+[10:49.700 --> 10:53.300]  person ever puts mail in it. Now, do you think they would do that because they were
+[10:54.020 --> 10:58.420]  being defiant or not paying? Yeah, probably just rebelling.
+[10:58.840 --> 11:04.040]  Yeah, I hear the mailman likes to rebel a little bit, but it's true.
+[11:07.360 --> 11:13.300]  I just the counterintuitive signs on things. It's so fascinating.
+[11:14.500 --> 11:19.620]  Having like having like a sign on a car that says not for driving, like just there's so many
+[11:19.620 --> 11:28.160]  just reverse engineer. Yeah, I like it. I like it, too. A non-emergency exit.
+[11:29.860 --> 11:33.840]  It's going to get people killed, probably. What about a not for signing sign?
+[11:34.340 --> 11:38.860]  Not for signing? Not for signing. Like it has like a signature thing on it. It's not for signing.
+[11:39.200 --> 11:53.380]  The not for signing sign. Don't sign the sign. Oh, man. Well, that's my that's my that's my
+[11:53.380 --> 11:57.920]  uniform uniform grinding the power of one with the fabric of the farm uniform idea for the episode
+[11:57.920 --> 12:03.640]  and the first, I think, of regulation. I would put up a not for sale sign on my house.
+[12:04.040 --> 12:06.940]  Oh, you should. I think it would make my neighbors talk to me, though.
+[12:07.660 --> 12:13.340]  It probably would. What if it was a sign it yourself sign where it's just a sign that you
+[12:13.340 --> 12:17.740]  could insert whatever you want, like you write on the side, like it looks like a stop sign,
+[12:17.740 --> 12:23.980]  you could put go on it. It'd be terrible. Should we sell a secondary sign for you,
+[12:24.060 --> 12:26.700]  Gavin, that you can put under your not for sale that says no talking?
+[12:30.680 --> 12:36.500]  Not for sale. Don't ask me about it. There should be you know how like hotels have.
+[12:37.840 --> 12:42.720]  This is a really dumb idea. You know, hotels have those things you can slide on the door
+[12:42.720 --> 12:47.020]  that indicate like, hey, don't disturb me. Don't talk to me. There should be
+[12:47.020 --> 12:51.400]  there are neighbors that are very chatty, that want to be social and other friends.
+[12:51.520 --> 12:53.740]  And there are other people that are like, I don't want to talk to anybody.
+[12:53.980 --> 13:00.460]  And there's no sign that is universal to indicate that. Maybe the trash cans you put in front of
+[13:00.460 --> 13:05.620]  your house, maybe they're social cans and non-social cans. Maybe they're a different
+[13:05.620 --> 13:08.680]  color that indicates your willingness to interact with your neighbors.
+[13:09.540 --> 13:13.140]  Oh, so it's like less rude than a sign that says don't ever talk to me.
+[13:13.140 --> 13:17.340]  Yeah, it's like a visual cue of like, oh, they're just not social as like you don't
+[13:18.140 --> 13:20.940]  you avoid the awkward conversation. They could just see it and know like,
+[13:21.000 --> 13:23.900]  oh, I don't they don't want to talk to me. It's not personal.
+[13:24.620 --> 13:27.480]  Back before the Internet in the old days when you would work at a company,
+[13:27.660 --> 13:31.380]  people if you wanted to be social, you would congregate around the water cooler.
+[13:31.760 --> 13:35.740]  That's how you would have a conversation or talk about Seinfeld or friends or whatever the night
+[13:35.740 --> 13:39.480]  before. Everybody would just meet around the water cooler. What if you just wheel a water
+[13:39.480 --> 13:43.740]  cooler out into your driveway and then that lets all your neighbors know you're open for conversation?
+[13:44.780 --> 13:47.760]  That's interesting. People like water.
+[13:48.260 --> 13:51.960]  Do people love water? Look at Gavin. That dude's all about water.
+[13:52.480 --> 13:52.980]  That's true.
+[13:54.120 --> 13:58.800]  Did you ever go to a water cooler at work and no one else came over so you had to just leave?
+[14:03.300 --> 14:03.780]  Yes.
+[14:06.740 --> 14:08.040]  Was there a reason to leave?
+[14:08.720 --> 14:09.940]  No, I was at the radio station.
+[14:10.860 --> 14:13.840]  You just wanted to chat about the game and no one gave a shit.
+[14:14.320 --> 14:17.200]  Sitting there, sipping on water, waiting and no one came.
+[14:19.100 --> 14:22.020]  I really want to talk about the game that happened last night.
+[14:22.220 --> 14:25.120]  Just standing there. I guess nobody else does.
+[14:25.220 --> 14:28.340]  People are wondering why you're pissing so much that day.
+[14:28.340 --> 14:29.680]  I just really want to chat.
+[14:33.300 --> 14:35.800]  You brought up Seinfeld and friends.
+[14:36.660 --> 14:39.760]  Funny to me, the concept of one person.
+[14:40.080 --> 14:43.660]  Everyone's into friends and there's one person who's deep into the Sopranos.
+[14:44.280 --> 14:45.720]  It's like, you really feed me in the cat?
+[14:45.880 --> 14:49.180]  And then this one person's like, Tony Soprano whacked that guy.
+[14:49.480 --> 14:50.100]  You see that?
+[14:50.700 --> 14:51.980]  They chopped his hands off.
+[14:52.060 --> 14:52.720]  That was crazy.
+[14:52.820 --> 14:53.840]  Who's keeping up?
+[14:54.420 --> 15:00.080]  If you just took a bunch of signs to a hotel that they all just said,
+[15:00.120 --> 15:01.320]  disturbances welcome.
+[15:01.840 --> 15:03.080]  And you just put them on random rooms.
+[15:03.200 --> 15:04.340]  Do you think the staff would go in?
+[15:04.660 --> 15:04.960]  No.
+[15:06.140 --> 15:09.900]  Oh, you just like hung signs that says like, please enter on all the doors.
+[15:11.380 --> 15:14.160]  I like that you phrased that as disturbances welcome.
+[15:15.500 --> 15:17.100]  The opposite of do not disturb.
+[15:17.460 --> 15:17.700]  Sure.
+[15:19.020 --> 15:21.140]  No knocking necessary. Come on in.
+[15:21.600 --> 15:22.320]  Door unlocked.
+[15:22.880 --> 15:27.800]  I was once in a hotel room, uh, taking a dump and the bathroom door was open
+[15:27.800 --> 15:29.180]  because there was no one else in the room with me.
+[15:29.260 --> 15:31.600]  I just thought, you know, why would I shut that door?
+[15:32.400 --> 15:37.060]  And then a housekeeping walked in because Barbara had taken the do not disturb sign
+[15:37.060 --> 15:38.440]  off my door and put it on hers.
+[15:42.440 --> 15:45.060]  Only works in hotels when you don't stay with other people.
+[15:46.920 --> 15:49.420]  It's interesting that it's a front door only thing too.
+[15:49.580 --> 15:51.580]  Like the culture hasn't gone beyond that.
+[15:51.580 --> 15:53.100]  You think it should be on the bathroom door?
+[15:53.260 --> 15:53.800]  Well, that's what I'm saying.
+[15:53.880 --> 15:58.080]  Like you don't necessarily mind anyone being in any other part of the hotel room at that point.
+[15:58.560 --> 16:01.180]  I don't want them changing the sheets while I'm taking a dump.
+[16:01.280 --> 16:02.940]  Why not? It's a different room.
+[16:03.840 --> 16:04.580]  You're not there.
+[16:04.880 --> 16:07.360]  Just stand in there and wait for them to finish after I'm done.
+[16:07.900 --> 16:09.220]  They're going to hear it, dude.
+[16:09.460 --> 16:10.520]  They're going to hear everything.
+[16:11.940 --> 16:15.840]  Maybe you have, maybe you have quiet dumps, but I do not.
+[16:15.920 --> 16:19.260]  That would not be good for the poor woman or man making my bed.
+[16:19.900 --> 16:20.340]  Hmm.
+[16:20.420 --> 16:25.780]  I just think it's a thing that should be considered of individualized door do not disturbs.
+[16:25.940 --> 16:29.500]  Well, there is that on just normal bathroom doors.
+[16:29.600 --> 16:31.000]  It's like the red and the green vacant.
+[16:31.420 --> 16:32.000]  That's true.
+[16:32.200 --> 16:37.320]  Yeah, I think, I think almost if I'm correct, I could be wrong,
+[16:37.340 --> 16:40.320]  but I think almost every door has it built in.
+[16:40.380 --> 16:41.220]  It's called a lock.
+[16:41.900 --> 16:43.540]  That's the do not disturb, right?
+[16:43.580 --> 16:44.580]  You lock the door.
+[16:45.360 --> 16:48.740]  Yeah, but then there's the awkward moment sometimes where someone tries to open the
+[16:48.740 --> 16:50.660]  lock door, not knowing that someone's in it.
+[16:50.940 --> 16:52.860]  That's awkward for them.
+[16:53.360 --> 16:54.620]  That's not awkward for you.
+[16:54.860 --> 16:55.980]  I just don't want that experience.
+[16:56.400 --> 16:57.280]  I don't like it.
+[16:57.600 --> 16:58.860]  I don't like it on any side.
+[17:00.060 --> 17:03.240]  I think all bathroom locks should have a white noise machine built in.
+[17:04.720 --> 17:06.120]  When it locks, it just goes.
+[17:07.580 --> 17:08.500]  I do like that.
+[17:08.640 --> 17:09.100]  I do.
+[17:09.220 --> 17:10.260]  I do like that idea.
+[17:10.400 --> 17:11.940]  Or like fake flushes.
+[17:12.340 --> 17:13.220]  So you can't tell.
+[17:14.060 --> 17:17.060]  This flush is going off constantly, regardless of if there's anyone in there.
+[17:17.060 --> 17:18.560]  Yeah, or the sound of a tap.
+[17:19.040 --> 17:21.620]  Yeah, that'll help you if you're having trouble peeing too.
+[17:22.080 --> 17:25.680]  Maybe we could sell Geoff's pisses as our door lock.
+[17:30.300 --> 17:31.220]  That's interesting.
+[17:32.060 --> 17:35.020]  Although masking the sound of something with the exact same thing.
+[17:35.820 --> 17:37.120]  I'm not sure how effective that is.
+[17:38.360 --> 17:39.300]  I bet it could be.
+[17:39.400 --> 17:40.520]  I bet it could be pretty effective.
+[17:41.140 --> 17:43.740]  Remember how I turned pee into a whole beautiful waterfall?
+[17:44.240 --> 17:45.100]  That was beautiful.
+[17:46.300 --> 17:51.340]  Do you think if you put like a do not use or in needs of repair
+[17:51.340 --> 17:55.320]  in front of a completely functioning escalator, people would just not use it?
+[17:55.920 --> 17:57.520]  Do you think you would just avoid it?
+[17:57.960 --> 17:59.020]  Even though it just looks...
+[17:59.020 --> 18:02.680]  If an escalator said do not walk on or do not use and it was running,
+[18:02.780 --> 18:04.240]  I definitely wouldn't go on it.
+[18:05.540 --> 18:06.700]  I'd be worried I'd fall through.
+[18:07.400 --> 18:08.580]  Do you think you'd fall through?
+[18:08.960 --> 18:09.960]  Well, it happens, doesn't it?
+[18:10.140 --> 18:14.560]  What if it was a sign that says do not use unless you want to go up or down?
+[18:14.560 --> 18:15.900]  But that's in smaller letters.
+[18:18.020 --> 18:19.620]  There's a lot you can do with signs, Geoff.
+[18:19.680 --> 18:23.540]  This is a great idea because it can even be if you're like a bad liar,
+[18:23.660 --> 18:25.880]  like I have a good hand and you're playing blackjack.
+[18:25.960 --> 18:28.800]  You just hold the card up, try to bluff.
+[18:30.720 --> 18:34.300]  Because it's really just delivering a message with dishonesty is what we're talking about,
+[18:34.340 --> 18:36.660]  but in a way that seems like there's an authority behind it.
+[18:36.940 --> 18:41.100]  What if the next time we record, we all have to present a new sign?
+[18:41.700 --> 18:44.760]  Uh, well, two episodes from now, because we're doing back to backs.
+[18:44.900 --> 18:46.380]  Yeah, to set the expectation.
+[18:46.500 --> 18:48.640]  The next time we record is in 45 minutes.
+[18:48.980 --> 18:49.880]  You know what I mean.
+[18:50.120 --> 18:53.060]  Yeah, I'm just setting the expectation for the audience because they don't necessarily know.
+[18:53.120 --> 18:54.840]  I'm just saying not next episode, but the episode after.
+[18:55.100 --> 18:56.560]  I love it. Let's do it.
+[18:56.800 --> 18:59.640]  While we're setting up expectations and discussing new stuff,
+[18:59.700 --> 19:00.940]  I wanted to present you guys.
+[19:00.980 --> 19:04.040]  I had an idea for a new segment we could do that anybody could do.
+[19:04.100 --> 19:06.520]  And it's not one that has to be, that should be weekly.
+[19:06.580 --> 19:08.580]  It's just like whenever you see it and it happens.
+[19:08.580 --> 19:13.400]  And I want to call it the worst products in the world.
+[19:13.700 --> 19:18.500]  And it's just things that you see that should not exist, but for some reason do.
+[19:18.580 --> 19:20.340]  I'll start off with this one.
+[19:20.700 --> 19:23.540]  I was at H-E-B the other day where I discovered,
+[19:24.000 --> 19:25.100]  or maybe it was Target, I can't remember,
+[19:25.440 --> 19:33.080]  where I discovered Twinkies and Pop-Tarts Frosted Strawberry Scented Body Wash.
+[19:33.520 --> 19:34.460]  Oh, that seems good.
+[19:35.040 --> 19:36.420]  Twinkies Body Wash.
+[19:36.680 --> 19:38.220]  Yeah, that seems fine to me.
+[19:38.860 --> 19:41.300]  You want to wash your body with a Twinkie?
+[19:41.400 --> 19:44.040]  You want to wash your body with the smell of a Pop-Tart?
+[19:44.300 --> 19:47.960]  Well, that's the thing is you would be done and then you would get out and you would go,
+[19:48.500 --> 19:50.360]  Mmm, I smell like Pop-Tarts.
+[19:50.760 --> 19:52.360]  Everyone will love this.
+[19:53.080 --> 19:58.480]  I'm all about crossovers and try to come up with clever new things for your business,
+[19:58.600 --> 20:02.680]  but I just can't imagine wanting to get clean with Twinkies.
+[20:03.320 --> 20:04.500]  Oh, I think it's a...
+[20:04.500 --> 20:06.980]  So is that like a bar of soap, the Twinkie?
+[20:07.140 --> 20:07.920]  Is that what I'm looking at?
+[20:09.320 --> 20:10.940]  Or it might be a scrubber.
+[20:11.220 --> 20:12.420]  I think it's like a sponge.
+[20:12.580 --> 20:14.100]  I think it's like a sponge or like a loofah.
+[20:14.680 --> 20:15.760]  See, I'd go for the sponge.
+[20:16.200 --> 20:17.860]  Yeah, see, I think it's a great shape.
+[20:18.380 --> 20:19.960]  I think it's functionally perfect.
+[20:20.280 --> 20:22.460]  I think the Pop-Tart looks bad, but...
+[20:22.460 --> 20:24.460]  Yeah, the Pop-Tart is why they didn't just go with a Pop-Tart.
+[20:24.580 --> 20:26.000]  They actually put a toaster as well.
+[20:26.100 --> 20:33.280]  I'm more disturbed by the big jar of soap that smells like Pop-Tarts and Twinkies.
+[20:33.460 --> 20:35.700]  There's nothing clean about either of those things, guys.
+[20:35.860 --> 20:37.100]  They don't say clean.
+[20:37.100 --> 20:40.660]  When I think of Twinkies and Pop-Tarts, I think of sticky fingers.
+[20:40.900 --> 20:43.940]  I don't think of being like Alpine Fresh.
+[20:44.680 --> 20:45.940]  Yeah, but Alpines aren't clean.
+[20:46.420 --> 20:46.640]  Yeah.
+[20:47.120 --> 20:48.000]  Come on, they are.
+[20:48.060 --> 20:48.560]  They're kind of clean.
+[20:49.520 --> 20:51.060]  Do you think oranges are clean?
+[20:51.240 --> 20:52.580]  Fruit? Is fruit clean to you?
+[20:52.580 --> 20:56.800]  Yeah, I think it's cleaner than a Twinkie made in a factory.
+[20:57.040 --> 20:57.440]  I do.
+[20:57.620 --> 20:58.340]  This is what I'd argue.
+[20:58.340 --> 20:59.440]  And I don't think I'm being crazy.
+[20:59.440 --> 21:00.320]  Okay, this is my argument.
+[21:00.540 --> 21:03.340]  I think you're being contrarian just for the podcast.
+[21:03.340 --> 21:04.820]  I appreciate that.
+[21:04.880 --> 21:05.680]  Geoff, I'm on your side.
+[21:05.680 --> 21:10.560]  Everybody here recognizes that this is a terrible product that doesn't need to exist.
+[21:10.880 --> 21:14.580]  Feel free to defend it all you want, but I know your heart's not in it.
+[21:14.860 --> 21:17.080]  This is what... and I'm arguing about cleanliness.
+[21:17.620 --> 21:21.480]  If I buy a Twinkie from a store, I can just eat the Twinkie.
+[21:21.560 --> 21:23.860]  If I buy strawberries, I gotta wash them first.
+[21:24.640 --> 21:25.260]  Twinkie's cleaner.
+[21:26.100 --> 21:26.460]  Yeah.
+[21:26.900 --> 21:28.020]  Twinkie's a cleaner product.
+[21:28.520 --> 21:30.800]  Is it clean or do you just expect it to be clean?
+[21:31.280 --> 21:31.700]  What do you mean?
+[21:31.700 --> 21:33.580]  What was the last thing it touched?
+[21:33.620 --> 21:35.180]  A bunch of conveyor belts and shit?
+[21:35.500 --> 21:35.760]  A robot?
+[21:35.840 --> 21:37.800]  It's just chemicals that I can eat.
+[21:38.080 --> 21:38.960]  It's chemical to hell.
+[21:39.060 --> 21:43.900]  The only reason you don't think you need to wash it is because nobody's made a TikTok
+[21:43.900 --> 21:45.940]  telling you to wash your Twinkies before you eat them.
+[21:46.320 --> 21:48.460]  No, that wouldn't change anything.
+[21:48.640 --> 21:49.980]  I mean, there's a reason to wash fruit.
+[21:50.740 --> 21:55.980]  I'm just saying that as far as consumption goes, it is technically, I guess, cleaner.
+[21:56.080 --> 21:56.480]  I don't know.
+[21:57.200 --> 21:57.500]  I don't know.
+[21:57.500 --> 22:01.540]  So when you think cleanliness, when you think going in and taking a shower,
+[22:02.160 --> 22:03.700]  Twinkie is the first thing you think of?
+[22:04.040 --> 22:06.640]  No, definitely not. But I just, it's going to smell sweet.
+[22:07.320 --> 22:10.600]  Like, I don't want either of these products, but they're not the worst thing ever.
+[22:10.920 --> 22:13.560]  Like, I get why there's a market for them.
+[22:14.000 --> 22:15.300]  Couldn't disagree with you more.
+[22:15.460 --> 22:18.660]  I think this is the most useless, disgusting product ever made.
+[22:19.140 --> 22:21.280]  Maybe it should be on Does It Do, season three.
+[22:23.880 --> 22:26.480]  Well, if we want it to be on season three of Does It Do,
+[22:26.480 --> 22:27.720]  we should tell Gracie no.
+[22:30.360 --> 22:33.760]  I don't see... I think we have to get this now.
+[22:33.840 --> 22:35.240]  Try it. I don't think it's that bad.
+[22:36.160 --> 22:37.480]  You go right at it, dude.
+[22:38.000 --> 22:40.060]  I don't get why you're so opposed to this.
+[22:40.420 --> 22:47.200]  Because it's fucking gross, chemically food that's not associated with clean or fresh.
+[22:47.440 --> 22:49.880]  Nobody thinks like, oh, I want a fresh Pop-Tart.
+[22:50.480 --> 22:52.960]  I don't know, like, that sounds good to me, a fresh Pop-Tart.
+[22:52.960 --> 22:54.860]  I want to smell Pop-Tart fresh.
+[22:55.280 --> 22:57.100]  Oh, getting that phrasing.
+[22:57.200 --> 22:59.760]  But like, once again, it's just all sweet shit.
+[22:59.960 --> 23:02.040]  Like, it's supposed to, you're going to smell sweet.
+[23:02.520 --> 23:04.440]  Why do you want to smell like a bunch of sugar?
+[23:04.900 --> 23:06.620]  Why do you want to smell like a bunch of strawberries?
+[23:07.080 --> 23:07.500]  I don't know.
+[23:07.920 --> 23:09.480]  I don't want to smell like strawberries.
+[23:09.720 --> 23:11.880]  Well, then why are you buying all this strawberry shampoo, Geoff?
+[23:11.980 --> 23:12.520]  I'm not.
+[23:12.820 --> 23:14.140]  I'm not buying strawberry shampoo.
+[23:14.280 --> 23:14.760]  I never said.
+[23:14.880 --> 23:17.260]  You're the only person who's talked about strawberries today.
+[23:17.620 --> 23:18.400]  What about limes?
+[23:19.060 --> 23:19.780]  Lime shampoos.
+[23:19.880 --> 23:21.480]  There's a lot of fruit based shampoos.
+[23:21.480 --> 23:22.700]  Well, lime's acidic.
+[23:22.940 --> 23:25.160]  It's probably astringent and helps clean.
+[23:25.260 --> 23:27.460]  What is going on?
+[23:27.980 --> 23:29.040]  I really don't know.
+[23:29.220 --> 23:30.220]  We're talking about shampoos.
+[23:30.720 --> 23:32.340]  You're talking about shampoos.
+[23:32.520 --> 23:33.460]  Is this not shampoo?
+[23:33.960 --> 23:34.580]  It's body wash.
+[23:35.000 --> 23:35.780]  It's the same.
+[23:36.800 --> 23:39.420]  This conversation gets, it just keeps going.
+[23:39.620 --> 23:41.240]  Geoff, why do you smell like strawberries?
+[23:41.440 --> 23:41.840]  I don't.
+[23:41.920 --> 23:43.220]  Then why do you smell like limes?
+[23:43.420 --> 23:44.100]  Here's what I'd like to do.
+[23:44.120 --> 23:50.360]  I'd like to rescind my idea of a worst products ever invented segment for the podcast and move
+[23:50.360 --> 23:54.320]  on to the next one, which I have, which is why does the McDonald's and Walmart smell
+[23:54.320 --> 23:55.880]  better than any other McDonald's?
+[23:56.640 --> 23:59.440]  Oh, maybe it's because you're so bored of being in Walmart.
+[23:59.780 --> 24:00.820]  It's everything's heightened.
+[24:01.140 --> 24:05.300]  I never want to eat McDonald's more than when I'm walking through a fucking Walmart and
+[24:05.300 --> 24:06.920]  it just smells, it's everywhere.
+[24:07.240 --> 24:08.040]  The smell.
+[24:08.220 --> 24:08.880]  It's amazing.
+[24:09.360 --> 24:09.480]  Yeah.
+[24:09.540 --> 24:12.040]  When else are you near a McDonald's?
+[24:12.860 --> 24:14.860]  I mean, when I'm at a McDonald's, it doesn't smell that good.
+[24:15.600 --> 24:16.000]  Right.
+[24:16.520 --> 24:19.500]  But it's maybe because you went in expecting a McDonald's.
+[24:19.500 --> 24:21.040]  Yeah, I think that has something to do with it.
+[24:21.360 --> 24:22.400]  I think they're doing something.
+[24:22.580 --> 24:25.300]  I think they're enhancing the smells of the McDonald's and Walmart's.
+[24:25.300 --> 24:25.900]  They gotta be.
+[24:26.100 --> 24:26.660]  I'm telling you.
+[24:26.700 --> 24:32.000]  It's like the idea of Geoff sat in a McDonald's and then just going, oh shit, and like noticing
+[24:32.000 --> 24:34.520]  the menu and being like, I'm at a McDonald's.
+[24:34.920 --> 24:37.680]  If you could smell like anything in a McDonald's, what would you want to smell like?
+[24:38.140 --> 24:38.480]  Pop-Tart.
+[24:42.120 --> 24:43.200]  A McDonald's Pop-Tart?
+[24:43.260 --> 24:48.080]  And I can if I clean myself with my Pop-Tart body wash, which is a good product and should
+[24:48.080 --> 24:48.500]  exist.
+[24:50.240 --> 24:51.120]  Jesus Christ.
+[24:51.300 --> 24:57.680]  This is the first episode recorded after, well, right before the GERPL went on sale.
+[24:57.860 --> 24:58.020]  Yeah.
+[24:58.020 --> 24:59.100]  But after for the audience.
+[24:59.200 --> 25:03.100]  So we don't know if there was a giant shit show or not yet.
+[25:03.540 --> 25:04.480]  What are your predictions?
+[25:05.080 --> 25:06.180]  I think it's going to go fine.
+[25:06.560 --> 25:07.340]  I think it went well.
+[25:07.620 --> 25:13.180]  I think somehow we sold out and people still got annoyed that we didn't have enough.
+[25:13.320 --> 25:14.980]  Oh, yeah, absolutely.
+[25:15.200 --> 25:16.960]  Also, we haven't talked about it.
+[25:16.960 --> 25:21.020]  We sold it for a dollar cheaper than we ever sold it before just because we were able to.
+[25:21.920 --> 25:24.780]  Yeah, we were looking at it and they were like, you just want to sell it for the same
+[25:24.780 --> 25:26.200]  prices as you did at Rooster Teeth.
+[25:26.280 --> 25:30.480]  And we were looking at the margin and we were like, that seems, it just seems like it seems
+[25:30.480 --> 25:30.800]  high.
+[25:30.900 --> 25:32.160]  Can we can we sell it for less?
+[25:32.540 --> 25:35.040]  And they were very kind about it and they were like, yeah, you can do that.
+[25:35.060 --> 25:38.480]  But they looked at us like, you want to sell merchandise for less?
+[25:40.140 --> 25:41.760]  We're like, yeah, we want to lower the price.
+[25:41.820 --> 25:45.000]  And it was like, it took them for a second for their brains to catch up with the concept
+[25:45.000 --> 25:45.780]  of, yeah.
+[25:45.780 --> 25:48.940]  But we are selling it for a dollar cheaper.
+[25:49.240 --> 25:51.980]  And we haven't talked about this yet, either.
+[25:52.040 --> 25:53.740]  This will probably come up in a sausage talk.
+[25:53.840 --> 25:57.160]  But I'm assuming if we sold out, we had some benchmarks.
+[25:57.360 --> 26:00.840]  If we sold out in the day, then we already ordered 4000 more.
+[26:01.040 --> 26:04.820]  And there are the orders already been placed and they'll be here February 1st.
+[26:05.700 --> 26:10.480]  Wait, so we're following up selling 4000 with ordering another 4000?
+[26:10.920 --> 26:12.020]  We can order 2000.
+[26:12.220 --> 26:14.220]  We can do 2000 if you don't want 4000, Gavin.
+[26:14.220 --> 26:16.620]  Well, I'm the one who wanted 5000.
+[26:17.840 --> 26:19.000]  Then what are you?
+[26:20.440 --> 26:22.060]  Wait, what is this?
+[26:22.660 --> 26:25.960]  Well, I was wanting 5000 initially.
+[26:26.520 --> 26:27.000]  Okay.
+[26:27.060 --> 26:28.600]  What you're talking about is 8000.
+[26:28.740 --> 26:30.900]  Okay, so wait, hang on, Geoff.
+[26:30.980 --> 26:32.940]  Let me, I just want to really drill down here.
+[26:33.300 --> 26:35.980]  So 4000 is what we went with.
+[26:36.220 --> 26:41.020]  In the eventuality that we sell out of them at the ready, we have 2000 or 4000.
+[26:41.020 --> 26:45.440]  You seem upset about getting 4000 more.
+[26:45.820 --> 26:47.600]  How many more do you want?
+[26:48.040 --> 26:48.460]  1000?
+[26:49.060 --> 26:50.860]  So we only, so we get to 5000?
+[26:52.000 --> 26:53.500]  Or do you want more?
+[26:53.580 --> 26:56.320]  Do you want us to increase the order higher than 4000?
+[26:56.560 --> 26:57.200]  Is that what you're saying?
+[26:57.660 --> 27:02.340]  No, I'm just worried that there's going to be like 5000 people who really want them.
+[27:02.880 --> 27:06.300]  And then 1000 people will be annoyed.
+[27:06.640 --> 27:09.860]  And then we'll order 4000 more.
+[27:10.560 --> 27:13.300]  You think this is crazy?
+[27:13.760 --> 27:17.240]  You just described supply and demand and commerce.
+[27:18.240 --> 27:22.060]  That is Econ 101 lesson brought to you by Gavin.
+[27:22.080 --> 27:24.640]  That is exactly the fear that we have.
+[27:25.540 --> 27:27.520]  We're selling it for a dollar cheaper.
+[27:27.680 --> 27:29.740]  Gavin, everything we're doing is against Econ.
+[27:30.000 --> 27:31.300]  We're selling it for cheaper.
+[27:31.700 --> 27:35.980]  The reason we didn't buy 5000 was because it's expensive.
+[27:36.160 --> 27:38.060]  And we didn't have the money yet to buy 5000.
+[27:38.060 --> 27:41.360]  But if we take the money from the 4000, assuming we sell them,
+[27:41.460 --> 27:44.520]  we can invest in more Gerplers if you want.
+[27:44.680 --> 27:49.040]  I think that we're going to hit a point where we have Gerplers on the shelves.
+[27:49.240 --> 27:50.460]  And that's OK.
+[27:50.900 --> 27:53.180]  But we're just trying to find that point.
+[27:53.620 --> 27:55.540]  Maybe we'll have 2000 Gerplers on the shelves,
+[27:55.680 --> 27:58.600]  but we don't want to have 12,000 Gerplers on the shelves.
+[27:59.040 --> 27:59.760]  Gavin, how many?
+[27:59.860 --> 28:05.020]  OK, so let's say we live in a world in which we ordered the 5000 that you said.
+[28:05.320 --> 28:07.100]  What would you want the restock to be?
+[28:07.100 --> 28:10.600]  I imagine that we wouldn't need a sudden restock.
+[28:10.780 --> 28:13.840]  I would have thought that around 5000...
+[28:13.840 --> 28:15.840]  But listen, this is for a scenario...
+[28:15.840 --> 28:18.820]  This is, to be clear, a scenario in which they sell out instantly.
+[28:19.200 --> 28:20.520]  And people are upset about it.
+[28:20.700 --> 28:23.880]  Which is what you're saying would have happened if we ordered 5000.
+[28:24.140 --> 28:27.060]  So they would have sold out and we would have zero.
+[28:27.460 --> 28:30.760]  And then we would just not reorder any period.
+[28:30.840 --> 28:34.760]  How did you arrive at the number of 5000, by the way?
+[28:34.760 --> 28:38.140]  We arrived at the number of 4000 because it was double the biggest order
+[28:38.140 --> 28:39.700]  we ever had at Rooster Teeth.
+[28:40.120 --> 28:42.180]  And it was about as much as we thought we could afford.
+[28:42.640 --> 28:44.620]  5000 is an arbitrary number you threw out.
+[28:44.760 --> 28:46.820]  It sounds cool. I love the idea.
+[28:46.880 --> 28:48.740]  But I'm just wondering where you're arriving at that number,
+[28:48.800 --> 28:52.620]  because you set it as a benchmark, but it seems...
+[28:53.060 --> 28:54.120]  OK, let me explain my reasoning.
+[28:54.200 --> 28:57.860]  My reasoning for 5000 was that I don't think necessarily
+[28:57.860 --> 28:59.420]  there's going to be that many people who want them.
+[28:59.460 --> 29:01.080]  So we may be left over some.
+[29:01.740 --> 29:02.200]  I see.
+[29:02.600 --> 29:03.540]  Without everyone getting annoyed.
+[29:03.540 --> 29:05.960]  What I'm worried about is the 4000 people buy them.
+[29:06.160 --> 29:07.120]  Some people can't buy them.
+[29:07.360 --> 29:09.600]  Those people get annoyed because they couldn't get one.
+[29:10.420 --> 29:11.080]  Which I kind of understand.
+[29:11.600 --> 29:12.100]  And then...
+[29:12.880 --> 29:16.320]  But then there's not going to be 4000 annoyed people.
+[29:17.140 --> 29:21.820]  Then we will have a couple of hundred or a couple of thousand Gerplers in stock
+[29:21.820 --> 29:24.880]  so that whenever somebody wants to buy one,
+[29:24.960 --> 29:28.700]  they can and they don't have to wait for a three time a year Gerpler drop.
+[29:28.880 --> 29:32.600]  I would like to get to a point where we have Gerplers on the shelves
+[29:32.600 --> 29:35.260]  for people to buy at the ready, but not too many.
+[29:35.460 --> 29:37.420]  And we have to increment our way into that
+[29:37.420 --> 29:41.020]  or we're going to end up losing our fucking asses on Gerplers.
+[29:41.740 --> 29:43.680]  So should we only restock 2000?
+[29:45.300 --> 29:46.120]  I think it depends.
+[29:46.320 --> 29:50.040]  I just don't know how you can make that call without knowing how quickly they sell out.
+[29:50.140 --> 29:50.960]  That's the whole point.
+[29:51.060 --> 29:51.180]  Right.
+[29:51.400 --> 29:53.160]  That's why we're not making the call now.
+[29:53.460 --> 29:54.780]  That we make the call right now.
+[29:54.860 --> 29:56.420]  But you seem to be.
+[29:56.500 --> 29:58.160]  So I'm curious about where you stand.
+[29:58.200 --> 30:01.180]  You said if they're going to sell out in a day, you're going to order 4000.
+[30:01.180 --> 30:04.260]  Here's the call that we came up with that we all talked about.
+[30:04.260 --> 30:06.940]  We have 2000 or 4000 at the ready.
+[30:07.220 --> 30:08.260]  Yeah, we can order.
+[30:08.400 --> 30:11.720]  If we sell out instantly, like within the first couple hours,
+[30:11.780 --> 30:14.780]  then we think we'll order another 4000 and take the risk.
+[30:15.140 --> 30:18.740]  If we don't sell out through the weekend, then we'll order 2000 on Monday.
+[30:19.320 --> 30:23.260]  OK, what is your best case?
+[30:23.820 --> 30:25.720]  My best case scenario?
+[30:26.300 --> 30:26.800]  Yeah, I don't know.
+[30:26.800 --> 30:32.000]  That we sell 4000 Gurplers in 18 seconds and everybody's happy?
+[30:33.280 --> 30:34.980]  Those two things can't exist.
+[30:35.200 --> 30:36.200]  Yeah, I don't think those exist.
+[30:36.400 --> 30:41.180]  If we have exactly 4000 customers and they all want to buy one each.
+[30:41.580 --> 30:46.380]  I hope we sell like 3500 and then it kind of dribbles out.
+[30:46.460 --> 30:47.800]  And I think everyone will be happy.
+[30:48.360 --> 30:49.500]  Yeah, that'd be great.
+[30:49.720 --> 30:50.580]  That's great, too.
+[30:50.920 --> 30:53.620]  There's really not a bad scenario in what you've described.
+[30:53.660 --> 30:54.600]  There is a bad scenario.
+[30:55.160 --> 30:56.980]  That's why I added to what you described.
+[30:57.540 --> 31:02.160]  No, I mean, that's like that's really touching and amazing that that happened.
+[31:02.260 --> 31:03.520]  That's more than double than we ever ordered.
+[31:03.580 --> 31:04.300]  And we'll order more.
+[31:04.600 --> 31:06.100]  And I think people will be understanding.
+[31:06.240 --> 31:08.040]  We're an independent, small company.
+[31:08.220 --> 31:09.600]  Try to do our first big sale.
+[31:10.100 --> 31:14.340]  You're confusing me in just as badly as Andrew did in the last segment.
+[31:14.780 --> 31:17.820]  I really don't know what you think we've done wrong here,
+[31:17.820 --> 31:20.960]  other than not order 5000 instead of 4000.
+[31:21.120 --> 31:23.720]  Why do you think that there's 4000 customers?
+[31:24.600 --> 31:26.720]  I think whatever the next product is.
+[31:26.840 --> 31:27.940]  And I'm sorry for interrupting.
+[31:28.080 --> 31:29.420]  You can answer just question after this.
+[31:29.580 --> 31:33.540]  But whatever we sell next in this type of fashion of having to order quantities,
+[31:34.060 --> 31:36.340]  Gavin needs to pick an exact number that he thinks.
+[31:36.580 --> 31:42.160]  Yeah, I think we nominate Gavin to be in charge of ordering all merch from here on out.
+[31:42.220 --> 31:44.120]  Because please, I'll be honest, I did it.
+[31:44.300 --> 31:48.420]  I did it for the first nine years of Rooster Teeth, and I'm not looking to do it again.
+[31:49.080 --> 31:49.540]  Just for one.
+[31:49.600 --> 31:53.700]  My only my only affair with it is that every time we sold one of these freaking cups,
+[31:54.600 --> 31:55.600]  we've never ordered enough.
+[31:55.920 --> 31:57.540]  The people have been really unhappy.
+[31:57.760 --> 32:02.000]  I agree, but we've ordered double the largest order we've ever made.
+[32:02.140 --> 32:03.640]  I don't know what more we can do.
+[32:03.840 --> 32:08.240]  We'll order more in the future, but we need the money from the Gurplers before we can order.
+[32:08.480 --> 32:10.180]  The magic's on the tapes, Gavin.
+[32:10.360 --> 32:13.140]  I can't sell the tape unless you give me the tape.
+[32:14.700 --> 32:16.100]  To quote Boogie Nights.
+[32:18.860 --> 32:20.400]  It's going to be a learning process.
+[32:21.000 --> 32:23.620]  No matter what happens, we're going to learn from this experience.
+[32:23.620 --> 32:25.860]  And I hope it goes incredibly well.
+[32:25.940 --> 32:32.340]  Yeah, I think in my head, I was I was just hoping for our first launch of a of a GERB
+[32:32.340 --> 32:33.720]  as a regulation GERB.
+[32:33.960 --> 32:36.260]  I hoped we wouldn't be sold out so quickly.
+[32:36.380 --> 32:37.640]  Well, maybe we won't.
+[32:37.720 --> 32:38.980]  We have no idea.
+[32:39.120 --> 32:41.180]  We've never sold more than 2000 at once before.
+[32:41.400 --> 32:42.480]  OK, so we should be good.
+[32:42.660 --> 32:43.200]  We should be fine.
+[32:43.500 --> 32:45.000]  Maybe, maybe not.
+[32:45.080 --> 32:45.440]  I don't know.
+[32:45.520 --> 32:46.300]  We're going to find out.
+[32:46.480 --> 32:46.980]  I'm so scared.
+[32:47.040 --> 32:50.160]  But that's why we have it waiting in the wings for the 2000 or the 4000.
+[32:50.160 --> 32:54.540]  So they know, hey, we're probably going to restock one of these two things based on how
+[32:54.540 --> 32:55.140]  this goes.
+[32:55.260 --> 32:58.360]  Yeah, so we'll know instantly and then we can immediately communicate and go, great.
+[32:58.460 --> 32:59.580]  We know our baseline now.
+[32:59.660 --> 33:00.740]  We have some more data.
+[33:01.100 --> 33:03.100]  We're going to adjust orders going forward.
+[33:03.440 --> 33:06.740]  And we were talking about this earlier before you came on, Gavin.
+[33:06.880 --> 33:11.720]  The goal would be for there always to be a GERBler in the store, but for us never to
+[33:11.720 --> 33:16.280]  carry so much stock that it eats away at the profitability of the GERB because carrying
+[33:16.280 --> 33:17.920]  stock, it's very expensive, very fast.
+[33:17.920 --> 33:20.260]  Yeah, and they're not small.
+[33:20.620 --> 33:21.520]  We just don't know.
+[33:21.640 --> 33:26.140]  All we've sold so far is a print on demand t-shirt and all the data from a previous company
+[33:26.140 --> 33:27.980]  that we no longer have access to, you know?
+[33:28.040 --> 33:28.180]  Yeah.
+[33:28.460 --> 33:30.660]  I'm not saying we've done anything wrong yet.
+[33:30.820 --> 33:31.920]  I'm just, I have hopes.
+[33:32.380 --> 33:32.600]  Right.
+[33:32.700 --> 33:33.580]  It's just the tone.
+[33:33.720 --> 33:36.360]  It's just the tone you're using the whole time.
+[33:36.540 --> 33:40.100]  It's entirely possible we have done stuff wrong yet because this comes out after the
+[33:40.100 --> 33:43.300]  launch, but we are dumber right now than the audience.
+[33:44.180 --> 33:44.620]  Yeah.
+[33:45.980 --> 33:46.420]  Yeah.
+[33:46.940 --> 33:48.440]  I think we all have the same fear.
+[33:48.560 --> 33:50.100]  I'm just, I'm just freaking out about it.
+[33:50.500 --> 33:51.480]  What do you mean?
+[33:52.700 --> 33:53.640]  I'm not scared.
+[33:54.460 --> 33:57.440]  You're not scared of people trying to buy it and not being able to get really mad?
+[33:57.960 --> 34:03.240]  The biggest fear is that the fucking store doesn't work and that nobody can buy anything.
+[34:03.480 --> 34:05.520]  That's my biggest fear.
+[34:05.880 --> 34:09.300]  That's the worst case scenario is that we sell zero GERBlers out of 4,000.
+[34:09.760 --> 34:14.060]  What's great is as we have flexibility as a small company, obviously, it's tough for
+[34:14.060 --> 34:18.460]  us to get larger inventories, it's expensive and all that, but we have the flexibility to
+[34:18.460 --> 34:24.360]  adjust and make sure that our audience in the community is aware of what is happening
+[34:24.360 --> 34:26.820]  and we can accommodate them to the best of our ability.
+[34:27.460 --> 34:30.760]  I'm confident in our ability to adapt to whatever the situation is.
+[34:31.360 --> 34:37.160]  What I want is for it to be the most positive experience for our audience that it can possibly
+[34:37.160 --> 34:37.600]  be.
+[34:37.660 --> 34:42.560]  And whatever the hurdles or things are that come up that we need to navigate, I'm sure
+[34:42.560 --> 34:46.620]  we will be able to navigate them and communicate those clearly, because that is the advantage
+[34:46.620 --> 34:47.720]  of being a small company.
+[34:48.120 --> 34:50.500]  Where was this guy back in the Twinkies conversation?
+[34:51.100 --> 34:56.120]  Listen, this should make you reflect on your Twinkies take.
+[34:56.160 --> 34:56.700]  It does not.
+[34:57.140 --> 35:01.040]  It makes me reflect on my Twinkies take and be like, man, I was even righter than I thought.
+[35:02.080 --> 35:04.280]  It's apparently a bath bomb, the Twinkie.
+[35:04.300 --> 35:06.000]  I was looking at it, trying to see if I could get it.
+[35:06.020 --> 35:06.920]  I don't think I want that.
+[35:07.320 --> 35:08.460]  See, I'm with you on that as a bath.
+[35:08.540 --> 35:09.620]  And I don't want that.
+[35:09.700 --> 35:10.360]  You don't.
+[35:10.420 --> 35:11.600]  You don't want a Twinkie bath bomb.
+[35:11.600 --> 35:13.860]  Have you seen the Kraft dinner gummies?
+[35:14.080 --> 35:16.260]  That, to me, is what I think of, of like...
+[35:16.800 --> 35:18.000]  Did we eat those, Nick?
+[35:18.780 --> 35:21.240]  Uh, I don't think so.
+[35:21.400 --> 35:23.760]  We didn't, we didn't have those for 100% eaten for FaceTime.
+[35:24.120 --> 35:24.740]  I'll post a photo of them.
+[35:24.760 --> 35:27.880]  They look like the, it's, yeah, it's these.
+[35:28.020 --> 35:30.240]  I'm pretty sure we, I'm pretty sure we've eaten these.
+[35:30.880 --> 35:32.420]  They're gummies that look like mac and cheese.
+[35:32.760 --> 35:33.360]  Oh, maybe.
+[35:33.620 --> 35:34.260]  Yeah, they're gross.
+[35:34.720 --> 35:36.160]  Do they taste like mac and cheese?
+[35:36.420 --> 35:37.360]  That's what I assume.
+[35:37.540 --> 35:39.300]  Not, not really.
+[35:39.300 --> 35:42.600]  I don't remember them tasting like mac and cheese, like at all.
+[35:43.820 --> 35:45.040]  Yeah, I think they just kind of suck.
+[35:45.140 --> 35:46.120]  They were like powdery.
+[35:46.400 --> 35:46.800]  Okay.
+[35:46.880 --> 35:49.120]  Well, if they don't taste like cheese, I'm less against it.
+[35:49.240 --> 35:51.000]  I thought they're trying to do like a cheese thing.
+[35:51.440 --> 35:52.640]  And it sounds terrible.
+[35:52.860 --> 35:53.280]  No, okay.
+[35:53.300 --> 35:54.020]  Now I remember.
+[35:54.380 --> 35:55.180]  They aren't cheese.
+[35:55.460 --> 35:57.420]  They taste like, they, they're like gummies.
+[35:58.060 --> 35:58.320]  Oh, that's gross.
+[35:58.500 --> 35:59.220]  They're like frown.
+[35:59.220 --> 35:59.420]  What the hell?
+[35:59.420 --> 35:59.760]  Fruit flavor?
+[36:00.160 --> 36:00.680]  It looks, yeah.
+[36:01.040 --> 36:02.300]  What's everyone doing?
+[36:04.440 --> 36:05.800]  Turn that into a bath bomb.
+[36:06.460 --> 36:06.940]  Yeah.
+[36:07.040 --> 36:10.220]  Could that be a bowl of fruit, mac and cheese, gummies, bath bomb?
+[36:10.400 --> 36:11.860]  Like how iterative could you get?
+[36:13.700 --> 36:14.680]  That reminds me.
+[36:14.900 --> 36:15.940]  Exactly that iterative.
+[36:16.520 --> 36:18.720]  And if we could pivot for a quick second so I could talk about this.
+[36:18.720 --> 36:18.780]  Please do.
+[36:19.180 --> 36:23.160]  Something we haven't talked about publicly yet, but very exciting.
+[36:23.600 --> 36:28.760]  In December, we're doing advent calendar content that I've been working on since October.
+[36:29.260 --> 36:32.980]  And let me to explain further into exactly what we're doing.
+[36:33.540 --> 36:35.480]  This is like my favorite time of year.
+[36:35.620 --> 36:36.540]  I love it so much.
+[36:36.640 --> 36:39.980]  It's the first time that we're independent at Christmas time.
+[36:40.800 --> 36:42.060]  And I love you guys.
+[36:42.060 --> 36:46.380]  And I wanted to do something to both kind of celebrate all of you, as well as us trying
+[36:46.380 --> 36:50.580]  to think of like what is a thank you that I could come up with for the community and that
+[36:50.580 --> 36:53.980]  they would get rewarded in some way for allowing us to continue to do this.
+[36:54.380 --> 36:59.260]  And so I've been planning for the past few months, coming up with all these independent
+[36:59.260 --> 37:04.260]  advent calendars and then doing them, opening them up with you guys each day from December
+[37:04.260 --> 37:05.720]  1st through 24th.
+[37:06.120 --> 37:09.220]  And so we've been filming those and those will go up on our Patreon for free.
+[37:09.460 --> 37:11.460]  You can get a free membership to our Patreon.
+[37:11.580 --> 37:12.480]  Like there's a free tier.
+[37:12.720 --> 37:17.200]  And as long as you have a membership to it, you'll be able to watch these each days.
+[37:17.280 --> 37:18.920]  It's us opening things.
+[37:19.340 --> 37:22.240]  I've catered each advent calendar to your guys' interests.
+[37:22.840 --> 37:24.240]  So Nick and I are doing hot sauces.
+[37:25.200 --> 37:26.600]  Geoff and I are doing card openings.
+[37:26.700 --> 37:28.380]  So it's like a little mini break show.
+[37:28.380 --> 37:31.880]  And it turns into a not so mini break show on a couple of the episodes.
+[37:32.220 --> 37:33.160]  They go long, some of them.
+[37:33.760 --> 37:36.460]  Eric and I have been doing blind box snoopies.
+[37:37.180 --> 37:41.640]  And Gavin and I have been doing candy and like drinks from Europe and Canada,
+[37:41.760 --> 37:43.620]  largely Canada so far from what we've recorded.
+[37:43.920 --> 37:47.280]  But Gavin, not a sweets guy at all.
+[37:47.340 --> 37:52.000]  And the slogans that Gavin has been coming up with for these products is so funny.
+[37:52.380 --> 37:54.720]  Of its stuff, I don't remember the specifics of its stuff.
+[37:54.720 --> 37:55.820]  Why bother?
+[37:57.180 --> 38:00.480]  Of like the descriptor of like root beer.
+[38:00.780 --> 38:01.780]  What's the purpose?
+[38:02.700 --> 38:05.520]  I gave a root beer to try that was a Canadian exclusive thing.
+[38:05.580 --> 38:08.500]  And his slogan for it was why bother with any of this stuff?
+[38:08.640 --> 38:10.220]  You know, why bother would make a pretty good sign.
+[38:10.620 --> 38:11.060]  It would.
+[38:11.840 --> 38:12.680]  What would you put it on?
+[38:13.600 --> 38:14.620]  According to you, root beer.
+[38:16.880 --> 38:18.060]  Any sugary drink.
+[38:18.160 --> 38:18.640]  Why bother?
+[38:20.040 --> 38:21.220]  Just doesn't have the price on it.
+[38:21.240 --> 38:22.140]  This store just says why.
+[38:24.720 --> 38:30.860]  Hot sauces have been an experience with Nick because I have a low heat tolerance.
+[38:31.020 --> 38:32.620]  I'm not someone who has hot sauce.
+[38:33.200 --> 38:38.940]  And we've been recording these in bulk recordings so that they can get done ahead of time so that
+[38:38.940 --> 38:40.920]  they can release each day because it's a lot of work.
+[38:41.060 --> 38:43.220]  And also it's holiday time, so people are busy.
+[38:43.720 --> 38:48.700]  And so Nick and I did, I think, 12 hot sauces in a row of different types.
+[38:49.000 --> 38:51.020]  And it was a it was a journey.
+[38:51.420 --> 38:52.360]  It was a struggle.
+[38:53.240 --> 38:53.660]  It.
+[38:55.860 --> 38:57.860]  Having to reset for each day.
+[38:58.400 --> 38:59.740]  There's some hot, hot sauces.
+[38:59.840 --> 39:02.580]  There's some sauces that got Nick, which surprised me.
+[39:02.880 --> 39:03.640]  Oh, really?
+[39:04.240 --> 39:09.160]  Yeah, there were a couple that after a while I was like, oh, it's getting hotter.
+[39:09.300 --> 39:10.440]  Oh, oh, oh, oh.
+[39:10.840 --> 39:13.640]  And even then it's just me like swearing in the background like, oh, shit.
+[39:13.720 --> 39:14.060]  Oh, no.
+[39:14.540 --> 39:16.340]  And then and then Andrew.
+[39:17.160 --> 39:17.520]  Dying.
+[39:17.760 --> 39:17.900]  Andrew.
+[39:18.380 --> 39:19.200]  Yeah, just dying.
+[39:19.580 --> 39:20.820]  Absolutely dying.
+[39:21.740 --> 39:23.180]  Trying to drink water.
+[39:23.560 --> 39:28.420]  Nick trying to, like, coach me through how to deal with the spice and strategies for it.
+[39:28.620 --> 39:29.020]  Hold the water!
+[39:29.540 --> 39:30.420]  Did you have a milk?
+[39:31.200 --> 39:32.480]  I yeah, I didn't have any milk.
+[39:32.580 --> 39:32.880]  I should have.
+[39:32.940 --> 39:34.820]  I was like, I should have got cream of some kind.
+[39:35.660 --> 39:38.380]  We had Craig recording the entire time.
+[39:38.900 --> 39:43.480]  So maybe we'll release that as a bonus at some point of the unedited things of just the,
+[39:43.640 --> 39:47.300]  like, seven minutes between certain days of me going, oh, my God, I can't.
+[39:47.540 --> 39:49.380]  I need to just sit here for a minute.
+[39:49.840 --> 39:54.860]  And you could tell which days were especially bad because I was naming each file and some
+[39:54.860 --> 39:57.780]  of the naming conventions just out the window on certain days.
+[39:58.820 --> 40:00.060]  It just would shift.
+[40:00.240 --> 40:01.940]  But it was brutal.
+[40:02.100 --> 40:04.140]  I'm glad I asked, Nick, you're doing fine.
+[40:04.240 --> 40:05.360]  It didn't impact you at all later.
+[40:05.780 --> 40:08.100]  No, I was I was totally fine.
+[40:08.160 --> 40:11.660]  And then went and had 100% eat some additional food.
+[40:11.680 --> 40:12.420]  You're just built for it.
+[40:12.620 --> 40:13.200]  I think so.
+[40:13.320 --> 40:13.640]  Maybe.
+[40:14.000 --> 40:14.460]  Built different.
+[40:14.700 --> 40:17.180]  So did you guys finish or do you have more to do?
+[40:17.380 --> 40:17.780]  Oh, we have.
+[40:17.900 --> 40:18.380]  Oh, way more.
+[40:18.380 --> 40:19.600]  Yeah, we've got like 12.
+[40:19.720 --> 40:20.820]  So it could get worse.
+[40:21.080 --> 40:22.200]  Oh, it could get so much worse.
+[40:22.760 --> 40:23.040]  Interesting.
+[40:23.820 --> 40:24.180]  Interesting.
+[40:24.680 --> 40:26.800]  And there is a lot of extremely hot.
+[40:26.940 --> 40:28.720]  Is it an escalating thing?
+[40:28.820 --> 40:29.400]  Like each one?
+[40:29.500 --> 40:31.080]  No, it's not.
+[40:32.000 --> 40:32.540]  Yeah, it is.
+[40:32.660 --> 40:32.960]  Totally.
+[40:33.080 --> 40:34.520]  Yeah, totally random.
+[40:35.040 --> 40:38.800]  And Nick kept Nick kept getting his nose in the sauce.
+[40:39.020 --> 40:41.180]  He did it like three times in a row.
+[40:41.700 --> 40:44.980]  I kept smelling the bot.
+[40:45.060 --> 40:48.000]  I was just like, I was going to get a nice whiff of this, but I would be like, I can't
+[40:48.000 --> 40:49.100]  smell it, so I go a little closer.
+[40:49.260 --> 40:51.720]  I just rub a little bit of the sauce into my nostrils.
+[40:51.720 --> 40:54.460]  Is your like spatial awareness of your own body pretty shoddy?
+[40:54.540 --> 40:56.280]  Do you like walk into door frames a lot and stuff?
+[40:56.940 --> 40:57.780]  Uh, you know what?
+[40:57.820 --> 40:59.120]  Now that you mention it, I think I do.
+[40:59.540 --> 40:59.940]  Yeah.
+[41:01.520 --> 41:06.560]  So that would like even us out a little bit where I would be impacted purely by the sauce
+[41:06.560 --> 41:09.080]  in my mouth and Nick would be like, my fucking nose.
+[41:09.480 --> 41:10.640]  My nose is so bad.
+[41:11.940 --> 41:12.740]  The heat.
+[41:14.320 --> 41:15.960]  I'm so excited for these to come out.
+[41:15.960 --> 41:20.140]  They've been a lot of fun to make with all of you guys, and I hope the audience really
+[41:20.140 --> 41:20.560]  likes them.
+[41:20.960 --> 41:21.400]  Me too.
+[41:21.520 --> 41:23.260]  I needed a fucking nap after yesterday.
+[41:23.400 --> 41:25.600]  We did all of mine at once because I was going.
+[41:25.720 --> 41:26.300]  I'm going out of town.
+[41:27.040 --> 41:30.580]  And that was for about four hours.
+[41:31.040 --> 41:31.760]  Andrew and I recorded.
+[41:32.360 --> 41:37.060]  Yeah, we did 23 because we did the first one all as a big group, and I want to do the
+[41:37.060 --> 41:38.100]  last one as a big group.
+[41:38.160 --> 41:41.880]  So you figure everyone's 10 minutes or so for for us.
+[41:42.200 --> 41:43.960]  It's good, though.
+[41:43.980 --> 41:44.340]  I'm excited.
+[41:44.440 --> 41:45.240]  I had a lot of fun.
+[41:45.240 --> 41:47.480]  Me and Andrew flew through mine.
+[41:47.760 --> 41:51.960]  We did 12 in one like today in one sitting, and it was an hour.
+[41:52.160 --> 41:54.360]  Yeah, it was 90 ish minutes, I would say.
+[41:54.640 --> 41:59.440]  Yeah, but but the first 20 minutes of us before we went was just us talking shit.
+[41:59.540 --> 42:01.240]  And then we went, oh, right, we got to record this thing.
+[42:01.460 --> 42:03.860]  We just started talking about like, oh, you see this MMA thing?
+[42:03.980 --> 42:06.940]  It was just that for 20 minutes before we got started.
+[42:07.220 --> 42:07.640]  It was great.
+[42:07.740 --> 42:09.140]  I had so much fun opening these things.
+[42:09.320 --> 42:09.940]  It was a blast.
+[42:10.060 --> 42:12.180]  This is this is super, super fun.
+[42:12.480 --> 42:13.120]  It's been really cool.
+[42:13.120 --> 42:14.980]  Where's it releasing on the on the old Patreon?
+[42:15.320 --> 42:19.280]  On the Patreon, December 1st will be the first one, and then there will be a new one every
+[42:19.280 --> 42:24.000]  single day on top of all the other content through the 24th.
+[42:24.020 --> 42:28.400]  So it will be free for anyone with a membership.
+[42:28.400 --> 42:30.100]  So just go sign up for a free membership.
+[42:30.360 --> 42:36.980]  Or if you're a member on our Patreon already and you want to give the gift of regulation,
+[42:37.480 --> 42:42.600]  you can right now give the gift of a subscription to a friend of any tier.
+[42:42.600 --> 42:48.900]  If you go to patreon.com slash the regulation pod slash gift, you can actually gift that
+[42:48.900 --> 42:54.180]  out like the like the way you would like a Twitch subscription, you can gift a Patreon
+[42:54.180 --> 42:58.900]  subscription to a friend and then you guys can enjoy all month long all this stuff.
+[42:58.980 --> 43:02.380]  But if you just want to check out the videos, go sign up for a free membership.
+[43:02.760 --> 43:03.220]  That's it.
+[43:03.240 --> 43:04.800]  Then you can just see that stuff there.
+[43:04.920 --> 43:05.420]  There it is.
+[43:05.460 --> 43:06.500]  It's right there waiting for you.
+[43:07.260 --> 43:09.140]  Lovely community we have built over there.
+[43:09.180 --> 43:10.140]  Oh, the best.
+[43:10.140 --> 43:13.120]  Like absurdly amazing in every capacity.
+[43:13.420 --> 43:18.060]  I wonder what that says about your friendship if you were just out of nowhere going to gift
+[43:19.240 --> 43:20.500]  our Patreon to someone.
+[43:20.900 --> 43:23.240]  I assume it'd be to someone that you know already listens to it.
+[43:23.780 --> 43:27.440]  But if you just got if you just went blind for someone, what would that say about you?
+[43:27.980 --> 43:31.580]  Do you think it's somebody you're trying to take that friendship to another level?
+[43:33.060 --> 43:33.900]  You know what I mean?
+[43:34.420 --> 43:35.320]  To regulation friendship?
+[43:35.700 --> 43:37.060]  Yeah, you're trying to get real with it.
+[43:37.060 --> 43:39.540]  Yeah, you got to try to have them upgrade.
+[43:39.620 --> 43:41.340]  Be like, we're going to be better friends than ever.
+[43:41.440 --> 43:43.520]  So you want to check out these Gears of War videos.
+[43:46.780 --> 43:48.580]  I think I've got Gears Withdrawals.
+[43:48.940 --> 43:51.140]  I've been playing by myself multiplayer online.
+[43:51.780 --> 43:53.960]  Yeah, Andrew's Andrew's been saying the horde mode is amazing.
+[43:54.040 --> 43:55.060]  It's five player mode.
+[43:55.140 --> 43:56.700]  It's always fun to be Jack Dibbs.
+[43:56.880 --> 43:59.860]  And then you just fucking we definitely should film in it.
+[43:59.920 --> 44:01.780]  I'm doing versus I'm doing horde.
+[44:01.880 --> 44:05.080]  I'm just having a blast since the game's been out for a while.
+[44:05.080 --> 44:08.460]  You know, we we didn't really notice the impact and campaign, but you get
+[44:08.460 --> 44:11.620]  they give you a free boost, just like a double XP boost.
+[44:11.880 --> 44:14.440]  And there's like a times four boost on each playlist.
+[44:14.580 --> 44:16.940]  So the numbers are just constantly going up.
+[44:17.000 --> 44:17.840]  And it's just great.
+[44:18.000 --> 44:18.600]  It feels good.
+[44:18.940 --> 44:20.000]  Feels really good spot.
+[44:20.440 --> 44:23.640]  I remember they would do that at the end of like Gears two and three,
+[44:23.740 --> 44:25.040]  kind of at the end of their life cycles.
+[44:25.040 --> 44:28.220]  When people were clamoring to get achievements, it would be like
+[44:29.000 --> 44:31.480]  17 X times XP weekend.
+[44:31.820 --> 44:34.560]  And you'd be like fucking just blowing through.
+[44:34.560 --> 44:38.160]  Yeah, well, there is two seriously achievements for Gears five,
+[44:38.280 --> 44:41.800]  and I'm like 50% of the way through one of them because of sound.
+[44:42.120 --> 44:43.140]  They seem impossible.
+[44:43.140 --> 44:45.340]  Those that it's like a whole checklist of shit.
+[44:45.420 --> 44:47.000]  They do. But I'm halfway there.
+[44:47.160 --> 44:48.840]  And it feels attainable.
+[44:49.320 --> 44:52.240]  I honestly think the toughest part was the campaign for both of them.
+[44:52.300 --> 44:53.040]  And we've done that.
+[44:53.120 --> 44:56.940]  So I'm I'm currently doing a thing where I've decided to unlock
+[44:56.940 --> 45:00.140]  all the weapon skins on Call of Duty, which is something Jeremy used to always do.
+[45:00.200 --> 45:02.620]  And it always seemed impossible to me because I suck at Call of Duty.
+[45:02.620 --> 45:04.680]  But it's not it's really not that hard at all.
+[45:04.860 --> 45:07.060]  I'm on like my fourth golden gun right now.
+[45:07.120 --> 45:07.900]  I'm just trying to get diamond.
+[45:08.260 --> 45:10.420]  It's really it's way easier than you'd think.
+[45:10.480 --> 45:10.900]  That's cool.
+[45:11.060 --> 45:13.360]  Are you into the blueprints or just the skins?
+[45:13.680 --> 45:14.240]  Just the skins.
+[45:14.400 --> 45:15.340]  I haven't really fucked with blueprint.
+[45:15.500 --> 45:16.420]  Well, I have a couple.
+[45:16.560 --> 45:17.560]  But yeah, mostly just skins.
+[45:18.060 --> 45:20.160]  I got deep into the blueprints for Warzone.
+[45:20.800 --> 45:22.800]  This is like different builds of all the different guns.
+[45:22.820 --> 45:24.060]  Yeah, like the black cells.
+[45:24.460 --> 45:26.380]  So yeah, that stuff's a lot of fun.
+[45:26.680 --> 45:28.880]  I use a couple of those that I got from my season pass,
+[45:28.980 --> 45:31.400]  but I'm mostly just just trying to unlock the skins.
+[45:31.940 --> 45:35.020]  It's tough to like I'm loving all these games.
+[45:35.180 --> 45:36.300]  There's so much to play right now.
+[45:36.440 --> 45:39.300]  But so many of them have these like seasons and service
+[45:39.300 --> 45:40.920]  like live service things.
+[45:41.020 --> 45:42.300]  And it's just it's a lot to juggle.
+[45:42.520 --> 45:44.560]  I'm still doing Halo Infinite every week.
+[45:44.900 --> 45:45.920]  Trying to keep up with Call of Duty.
+[45:46.620 --> 45:49.980]  Yeah, I still do the weekly ultimate challenge each week in Halo.
+[45:50.180 --> 45:50.400]  I want to play.
+[45:50.620 --> 45:51.700]  So yeah, we should play.
+[45:52.280 --> 45:52.800]  It's really cool.
+[45:53.600 --> 45:54.960]  They've added so much to that game.
+[45:55.480 --> 45:56.240]  Like what?
+[45:56.640 --> 45:58.280]  They added a new weapon recently,
+[45:58.280 --> 46:01.540]  like the forge stuff that they've added over time is insane.
+[46:02.980 --> 46:04.840]  They fixed a lot of the connection problems.
+[46:05.120 --> 46:06.040]  Is there a theater mode?
+[46:06.460 --> 46:08.840]  There is, but that hasn't worked great.
+[46:08.940 --> 46:11.900]  And I haven't tried it in a long time, but it was really bad.
+[46:12.160 --> 46:15.260]  If you can go HUDless, maybe we can make some backgrounds for the podcast.
+[46:15.740 --> 46:17.860]  Oh, yeah, it would probably be great for that.
+[46:17.900 --> 46:18.900]  Great for that, right?
+[46:19.000 --> 46:19.420]  Yes.
+[46:20.340 --> 46:24.140]  Yeah, you can do some insane stuff in Halo Infinite Forge.
+[46:24.380 --> 46:25.900]  I submitted my first background.
+[46:26.460 --> 46:26.920]  Oh, you did?
+[46:26.920 --> 46:28.880]  Yeah, I just was flying around in Fallout.
+[46:29.540 --> 46:30.280]  Oh, that's cool.
+[46:30.520 --> 46:31.060]  Which one?
+[46:31.800 --> 46:32.100]  Four.
+[46:33.160 --> 46:33.660]  Fallout 4.
+[46:34.140 --> 46:34.680]  Like on PC?
+[46:35.120 --> 46:37.720]  Yeah, I just did the like free cam and then just flew it around.
+[46:38.200 --> 46:38.560]  Nice.
+[46:39.200 --> 46:40.860]  Fallout 76 would be an interesting one.
+[46:41.180 --> 46:43.580]  Yeah, we've done a few in Fallout 76.
+[46:43.900 --> 46:44.960]  I think I've done three or four.
+[46:45.320 --> 46:46.400]  It's it's it works pretty well.
+[46:46.840 --> 46:48.880]  I had an idea for something that I think we should do.
+[46:49.760 --> 46:53.340]  We don't have to do it right now or anything, but you know, you know how sometimes we put
+[46:53.950 --> 46:57.060]  Remember we made the regulation sandwich?
+[46:57.780 --> 46:58.940]  Yeah, everybody got to add an ingredient.
+[46:59.520 --> 47:04.260]  I was thinking of things that would be served by each one of us adding an ingredient and the
+[47:04.260 --> 47:07.160]  thing things that would be potentially five ingredients.
+[47:08.060 --> 47:16.920]  And it struck me the perfect item we could make where each person submits one like one piece
+[47:16.920 --> 47:18.940]  of the puzzle trail mix.
+[47:19.140 --> 47:21.180]  We could create the regulation trail mix.
+[47:21.420 --> 47:22.900]  Oh, that is great.
+[47:23.340 --> 47:25.340]  That trail mix is so good.
+[47:27.120 --> 47:27.660]  Yeah, right?
+[47:27.860 --> 47:28.840]  I love a good trail mix.
+[47:29.700 --> 47:31.340]  Everybody loves a good trail mix.
+[47:31.360 --> 47:31.740]  No, no, no.
+[47:31.840 --> 47:32.620]  Okay, wait, wait a second.
+[47:32.720 --> 47:33.020]  Wait a second.
+[47:33.080 --> 47:33.400]  Wait a second.
+[47:33.480 --> 47:33.740]  Wait a second.
+[47:34.680 --> 47:35.380]  I don't trust Gavin.
+[47:38.400 --> 47:41.920]  This this son of a bitch is about to ask if Twiglets can be in this trail mix.
+[47:42.740 --> 47:44.500]  I mean, they can.
+[47:44.700 --> 47:46.540]  Why wouldn't Twiglets be allowed in trail mix?
+[47:46.760 --> 47:48.940]  Oh, because it's literally from the trail.
+[47:49.100 --> 47:52.660]  It'd be the first trail mix where you got stuff from the trail for the mix.
+[47:52.660 --> 47:53.820]  They're not real Twigs.
+[47:54.640 --> 47:55.860]  Now it tastes like it.
+[47:57.580 --> 48:01.540]  Well, what would you put in a trail mix, Gavin, if you could put one ingredient in?
+[48:03.000 --> 48:05.400]  Well, I'm not just I've got to put some thought into this.
+[48:05.880 --> 48:08.140]  What I know, I know automatically what I'd put in.
+[48:08.320 --> 48:09.180]  I know what I'd put into.
+[48:09.280 --> 48:10.880]  And you guys think I know what I would put in as well.
+[48:11.440 --> 48:13.160]  I'm worried that my thing is two things.
+[48:14.000 --> 48:14.860]  All right, here we go.
+[48:15.300 --> 48:17.680]  This is how we're going to end the episode.
+[48:17.900 --> 48:19.800]  We're going to do it in an egg order.
+[48:19.800 --> 48:24.580]  Andrew, add your first item to the regulation trail mix.
+[48:24.960 --> 48:28.040]  Have you guys ever had those like poppy seed stick things?
+[48:29.100 --> 48:30.360]  I love this.
+[48:30.480 --> 48:30.980]  I'm putting those.
+[48:31.120 --> 48:32.320]  What are poppy seed sticks?
+[48:32.460 --> 48:34.120]  Let me see if I can find a photo of it.
+[48:34.280 --> 48:34.580]  Oh, sweet.
+[48:36.140 --> 48:37.380]  Oh, what are they?
+[48:37.420 --> 48:39.140]  I'm trying to find a good picture.
+[48:39.480 --> 48:43.040]  Yeah, let me see if I can find a good photo of it.
+[48:43.740 --> 48:45.820]  That's maybe that's not what they're called.
+[48:49.960 --> 48:50.740]  Trail mix.
+[48:51.040 --> 48:53.240]  All right, we're off to a hot start.
+[48:53.580 --> 48:55.520]  What are these called?
+[48:56.320 --> 48:58.300]  I always thought they were called poppy seed sticks.
+[48:58.680 --> 48:59.700]  I'm having a hard time.
+[49:00.080 --> 49:00.840]  Nick, you can move on.
+[49:01.280 --> 49:02.860]  No, no, no, no, no, no, no.
+[49:02.860 --> 49:03.660]  It's an egg order.
+[49:04.040 --> 49:05.380]  Yeah, we're not coming back around to you.
+[49:05.460 --> 49:07.700]  I submitted what it is.
+[49:08.520 --> 49:10.300]  You told us you were going to find a picture.
+[49:10.720 --> 49:10.960]  Trail mix.
+[49:11.080 --> 49:12.020]  Maybe it's sesame.
+[49:12.300 --> 49:13.240]  It's probably sesame.
+[49:13.380 --> 49:14.200]  Oh, it's probably sesame seed.
+[49:14.560 --> 49:15.940]  Because I'm always I always.
+[49:16.040 --> 49:16.520]  Yeah, it is.
+[49:16.600 --> 49:17.920]  That's what I'm talking about.
+[49:18.020 --> 49:19.720]  I always mix those two things up.
+[49:20.350 --> 49:21.740]  All right, well, let's see that image.
+[49:21.940 --> 49:24.240]  So you're talking about these things.
+[49:25.440 --> 49:26.520]  Yeah, those.
+[49:26.600 --> 49:27.320]  Those are good.
+[49:27.520 --> 49:29.340]  Like some sesame sticks.
+[49:29.980 --> 49:31.240]  So that's our base layer.
+[49:33.000 --> 49:33.880]  Okay, Nick.
+[49:34.420 --> 49:35.080]  Next up.
+[49:36.000 --> 49:37.660]  The rye chip.
+[49:37.940 --> 49:40.960]  Oh, those things are so crunchy.
+[49:41.440 --> 49:42.460]  Somebody had to put it in.
+[49:42.540 --> 49:43.040]  That's great.
+[49:43.200 --> 49:43.940]  Yeah, had to do it.
+[49:44.520 --> 49:46.520]  Those are those are good.
+[49:46.640 --> 49:48.820]  I think they're too crunchy, but that's just me.
+[49:48.820 --> 49:51.060]  You know, we're getting a little bit of everything.
+[49:51.260 --> 49:54.180]  My addition, like immediately.
+[49:54.400 --> 49:55.180]  I'm not going sweet.
+[49:55.300 --> 49:56.400]  I'm going savory still.
+[49:56.600 --> 49:57.280]  Pumpkin seeds.
+[49:57.740 --> 50:00.780]  Roasted pumpkin seeds are so good.
+[50:00.820 --> 50:01.720]  Even by the handful.
+[50:02.000 --> 50:03.200]  Oh, oh, they're good.
+[50:03.680 --> 50:05.760]  I think that's a fucking awesome choice.
+[50:05.800 --> 50:07.700]  And I'm at a crossroads here, boys.
+[50:08.420 --> 50:15.140]  I have I have an item in mind that is honestly my favorite part of trail mix.
+[50:15.180 --> 50:16.740]  And I think people aren't going to like it.
+[50:16.740 --> 50:18.980]  I don't want to, I don't want to Gavin our trail mix.
+[50:19.120 --> 50:22.180]  So I'm going to ask you guys, is it offensive?
+[50:22.320 --> 50:24.120]  Because I have a backup that I'm happy with.
+[50:24.120 --> 50:26.420]  Is it offensive to put raisins in?
+[50:26.840 --> 50:27.760]  No, no, no.
+[50:28.320 --> 50:28.800]  No, no, no.
+[50:28.800 --> 50:29.180]  Raisins please.
+[50:29.380 --> 50:31.360]  We need raisins and healthy, healthy, sweet.
+[50:31.600 --> 50:32.860]  We don't want anything sweet in here.
+[50:33.000 --> 50:34.940]  So yeah, raisins are great.
+[50:35.340 --> 50:35.760]  I love it.
+[50:36.140 --> 50:39.300]  I was hoping that you were going to go sweet because I knew you were going to go fruit sweet.
+[50:39.380 --> 50:42.760]  If you did it, it was going to be like dried cranberries or something like that.
+[50:42.820 --> 50:45.180]  I'm thinking I'm thinking maybe even golden raisins.
+[50:45.800 --> 50:49.800]  Hey, hey, drop a picture of it in here so we've got some good pics.
+[50:49.800 --> 50:51.500]  Oh, I'm so sorry. I'll do that right now.
+[50:51.680 --> 50:54.960]  This is good. Gavin, how do you feel about raisins in a trail mix?
+[50:55.940 --> 50:58.120]  I hate raisins in any format, I think.
+[50:58.660 --> 50:59.380]  Oh, that's a shame.
+[50:59.860 --> 51:01.160]  You hate raisins?
+[51:01.940 --> 51:02.560]  What? Why?
+[51:02.980 --> 51:03.340]  What do you mean?
+[51:03.740 --> 51:05.240]  What if they're Californian raisins?
+[51:05.460 --> 51:07.080]  Hey, let me ask. Do you like grapes?
+[51:08.620 --> 51:09.460]  I love grapes.
+[51:10.800 --> 51:11.840]  I don't think you like raisins.
+[51:12.900 --> 51:15.040]  People like grapes, but people don't like raisins?
+[51:15.920 --> 51:18.520]  Is this a bit...
+[51:18.520 --> 51:19.300]  Grape is a raisin.
+[51:20.360 --> 51:20.720]  What do you mean?
+[51:21.820 --> 51:24.000]  Well, I thought everyone hates raisins.
+[51:24.780 --> 51:26.240]  No, I like raisins.
+[51:26.800 --> 51:29.780]  I mean, I put it in the fucking trail mix. I clearly love them.
+[51:29.860 --> 51:32.200]  I think we should have ordered 5,000 raisins, personally.
+[51:32.200 --> 51:32.580]  I...
+[51:38.920 --> 51:47.800]  I bet 5,000 raisins would be so disappointing to look at, too.
+[51:47.980 --> 51:50.280]  It would be a huge amount.
+[51:50.720 --> 51:52.140]  It would just be a really annoying amount.
+[51:52.800 --> 51:53.820]  It wouldn't look impressive.
+[51:54.020 --> 51:57.560]  What's the least impressive... we should do another list, not right now.
+[51:57.560 --> 52:02.740]  We don't want to get too sidetracked, but we should do a least impressive to most impressive item of 5,000.
+[52:03.400 --> 52:04.520]  Oh, that's pretty good.
+[52:04.660 --> 52:06.740]  5,000 shacks would be quite the sight.
+[52:06.940 --> 52:09.660]  5,000 bowling balls is pretty insane.
+[52:10.080 --> 52:12.640]  5,000 bean bags would be the funnest room in the world.
+[52:14.300 --> 52:22.180]  Well, Gavin, we've locked in, so far, sesame seed sticks, rye chips, pumpkin seeds, and golden raisins.
+[52:22.240 --> 52:25.300]  What are you doing to round out our regulation trail mix?
+[52:25.300 --> 52:28.740]  Didn't someone say that raisins were, like, the shittiest trick-or-treat?
+[52:29.400 --> 52:30.140]  Didn't we just have a whole...
+[52:30.140 --> 52:32.400]  Yeah, but that's a different scenario.
+[52:32.440 --> 52:34.180]  Do you think what we're doing is candy?
+[52:34.780 --> 52:36.220]  This is trail mix, man. It's not candy.
+[52:36.340 --> 52:37.300]  This is trail mix.
+[52:37.920 --> 52:43.940]  If you go into an ice cream shop, Gavin, and they give you a turkey sandwich, that's a terrible experience.
+[52:44.180 --> 52:46.120]  That doesn't mean you don't like turkey sandwiches.
+[52:48.440 --> 52:49.660]  What do you mean, though?
+[52:50.840 --> 52:51.240]  If...
+[52:52.380 --> 52:55.380]  Trail mix isn't candy, assholes, is what he's saying.
+[52:56.660 --> 52:58.720]  It's a healthy snack when you're hiking.
+[52:59.580 --> 53:00.240]  It can't be candy.
+[53:00.760 --> 53:03.140]  There could be some candy in it, but yeah, it's not...
+[53:03.700 --> 53:05.280]  It's not Hershey's Trail Mix.
+[53:05.660 --> 53:11.220]  Like, you call an Uber and they give you a box of spiders, and you go, I mean, yeah, you know, it is what it is.
+[53:13.160 --> 53:16.480]  What are you... I can't believe you don't like raisins that much. That's crazy.
+[53:16.980 --> 53:18.960]  What are you adding as the final thing?
+[53:18.960 --> 53:25.100]  Well, I was hoping to add something a bit sweet to all this stuff before the raisins landed in.
+[53:25.140 --> 53:26.800]  Well, that's fine. You still can.
+[53:27.420 --> 53:34.120]  Yeah, but sometimes I feel like I've had some trail mixes where occasionally there's like a peanut M&M or something weird in there.
+[53:34.120 --> 53:34.700]  Yeah, of course.
+[53:35.120 --> 53:37.140]  The ratio's low. They're pretty rare within the mix.
+[53:37.560 --> 53:42.080]  And I'm not going to do those, but I am going to do some chalky almonds, because I think they're very nice.
+[53:42.260 --> 53:46.280]  And if they were sparsely distributed through the mix, it'd be pretty satisfying.
+[53:46.280 --> 53:49.720]  I don't know that I've ever had them with chocolate almonds.
+[53:50.100 --> 53:51.800]  Yeah, I don't think I've ever had a trail mix.
+[53:51.960 --> 53:56.900]  This fucking guy loves chocolate almonds, and I gotta be honest with you.
+[53:56.960 --> 54:00.520]  I didn't see it coming, but I should have, because he never stops talking about how much he likes them.
+[54:00.840 --> 54:05.020]  However, I like it, Gav. I do like it, Gav.
+[54:05.280 --> 54:10.860]  Because peanuts were my backup, and almonds are close to peanuts, and you add the chocolate and the nut.
+[54:10.940 --> 54:14.020]  It feels weird that we don't have a nut. We'd have a seed, I guess.
+[54:14.260 --> 54:15.720]  I'm for your chocolate almonds.
+[54:15.720 --> 54:16.760]  Oh, thanks.
+[54:17.120 --> 54:17.520]  Yeah.
+[54:18.340 --> 54:22.960]  I'm trying to think if I've had, like, I guess, would it be dark chocolate or milk chocolate?
+[54:23.280 --> 54:23.860]  Does it matter?
+[54:24.020 --> 54:24.480]  Dark, dark, dark.
+[54:24.560 --> 54:25.200]  I usually go dark.
+[54:25.260 --> 54:28.020]  Alright, let's calm down, Nick. Jesus Christ.
+[54:28.400 --> 54:32.320]  I don't even like dark chocolate, but I feel like it's gotta be dark chocolate with an almond.
+[54:32.740 --> 54:37.540]  I feel like it contrasts the nut pretty well, and you can eat them and not feel as sickly about it.
+[54:38.000 --> 54:38.260]  Yeah.
+[54:40.500 --> 54:43.460]  You're getting 100% of it. This is the sauce monkey coming out.
+[54:43.720 --> 54:47.420]  You're fucking screeching and shit about specific stuff.
+[54:47.880 --> 54:48.140]  Okay.
+[54:48.460 --> 54:49.840]  I have a question overall, though.
+[54:50.100 --> 54:50.380]  Okay.
+[54:50.900 --> 54:52.960]  Isn't this just regulators, what we're doing?
+[54:53.700 --> 54:54.040]  Oh, yeah.
+[54:54.080 --> 54:55.060]  I guess it is, sort of.
+[54:55.100 --> 54:58.360]  Regulators, the thing you can check out on patreon.com slash the regulation pod.
+[54:58.860 --> 55:01.920]  Oh, so we did a little preview, yeah, of regulators.
+[55:03.340 --> 55:05.020]  So this isn't our regulation trail mix.
+[55:05.160 --> 55:06.240]  I think it is. Yeah, you're right.
+[55:06.240 --> 55:08.660]  Here's the thing. I wanted to get another opinion.
+[55:10.820 --> 55:13.380]  Texted Gracie, what would you add?
+[55:14.280 --> 55:17.620]  She added rye chips, so we have a lot of rye chips.
+[55:17.920 --> 55:20.220]  Well, she can't pick something that's already been added.
+[55:20.360 --> 55:21.080]  She has to pick something else.
+[55:21.360 --> 55:22.480]  You gotta do something else.
+[55:23.520 --> 55:34.420]  She's gotta pick a pretzel or a fucking M&M or one of those semi-sweet little Hershey's Kisses that you cook with or whatever the fuck.
+[55:34.420 --> 55:35.380]  Okay. Alright.
+[55:35.380 --> 55:38.300]  I told her if it wasn't that, what would you pick?
+[55:38.380 --> 55:41.280]  Also, she told us the other day that she's allergic to rye.
+[55:41.580 --> 55:44.860]  And then she picked rye chips and then immediately went, oh, I don't know.
+[55:44.960 --> 55:46.140]  Maybe I'm allergic to these.
+[55:46.660 --> 55:47.900]  Oh my god, she did say that.
+[55:50.820 --> 55:52.720]  She just really likes rye chips.
+[55:55.960 --> 55:56.760]  Worth it.
+[55:57.000 --> 55:59.100]  Really, really something crazy.
+[55:59.240 --> 56:01.380]  But yes, this is kind of what regulators is.
+[56:01.380 --> 56:01.740]  It is.
+[56:01.940 --> 56:03.720]  We're finding like the regulation version of things.
+[56:04.220 --> 56:04.600]  It's pretty good.
+[56:04.600 --> 56:06.120]  It's funny. I'm scrolling through.
+[56:06.280 --> 56:08.380]  I was like, let me look at all the photos of our trail mix.
+[56:08.460 --> 56:10.820]  And it's the almonds and the raisins and the pumpkin seeds.
+[56:11.220 --> 56:14.620]  And then all of a sudden, fruit flavor Kraft dinner gummies.
+[56:15.000 --> 56:16.820]  Like it blends right in.
+[56:17.060 --> 56:19.080]  What a shit trail mix that would be.
+[56:20.880 --> 56:22.060]  I like this a lot.
+[56:22.140 --> 56:23.020]  I love a good trail mix.
+[56:23.320 --> 56:24.100]  I'll be honest.
+[56:24.240 --> 56:26.140]  I forgot about regulators as a show.
+[56:26.260 --> 56:27.960]  Otherwise, I would have earmarked her for that.
+[56:28.280 --> 56:30.800]  So going forward, we'll just do these there.
+[56:30.960 --> 56:32.300]  But we played it off.
+[56:32.400 --> 56:34.040]  Like what a great preview of this show.
+[56:34.040 --> 56:34.980]  It works.
+[56:35.800 --> 56:36.500]  It's fine.
+[56:36.780 --> 56:37.200]  That's okay.
+[56:37.740 --> 56:39.320]  Nick's going to cut out the stuff I just said.
+[56:39.480 --> 56:39.760]  So we're good.
+[56:40.540 --> 56:41.260]  No, he's not.
+[56:41.540 --> 56:44.240]  I told Gracie she has to pick something else because Nick picked it.
+[56:44.340 --> 56:45.680]  And she just said, damn it.
+[56:47.300 --> 56:48.300]  Add it to the mix.
+[56:50.140 --> 56:52.900]  So I guess find out later what Gracie would pick.
+[56:52.980 --> 56:54.680]  But we should probably wrap this episode up.
+[56:54.980 --> 56:56.200]  Is there any food called Dammit's?
+[56:57.200 --> 56:57.580]  There should be.
+[56:57.740 --> 56:58.260]  Let's look up.
+[56:58.940 --> 56:59.340]  Dammit's.
+[57:00.200 --> 57:01.000]  Dammit food.
+[57:01.820 --> 57:03.340]  Does that be a great name for...
+[57:05.140 --> 57:05.860]  Dammit food.
+[57:07.660 --> 57:09.980]  No, I don't think there's a Dammit's.
+[57:10.340 --> 57:10.660]  Whoa.
+[57:11.620 --> 57:11.980]  Whoa.
+[57:12.440 --> 57:14.680]  Imagine just buying a bag of Dammit's from the store.
+[57:14.760 --> 57:15.320]  It sounds great.
+[57:15.660 --> 57:16.180]  I might have.
+[57:16.300 --> 57:17.220]  I might have found something.
+[57:17.320 --> 57:17.620]  Hang on.
+[57:19.460 --> 57:21.980]  I found a Flickr account, but I can't access it.
+[57:22.000 --> 57:23.140]  So I have to send you a clip of this.
+[57:23.240 --> 57:23.720]  Like a snippet.
+[57:23.880 --> 57:26.980]  Can you grab some cinnamon Dammit's when you're at HGTV?
+[57:28.120 --> 57:29.980]  I don't know why that's so funny to me.
+[57:32.660 --> 57:33.140]  Dammit's.
+[57:33.580 --> 57:36.840]  I try clicking on this thing and it's like, oh, this Flickr account's gone.
+[57:37.080 --> 57:39.240]  Oh, so Dammit's is a specific type of food?
+[57:39.780 --> 57:41.220]  No, it can't be.
+[57:41.920 --> 57:45.400]  It looks like a chocolate dozzled cornbread or something.
+[57:46.740 --> 57:47.220]  Chocolate.
+[57:48.200 --> 57:49.520]  Looks like a choccy top.
+[57:50.520 --> 57:53.740]  Please just give me the damn recipe is the first response.
+[57:55.920 --> 57:56.660]  That's funny.
+[57:56.860 --> 57:57.840]  Yeah, I don't see anything.
+[57:57.920 --> 57:59.320]  I don't see any recipes for Dammit's.
+[58:00.780 --> 58:02.240]  Gracie has made another pic.
+[58:02.540 --> 58:04.120]  Oh, she picked.
+[58:04.540 --> 58:05.400]  I don't even know.
+[58:05.500 --> 58:08.000]  She just sent me a picture and said whatever this is called.
+[58:08.100 --> 58:10.100]  And it's those little bread twists.
+[58:10.360 --> 58:11.540]  I don't know what they're called.
+[58:11.740 --> 58:12.260]  What are they?
+[58:12.680 --> 58:12.780]  Bread twists?
+[58:13.060 --> 58:17.280]  Like the little, they're like Chex Mix things.
+[58:20.600 --> 58:21.140]  Hang on.
+[58:21.200 --> 58:21.380]  Oh.
+[58:22.000 --> 58:22.420]  What are they?
+[58:22.900 --> 58:25.440]  I'm trying to think of like how to even describe them.
+[58:25.520 --> 58:26.440]  Like what they're called.
+[58:27.280 --> 58:32.420]  Maybe like trail mix bread twist.
+[58:32.680 --> 58:35.140]  I mean, I definitely searched exactly that.
+[58:35.340 --> 58:43.740]  I will drop a photo into the Discord just because it was not as easy.
+[58:43.900 --> 58:44.660]  Is it like the grain?
+[58:44.800 --> 58:46.280]  Like the whole grain type thing?
+[58:46.420 --> 58:47.800]  The grain crosses?
+[58:48.460 --> 58:49.240]  It's those.
+[58:49.580 --> 58:50.060]  Oh, those.
+[58:50.660 --> 58:51.240]  Yeah, those.
+[58:51.340 --> 58:52.960]  Immediately you knew what they are.
+[58:53.020 --> 58:56.080]  It's just that I don't know what they're called.
+[58:56.440 --> 58:57.000]  Utz.
+[58:57.380 --> 58:57.900]  What?
+[58:58.500 --> 58:59.240]  Aren't they Utzes?
+[58:59.740 --> 59:01.340]  Oh, Geoff knows all about Utz.
+[59:01.980 --> 59:03.300]  Does Utz sell those?
+[59:03.540 --> 59:04.320]  I do know about Utz.
+[59:04.440 --> 59:04.560]  I think so.
+[59:05.780 --> 59:08.020]  When I got ucked in that fucking alphabet.
+[59:11.460 --> 59:14.080]  That's very similar shape-wise to Andrew's books.
+[59:14.160 --> 59:14.800]  That'll be interesting.
+[59:15.120 --> 59:17.880]  Oh, they're like little pretzels is what they are.
+[59:18.720 --> 59:19.440]  These are...
+[59:20.080 --> 59:20.560]  Honey...
+[59:20.560 --> 59:23.020]  Yeah, they're the twists.
+[59:23.720 --> 59:26.360]  I looked up twist of bread and it was not helpful.
+[59:29.180 --> 59:31.280]  Just some twisted loaves.
+[59:31.500 --> 59:33.660]  I'm afraid that might be overpowering in the mix.
+[59:35.780 --> 59:38.140]  It's so twisted to the Joker, that's regular bread.
+[59:42.940 --> 59:45.120]  I'm having a hard time imagining this as a mix.
+[59:45.220 --> 59:51.080]  I kind of want to buy each item and just mix them up and put them in a transparent bag just to see if it looks good as a mix.
+[59:51.080 --> 59:55.960]  The next time we're together, we're gonna have to eat the first regulation trail mix together.
+[59:56.400 --> 01:00:02.380]  I love that idea, but Gavin just described buying any trail mix. I don't understand what he meant by that.
+[01:00:02.640 --> 01:00:03.580]  I don't think he does either.
+[01:00:04.120 --> 01:00:07.920]  How do you buy each part and then you put it in one bag?
+[01:00:08.640 --> 01:00:10.480]  You buy each part and put it in one bag?
+[01:00:10.800 --> 01:00:16.720]  Yeah, like you go to a grocery store if you're making your own trail mix and they sell each thing individually.
+[01:00:16.740 --> 01:00:18.480]  I've never made my own trail mix.
+[01:00:18.520 --> 01:00:18.840]  Clearly.
+[01:00:19.000 --> 01:00:19.840]  You just did today!
+[01:00:20.600 --> 01:00:21.000]  Yeah.
+[01:00:21.540 --> 01:00:24.180]  What I don't understand is you said it like it was a weird thing.
+[01:00:24.260 --> 01:00:28.680]  You're like, I'm gonna buy each part of these and then put them in one bag and just see how it looks.
+[01:00:29.000 --> 01:00:29.880]  I've never done that.
+[01:00:30.480 --> 01:00:32.220]  But that's what trail mix is.
+[01:00:32.620 --> 01:00:35.400]  I've bought trail mix in like a bag of all of it.
+[01:00:36.600 --> 01:00:37.680]  Okay, never mind.
+[01:00:38.280 --> 01:00:41.700]  I don't go into the factory and pre-mix. I've just bought the finished product.
+[01:00:42.560 --> 01:00:47.740]  Even if you buy it pre-bought, that's what trail mix is. It's all the items put together in one thing.
+[01:00:47.740 --> 01:00:51.080]  Yeah, you're saying my point.
+[01:00:54.780 --> 01:00:56.180]  What are you saying?
+[01:00:58.100 --> 01:01:03.160]  Thanks so much for listening to The Regulation Podcast. We really appreciate you guys coming through.
+[01:01:03.460 --> 01:01:06.600]  Patreon.com slash The Regulation Pod. You can check us out.
+[01:01:07.120 --> 01:01:09.320]  Regulation Gameplay, check out the podcast.
+[01:01:09.980 --> 01:01:13.740]  Gift a sub to a friend at Patreon.com slash The Regulation Pod slash Gift.
+[01:01:13.960 --> 01:01:16.520]  Guys, this has been such a monumental one.
+[01:01:16.520 --> 01:01:18.760]  We even gave you a preview of regulators.
+[01:01:19.660 --> 01:01:23.160]  They are making the same point and we will see you guys next time.
+[01:01:23.180 --> 01:01:26.540]  Do you guys go in the supermarket and make your own one?
+[01:01:26.680 --> 01:01:32.080]  It would be like ordering a pizza, like making your own pizza and putting your own pepperoni on it.
+[01:01:32.140 --> 01:01:35.240]  Be like, I gotta see how this looks. I don't know. This is gonna be crazy.
+[01:01:35.540 --> 01:01:35.860]  What do you mean?
+[01:01:36.660 --> 01:01:41.500]  Hey audience, let us know if you want to buy a not for sale sign. We'll see you next time.
+[01:01:41.620 --> 01:01:44.840]  I've had a pepperoni pizza before. I've never had all this mix of shit.

@@ -12,7 +12,7 @@ function calculateShow(info, item) {
   if (info.channel === "Regulation Gameplay") return "Regulation Gameplay";
   if (info.channel === "Regulation Podcast") {
     const uploadDate = info.upload_date ? new Date(parseInt(info.upload_date.substring(0,4)), parseInt(info.upload_date.substring(4,6)), parseInt(info.upload_date.substring(6,8))) : null;
-    return (uploadDate > new Date(2024,4,8)) ? "Regulation Podcast" : "F**kface Podcast"; 
+    return (uploadDate > new Date(2025,4,8)) ? "Regulation Podcast" : "F**kface Podcast"; 
   }
   return "No-Show-Found-Error";
 }
@@ -60,7 +60,7 @@ const ytDlp = new YtDlpWrap(config.ytDlpPath);
 const forceRetranscribe = process.argv.includes('--force');
 
 const sanitizeFilename = (name) => {
-  const withSeparators = name.replace(/\s*[\\/|]+\s*/g, ' - ');
+  const withSeparators = name.replace(/\s*[\\/|*]+\s*/g, ' - '); // Added * to sanitization
   const sanitized = withSeparators.replace(/[^a-zA-Z0-9\s\-_\[\]\(\)]/g, '');
   return sanitized.replace(/\s+/g, ' ').trim();
 };
@@ -81,7 +81,6 @@ async function main() {
   const workQueue = [];
   const recoveredTitles = new Set();
   
-  // --- NEW: Recover in-flight items from previous run ---
   const tempFiles = await fs.readdir(tempAudioDirPath);
   const manifestFiles = tempFiles.filter(f => f.endsWith('.json'));
   if (manifestFiles.length > 0) {
@@ -163,7 +162,6 @@ async function producerLoop(items, queue) {
         itemInfo, finalTitle, show, episode_number, category, baseFilename, tempAudioPath, source: item.source
       };
 
-      // --- NEW: Save manifest file for resumability ---
       await fs.writeFile(`${tempAudioPath}.json`, JSON.stringify(workItem, null, 2));
 
       queue.push(workItem);
@@ -203,8 +201,12 @@ async function consumerLoop(queue, isProducerDone, results) {
 async function processDownloadedFile(workItem, logPrefix) {
   const { itemInfo, finalTitle, show, episode_number, category, baseFilename, tempAudioPath, source } = workItem;
   
-  const showDir = path.join(baseTranscriptionDir, show);
+  // --- FIX: Sanitize the show name before creating a directory path ---
+  const sanitizedShowName = sanitizeFilename(show);
+  const showDir = path.join(baseTranscriptionDir, sanitizedShowName);
   await fs.mkdir(showDir, { recursive: true });
+  // --- END FIX ---
+
   const transcriptPath = path.join(showDir, `${baseFilename}.txt`);
   
   const newMetadataEntry = {
@@ -244,7 +246,6 @@ async function processDownloadedFile(workItem, logPrefix) {
     console.error(`${logPrefix} An error occurred during processing:`, error.stderr || error.message || error);
     return null;
   } finally {
-    // --- NEW: Clean up both audio and manifest file ---
     await fs.rm(tempAudioPath, { force: true }).catch(() => {});
     await fs.rm(`${tempAudioPath}.json`, { force: true }).catch(() => {});
   }
@@ -277,7 +278,6 @@ async function gatherAndFilterItems(initialMetadata, recoveredTitles) {
   }
 
   return Array.from(uniqueItems.values()).filter(item => {
-      // --- NEW: Exclude items that were already downloaded (recovered) ---
       const alreadyProcessed = titlesFromMetadata.has(item.title);
       const alreadyDownloaded = recoveredTitles.has(item.title);
       return forceRetranscribe || (!alreadyProcessed && !alreadyDownloaded);

@@ -1,0 +1,1243 @@
+[00:15.160 --> 00:19.900]  Gavin, why- how many internets do you have? That's my first question. You have two internets?
+[00:20.420 --> 00:25.520]  There's two connections. Okay. When did that- nevermind, it's fine.
+[00:25.560 --> 00:30.020]  Well I got like a second switch for my office and all that stuff was messed up.
+[00:30.520 --> 00:35.680]  Okay. And you have two internets because you would pull down your internet if it was one?
+[00:35.960 --> 00:38.520]  Like you would get- get throttled or whatever?
+[00:38.520 --> 00:42.820]  Andrew was asking why I'm on a different internet than you if I'm at your house and I told him I-
+[00:42.820 --> 00:45.940]  I've just never heard of multiple internets in your house. I'm not trying to explain your setup.
+[00:46.400 --> 00:49.420]  It's two- it's not two internets. It's one internet but two networks.
+[00:50.080 --> 00:55.180]  Okay. Two VLANs. That makes sense. Yeah. I was just saying it would be funny to have like multiple
+[00:55.180 --> 00:59.820]  internets of different levels. Like the guest bedroom had shitty- the shitty internet.
+[01:00.340 --> 01:04.020]  Well you could do that, right? You could set up like a guest Wi-Fi that has like limits on it.
+[01:04.020 --> 01:08.220]  That's beyond me. I'm just learning what the function keys are, okay? I don't-
+[01:09.020 --> 01:13.580]  You ask me network, I say like CBS. That's a network. I don't know what you're talking about.
+[01:13.680 --> 01:16.220]  I don't know how that works. How did you enjoy your extra long pleasantries?
+[01:17.040 --> 01:21.780]  It was great. It was great, I'd say. I'd say it was good pleasantries. Geoff is
+[01:22.420 --> 01:25.100]  not in the bet- well no, he's in a great setup. He's just a little loud.
+[01:25.580 --> 01:31.040]  Geoff has like, I'm in a club. Can't hear you. Yeah, they were like, hey man, you're a little loud.
+[01:31.520 --> 01:34.420]  What can we do about that? And I was like, we didn't do a fucking thing about it because it's
+[01:34.420 --> 01:41.880]  my setup. And I live in fear of inconveniencing others. And Gavin and Meg were very, very kind
+[01:41.880 --> 01:48.600]  to let me shower- to let my ragtag bunch of refugee Ramses come over and shower at their
+[01:48.600 --> 01:53.900]  house last night. I'm not trying to make their lives difficult in any way. Is this episode-
+[01:53.900 --> 01:57.980]  have we started? Do we need to do a proper intro? Yeah, why don't you- I think Eric is the intro
+[01:57.980 --> 02:06.700]  guy. I got it. This is episode 141, f***face, hosted by Geoff, typically. I think you're the
+[02:06.700 --> 02:09.620]  host. I know it's the comedy triangle, but I think you're the host. You always do the intros. I think
+[02:09.620 --> 02:15.240]  that's the host thing. We are joined, as always, by Geoff, the host, and Gavin, and me, Andrew
+[02:15.240 --> 02:21.180]  Panton. I've had many names, but my name is Andrew Panton. Now we can begin. Episode 141. Why are you
+[02:21.180 --> 02:26.980]  in Gavin's house? Everything's wrecked. Everything is ruined. The place is falling apart, man. Yeah.
+[02:27.980 --> 02:33.120]  What do you mean by that? What happened? Well- What does that mean? Austin had- Austin, the city
+[02:33.120 --> 02:42.280]  of Austin, had two cold days. And because of that, the city died. Really? I don't know how else to
+[02:42.280 --> 02:49.880]  describe it. We- We should say, cold day, it went to minus one. It was literally just teetering
+[02:49.880 --> 02:56.320]  under freezing. Barely froze, but because it was also raining, oh. Oh, it's one two. So,
+[02:56.320 --> 03:00.800]  essentially, what happened, Andrew, is we- we knew we were going to get some cold weather.
+[03:01.580 --> 03:08.740]  I'll say this. I live in fear of Austin freezing, because every time Austin freezes, I lose
+[03:08.740 --> 03:15.320]  expensive plants that I have to pay to replant every year. I spent $9,000 replacing plants that
+[03:15.320 --> 03:20.960]  froze two years ago, right? So, and I take metic- I take meticulous care of my plants,
+[03:20.960 --> 03:27.520]  because every summer, we're in a drought from May until November, and then we get, like, a two-week
+[03:27.520 --> 03:32.440]  period where it freezes twice, and then everything gets frozen and dies. So, I go through the process
+[03:32.440 --> 03:37.400]  of covering everything meticulously, hammering into the ground. Takes me a full eight-hour day
+[03:37.400 --> 03:43.660]  to fully prep my yard for the cold weather, but I do this because I don't want to get bit in the
+[03:43.660 --> 03:50.320]  ass financially again. My fiancé is- you always think, like, who watches local news? People like
+[03:50.320 --> 03:56.940]  my fiancé. My fiancé wakes up every day and watches fucking KXAN and David Yeomans and all the- and
+[03:56.940 --> 04:01.720]  she loves local weather. She grew- I didn't- I didn't know this at first, but she wanted to be a
+[04:01.720 --> 04:06.100]  weather person growing up, and so she's, like, into weather, and so she watches the weather like a hawk.
+[04:06.260 --> 04:10.480]  I watch it like a hawk because I care about my yard, right? Uh, and because we've been through
+[04:10.480 --> 04:15.180]  these freezes before. They were like, yeah, it's gonna get a little cold. It'll get, like- it may
+[04:15.180 --> 04:20.120]  get below freezing for a few hours, but it should be no big deal. So, nobody in Austin covered their
+[04:20.120 --> 04:25.840]  plants. Nobody in Austin did any prep work because it didn't seem like that big a deal, right? And
+[04:25.840 --> 04:32.320]  then it started raining, and it just didn't stop for three days. And what happened was, it got to,
+[04:32.420 --> 04:39.640]  like, 31- 30- 30- 31 degrees. All the trees froze. There was no ice, uh, or there was no snow. It was
+[04:39.640 --> 04:44.640]  just all ice. But because it's the third year in a row of this, and our poor trees haven't had time
+[04:44.640 --> 04:49.080]  to heal and recover because as soon as the freeze is over, they go back into a drought, every tree
+[04:49.080 --> 04:55.620]  in Austin fell. Yeah, I feel like in 2021, it was- it got down to, like, minus 18 Celsius. And then even
+[04:55.620 --> 05:00.220]  just now in December, there was one day where it was, like, minus 10. And this time, because it was
+[05:00.220 --> 05:08.280]  raining and minus one, every single tree in Austin fell down. Oh no! My- my front tree- the tree in my
+[05:08.280 --> 05:15.580]  front yard dropped seven or eight giant branches, hit my fence, ruined a ton of my, uh- well, ruined a
+[05:15.580 --> 05:19.860]  ton of my planting, which is already ruined because nothing got covered. And everything was just-
+[05:19.860 --> 05:26.760]  everything was just rocked in- in ice. It gets worse. So, uh, Tuesday morning, Andrew, I woke up
+[05:26.760 --> 05:31.840]  at about 6 30 in the morning when I heard the transformer pop in the neighborhood. And then
+[05:31.840 --> 05:36.160]  suddenly we lost power. So we lost power at 6 39 a.m. I know that's when I reported it to the city
+[05:36.160 --> 05:41.920]  of Austin. I'll remember that for the rest of my fucking life. And, uh, so my whole street lost
+[05:41.920 --> 05:46.060]  power. It was, like, not- not ideal. Not the end of the world, right? Went back to bed, just figured,
+[05:46.140 --> 05:53.740]  whatever. Uh, at about 9 a.m., I was awakened by a giant crash. Ran out to see my backyard to see
+[05:53.740 --> 06:03.560]  what it was. My neighbor's tree split and fell and ripped my power lines and my internet off my house.
+[06:04.840 --> 06:11.220]  Snapped it all in half. It's shredded. So my backyard has a sp- like, it- look, a pile of
+[06:11.220 --> 06:19.480]  spaghetti that used to be electric wires and internet. Um, I reported that as well. Uh, and, uh, that was
+[06:19.480 --> 06:26.820]  Tuesday at about 9 a.m. And I have heard zero since. And so... Oh, God. It's okay. Like, it's very, very
+[06:26.820 --> 06:31.120]  dangerous. You know, like, I- I remember G.I. Joe, right? Stay away from power lines, don't touch power
+[06:31.120 --> 06:35.400]  lines, also eat apples, not candy bars. Like, I'm pretty sure those are the two big things they would
+[06:35.400 --> 06:39.980]  tell you all the time. Uh, stay away from power lines, eat apples, right? Or a banana. So I'm staying away
+[06:39.980 --> 06:44.360]  from the fucking power lines, even though the power to my street is cut. And so I think I could fuck around
+[06:44.360 --> 06:48.500]  with it, but I'm not going to find out and I'm not going to be unsafe. I'm going to listen to Roadblock
+[06:48.500 --> 06:54.280]  and- and- and Hawk or whoever told me that in G.I. Joe, right? Uh, I think it was- I think it was Roadblock.
+[06:55.020 --> 06:59.880]  However, at some point the city's going to fix the power to the street and then my backyard is going to
+[06:59.880 --> 07:07.200]  turn into the Fourth of July, I assume. Uh, and so I'm just like- I've just been sitting at the house
+[07:07.200 --> 07:15.020]  waiting for the city to come fix my house. And they haven't. And they have just been talking about
+[07:15.020 --> 07:19.840]  how they're overwhelmed and overrun. There's about 150,000 people out of power in Austin right now.
+[07:20.040 --> 07:24.440]  The really shitty thing is- is that they've got- I think they've got like eight- everybody in Austin's
+[07:24.440 --> 07:29.020]  highly attuned to this. There are 87 crews out working 24 hours a day right now to repair the
+[07:29.020 --> 07:34.560]  power lines. Unfortunately, as they're repairing them, more trees are falling. So like, they've
+[07:34.560 --> 07:39.760]  made like 2% of progress in the last day, but they repaired something like 10 or 15% of the lines,
+[07:39.820 --> 07:45.640]  but then more lines keep snapping. Uh, and so, uh, Gavin let me come over last night,
+[07:45.720 --> 07:51.480]  Millie and Emily and I, and shower. And then we went home and uh, and froze for the night.
+[07:51.840 --> 07:56.960]  And then today we said, fuck it. We're getting a hotel. So I have two questions immediately.
+[07:57.160 --> 08:01.640]  Any damage to the house is my first one. Yes. I believe so. The house is damaged?
+[08:01.640 --> 08:07.280]  Uh, I believe- I believe, uh, there's some damage to my roof where one of the limbs hit and knocked
+[08:07.280 --> 08:13.140]  some shingles loose. So I'll have to get a new roof probably. That's no big deal. Insurance will
+[08:13.140 --> 08:18.360]  cover that. I just don't know how much damage- I don't know how easy it is going to be for the
+[08:18.360 --> 08:24.060]  city to repair the electricity to my house. And, you know, my fear is that they- they will come in
+[08:24.060 --> 08:27.800]  and they'll go like, oh, this is a bigger deal than we can do right now. You're- you specifically,
+[08:28.100 --> 08:31.580]  sir, are going to be without power for a little bit longer than everybody else. But I'm also
+[08:31.580 --> 08:35.860]  not in a unique situation. There's a ton- like, you drive around any neighborhood in Austin,
+[08:35.980 --> 08:39.900]  first off, I would say 25 percent of the neighborhood roads are impassable because
+[08:39.900 --> 08:43.860]  of trees laying down. Wow. But even then, you just drive through and like, you just see like,
+[08:43.940 --> 08:50.000]  oh, there- I was, uh, I- I drove Millie by her mom's house today, uh, to go- like,
+[08:50.100 --> 08:54.540]  your mom has power, you can go stay with her, right? And I had to drive around an electric
+[08:54.540 --> 08:59.280]  cable that was just in a street. Oh my god. None of the power- none of- none of the stoplights
+[08:59.280 --> 09:04.260]  worked on any of the roads I drove to get from my house to her house. It's just- it's insane.
+[09:05.000 --> 09:09.760]  I wouldn't be surprised if Austin just shed like a hundred thousand tons of lumber.
+[09:10.600 --> 09:15.940]  Yeah, that's no- that's no joke, man. Because my- so my point of reference for when this happened,
+[09:16.020 --> 09:21.860]  we're in a group text, and I- I'm assuming you texted something, Geoff, and I did not get it
+[09:21.860 --> 09:28.520]  on my end. So the first text I got was from Eric saying, fuck, I'm sorry, do you need anything? I
+[09:28.520 --> 09:32.900]  could drive you guys over something, but I would probably die on the way. I had no- it was a thumbs
+[09:32.900 --> 09:39.320]  up was the previous message from a few days ago. I thought Eric maybe accidentally texted the wrong
+[09:39.320 --> 09:44.000]  place. And then I- I saw a photo or two, so I was just curious- I didn't know the extent of the
+[09:44.000 --> 09:48.380]  damage. I was aware of the wires, uh, being destroyed. But that's terrible. What a shitty
+[09:48.380 --> 09:53.340]  situation to be in. I- what I had done is I sent a video of the damage to my backyard. See, I got
+[09:53.340 --> 09:58.760]  that four- I got it four texts later. I thought that's when it came in. There were four other
+[09:58.760 --> 10:03.580]  texts, and then that showed up. Uh, I guess my second question, and this is a- I don't know how
+[10:03.580 --> 10:09.060]  this would necessarily work. Are you at all worried about the status of things like your fridge?
+[10:09.700 --> 10:14.400]  If, like, the power getting ripped up, could that somehow screw up the electrical system
+[10:14.940 --> 10:20.780]  in the fridge itself? No, I don't think so. Or, like, any appliance. Like a surge, almost. Yeah,
+[10:20.780 --> 10:25.860]  like, did you- is this a surge situation, potentially? I don't- I'm not- I'm not worried
+[10:25.860 --> 10:30.500]  about that. And Nick and, uh, Eric are trying to make me worried about it in the chat right now.
+[10:31.100 --> 10:37.640]  They're- they're definitely piling onto the fear. Uh, however, what is more immediately annoying
+[10:37.640 --> 10:44.200]  is that I- I just bought a brand new fridge. And one of the nice things about buying a new fridge
+[10:44.200 --> 10:48.500]  is you go through the old fridge and you're like, expired, expired, expired. Fuck it, I'm throwing
+[10:48.500 --> 10:54.200]  all this stuff away. We're gonna start fresh. New, you know, like, new essentials, new ketchups,
+[10:54.320 --> 10:59.660]  new everything. And then, uh, and now my fridge has been off for 48 hours. So this morning,
+[10:59.840 --> 11:04.820]  for fun, I did two things for fun today, just to pass the time. The first thing I did was I got up
+[11:04.820 --> 11:08.920]  and I brought my trash can into the house and I threw away everything that I've- that's in my
+[11:08.920 --> 11:13.360]  fridge, in my freezer, uh, that I just spent, you know, the hundreds and hundreds and hundreds of
+[11:13.360 --> 11:18.700]  dollars of fresh groceries, including the fresh groceries I went to the store Monday night to buy
+[11:18.700 --> 11:23.080]  to get ready to be prepared for cold weather, just in case. Could have just chucked it outside.
+[11:23.580 --> 11:27.560]  I- I- I could have, I should have chucked it outside. Although then it would have warmed,
+[11:27.660 --> 11:30.880]  it's like 40 degrees now, it would have warmed up today and I would have nowhere to put it back.
+[11:31.120 --> 11:36.600]  So, and I'm going to a hotel anyway. So, uh, we've been looking at this all wrong, I think. I-
+[11:36.600 --> 11:40.520]  Austin was pretty warm before Geoff got his fridge. It's a- it's an expensive fridge.
+[11:41.200 --> 11:43.300]  You think that he's chilled, Austin?
+[11:45.680 --> 11:50.380]  I'm just bummed that I had to throw away all my fucking brand new ice cream that melted.
+[11:50.800 --> 11:55.820]  I just bought- I bought a- I had all these brand new microwave pizzas I was super excited about.
+[11:56.060 --> 12:01.080]  I had a- all I left is bananas and apples. That's not bad. No, I like bananas and apples. Cosmic
+[12:01.080 --> 12:04.400]  Chris will hold strong. Yeah. Cosmic Chris is the only thing in my fridge right now.
+[12:06.200 --> 12:10.860]  Cosmic Chris and some diet Dr. Peppers. You know, this is what we're going to blame it on,
+[12:10.940 --> 12:18.800]  when it's- when it's mush in a year. So that- that is Geoff's experience in Austin during the
+[12:18.800 --> 12:22.620]  storm. Gavin, how has it been for you? What- what have you suffered? What have you lost
+[12:23.100 --> 12:27.100]  during this time? Uh, well, last time the- when the- with the big freeze happened, I had
+[12:27.100 --> 12:33.860]  no power for four days. Uh, I- I resorted to, um, I think I took 10 shits in pitch black darkness.
+[12:33.860 --> 12:40.900]  Wiping my ass blind. Uh, I- I boiled- well, I boiled a saucepan of water to have a- Why do
+[12:40.900 --> 12:46.520]  you need light to do that? Why is that a- a need light for? I- the area is pretty clear. To check
+[12:46.520 --> 12:51.760]  the bog for wiping. Yeah, man, for wiping. I'm not a blind wiper. We've- we've established this
+[12:51.760 --> 12:55.240]  before. Fair enough. I like to make sure it's all clean down there. Fair enough. I feel like
+[12:55.240 --> 13:00.700]  you can tell. And then on day four, I really wanted a shower, but obviously the- you know,
+[13:00.700 --> 13:06.020]  there's no hot water. So I boiled the biggest saucepan I could find, full of water, uh, poured
+[13:06.020 --> 13:10.460]  it into the bath, a little bit of cold water in there, but I- it took me like 40 minutes to boil
+[13:10.460 --> 13:15.780]  the water. And then I accidentally put way too much cold water in. So I took a bath in about
+[13:15.780 --> 13:22.060]  four inches of lukewarm water. And that was a real down- that was a real low point on day four
+[13:22.060 --> 13:28.180]  without power. Well, that was last time, right? Yeah. What about this time? Absolutely fine.
+[13:28.180 --> 13:33.660]  A hundred percent. It's like nothing's happening outside. And as you may recall from last week,
+[13:34.220 --> 13:38.540]  I'm a stump- or a couple of weeks ago, I'm a stump guy now. I'm getting rid of this stump,
+[13:38.960 --> 13:45.580]  slowly working on it. I just got rid of probably a 40 foot completely dead tree that was in the
+[13:45.580 --> 13:51.700]  middle of my yard. That could have been timed more perfectly. That's incredible. That entire
+[13:51.700 --> 13:56.920]  thing would have come down and probably ripped half the house down. Oh, that's amazing. I just
+[13:56.920 --> 14:02.180]  can't believe it. I've really- based on compared to what happened last time, I've rolled a 10 on
+[14:02.180 --> 14:08.100]  luck. That's amazing. Yeah, I'd love to hear how Nick and Eric are doing. Yeah. Eric has a bad
+[14:08.100 --> 14:11.520]  setup, so he doesn't want to really chime in all that much. He said before in the pleasantries.
+[14:11.800 --> 14:16.040]  And Nick, I don't know what your situation is. Way better this time. Way better. He's not in
+[14:16.040 --> 14:21.860]  the mosque. Nope. Good call. No, not now. Oh, wait. Is that your guess? Did you waste it? No,
+[14:21.940 --> 14:25.460]  you said- that was it? No, I think he's just stating it. I think that was a statement. I don't
+[14:25.800 --> 14:30.720]  have a giant tree out front and I can hear it cracking and it's kind of over the house. So
+[14:30.720 --> 14:35.700]  every once in a while I'll go out there and just watch as it slowly, surely fades over the windows
+[14:35.700 --> 14:39.600]  and I'm like, that's going to be bad. But it's melting now. So thank God for that. We didn't
+[14:39.600 --> 14:44.840]  lose power, though. So good. I'm glad. I'm glad to hear that everybody else is having such a good
+[14:44.840 --> 14:49.620]  time. No, I'm not. I'm not angry. I'm being serious, because when we had the really, really
+[14:49.620 --> 14:54.040]  bad storm two years ago and everybody lost power for like a week and then the last one, I didn't.
+[14:54.040 --> 15:01.200]  I was fine the whole time. I felt guilty. So I feel like this is my comeuppance for having such
+[15:01.200 --> 15:07.520]  an easy time previously. It's just such a funny comparison of I feel like you're looking out your
+[15:07.520 --> 15:13.300]  window, just calculating the absurd cost of repairing your yard while Gavin is inviting
+[15:13.300 --> 15:18.120]  me to play Warzone. Like those are the two different experiences of those days. Yeah,
+[15:18.160 --> 15:22.580]  but alternatively, if it was a normal day, I would be looking out my window wondering I'm
+[15:22.580 --> 15:26.720]  not getting invited to Warzone while you were inviting Gavin to Warzone.
+[15:27.320 --> 15:33.440]  No, I don't invite Gavin. Either way, it sucks for me. Well, I just want to play Warzone all the
+[15:33.440 --> 15:38.440]  time. It must be really annoying. No, I don't think it's annoying. Geoff, are you annoyed by
+[15:38.440 --> 15:42.880]  all the invites that Gavin sends you to play Warzone? I've yet to receive one, but if I were
+[15:42.880 --> 15:48.660]  to get one, I would fucking jump at the chance. I invited you before you played with us. I invited
+[15:48.660 --> 15:53.460]  you again. You were busy. The next invite, you don't have power. No, no, no, no, no, no. What
+[15:53.460 --> 15:58.100]  happened was we played together one night. You guys invited me in an episode. I heard it the
+[15:58.100 --> 16:03.820]  other day and I was like, absolutely. We played. We had the bathroom strategy. It was hilarious.
+[16:04.040 --> 16:08.660]  We all agreed it was the funniest shit, the most fun we'd had in a long time. We talked about how
+[16:08.660 --> 16:13.120]  we want to make video game content for F*** Face now and how suddenly we're now we're like wanting
+[16:13.120 --> 16:17.760]  to make Let's Plays and fucking Call of Duty. And then we all agreed to play the next day. You were
+[16:17.760 --> 16:20.880]  like, are you guys going to play on Saturday? Let's play Saturday. And I was like, I am fucking down.
+[16:21.160 --> 16:24.040]  Just let me know. And then I haven't heard anything since now.
+[16:25.880 --> 16:27.300]  Well, let's know when your power's back on.
+[16:30.640 --> 16:35.180]  You guys have played Call of Duty 19 times since we played together and I have been invited to zero.
+[16:37.220 --> 16:42.540]  I will say that last Call of Duty didn't go well for me, Geoff. You were busy. That was the night
+[16:42.540 --> 16:49.120]  you had plans. You can play with us. Nick was busy. I finished playing with Gavin. And as soon
+[16:49.120 --> 16:55.180]  as we wrapped up, I got a text that said, your credit card limit has been exceeded.
+[16:56.560 --> 17:01.660]  You might want to look into this. And I was alarming considering I hadn't made any purchases.
+[17:02.020 --> 17:07.520]  I hadn't used my credit card in that month. Somebody had my credit card information stolen
+[17:07.520 --> 17:13.520]  and they run up a bunch of charges. I'm going to post a photo in our chat.
+[17:14.240 --> 17:17.240]  So I checked. I was like, well, wait, what what happened?
+[17:17.420 --> 17:21.600]  Was it pills and supplements? No. Is that your guess? Geoff,
+[17:21.700 --> 17:24.660]  do you have a guess for what the product is? What some of the products will be?
+[17:25.300 --> 17:30.840]  I think it's I think it's shoes. I think people are buying like you think shoes.
+[17:31.240 --> 17:35.040]  OK, my last one was like holistic medicine and supplements.
+[17:35.040 --> 17:40.500]  So I'm going to post this. Just read what this isn't going to go out to the public,
+[17:40.620 --> 17:45.060]  but just read what the product is for what the bulk of the charges are.
+[17:45.440 --> 17:49.700]  Are you fucking serious? I don't even know this.
+[17:50.180 --> 17:55.260]  Somebody stole your credit card and bought one million pillows.
+[17:56.440 --> 18:03.460]  It's like a thousand dollars worth of pillow charges for this company. The company is a front.
+[18:03.460 --> 18:08.340]  It's a website that was made 30 days ago and their phone number leads to an auto mechanic shop.
+[18:08.480 --> 18:13.660]  The whole thing is set up. So what do you do? Does the credit is your car? Are you fucked?
+[18:13.820 --> 18:16.400]  Are you going to get your money back? I'm kind of fucked. So, yeah, like I called
+[18:16.400 --> 18:18.960]  and I'm going through the process of having to report it.
+[18:19.220 --> 18:23.100]  I can't believe they contacted you about fraud because you're the pillow guy.
+[18:23.180 --> 18:27.340]  That looks like a normal statement. They didn't. That's what I got a text,
+[18:27.440 --> 18:29.920]  an automated text saying, hey, you're over your limit.
+[18:30.240 --> 18:32.740]  And I was like, what? I didn't make any purchases.
+[18:32.740 --> 18:37.020]  So then I looked at my credit card statement and I saw those.
+[18:37.120 --> 18:40.640]  And I had a genuine double take where I know I haven't bought pillows,
+[18:40.780 --> 18:43.480]  but I thought, did I somehow spend a thousand dollars of pillows?
+[18:43.880 --> 18:47.320]  Also, like the worst fraud to have happened to me,
+[18:47.320 --> 18:52.960]  because nobody's going to believe I didn't spend that without it'd be like if you got your card
+[18:52.960 --> 18:59.520]  stolen, Gavin, and someone bought a bunch of slow-mo cameras, it's impossible.
+[18:59.520 --> 19:03.760]  So I had to call and I'm in the process. They're investigating.
+[19:03.920 --> 19:07.860]  But I thought of all the fucking things. It's a thousand dollars worth of pillow.
+[19:08.000 --> 19:11.120]  I don't need any more pillows. I'm always up for more pillows.
+[19:11.180 --> 19:15.160]  I think the only thing more insane than that would have been if it was waffle mix.
+[19:15.260 --> 19:18.160]  But I think pillows. That was one and two.
+[19:18.380 --> 19:22.120]  Do you think this was just like complete and total happenstance?
+[19:22.440 --> 19:24.580]  Or do you think the people who stole your credit card,
+[19:24.660 --> 19:26.740]  like got access to your statement? We're like, oh,
+[19:26.780 --> 19:28.460]  we'll do the pillow thing and nobody will ever know.
+[19:28.460 --> 19:32.040]  I think it's a complete coincidence because half the charges are to someone else.
+[19:32.240 --> 19:35.280]  And I did a little bit of research into this, and it's like a weird
+[19:35.740 --> 19:40.200]  front. And I think it's just going to somebody's bank account that they've labeled as a business.
+[19:40.680 --> 19:43.360]  But I just couldn't believe it. I thought of all the things.
+[19:44.060 --> 19:46.180]  I'm a big pillow. I'm not that big of a pillow guy.
+[19:46.860 --> 19:50.980]  The total cost of pillows under my bed far exceeds under a thousand dollars.
+[19:51.440 --> 19:55.100]  Do you think your total pillow spend is less than one of these pillows?
+[19:55.660 --> 20:00.120]  One of these orders? Yeah, for sure. I think I'm under $340 for all my pillows.
+[20:00.440 --> 20:04.000]  Across time, I got some old pillows. All the pillow orders soon be coming in
+[20:04.000 --> 20:07.160]  around $340 from what I can see. Around there, yeah.
+[20:07.360 --> 20:10.220]  That must be a nice ass pillow or a lot of pillows.
+[20:10.860 --> 20:14.120]  I think they were like, I went on the fake website they have and just like
+[20:14.120 --> 20:20.600]  shitty throw pillows. So it's like buying a million awful throw pillows would be what you have.
+[20:21.300 --> 20:23.160]  Yeah, that was just a shock. I couldn't believe it.
+[20:23.160 --> 20:25.100]  That sucks. And I'm sorry to hear that.
+[20:25.540 --> 20:29.700]  That's OK. It's going to get sorted out. I hope we'll find out in like 10 days.
+[20:29.880 --> 20:32.460]  I couldn't believe how long it takes for them to deal with that
+[20:32.460 --> 20:35.520]  because I called immediately and they're like 10 to 20 business days.
+[20:35.860 --> 20:37.700]  So I just don't have a credit card for a month.
+[20:37.820 --> 20:40.260]  Essentially, they they probably just give themselves that buffer.
+[20:40.340 --> 20:41.240]  It probably won't take that long.
+[20:42.040 --> 20:44.640]  We'll see. We're probably on like day four or five.
+[20:45.240 --> 20:48.240]  This is not I mean, I'm not even this year's I'm a blanket guy.
+[20:48.380 --> 20:50.640]  We established this is a year for big blanket for me.
+[20:50.640 --> 20:58.600]  And I feel like I made the turn because I said 2023 is the year I become a big blanket guy.
+[20:58.680 --> 21:01.400]  There's been some misunderstanding of what I mean by that.
+[21:01.840 --> 21:05.860]  Some people think I'm into super large blankets, like literally big blankets.
+[21:06.400 --> 21:07.560]  Some people think I want them stacked.
+[21:07.760 --> 21:09.940]  You offered a weighted blanket at the time, Geoff.
+[21:10.180 --> 21:13.880]  I feel like I have figured out a way to describe what I actually want.
+[21:13.960 --> 21:18.760]  Well, my actual goals are of my blanket year, you know, in football.
+[21:18.760 --> 21:21.260]  And maybe people here don't don't know.
+[21:21.380 --> 21:25.380]  But there's like two primary schemes defensively in football.
+[21:25.860 --> 21:28.940]  I'll post a photo. So there's man to man coverage, right?
+[21:29.420 --> 21:32.480]  And that's a simple where every player, Gavin, you can tell me if this makes sense
+[21:32.480 --> 21:34.320]  to somebody who doesn't know football at all.
+[21:34.320 --> 21:36.680]  If this translate, there's a man to man defense.
+[21:36.860 --> 21:38.400]  So everyone's mocking someone else.
+[21:38.780 --> 21:40.760]  So everybody covers one guy.
+[21:41.160 --> 21:43.300]  That's their guy. They got to protect them.
+[21:43.360 --> 21:44.700]  They're on them. They're covering them.
+[21:44.980 --> 21:46.720]  That's my current blanket situation.
+[21:46.720 --> 21:52.280]  Every blanket has a role and it's just to be on top of me or my partner.
+[21:52.460 --> 21:54.780]  It's just very clear. There's not there's not a lot going on.
+[21:54.840 --> 21:56.640]  But I want to move into... go ahead.
+[21:57.620 --> 21:59.380]  What has that got to do with every...
+[21:59.380 --> 22:01.520]  How many blankets are covering you specifically?
+[22:02.000 --> 22:03.660]  Right now, it's two or three.
+[22:03.900 --> 22:09.100]  So that's nothing like your diagram, because every individual man is on an individual other man.
+[22:09.540 --> 22:14.740]  My point is that the blanket has a role and it's just to be on one person.
+[22:14.740 --> 22:17.140]  That's its job. It doesn't move out of that zone.
+[22:17.300 --> 22:17.880]  It's there.
+[22:18.060 --> 22:24.200]  I want to move into a zone blanket scheme, which you can see you have a blanket that
+[22:24.200 --> 22:26.220]  covers different sections of the bed.
+[22:26.340 --> 22:26.840]  That's what I want.
+[22:26.880 --> 22:30.800]  When I say I'm going to be a big blanket guy, I want like eight blankets all in different
+[22:30.800 --> 22:33.080]  areas of the bed that don't move from that area.
+[22:33.380 --> 22:35.200]  Now, let me now let me tell you.
+[22:35.800 --> 22:37.980]  Let me tell you this.
+[22:38.160 --> 22:39.440]  This makes total sense, Andrew.
+[22:39.440 --> 22:45.840]  And I actually, through no choice of my own, I live in a blanket zone.
+[22:46.660 --> 22:47.060]  Really?
+[22:47.520 --> 22:48.040]  You're running the scheme.
+[22:49.100 --> 22:50.680]  I was going to say defense makes no sense.
+[22:51.080 --> 22:57.480]  A zone blanket scheme, because my fiancee, I have learned, is the most complicated sleeper
+[22:57.480 --> 22:57.940]  on earth.
+[22:58.620 --> 22:59.760]  And so I have a...
+[23:00.260 --> 23:01.600]  Let me explain this setup to you.
+[23:01.680 --> 23:03.360]  And then let me tell you if this helps you in some way.
+[23:03.520 --> 23:03.760]  OK.
+[23:03.900 --> 23:06.660]  Because it fascinates me and kind of horrifies me.
+[23:06.660 --> 23:10.760]  When it's time to go to bed at my house, and my fiance likes to go to bed about nine
+[23:10.760 --> 23:11.880]  at the latest, right?
+[23:12.520 --> 23:14.880]  Here's the process for going to bed.
+[23:15.480 --> 23:20.400]  First off, she has a special silk pillow because it's good for her skin.
+[23:20.700 --> 23:25.320]  Like a very special silk pillow that has to be on top of her two pillow situation.
+[23:26.040 --> 23:29.060]  Then she opens the covers and...
+[23:29.060 --> 23:29.400]  Oh, no, no.
+[23:29.700 --> 23:30.160]  Yeah.
+[23:30.160 --> 23:37.840]  She opens the covers and she has this giant like snake pillow, like body pillow, that
+[23:37.840 --> 23:39.620]  has to be in a certain position.
+[23:39.640 --> 23:42.400]  It's like almost like a J, the way she has it laid up.
+[23:42.500 --> 23:45.520]  And the long end of the J separates me from her.
+[23:45.580 --> 23:47.440]  So there's no way I can get to her or touch her.
+[23:48.280 --> 23:49.860]  It's like a defense for her.
+[23:50.180 --> 23:52.360]  Although to her, she says it just is more comfortable.
+[23:52.360 --> 23:57.400]  But I think she's trying to build a like a pillow wall to keep me out, which is fine.
+[23:57.420 --> 23:57.880]  I'm used to it.
+[23:57.880 --> 24:03.080]  Then she turns on her white noise machine.
+[24:03.500 --> 24:06.440]  She has a specific machine for white noise because she has to have white noise.
+[24:06.660 --> 24:13.080]  Then she has a stand up fan that blows on her feet because her feet get cold.
+[24:13.280 --> 24:13.640]  Right?
+[24:13.820 --> 24:14.660]  I respect it.
+[24:15.060 --> 24:15.620]  Then...
+[24:15.620 --> 24:16.080]  That's a move.
+[24:16.320 --> 24:23.820]  Then she has this misting spray that she sprays on the top of her pillows and then on the
+[24:23.820 --> 24:28.440]  bed where she's going to lay in it because it's supposed to be calming and refreshing
+[24:28.440 --> 24:29.080]  or something.
+[24:29.860 --> 24:30.260]  Right?
+[24:30.360 --> 24:31.020]  So she does that.
+[24:32.240 --> 24:34.400]  It's just like a lot of complicated makeup stuff, too.
+[24:34.460 --> 24:36.480]  But I consider that a part of a different situation.
+[24:36.660 --> 24:37.940]  Although sometimes it happens in bed.
+[24:38.300 --> 24:41.440]  You know when you're in Minecraft when you cross into a different biome?
+[24:41.460 --> 24:41.640]  Yeah.
+[24:41.720 --> 24:44.040]  I'm just imagining that like right down the middle of your bed.
+[24:44.240 --> 24:44.940]  Essentially, right?
+[24:44.960 --> 24:45.240]  Essentially.
+[24:45.560 --> 24:48.520]  And so then we've got the white noise machine.
+[24:48.640 --> 24:52.820]  We've got the special spray that she mists on her pillow every night and her bed.
+[24:52.820 --> 24:56.820]  We've got the giant J snake pillow, right?
+[24:57.060 --> 25:03.620]  We've got the fan blowing specifically on her feet in case they get cold.
+[25:03.660 --> 25:10.360]  Then she crawls into the bed in full jammies, by the way, and she lays she gets into the
+[25:10.360 --> 25:15.620]  J pillow to where it's almost it's almost like a baby bop where like her arms are up
+[25:15.620 --> 25:17.060]  and she's like she can't move.
+[25:17.100 --> 25:19.560]  She's like she's essentially a toddler, right?
+[25:19.560 --> 25:26.380]  And then she puts a top sheet over her and then a duvet and then a second duvet that
+[25:26.380 --> 25:27.800]  I have nothing to do with.
+[25:27.880 --> 25:31.340]  This is where we get into the zone because that's too much blanket for me, right?
+[25:32.260 --> 25:36.520]  Then on top of the second duvet, we have a gray blanket that's like a throw.
+[25:36.740 --> 25:38.580]  Now, I do participate in the gray blanket.
+[25:38.980 --> 25:40.200]  So I because that helps.
+[25:40.360 --> 25:42.240]  I just like a little bit of weight on my feet, right?
+[25:43.040 --> 25:47.000]  Then she has this furry white blanket that she puts on top of the gray blanket.
+[25:48.020 --> 25:51.480]  Then she puts the weighted blanket on.
+[25:51.700 --> 25:53.480]  All that's just on her side.
+[25:53.660 --> 25:58.200]  I just have the one the top sheet, the one duvet and the gray throw all that other pile
+[25:58.200 --> 25:58.680]  of stuff serves.
+[25:58.860 --> 26:02.760]  And then with just her face sticking out, you can't even see the rest of her.
+[26:03.440 --> 26:07.920]  She moves around for a little bit like a worm and then has her clothes in her hands like
+[26:07.920 --> 26:13.380]  she takes her clothes off her jammies, but not until she's already in her cocoon like
+[26:13.380 --> 26:14.520]  and then she like wiggles out.
+[26:14.580 --> 26:15.100]  I don't know why.
+[26:15.200 --> 26:15.720]  I don't know why.
+[26:15.820 --> 26:16.880]  I don't I don't know why.
+[26:18.160 --> 26:21.760]  Because I will never understand why she doesn't just take them off before she gets in the
+[26:21.760 --> 26:21.920]  bed.
+[26:22.080 --> 26:23.400]  Then she does all that.
+[26:23.580 --> 26:28.500]  And then then she puts a sleep mask on and then she goes to sleep.
+[26:28.720 --> 26:31.920]  It's like all I've learned is that it's a 30 minute process.
+[26:31.940 --> 26:32.840]  Neither of you are getting out.
+[26:33.000 --> 26:35.840]  I'm fine, but she won't be.
+[26:35.960 --> 26:38.960]  She won't be out of bed by the time I'm in the car down the street.
+[26:41.040 --> 26:45.280]  It is the most complicated sleeping process I have ever seen in my entire life.
+[26:45.300 --> 26:45.760]  I wrote it down.
+[26:45.800 --> 26:46.160]  Let me see.
+[26:46.160 --> 26:47.520]  I'm gonna make sure I cover everything.
+[26:47.760 --> 26:48.280]  Special pajamas.
+[26:48.580 --> 26:49.420]  Yeah, she has special pajamas.
+[26:49.780 --> 26:50.400]  Sprays the pillow.
+[26:50.680 --> 26:51.760]  Arranges special pillows.
+[26:52.080 --> 26:52.840]  Turns on a fan.
+[26:53.260 --> 26:54.220]  Keeps the white noise machine.
+[26:54.620 --> 26:56.160]  Burrows into her her boppy.
+[26:56.440 --> 27:00.340]  Top sheet, duvet, second sheet, weighted blanket, knitted blanket, shimmies, eye mask, touch.
+[27:00.480 --> 27:00.920]  Oh, yeah.
+[27:01.080 --> 27:01.260]  Yeah.
+[27:01.400 --> 27:05.480]  Then the last part is she wants she can't fall asleep unless I touch her back.
+[27:05.820 --> 27:07.620]  So I'll have to like snake my arm.
+[27:07.860 --> 27:09.340]  I have to like it's complicated.
+[27:09.440 --> 27:11.780]  I have to like snake my arm through all these pillows and blankets and stuff.
+[27:11.780 --> 27:16.160]  And then I just put I just physically put my like sometimes just the tips of my fingers
+[27:16.160 --> 27:16.960]  because it's a king size bed.
+[27:17.020 --> 27:18.760]  So I can't even reach her just on her back.
+[27:18.840 --> 27:21.380]  And I have to she she she I don't have to.
+[27:21.500 --> 27:22.100]  I don't have to do anything.
+[27:22.200 --> 27:24.100]  She's not a tyrant, but she's like it helps me sleep.
+[27:24.240 --> 27:27.020]  So then if I just put my hand on her back, then she'll fall asleep.
+[27:27.120 --> 27:30.420]  And then I can get up and go play video games or watch TV in bed or whatever.
+[27:30.560 --> 27:31.180]  And she's wow.
+[27:31.400 --> 27:33.460]  But it takes her about 90 seconds to fall asleep.
+[27:33.880 --> 27:36.600]  Do you have to carefully retract your arm back through the maze?
+[27:36.800 --> 27:40.020]  Well, I was trying to put Millie to sleep when she was a kid and like sneak out of the room
+[27:40.020 --> 27:41.000]  before she woke up.
+[27:41.000 --> 27:42.100]  Yeah, sometimes.
+[27:43.120 --> 27:45.200]  I have a diagram of my sleeping situation.
+[27:45.500 --> 27:45.920]  Let's see it.
+[27:46.040 --> 27:46.300]  Really?
+[27:46.800 --> 27:48.220]  My blanket situation specifically.
+[27:48.620 --> 27:49.300]  Let's see it.
+[27:49.800 --> 27:50.540]  Oh, you're man to man.
+[27:50.640 --> 27:51.740]  You're running a man to man scheme.
+[27:52.120 --> 27:57.360]  And now this diagram is actually what's happening where Meg has a duvet and I have my own duvet.
+[27:57.460 --> 27:57.920]  And that's it.
+[27:59.200 --> 27:59.940]  It's man to man.
+[27:59.960 --> 28:00.700]  You just have your own setups.
+[28:00.940 --> 28:01.400]  I got awesome.
+[28:01.500 --> 28:01.880]  That's awesome.
+[28:02.100 --> 28:03.420]  Same bed, separate blankets.
+[28:03.780 --> 28:09.380]  And we just I'm constantly just like tugging on it because there's cats in the bed.
+[28:09.440 --> 28:10.200]  They're usually in the middle.
+[28:10.200 --> 28:13.340]  So we're both on the dregs of the duvet if we share it.
+[28:13.600 --> 28:16.560]  So I'm like tugging it over me and it like strangles her on the other side.
+[28:16.720 --> 28:20.700]  So we've separated our duvet situation and it's been a winner for us.
+[28:20.960 --> 28:23.980]  Now, have you ever tried having a few blankets on the bed,
+[28:24.160 --> 28:26.700]  like in a variety of places that you could stumble into?
+[28:27.100 --> 28:30.620]  So like keep all the blankets locked in place and then you just relocate around
+[28:30.620 --> 28:31.920]  the bed depending on how you're feeling?
+[28:32.320 --> 28:37.340]  Well, sort of like this was sort of discovered because I had three blankets and I moved my arm
+[28:37.340 --> 28:38.940]  and I accidentally went to a different blanket.
+[28:38.980 --> 28:40.060]  And I was like, this is kind of nice.
+[28:40.060 --> 28:41.240]  This is an unusual thing.
+[28:41.540 --> 28:46.840]  Like I want the experience to move my foot and be met with unexpected fleece is what I want.
+[28:46.900 --> 28:48.020]  Like, I think that's really nice.
+[28:48.120 --> 28:49.360]  Just wherever you like layers.
+[28:50.360 --> 28:53.680]  Yeah, it doesn't even have to necessarily be just like I want to
+[28:53.680 --> 28:55.560]  feel a different thing I wasn't expecting.
+[28:55.680 --> 28:56.860]  I want to be like, oh, I'm going to adjust.
+[28:57.040 --> 28:58.660]  Oh, what's that there?
+[28:58.820 --> 28:59.960]  That's a nice blanket right there.
+[29:00.000 --> 29:00.580]  That's cozy.
+[29:01.120 --> 29:02.020]  That's what I want.
+[29:02.700 --> 29:03.420]  That's my goal.
+[29:03.720 --> 29:04.960]  I feel like you should try that.
+[29:05.020 --> 29:07.740]  I respect your system, but you should innovate a little.
+[29:07.740 --> 29:11.560]  Does the zone system, is it just covering different parts of your body or is your
+[29:11.560 --> 29:13.600]  entire body moving in and out of zones?
+[29:14.040 --> 29:17.140]  My bed or I'm moving in and out of zones all the time.
+[29:17.280 --> 29:17.820]  I'm moving.
+[29:17.820 --> 29:21.140]  So how many changes per night?
+[29:21.400 --> 29:23.000]  Do you go to all zones every night?
+[29:23.360 --> 29:24.180]  Not all zones.
+[29:24.320 --> 29:28.100]  I'm not doing a full spin like a fucking clock, but I'm getting around.
+[29:28.320 --> 29:29.300]  I'm getting the bottom right.
+[29:29.400 --> 29:30.720]  Maybe part of the bottom left.
+[29:30.920 --> 29:31.760]  I'm in the middle.
+[29:31.900 --> 29:32.360]  I'm at the top.
+[29:32.440 --> 29:33.220]  I'm moving all around.
+[29:33.660 --> 29:34.720]  Not a full rotation.
+[29:34.720 --> 29:38.980]  Because of this description of your sleeping, I know what your bed looks like, but now I'm
+[29:38.980 --> 29:41.500]  imagining it's like 10 meters wide.
+[29:41.780 --> 29:44.360]  There's no way what you're saying makes any sense with these zones.
+[29:45.580 --> 29:46.560]  I'll track it.
+[29:46.780 --> 29:48.580]  We'll set up zones in my bed.
+[29:48.640 --> 29:52.160]  I'll put markers down and I'll tell you how many zones I enter in one night.
+[29:52.300 --> 29:53.360]  It's going to be a few.
+[29:53.840 --> 29:55.100]  I'm going to be in a few zones.
+[29:55.540 --> 29:56.480]  I want like a heat map.
+[29:57.600 --> 30:00.220]  Yeah, like those Halo 2 kill maps.
+[30:00.600 --> 30:01.900]  Yeah, you'll see.
+[30:02.280 --> 30:03.100]  We'll figure out where I'm at.
+[30:03.100 --> 30:06.120]  Um, so now you're going to a hotel, Geoff.
+[30:06.160 --> 30:07.560]  How does that change her routine?
+[30:07.920 --> 30:09.220]  Does she bring the fan with her?
+[30:09.360 --> 30:11.000]  Like, what is it disrupted?
+[30:11.520 --> 30:12.760]  Will she just not sleep well?
+[30:13.380 --> 30:14.420]  Like, what is that process?
+[30:14.840 --> 30:17.540]  So, you know, we from time to time stay in hotels.
+[30:18.360 --> 30:24.840]  She will bring her iPhone and she has a white noise or I think it's brown noise.
+[30:24.940 --> 30:30.680]  She likes I can't remember, but a specific app that she pays for that will do the white noise.
+[30:31.080 --> 30:36.100]  She will request 300 blankets from the front desk.
+[30:36.400 --> 30:38.800]  Like the second we get into the room, she'll call the front desk.
+[30:38.980 --> 30:39.840]  She goes straight to that.
+[30:39.980 --> 30:42.740]  She goes straight to the closets and she looks for the extra blankets.
+[30:42.940 --> 30:44.940]  And if there's none, she's not happy.
+[30:45.000 --> 30:46.340]  If there's like one or two, she'll grab them.
+[30:46.400 --> 30:49.640]  And she will still call down the front desk and say, can you bring up some extra blankets?
+[30:49.780 --> 30:51.260]  And then she'll just make do.
+[30:52.100 --> 30:53.400]  She'll still have the sleep mask.
+[30:53.560 --> 30:57.800]  I don't think she'll have the spray, the gentle spray that she puts on the pillow that's supposed
+[30:57.800 --> 31:00.780]  to calm her because I packed for her today because she had to go to work.
+[31:00.900 --> 31:03.940]  So I don't know what that is and I didn't pack it.
+[31:04.040 --> 31:05.480]  It's also pitch black in my bedroom.
+[31:06.080 --> 31:06.720]  But she'll make do.
+[31:06.960 --> 31:07.440]  She'll make do.
+[31:07.520 --> 31:08.180]  It won't be the same.
+[31:08.260 --> 31:09.140]  It'll be a modified version.
+[31:09.240 --> 31:10.540]  She won't have her big J pillow.
+[31:11.580 --> 31:18.800]  But anyway, it's fun that you brought this up because sleep is something that I've been
+[31:18.800 --> 31:20.220]  thinking about getting into with Uniform.
+[31:20.560 --> 31:22.300]  I've had a lot of ideas.
+[31:22.400 --> 31:27.060]  I've actually got a lot of notes written down for potential sleep products
+[31:27.680 --> 31:30.140]  that I think Uniform could get into.
+[31:30.340 --> 31:31.480]  I'll be honest.
+[31:31.540 --> 31:34.080]  I'm not prepared to go into it today.
+[31:34.240 --> 31:35.860]  I didn't think we were going down this road.
+[31:36.040 --> 31:37.060]  It was like a future note.
+[31:37.860 --> 31:41.320]  I may have been prepared if fucking Austin hadn't died on Tuesday.
+[31:42.460 --> 31:43.180]  But uh...
+[31:43.180 --> 31:45.520]  Can I just ask, is there anything edible with these pillows?
+[31:45.520 --> 31:46.500]  Oh, it's all like some ham.
+[31:46.520 --> 31:47.120]  No, it's not edible.
+[31:47.180 --> 31:47.980]  It's all edible.
+[31:48.200 --> 31:48.800]  It's not edible.
+[31:49.160 --> 31:51.120]  But what it is, but it's all named after food.
+[31:51.720 --> 31:53.520]  I'm gonna, I'll just throw some stuff out there.
+[31:53.520 --> 31:59.760]  What if I told you, you would sleep, you would have the best night of sleep in your life
+[31:59.760 --> 32:01.980]  if you slept in Uniform, by the way, Uniform.
+[32:02.100 --> 32:03.440]  Combining the power of one with the fabric of the form, Uniform.
+[32:05.080 --> 32:06.280]  Uniform sleep spaghetti.
+[32:07.800 --> 32:10.340]  You don't even, you don't even know what sleep spaghetti is.
+[32:10.540 --> 32:12.960]  But when I invent it, it's going to rock your world.
+[32:13.600 --> 32:16.860]  I feel like it's a bunch of like pool noodles, but for the bedroom.
+[32:17.380 --> 32:18.200]  That's in my head.
+[32:18.500 --> 32:22.040]  You're very close to what I'm going to invent, but it'll be even better in person.
+[32:22.040 --> 32:26.700]  Yeah, I've been studying Emily and I'm going to I'm going to improve upon sleep.
+[32:26.840 --> 32:29.680]  I've also got a thing called I'm going to call it a sleep pillow and a sleep pillow
+[32:29.680 --> 32:30.760]  called a sleep pickle.
+[32:31.040 --> 32:32.660]  I think a sleep could be huge.
+[32:32.800 --> 32:33.580]  Sleep spaghetti.
+[32:33.940 --> 32:38.240]  I got tons of tons of ideas, but nothing's like really hammered out yet.
+[32:38.660 --> 32:40.760]  If you had to convert any food into a pillow,
+[32:41.040 --> 32:43.360]  what do you think the ideal food to pillow would be?
+[32:43.440 --> 32:43.740]  Spaghetti.
+[32:44.080 --> 32:44.500]  Fried egg.
+[32:45.000 --> 32:45.720]  Fried egg.
+[32:46.500 --> 32:49.160]  Yeah, I guess like because it's like it goes out, right?
+[32:49.240 --> 32:50.600]  Like you got some room to work with there.
+[32:50.600 --> 32:54.140]  I was thinking watermelon, putting my head in a watermelon to sleep.
+[32:54.260 --> 32:55.160]  I feel like it'd be great.
+[32:55.280 --> 32:56.060]  Like inside?
+[32:56.580 --> 32:59.120]  Yeah, like inside because it'd be all dark and then it's comfy.
+[32:59.260 --> 33:00.200]  It's got that support.
+[33:00.280 --> 33:01.060]  It's kind of squishy.
+[33:01.460 --> 33:04.480]  I feel like that can be relaxed like a like a frozen watermelon.
+[33:04.740 --> 33:06.080]  I think it'd be pretty good.
+[33:06.280 --> 33:06.760]  Allow me.
+[33:06.940 --> 33:07.500]  Allow me.
+[33:07.980 --> 33:10.980]  Allow me to sway your opinion on spaghetti.
+[33:11.420 --> 33:12.060]  Sleep spaghetti.
+[33:12.480 --> 33:13.480]  Let me just say this.
+[33:14.040 --> 33:17.660]  When you think of a meatball, where does that meatball live?
+[33:17.660 --> 33:20.800]  It lives on top of a pile of spaghetti.
+[33:21.320 --> 33:22.020]  All covered in cheese.
+[33:22.220 --> 33:23.140]  All covered in cheese.
+[33:23.360 --> 33:24.460]  I still haven't had one of those.
+[33:25.380 --> 33:31.940]  Have you ever seen a piece of food that looks more comfortable and more cozy in its environment
+[33:31.940 --> 33:32.880]  than the meatball?
+[33:33.060 --> 33:39.240]  The meatball is so nestled in springy, wonderful spaghetti.
+[33:39.480 --> 33:40.580]  It envelops it.
+[33:40.640 --> 33:41.400]  It's warm.
+[33:41.740 --> 33:44.400]  It's like it's all it's essentially like a Tempur-Pedic bed.
+[33:44.400 --> 33:48.960]  You could put like a glass of wine at one end of spaghetti and a meatball at the other
+[33:48.960 --> 33:51.820]  and you could jump up and down in the middle and it wouldn't tip over.
+[33:52.280 --> 33:53.980]  Like sleep spaghetti is the way to go.
+[33:54.160 --> 33:58.920]  You can't name me a fruit that's more comfortable in its environment
+[33:58.920 --> 34:00.840]  than a meatball nestled in spaghetti.
+[34:01.780 --> 34:02.500]  That's tough.
+[34:03.100 --> 34:05.880]  I'll give you 10 bucks if you can balance a wine glass on spaghetti.
+[34:09.400 --> 34:12.320]  I'm all about trying to do it, but it's going to be a little bit for me.
+[34:12.440 --> 34:13.840]  I'm going to need that kitchen again.
+[34:14.900 --> 34:17.560]  Just to set some ground rules for that.
+[34:17.740 --> 34:20.160]  Can he apply the spaghetti the way he wants to?
+[34:20.300 --> 34:25.380]  Or do you mean like he orders spaghetti from a restaurant and then has to attempt to balance?
+[34:25.600 --> 34:26.820]  It has to be from a restaurant.
+[34:28.360 --> 34:29.660]  I think that might be tough.
+[34:29.660 --> 34:31.000]  He has to do it in the restaurant.
+[34:31.600 --> 34:36.380]  But to be fair, I don't think that's a counter to Geoff's idea because it's not like you're
+[34:36.380 --> 34:40.640]  going to have people come in to apply your bed spaghetti for your bed like you get to
+[34:40.640 --> 34:41.880]  do it the way you want to do it.
+[34:41.880 --> 34:45.820]  You could set it up in a way that would be most effective for what your goals are.
+[34:46.040 --> 34:47.480]  I think it would be tough, though.
+[34:47.760 --> 34:55.380]  Just imagine nestling yourself into a bunch of really cozy, long, thin spaghetti-like
+[34:55.380 --> 34:59.280]  pillows that you just like that just envelop around you.
+[34:59.340 --> 35:00.540]  It doesn't sound bad.
+[35:00.540 --> 35:01.480]  You're the meatball.
+[35:01.660 --> 35:05.860]  Just imagine you're the little human meatball poking your head out and you just have a thousand
+[35:05.860 --> 35:09.560]  soft like cotton fingers caressing you.
+[35:09.920 --> 35:11.080]  That's the sleep spaghetti.
+[35:11.080 --> 35:13.080]  Are these weighted spaghetti noodles?
+[35:13.360 --> 35:14.180]  They could be.
+[35:14.500 --> 35:14.920]  They could be.
+[35:15.020 --> 35:16.140]  They absolutely could be.
+[35:16.560 --> 35:19.860]  See, if you get weighted spaghetti noodles, you're never leaving bed in the house.
+[35:20.880 --> 35:21.860]  That's your death.
+[35:22.300 --> 35:24.140]  You can have a lot of dreams about being choked.
+[35:24.820 --> 35:27.740]  What was the guy at a Christmas carol with all the fucking chains on him?
+[35:27.800 --> 35:31.560]  That would be you trying to get up every morning like you're just like being held down like
+[35:31.560 --> 35:32.000]  old man.
+[35:32.080 --> 35:32.660]  Yeah, Marley.
+[35:32.760 --> 35:34.160]  Yeah, that would be you.
+[35:34.500 --> 35:35.840]  I think I just had a thought.
+[35:35.920 --> 35:38.960]  Hot dog, I think, is a pretty cozy food that nestles in.
+[35:39.000 --> 35:39.840]  It's got the bun.
+[35:40.400 --> 35:41.400]  It's in the middle of it.
+[35:41.520 --> 35:42.500]  Yeah, that's pretty cozy.
+[35:42.720 --> 35:43.260]  That's that's true.
+[35:43.360 --> 35:43.620]  Comfy.
+[35:43.700 --> 35:44.220]  It's up there.
+[35:44.300 --> 35:44.700]  Pretty cozy.
+[35:44.940 --> 35:45.580]  I agree with that.
+[35:46.140 --> 35:49.300]  I think the least comfy food fish and chips is what came to mind.
+[35:49.360 --> 35:50.400]  That just seems uncomfortable.
+[35:50.560 --> 35:54.600]  I don't think anyone involved is happy or comfortable in the fish and chips in the box
+[35:54.600 --> 35:55.240]  set up.
+[35:55.660 --> 35:56.700]  Just everything's crammed.
+[35:57.220 --> 36:00.700]  You mentioned something that I actually had a question about, Andrew.
+[36:01.040 --> 36:04.480]  You mentioned a hot dog, and that reminded me the other day.
+[36:04.880 --> 36:05.960]  And I remember this.
+[36:06.040 --> 36:09.480]  I just threw them away today because they're ruined because they were in my freezer.
+[36:09.480 --> 36:16.040]  Emily bought pretzel dogs and they're like they're like corn dogs, but with pretzel.
+[36:16.900 --> 36:17.360]  Yes.
+[36:18.400 --> 36:19.120]  They're great.
+[36:19.220 --> 36:21.340]  If I were to eat a pretzel dog.
+[36:22.300 --> 36:23.660]  Would that count?
+[36:24.820 --> 36:25.860]  As a corn dog?
+[36:26.640 --> 36:27.300]  No, I don't think so.
+[36:27.760 --> 36:28.580]  It's a pretzel dog.
+[36:28.720 --> 36:34.660]  See, I agree, but I was scared that if I ate one before I talked to you guys,
+[36:34.660 --> 36:37.500]  because they looked pretty good, she was making them or she's going to make them.
+[36:37.500 --> 36:40.800]  They look pretty good that I would find out that I had inadvertently
+[36:41.420 --> 36:43.020]  eaten what could be considered a corn dog.
+[36:43.080 --> 36:45.420]  And you guys would nail me to the wall for it.
+[36:46.100 --> 36:48.820]  OK, OK, well, I haven't eaten a pretzel dog pretzel dogs.
+[36:48.960 --> 36:52.340]  But if you if you say it's safe to eat a pretzel dog and it doesn't count as a corn dog,
+[36:52.380 --> 36:53.840]  then I might try a pretzel dog.
+[36:54.280 --> 36:55.320]  It's absolutely safe.
+[36:55.740 --> 36:58.040]  Speaking of eating, I still have salted licorice.
+[36:58.140 --> 36:58.820]  Did we cover that?
+[36:58.860 --> 37:00.080]  I don't think we went over that.
+[37:00.320 --> 37:00.960]  Are you going to go for it?
+[37:00.960 --> 37:01.640]  What happened last week?
+[37:01.860 --> 37:03.260]  Well, I think I'll do it at the end.
+[37:03.320 --> 37:04.180]  Yeah, I'll do it at the end.
+[37:04.180 --> 37:09.660]  So last week we recorded and everybody by everybody, I guess I just mean Eric and I,
+[37:09.680 --> 37:13.140]  we stated, but we're all part of the conversation that the following week
+[37:13.140 --> 37:15.240]  we would record two episodes.
+[37:15.520 --> 37:20.160]  And so as prep for that, I found a bag of double salted licorice.
+[37:20.260 --> 37:23.120]  Like I found a custom, a specialty store that had it.
+[37:23.200 --> 37:25.200]  I bought a giant bags worth of it.
+[37:25.440 --> 37:26.320]  I was all excited.
+[37:26.680 --> 37:31.700]  So we recorded all of the episode last week or the one that you would have heard previously.
+[37:31.700 --> 37:32.980]  And then I thought, great.
+[37:33.260 --> 37:34.440]  It was kind of at the end of the episode.
+[37:34.540 --> 37:36.380]  I don't want to add the licorice segment now.
+[37:36.520 --> 37:37.420]  I'll save it for the second one.
+[37:37.460 --> 37:37.900]  We're doing two.
+[37:38.140 --> 37:43.560]  We wrap up and Geoff and Gavin have no fucking, they've deleted from their brain
+[37:43.560 --> 37:45.220]  that we're supposed to do two.
+[37:45.640 --> 37:49.160]  And then it turns in this whole, we recorded part of it.
+[37:49.260 --> 37:51.980]  I think I know Nick is considering releasing it in some aspect.
+[37:52.120 --> 37:53.420]  I don't know if it's worth putting out.
+[37:53.720 --> 37:55.720]  I guess you'll find out at some point if it's available.
+[37:56.020 --> 37:58.600]  It's just a very angry Eric.
+[37:59.140 --> 38:00.500]  Well, it wasn't that we forgot.
+[38:00.500 --> 38:02.160]  We'd gone back and forth.
+[38:02.240 --> 38:02.920]  And I know you forgot.
+[38:03.160 --> 38:03.340]  Of us.
+[38:03.520 --> 38:04.220]  No, you forgot.
+[38:04.320 --> 38:05.920]  You 100% forgot.
+[38:06.080 --> 38:07.760]  It was zero back and forth.
+[38:08.100 --> 38:09.740]  I don't think I didn't remember.
+[38:10.820 --> 38:11.520]  You forgot.
+[38:11.720 --> 38:14.000]  Geoff, did you forget or did you think we were doing one?
+[38:14.060 --> 38:14.780]  And we talked about it.
+[38:15.080 --> 38:18.980]  I thought we were doing one and that we had discussed it, but had never come.
+[38:19.120 --> 38:21.200]  No, it was, we locked into 100%.
+[38:21.200 --> 38:23.260]  And then you two were just like, what we're doing two.
+[38:23.680 --> 38:24.040]  What?
+[38:24.600 --> 38:25.000]  What?
+[38:25.000 --> 38:25.740]  I'm confused.
+[38:26.040 --> 38:27.520]  Something's clearly not happened well.
+[38:27.640 --> 38:28.180]  What has happened?
+[38:28.180 --> 38:32.160]  And then it turned into you critiquing how Eric does the invites and the calendar.
+[38:32.360 --> 38:33.340]  God damn it.
+[38:33.400 --> 38:33.740]  Damn it.
+[38:33.840 --> 38:36.480]  I was just about to say, let's let Nick answer it.
+[38:36.520 --> 38:37.260]  He's impartial.
+[38:37.320 --> 38:38.040]  I don't trust Eric.
+[38:38.100 --> 38:40.620]  And he fucking wrote that we did lock it in.
+[38:40.940 --> 38:41.280]  Yeah.
+[38:41.560 --> 38:41.920]  Damn it.
+[38:41.980 --> 38:42.260]  All right.
+[38:42.460 --> 38:42.760]  Ty Bray.
+[38:42.880 --> 38:43.240]  Absolutely.
+[38:43.940 --> 38:44.740]  Jacob Marley.
+[38:45.800 --> 38:46.600]  Jacob Marley.
+[38:46.600 --> 38:47.020]  Bob Marley.
+[38:49.760 --> 38:50.560]  Bob Marley.
+[38:50.700 --> 38:51.640]  That's right.
+[38:52.040 --> 38:52.560]  It's a Marley.
+[38:55.400 --> 38:55.800]  Moron.
+[38:55.980 --> 38:56.300]  Let me check.
+[38:56.300 --> 38:57.820]  I've had this.
+[38:58.260 --> 38:59.720]  I've had this salted liquor.
+[38:59.940 --> 39:00.980]  Are you worried about that, Geoff?
+[39:01.080 --> 39:02.440]  Actually, that's a great question.
+[39:02.520 --> 39:04.260]  Am I worried about the ghost of Christmas past?
+[39:04.720 --> 39:05.200]  No.
+[39:06.000 --> 39:06.480]  Yeah.
+[39:07.380 --> 39:08.140]  The carbon dioxide.
+[39:08.400 --> 39:10.420]  Cause Gavin is fucking idiot in his room.
+[39:10.620 --> 39:14.300]  Well, Geoff's in Meg's office and I think it's much better ventilated.
+[39:14.480 --> 39:14.900]  I feel fine.
+[39:15.220 --> 39:19.900]  She did have to say when Geoff sat down to hit start record.
+[39:19.920 --> 39:21.160]  Don't hit start stream.
+[39:21.520 --> 39:23.820]  I just love the idea of Meg going live.
+[39:23.820 --> 39:31.420]  And it's just Geoff's audio of a fucking face recording being streamed live.
+[39:32.260 --> 39:33.840]  It's just me touching stuff on her desk.
+[39:35.460 --> 39:41.160]  People wanting Meg and listening to Geoff talk about bed spaghetti with no context.
+[39:41.400 --> 39:43.080]  With no other side of the conversation.
+[39:43.420 --> 39:46.460]  How much fun is it to say also, sleep spaghetti?
+[39:47.120 --> 39:48.940]  It's like it rolls off the tongue.
+[39:49.100 --> 39:49.500]  It does.
+[39:49.580 --> 39:52.000]  But it also kind of makes you uncomfortable because when I think of noodles,
+[39:52.000 --> 39:54.860]  I think of like kind of cold, kind of wet.
+[39:54.960 --> 39:56.800]  No, what it's going to do, it's going to make,
+[39:57.160 --> 40:00.120]  it's going to make you more comfortable than you've ever been in your entire life.
+[40:00.580 --> 40:01.200]  That's the thing.
+[40:01.280 --> 40:03.820]  I think you're going to end up with so much sleep spaghetti
+[40:03.820 --> 40:05.480]  stuffed down the back of the headboard.
+[40:05.580 --> 40:06.480]  It's going to be all over the floor.
+[40:06.540 --> 40:09.440]  It's going to be, it's going to be a tidy up every morning, I think.
+[40:09.700 --> 40:12.360]  See, I mean, everybody makes their bed every day.
+[40:12.860 --> 40:15.500]  Do you think you'll lose noodles like you do socks?
+[40:15.700 --> 40:18.560]  Like it's just like I'm slowly losing all my sleep spaghetti.
+[40:18.740 --> 40:20.400]  My sleep spaghetti noodles in my head,
+[40:20.400 --> 40:23.000]  they're like four to seven feet long.
+[40:23.160 --> 40:24.120]  They're not going anywhere.
+[40:24.220 --> 40:24.420]  Seven feet?
+[40:25.000 --> 40:25.360]  Okay.
+[40:25.740 --> 40:27.520]  I'm so much more on board for this.
+[40:27.620 --> 40:30.500]  If I could get seven foot sleep noodles that are weighted.
+[40:31.520 --> 40:33.240]  They're going to be wrapped around your neck every night.
+[40:34.340 --> 40:35.340]  Well, you'll like nestle it in.
+[40:35.360 --> 40:36.480]  It's a pillow, you can find a pillow.
+[40:36.680 --> 40:37.060]  You'll be fine.
+[40:37.520 --> 40:39.560]  It's like a ball pit almost in my head.
+[40:39.600 --> 40:41.640]  I feel like you should have for the sleep spaghetti.
+[40:41.660 --> 40:42.260]  Oh, sleep meatballs.
+[40:42.900 --> 40:44.140]  Maybe we're on the wrong side of this.
+[40:44.140 --> 40:45.580]  Maybe it's the balls that are comfortable.
+[40:45.840 --> 40:47.320]  No, but the ball, it's hmm.
+[40:47.780 --> 40:49.000]  Like a ton of sleep balls?
+[40:49.000 --> 40:51.100]  That sounds way more comfortable than spaghetti.
+[40:51.380 --> 40:52.400]  Sleep balls could be good too.
+[40:52.580 --> 40:54.400]  Well, you can't have one without the other.
+[40:54.660 --> 40:55.720]  They're perfect together.
+[40:57.440 --> 40:58.760]  Oh, like a combo deal?
+[40:59.280 --> 41:00.800]  I think you can do sleep balls for the pillow.
+[41:00.940 --> 41:01.860]  Yeah, I think that could work.
+[41:01.940 --> 41:04.000]  You'd need like walls for the bed.
+[41:05.040 --> 41:06.780]  That looks like a kid's playpen.
+[41:09.040 --> 41:11.960]  I don't have a clock in front of me at this setup.
+[41:11.980 --> 41:12.900]  We're 44 minutes in.
+[41:13.000 --> 41:13.200]  Okay.
+[41:14.300 --> 41:16.000]  Yes, we're close to an hour.
+[41:16.220 --> 41:17.540]  Bottom right of the screen, on every screen.
+[41:17.900 --> 41:19.180]  Yeah, I don't know what I'm...
+[41:19.180 --> 41:20.300]  All right, that's a fair point.
+[41:20.440 --> 41:21.700]  We did, I didn't know when we started.
+[41:21.980 --> 41:24.360]  Go ahead, I'm going to shut the fuck up.
+[41:24.700 --> 41:26.000]  Get on a different time zone.
+[41:26.440 --> 41:26.900]  You're good.
+[41:27.100 --> 41:27.540]  You're right.
+[41:27.680 --> 41:28.540]  I'm, I'm, I'm dumb.
+[41:28.960 --> 41:29.540]  You're absolutely right.
+[41:29.540 --> 41:31.680]  So I have, I have a Gavin life hack.
+[41:31.960 --> 41:35.960]  I have a life hack and I don't think, I don't think this is a life hack,
+[41:36.300 --> 41:37.940]  but I think it's a Gavin life hack.
+[41:38.000 --> 41:39.460]  And I want you to like review.
+[41:39.540 --> 41:41.900]  I want you to tell me if you would consider this a life hack.
+[41:42.300 --> 41:42.760]  Okay, are you ready?
+[41:43.080 --> 41:44.080]  Yeah, I'm ready to write this down.
+[41:44.880 --> 41:50.480]  Frozen meals that offer a microwavable option and a cook in oven option
+[41:50.480 --> 41:52.560]  always go with the microwave option.
+[41:52.900 --> 41:55.460]  It's, it's quicker and it tastes just as good.
+[41:55.740 --> 41:56.220]  Interesting.
+[41:56.440 --> 41:57.640]  That is my Gavin life hack.
+[41:57.720 --> 41:58.180]  There's no cons.
+[41:58.300 --> 42:00.300]  I couldn't disagree with you more.
+[42:01.120 --> 42:01.600]  Really?
+[42:03.180 --> 42:03.660]  Always.
+[42:03.860 --> 42:04.500]  Based on what?
+[42:04.600 --> 42:06.220]  Always go with the oven option.
+[42:06.220 --> 42:07.780]  When was the last time you tried it?
+[42:07.800 --> 42:10.260]  I do it, I do it all the time.
+[42:10.680 --> 42:13.620]  You'll get it faster, but it'll be cooked unevenly.
+[42:13.620 --> 42:14.960]  It won't be crisp.
+[42:15.100 --> 42:18.640]  You won't have like, the cheese won't be all melted and crisped up.
+[42:18.660 --> 42:19.020]  I disagree.
+[42:19.420 --> 42:23.180]  Like, you would rather have a pizza from the microwave than from the oven?
+[42:23.660 --> 42:26.640]  First of all, you don't have fucking microwave instructions on a pizza.
+[42:26.700 --> 42:27.040]  Some do.
+[42:27.040 --> 42:28.020]  That doesn't come on a frozen pizza.
+[42:28.120 --> 42:29.840]  I've never seen a frozen pizza.
+[42:30.140 --> 42:31.040]  Like a proper pizza.
+[42:31.140 --> 42:32.000]  Yeah, I've not done a pizza.
+[42:32.160 --> 42:36.980]  But I feel like the reason I'm in the freezer rooting around for old frozen meals is that,
+[42:37.340 --> 42:38.240]  you know, it's gotten late.
+[42:38.320 --> 42:39.260]  I want something quick.
+[42:39.440 --> 42:42.220]  And I don't want to preheat the oven for 20 minutes and cook something for 40.
+[42:42.220 --> 42:45.780]  So to clarify, I was on your side, Geoff, until today.
+[42:46.240 --> 42:48.240]  I had a frozen dinner for lunch.
+[42:48.380 --> 42:51.040]  And I typically put it in the oven because I think I want that cook.
+[42:51.160 --> 42:54.240]  I feel like if they give the instructions for it, it'll be a better experience.
+[42:54.440 --> 42:55.820]  Didn't have the time for it.
+[42:56.100 --> 42:57.920]  Did it in the microwave for the first time.
+[42:58.220 --> 43:00.720]  I think some of it turned out even better in a microwave.
+[43:00.880 --> 43:04.140]  Like the instant mashed potatoes way better in a microwave than it turns out in the oven.
+[43:04.720 --> 43:05.680]  I think this is a way...
+[43:05.680 --> 43:09.360]  I feel like I've wasted hours of my life, across my life,
+[43:09.420 --> 43:11.860]  waiting for ovens to cook a meal I could just have in the microwave.
+[43:11.860 --> 43:15.320]  I think food from the microwave is perfectly acceptable,
+[43:15.660 --> 43:17.960]  but I think it's always better from the oven.
+[43:18.180 --> 43:23.500]  It may not be good enough to be worth the time if in your busy schedule,
+[43:24.080 --> 43:28.100]  but it's going to taste better cooked properly in an oven than it will in a microwave.
+[43:28.660 --> 43:32.880]  I think if you have a mid-microwave stir, it's always better results.
+[43:33.020 --> 43:34.720]  And it equals that of an oven.
+[43:35.060 --> 43:37.460]  It's not as good, but it's like 9 out of 10 of the way there.
+[43:38.020 --> 43:42.800]  There's a lot of like, like frozen lasagnas and shit that I eat that'll have an option
+[43:42.800 --> 43:47.240]  that's like conventional oven, microwave, or like modified version,
+[43:47.320 --> 43:52.820]  where you like cook it in the microwave for like 15 minutes and then finish it off in the oven.
+[43:53.020 --> 43:58.260]  I think that probably gets you pretty similar to a full oven cook.
+[43:58.780 --> 43:59.520]  I don't know.
+[44:00.100 --> 44:00.940]  Yeah, I don't...
+[44:00.940 --> 44:03.580]  I'm not a spaghetti or like lasagna guy for that type of thing.
+[44:03.640 --> 44:04.620]  I'm talking mainly...
+[44:04.620 --> 44:07.700]  You... you aren't a lasagna guy?
+[44:08.320 --> 44:10.680]  I don't like lasagna. I'm not a fan of it. No.
+[44:11.200 --> 44:11.960]  The Garfield guy?
+[44:12.140 --> 44:16.200]  I know. I know. I should. I respect his views on it.
+[44:17.020 --> 44:20.500]  I share equal opinions about Mondays. I feel like that bridges the gap,
+[44:20.600 --> 44:21.880]  but I'm not a big lasagna guy.
+[44:22.100 --> 44:26.780]  Have you just had bad... ah, that's interesting. I wonder why... what don't you like about it?
+[44:26.840 --> 44:30.420]  I don't know. It's like a... I haven't had it in a long time. I just... I didn't...
+[44:30.420 --> 44:33.760]  the sauce wasn't great texturally. I didn't think it was all that appealing.
+[44:33.760 --> 44:36.900]  Here's the thing about lasagna, right? It's never what you're after.
+[44:37.060 --> 44:41.020]  You're never craving it, but it's always fine. That's my opinion on it.
+[44:41.220 --> 44:45.180]  I have a... I'm going to have mac and cheese for dinner tonight. I'm going to put that together.
+[44:45.480 --> 44:47.860]  I have a mix. I want to hear your guys' reaction to it,
+[44:47.900 --> 44:50.820]  because this is just something I do occasionally. It's not something I always do,
+[44:51.240 --> 44:54.180]  but something I do occasionally, and I think it's perfectly acceptable. But
+[44:54.180 --> 44:58.100]  most people I've said this to think it's insane. They haven't done it. They think it's gross.
+[44:58.660 --> 45:00.720]  A little bit of ketchup in the mac and cheese.
+[45:01.380 --> 45:03.740]  Once you reheat it...
+[45:03.740 --> 45:06.500]  You stir in the ketchup. I think it's pretty good.
+[45:06.740 --> 45:10.080]  Gross. And did you draft that ketchup from the fridge?
+[45:10.560 --> 45:11.900]  I do. Typically.
+[45:12.740 --> 45:13.100]  Interesting.
+[45:13.640 --> 45:15.960]  Yeah. I don't get ketchup in mac and cheese. That's the worst.
+[45:16.400 --> 45:18.020]  Is that a thing you've heard of, though, at least?
+[45:18.520 --> 45:19.360]  Yeah. I know lots of people do it.
+[45:20.000 --> 45:23.460]  Fine. Okay. Good. I just felt weird, because I thought that was kind of a common thing,
+[45:23.520 --> 45:25.300]  but the last few people I've told, they were like,
+[45:25.320 --> 45:27.340]  I've never fucking... Who would do that? It's insane.
+[45:27.540 --> 45:32.340]  You know, I got to say, Andrew, I think that if I were going to draft a list of
+[45:32.800 --> 45:36.860]  the most universally loved, safest foods,
+[45:37.220 --> 45:41.080]  like, where you'd put it on a table and 99 out of 100 people are going to go like,
+[45:41.140 --> 45:43.820]  oh yeah, I'll eat it. I would put lasagna really high up there.
+[45:44.200 --> 45:46.140]  Really? Maybe I need to revisit it.
+[45:46.480 --> 45:49.460]  I would think lasagna is a really safe food that everybody's like,
+[45:49.680 --> 45:50.660]  oh, everybody likes lasagna.
+[45:51.380 --> 45:54.440]  I just don't know who... I sometimes see it on the menu at a restaurant.
+[45:54.600 --> 45:56.900]  Who's ordering that at a restaurant? That's what I want to know.
+[45:57.220 --> 45:58.540]  I would order lasagna at a restaurant.
+[45:58.940 --> 46:00.920]  Over everything else on the menu? You'd go for that?
+[46:00.920 --> 46:04.920]  I mean, I would probably prefer ravioli, but...
+[46:04.920 --> 46:05.920]  Right, you'd go for something else.
+[46:06.100 --> 46:09.360]  But lasagna would be like my second, I think.
+[46:09.620 --> 46:11.160]  Have you actually ordered that at a restaurant?
+[46:11.400 --> 46:12.540]  Yeah, tons of times.
+[46:13.000 --> 46:14.420]  Oh, wow.
+[46:15.260 --> 46:17.600]  Eric says he'd get it too. Nick would not.
+[46:18.080 --> 46:18.600]  Why not, Nick?
+[46:19.180 --> 46:24.460]  I feel like you can split out the food on like spaghetti and meatballs further apart,
+[46:24.480 --> 46:27.740]  and everything is just so condensed into a lasagna. It's just so tight.
+[46:28.420 --> 46:29.140]  Pretty dense, yeah.
+[46:29.860 --> 46:30.980]  I want to eat more.
+[46:31.300 --> 46:34.280]  Do they do lasagnas with layers of different things per layer?
+[46:35.200 --> 46:37.800]  You know, like the raid? It's like different floor...
+[46:37.800 --> 46:41.720]  Like, is there like a lasagna where it's sauce,
+[46:43.000 --> 46:46.460]  and then there's like potato, like there's some potato or something?
+[46:46.640 --> 46:47.620]  Like, is there different...
+[46:47.620 --> 46:50.900]  That's the best movie to food comparison I've ever heard in my life.
+[46:51.260 --> 46:54.580]  Well, I'm just thinking of like different floors, different things happen.
+[46:54.840 --> 46:55.360]  That's the raid.
+[46:55.920 --> 46:58.520]  I'm just thinking of tiny bits of meat, like running up the layers.
+[46:59.980 --> 47:04.440]  I can't believe we're going to completely and totally gloss over the fact that Nick
+[47:04.440 --> 47:07.360]  needs to separate his food out like a fucking weirdo.
+[47:07.500 --> 47:07.980]  Wait.
+[47:08.240 --> 47:10.760]  No, that didn't strike me as weird.
+[47:10.780 --> 47:12.080]  You don't see what's going on in the chat?
+[47:13.540 --> 47:15.900]  Nick likes to enjoy things one at a time.
+[47:16.360 --> 47:18.080]  Lasagna has everything in one bite.
+[47:18.200 --> 47:20.520]  He likes to be able to separate the ingredients out.
+[47:20.800 --> 47:20.920]  Yeah.
+[47:20.920 --> 47:25.520]  I need every single bite to have everything that's on my plate in every single bite.
+[47:25.960 --> 47:28.760]  I want the full flavor every single time.
+[47:28.760 --> 47:32.140]  Even if I'm like eating meat and veg and like mashed potato.
+[47:32.400 --> 47:35.720]  As soon as I run out of one thing, the bites get subpar.
+[47:35.860 --> 47:37.880]  Like if I'm left with just two things, then I'm down to the one.
+[47:38.660 --> 47:39.740]  I will eat...
+[47:39.740 --> 47:43.040]  So if I have an apple pie, I'm eating all the filling first.
+[47:43.320 --> 47:43.800]  You're a maniac.
+[47:44.180 --> 47:44.460]  What?
+[47:44.660 --> 47:45.280]  I love the...
+[47:45.280 --> 47:46.300]  I separate the two.
+[47:46.300 --> 47:46.580]  You're a maniac.
+[47:46.820 --> 47:48.700]  Because I enjoy them both, but in different ways.
+[47:48.800 --> 47:50.140]  Didn't you watch Ratatouille?
+[47:50.460 --> 47:53.680]  The beauty is when the ingredients are combined together in your mouth.
+[47:54.200 --> 47:56.060]  What's the point of making it into a pie then?
+[47:56.160 --> 47:57.440]  Just eat apple.
+[47:57.440 --> 47:59.560]  You just eat the ingredients of a pie.
+[48:00.040 --> 48:01.480]  Yeah, just eat the balls.
+[48:01.640 --> 48:03.140]  Sorry, I'm stunned.
+[48:03.280 --> 48:07.820]  I'm just trying to think about how many men above the age of 40 have seriously said,
+[48:07.920 --> 48:09.400]  Have you seen Ratatouille?
+[48:09.660 --> 48:12.620]  And then extended with the meaning of the film.
+[48:13.880 --> 48:14.540]  That's great.
+[48:14.640 --> 48:15.660]  You enjoy it how you want to.
+[48:15.720 --> 48:16.760]  I just have certain ways.
+[48:16.820 --> 48:17.440]  I eat certain foods.
+[48:17.960 --> 48:18.620]  That's one of them.
+[48:19.100 --> 48:21.100]  Always eat the inside first.
+[48:21.100 --> 48:21.840]  Then I eat the crust.
+[48:22.600 --> 48:27.300]  I just think it's weird that Nick can't eat spaghetti and a meatball at the same time.
+[48:27.440 --> 48:28.900]  He can only have one or the other.
+[48:29.200 --> 48:29.640]  So what do you do?
+[48:30.400 --> 48:34.660]  Yeah, do you like dip the spaghetti in the sauce separately?
+[48:34.880 --> 48:36.560]  Do you drink the sauce after?
+[48:36.700 --> 48:37.860]  Why would you have it all separate?
+[48:38.600 --> 48:41.700]  No, I just, you know, I do the little twist with spaghetti.
+[48:41.880 --> 48:44.280]  Eat the spaghetti, cut up a piece of meatball, eat a piece of meatball,
+[48:44.360 --> 48:45.460]  and then back and forth, back and forth.
+[48:45.640 --> 48:49.260]  Or, you know, go a couple pieces of spaghetti and then back to meatball or whatever.
+[48:49.900 --> 48:50.640]  Doesn't have to be together.
+[48:50.780 --> 48:52.340]  But you would never put spaghetti...
+[48:52.340 --> 48:56.600]  You would never roll up some spaghetti noodle and then spear a meatball at the end of it
+[48:56.600 --> 48:58.700]  and then put that both in your mouth at the same time.
+[48:58.960 --> 48:59.780]  Well, accidents happen.
+[49:00.400 --> 49:06.060]  So you must hate burritos and like omelets and stuff where it's all just churned up.
+[49:06.600 --> 49:07.760]  No, that's what I ordered.
+[49:09.000 --> 49:10.780]  Yeah, Nick and I are on the same page here.
+[49:11.100 --> 49:12.720]  That is, you're expecting that.
+[49:12.800 --> 49:14.580]  That's how that food is delivered.
+[49:14.680 --> 49:15.560]  If you have...
+[49:15.560 --> 49:19.960]  Well, maybe you would love lasagna then because you get to eat down layer by layer.
+[49:20.120 --> 49:22.120]  It's like a back and forth of different tastes.
+[49:22.300 --> 49:24.940]  It's like the ultimate pillow fort in your bed.
+[49:26.740 --> 49:34.400]  You go from cheese duvet to pasta duvet to weighted meat blanket.
+[49:35.880 --> 49:37.400]  It's what you're trying to build.
+[49:38.040 --> 49:42.560]  I feel like I just learned that Nick and I both speak a language that we didn't know we shared.
+[49:42.920 --> 49:45.060]  I feel a deep connection with Nick in this moment.
+[49:45.420 --> 49:45.880]  It just makes sense.
+[49:46.000 --> 49:46.320]  Thanks, man.
+[49:46.320 --> 49:47.200]  What he's saying makes sense.
+[49:47.500 --> 49:48.040]  I agree.
+[49:48.200 --> 49:48.900]  Different combinations of food.
+[49:49.120 --> 49:53.820]  Now, if there was like the meatball was like shredded and put amongst the spaghetti,
+[49:53.900 --> 49:54.900]  you're not separating that.
+[49:55.060 --> 49:55.160]  No.
+[49:55.220 --> 49:55.760]  That's too much work.
+[49:55.880 --> 49:56.120]  That's together.
+[49:56.700 --> 50:01.880]  But if they are two separate items, you can enjoy them individually.
+[50:02.580 --> 50:03.900]  You don't need to mix them.
+[50:04.540 --> 50:07.360]  Are you there with like a bowl of dry cereal and a glass of milk?
+[50:07.960 --> 50:10.260]  First of all, I always have my cereal dry.
+[50:10.800 --> 50:11.920]  That's just the first thing.
+[50:12.020 --> 50:15.740]  Oh, I'm not a milk guy because I was allergic to milk as a kid.
+[50:15.860 --> 50:16.680]  That's understandable.
+[50:17.320 --> 50:18.980]  I've never had cereal with milk.
+[50:19.080 --> 50:20.120]  I don't know what that's like.
+[50:21.340 --> 50:23.080]  What is it you're allergic to in milk?
+[50:23.080 --> 50:26.120]  I used to have like gastrointestinal.
+[50:26.360 --> 50:27.600]  If she's a flare up.
+[50:27.700 --> 50:31.180]  Yeah, get lactose free milk or almond milk.
+[50:31.180 --> 50:31.820]  That doesn't sound good.
+[50:32.080 --> 50:32.700]  I don't like it.
+[50:32.740 --> 50:35.800]  I eat lactose lactose free milk.
+[50:35.840 --> 50:36.980]  Gave me cereal back.
+[50:37.200 --> 50:38.160]  We've talked about this.
+[50:38.300 --> 50:40.080]  I eat cereal every day of my life now.
+[50:40.120 --> 50:41.240]  Thanks to lactose free milk.
+[50:41.460 --> 50:42.900]  It's it's worth it.
+[50:42.900 --> 50:45.660]  Andrew, you're you're missing out on a whole world.
+[50:45.840 --> 50:46.840]  Maybe a whole world.
+[50:46.940 --> 50:47.240]  I'll try it.
+[50:47.560 --> 50:48.140]  I'll try it.
+[50:48.540 --> 50:48.920]  I'll try it.
+[50:48.920 --> 50:49.980]  I'll add it to the lasagna list.
+[50:50.160 --> 50:51.080]  I don't appreciate Gavin.
+[50:51.080 --> 50:56.120]  You're trying to put me in the like the fucking psychopath tier of the girl from Get Out that like
+[50:56.120 --> 50:58.520]  dips the cereal one thing at a time.
+[50:58.640 --> 51:00.180]  That's not you don't do that.
+[51:00.740 --> 51:01.580]  Okay, psycho.
+[51:01.720 --> 51:03.220]  I'm just trying to see what you draw the line.
+[51:03.680 --> 51:06.720]  Well, those first I would consider milk more of a beverage than a topping.
+[51:08.560 --> 51:10.700]  I don't think anyone could consider it a topping.
+[51:11.360 --> 51:12.920]  Well, what is it in a cereal?
+[51:12.940 --> 51:14.640]  You're pouring a drink over your food.
+[51:15.220 --> 51:17.780]  Yeah, it's not on the top.
+[51:18.040 --> 51:20.140]  It's a bottom, a middle and a top.
+[51:20.820 --> 51:21.300]  It's an egg.
+[51:21.700 --> 51:23.140]  It's the lasagna of cereal.
+[51:24.520 --> 51:26.260]  And yeah, I guess it's all surrounding, right?
+[51:27.120 --> 51:27.660]  Like a pie.
+[51:28.300 --> 51:29.500]  It's like a chicken soup.
+[51:30.300 --> 51:31.900]  Cereal is cold breakfast soup.
+[51:32.320 --> 51:32.620]  Okay.
+[51:33.340 --> 51:34.320]  Yeah, I don't know.
+[51:34.560 --> 51:35.580]  It doesn't sound appealing.
+[51:36.280 --> 51:37.720]  Should I try the licorice?
+[51:38.260 --> 51:38.500]  Should I?
+[51:38.820 --> 51:38.960]  What?
+[51:39.160 --> 51:39.460]  How many?
+[51:39.560 --> 51:41.780]  First of all, do I need to finish it?
+[51:41.900 --> 51:42.720]  Is that what has been?
+[51:42.800 --> 51:45.460]  Has anyone finished a single piece of this licorice?
+[51:45.980 --> 51:46.420]  I have not.
+[51:46.480 --> 51:47.000]  Oh, Meg did.
+[51:47.420 --> 51:49.140]  She had a whole one and she got it all down.
+[51:49.620 --> 51:50.100]  Really?
+[51:50.400 --> 51:50.520]  Okay.
+[51:50.960 --> 51:51.960]  So that's the challenge.
+[51:51.960 --> 51:52.740]  Just finishing.
+[51:53.040 --> 51:55.020]  This is so fucking stale.
+[51:55.220 --> 51:56.480]  This is so dry.
+[51:56.980 --> 51:58.560]  I don't know if it's always this dry.
+[51:58.700 --> 51:59.360]  Does it go stale?
+[51:59.900 --> 52:00.360]  I don't know.
+[52:00.440 --> 52:04.280]  I assumed it would be unimpacted due to the salt of the double salted.
+[52:04.560 --> 52:07.340]  It's a pretty hard, like, substance.
+[52:07.760 --> 52:08.240]  Maybe it's not.
+[52:08.560 --> 52:09.400]  Pretty tough substance.
+[52:10.020 --> 52:11.800]  It looks like a hockey puck.
+[52:12.480 --> 52:13.580]  It's just black and...
+[52:13.580 --> 52:14.320]  Okay, I'm going to try this.
+[52:14.320 --> 52:17.160]  This might be the final part of my best of f*** face compilation.
+[52:17.160 --> 52:19.560]  Should I bite into this?
+[52:19.740 --> 52:21.420]  Or should I, like, let it linger for a minute?
+[52:21.560 --> 52:22.420]  What's the protocol?
+[52:22.480 --> 52:23.720]  You just do whatever feels right to you.
+[52:23.800 --> 52:23.920]  Okay.
+[52:24.560 --> 52:26.080]  Oh, my f***ing god!
+[52:27.180 --> 52:27.620]  Bull!
+[52:28.440 --> 52:30.100]  I was not expecting that!
+[52:31.560 --> 52:33.300]  Yeah, it catches you off guard.
+[52:33.520 --> 52:33.960]  Okay.
+[52:34.100 --> 52:34.560]  Is it still in?
+[52:35.080 --> 52:35.840]  Oh, it's still in.
+[52:36.100 --> 52:37.080]  We're riding it out!
+[52:37.300 --> 52:38.020]  We're riding it out!
+[52:38.560 --> 52:39.780]  Like a mechanical bull!
+[52:40.780 --> 52:41.800]  Going around my mouth!
+[52:43.120 --> 52:44.980]  I can't even f***ing chew this.
+[52:45.880 --> 52:47.500]  It sounds so wet.
+[52:47.780 --> 52:49.520]  It, like, shut my mouth down.
+[52:50.900 --> 52:54.760]  It's like getting blitzed or something, like, when it hits the tongue.
+[52:55.220 --> 52:58.200]  Yeah, are you experiencing where it's like the bit of your tongue that it's on,
+[52:58.260 --> 53:00.900]  it just doesn't want to be there, and you end up just sliding it all over the place?
+[53:00.940 --> 53:02.580]  It's like burning, almost.
+[53:02.880 --> 53:04.420]  It feels almost like you're burning it.
+[53:06.440 --> 53:07.760]  This is terrible.
+[53:09.160 --> 53:09.580]  Yeah.
+[53:10.360 --> 53:11.740]  This is worse than the chocolate.
+[53:13.180 --> 53:15.020]  It's a real shock to the system.
+[53:15.020 --> 53:18.540]  Oh, no, oh, no!
+[53:18.960 --> 53:22.900]  I swallowed liquid, it was just salt water!
+[53:25.620 --> 53:27.820]  That's, by the way, what you just swallowed,
+[53:28.000 --> 53:30.380]  that's how f***ing salty the ocean is in Cancun right now.
+[53:32.640 --> 53:33.460]  Extra salty.
+[53:33.760 --> 53:34.320]  Extra salty.
+[53:35.000 --> 53:38.300]  It's a, the ocean in Cancun right now is double salted liquorish salty.
+[53:40.020 --> 53:41.180]  Oh, God!
+[53:47.100 --> 53:49.400]  It's been so long since we had one of those.
+[53:50.300 --> 53:51.140]  You lunatic.
+[53:52.900 --> 53:54.300]  That was so vile.
+[53:57.340 --> 53:59.180]  That was another velociraptor.
+[53:59.180 --> 54:00.760]  I don't even like normal licorice.
+[54:02.800 --> 54:03.620]  This is terrible.
+[54:06.080 --> 54:07.100]  Oh, my God.
+[54:08.300 --> 54:08.880]  Oh, my God.
+[54:09.460 --> 54:11.020]  I can't swallow it!
+[54:11.660 --> 54:14.360]  It's, uh, definitely challenging to swallow.
+[54:14.540 --> 54:15.320]  Oh, my God!
+[54:17.920 --> 54:20.060]  How long did it take Meg to eat this?
+[54:20.940 --> 54:23.120]  Oh, I think she was done with it within like a minute.
+[54:23.520 --> 54:25.840]  She was like, yeah, that sucked, but it wasn't that bad.
+[54:25.880 --> 54:26.640]  Oh, my God!
+[54:27.000 --> 54:27.840]  She's pretty hardcore, though.
+[54:28.220 --> 54:28.800]  She's pretty brave.
+[54:30.040 --> 54:31.140]  Oh, my God.
+[54:31.400 --> 54:33.940]  In most cases, if someone said,
+[54:34.060 --> 54:36.820]  this person ate licorice, they're pretty brave, I'd laugh.
+[54:37.340 --> 54:38.340]  It's a genuine...
+[54:39.160 --> 54:40.040]  You've earned that.
+[54:40.320 --> 54:41.120]  Oh, my God.
+[54:41.260 --> 54:43.520]  That's by far the worst thing we've ever had on the show.
+[54:44.380 --> 54:45.060]  By a lot.
+[54:46.980 --> 54:47.500]  I'm done.
+[54:47.660 --> 54:48.060]  I can't believe that's worse.
+[54:48.520 --> 54:49.500]  Yeah, I think it is, actually.
+[54:49.580 --> 54:49.930]  I don't think...
+[54:50.520 --> 54:51.100]  Oh, it's not even close.
+[54:51.100 --> 54:54.120]  I don't think the reaction to anything else has been that quick.
+[54:54.180 --> 54:56.200]  Like, it's the second it touches your tongue.
+[54:56.340 --> 54:57.760]  It's the instant, like...
+[54:57.760 --> 55:00.220]  I don't know, like, the dark chocolate is just mud.
+[55:00.840 --> 55:01.660]  It's unpleasant.
+[55:02.180 --> 55:03.560]  That feels like it's worse.
+[55:03.820 --> 55:05.220]  And it attacks you in different ways.
+[55:05.220 --> 55:08.860]  I still feel like there's somebody just pouring salt on my tongue right now.
+[55:09.080 --> 55:09.760]  And it's gone.
+[55:10.080 --> 55:11.640]  Nick likes weird shit.
+[55:11.720 --> 55:12.820]  Nick, did you try one?
+[55:13.320 --> 55:14.060]  I haven't had one yet.
+[55:14.560 --> 55:15.000]  So...
+[55:15.000 --> 55:15.180]  Okay.
+[55:15.800 --> 55:17.560]  Because you tend to like the weirder stuff.
+[55:18.080 --> 55:20.840]  And you seemed okay with Branston Pickle as well.
+[55:20.900 --> 55:22.260]  So I wonder how you'd feel about this.
+[55:22.360 --> 55:25.120]  I'll bring you some for the next office day.
+[55:25.420 --> 55:28.580]  I'm not a huge licorice guy to begin with, so this could go bad.
+[55:29.260 --> 55:30.600]  This isn't licorice, don't worry about it.
+[55:31.280 --> 55:32.760]  Yeah, this is something totally off.
+[55:33.100 --> 55:35.920]  Now, you're not going to be able to separate the salt from the licorice.
+[55:36.000 --> 55:36.880]  I hope that's not a problem.
+[55:36.980 --> 55:38.180]  It's kind of a package deal.
+[55:39.380 --> 55:40.180]  We'll see how it goes.
+[55:42.900 --> 55:45.620]  Oh, has anyone tried multiples in their mouth at once?
+[55:46.020 --> 55:46.300]  No.
+[55:46.440 --> 55:46.680]  Yeah.
+[55:46.840 --> 55:47.600]  Are we going to go for like five?
+[55:47.860 --> 55:48.860]  Let's go for a handful.
+[55:49.560 --> 55:50.120]  A handful?
+[55:50.300 --> 55:51.180]  Don't swallow a handful.
+[55:51.740 --> 55:52.920]  I'm not going to swallow...
+[55:52.920 --> 55:54.720]  I just don't know why I'm going to be able to chew a handful.
+[55:55.020 --> 55:55.760]  How many do I have in my hand?
+[55:55.800 --> 55:56.740]  I just grabbed a handful.
+[55:57.420 --> 56:01.000]  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16...
+[56:01.000 --> 56:01.400]  Like 20.
+[56:01.440 --> 56:02.200]  I got like 20 in my hand.
+[56:02.200 --> 56:03.880]  I don't even know if I can fit this many in my mouth.
+[56:04.820 --> 56:07.420]  That's enough licorice to kill a 40 year old.
+[56:07.540 --> 56:07.760]  Yeah.
+[56:08.640 --> 56:08.960]  Yeah.
+[56:09.420 --> 56:11.480]  If I ate that much licorice, I would die instantly.
+[56:12.120 --> 56:13.880]  I'm scared to even just put it in my mouth.
+[56:14.440 --> 56:15.380]  I'm going to put one down.
+[56:15.880 --> 56:16.200]  19.
+[56:16.340 --> 56:17.160]  As long as you don't swallow.
+[56:17.780 --> 56:18.160]  Here we go.
+[56:20.620 --> 56:21.100]  Don't do that.
+[56:36.470 --> 56:37.590]  Don't do that.
+[56:39.330 --> 56:40.910]  You can't move it.
+[56:41.070 --> 56:42.310]  You can't move it at all.
+[56:42.630 --> 56:45.310]  Every time you move one and you lose skills on your tongue.
+[56:45.650 --> 56:46.550]  Don't do that.
+[56:48.110 --> 56:50.870]  Eric said he sounds like Star Wars.
+[56:54.590 --> 56:57.210]  Or like when the guy dies in the pod race.
+[56:57.450 --> 56:58.730]  Like they're all like that.
+[56:59.410 --> 56:59.890]  Sort of.
+[57:00.670 --> 57:01.470]  Oh my God.
+[57:02.070 --> 57:02.610]  Oh man.
+[57:03.830 --> 57:08.950]  I feel like I didn't get to anything on my list.
+[57:09.290 --> 57:12.790]  Yeah, I guess on that note, we should probably end it.
+[57:13.430 --> 57:18.230]  I didn't get to the main thing on my list, which Gavin and I discussed talking about
+[57:18.230 --> 57:20.830]  right before the episode, which we are going...
+[57:20.830 --> 57:24.630]  You got a one week reprieve, Gavin, before we have to figure this out.
+[57:25.330 --> 57:26.450]  We need...
+[57:27.090 --> 57:31.290]  It has become alarmingly clear that you and I need a friend-tervention.
+[57:31.290 --> 57:33.690]  I don't know what that is, but we need it.
+[57:33.830 --> 57:37.110]  Because our friendship has gotten bizarre and weird and awkward.
+[57:37.650 --> 57:39.550]  And the last two days has been odd.
+[57:40.130 --> 57:41.570]  I mean, is you going to leave it at that?
+[57:41.590 --> 57:43.210]  Are you going to explain some of that?
+[57:43.230 --> 57:43.970]  Oh my God.
+[57:45.110 --> 57:47.150]  Well, what should we explain?
+[57:47.950 --> 57:50.970]  You let me come over to take a shower at your house, and it was just very weird.
+[57:51.050 --> 57:51.910]  And I appreciated it.
+[57:51.970 --> 57:53.870]  But I realized I don't know anything about your life.
+[57:54.050 --> 57:54.710]  I don't know.
+[57:54.790 --> 57:55.630]  I was looking at your house.
+[57:55.650 --> 57:57.530]  I was in your house that I've never been in.
+[57:57.670 --> 57:59.850]  And I was thinking about how you're my best friend in the world.
+[57:59.850 --> 58:02.970]  And I don't know anything about you.
+[58:03.690 --> 58:06.330]  Is it because I just took you to the shower and let you get on with it?
+[58:06.370 --> 58:07.830]  I figured you were tired and you wanted to shower.
+[58:08.050 --> 58:09.210]  No, it was just like...
+[58:09.990 --> 58:11.230]  It was just...
+[58:11.230 --> 58:12.270]  We'll talk about it next week.
+[58:12.570 --> 58:14.110]  But you and I...
+[58:14.110 --> 58:15.730]  Our friendship has gotten so awkward.
+[58:15.890 --> 58:16.710]  I don't know what to do.
+[58:16.750 --> 58:17.710]  We used to live together.
+[58:18.450 --> 58:20.070]  I spent 24 hours a day with you.
+[58:20.350 --> 58:22.290]  How did we get so weird around each other?
+[58:22.830 --> 58:24.770]  I think it's just because we're audio-only now.
+[58:24.890 --> 58:26.010]  We're an audio-only friendship.
+[58:26.390 --> 58:27.230]  I guess so.
+[58:27.430 --> 58:28.530]  An audio-only friendship.
+[58:28.530 --> 58:32.510]  Do you think him learning you threw the stick at him when he was suntanning or whatever?
+[58:32.630 --> 58:35.070]  Do you think that maybe hindered it's been from that point?
+[58:36.130 --> 58:37.550]  All right, well, we'll do a friend's invention.
+[58:38.070 --> 58:39.070]  I think it's pretty...
+[58:39.070 --> 58:42.990]  I think it's been proven that Gavin from the future actually threw the stick, not me.
+[58:43.390 --> 58:44.650]  So I'm clear of that.
+[58:44.910 --> 58:45.150]  You're right.
+[58:45.570 --> 58:45.910]  You're right.
+[58:46.590 --> 58:47.390]  All right.
+[58:47.390 --> 58:47.870]  Well, there you go.
+[58:48.070 --> 58:51.370]  Thank you for listening to another episode of the F*** Face podcast.
+[58:52.990 --> 58:56.290]  Boy, if you liked listening to Andrew gargle salt...
+[58:56.670 --> 59:00.230]  Uh, boy, uh, would we love it if you would tell a friend about it.
+[59:00.290 --> 59:02.170]  Say, hey, you ever hear a guy eat licorice?
+[59:02.570 --> 59:03.690]  Boy, you haven't lived.
+[59:03.750 --> 59:04.950]  I got a podcast for you.
+[59:05.290 --> 59:08.690]  It's just about dudes eating licorice and drinking sodas and burping.
+[59:08.850 --> 59:11.010]  And somehow it's still wildly entertaining.
+[59:11.330 --> 59:13.310]  And, uh, and, uh, yeah.
+[59:13.370 --> 59:14.270]  So give us a star.
+[59:14.970 --> 59:16.110]  Maybe a variety of them.
+[59:16.210 --> 59:16.950]  Maybe multiple.
+[59:17.470 --> 59:18.870]  Oh, yeah, you don't have to stop at one.
+[59:19.290 --> 59:21.550]  Yeah, I mean, you could do a few if you feel like it.
+[59:21.710 --> 59:22.610]  Give us as many as you want.
+[59:22.730 --> 59:23.350]  Whatever makes you happy.
+[59:24.130 --> 59:25.630]  Max stars for F*** Face.
+[59:25.630 --> 59:26.570]  See you next week.
+[59:27.510 --> 59:32.190]  Hey guys, majorly fan Jack here with a look at next week's episode of F*** Face.
+[59:32.570 --> 59:34.250]  It's the fridge fridge magnets.
+[59:34.650 --> 59:36.390]  Gavin accidentally planted a tree.
+[59:36.770 --> 59:37.830]  When does it become stealing?
+[59:38.350 --> 59:39.710]  Let's hear some more life hacks.
+[59:40.150 --> 59:41.130]  Geoff has looked better.
+[59:41.490 --> 59:43.910]  And once again, Andrew does not eat the pencil.
+[59:44.330 --> 59:47.270]  All that and more on next week's episode of F*** Face.

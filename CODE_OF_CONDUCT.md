@@ -34,7 +34,7 @@ This Code of Conduct applies everywhere in the project's community spaces (GitHu
 
 ## Reporting Issues
 
-If you see or experience any abusive, harassing, or otherwise unacceptable behavior, please report it to the project maintainers at **[INSERT CONTACT METHOD]**. All complaints will be reviewed and investigated, and we'll respect the privacy and security of the person reporting the incident.
+If you see or experience any abusive, harassing, or otherwise unacceptable behavior, please report it to the project maintainers. All complaints will be reviewed and investigated, and we'll respect the privacy and security of the person reporting the incident.
 
 ## What Happens if Someone Breaks the Rules?
 

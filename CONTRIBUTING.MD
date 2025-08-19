@@ -1,6 +1,6 @@
 # Contributing to the Regulation Database
 
-First off, thanks for even thinking about contributing! Your help is a huge deal. This is a community-driven project, and every contribution—from fixing a typo to adding a new feature—makes a big difference.
+This is a community-driven project, and every contribution—from fixing a typo to adding a new feature—makes a big difference.
 
 ## Code of Conduct
 
@@ -35,14 +35,14 @@ Don't worry about getting it perfect. If you open an issue that's better suited 
 
 ### 📝 Correcting Transcriptions
 
-Let's be real, automated transcription isn't always perfect. If you spot an error in a transcript, you can either:
+Automated transcription isn't always perfect. If you spot an error in a transcript, you can either:
 
 1.  **[Open an issue](https://github.com/SamOhrenberg/regulation-database/issues/new?assignees=&labels=transcription&template=transcription_error.md)** detailing the episode, the incorrect text, and the correction. This is super helpful and much appreciated.
 2.  Submit a Pull Request with the fix yourself (see below).
 
 ### 💻 Code Contributions
 
-If you'd like to sling some code, that's fantastic! The two main areas for contribution are the React `webapp` and the Node.js `yt-transcriber`.
+The two main areas for contribution are the React `webapp` and the Node.js `yt-transcriber`.
 
 **1. Fork the Repository**
    - Click the "Fork" button at the top right of the repo page. This makes your own copy of the project that you can mess with.

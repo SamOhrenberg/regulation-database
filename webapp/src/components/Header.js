@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { ReactComponent as RegulationLogo } from '../logo.svg';
 import GlobalSearchBar from './GlobalSearchBar';
 

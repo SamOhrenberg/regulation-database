@@ -1,0 +1,2022 @@
+[00:11.020 --> 00:13.380]  Hello and welcome to the... oh, shit.
+[00:14.520 --> 00:17.000]  Face Break Show. My name is Geoff Ramsey.
+[00:17.160 --> 00:17.860]  You almost bleeped it up.
+[00:17.960 --> 00:19.760]  I almost bleeped it up. I almost bleeped it up.
+[00:19.880 --> 00:22.140]  We had too much time off. We were gone for so long.
+[00:22.380 --> 00:23.620]  It's true. How long is it...
+[00:23.620 --> 00:26.380]  With me, as always, my beautiful wife, Emily Hatfield.
+[00:26.600 --> 00:27.680]  And then, uh...
+[00:28.500 --> 00:28.860]  Gus.
+[00:29.300 --> 00:30.240]  Your first love.
+[00:30.360 --> 00:31.260]  My first love, Gus.
+[00:31.840 --> 00:35.520]  I was blowing smoke up his ass on this other podcast we do.
+[00:35.720 --> 00:36.680]  Well, not that this is a podcast.
+[00:37.320 --> 00:38.840]  But this is of a podcast, yeah.
+[00:38.840 --> 00:41.500]  ANMA stands for Anarchy, Me, Anything.
+[00:42.260 --> 00:45.260]  If anybody remembers Sanka Coffee from the 80s,
+[00:45.320 --> 00:47.040]  unless you're familiar...
+[00:48.160 --> 00:49.420]  My grandmother loves Sanka.
+[00:50.440 --> 00:51.380]  Oh, is that Sanka?
+[00:51.520 --> 00:53.300]  What is it? Is it instant coffee?
+[00:53.500 --> 00:55.220]  Yeah, it's like dehydrated coffee crystals.
+[00:55.340 --> 00:56.420]  You just put it in with hot water.
+[00:56.520 --> 00:57.500]  With no caffeine, too, right?
+[00:57.820 --> 00:59.560]  They had a caffeine-free version.
+[00:59.900 --> 01:02.500]  Brim was caffeine-free, but Sanka, I think, didn't have caffeine.
+[01:03.360 --> 01:04.800]  And this is Brim, not Sanka.
+[01:04.880 --> 01:05.160]  Correct.
+[01:05.320 --> 01:05.780]  I got that wrong.
+[01:06.500 --> 01:07.740]  It was my idea, and I got it wrong.
+[01:07.740 --> 01:10.680]  It's so hard being so old.
+[01:10.880 --> 01:12.700]  And all the memories are just jumbled around.
+[01:13.420 --> 01:15.760]  Anyway, I was saying, I was blowing smoke up Gus's ass the other day
+[01:15.760 --> 01:19.280]  because I was doing an episode of another podcast I do,
+[01:19.360 --> 01:21.500]  because we can't have enough podcasts.
+[01:21.500 --> 01:22.140]  So many podcasts.
+[01:23.580 --> 01:26.500]  Where I was talking about the beginning of my career
+[01:26.960 --> 01:29.680]  and life-changing moments and how I ended up at Rooster Teeth.
+[01:30.200 --> 01:34.800]  And in the process of explaining all that to the audience,
+[01:34.800 --> 01:38.420]  but also to myself, I realized that Gus is the first creative partner
+[01:38.420 --> 01:39.620]  I ever had in my entire life.
+[01:39.780 --> 01:40.740]  And you still are.
+[01:40.960 --> 01:43.600]  I mean, I tried a bunch before that, and that all failed.
+[01:43.740 --> 01:45.580]  And then I met Gus, and that's when everything changed for me.
+[01:45.660 --> 01:46.580]  That's how it works.
+[01:46.700 --> 01:48.640]  Until you find the real one, your real love.
+[01:49.220 --> 01:51.800]  Do you remember during our wedding ceremony, Gus,
+[01:51.960 --> 01:53.300]  that you were kind of part of it?
+[01:53.340 --> 01:53.700]  Yeah, yeah.
+[01:54.020 --> 01:56.460]  Whenever there was an airplane that kept going over the top,
+[01:56.560 --> 01:57.720]  and I was like, God, is that Gus?
+[01:57.720 --> 01:58.840]  No, no, no, that was not me.
+[01:58.960 --> 01:59.520]  I felt bad.
+[01:59.560 --> 02:00.440]  They were, like, circling.
+[02:00.560 --> 02:01.760]  They were, like, watching or something.
+[02:01.760 --> 02:04.080]  It was a beautiful sunset, so they were probably giving a good tour.
+[02:04.080 --> 02:06.460]  And then I looked over, and I saw you in the front row.
+[02:06.660 --> 02:07.340]  Not me.
+[02:07.600 --> 02:07.700]  Yeah.
+[02:08.100 --> 02:10.640]  You know, if you think about it, if you and I never met,
+[02:10.940 --> 02:12.580]  like if we didn't become creative partners,
+[02:13.080 --> 02:16.060]  Bernie would still be a loser managing a tech support center somewhere.
+[02:16.540 --> 02:17.560]  Have you ever thought about that?
+[02:17.740 --> 02:17.920]  Yeah.
+[02:18.580 --> 02:19.240]  You're welcome.
+[02:20.240 --> 02:20.700]  You're welcome.
+[02:21.900 --> 02:22.760]  We did it all.
+[02:22.940 --> 02:23.260]  Anyway.
+[02:24.140 --> 02:26.160]  I rewatched, I was watching a little bit of Gremlins.
+[02:26.320 --> 02:26.760]  Oh, Christmas.
+[02:26.800 --> 02:28.180]  It was a Christmas movie. It was on TV.
+[02:28.780 --> 02:30.480]  And I probably, I haven't seen that movie in decades.
+[02:30.480 --> 02:34.300]  And I didn't realize how shitty the snow looks in that movie,
+[02:34.300 --> 02:36.380]  when they're, like, out walking in the town square.
+[02:36.500 --> 02:38.020]  And so I was, like, that's, like, white sand.
+[02:38.320 --> 02:40.060]  It doesn't even look right.
+[02:40.240 --> 02:42.680]  Dude, that is a dark movie.
+[02:42.800 --> 02:44.380]  I didn't watch it this year, but I've watched it a bunch.
+[02:44.540 --> 02:47.040]  We watched it for the first time last year, because I was too scared when I was little.
+[02:47.360 --> 02:49.740]  And then we watched it, and then I was, like, it was like that and Chucky.
+[02:50.080 --> 02:51.960]  We, like, I was finally old enough to watch.
+[02:52.120 --> 02:54.780]  Do you hear what I hear, Christmas Carol?
+[02:54.960 --> 02:57.040]  Like, was ruined for me because of that movie.
+[02:57.140 --> 02:59.520]  It was, like, it was terrifying when I was a kid,
+[02:59.520 --> 03:01.040]  because I was, like, there's a gremlin in the house.
+[03:01.340 --> 03:08.260]  You fucking forget that Phoebe Cates' dad died in a chimney slowly over time.
+[03:08.480 --> 03:10.500]  And they didn't figure it out until he smelled.
+[03:10.740 --> 03:10.900]  Yeah.
+[03:11.100 --> 03:12.260]  That's a kids' movie.
+[03:12.740 --> 03:12.960]  Yeah.
+[03:13.500 --> 03:14.500]  Gotta love the 80s.
+[03:14.500 --> 03:14.760]  PG.
+[03:16.000 --> 03:17.340]  PG, 80s kids' movie.
+[03:17.440 --> 03:18.360]  It's because Gizmo's so cute.
+[03:18.680 --> 03:21.420]  That's why guys like Gus and I, we turned out so well.
+[03:21.640 --> 03:21.840]  Yeah.
+[03:22.540 --> 03:24.540]  We're so healthy, mentally and emotionally.
+[03:24.800 --> 03:25.040]  Yeah.
+[03:25.140 --> 03:28.500]  If you're dealt enough trauma at a young age, everything else is, like, whatever.
+[03:28.500 --> 03:31.880]  I saw, yeah, Poltergeist was a kids' movie when I was...
+[03:32.280 --> 03:37.540]  I read that, you know, like, the gremlins' town square that they kind of walk through at the beginning, like, where the bank and all the shops are.
+[03:37.900 --> 03:40.440]  That, you know, that was obviously on the back lot in Southern California.
+[03:40.520 --> 03:41.840]  That's why the snow doesn't look right.
+[03:42.180 --> 03:45.220]  It was the same main street downtown as Back to the Future.
+[03:45.860 --> 03:46.060]  Yeah.
+[03:46.200 --> 03:47.540]  That's the back lot of...
+[03:47.540 --> 03:48.400]  Universal, I think.
+[03:48.420 --> 03:49.500]  Yeah, Universal. I went there.
+[03:49.620 --> 03:49.900]  It's cool.
+[03:50.160 --> 03:50.480]  Interesting.
+[03:50.980 --> 03:52.100]  It's like, oh, it is.
+[03:52.120 --> 03:57.340]  They still, the back lot, they still have the welcome sign from whatever the city is.
+[03:57.340 --> 03:58.380]  What is it in Back to the Future?
+[03:59.340 --> 04:00.380]  Twin Pines or something?
+[04:00.560 --> 04:02.980]  No, that's the shopping center that becomes Lone Pine.
+[04:03.160 --> 04:03.280]  Right.
+[04:03.360 --> 04:05.480]  They have the sign still on the back lot.
+[04:05.480 --> 04:06.200]  I can fucking see the sign.
+[04:06.820 --> 04:07.960]  Maybe it was just something, like, on a...
+[04:07.960 --> 04:10.300]  Oh, fuck.
+[04:10.480 --> 04:11.760]  Gus and I had...
+[04:11.760 --> 04:11.800]  Ooh.
+[04:13.060 --> 04:13.800]  We're not gonna...
+[04:13.800 --> 04:14.260]  Mike, what is it?
+[04:14.540 --> 04:14.900]  Hill Valley.
+[04:15.040 --> 04:15.500]  Hill Valley!
+[04:16.860 --> 04:17.720]  But thank you.
+[04:17.820 --> 04:23.000]  Mike is, like, the honorary third member of AnMat where he's, like, I gotta correct you guys.
+[04:23.000 --> 04:25.140]  He's, like, research.
+[04:25.880 --> 04:26.060]  Yeah.
+[04:26.560 --> 04:27.840]  He's our fact checker.
+[04:28.500 --> 04:30.940]  Okay, but now that we're a half an hour into the show...
+[04:30.940 --> 04:31.060]  Hey.
+[04:31.460 --> 04:33.060]  This is a show where we open up cards.
+[04:33.420 --> 04:39.160]  And so the first thing we do every episode, and we haven't done it in a few weeks, so we'll be a little...
+[04:39.160 --> 04:39.720]  Since last year.
+[04:40.120 --> 04:40.880]  Since last year.
+[04:40.960 --> 04:45.320]  First time in 2024, is we pull something out of the pack sack, we see what kind of luck we're gonna have.
+[04:47.080 --> 04:54.220]  Ooh, this week we got 1991 Upper Deck NFL Football Premier Edition.
+[04:54.980 --> 04:57.840]  Lemonhead Edition, high quality cards, 12 football cards per pack.
+[04:58.020 --> 05:00.900]  Counterfeit proof cards, random sequencing, tamper proof pack.
+[05:01.220 --> 05:02.000]  Counterfeit proof?
+[05:02.000 --> 05:02.360]  Counterfeit proof.
+[05:02.560 --> 05:03.500]  Ooh, what does that mean?
+[05:03.600 --> 05:05.220]  It's because it had a little...
+[05:05.980 --> 05:06.960]  Like the shiny thing?
+[05:06.980 --> 05:09.700]  Like a little hologram diamond on it, I believe. We'll see.
+[05:10.340 --> 05:13.680]  I wonder if there's anything in here that could be worth anything. I don't think so.
+[05:13.760 --> 05:14.260]  Cards, maybe.
+[05:14.420 --> 05:15.840]  Nothing is counterfeit, though.
+[05:15.900 --> 05:18.000]  Here's the little football on the back.
+[05:18.240 --> 05:18.500]  I guess that's...
+[05:18.500 --> 05:19.380]  Oh, that's the...
+[05:20.560 --> 05:20.960]  Oh.
+[05:21.420 --> 05:23.000]  That's some, like, cash-me-through-can shit.
+[05:23.000 --> 05:24.600]  Yeah, we can't copy that.
+[05:24.960 --> 05:25.940]  Keith Willis.
+[05:26.120 --> 05:29.020]  We were just talking about, like, this was the, uh...
+[05:29.020 --> 05:29.620]  Jerry Ball.
+[05:29.860 --> 05:31.900]  Big, uh, shoulder pad era.
+[05:32.400 --> 05:33.160]  Mark Bavario.
+[05:33.300 --> 05:33.740]  For men and women.
+[05:34.380 --> 05:35.840]  Wasn't the catch-me-if-you-can guy...
+[05:35.840 --> 05:36.960]  You gotta make our waist look small.
+[05:37.940 --> 05:38.560]  Sammy Smith.
+[05:39.240 --> 05:41.640]  Wasn't the catch-me-if-you-can guy full of shit?
+[05:41.740 --> 05:41.900]  Yeah.
+[05:42.000 --> 05:42.560]  Make it all up.
+[05:43.520 --> 05:44.740]  Edward Abagnale, is that his name?
+[05:44.740 --> 05:45.480]  Yeah, I think so.
+[05:45.920 --> 05:46.840]  Abagnale, definitely.
+[05:46.980 --> 05:50.900]  I think his only con was convincing everyone he did that stuff.
+[05:51.160 --> 05:51.600]  I love it.
+[05:51.600 --> 05:53.240]  He looks like he's just getting...
+[05:53.240 --> 05:53.620]  He's on the ground.
+[05:53.680 --> 05:54.680]  He's like, stop hitting me!
+[05:54.840 --> 05:55.360]  Leave me alone.
+[05:55.560 --> 05:56.560]  That's a terrible photo.
+[05:56.620 --> 05:57.500]  So that's his photo.
+[05:57.760 --> 05:59.140]  It's the 49ers player.
+[05:59.520 --> 05:59.620]  Yeah.
+[05:59.680 --> 06:02.780]  And the photo of him on his card is him getting tripped up.
+[06:02.820 --> 06:03.420]  Is it happening?
+[06:03.500 --> 06:04.280]  By a guy laying down.
+[06:04.960 --> 06:06.500]  There's gotta be, uh, something.
+[06:06.840 --> 06:07.660]  Why would they...
+[06:08.300 --> 06:09.160]  Imagine that's your card.
+[06:09.240 --> 06:09.760]  You made it to the end.
+[06:09.760 --> 06:10.820]  You're like, I got a card.
+[06:11.340 --> 06:11.660]  Aw.
+[06:11.880 --> 06:12.860]  Aw, tripped up.
+[06:13.180 --> 06:14.080]  Ahsan Jones.
+[06:14.220 --> 06:14.700]  Man, I...
+[06:15.140 --> 06:15.840]  What year is this?
+[06:15.980 --> 06:16.300]  1991.
+[06:16.980 --> 06:21.580]  Is this the last time that the Lions had a better record?
+[06:23.520 --> 06:23.880]  91?
+[06:23.960 --> 06:25.020]  Was it 91 or 92?
+[06:25.360 --> 06:26.140]  Yeah, it was 91.
+[06:26.520 --> 06:27.360]  You're absolutely right.
+[06:27.420 --> 06:27.880]  It was 1991.
+[06:28.960 --> 06:31.080]  Anthony Miller and Ricky Jackson.
+[06:31.220 --> 06:32.500]  Frank Abagnale was the guy's name.
+[06:32.700 --> 06:33.060]  Frank Abagnale.
+[06:33.420 --> 06:34.780]  People's princess listening to the chat.
+[06:35.180 --> 06:35.840]  They cleared it up.
+[06:35.960 --> 06:36.860]  Hello, chat.
+[06:37.000 --> 06:37.660]  Thank you very much.
+[06:37.740 --> 06:38.160]  Hello, my people.
+[06:38.340 --> 06:40.380]  Apparently he had a great tight end, too.
+[06:40.560 --> 06:41.120]  Frank Abagnale.
+[06:41.220 --> 06:41.840]  That's what it says right there.
+[06:42.120 --> 06:43.340]  I don't think that's what it was referencing.
+[06:43.340 --> 06:44.220]  I'm pretty sure that's what it is.
+[06:44.700 --> 06:45.260]  Uh, okay.
+[06:45.660 --> 06:49.960]  Because we have Gus, it's a Gus episode, then we typically dive into Gus's childhood cards,
+[06:49.980 --> 06:51.240]  which I'm very excited to get into.
+[06:51.240 --> 06:56.460]  But I also asked Gus to come on today because at the end of the year, I bought this.
+[06:57.260 --> 06:57.840]  And there you go.
+[06:57.840 --> 07:00.220]  It's the Blizzard Legacy Collection.
+[07:00.580 --> 07:02.080]  We actually pre-ordered this.
+[07:02.680 --> 07:03.540]  Celebrate Blizzard's...
+[07:03.540 --> 07:04.240]  Blizzard's?
+[07:05.340 --> 07:06.440]  Blizzard's Iconic Games.
+[07:07.300 --> 07:09.760]  And I'm pretty well-versed in video games.
+[07:10.320 --> 07:14.880]  What with the career in Rooster Teeth and the Create and Achieve 100 and the Let's Play and all that.
+[07:15.120 --> 07:19.120]  But I'll be the first to admit, I don't know Blizzard a tenth as well as you do.
+[07:19.120 --> 07:21.460]  So I needed to bring in the Blizz expert.
+[07:21.780 --> 07:26.680]  It's been a while since I've really been neck-deep in Blizzard games, so I'm sure I'm rusty on it.
+[07:26.800 --> 07:29.860]  I don't know anything about Blizzard, so you can tell me anything and I'll believe you.
+[07:29.920 --> 07:31.880]  Okay, that's what I'm totally going to do. Make stuff up.
+[07:31.980 --> 07:33.900]  We'll see if you recognize any of these video games.
+[07:35.500 --> 07:37.260]  I don't know anybody on the cover.
+[07:37.700 --> 07:38.620]  You don't know anybody on the cover?
+[07:38.820 --> 07:40.020]  Well, see, that's Frank Abagnale.
+[07:40.100 --> 07:42.320]  That's Frank Abagnale. Okay, that's Barry Sanders.
+[07:42.400 --> 07:43.520]  You can tell by his great tie-in.
+[07:43.700 --> 07:44.340]  Dan Marino.
+[07:44.980 --> 07:48.220]  And I'm opening this up. I'm unpackaging this, realizing I don't want to open these yet.
+[07:48.220 --> 07:49.500]  Because I wanted to open up mail.
+[07:49.720 --> 07:51.640]  We got a bunch of mail, and I want to open up the mail.
+[07:51.920 --> 07:52.320]  Oh, man.
+[07:52.420 --> 07:53.720]  So we'll get to that in a minute.
+[07:54.020 --> 07:55.740]  Oh, look at this. Holy shit. What do we got here?
+[07:55.820 --> 07:56.520]  All right.
+[07:56.580 --> 07:57.680]  It says, uh...
+[07:58.380 --> 07:59.200]  Happy New Year!
+[07:59.440 --> 08:01.340]  Or if this arrives before then, it did not.
+[08:01.700 --> 08:03.900]  Uh, glad you guys enjoyed the last packs I sent.
+[08:04.080 --> 08:05.920]  Uh, Branson on stage and Ghost Whisperer.
+[08:05.920 --> 08:07.180]  Those were some great fucking packs.
+[08:07.260 --> 08:08.220]  And I hope you like these as well.
+[08:08.280 --> 08:08.760]  Love, Megan.
+[08:09.300 --> 08:11.040]  Aw, Megan, you're the best. Thank you.
+[08:11.540 --> 08:13.740]  She got us 1989 Major League Leaders.
+[08:13.920 --> 08:14.940]  I have never...
+[08:14.940 --> 08:15.720]  What is that?
+[08:16.240 --> 08:17.480]  ...seen this before.
+[08:17.480 --> 08:18.540]  These are mini cards.
+[08:18.620 --> 08:19.380]  They're different size.
+[08:19.580 --> 08:20.820]  But I... the...
+[08:21.460 --> 08:21.780]  So...
+[08:21.780 --> 08:23.440]  Yeah, there's a lot of stuff going on here.
+[08:23.640 --> 08:25.900]  These are those oversized Bowman cards.
+[08:26.040 --> 08:27.760]  I was big into collecting cards around that time.
+[08:27.800 --> 08:29.900]  As you can tell by the suitcase of shit I've got here.
+[08:29.920 --> 08:30.780]  I've got some of those Bowmans here.
+[08:30.960 --> 08:32.140]  I've never seen this either.
+[08:32.140 --> 08:32.560]  I haven't either.
+[08:33.160 --> 08:35.180]  I was collecting at that time.
+[08:35.300 --> 08:36.220]  Seven picture cards.
+[08:36.260 --> 08:36.880]  So here's what we're going to do.
+[08:36.920 --> 08:38.360]  We'll put one of these in the pack sack,
+[08:38.440 --> 08:39.660]  because you always got to feed the pack sack.
+[08:40.060 --> 08:42.080]  And I think we'll open...
+[08:42.080 --> 08:44.240]  You know what? Let's put the score in there as well.
+[08:45.060 --> 08:46.320]  And we'll open the rest.
+[08:46.460 --> 08:46.780]  Yuck.
+[08:46.780 --> 08:48.000]  And we're going to open this last,
+[08:48.140 --> 08:49.200]  because I'm the most excited.
+[08:49.460 --> 08:49.880]  And we'll do this.
+[08:49.980 --> 08:50.760]  So we'll start with...
+[08:51.320 --> 08:54.160]  Major League Baseball 1991 Edition Upper Deck.
+[08:54.980 --> 08:56.440]  This is the same year that the Lions
+[08:56.440 --> 08:57.840]  had their best record again.
+[08:58.920 --> 09:00.560]  Oh man, I remember these holograms.
+[09:00.640 --> 09:01.100]  This takes me back.
+[09:01.260 --> 09:03.120]  Oh, we got a Red Sox hologram.
+[09:03.200 --> 09:03.980]  Look at that.
+[09:04.100 --> 09:05.060]  You can stick that on something.
+[09:05.440 --> 09:06.960]  You got a Trapper Keeper.
+[09:07.000 --> 09:07.680]  You got a Lisa Frank.
+[09:07.940 --> 09:08.620]  Put it right on there.
+[09:09.080 --> 09:10.000]  Boy it up a little bit.
+[09:10.060 --> 09:10.380]  There you go.
+[09:12.280 --> 09:12.920]  Kevin Gross.
+[09:13.360 --> 09:13.880]  Is this a sticker?
+[09:13.940 --> 09:14.880]  Tom Browning.
+[09:14.960 --> 09:15.460]  I think so, yeah.
+[09:15.460 --> 09:17.400]  Put this on my wall.
+[09:17.440 --> 09:18.360]  Mike Blowers.
+[09:19.040 --> 09:20.720]  Is that your name or what you do?
+[09:21.880 --> 09:22.240]  Alright.
+[09:22.480 --> 09:24.380]  I just watched The Adventures of Ford Fairlane.
+[09:24.640 --> 09:26.360]  So I got a lot of Dice Clay in my head.
+[09:26.480 --> 09:26.640]  Gotcha.
+[09:27.280 --> 09:28.000]  Lee Stevens.
+[09:28.480 --> 09:29.420]  Did you...
+[09:29.420 --> 09:30.880]  Oh no, that'll come out in your episode.
+[09:31.080 --> 09:33.460]  You told me a really cool fact about that movie
+[09:33.460 --> 09:34.860]  and the song with it and him.
+[09:34.860 --> 09:35.160]  Greg Catarat.
+[09:35.680 --> 09:36.780]  That's all I can hear now.
+[09:37.040 --> 09:37.340]  Tell me.
+[09:37.840 --> 09:39.020]  Oh, that he's in the song?
+[09:39.200 --> 09:40.080]  Yeah, I had no idea.
+[09:40.180 --> 09:40.900]  So you didn't know that that song,
+[09:40.960 --> 09:41.540]  Unbelievable?
+[09:42.060 --> 09:42.420]  Oh!
+[09:43.640 --> 09:44.340]  That's Andrew Dice Clay.
+[09:44.340 --> 09:45.480]  Oh, it was Andrew Dice Clay.
+[09:45.480 --> 09:46.400]  I didn't know that either.
+[09:46.460 --> 09:47.560]  Yeah, that song's from the soundtrack.
+[09:47.820 --> 09:49.440]  And almost all the songs from that soundtrack,
+[09:49.540 --> 09:50.180]  they put him in it.
+[09:50.320 --> 09:50.540]  Oh.
+[09:51.800 --> 09:52.460]  No idea.
+[09:52.600 --> 09:53.080]  I mean either.
+[09:53.320 --> 09:53.520]  Oh.
+[09:54.720 --> 09:58.060]  It's funny because that movie was a big touted deal.
+[09:58.240 --> 09:59.100]  They had a huge soundtrack
+[09:59.100 --> 10:00.560]  because he's like a rock and roll detective.
+[10:01.040 --> 10:02.540]  And then the movie came out
+[10:02.540 --> 10:03.980]  and it was as dumb as the premise
+[10:03.980 --> 10:05.520]  and it did not do well.
+[10:06.060 --> 10:06.920]  So all those...
+[10:06.920 --> 10:08.940]  A bunch of songs got big off of that soundtrack.
+[10:09.560 --> 10:12.140]  I think Billy Idol had a song on there as well
+[10:12.140 --> 10:13.320]  that did really well.
+[10:13.320 --> 10:15.980]  And they just forgot about the movie part
+[10:15.980 --> 10:17.160]  and they just became huge songs.
+[10:17.300 --> 10:18.520]  And they just disassociated themselves
+[10:18.520 --> 10:19.320]  with being on the soundtrack.
+[10:19.460 --> 10:20.180]  I have no idea.
+[10:20.220 --> 10:20.900]  That's fucking weird.
+[10:21.020 --> 10:22.760]  That's why you should listen to So Alright
+[10:22.760 --> 10:24.860]  because he tells you really cool, interesting stuff.
+[10:25.320 --> 10:25.960]  What a great idea.
+[10:26.060 --> 10:27.340]  You can find it on any podcast platform.
+[10:27.720 --> 10:28.600]  And when you're done with that,
+[10:28.680 --> 10:29.900]  listen to Anma, you know?
+[10:30.080 --> 10:30.920]  And then when you're done with that,
+[10:31.020 --> 10:32.460]  listen to Clutch My Pearls, you know?
+[10:33.020 --> 10:33.580]  It's one of each.
+[10:33.640 --> 10:34.580]  Podcasts all day long.
+[10:34.780 --> 10:37.200]  Mike Pagliarulo.
+[10:37.840 --> 10:38.760]  Ooh, Juan Samuel.
+[10:40.860 --> 10:41.580]  Barry Jones.
+[10:41.880 --> 10:42.600]  That's a long arm.
+[10:43.740 --> 10:44.540]  Reggie Geofferson.
+[10:44.560 --> 10:46.280]  By the way, I'm not recommending
+[10:47.260 --> 10:49.860]  anybody go watch Adventures of Ford Fairland, by the way.
+[10:49.960 --> 10:50.660]  It's not easy to get.
+[10:50.780 --> 10:51.560]  I had to buy the DVD.
+[10:51.780 --> 10:52.540]  And it's not a great film.
+[10:52.740 --> 10:54.160]  And it does not age well.
+[10:54.360 --> 10:55.860]  I've spent decades not watching it,
+[10:55.860 --> 10:56.440]  so I'll continue that.
+[10:56.440 --> 10:58.300]  It's one of those movies that didn't age well
+[10:58.300 --> 10:59.060]  the day it came out.
+[10:59.140 --> 11:00.140]  And it's only gotten worse.
+[11:00.300 --> 11:02.900]  Although I will say, an insane cast.
+[11:03.140 --> 11:03.900]  Priscilla Presley.
+[11:04.000 --> 11:04.160]  Yeah.
+[11:04.380 --> 11:05.040]  Wayne Newton.
+[11:05.260 --> 11:05.460]  Yeah.
+[11:05.660 --> 11:08.360]  Gilbert Gottfried as a Howard Stern,
+[11:08.720 --> 11:11.740]  like, dirty radio guy who's kind of sexy, almost.
+[11:13.580 --> 11:15.440]  Tell me more about sexy Gilbert Gottfried.
+[11:15.700 --> 11:17.240]  Lauren Hawley is in it.
+[11:17.880 --> 11:19.480]  The dude from the Warriors who goes,
+[11:19.940 --> 11:21.160]  Warriors, come out and play.
+[11:21.260 --> 11:22.140]  That dude is in it.
+[11:22.140 --> 11:22.280]  Is that that guy?
+[11:22.480 --> 11:22.680]  Yeah.
+[11:25.120 --> 11:25.720]  And others.
+[11:26.000 --> 11:26.200]  I don't know.
+[11:26.280 --> 11:26.700]  That's a bunch.
+[11:26.960 --> 11:28.200]  Tone Loke is in it as well.
+[11:28.760 --> 11:31.180]  Morris Day from Morris Day in the Time is in it.
+[11:33.060 --> 11:33.860]  There's a lot of people.
+[11:34.120 --> 11:34.880]  Robert Englund.
+[11:35.100 --> 11:35.460]  Freddy Krueger.
+[11:35.780 --> 11:36.380]  He's in it.
+[11:36.440 --> 11:37.300]  He plays one of the bad guys.
+[11:37.640 --> 11:38.100]  That's it.
+[11:38.220 --> 11:38.800]  He didn't do this.
+[11:38.880 --> 11:39.440]  He did this.
+[11:39.440 --> 11:40.300]  A little different.
+[11:41.160 --> 11:43.280]  You know what we forgot?
+[11:43.960 --> 11:44.620]  Brett Saberhagen?
+[11:44.900 --> 11:48.040]  Is to value the cards from last show.
+[11:49.460 --> 11:50.320]  Oh, yeah.
+[11:50.440 --> 11:51.380]  We should do that at some point.
+[11:51.440 --> 11:52.620]  I don't even know where the fuck those are.
+[11:52.680 --> 11:53.440]  Next week we'll have a lot more.
+[11:53.620 --> 11:54.280]  I lost those.
+[11:54.400 --> 11:55.060]  I gotta find those.
+[11:56.040 --> 11:57.360]  Dude, look at this bad boy.
+[11:57.440 --> 11:58.680]  Bo Jackson, upper deck.
+[11:58.720 --> 11:59.900]  That is gorgeous.
+[12:00.500 --> 12:03.060]  I think that's a sought-after card, I think.
+[12:03.080 --> 12:04.920]  Yeah, I think we might have a little something here.
+[12:05.020 --> 12:05.860]  That's a good smile.
+[12:06.060 --> 12:07.980]  So let's save this and then we'll check in on that.
+[12:07.980 --> 12:10.180]  I think that was a really desirable card.
+[12:10.180 --> 12:10.800]  It's a beautiful card.
+[12:11.100 --> 12:11.900]  We'll save that.
+[12:12.020 --> 12:12.960]  Don't forget about Mike Blower's.
+[12:13.040 --> 12:14.680]  Bo Jackson, is that 91 upper deck?
+[12:14.800 --> 12:15.680]  91 upper deck, yeah.
+[12:15.900 --> 12:16.340]  White Sox.
+[12:17.280 --> 12:18.800]  After he'd been traded from the Royals.
+[12:18.820 --> 12:21.420]  I think that's a card I'd always wanted when I was a kid and I never got.
+[12:21.560 --> 12:22.320]  It's a gorgeous card.
+[12:23.240 --> 12:25.240]  Alright, these are the 90 ones, so this is a year older.
+[12:25.600 --> 12:26.800]  John Cangolosi.
+[12:28.460 --> 12:29.180]  Jesse Barfield.
+[12:29.300 --> 12:29.940]  Glenn Wilson.
+[12:30.160 --> 12:30.880]  I should probably pick this up.
+[12:30.980 --> 12:31.820]  Don Mattingly.
+[12:31.900 --> 12:32.680]  We'll put him over there.
+[12:33.000 --> 12:36.000]  Did Bo Jackson play baseball and football?
+[12:36.140 --> 12:37.020]  Yes, he did.
+[12:37.020 --> 12:40.620]  He was Deion Sanders before Deion Sanders.
+[12:41.380 --> 12:42.060]  It's hard.
+[12:42.560 --> 12:56.600]  Deion had a better career because Bo hurt himself, but Bo Jackson hurt himself because he was too strong and he ripped the muscles off of his body in a football game running and ended his career.
+[12:56.820 --> 12:57.900]  Did he have worms?
+[12:58.620 --> 12:58.960]  No.
+[12:59.260 --> 13:00.040]  No, I don't think so.
+[13:00.060 --> 13:01.280]  I don't think Bo Jackson had worms.
+[13:01.420 --> 13:01.780]  No, no.
+[13:01.820 --> 13:02.800]  I don't think he did.
+[13:02.800 --> 13:03.680]  I don't think so at all.
+[13:03.680 --> 13:08.200]  I don't think there's ever any indication that Bo Jackson or Deion Sanders ever had worms.
+[13:08.320 --> 13:09.680]  I think those dudes were just phenomenal.
+[13:09.780 --> 13:12.820]  If you look up Bo Jackson highlight reels, it's insane.
+[13:13.060 --> 13:13.840]  It's insane.
+[13:14.100 --> 13:18.180]  There was a popular NES football game at the time called Tecmo Bowl.
+[13:18.480 --> 13:18.700]  Okay.
+[13:19.160 --> 13:19.640]  And whenever...
+[13:20.260 --> 13:28.220]  I think lots of kids our age, whenever we played Tecmo Bowl, there was a rule that whoever you were playing with could not pick the team Bo Jackson was on.
+[13:28.240 --> 13:28.520]  Really?
+[13:28.520 --> 13:29.460]  If he was too good.
+[13:29.580 --> 13:31.680]  You would win every time if you played with...
+[13:31.680 --> 13:33.060]  I think he was with the Raiders at the time.
+[13:33.380 --> 13:37.320]  You couldn't pick the Raiders because Bo Jackson was on there and there was no stopping him in that video game.
+[13:37.440 --> 13:37.680]  Wow.
+[13:38.300 --> 13:39.080]  That was like the game genie.
+[13:39.080 --> 13:39.740]  It broke the game.
+[13:39.940 --> 13:40.080]  Yeah.
+[13:41.020 --> 13:41.540]  All right.
+[13:41.720 --> 13:42.600]  Bo Jackson, the game genie.
+[13:42.740 --> 13:47.660]  Now we have these oversized Bowman cards that I fucking hate.
+[13:47.940 --> 13:50.480]  But we had some of these from Gus and a couple of them were worth money.
+[13:50.540 --> 13:51.460]  Greg Swindell.
+[13:53.020 --> 13:53.740]  Mark Lewis.
+[13:55.260 --> 13:55.980]  Claudel Washington.
+[13:57.780 --> 13:58.500]  Dave Gallagher.
+[13:59.660 --> 14:00.460]  Bob Brower.
+[14:01.220 --> 14:02.020]  Sid Fernandez.
+[14:02.780 --> 14:03.580]  Willie Mays.
+[14:03.680 --> 14:04.400]  Art Card.
+[14:05.500 --> 14:06.300]  Tony Pena.
+[14:07.740 --> 14:08.520]  Scott Fletcher.
+[14:08.660 --> 14:09.520]  Looks like he's...
+[14:09.520 --> 14:10.100]  Taking a dump.
+[14:10.120 --> 14:10.880]  Taking a deuce.
+[14:10.920 --> 14:12.400]  He's squatting on a camping trip.
+[14:12.440 --> 14:13.120]  Squatting Scott.
+[14:13.320 --> 14:13.860]  That's what they call him.
+[14:14.200 --> 14:14.720]  Oh, shit.
+[14:15.440 --> 14:16.000]  The kid.
+[14:17.180 --> 14:17.980]  Holy shit.
+[14:18.000 --> 14:18.720]  Is that an on-card auto?
+[14:19.380 --> 14:19.780]  No.
+[14:20.240 --> 14:21.460]  But that's probably worth something.
+[14:21.600 --> 14:22.400]  We'll set that aside.
+[14:22.460 --> 14:22.760]  Okay.
+[14:22.920 --> 14:23.340]  Thank you.
+[14:24.360 --> 14:24.760]  89.
+[14:24.900 --> 14:25.760]  That might be like a rookie card.
+[14:25.820 --> 14:26.500]  Tom Bernanski.
+[14:26.680 --> 14:27.340]  I don't know.
+[14:27.340 --> 14:28.100]  Fred McGriff.
+[14:28.100 --> 14:28.120]  The Time Dog.
+[14:28.120 --> 14:31.520]  Ken made his professional debut in 1987.
+[14:31.840 --> 14:32.300]  It's close.
+[14:32.400 --> 14:32.720]  Not quite.
+[14:32.880 --> 14:36.700]  He played at San Bernardino and Vermont in 1988.
+[14:37.300 --> 14:37.580]  Wait.
+[14:37.900 --> 14:38.480]  That's not pro.
+[14:39.200 --> 14:40.000]  That's not pro.
+[14:40.220 --> 14:40.920]  That's not pro.
+[14:41.080 --> 14:45.940]  It just says, Ken made his professional baseball debut in Bellingham in 1987.
+[14:46.640 --> 14:50.020]  He played at San Bernardino and Vermont in 1988.
+[14:50.480 --> 14:52.500]  So I think that's maybe why he doesn't have any stats.
+[14:54.020 --> 14:55.120]  Yeah, he's a rookie.
+[14:55.340 --> 14:56.520]  That is a rookie card, I think.
+[14:57.140 --> 14:57.780]  O-F?
+[14:57.900 --> 14:58.160]  What's that?
+[14:58.400 --> 14:58.720]  Outfielder?
+[14:59.040 --> 15:01.760]  Dude, look, this gum came packaged individually.
+[15:01.920 --> 15:02.700]  Do you think it tastes different?
+[15:03.380 --> 15:03.620]  Let's try.
+[15:03.660 --> 15:04.680]  Well, I mean, it didn't eat the...
+[15:04.680 --> 15:05.420]  Yeah, go for it.
+[15:05.800 --> 15:06.180]  Wee.
+[15:06.660 --> 15:07.800]  89 was his first year.
+[15:08.360 --> 15:09.340]  So we should save this.
+[15:09.360 --> 15:09.820]  Probably save that.
+[15:09.960 --> 15:10.940]  Did he get worms?
+[15:11.100 --> 15:11.480]  Tiny...
+[15:11.480 --> 15:11.940]  No.
+[15:12.640 --> 15:14.360]  So none of these people were before worms.
+[15:14.680 --> 15:16.440]  They were in the era of worms.
+[15:16.860 --> 15:17.840]  But these guys didn't have worms.
+[15:18.040 --> 15:18.420]  91?
+[15:19.140 --> 15:21.620]  Yeah, because McGuire and Jose Canseco were 91 as well.
+[15:22.080 --> 15:23.240]  McGuire's rookie season was 87.
+[15:23.300 --> 15:26.000]  Yeah, but he was like a thin dude at that point still.
+[15:26.000 --> 15:27.140]  He hadn't warmed up yet.
+[15:27.260 --> 15:29.200]  I mean, he hit 49 home runs in his rookie year.
+[15:29.320 --> 15:30.320]  He was a big dude.
+[15:30.560 --> 15:34.440]  I think worms were infecting the MLB in 91.
+[15:34.640 --> 15:35.540]  I had some earlier.
+[15:35.940 --> 15:38.740]  I think worms were around a lot earlier than that.
+[15:39.120 --> 15:40.900]  Vince Coleman, Andre Dawson...
+[15:40.900 --> 15:41.460]  Are these all stickers?
+[15:41.800 --> 15:42.540]  These are cards.
+[15:42.660 --> 15:44.340]  These are just tiny little leader cards.
+[15:44.560 --> 15:44.960]  They're so cute.
+[15:44.980 --> 15:47.140]  Cal Daniels, Sid Bream, Mike Greenwell.
+[15:47.260 --> 15:49.060]  Speaking of worms, Jose Canseco.
+[15:49.500 --> 15:51.420]  I've never seen these little cards.
+[15:51.460 --> 15:52.460]  They're so cute.
+[15:54.080 --> 15:55.320]  Did he have worms in that time?
+[15:55.320 --> 15:56.700]  Is that why his legs are so big?
+[15:58.960 --> 16:00.320]  Yeah, I imagine.
+[16:00.880 --> 16:02.500]  He's a big dude, but that's McGuire in 91.
+[16:02.900 --> 16:04.640]  He's nothing like how he was later.
+[16:05.100 --> 16:08.660]  Sure, but I'm saying they didn't discover worms in, like, 93.
+[16:09.000 --> 16:11.000]  Worms were around in the 80s, too.
+[16:11.300 --> 16:13.760]  They were using worms like diet worms.
+[16:14.320 --> 16:16.780]  And they started getting braver, more bold with worms.
+[16:17.420 --> 16:18.220]  Let's open up this one.
+[16:19.660 --> 16:20.520]  That was fun.
+[16:21.140 --> 16:21.880]  Megan, I believe.
+[16:21.940 --> 16:23.040]  Thank you so much again, Megan.
+[16:23.740 --> 16:24.640]  Okay, let's see what we have.
+[16:24.640 --> 16:25.580]  Emily, that's for you.
+[16:25.580 --> 16:26.380]  Me? I got mail?
+[16:26.520 --> 16:26.940]  You got mail.
+[16:27.800 --> 16:28.680]  Oh, somebody drew an Ian.
+[16:29.580 --> 16:30.340]  Cole and Kaylee.
+[16:30.500 --> 16:31.300]  Hey, assholes.
+[16:31.460 --> 16:31.860]  And Emily.
+[16:32.580 --> 16:33.240]  That's what's up.
+[16:33.300 --> 16:34.120]  We love you guys.
+[16:34.280 --> 16:34.960]  Yes, Eric, too.
+[16:35.040 --> 16:38.780]  We don't know anything about sports, but hopefully you can get a hit off this pack.
+[16:38.920 --> 16:41.240]  Oh, thank you so much, Cole and Kaylee.
+[16:41.320 --> 16:43.420]  And we gotta put this Ian up on the wall.
+[16:43.680 --> 16:44.600]  Cole and Kaylee.
+[16:44.660 --> 16:45.860]  And they sent me something.
+[16:46.380 --> 16:46.960]  Let's see what you got.
+[16:48.140 --> 16:48.980]  It's an unboxing.
+[16:54.710 --> 16:55.070]  Carefully.
+[16:55.210 --> 16:55.830]  You go first.
+[16:56.190 --> 16:56.470]  All right.
+[16:57.130 --> 16:57.850]  Isaiah Jackson.
+[16:58.150 --> 16:58.750]  Ooh, Jason Tatum.
+[16:58.890 --> 16:59.370]  Tay-tay.
+[16:59.510 --> 17:00.110]  I don't have that.
+[17:00.270 --> 17:02.570]  Oh, I used to make these.
+[17:03.090 --> 17:04.010]  Galen Green, rookie.
+[17:04.230 --> 17:04.830]  Oh, I remember those.
+[17:04.910 --> 17:07.510]  Yeah, where you put the little things and then you use the iron.
+[17:07.630 --> 17:07.890]  Let me see.
+[17:08.210 --> 17:09.070]  Isn't that so cute?
+[17:10.010 --> 17:10.730]  Oh, it's adorable.
+[17:10.730 --> 17:11.290]  It's so beautiful.
+[17:11.430 --> 17:12.030]  I think either way.
+[17:12.070 --> 17:12.370]  Oh, yeah.
+[17:13.410 --> 17:14.250]  I think the other way.
+[17:14.910 --> 17:16.030]  It's so pretty.
+[17:16.130 --> 17:16.350]  That's great.
+[17:16.630 --> 17:18.350]  I used to love making these.
+[17:18.490 --> 17:19.370]  Aaron Wiggins.
+[17:19.430 --> 17:20.030]  Thank you.
+[17:20.290 --> 17:20.690]  I'm gonna put it...
+[17:20.690 --> 17:21.610]  B. Johnson.
+[17:21.810 --> 17:22.170]  Kumi.
+[17:22.830 --> 17:23.930]  Put it with my girls.
+[17:25.530 --> 17:26.670]  Nemis Kada.
+[17:27.590 --> 17:28.910]  Kessler Edwards.
+[17:29.990 --> 17:30.850]  Kion Johnson.
+[17:31.330 --> 17:31.990]  Evan Mobley.
+[17:32.810 --> 17:33.670]  Ayodhya Sasamu.
+[17:34.550 --> 17:35.310]  Giannis.
+[17:35.370 --> 17:36.250]  James Booknight.
+[17:36.970 --> 17:38.010]  Isaiah Todd.
+[17:38.350 --> 17:39.630]  Scotty Barnes.
+[17:39.770 --> 17:40.670]  Davion Mitchell.
+[17:41.310 --> 17:42.210]  Corey Kispert.
+[17:42.430 --> 17:42.810]  Green.
+[17:43.290 --> 17:44.010]  Foil.
+[17:44.210 --> 17:44.910]  Parallel.
+[17:45.570 --> 17:46.730]  Ja Morant.
+[17:46.830 --> 17:47.110]  Green.
+[17:47.270 --> 17:47.570]  Foil.
+[17:47.690 --> 17:48.090]  Parallel.
+[17:48.290 --> 17:49.610]  He's doing well now that he's back.
+[17:49.730 --> 17:50.550]  Goddamn, he is.
+[17:50.770 --> 17:51.470]  Giannis.
+[17:51.830 --> 17:53.010]  Silver Foil.
+[17:55.930 --> 17:56.650]  Cam Thomas.
+[17:57.130 --> 17:57.810]  Which cards are these?
+[17:57.930 --> 17:58.830]  These are Chronicles.
+[17:59.350 --> 18:00.070]  Alperon Sengu.
+[18:00.250 --> 18:00.330]  Narnia.
+[18:00.470 --> 18:00.650]  Rookie.
+[18:01.470 --> 18:02.190]  Burton Grimes.
+[18:02.370 --> 18:03.090]  Franz Wagner.
+[18:03.570 --> 18:04.470]  That's what the Reflection is.
+[18:04.530 --> 18:05.870]  It's them going through the wardrobe.
+[18:06.010 --> 18:07.530]  Weird, and they're just throwing a Tyrese Halliburton.
+[18:07.530 --> 18:10.530]  And there's a lot of Jesus stuff, but you don't see it straight up.
+[18:10.730 --> 18:10.970]  It's subtle.
+[18:11.190 --> 18:12.690]  It's like, oh, I thought it was just a lion.
+[18:12.970 --> 18:13.510]  What are we doing?
+[18:14.930 --> 18:16.910]  We're just talking about how these are Narnia cards.
+[18:18.470 --> 18:22.010]  Alright, one more pack, and then we'll get to Gus's cards, and then we'll get to...
+[18:22.010 --> 18:22.910]  Holy shit!
+[18:23.010 --> 18:23.370]  Ooh!
+[18:25.390 --> 18:26.130]  Damn, dude.
+[18:26.250 --> 18:27.290]  Alright, let's see what you got.
+[18:28.570 --> 18:29.570]  What's up, fuckers?
+[18:29.790 --> 18:30.370]  Big fan.
+[18:30.610 --> 18:32.230]  One for the show, one for the sack.
+[18:32.350 --> 18:32.930]  Choose wisely.
+[18:33.410 --> 18:34.350]  Thank you so much.
+[18:34.510 --> 18:36.210]  Alright, one for the sack.
+[18:37.450 --> 18:38.910]  One for the sack.
+[18:39.690 --> 18:40.490]  Show, show.
+[18:41.730 --> 18:42.750]  Oh my god, I'm overwhelmed.
+[18:42.750 --> 18:43.670]  Dang, McDonald's cards?
+[18:43.670 --> 18:44.370]  Definitely for the sack.
+[18:44.530 --> 18:45.650]  Definitely for the sack.
+[18:46.570 --> 18:47.930]  Small little cosmic teams.
+[18:48.130 --> 18:48.530]  Definitely...
+[18:48.530 --> 18:49.870]  Yeah, oh, he's got two of everything, so...
+[18:49.870 --> 18:50.730]  There we go.
+[18:50.890 --> 18:51.550]  I'll sack you up.
+[18:51.970 --> 18:52.230]  Thanks.
+[18:52.650 --> 18:53.450]  We'll fill his sack.
+[18:53.450 --> 18:53.770]  Yeah.
+[18:54.330 --> 18:55.230]  I'll handle your sack.
+[18:55.950 --> 18:56.870]  You're used to that.
+[18:57.050 --> 18:58.010]  I'm gonna cradle it.
+[18:58.170 --> 18:59.430]  We've known each other for a very long time.
+[18:59.610 --> 19:01.390]  And they're clean now that he's got waxed.
+[19:01.450 --> 19:03.470]  We lived together for a while, too, so we...
+[19:03.470 --> 19:09.590]  We used to, when we first started, we'd double up on room-share beds, so I was big spoon very often.
+[19:09.650 --> 19:11.770]  Would you insist on one bed, not the other?
+[19:11.770 --> 19:14.130]  Yeah, I'd be like, oh no, they messed up the reservation!
+[19:15.450 --> 19:17.250]  He's joking, but...
+[19:17.250 --> 19:17.670]  It happened.
+[19:18.150 --> 19:22.970]  There was a time, I think we've told this story on the RT podcast years ago, but I woke up in the middle of the night one night,
+[19:22.970 --> 19:24.910]  and he was big spooning me.
+[19:25.390 --> 19:28.150]  Like, he had his arms around me and was nuzzling my neck.
+[19:28.170 --> 19:29.130]  This is so much stuff.
+[19:29.870 --> 19:30.830]  What is happening?
+[19:31.230 --> 19:32.470]  Somebody gave us all this.
+[19:33.850 --> 19:34.770]  I got a Barbie!
+[19:35.450 --> 19:37.270]  Oh, look, a No Effects koozie.
+[19:37.750 --> 19:39.290]  Oh, thank you. I'm gonna take that.
+[19:39.770 --> 19:40.370]  Oh, here we go.
+[19:40.810 --> 19:41.670]  Oh, look at her.
+[19:41.670 --> 19:42.350]  A gift for Anma.
+[19:42.590 --> 19:43.810]  Holy shit, dude, he's right here.
+[19:44.050 --> 19:45.030]  What are the odds?
+[19:45.690 --> 19:46.750]  A gift for Anma.
+[19:46.910 --> 19:51.770]  Went to the No Effects concert and thought of you as a frequent Achieve Coffee consumer.
+[19:51.770 --> 19:53.850]  Oh, I loved Achieve Coffee until they discontinued it.
+[19:54.650 --> 19:57.370]  We can't... and then they became Conker, they just renamed it.
+[19:57.390 --> 19:59.610]  So I just kept the subscription going and then they eventually killed that.
+[19:59.930 --> 20:01.690]  We can't wait for the Anma coffee.
+[20:02.050 --> 20:02.670]  Trey and Alicia.
+[20:02.810 --> 20:04.530]  Trey and Alicia, you guys went above and beyond. Thank you.
+[20:04.670 --> 20:05.190]  And they sent me a Barbie.
+[20:05.190 --> 20:06.910]  So this is like some No Effects coffee, I think.
+[20:06.930 --> 20:13.110]  And she even has shoes on, which none of my Barbies ever really had shoes because my mom called them vacuum cleaner food.
+[20:13.370 --> 20:13.650]  Oh.
+[20:14.230 --> 20:15.570]  Ah, look how cute she is!
+[20:15.590 --> 20:16.270]  Is that her original hair?
+[20:16.530 --> 20:17.670]  She does!
+[20:18.510 --> 20:22.950]  And this is like a... this is like an early 90s or late 80s Barbie.
+[20:23.510 --> 20:26.050]  We have to... we have to have like a coffee episode.
+[20:26.050 --> 20:27.370]  Maybe when we do our...
+[20:27.370 --> 20:27.790]  A roasting.
+[20:28.070 --> 20:28.810]  Our stream.
+[20:29.490 --> 20:30.650]  Yeah, because we're talking about doing a stream.
+[20:30.950 --> 20:31.890]  Maybe this is the coffee...
+[20:31.890 --> 20:32.610]  That's the coffee we're going to use for that.
+[20:32.690 --> 20:35.610]  Thanks, Trey and Alicia. We might drink this on a live stream.
+[20:35.610 --> 20:36.130]  On a future stream.
+[20:36.310 --> 20:36.970]  Coming up soon.
+[20:37.870 --> 20:39.890]  Then there's all the Trolls cards.
+[20:40.250 --> 20:40.830]  NAS cards.
+[20:41.010 --> 20:41.870]  Jesus, I'm just gonna...
+[20:41.870 --> 20:42.330]  NAS cards?
+[20:42.490 --> 20:43.450]  National Lampoon.
+[20:44.410 --> 20:44.770]  Superstars.
+[20:45.590 --> 20:45.950]  Hollywood.
+[20:45.950 --> 20:47.050]  I love those.
+[20:47.150 --> 20:47.890]  I got you, bud.
+[20:47.970 --> 20:48.590]  That was very funny.
+[20:48.870 --> 20:49.390]  Tomb Raider cards.
+[20:49.470 --> 20:50.790]  I'll open that for you, Gus, because that's you.
+[20:51.870 --> 20:53.210]  Is that your first crush?
+[20:53.550 --> 20:53.950]  You love her?
+[20:53.970 --> 20:54.670]  Because of video games.
+[20:55.170 --> 20:56.010]  Because Gus likes video games.
+[20:56.090 --> 20:58.610]  He just talked about how much he loves video games a little while ago.
+[20:58.790 --> 21:00.950]  I also like them, but you're a bigger gamer than I am.
+[21:02.230 --> 21:03.390]  I like that it's like a competition.
+[21:03.390 --> 21:04.770]  Watch this, watch this, watch this.
+[21:05.290 --> 21:06.710]  I mean, Gus isn't as big of a gamer.
+[21:06.730 --> 21:09.190]  I'm a much bigger gamer than Gus, so it doesn't really...
+[21:09.190 --> 21:10.510]  He doesn't even play anymore, does he?
+[21:10.770 --> 21:11.430]  Not like I do.
+[21:11.650 --> 21:12.670]  You're up every night.
+[21:12.750 --> 21:13.450]  You stay up late.
+[21:13.570 --> 21:14.690]  He doesn't really... not like...
+[21:15.950 --> 21:17.450]  driving trucks to a video game or anything.
+[21:17.710 --> 21:18.390]  No, he didn't.
+[21:18.490 --> 21:21.770]  It's really serious business getting logs across a river.
+[21:22.310 --> 21:24.330]  If I had told him, if I had started with that way,
+[21:24.390 --> 21:24.570]  he'd have been like,
+[21:24.590 --> 21:25.350]  what the fuck do you think?
+[21:25.470 --> 21:26.170]  You're a bigger gamer.
+[21:26.650 --> 21:27.290]  Fuck you.
+[21:27.670 --> 21:28.450]  Fuck you, Jet.
+[21:28.490 --> 21:29.750]  He would have walked off.
+[21:30.830 --> 21:31.470]  For me?
+[21:31.710 --> 21:32.530]  Oh, my God.
+[21:32.690 --> 21:36.310]  Oh, it's a 1966 Barbie with handmade outfits from the 60s.
+[21:36.390 --> 21:37.810]  Oh, my God.
+[21:37.930 --> 21:38.550]  Get back over here.
+[21:38.570 --> 21:39.510]  You got a Barbie to put them on.
+[21:39.930 --> 21:40.250]  Yes.
+[21:40.390 --> 21:41.750]  That's why I was saying she looks different.
+[21:41.850 --> 21:42.730]  She's from the 60s.
+[21:42.730 --> 21:43.310]  She built different.
+[21:43.310 --> 21:44.070]  She is.
+[21:44.150 --> 21:45.870]  You can see the differences in, like,
+[21:46.390 --> 21:48.350]  their little faces change over the years.
+[21:48.550 --> 21:49.910]  These are what mine look like.
+[21:50.930 --> 21:51.850]  She's weird, Barbie.
+[21:51.910 --> 21:53.130]  Her titties keep coming out.
+[21:54.110 --> 21:55.350]  But, yeah, like, they...
+[21:57.390 --> 21:58.910]  I'm not going to pay attention anymore.
+[22:00.970 --> 22:03.270]  We're going to open up McDonald's collectible cards.
+[22:03.950 --> 22:06.350]  One McDonald's cost gel in every pack.
+[22:06.410 --> 22:08.110]  Okay, do you think that this is going to be, like,
+[22:08.410 --> 22:10.770]  Grimace or is it going to be, like, Big Mac?
+[22:10.850 --> 22:12.330]  I hope we get, like, a Fry Guy rookie card.
+[22:13.310 --> 22:15.950]  I want a one-of-one Hamburglar.
+[22:15.990 --> 22:17.290]  I think it's their characters.
+[22:18.310 --> 22:19.550]  That's the Mac the Knife.
+[22:19.630 --> 22:20.310]  Oh, that's awesome.
+[22:20.390 --> 22:20.990]  That's pretty nice.
+[22:21.230 --> 22:21.890]  No, it's...
+[22:21.890 --> 22:22.110]  Mac Knight.
+[22:23.030 --> 22:23.650]  Mac Tonight.
+[22:23.830 --> 22:24.710]  Mac Tonight, that's it.
+[22:26.150 --> 22:26.870]  Here's an...
+[22:26.870 --> 22:28.190]  I don't know, just a picture of an old McDonald's.
+[22:28.230 --> 22:28.970]  That looks like the...
+[22:28.970 --> 22:31.030]  There's a McDonald's like that up in the gross point.
+[22:33.530 --> 22:34.930]  Look for the golden arches.
+[22:34.990 --> 22:35.350]  Those are cool.
+[22:35.450 --> 22:36.370]  And then we got our cell.
+[22:36.730 --> 22:38.170]  It's Ronald McDonald himself.
+[22:38.370 --> 22:38.730]  Whoa.
+[22:39.690 --> 22:40.050]  Dang.
+[22:41.190 --> 22:42.190]  They don't use them anymore.
+[22:42.190 --> 22:44.010]  Oh, they really don't.
+[22:44.050 --> 22:44.450]  Yeah, he's gone.
+[22:45.350 --> 22:47.910]  I feel like the big clown scare in, like, what was it?
+[22:47.990 --> 22:50.230]  Yeah, 2017, 2018.
+[22:50.430 --> 22:51.190]  They did away with it.
+[22:51.210 --> 22:52.190]  This is a family-friendly...
+[22:52.190 --> 22:55.050]  Do you know who the first Ronald McDonald was?
+[22:55.410 --> 22:56.710]  It was Wilford Scott?
+[22:57.250 --> 22:57.870]  Wilford Brimley?
+[22:57.870 --> 22:58.430]  Wilford Brimley.
+[22:58.610 --> 22:59.010]  No, no.
+[22:59.210 --> 23:00.390]  It was Willard Scott.
+[23:00.490 --> 23:01.250]  Yeah, Willard Scott.
+[23:01.450 --> 23:02.670]  Ooh, a disco ball.
+[23:03.410 --> 23:05.890]  Okay, now we'll open up these Jurassic Park cards.
+[23:08.450 --> 23:10.350]  I don't even know they made Jurassic Park cards.
+[23:10.950 --> 23:12.010]  Unless I've already opened them up.
+[23:12.010 --> 23:16.390]  What if they found a mosquito who had eaten a card in the 40,000 BC?
+[23:17.650 --> 23:19.890]  Of science and saurians.
+[23:20.110 --> 23:21.070]  Did I say that right, Gus?
+[23:21.350 --> 23:21.850]  I guess.
+[23:22.010 --> 23:22.490]  What is that?
+[23:22.550 --> 23:23.070]  What does that mean?
+[23:23.250 --> 23:23.850]  I don't know.
+[23:24.530 --> 23:25.910]  You need Jack here for this.
+[23:25.950 --> 23:27.190]  This project has legs.
+[23:28.570 --> 23:29.610]  Monstrous invader.
+[23:31.390 --> 23:33.170]  The T-Rex gets her goat.
+[23:35.270 --> 23:36.930]  Rex's savage assault.
+[23:37.450 --> 23:37.710]  Whoa.
+[23:37.970 --> 23:39.270]  Dude, that's a cool shot.
+[23:39.310 --> 23:39.830]  That is cool.
+[23:40.930 --> 23:43.830]  That movie still holds up, I feel like.
+[23:43.890 --> 23:47.050]  Even with the technology, certain things...
+[23:47.050 --> 23:47.390]  I don't know.
+[23:47.570 --> 23:49.550]  I just feel like it's not as dated, I feel like.
+[23:49.990 --> 23:51.990]  It's an odd-looking card, if I'm being honest with you.
+[23:52.670 --> 23:53.270]  Steven Spielberg.
+[23:53.310 --> 23:54.110]  What do you got in your hand there, buddy?
+[23:54.690 --> 23:55.630]  A baby bront.
+[23:57.350 --> 23:59.410]  He's like, look at how big my brontosaurus is.
+[24:00.430 --> 24:01.950]  Directing dinos and their prey.
+[24:04.110 --> 24:04.830]  And then...
+[24:04.830 --> 24:06.450]  The cunning of this creature.
+[24:08.290 --> 24:09.010]  And then...
+[24:09.490 --> 24:10.290]  Rap attack.
+[24:12.350 --> 24:13.650]  Just tap, tap, tap.
+[24:13.770 --> 24:14.650]  We gotta save that one.
+[24:16.390 --> 24:17.510]  That one's so good.
+[24:17.530 --> 24:18.410]  You get enough, you can make a picture.
+[24:18.550 --> 24:19.270]  Alright, we'll save that.
+[24:19.330 --> 24:20.830]  Can I read my card from my Barbies?
+[24:20.970 --> 24:21.410]  Yes, please.
+[24:21.750 --> 24:26.410]  I came across several vintage Barbies in a shop, and in my awe, I had to ask if they were for sale.
+[24:26.810 --> 24:27.330]  They were not.
+[24:27.470 --> 24:30.110]  They were the shop owner's mother or grandmother's.
+[24:30.130 --> 24:30.730]  I can't remember.
+[24:31.290 --> 24:37.330]  During our convo, I mentioned fuckface and Geoff opening Barbie on break shit.
+[24:37.810 --> 24:42.450]  Anyways, there were some Barbies she was willing to part with, along with some handmade dresses.
+[24:42.670 --> 24:46.610]  Emily, I hope you enjoy this as much as I did coming across this wonderful lady who was willing to share.
+[24:47.090 --> 24:47.750]  Thank you.
+[24:47.830 --> 24:48.310]  That's so sweet.
+[24:48.370 --> 24:50.030]  Danny, Lev, Alicia, and Troy.
+[24:50.450 --> 24:52.590]  Ah, this is so awesome.
+[24:53.130 --> 24:56.270]  I'm barely paying attention now, but these are so, like...
+[24:56.270 --> 25:00.650]  My grandma used to make dresses for my Barbies, so it's always nice to see little handmade ones.
+[25:00.650 --> 25:01.410]  They're one of a kind.
+[25:01.770 --> 25:01.970]  Yeah.
+[25:02.050 --> 25:02.610]  They're one of ones.
+[25:02.710 --> 25:04.170]  And I will treasure these forever.
+[25:04.590 --> 25:05.110]  Oh, look how cute.
+[25:05.110 --> 25:06.710]  That's gotta be a hard sell, this little sweet old lady.
+[25:07.010 --> 25:10.250]  Listen, it's for the most adorable podcast called Fuckface.
+[25:11.410 --> 25:12.190]  And they break shit.
+[25:12.250 --> 25:13.570]  No, they're not going to break your Barbies.
+[25:13.770 --> 25:15.330]  Yeah, and it's for this show called Break Shit.
+[25:15.530 --> 25:17.230]  I want this dress in real life.
+[25:17.290 --> 25:18.050]  Look how cute that is.
+[25:18.050 --> 25:18.610]  That is adorable.
+[25:18.950 --> 25:20.270]  And her cute little shoes.
+[25:20.430 --> 25:21.030]  I'd die.
+[25:21.690 --> 25:22.430]  Well, please don't.
+[25:22.490 --> 25:23.050]  I'm not.
+[25:23.310 --> 25:24.730]  I don't want to raise the dog by myself.
+[25:25.490 --> 25:27.410]  All right, let's open up these Tomb Raider cards.
+[25:27.550 --> 25:29.350]  Are you telling them what the name isn't?
+[25:29.370 --> 25:30.130]  Like, when they guess?
+[25:31.050 --> 25:32.090]  I'm going to tell them if it's not the name.
+[25:32.150 --> 25:32.750]  I'm not going to lie.
+[25:32.750 --> 25:33.870]  It's not Herman.
+[25:34.130 --> 25:36.090]  As it's been spread online.
+[25:36.570 --> 25:37.290]  Atlantean Scion.
+[25:37.750 --> 25:38.970]  This is for a game, I think.
+[25:39.250 --> 25:40.790]  Combat Knife, Maze.
+[25:40.990 --> 25:42.030]  Oh, I see what you're talking about.
+[25:42.570 --> 25:42.930]  Concentration.
+[25:43.050 --> 25:45.830]  Well, maybe we'll get enough cards we can play the...
+[25:45.830 --> 25:46.550]  The Tomb Raider game?
+[25:46.570 --> 25:47.030]  The Tomb Raider game.
+[25:47.090 --> 25:48.590]  Let's open up a little bit of old-timey football.
+[25:49.450 --> 25:51.790]  Special Thousand Yard Club, 1989.
+[25:52.450 --> 25:52.950]  It was a good year.
+[25:53.050 --> 25:54.570]  Isn't the Thousand Yard Club something bad?
+[25:54.630 --> 25:55.750]  Like the Thousand Yard Stare?
+[25:56.070 --> 25:56.290]  Yeah.
+[25:57.010 --> 25:57.370]  No.
+[25:57.670 --> 26:00.990]  That's for receivers and running backs if they get a thousand yards in the season.
+[26:00.990 --> 26:05.750]  I had Thousand Yard Club after I got my asshole waxed.
+[26:06.530 --> 26:07.010]  Jets.
+[26:08.190 --> 26:09.910]  Ooh, Sterling Sharp.
+[26:10.130 --> 26:10.850]  I wonder if that's his rookie.
+[26:11.290 --> 26:12.190]  Should just leave that, please.
+[26:12.690 --> 26:13.510]  Lars Tate.
+[26:13.990 --> 26:15.010]  Dale Hatcher.
+[26:16.570 --> 26:17.830]  Millard gets his man.
+[26:18.770 --> 26:19.850]  Ooh, Joe Morris.
+[26:19.970 --> 26:20.590]  Thousand Yard Club.
+[26:20.710 --> 26:21.150]  There you go.
+[26:21.990 --> 26:22.550]  Yeah, you can see it.
+[26:22.610 --> 26:23.190]  He's dead in the eyes.
+[26:24.230 --> 26:25.190]  Kurt Warner.
+[26:25.950 --> 26:26.670]  Freeman McNeil.
+[26:26.670 --> 26:27.530]  These cards are awesome.
+[26:28.010 --> 26:28.890]  Steve Poulier.
+[26:29.790 --> 26:32.050]  Gary Clark Jr., the musician.
+[26:32.050 --> 26:33.190]  Chris Carter.
+[26:33.750 --> 26:35.170]  Lee Williams.
+[26:36.170 --> 26:37.110]  Joe Montana.
+[26:37.730 --> 26:38.590]  That's pretty fucking cool.
+[26:39.010 --> 26:42.530]  Steve Sewell and Bubby Brister.
+[26:43.990 --> 26:44.570]  Bubby.
+[26:44.790 --> 26:45.370]  Bubby.
+[26:45.470 --> 26:46.010]  Bubby.
+[26:46.330 --> 26:46.910]  Bubby.
+[26:46.910 --> 26:47.630]  Bubby name.
+[26:47.810 --> 26:48.210]  We'll say Bubby.
+[26:48.750 --> 26:49.830]  Okay, what do we got in here?
+[26:49.850 --> 26:50.310]  We got Batman.
+[26:50.550 --> 26:51.630]  We got X-Men.
+[26:51.750 --> 26:53.350]  We got Cosmic Teams.
+[26:54.190 --> 26:54.550]  We got...
+[26:54.550 --> 26:55.190]  What's Cosmic Teams?
+[26:55.370 --> 26:55.730]  Is that a...
+[26:55.730 --> 26:57.310]  DC Skybox.
+[26:57.430 --> 26:57.730]  Let's see.
+[26:57.730 --> 26:58.590]  Comic thing?
+[26:59.090 --> 26:59.250]  Probably.
+[27:02.930 --> 27:04.410]  I'm not a comic person.
+[27:04.510 --> 27:05.710]  That's like a nerd thing I missed.
+[27:06.170 --> 27:07.870]  Leviathan from the Legionnaires.
+[27:09.010 --> 27:10.610]  World of Magic.
+[27:10.850 --> 27:14.790]  I'm gonna assume that's the kid from the Books of Magic.
+[27:15.750 --> 27:16.310]  That's what I thought.
+[27:17.210 --> 27:18.250]  Yeah, Books of Magic.
+[27:18.370 --> 27:18.950]  Yeah, yeah.
+[27:19.630 --> 27:20.870]  Green Lantern Corps.
+[27:21.550 --> 27:23.390]  I wish we had John Risinger here right now, right?
+[27:25.090 --> 27:26.050]  Here's Brick.
+[27:28.170 --> 27:30.550]  He's a brick house.
+[27:30.670 --> 27:32.050]  He's a brick lantern.
+[27:33.610 --> 27:34.750]  There's those guys.
+[27:35.350 --> 27:36.970]  Oh, Heckler from the new breed.
+[27:37.090 --> 27:37.330]  That's me.
+[27:37.430 --> 27:38.870]  If I was a superhero, I would be Heckler.
+[27:40.050 --> 27:40.610]  Nightwing.
+[27:41.670 --> 27:43.170]  Batman's special friend.
+[27:43.450 --> 27:43.910]  No, that's Robin.
+[27:45.110 --> 27:47.430]  Well, he's Batman's ex-special friend.
+[27:48.790 --> 27:51.050]  And then the Specter.
+[27:52.330 --> 27:53.410]  Oh, he's sneaky.
+[27:53.850 --> 27:54.710]  That's really cool.
+[27:54.710 --> 27:56.850]  I like that little skull at the bottom.
+[27:57.450 --> 27:58.910]  You can put him with the Barbies.
+[27:58.970 --> 27:59.410]  Yeah.
+[27:59.670 --> 28:02.210]  That was fucking cool.
+[28:02.450 --> 28:04.250]  Nerdtron JJ says, oh, I had these cards.
+[28:05.050 --> 28:06.610]  Let's open up these X-Men cards.
+[28:06.830 --> 28:08.430]  I have some more for John Risinger someday.
+[28:08.690 --> 28:10.190]  And then we'll move on to the Gus cards.
+[28:10.350 --> 28:11.530]  We gotta get the ball rolling.
+[28:11.850 --> 28:12.910]  Oh, man, it's already like...
+[28:13.350 --> 28:13.910]  Halfway through.
+[28:14.270 --> 28:14.950]  Time flies.
+[28:17.210 --> 28:20.090]  Oh, God, I remember these from when I was in high school.
+[28:20.930 --> 28:22.670]  These are so fucking cool.
+[28:22.750 --> 28:23.510]  Here's Polaris.
+[28:23.510 --> 28:25.990]  I am so excited to open these.
+[28:27.370 --> 28:27.730]  Cerise.
+[28:28.190 --> 28:28.930]  Here's a Sentinel.
+[28:31.270 --> 28:31.990]  Sienna Blaze.
+[28:32.410 --> 28:33.790]  Look at all these characters I don't remember.
+[28:33.870 --> 28:35.010]  Yeah, Sentinel's the only one I know.
+[28:35.390 --> 28:37.010]  Rogue and Storm in action.
+[28:37.590 --> 28:39.290]  And then Arch-Enemy's Wolverine.
+[28:39.510 --> 28:40.150]  And I guess...
+[28:40.150 --> 28:40.330]  That's you.
+[28:40.690 --> 28:41.910]  Another one that's probably Sabretooth.
+[28:42.010 --> 28:43.010]  And you can see his hand there.
+[28:43.430 --> 28:44.110]  Those are cool.
+[28:44.390 --> 28:46.610]  I guess if you have the Sabretooth, you put him like side-by-side or something.
+[28:46.870 --> 28:47.790]  All right, we'll open Spawn.
+[28:47.890 --> 28:48.190]  Fuck it.
+[28:48.730 --> 28:49.890]  Yeah, you put him side-by-side.
+[28:50.290 --> 28:52.270]  I think it was one of those in the last thing we opened, too.
+[28:52.750 --> 28:53.490]  Whatever that was.
+[28:53.490 --> 28:58.830]  What was the name of the people that we got the cards from last time?
+[28:58.990 --> 29:01.490]  Like the Gucci cards and the...
+[29:02.550 --> 29:04.210]  I don't remember what it was called.
+[29:05.270 --> 29:06.990]  They're on the box. I just can't see that far.
+[29:08.530 --> 29:09.110]  Heritage Club?
+[29:09.370 --> 29:12.590]  Heritage. I was just trying to look up what the value was of that.
+[29:12.630 --> 29:13.930]  Because even though we didn't get all the other ones.
+[29:14.250 --> 29:14.590]  Spawn.
+[29:14.670 --> 29:16.550]  These are weird-shaped cards.
+[29:16.650 --> 29:17.030]  Yeah, they are.
+[29:18.010 --> 29:18.350]  Spawn.
+[29:19.110 --> 29:20.750]  They don't fit in any of your binders.
+[29:21.390 --> 29:21.730]  Spawn.
+[29:22.690 --> 29:23.050]  Spawn.
+[29:23.050 --> 29:23.650]  Is it all Spawn?
+[29:26.170 --> 29:26.530]  Spawn.
+[29:27.930 --> 29:28.290]  Spawn.
+[29:29.030 --> 29:29.390]  Spawn.
+[29:29.390 --> 29:30.150]  Here's Spawn.
+[29:31.250 --> 29:33.270]  How many Academy Awards did the Spawn movie win?
+[29:33.430 --> 29:33.810]  I don't remember.
+[29:34.390 --> 29:34.770]  I think it was...
+[29:35.290 --> 29:38.150]  You know, I have never seen the Spawn movie.
+[29:38.350 --> 29:38.910]  Is it good?
+[29:39.090 --> 29:43.710]  I saw it when it came out at a drive-in, and I don't remember anything about it.
+[29:43.790 --> 29:44.190]  Let me see some cards.
+[29:44.830 --> 29:44.990]  Oh.
+[29:45.110 --> 29:46.030]  You don't want to do Blizzard wins?
+[29:46.490 --> 29:47.210]  We'll do those last time.
+[29:48.230 --> 29:50.490]  We'll do those in like ten minutes.
+[29:50.650 --> 29:51.070]  Fifteen minutes.
+[29:51.670 --> 29:53.470]  Here, get you some Fleer.
+[29:53.670 --> 29:54.650]  Yeah, perfect. We'll do this.
+[29:54.750 --> 29:56.710]  Has the audience ever heard the bag rolling around?
+[29:57.510 --> 29:58.190]  I don't know.
+[29:58.370 --> 29:59.810]  Do you want to give them some ASMR?
+[30:00.110 --> 30:04.590]  This is some 35-year-old bag ASMR.
+[30:07.190 --> 30:08.970]  This is what airports used to sound like.
+[30:09.570 --> 30:11.830]  I think the wheels have broken off of this thing.
+[30:23.870 --> 30:26.690]  That's what Gus looks like when he's late for his connecting flight.
+[30:28.090 --> 30:29.090]  It's so loud.
+[30:29.850 --> 30:32.210]  Straight out of the pack, Nolan Ryan. There you go.
+[30:33.330 --> 30:34.210]  We'll sleeve that.
+[30:34.410 --> 30:35.850]  Oda B. McDowell.
+[30:36.210 --> 30:38.890]  Here we have Starter and Stoppers.
+[30:39.050 --> 30:40.970]  Mark Kubica and Geoff Russell.
+[30:41.270 --> 30:41.970]  Ken Hill.
+[30:42.510 --> 30:42.850]  Rich.
+[30:43.110 --> 30:44.450]  Am I rich yet?
+[30:44.870 --> 30:45.770]  It's his name, Rich.
+[30:45.770 --> 30:47.930]  You can afford a haircut.
+[30:48.530 --> 30:49.530]  I wish you would.
+[30:49.770 --> 30:50.530]  Sid Fernandez.
+[30:50.990 --> 30:52.370]  Bill Ripken himself.
+[30:52.590 --> 30:54.630]  One year removed from that card.
+[30:56.110 --> 30:57.110]  Jeremy Roos.
+[30:57.250 --> 30:58.070]  Gary Carter.
+[30:58.170 --> 30:58.970]  He was a smiley dude.
+[30:59.330 --> 30:59.850]  Tom Candiotti.
+[31:00.490 --> 31:01.210]  Dale Murphy.
+[31:01.310 --> 31:02.530]  Players of the Decade.
+[31:02.930 --> 31:03.930]  Bob Stanley.
+[31:04.730 --> 31:05.570]  And stickers.
+[31:09.190 --> 31:11.230]  Do you guys want to take a baseball quiz?
+[31:11.490 --> 31:11.730]  Yeah.
+[31:12.010 --> 31:12.190]  Alright.
+[31:13.470 --> 31:19.850]  What was the only year during the 1970s in which the Reds did not finish in either first place or second place?
+[31:19.930 --> 31:20.630]  Don't look at the answer.
+[31:20.710 --> 31:23.850]  I'm not looking at the answer. I'm laughing at how dated that question is.
+[31:23.850 --> 31:24.350]  Is this from 1990?
+[31:25.270 --> 31:26.830]  What is the year?
+[31:26.830 --> 31:30.870]  What was the only year during the 1970s in which the Reds did not finish in either first place or second place?
+[31:30.890 --> 31:31.910]  I mean, we all know this one.
+[31:32.210 --> 31:32.570]  1976.
+[31:33.170 --> 31:33.770]  It was 72.
+[31:34.150 --> 31:34.510]  1971.
+[31:35.370 --> 31:39.230]  True or false, the Reds have worn green uniforms on St. Patrick's Day.
+[31:39.650 --> 31:39.870]  True.
+[31:40.270 --> 31:40.590]  True.
+[31:40.590 --> 31:41.830]  Yeah, that's true.
+[31:42.210 --> 31:47.890]  What is the only year since 1900 in which the Reds opened their season on the road?
+[31:48.970 --> 31:49.970]  Up to 1990.
+[31:50.210 --> 31:51.670]  They might have done that since then.
+[31:54.790 --> 31:55.270]  1988.
+[31:55.810 --> 31:56.290]  1986.
+[31:56.890 --> 31:57.370]  1966.
+[31:57.990 --> 31:59.490]  Oh, you had most of the numbers.
+[31:59.890 --> 32:01.430]  I had a lot. It's just not in the right order.
+[32:02.030 --> 32:02.590]  Jim Deshaies.
+[32:03.610 --> 32:04.570]  Connie Lansford.
+[32:04.950 --> 32:05.650]  Tommy Green.
+[32:05.990 --> 32:06.350]  Hey!
+[32:06.490 --> 32:07.270]  Deon Sanders.
+[32:07.450 --> 32:07.690]  Hey!
+[32:08.270 --> 32:09.150]  We were talking about him earlier.
+[32:09.150 --> 32:10.290]  Terry Mulholland.
+[32:10.530 --> 32:11.410]  Julio Franco.
+[32:12.210 --> 32:13.390]  Derek Lilliquest.
+[32:13.490 --> 32:15.570]  Will Clark and Kevin Mitchell.
+[32:16.030 --> 32:16.790]  The dynamic duo.
+[32:17.070 --> 32:17.810]  Scott Terry.
+[32:18.370 --> 32:19.250]  Scott Bales.
+[32:19.610 --> 32:20.610]  David Cohn.
+[32:21.050 --> 32:21.970]  Geoff Ballard.
+[32:22.410 --> 32:23.850]  Bill, Freddy Krueger.
+[32:24.610 --> 32:25.230]  Mike McFarlane.
+[32:26.190 --> 32:27.110]  Dave Magadan.
+[32:28.370 --> 32:29.050]  Magadan.
+[32:30.910 --> 32:34.370]  Do you think he was at the Capitol on January 6th? Dave Magadan?
+[32:34.510 --> 32:35.850]  Did you see him when you were there?
+[32:38.730 --> 32:39.850]  You love to say that.
+[32:39.990 --> 32:40.130]  Yeah.
+[32:41.270 --> 32:44.610]  I just don't know where you were that day. You didn't have very good service.
+[32:44.910 --> 32:46.850]  What? Now, I remember there being...
+[32:46.850 --> 32:53.850]  Now, I remember there being a blonde hairstylist from Texas who charted a private flight to go there.
+[32:53.950 --> 32:54.090]  Yeah.
+[32:54.330 --> 32:56.650]  You're a blonde hairstylist from Texas.
+[32:56.790 --> 32:58.390]  I haven't charted a flight to go there, though.
+[32:59.390 --> 33:00.090]  Uh...
+[33:01.310 --> 33:02.710]  Rafael Palmero.
+[33:02.810 --> 33:03.830]  Dale Murphy.
+[33:05.090 --> 33:06.810]  Nolan Ryan and Mike Scott.
+[33:06.990 --> 33:07.430]  That's cool.
+[33:07.550 --> 33:08.810]  I'm just having a talk and shop.
+[33:09.250 --> 33:09.990]  It's track out club.
+[33:10.590 --> 33:11.590]  Chris Carpenter.
+[33:12.090 --> 33:12.890]  Dave Clark.
+[33:13.090 --> 33:13.910]  Ron Darling.
+[33:14.370 --> 33:15.130]  Mark Knudsen.
+[33:15.510 --> 33:16.610]  Gary Thurman.
+[33:17.010 --> 33:18.150]  Mackie Sasser.
+[33:18.530 --> 33:19.570]  Barry Larkin.
+[33:19.790 --> 33:20.540]  Don Mattingly.
+[33:21.230 --> 33:22.230]  Candy Maldonado.
+[33:22.530 --> 33:23.650]  John Thompson.
+[33:24.210 --> 33:24.910]  Candy Maldonado.
+[33:25.030 --> 33:25.370]  Name's a thing.
+[33:25.770 --> 33:26.150]  Name's a food.
+[33:26.190 --> 33:26.970]  Name's a food.
+[33:26.970 --> 33:27.550]  Thank you.
+[33:27.570 --> 33:28.810]  We don't have any candies.
+[33:29.510 --> 33:29.810]  Aw.
+[33:30.470 --> 33:31.110]  He seems sweet.
+[33:31.230 --> 33:34.150]  All right, we're gonna open up this one pack and then we'll switch over to the other cards.
+[33:34.190 --> 33:38.890]  The janitor at my elementary school, his first name was also Candy.
+[33:38.970 --> 33:39.650]  Would have been his nickname.
+[33:39.710 --> 33:40.390]  Was it Candy Man?
+[33:40.710 --> 33:41.010]  Candelario.
+[33:41.170 --> 33:42.250]  Did he give out candy to the kids?
+[33:42.250 --> 33:42.930]  No, he did not.
+[33:43.290 --> 33:44.330]  Was he a cool dude or not a cool dude?
+[33:44.330 --> 33:45.090]  Yeah, he was cool. I liked him.
+[33:45.230 --> 33:45.350]  Okay.
+[33:46.210 --> 33:47.490]  Still not in jail or anything?
+[33:47.650 --> 33:48.550]  Not as far as I know.
+[33:49.250 --> 33:50.230]  Dave Magadan again.
+[33:50.350 --> 33:51.170]  Brooke Jacobi.
+[33:51.830 --> 33:52.430]  Roger Clemens.
+[33:53.110 --> 33:53.710]  Randy McKemit.
+[33:54.410 --> 33:55.010]  Dennis Lamp.
+[33:55.090 --> 33:55.830]  Name's a thing.
+[33:55.830 --> 33:57.020]  Andre Dawson.
+[33:58.370 --> 33:59.770]  Gary Sheffield.
+[33:59.950 --> 34:00.910]  Mike Witt.
+[34:01.290 --> 34:02.610]  John Moses.
+[34:03.030 --> 34:04.290]  Steve Wilson.
+[34:05.070 --> 34:06.450]  Sweet Lou Whittaker.
+[34:06.850 --> 34:07.830]  Tony Gwynn.
+[34:09.390 --> 34:11.070]  Eric would like the Tony Gwynn.
+[34:12.210 --> 34:12.910]  Scott...
+[34:13.830 --> 34:14.910]  Hemond and Mark Gardner.
+[34:15.290 --> 34:16.030]  Rick Dempsey.
+[34:16.890 --> 34:19.350]  All right, now let's pop open these fuckers.
+[34:19.490 --> 34:19.910]  Ooh.
+[34:20.170 --> 34:20.390]  Okay.
+[34:20.550 --> 34:23.530]  All right, we're gonna celebrate Blizzard's iconic games, Gus.
+[34:23.710 --> 34:25.810]  What are some of Blizzard's iconic games?
+[34:28.370 --> 34:30.810]  Diablo, Warcraft, World of Warcraft, Starcraft.
+[34:32.330 --> 34:33.710]  That's about it.
+[34:34.090 --> 34:34.410]  Yeah?
+[34:34.530 --> 34:35.070]  Those are the big ones.
+[34:35.850 --> 34:37.130]  That's all I can think of off the top of my head.
+[34:37.190 --> 34:38.810]  Does Blizzard, does that company still exist?
+[34:39.350 --> 34:39.670]  Yes.
+[34:39.690 --> 34:40.250]  They're still around.
+[34:41.070 --> 34:41.710]  Wasn't there...
+[34:42.670 --> 34:43.310]  They've been...
+[34:43.310 --> 34:43.910]  Are they in Austin?
+[34:44.530 --> 34:46.030]  They have a branch in Austin.
+[34:46.050 --> 34:46.590]  Oh, okay.
+[34:46.610 --> 34:48.890]  I believe their headquarters is in Irvine, if I remember right.
+[34:49.070 --> 34:51.170]  He didn't, I noticed he didn't mention Overwatch.
+[34:51.610 --> 34:51.930]  Overwatch.
+[34:52.390 --> 34:53.110]  I play a little bit of Overwatch.
+[34:53.250 --> 34:53.630]  Not too much.
+[34:53.690 --> 34:54.750]  Speaking of Overwatch...
+[34:54.750 --> 34:55.330]  Sombra?
+[34:55.770 --> 34:56.890]  I don't know her.
+[34:57.050 --> 34:57.970]  She must be a DLC character.
+[34:57.970 --> 34:59.610]  She was not a launch character.
+[34:59.690 --> 35:00.470]  She came in later.
+[35:01.210 --> 35:02.250]  If I remember right.
+[35:02.350 --> 35:03.190]  There's Hanzo.
+[35:03.910 --> 35:04.890]  Someone asked if their...
+[35:04.890 --> 35:05.390]  From Overwatch?
+[35:05.570 --> 35:08.150]  ...Deon Sanders card was an error card?
+[35:08.690 --> 35:11.470]  I don't know how I would know if it was an error card or not.
+[35:11.590 --> 35:12.410]  I don't know.
+[35:12.530 --> 35:13.850]  What the fuck is this?
+[35:15.310 --> 35:16.110]  Looks like a puzzle piece.
+[35:16.110 --> 35:17.470]  Is it a puzzle piece of some kind?
+[35:17.730 --> 35:18.770]  It says it's a...
+[35:18.770 --> 35:19.310]  Oh, Hearthstone.
+[35:19.830 --> 35:20.910]  Oh, it's Horadric Cube?
+[35:21.570 --> 35:22.450]  Horadric Cube.
+[35:22.650 --> 35:24.170]  It's an item from Diablo.
+[35:24.170 --> 35:24.710]  Oh.
+[35:25.310 --> 35:27.430]  Oh, here's a blue foil...
+[35:30.030 --> 35:30.390]  Sinine?
+[35:30.590 --> 35:31.430]  Is that from Warcraft?
+[35:31.850 --> 35:32.550]  I don't know what that...
+[35:32.550 --> 35:33.270]  Oh, yeah. It looks like it.
+[35:33.290 --> 35:34.010]  Yeah, yeah. That's a troll.
+[35:34.250 --> 35:35.530]  What's your character in World of Warcraft?
+[35:35.970 --> 35:37.250]  I've played a few.
+[35:38.210 --> 35:40.430]  My first one was a troll mage.
+[35:40.530 --> 35:42.670]  I think the one I probably played the most was an undead priest, though.
+[35:42.830 --> 35:42.970]  Oh.
+[35:43.310 --> 35:45.650]  Here's the Dark Wanderer from Diablo.
+[35:46.290 --> 35:48.330]  Is World of Warcraft similar to D&D?
+[35:48.910 --> 35:49.270]  Yeah.
+[35:49.530 --> 35:50.690]  They're, you know, role-playing games.
+[35:50.710 --> 35:52.090]  You level up and do dungeons and stuff.
+[35:52.110 --> 35:53.050]  And you like groups, right?
+[35:53.050 --> 35:53.350]  Yeah.
+[35:54.570 --> 35:57.050]  The only thing I know about World of Warcraft was from South Park.
+[35:57.550 --> 35:59.650]  Gus and I used to play World of Warcraft together.
+[35:59.870 --> 36:00.530]  What was your character?
+[36:01.490 --> 36:05.050]  Well, when I played with Gus, I was an undead...
+[36:08.330 --> 36:08.650]  warlock.
+[36:09.110 --> 36:10.170]  I think back in those days.
+[36:10.350 --> 36:11.570]  We were always for the Horde.
+[36:11.670 --> 36:13.850]  Do you guys not play anymore because Gus doesn't really play video games?
+[36:13.990 --> 36:14.670]  I'm not a gamer.
+[36:14.790 --> 36:15.170]  Yeah, he's not a big gamer anymore.
+[36:15.170 --> 36:16.110]  He's not a big gamer anymore.
+[36:17.570 --> 36:19.050]  Mediva? I don't know that.
+[36:20.230 --> 36:20.890]  Do you know what that's from?
+[36:21.010 --> 36:21.270]  Let me see.
+[36:22.270 --> 36:22.590]  Hearthstone.
+[36:23.150 --> 36:23.630]  It's hard.
+[36:24.530 --> 36:26.490]  These are shiny, so I can't...
+[36:26.490 --> 36:27.050]  Yeah, it's hard to read them.
+[36:29.090 --> 36:30.530]  This is also from Hearthstone.
+[36:31.950 --> 36:32.590]  Valerius Sanguinar.
+[36:34.270 --> 36:35.670]  Here's another one of these things.
+[36:35.810 --> 36:36.750]  A horadric cube.
+[36:36.850 --> 36:37.590]  This one's...
+[36:38.830 --> 36:39.150]  Horadric?
+[36:39.930 --> 36:40.250]  Horadric.
+[36:40.330 --> 36:41.830]  Sorry, this one's sparkly in some way.
+[36:42.070 --> 36:43.210]  I regret to inform you.
+[36:43.330 --> 36:44.630]  It's actually horadric.
+[36:44.790 --> 36:47.550]  It comes from the base word horadrim.
+[36:47.810 --> 36:50.150]  I like how he changes his voice as if it's a normal voice.
+[36:51.430 --> 36:52.470]  I don't know what you're talking about.
+[36:54.110 --> 36:55.630]  Illidan from Hearthstone, I believe.
+[36:55.710 --> 36:56.670]  No, that's World of Warcraft.
+[36:56.930 --> 36:57.090]  Is it?
+[36:57.090 --> 36:59.690]  Is there a symbol on it that's telling you...
+[36:59.690 --> 37:00.510]  What's that?
+[37:01.510 --> 37:03.130]  I thought that was the Hearthstone symbol.
+[37:03.630 --> 37:04.830]  He was also in World of Warcraft.
+[37:04.970 --> 37:06.290]  That's what the Burning Crusade was all about.
+[37:06.330 --> 37:06.770]  I got you.
+[37:07.190 --> 37:07.810]  Here you go.
+[37:08.090 --> 37:08.450]  Thrall.
+[37:09.050 --> 37:09.850]  World of Warcraft.
+[37:10.630 --> 37:13.190]  Thrall was the boss of the bad guys.
+[37:13.870 --> 37:14.770]  Gus and I worked for him.
+[37:15.330 --> 37:16.870]  Is that who you had to beat?
+[37:17.010 --> 37:17.590]  We were the horde.
+[37:17.790 --> 37:18.090]  No.
+[37:18.570 --> 37:19.290]  He was like our boss.
+[37:20.310 --> 37:20.630]  Okay.
+[37:21.230 --> 37:23.990]  You were either a horde or ally, and we were a horde.
+[37:25.910 --> 37:27.230]  Volan Darkspear from World of Warcraft.
+[37:27.770 --> 37:28.890]  I wonder if these things have...
+[37:28.890 --> 37:30.030]  Ah, original art sketches.
+[37:30.130 --> 37:32.930]  I was going to say, I wonder if they have any autographs or any...
+[37:34.470 --> 37:37.070]  I've got a Thrall rookie card that's autographed.
+[37:37.770 --> 37:38.270]  Oh, cool.
+[37:38.650 --> 37:38.970]  Roadhog.
+[37:39.390 --> 37:39.950]  Hey, that's me.
+[37:42.050 --> 37:42.690]  You're Roadhog?
+[37:42.930 --> 37:44.230]  Yeah, that's me when I go on road trips.
+[37:45.730 --> 37:46.370]  Malfurion Stormrage.
+[37:46.370 --> 37:49.130]  That looks like some World of Warcraft shit.
+[37:49.310 --> 37:51.130]  Do they have deer antlers?
+[37:51.470 --> 37:52.850]  It's a druid, yeah.
+[37:52.850 --> 37:53.390]  A druid?
+[37:53.410 --> 37:54.110]  If I remember right.
+[37:54.170 --> 37:54.810]  Isn't that from Star Wars?
+[37:55.910 --> 37:56.470]  Green...
+[37:57.550 --> 37:58.550]  That's from Diablo.
+[37:58.870 --> 38:02.830]  Green Malthael from Diablo.
+[38:03.330 --> 38:04.970]  Very Diablo-esque art.
+[38:06.190 --> 38:07.050]  What's Diablo like?
+[38:07.050 --> 38:08.390]  Ner'zhul from World of Warcraft.
+[38:08.410 --> 38:15.350]  It's just like a grinding role-playing game where you just get better loot and kill bigger monsters and go through dungeons.
+[38:15.850 --> 38:17.010]  Is it open world?
+[38:17.770 --> 38:23.170]  Not really. It's like a big open map that you can wander around in, but it's not like a huge...
+[38:23.170 --> 38:24.370]  Like you go mission to mission?
+[38:24.630 --> 38:29.030]  To an extent. It's not like a massive map. It's like little areas you go to and then you do missions in.
+[38:29.230 --> 38:32.150]  It's on some kind of rails, though. I wouldn't say it's open.
+[38:33.150 --> 38:35.110]  I guess it's not on rails, really, but it's...
+[38:35.110 --> 38:39.490]  I need your correction to say no, but it really isn't truly open world.
+[38:39.690 --> 38:40.290]  No, not really.
+[38:42.190 --> 38:45.310]  There's like... you gotta go to the right and just keep going to the right.
+[38:45.390 --> 38:47.210]  But there's ways you can go up and down.
+[38:49.290 --> 38:49.970]  It's a fun game.
+[38:50.270 --> 38:52.370]  You play by yourself?
+[38:52.450 --> 38:54.470]  Millie and I played a bunch right when it came out.
+[38:54.590 --> 38:56.770]  Can you play together or do you play by yourself?
+[38:56.790 --> 38:57.090]  You can go either way.
+[38:58.450 --> 39:00.430]  You can play up to four people together, I think.
+[39:01.150 --> 39:01.810]  Right wing.
+[39:04.330 --> 39:05.050]  Death wing.
+[39:05.570 --> 39:06.410]  The different wings?
+[39:07.950 --> 39:08.810]  Wrecking ball wing.
+[39:10.190 --> 39:10.990]  That's cool.
+[39:13.310 --> 39:14.110]  Another green.
+[39:14.330 --> 39:15.010]  Oh, here's Diablo.
+[39:18.330 --> 39:20.750]  I guess green is uncommon and blue is rare.
+[39:20.930 --> 39:21.670]  I looked that up a second ago.
+[39:21.970 --> 39:25.170]  Asmodan and then Varian Wrynn.
+[39:25.610 --> 39:26.390]  Do you know who that is, Gus?
+[39:26.730 --> 39:27.930]  No, I have no idea.
+[39:28.170 --> 39:28.890]  It's probably some ally.
+[39:30.810 --> 39:32.330]  Diablo sounds like Freddy Krueger.
+[39:32.610 --> 39:35.310]  He is the root of all fears, buried deep within mortal minds.
+[39:35.370 --> 39:38.370]  He is the nightmare that awakens us, sweating in the dark.
+[39:38.370 --> 39:44.570]  He is an entity of pure malevolence and depthless evil.
+[39:44.910 --> 39:46.490]  It does sound like Freddy Krueger.
+[39:48.010 --> 39:48.810]  Alleria Windrunner.
+[39:49.330 --> 39:50.830]  That sounds like a Game of Thrones name.
+[39:51.150 --> 39:51.430]  It does.
+[39:51.610 --> 39:53.050]  I do not know who this one is.
+[39:54.270 --> 39:54.670]  Lunara.
+[39:55.150 --> 39:56.070]  She looks like Poison Ivy.
+[39:56.270 --> 39:57.370]  Heroes of the Storm.
+[39:57.630 --> 39:59.130]  Was that the MOBA?
+[39:59.290 --> 39:59.990]  Yeah, it was a MOBA.
+[40:00.170 --> 40:02.690]  It had all the different games in it.
+[40:03.530 --> 40:04.330]  Oh, shit.
+[40:04.430 --> 40:06.050]  I got a...
+[40:09.310 --> 40:10.730]  Glynraine Blizzcon card.
+[40:11.470 --> 40:16.690]  Oh, here's a Blackthorn.
+[40:17.390 --> 40:17.830]  Oh, my God.
+[40:17.890 --> 40:18.710]  Look how old that is, Gus.
+[40:19.250 --> 40:19.950]  What is that?
+[40:20.790 --> 40:22.150]  It is from Blackthorn.
+[40:22.430 --> 40:22.990]  I never played that.
+[40:22.990 --> 40:25.010]  Thrown into the futuristic planet of Truul,
+[40:25.110 --> 40:28.890]  Blackthorn must contend with a world overrun by mutant monsters and goblins.
+[40:28.990 --> 40:30.210]  It's supposed to be an old-ass Blizzard game.
+[40:31.150 --> 40:32.170]  It's before our time.
+[40:35.090 --> 40:35.390]  Turail.
+[40:35.770 --> 40:36.110]  Oh, yeah.
+[40:36.290 --> 40:37.470]  One of the main characters of Diablo.
+[40:37.670 --> 40:38.250]  Oh, you'll know this.
+[40:38.330 --> 40:38.690]  A stalker.
+[40:39.850 --> 40:40.150]  Starcraft.
+[40:41.010 --> 40:41.890]  We all know Stalker.
+[40:42.710 --> 40:42.830]  Yeah.
+[40:43.890 --> 40:45.270]  Gus is a big Starcraft guy.
+[40:45.830 --> 40:46.130]  Starcraft.
+[40:46.130 --> 40:46.850]  I definitely was.
+[40:46.990 --> 40:47.830]  Starcraft's a great game.
+[40:48.030 --> 40:49.450]  I remember the game Star Fox.
+[40:49.590 --> 40:50.330]  Oh, that's a good game, too.
+[40:50.650 --> 40:51.350]  I just remember going...
+[40:52.310 --> 40:52.730]  That's it.
+[40:52.770 --> 40:53.670]  That was pretty good, that was it.
+[40:55.630 --> 40:56.230]  Maeve Shadowsong.
+[40:56.310 --> 40:57.810]  Do you think they'll ever make another Starcraft?
+[40:58.970 --> 40:59.690]  I don't know.
+[40:59.930 --> 41:00.210]  Maybe?
+[41:01.470 --> 41:02.670]  Here's another Blizzcon card.
+[41:03.110 --> 41:03.810]  Too cool.
+[41:03.990 --> 41:06.530]  I thought maybe those were rare, but you're getting multiple ones.
+[41:07.670 --> 41:08.550]  Arana Starseeker.
+[41:09.110 --> 41:10.930]  Blizzbear named after Blizz?
+[41:10.930 --> 41:11.490]  We should ask him.
+[41:11.530 --> 41:11.910]  Blizzcon?
+[41:12.130 --> 41:12.790]  I don't think so.
+[41:14.690 --> 41:15.130]  Hellbat.
+[41:17.810 --> 41:18.250]  Yeah.
+[41:18.910 --> 41:20.170]  In chat, KBob2 said,
+[41:20.710 --> 41:24.390]  Regulation podcast listener finally having a day off to see this live.
+[41:24.410 --> 41:24.850]  So happy.
+[41:25.430 --> 41:27.530]  They've been relegated to a comment leaver now, though.
+[41:28.610 --> 41:29.230]  Yeah, sorry.
+[41:29.350 --> 41:31.630]  You're not a regulation listener anymore.
+[41:31.770 --> 41:32.550]  You're a comment leaver now.
+[41:32.550 --> 41:33.730]  Congratulations, welcome to the club.
+[41:33.830 --> 41:34.330]  Go buy the shirt.
+[41:36.010 --> 41:36.890]  Muradin Bronzebeard.
+[41:38.330 --> 41:38.770]  Wow.
+[41:39.030 --> 41:41.450]  That sounds like something Jack would call himself in D&D.
+[41:45.710 --> 41:46.590]  Tyrande Whisperwind.
+[41:47.390 --> 41:48.610]  Man, I don't know anything about Blizzard.
+[41:48.730 --> 41:49.170]  That's what I'm learning.
+[41:49.730 --> 41:49.850]  Yeah.
+[41:50.830 --> 41:52.750]  We should try to put this cube together.
+[41:53.030 --> 41:53.770]  What's on the back of it?
+[41:54.810 --> 41:55.250]  Khadgar.
+[41:56.050 --> 41:57.510]  I wonder if it's like a game?
+[41:58.390 --> 41:59.410]  Because it's not like hard pieces.
+[41:59.570 --> 42:00.010]  Trollbane.
+[42:00.870 --> 42:01.050]  Diablo.
+[42:01.910 --> 42:03.050]  Yeah, I don't understand.
+[42:03.510 --> 42:05.090]  Is it the same thing on all the backs?
+[42:05.890 --> 42:06.510]  You want me to mess with them?
+[42:07.710 --> 42:08.030]  Yeah.
+[42:08.410 --> 42:08.750]  Yeah.
+[42:08.790 --> 42:09.590]  Let's figure this out.
+[42:09.810 --> 42:10.530]  All right, here.
+[42:10.750 --> 42:11.930]  Oh, your other ones are in there.
+[42:13.290 --> 42:14.870]  I wonder if it's like a game you can play.
+[42:16.370 --> 42:18.210]  They've got different things on the back.
+[42:18.550 --> 42:19.290]  There's that one.
+[42:19.670 --> 42:20.750]  I think that's all of them.
+[42:21.790 --> 42:22.990]  We didn't get one in every pack.
+[42:23.230 --> 42:24.350]  They're all shaped identically.
+[42:24.830 --> 42:25.670]  Just put a cube together?
+[42:25.910 --> 42:26.790]  I guess so.
+[42:26.890 --> 42:27.310]  Let's find out.
+[42:29.510 --> 42:30.750]  It's very quiet today.
+[42:31.790 --> 42:32.850]  It's because we're not being entertaining.
+[42:33.630 --> 42:34.970]  Because we don't know what we're talking about.
+[42:35.830 --> 42:37.130]  It is very quiet today.
+[42:37.370 --> 42:37.770]  That's good.
+[42:37.870 --> 42:38.690]  It's a new year.
+[42:38.970 --> 42:39.790]  It's a little chill.
+[42:40.090 --> 42:43.470]  I don't know about you, Gus, but I feel a little tired, too.
+[42:44.050 --> 42:45.430]  I think it's the weather.
+[42:46.090 --> 42:47.090]  I think it's just the weather.
+[42:48.130 --> 42:48.690]  Sylvanas Windrunner.
+[42:48.750 --> 42:49.290]  It's so weird.
+[42:49.350 --> 42:55.290]  It was so hot this morning when we went out to record Anima that we had to take our jackets off and just be in t-shirts.
+[42:55.490 --> 42:55.950]  Were you guys naked?
+[42:56.970 --> 42:57.250]  Almost.
+[42:57.650 --> 42:58.530]  Yeah, we had nipples out.
+[42:58.590 --> 42:59.050]  It was awesome.
+[42:59.130 --> 42:59.670]  Skin to skin.
+[43:00.390 --> 43:00.990]  Oh, yeah.
+[43:01.210 --> 43:01.630]  A lot of skin.
+[43:01.810 --> 43:02.850]  It's how you bond.
+[43:04.850 --> 43:06.790]  And then, like, an hour later, it was freezing.
+[43:07.490 --> 43:08.930]  Yeah, the wind was so cold.
+[43:09.070 --> 43:11.790]  It's 58, it says outside right now, but the wind is so cold.
+[43:12.190 --> 43:12.790]  Oh, Lost Vikings.
+[43:12.910 --> 43:13.350]  I forgot about that game.
+[43:13.370 --> 43:13.950]  You remember Lost Vikings?
+[43:14.070 --> 43:14.250]  Yeah.
+[43:15.010 --> 43:16.390]  Old SNES game, if I remember right.
+[43:17.470 --> 43:19.150]  Here we have Lane Wren.
+[43:22.090 --> 43:22.410]  Magda.
+[43:23.190 --> 43:24.650]  She looks like a Maleficent.
+[43:25.390 --> 43:26.190]  Oh, yeah, kind of.
+[43:26.250 --> 43:27.530]  And then a siege tank.
+[43:27.630 --> 43:28.410]  I think she's from Diablo.
+[43:28.410 --> 43:30.730]  All right, we'll open up two more packs of this, and then...
+[43:35.130 --> 43:36.410]  I'm right up there with you guys.
+[43:36.470 --> 43:38.170]  I don't know shit about Blizzard.
+[43:38.350 --> 43:39.390]  I played a lot of Blizzard games.
+[43:39.450 --> 43:40.430]  I thought I knew all about it.
+[43:40.850 --> 43:42.490]  Murd and Bronzebeard again.
+[43:43.410 --> 43:43.770]  Brigitte.
+[43:43.910 --> 43:45.990]  That must be a new Overwatch character I feel like we're playing.
+[43:46.270 --> 43:47.090]  She's super strong.
+[43:47.590 --> 43:49.070]  Here we have a Junkrat.
+[43:49.610 --> 43:49.930]  Ultimate.
+[43:50.530 --> 43:51.990]  Sounds like Junkrat's ultimate, I guess.
+[43:52.250 --> 43:52.770]  Is that Eric?
+[43:53.350 --> 43:53.710]  Junkrat.
+[43:55.630 --> 43:56.350]  Zoltan cool.
+[43:57.670 --> 43:59.090]  Isn't that the guy from Big?
+[44:00.030 --> 44:00.130]  Yeah.
+[44:00.610 --> 44:00.970]  Zoltan.
+[44:02.430 --> 44:04.030]  Zealot and Leoric.
+[44:04.530 --> 44:05.150]  All right, this is it.
+[44:05.210 --> 44:05.950]  This is the last pack we're going to open.
+[44:06.010 --> 44:08.350]  I was hoping to get some kind of art card or something.
+[44:08.350 --> 44:10.970]  Looks like the North guy from Game of Thrones.
+[44:11.150 --> 44:11.670]  Oh, yeah.
+[44:12.350 --> 44:12.730]  Never mind.
+[44:13.150 --> 44:13.710]  I got it right here.
+[44:14.830 --> 44:15.190]  Ooh!
+[44:15.850 --> 44:16.530]  Is that what you wanted?
+[44:16.630 --> 44:17.290]  Is it a relic?
+[44:18.970 --> 44:19.630]  Zul'in.
+[44:20.330 --> 44:21.510]  And then we got this thing.
+[44:21.870 --> 44:23.310]  Is Zul'in from Ghostbusters?
+[44:23.590 --> 44:25.450]  The Innkeeper's Collection.
+[44:25.450 --> 44:25.990]  Oh.
+[44:26.330 --> 44:28.790]  I was just singing Master of the House to you last night.
+[44:28.910 --> 44:30.610]  And to the dog from Les Mis.
+[44:30.850 --> 44:31.470]  He's an Innkeeper.
+[44:31.930 --> 44:33.470]  What the fuck is this?
+[44:33.610 --> 44:35.250]  It might be for that card.
+[44:35.390 --> 44:36.610]  That might be a special card you got.
+[44:36.730 --> 44:39.450]  And that's like a filler to...
+[44:40.610 --> 44:41.470]  It's like a rip card.
+[44:41.570 --> 44:43.110]  It's kind of like a rip card, I think.
+[44:43.630 --> 44:44.590]  Is that what this is?
+[44:45.310 --> 44:46.390]  Anybody in the audience know?
+[44:48.010 --> 44:49.090]  Can you open that?
+[44:49.150 --> 44:50.490]  Is it a book or is it like a...
+[44:50.490 --> 44:52.450]  Packs may contain time-sensitive redemptions.
+[44:52.450 --> 44:56.450]  Redemptions expired two years from December 31st of the copyright year.
+[44:58.590 --> 45:05.150]  The Innkeeper's Golden numbered one out of 120.
+[45:06.590 --> 45:08.170]  So yeah, I think it's like a...
+[45:08.170 --> 45:09.350]  It's a rip card.
+[45:09.790 --> 45:17.430]  We got a Blizzard Legacy Collection C'Thun.
+[45:18.570 --> 45:19.010]  It's like a little...
+[45:19.010 --> 45:20.290]  It's like an iCrab.
+[45:20.690 --> 45:22.050]  Like a little Cthulhu buddy.
+[45:22.550 --> 45:25.190]  And it appears to be some kind of...
+[45:25.610 --> 45:26.590]  Oh, there's multiple cards in here.
+[45:27.730 --> 45:28.650]  Shit, it keeps getting better.
+[45:29.130 --> 45:30.170]  All right, so we got the C'Thun.
+[45:30.810 --> 45:32.650]  We got Lady Death Whisper.
+[45:32.770 --> 45:33.330]  Oh, that's me.
+[45:33.610 --> 45:36.050]  Oh, and then we got Nazdormu.
+[45:37.130 --> 45:39.430]  Do you want to be C'Thun or do you want to be Nazdoru?
+[45:39.770 --> 45:40.990]  I want to be a Nazdormu.
+[45:41.110 --> 45:42.310]  I want to be a C'Thun, this works out perfect.
+[45:42.330 --> 45:42.650]  Hey.
+[45:43.290 --> 45:44.230]  These are cool.
+[45:44.790 --> 45:45.490]  What do we do?
+[45:46.030 --> 45:46.690]  On the back.
+[45:48.130 --> 45:49.290]  It doesn't really say anything.
+[45:49.350 --> 45:50.790]  I think people are freaking out in chat.
+[45:51.890 --> 45:53.250]  Look, C'Thun's good.
+[45:54.810 --> 45:56.170]  But you've already opened it.
+[45:56.230 --> 45:56.810]  Are these good?
+[45:57.150 --> 45:57.860]  People are excited.
+[45:58.890 --> 46:00.150]  They were happy that you ripped it.
+[46:00.210 --> 46:00.770]  That's exciting.
+[46:01.050 --> 46:02.650]  We can put it back in its little door.
+[46:02.770 --> 46:04.430]  And it came sleeved, which is really nice.
+[46:05.190 --> 46:05.610]  Nice.
+[46:06.430 --> 46:07.710]  Well, the show's paying for itself.
+[46:07.950 --> 46:13.410]  Hey, this'll be good to see what the value is with all the other ones from last week.
+[46:13.570 --> 46:17.550]  He was the An'Qiraj 20 Ratman raid boss.
+[46:18.570 --> 46:21.510]  Have y'all put that lament configuration together?
+[46:21.710 --> 46:22.410]  Look at your little box.
+[46:22.630 --> 46:23.750]  I need two more.
+[46:24.070 --> 46:25.410]  I guess we'll keep working until we get it.
+[46:25.470 --> 46:25.790]  How about that?
+[46:25.910 --> 46:27.010]  We'll keep working on Gus's box.
+[46:29.430 --> 46:30.970]  Put my Gus in a box.
+[46:31.090 --> 46:32.050]  I can just open these faster.
+[46:32.330 --> 46:32.650]  All right.
+[46:33.910 --> 46:34.610]  That's also a plus.
+[46:34.970 --> 46:35.330]  Rexxar!
+[46:36.070 --> 46:37.870]  Didn't you name a character after that?
+[46:38.110 --> 46:39.110]  No, I don't think so.
+[46:39.210 --> 46:41.250]  But Rexxar was always wandering around in WoW.
+[46:41.830 --> 46:43.430]  I don't think I had a character named Rexxar, did I?
+[46:44.970 --> 46:46.290]  In our D&D show.
+[46:47.650 --> 46:48.350]  Did I?
+[46:48.930 --> 46:49.370]  I can't...
+[46:49.370 --> 46:50.230]  No, did I?
+[46:51.130 --> 46:53.970]  Didn't you have a character named Rexxar in Heroes & Half-Wits?
+[46:53.990 --> 46:54.630]  I don't think so.
+[46:54.850 --> 46:58.070]  Or maybe in the campaign we played with Frank around that same time?
+[46:58.430 --> 46:58.750]  With Adam?
+[46:58.970 --> 47:00.290]  I think you did.
+[47:00.730 --> 47:01.530]  Was it Reptar?
+[47:01.930 --> 47:02.670]  Maybe it was Reptar.
+[47:02.690 --> 47:04.850]  No, it was either...
+[47:04.850 --> 47:07.030]  He either had a character named Rexxar...
+[47:07.030 --> 47:09.910]  or he had a username named Rexxar on the side or something.
+[47:12.190 --> 47:13.150]  Malthas, Songstrider...
+[47:13.150 --> 47:14.270]  Oh, look at this fucker.
+[47:15.110 --> 47:15.590]  Velen.
+[47:17.070 --> 47:17.430]  Fancy.
+[47:22.010 --> 47:22.370]  Alexstrasza...
+[47:23.670 --> 47:24.030]  Deckard...
+[47:24.030 --> 47:24.850]  and Phoenix.
+[47:25.070 --> 47:27.910]  Someone said the Lady Death Whisperer is worth many dollars.
+[47:28.230 --> 47:28.570]  Oh, cool.
+[47:28.590 --> 47:29.390]  That'll be fun to look at.
+[47:31.430 --> 47:32.150]  I think...
+[47:32.150 --> 47:34.070]  We gotta learn how to sell stuff, too.
+[47:34.510 --> 47:35.550]  I gotta start selling stuff.
+[47:35.570 --> 47:36.250]  You know, like, we got...
+[47:36.250 --> 47:36.970]  My house is getting...
+[47:38.250 --> 47:38.610]  Winston...
+[47:39.230 --> 47:39.590]  Mei...
+[47:39.590 --> 47:41.050]  These are some Overwatch characters.
+[47:41.750 --> 47:42.870]  Here was Lili...
+[47:42.870 --> 47:44.050]  Looks like a bundled-up, chungly...
+[47:44.050 --> 47:44.890]  Velen tickler.
+[47:44.890 --> 47:46.290]  Look at that little cutie.
+[47:49.370 --> 47:49.690]  Rhaegar...
+[47:50.470 --> 47:50.790]  Earthfury...
+[47:51.530 --> 47:51.850]  Lili...
+[47:53.430 --> 47:54.070]  Adawin Wren...
+[47:54.530 --> 47:56.310]  Oh, Lili was like a healer in Heroes of the Storm.
+[47:56.370 --> 47:56.870]  I remember that.
+[47:56.970 --> 47:57.690]  She's so cute.
+[47:57.790 --> 48:00.010]  Dude, that little RIP card was so fucking cool.
+[48:00.150 --> 48:01.210]  What a fun experience.
+[48:02.390 --> 48:04.210]  I'm glad I got to experience it with you guys, too.
+[48:04.370 --> 48:05.030]  Look at us.
+[48:05.190 --> 48:06.750]  I wouldn't have wanted to experience it with anyone else.
+[48:08.590 --> 48:09.230]  Garage Hellscream...
+[48:10.090 --> 48:10.410]  Lucio...
+[48:10.410 --> 48:10.930]  Here you go, Gus.
+[48:10.990 --> 48:11.950]  Here's your horror...
+[48:11.950 --> 48:13.370]  You said it right, too.
+[48:14.310 --> 48:14.630]  Okra...
+[48:14.630 --> 48:16.130]  Who do you have on the back of that one?
+[48:16.290 --> 48:17.630]  This is Dark Wanderer.
+[48:21.870 --> 48:23.030]  Forgot we were trying to build that thing.
+[48:23.190 --> 48:23.430]  All right.
+[48:24.010 --> 48:24.650]  We got tons of time.
+[48:24.910 --> 48:27.750]  I'm excited for any other big stuff we've got coming up.
+[48:27.850 --> 48:29.410]  We gave Gracie some ideas, but...
+[48:29.910 --> 48:31.730]  We gotta get another, like...
+[48:31.730 --> 48:32.990]  What other, like, big things?
+[48:33.030 --> 48:34.730]  Like baseballs, basketballs...
+[48:34.730 --> 48:35.250]  We got that.
+[48:35.410 --> 48:36.270]  We got the mini-helmet.
+[48:36.690 --> 48:37.350]  We got a bunch coming.
+[48:37.450 --> 48:40.170]  We've got the McDonald's stuff from Andrew.
+[48:40.530 --> 48:41.450]  Yeah, that's exciting.
+[48:41.530 --> 48:42.210]  Butcher and Vala.
+[48:42.310 --> 48:42.670]  Check this out.
+[48:42.670 --> 48:44.150]  It's a Lurker for Starcraft.
+[48:44.290 --> 48:44.870]  I like that.
+[48:44.970 --> 48:45.370]  Sleeve that.
+[48:45.510 --> 48:45.850]  Sleeve that?
+[48:46.050 --> 48:46.230]  Yeah.
+[48:46.490 --> 48:46.790]  Lurker.
+[48:48.550 --> 48:50.290]  Is that enough to put them together?
+[48:50.710 --> 48:53.550]  Yes, as long as I don't fucking screw this up.
+[48:53.630 --> 48:56.430]  The first card you pull on this one is who you are.
+[48:56.510 --> 48:56.990]  There we go.
+[48:57.150 --> 48:58.190]  First card you pull is who you are.
+[48:58.270 --> 48:59.230]  I'm the Lost Vikings.
+[48:59.610 --> 49:00.870]  Ooh, I'm the third card.
+[49:00.990 --> 49:01.810]  Oh, you made a box!
+[49:01.850 --> 49:02.610]  I'm a Horadric Cube.
+[49:03.470 --> 49:03.830]  Cool!
+[49:05.070 --> 49:06.130]  All our hard work paid off.
+[49:06.230 --> 49:06.650]  We did it, guys.
+[49:08.650 --> 49:09.370]  Here's Imperious.
+[49:09.690 --> 49:10.390]  Here's Agluud.
+[49:10.670 --> 49:11.690]  Here's Grommash Hellscream.
+[49:11.690 --> 49:13.310]  We only have just a couple.
+[49:13.430 --> 49:16.010]  This is like a unit of currency in Diablo, if I remember right.
+[49:16.230 --> 49:17.630]  And then see what's on top.
+[49:17.990 --> 49:18.430]  Cube.
+[49:20.890 --> 49:21.650]  Zoltan, cool.
+[49:22.130 --> 49:23.630]  Again, with the big references.
+[49:24.870 --> 49:27.650]  Here, you try rolling it and see what you get.
+[49:28.630 --> 49:30.710]  These are some great pulls, are they?
+[49:31.270 --> 49:34.390]  Y'all can leave some of those Overwatch cards on Chelsea's desk.
+[49:35.770 --> 49:36.210]  Rodrigo.
+[49:39.150 --> 49:40.190]  Lost Vikings again.
+[49:40.270 --> 49:40.810]  A lot of Lost Vikings.
+[49:40.810 --> 49:42.110]  Oh, shit, here we go.
+[49:42.750 --> 49:43.570]  Here's Zendaya.
+[49:44.110 --> 49:44.290]  Yeah.
+[49:44.610 --> 49:45.030]  Cool!
+[49:45.670 --> 49:46.710]  Congratulations for me.
+[49:47.190 --> 49:51.050]  Here's Illidan, and it's like...
+[49:54.690 --> 50:00.250]  Apparently with these cards, Illidan's a Hearthstone character, not a World of Warcraft character.
+[50:00.250 --> 50:01.970]  This is a Spectral Parallel.
+[50:02.210 --> 50:03.970]  They put the name of the parallel on the back.
+[50:04.050 --> 50:04.790]  Spectral, that's cool.
+[50:04.990 --> 50:06.830]  Characters that go in between the different games.
+[50:07.030 --> 50:07.690]  Yeah, for sure.
+[50:07.890 --> 50:09.230]  Do you have the...
+[50:09.230 --> 50:10.990]  Oh, let's see.
+[50:11.390 --> 50:13.670]  Everything is always different, thanks.
+[50:13.890 --> 50:16.450]  Last time I got in trouble for playing copyrighted music.
+[50:22.350 --> 50:23.710]  Terran War Banner.
+[50:23.950 --> 50:24.670]  Look at that.
+[50:28.390 --> 50:32.430]  No, it's just a...
+[50:32.430 --> 50:34.150]  But it's so thick.
+[50:34.390 --> 50:36.210]  Yeah, it's because it's got that fabric in it.
+[50:36.210 --> 50:39.010]  It's got that little piece of...
+[50:39.010 --> 50:40.250]  Oh, yeah, it is like fabric.
+[50:41.690 --> 50:45.490]  It's what they call a Mem Card or a Relic Card.
+[50:45.950 --> 50:46.730]  Memorabilia or a Relic.
+[50:46.870 --> 50:50.590]  Congratulations, you have received a trading card with a manufactured StarCraft II patch.
+[50:50.710 --> 50:52.030]  Enjoy your memorabilia card.
+[50:52.830 --> 50:56.230]  People say that BK would take a couple of the Overwatch ones as well.
+[50:56.390 --> 50:57.110]  I like that.
+[50:57.330 --> 51:00.950]  I love at the end of these shows when people come up and they're like,
+[51:01.270 --> 51:03.110]  hey, if you're done with that, I'll take it.
+[51:04.030 --> 51:04.830]  Don't worry about it.
+[51:06.210 --> 51:06.930]  Here's Leoric.
+[51:07.330 --> 51:07.830]  I played him a bit.
+[51:08.150 --> 51:08.670]  That's cool.
+[51:08.910 --> 51:09.490]  Heroes of the Storm.
+[51:09.550 --> 51:10.590]  This is a silver parallel.
+[51:10.770 --> 51:12.790]  That's the guy from... we said looked like Game of Thrones guy.
+[51:14.670 --> 51:15.030]  Doomfist.
+[51:15.630 --> 51:16.030]  That's Overwatch.
+[51:16.930 --> 51:17.290]  Banshee.
+[51:18.070 --> 51:18.430]  StarCraft.
+[51:19.470 --> 51:20.970]  Elaria Windrunner is...
+[51:20.970 --> 51:21.590]  And look at what we got.
+[51:22.290 --> 51:22.950]  Another one?
+[51:23.530 --> 51:24.970]  Oh, my God.
+[51:24.990 --> 51:25.610]  We'll open it last.
+[51:26.530 --> 51:27.470]  You're such a tease, Jax.
+[51:28.030 --> 51:28.310]  I am.
+[51:31.950 --> 51:32.310]  Raynor.
+[51:32.650 --> 51:34.290]  Oh, dude, the hits keep coming, too.
+[51:34.290 --> 51:35.290]  Check out this.
+[51:35.930 --> 51:38.750]  Here is Gaume from Diablo.
+[51:39.050 --> 51:41.610]  And that is a spectral parallel as well.
+[51:42.370 --> 51:43.230]  That's nice.
+[51:43.390 --> 51:44.990]  And then here we have our first...
+[51:44.990 --> 51:45.970]  Here's Grommash Hellscream.
+[51:46.330 --> 51:49.650]  And this is our first, I want to say, art card, maybe?
+[51:50.030 --> 51:51.210]  Yeah, they forgot to put color on that one.
+[51:52.110 --> 51:54.110]  And then we have another mem card.
+[51:54.290 --> 51:55.230]  This is War Banners.
+[51:55.630 --> 51:56.770]  A Zerg War Banner.
+[51:59.870 --> 52:00.930]  So we'll sleeve all those.
+[52:01.510 --> 52:01.570]  Charge!
+[52:02.030 --> 52:02.930]  War Banners!
+[52:02.930 --> 52:05.270]  And then we're going to open up the rip card.
+[52:05.470 --> 52:07.210]  I love that they had fucking rip cards in them.
+[52:07.270 --> 52:08.750]  Tony said he's coming for that Spielberg card.
+[52:10.310 --> 52:11.850]  The one where he's holding the dinosaur dick?
+[52:12.890 --> 52:15.210]  Oh, is that a Murloc?
+[52:15.490 --> 52:16.210]  Murky the Murloc.
+[52:16.830 --> 52:17.610]  These little guys.
+[52:17.670 --> 52:21.370]  I had a Murky pet in World of Warcraft that people would freak the fuck out over.
+[52:21.430 --> 52:21.630]  Really?
+[52:22.190 --> 52:25.130]  The only way you could get it was by going to the first BlizzCon, and I went.
+[52:25.350 --> 52:27.110]  And it's an in-game item.
+[52:27.610 --> 52:28.710]  What do you think that thing sells for?
+[52:29.490 --> 52:30.570]  It would go for a while.
+[52:30.610 --> 52:31.610]  I think it's probably expired now.
+[52:31.610 --> 52:32.910]  They've changed the way you redeem it.
+[52:33.090 --> 52:34.670]  But for a while, it would go for quite a bit.
+[52:34.970 --> 52:37.530]  And I think they've since made Murky available other ways.
+[52:37.650 --> 52:41.810]  But for a long time, it was like, if I would go to Orgrimmar and pop out Murky at the auction house,
+[52:41.970 --> 52:44.290]  it would be like a crowd of people coming to see him.
+[52:44.330 --> 52:47.090]  Because every now and then, he would put a top hat on, and he'd have a little cane.
+[52:47.170 --> 52:48.210]  He'd do the, like, hello, my baby.
+[52:48.510 --> 52:49.770]  Oh, like the WB?
+[52:50.270 --> 52:50.590]  Yeah.
+[52:52.070 --> 52:52.390]  Tyrael.
+[52:52.850 --> 52:54.070]  He's got his own little one.
+[52:54.090 --> 52:55.010]  Here's a Zealot.
+[52:55.090 --> 52:55.990]  Starcraft Zealot.
+[52:56.690 --> 52:57.010]  Parallel.
+[52:57.290 --> 52:58.250]  It's a silver Parallel.
+[52:58.250 --> 53:05.130]  On the back of these, they'll do, like, Grom, the Lord of Gluttony, is one of Asmon's seven loyal lieutenants.
+[53:05.190 --> 53:07.390]  On the back of Murky, it's...
+[53:13.330 --> 53:16.630]  I see a Murky right now on eBay.
+[53:16.890 --> 53:17.450]  Look at that Murky.
+[53:18.050 --> 53:19.090]  For $7,000.
+[53:19.870 --> 53:20.330]  Like this?
+[53:20.750 --> 53:23.330]  No, like the World of Warcraft hat one.
+[53:23.470 --> 53:24.670]  Let's sell him. You got one?
+[53:24.810 --> 53:25.930]  Is there any way you can sell that?
+[53:25.950 --> 53:26.750]  No, you can't transfer.
+[53:26.750 --> 53:28.730]  Once you've redeemed it, that's it.
+[53:29.090 --> 53:30.650]  I see another one here for $25,000.
+[53:30.850 --> 53:31.670]  I doubt they're getting that.
+[53:32.290 --> 53:33.150]  All right, here we go.
+[53:33.230 --> 53:35.390]  The final Innkeeper's Collection Riptard.
+[53:36.190 --> 53:37.370]  Wish us luck.
+[53:38.290 --> 53:38.950]  Rip it.
+[53:40.630 --> 53:42.390]  I'm trying to say, like, which one do I...
+[53:42.390 --> 53:42.970]  This one.
+[53:46.890 --> 53:49.510]  Sounds like an old NES game.
+[53:53.060 --> 53:53.540]  Gross.
+[53:54.980 --> 53:56.500]  A Beryon Bronzebeard.
+[54:00.160 --> 54:01.800]  Rune of the Archmage.
+[54:03.080 --> 54:03.980]  Come on, get a good one.
+[54:05.020 --> 54:06.420]  And Sharkfin Fan.
+[54:08.580 --> 54:09.300]  Polite applause.
+[54:11.320 --> 54:13.740]  Those are still so fucking cool, though.
+[54:13.840 --> 54:14.500]  Those little...
+[54:16.640 --> 54:17.540]  I love it.
+[54:17.880 --> 54:20.540]  These make me want to buy more Blizzard cards so I can get more of these little things.
+[54:20.740 --> 54:23.620]  Makes me want to play more Blizzard video games so I know who the hell...
+[54:23.620 --> 54:24.900]  Oh, I think it worked.
+[54:25.060 --> 54:25.380]  Yeah.
+[54:25.600 --> 54:28.000]  I think the point of it worked, because you...
+[54:28.660 --> 54:30.680]  I was really big into Hearthstone for a while.
+[54:30.800 --> 54:33.080]  I'm glad I stopped, because it was expensive.
+[54:33.100 --> 54:34.240]  What was Hearthstone like? I never played it.
+[54:34.260 --> 54:35.240]  It's just a card game.
+[54:35.360 --> 54:36.080]  It's a card game, right?
+[54:36.760 --> 54:37.080]  Okay.
+[54:39.700 --> 54:41.040]  Pretty decent at it for a while.
+[54:41.760 --> 54:43.300]  But Brian Garr was always better than me.
+[54:43.460 --> 54:44.360]  He was really good at that game.
+[54:44.760 --> 54:46.160]  Was it a mobile game?
+[54:46.600 --> 54:46.840]  No.
+[54:47.360 --> 54:48.100]  No, no, no.
+[54:48.400 --> 54:49.140]  I don't think so.
+[54:49.160 --> 54:50.720]  I always played it on computer, PC.
+[54:51.740 --> 54:52.720]  I never played Hearthstone.
+[54:53.120 --> 54:54.240]  All right, we got five more minutes.
+[54:54.420 --> 54:55.940]  What final things can we...
+[54:55.940 --> 54:57.060]  What's something that you want to open?
+[54:57.060 --> 54:58.880]  Let's open up some Geoff stuff.
+[54:58.900 --> 55:00.220]  Something you've been holding back on.
+[55:00.420 --> 55:01.660]  Gus is going to look for something special there.
+[55:02.020 --> 55:04.800]  I think we've opened all the different kinds I have.
+[55:04.860 --> 55:06.000]  I don't think I have anything special left.
+[55:06.780 --> 55:09.520]  Let me open up some NBA cards, so I can get...
+[55:09.520 --> 55:11.060]  Did the Celtics play tonight?
+[55:11.180 --> 55:11.600]  They do.
+[55:11.700 --> 55:14.520]  They play the Indiana Pacers tonight.
+[55:14.980 --> 55:15.460]  Oh, back-to-back.
+[55:15.800 --> 55:16.820]  Yeah, back-to-back games.
+[55:17.400 --> 55:17.920]  Did you see...
+[55:18.620 --> 55:21.800]  Jason Tatum, Sam Houser, and Christoph Porzingis are questionable tonight,
+[55:21.880 --> 55:22.800]  so I'm not excited about that.
+[55:22.980 --> 55:23.740]  Was I watching...
+[55:23.740 --> 55:25.140]  No, it was TikTok without you.
+[55:25.140 --> 55:30.560]  The thing with the Saints and the Ravens last night, what happened?
+[55:31.860 --> 55:32.940]  Look at me, a sports knowledge.
+[55:32.940 --> 55:33.420]  No, what happened?
+[55:33.540 --> 55:37.540]  So, the Saints were up, like, 36 to 14...
+[55:37.540 --> 55:39.260]  Or, like, eight, something like that.
+[55:39.300 --> 55:40.060]  They were going to win.
+[55:40.180 --> 55:43.340]  And so, usually in the last, like, 30 seconds or whatever, or even less than that...
+[55:43.340 --> 55:44.160]  Oh, they take a victory...
+[55:44.160 --> 55:45.900]  They take a knee, kind of like a...
+[55:45.900 --> 55:46.280]  Victory formation.
+[55:46.400 --> 55:50.100]  But they decided to score a touchdown,
+[55:51.140 --> 55:54.300]  because Jamal Williams, who used to play for the Lions, who we really liked,
+[55:54.300 --> 55:55.780]  who was really into, like...
+[55:55.780 --> 55:57.000]  He's just a really awesome character.
+[55:57.480 --> 56:00.160]  He had not scored a touchdown that season.
+[56:00.360 --> 56:02.980]  And so, against their coach as well, they went out and they were like,
+[56:03.060 --> 56:04.760]  we're going to let Jamal...
+[56:04.760 --> 56:05.420]  Williams.
+[56:05.620 --> 56:06.840]  Williams score a touchdown.
+[56:07.140 --> 56:09.420]  And so they did it, but then when the coaches came out,
+[56:09.500 --> 56:12.640]  the Ravens coach was just like, fuck you, that's not fucking cool.
+[56:13.020 --> 56:14.260]  And they, like, kind of got into it.
+[56:14.340 --> 56:15.760]  But then they were like, yeah, we don't care.
+[56:15.960 --> 56:17.300]  Whatever, fuck them, it's a good rivalry.
+[56:17.520 --> 56:18.420]  I heard about that.
+[56:18.560 --> 56:19.200]  There was almost, like...
+[56:19.200 --> 56:19.860]  It was a falcon, sorry.
+[56:20.020 --> 56:20.580]  I don't know anything.
+[56:20.700 --> 56:22.300]  I'm like, birds...
+[56:23.220 --> 56:24.900]  Birds, ravens, falcons, whatever.
+[56:25.080 --> 56:27.080]  Can I show you something?
+[56:27.300 --> 56:27.720]  Yeah, please.
+[56:28.140 --> 56:30.440]  So, I was looking...
+[56:30.440 --> 56:33.580]  I have this weird box here that I didn't know what was in it.
+[56:33.780 --> 56:36.260]  It's got a bunch of, like, decimals and numbers.
+[56:36.420 --> 56:39.060]  That's obviously my handwriting, which has not changed in 35 years.
+[56:39.620 --> 56:42.040]  But I opened it and I found, like...
+[56:42.040 --> 56:43.740]  It's not necessarily, like...
+[56:43.740 --> 56:45.760]  There are cards in here, but it's not necessarily card memorabilia.
+[56:45.900 --> 56:49.320]  I found this parking ticket or, like, parking pass.
+[56:49.320 --> 56:52.320]  When I went to see the Texas Rangers play in 1991...
+[56:52.980 --> 56:53.760]  I saved that, I don't know why.
+[56:54.160 --> 56:55.000]  I bet we could sleep that.
+[56:55.100 --> 56:58.260]  That was the game that Nolan Ryan got ejected from for beating someone.
+[56:59.720 --> 57:01.480]  So, that's the parking pass from when I went to that game.
+[57:01.480 --> 57:02.300]  That could be worth something.
+[57:02.320 --> 57:06.220]  That same game, the thing that they gave you...
+[57:06.220 --> 57:07.820]  You know, sometimes they do giveaways when you go to baseball games.
+[57:08.160 --> 57:12.000]  It was the special Texas Rangers baseball trading card sponsored by Mother's Cookies.
+[57:12.340 --> 57:15.520]  So, I have two here that I got from that same day, from that same game.
+[57:15.680 --> 57:19.080]  Mother's makes a good Animal Cracker ones, the frosted ones, right?
+[57:19.080 --> 57:22.520]  So, those are, like, not cards you could buy necessarily...
+[57:22.520 --> 57:24.900]  but those are cards you have to get by going to that Texas Rangers game.
+[57:25.100 --> 57:25.480]  Dang.
+[57:26.360 --> 57:28.280]  Here, I have sleeved this for you.
+[57:28.360 --> 57:28.860]  Take very good care of that.
+[57:29.180 --> 57:30.720]  That is a huge piece of history.
+[57:30.800 --> 57:32.300]  What were the decimals for?
+[57:32.520 --> 57:33.100]  I don't know.
+[57:33.340 --> 57:34.460]  It doesn't make any sense to me.
+[57:34.540 --> 57:36.020]  It made sense to me when I was 12, probably.
+[57:36.300 --> 57:37.820]  So, this is probably just every player from the team.
+[57:37.900 --> 57:42.580]  Steve Bichelle, Bobby Valentine, Juan Gonzalez, Rafael Palmero.
+[57:42.600 --> 57:43.120]  Great team.
+[57:43.220 --> 57:43.740]  Bobby Witt.
+[57:44.600 --> 57:46.500]  That's a... that's a...
+[57:46.500 --> 57:47.640]  Gino Petralli, Ruben Sierra.
+[57:47.980 --> 57:48.860]  This is sup.
+[57:48.860 --> 57:49.360]  That is, like...
+[57:49.860 --> 57:50.500]  Rafael Palmero.
+[57:50.760 --> 57:51.700]  Oh, me, yeah.
+[57:51.720 --> 57:52.900]  I just got done playing a game.
+[57:52.980 --> 57:53.940]  You want to come over or whatever?
+[57:54.040 --> 57:54.400]  I don't know.
+[57:54.440 --> 57:56.000]  Great player, Ruben Sierra.
+[57:56.340 --> 57:57.100]  Julio Franco.
+[57:57.560 --> 57:57.960]  Jesus.
+[57:58.100 --> 57:59.160]  I think I'll put these back in here.
+[57:59.260 --> 57:59.860]  Oh, yeah, that's right.
+[57:59.920 --> 58:03.040]  These were all taken, like, in the locker room.
+[58:03.060 --> 58:03.940]  Geoff Russell.
+[58:04.240 --> 58:05.340]  Oh, he broke his back.
+[58:05.600 --> 58:06.020]  Hell, yeah.
+[58:06.180 --> 58:07.080]  Yawn Russell.
+[58:07.540 --> 58:08.460]  You need to recreate these.
+[58:08.800 --> 58:09.000]  Jack Daugherty.
+[58:10.400 --> 58:11.200]  Geoff Hewson.
+[58:11.320 --> 58:12.780]  Oh, Goose Gossage.
+[58:13.060 --> 58:13.340]  God, I forgot.
+[58:13.340 --> 58:13.740]  That's a good name.
+[58:13.780 --> 58:14.320]  And a mustache.
+[58:14.780 --> 58:15.620]  Kevin Brown.
+[58:16.000 --> 58:16.620]  Guns, dude.
+[58:17.360 --> 58:18.160]  Kevin Reimer.
+[58:19.540 --> 58:20.260]  Gerald Alexander.
+[58:21.480 --> 58:22.200]  Gary Pettis.
+[58:22.320 --> 58:23.520]  Brian Downing.
+[58:23.800 --> 58:24.880]  Kenny Rogers.
+[58:25.740 --> 58:26.100]  Roastin'.
+[58:26.100 --> 58:27.080]  And then the final...
+[58:27.080 --> 58:28.100]  This is the one right there.
+[58:28.180 --> 58:30.180]  He got kicked out of the game that night.
+[58:30.680 --> 58:31.040]  Dang.
+[58:32.040 --> 58:33.640]  So this says...
+[58:33.640 --> 58:34.460]  Ryan had a pitcher 34.
+[58:35.120 --> 58:35.800]  Number two...
+[58:35.800 --> 58:36.800]  God damn, dude.
+[58:37.140 --> 58:37.200]  Why did he get kicked out?
+[58:37.200 --> 58:38.440]  I think he got space to put his autograph.
+[58:38.940 --> 58:39.580]  Did he get in a fight?
+[58:39.860 --> 58:41.340]  Yeah, he beamed a player.
+[58:41.580 --> 58:43.160]  No, actually, he didn't get in a fight in that game.
+[58:43.280 --> 58:43.580]  Oh, right.
+[58:43.700 --> 58:46.160]  In this game, he beamed the same player twice in one game.
+[58:46.420 --> 58:48.040]  The second time, the umpire threw him out.
+[58:48.040 --> 58:49.420]  Like, he did it on purpose?
+[58:49.560 --> 58:49.820]  Right.
+[58:49.980 --> 58:50.620]  Because there's no one Ryan.
+[58:51.160 --> 58:52.340]  He can aim where he's going to go.
+[58:52.360 --> 58:53.180]  He's going to hit the same person twice.
+[58:53.440 --> 58:56.800]  The audience, or the fans, got so upset that everyone threw their trash on the field,
+[58:56.840 --> 58:59.040]  and they had to stop the game, because then the...
+[58:59.040 --> 58:59.540]  And you were there?
+[58:59.640 --> 59:00.020]  I was there.
+[59:00.340 --> 59:00.600]  What?
+[59:00.620 --> 59:01.600]  I threw my hot dog on the field.
+[59:03.220 --> 59:04.580]  One last bite, and then out.
+[59:04.900 --> 59:08.160]  The people come out and clean the field, so they had to stop the game while they cleaned the field,
+[59:08.240 --> 59:09.140]  because everyone was just booing.
+[59:09.400 --> 59:11.360]  This one came with a Jack Morris...
+[59:11.940 --> 59:12.920]  There's another one in here.
+[59:13.120 --> 59:14.040]  There's two more in here, actually.
+[59:14.040 --> 59:14.940]  I didn't know where those came from.
+[59:17.020 --> 59:17.600]  Oh, yeah.
+[59:17.660 --> 59:19.540]  Here you got Steve Badrejian.
+[59:19.620 --> 59:20.600]  It might not come from here.
+[59:20.760 --> 59:21.120]  John Krupp.
+[59:21.200 --> 59:22.160]  Yeah, I don't know who those are.
+[59:22.240 --> 59:22.960]  Might have just made its way in there.
+[59:23.320 --> 59:26.940]  What if that was part of it that night, and they're just throwing that on the field, like batteries?
+[59:27.000 --> 59:27.920]  Dude, those are so cute.
+[59:29.780 --> 59:30.920]  I don't even know what they are.
+[59:31.240 --> 59:32.200]  Those are little bottle caps.
+[59:32.240 --> 59:33.580]  Little bottle caps, almost, yeah.
+[59:34.720 --> 59:36.120]  Here, let's put those somewhere safe.
+[59:36.160 --> 59:36.380]  Thanks.
+[59:36.380 --> 59:37.580]  Those are really, really cool.
+[59:37.680 --> 59:40.340]  Those are, like, almost Slammers from Pogs.
+[59:40.480 --> 59:41.000]  Yeah, dude.
+[59:41.120 --> 59:43.000]  Yeah, like, predates, like, early Slammers.
+[59:43.080 --> 59:44.780]  Or maybe just like a milk cap.
+[59:44.780 --> 59:45.940]  All right, we'll open up two more of these.
+[59:45.980 --> 59:46.740]  I just realized it's time to go.
+[59:47.400 --> 59:49.140]  All right, tune in next week.
+[59:49.380 --> 59:50.140]  We will...
+[59:50.140 --> 59:52.240]  I'll take the ones that are the most valuable, and I'll grade them.
+[59:52.300 --> 59:55.480]  I'll figure out how much they're worth, and I'll report back to you.
+[59:55.860 --> 59:56.460]  We'll have...
+[59:56.460 --> 59:57.200]  There's THT.
+[59:58.360 --> 59:58.960]  Tyler Hero.
+[59:59.180 --> 01:00:01.080]  Here is a KG Silver Peril.
+[01:00:01.140 --> 01:00:01.620]  That's crazy.
+[01:00:01.740 --> 01:00:02.780]  Or Silver Prism.
+[01:00:03.860 --> 01:00:04.500]  Dante DiVincenzo.
+[01:00:04.960 --> 01:00:06.980]  And we'll open up a bunch of other weird shit.
+[01:00:07.680 --> 01:00:11.540]  I'm trying to be weirder in 2024 than when I was in 2023.
+[01:00:11.800 --> 01:00:12.000]  Let's be feral.
+[01:00:12.220 --> 01:00:13.040]  Let's be feral.
+[01:00:13.120 --> 01:00:13.440]  Yeah.
+[01:00:14.380 --> 01:00:15.260]  Dylan Brooks.
+[01:00:15.280 --> 01:00:16.380]  Bam out of Biome.
+[01:00:16.400 --> 01:00:16.980]  Can't break shit weird.
+[01:00:17.080 --> 01:00:17.560]  Big Cat.
+[01:00:17.640 --> 01:00:18.100]  Chris Paul.
+[01:00:18.220 --> 01:00:19.520]  We'll see you next week on...
+[01:00:20.540 --> 01:00:21.280]  This Break Show.
+[01:00:21.980 --> 01:00:22.340]  Burp.
+[01:00:23.400 --> 01:00:23.840]  Burp.
+[01:00:24.300 --> 01:00:24.520]  Burp.
+[01:00:25.000 --> 01:00:25.440]  Burp.
+[01:00:25.940 --> 01:00:26.380]  Burp.
+[01:00:26.760 --> 01:00:27.200]  Burp.

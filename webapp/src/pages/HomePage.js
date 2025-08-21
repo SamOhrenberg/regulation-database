@@ -79,7 +79,6 @@ function HomePage() {
           {shows.map(showName => (
             <div key={showName} className="show-card">
               <h3>{showName}</h3>
-              {/* This link is a placeholder for now, but we can build it out later */}
               <Link to={`/search?q=&show=${encodeURIComponent(showName)}`} className="button-secondary">
                 View All Transcripts
               </Link>

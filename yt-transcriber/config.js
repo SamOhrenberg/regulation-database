@@ -24,15 +24,17 @@ export const config = {
 
   // --- Similarity-Based Image Extraction ---
   imageExtraction: {
-    enabled: false,
-    minSceneDurationSeconds: 10,
-    similarityThreshold: 0.95, 
+    enabled: true,
+    similarityThreshold: 0.9, 
+    similarityThresholdUpperCheck: 0.95,
     debug: true, 
     
     cropDetection: {
       enabled: true, // Set to true to only analyze the center of the video
-      width: 0.6,    // Analyze the middle 60% of the video's width
-      left: 0.2,     // Start the analysis 20% from the left edge
+      width: 0.4,    
+      left: 0.3,     
+      height: 0.4,
+      top: 0.3,
     }
   },
 

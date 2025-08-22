@@ -1,0 +1,2264 @@
+[00:00.580 --> 00:02.100]  Yeah, it should be one now.
+[00:02.400 --> 00:03.400]  I didn't say one.
+[00:03.700 --> 00:03.760]  Fourteen?
+[00:04.020 --> 00:05.380]  It should be one now.
+[00:05.640 --> 00:06.500]  Yeah, it should be one now.
+[00:07.560 --> 00:08.520]  Happy birthday!
+[00:09.200 --> 00:10.700]  No, that's not what this is.
+[00:10.860 --> 00:12.140]  Wait, is Gavin here?
+[00:12.280 --> 00:13.060]  Geoff Keighley.
+[00:14.320 --> 00:14.380]  Oh.
+[00:16.680 --> 00:17.460]  That's funny.
+[00:18.680 --> 00:20.040]  Okay, so we are live.
+[00:21.120 --> 00:22.920]  Welcome to the stream, guys.
+[00:23.060 --> 00:25.020]  Welcome to the regulation stream every Friday.
+[00:25.020 --> 00:30.020]  We are streaming for you right here on Twitch TV slash The Regulation Pod.
+[00:30.180 --> 00:32.580]  It's myself, Eric. I'm here with Andrew and Nick.
+[00:33.760 --> 00:37.380]  Usually, usually we're doing this at about 2 p.m. Central time,
+[00:37.460 --> 00:40.160]  which is noon Pacific and 3 p.m. Eastern.
+[00:40.380 --> 00:44.040]  If you can't keep that straight for some reason and you go on every forum and you go,
+[00:44.120 --> 00:45.780]  what time is that? I'm telling you.
+[00:45.980 --> 00:51.540]  But we're going live at a different time because it is Summer Game Fest today
+[00:51.540 --> 00:54.540]  and we want to get all the news direct to you ASAP.
+[00:55.560 --> 00:57.860]  Andrew, how are you feeling about Summer Game Fest?
+[00:58.320 --> 01:01.400]  I'm excited to celebrate Geoff Keighley's birthday in 3 minutes 20 seconds.
+[01:01.540 --> 01:02.440]  It's going to be a big day.
+[01:02.720 --> 01:05.180]  I'm sure we're going to get a lot of news about Doritos.
+[01:05.460 --> 01:07.340]  I'm sure we're going to hear some stuff about Mountain Dew.
+[01:08.760 --> 01:09.880]  I'm feeling pretty good.
+[01:10.380 --> 01:13.440]  I don't think there's going to be too many new games announced at this,
+[01:13.500 --> 01:15.560]  but it's been kind of a weird year for games.
+[01:15.840 --> 01:17.700]  I'm excited to get updates on things.
+[01:18.040 --> 01:18.860]  Yeah, I agree.
+[01:18.860 --> 01:23.000]  And the other thing that I'm excited about is right now we're live on Twitch.
+[01:23.160 --> 01:26.120]  This VOD goes up on our YouTube channel, which is a lot of fun.
+[01:26.180 --> 01:27.060]  We have two YouTube channels.
+[01:27.200 --> 01:29.480]  One for Regulation Gameplay and one for the podcast.
+[01:30.080 --> 01:33.880]  But on Twitch, we are now affiliates, guys.
+[01:34.140 --> 01:35.580]  Oh my god.
+[01:36.360 --> 01:39.340]  We are affiliates now and forever on Twitch.
+[01:39.520 --> 01:42.200]  So, thank you so much hitting the prime subs.
+[01:42.360 --> 01:45.040]  We're not going to be able to read all the names because we're not like real streamers,
+[01:45.420 --> 01:46.480]  but oh my god.
+[01:46.500 --> 01:47.100]  Oh god, they're flying.
+[01:48.940 --> 01:51.440]  Griggy already just gifted 25 subs.
+[01:51.480 --> 01:53.480]  Look, we're not going to be streamers and read all this stuff,
+[01:53.660 --> 01:55.040]  but I just saw it as it happened.
+[01:55.160 --> 01:57.540]  So, this is really incredible, guys.
+[01:57.660 --> 01:58.720]  This is awesome.
+[01:58.880 --> 02:02.760]  It's almost as good as when you watch over at twitch.tv slash ericbedour,
+[02:02.860 --> 02:08.760]  which is just another channel in the many other channels that they have on the Twitch website.
+[02:09.200 --> 02:12.500]  This is where I learned that you're streaming there as well at the same time.
+[02:12.540 --> 02:13.500]  No, no, no.
+[02:13.700 --> 02:13.960]  Double dipping.
+[02:14.520 --> 02:16.020]  What are you talking about?
+[02:16.020 --> 02:17.400]  What do you mean?
+[02:18.480 --> 02:25.600]  But, Andrew, I want to congratulate you specifically because through your hard work and your diligence,
+[02:25.960 --> 02:29.000]  we got affiliate ranked on Twitch.
+[02:29.400 --> 02:33.040]  You made sure that we've been on the ball with this.
+[02:33.160 --> 02:37.220]  You were doing stuff early, doing stuff often, and on top of all this.
+[02:37.320 --> 02:40.300]  So, congratulations to you for reaching affiliate status, man.
+[02:40.320 --> 02:40.880]  Thank you so much.
+[02:40.940 --> 02:42.240]  Well, I mean, congratulations to us.
+[02:42.640 --> 02:46.000]  And thank you to the audience because we need you to be able to do that.
+[02:46.000 --> 02:49.300]  That is entirely all on you.
+[02:49.500 --> 02:51.420]  I just hit a live button.
+[02:51.940 --> 02:55.360]  You all showed up and supported us and did most of the real work.
+[02:55.440 --> 02:56.220]  So, thank you.
+[02:56.580 --> 02:57.280]  And I helped.
+[02:57.320 --> 02:58.460]  I very much really appreciate it.
+[02:58.660 --> 03:00.600]  And, you know, Nick is running the stream right now.
+[03:00.700 --> 03:00.980]  Nick's doing great.
+[03:00.980 --> 03:02.580]  You wouldn't see this without Nick trying.
+[03:02.800 --> 03:04.620]  He put the logo on the screen.
+[03:04.940 --> 03:06.320]  I resized it three times.
+[03:08.060 --> 03:11.720]  He picked the word logo and we went, no.
+[03:11.840 --> 03:14.500]  Then he picked the black logo and we went, no.
+[03:14.500 --> 03:14.620]  No.
+[03:14.620 --> 03:15.840]  And then he went, don't worry.
+[03:15.940 --> 03:16.760]  I got this one.
+[03:17.420 --> 03:18.640]  There's only one left.
+[03:20.760 --> 03:23.020]  So, so far, some stuff has leaked.
+[03:23.140 --> 03:24.220]  Some stuff has come out or whatever.
+[03:24.480 --> 03:27.700]  Have you heard about The Thing video game?
+[03:27.740 --> 03:28.920]  I guess that's getting a remaster.
+[03:29.320 --> 03:29.620]  What?
+[03:29.880 --> 03:30.280]  Yes.
+[03:30.700 --> 03:32.120]  I saw last night they're going to remaster.
+[03:32.160 --> 03:33.880]  I've been wanting to play that for a long time.
+[03:34.300 --> 03:35.260]  I've never played it.
+[03:35.440 --> 03:36.300]  I love The Thing.
+[03:37.380 --> 03:38.200]  I'm into that.
+[03:38.580 --> 03:41.280]  I think it would be really cool to remaster that.
+[03:41.360 --> 03:43.580]  I think it would be really cool to remaster Burnout Revenge,
+[03:43.580 --> 03:45.680]  a game that we've been talking about for weeks.
+[03:46.660 --> 03:48.980]  Smiling Friends put on their show and it's been very,
+[03:49.280 --> 03:50.200]  that's been fantastic.
+[03:50.880 --> 03:51.560]  It's good.
+[03:51.620 --> 03:52.140]  It's good stuff.
+[03:52.280 --> 03:53.020]  I'm excited.
+[03:54.040 --> 03:56.640]  I'm excited for whatever comes on Summer Games.
+[03:56.640 --> 04:01.960]  How fucking crazy if The Thing was like DLC for Among Us.
+[04:02.480 --> 04:03.920]  Like if that's the way they went with it.
+[04:04.100 --> 04:06.500]  It was just all skins in Among Us.
+[04:06.900 --> 04:08.120]  It's like a Dead by Daylight thing.
+[04:09.000 --> 04:11.420]  Yeah, like all of a sudden Among Us gets really gritty.
+[04:14.860 --> 04:15.920]  We have five seconds left.
+[04:16.060 --> 04:17.900]  Do we see Kojima during the stream?
+[04:17.980 --> 04:18.460]  I say yes.
+[04:18.940 --> 04:20.140]  I think we'll see him,
+[04:20.220 --> 04:21.580]  but I don't think anything will really be announced.
+[04:21.820 --> 04:21.940]  Yeah.
+[04:22.300 --> 04:23.120]  I'm thinking Death Stranding.
+[04:23.180 --> 04:24.760]  I think we'll get a Death Stranding too.
+[04:24.840 --> 04:25.000]  Yeah.
+[04:25.600 --> 04:26.400]  Oh, interesting.
+[04:26.920 --> 04:28.960]  Hey Andrew, the following program may contain content
+[04:28.960 --> 04:30.240]  that some viewers find offensive.
+[04:30.380 --> 04:33.180]  So I'm just letting you know that it may also contain flashing lights.
+[04:33.640 --> 04:34.580]  I'm ready to be offended.
+[04:35.220 --> 04:35.820]  Me too.
+[04:36.980 --> 04:38.180]  I don't have any audio.
+[04:38.300 --> 04:39.860]  I don't know if that's them or us.
+[04:39.960 --> 04:40.620]  Wait, you don't have...
+[04:40.620 --> 04:41.180]  No, that's...
+[04:41.180 --> 04:41.880]  There's audio.
+[04:42.420 --> 04:42.780]  Oh.
+[04:43.160 --> 04:44.120]  I hear it just fine.
+[04:44.960 --> 04:46.120]  Did I mute you?
+[04:46.500 --> 04:46.940]  Oh, I muted you.
+[04:48.520 --> 04:49.520]  Hey, that's me.
+[04:50.120 --> 04:50.360]  Uh-huh.
+[04:50.700 --> 04:52.180]  You scared the shit out of me.
+[04:52.600 --> 04:53.020]  No, no.
+[04:53.100 --> 04:53.660]  I'm so sorry, Nick.
+[04:53.780 --> 04:55.660]  I was quick to reply that...
+[04:55.660 --> 04:56.200]  You were on the ball.
+[04:56.200 --> 04:57.520]  I was quick to reply that there was audio.
+[04:58.120 --> 05:00.600]  I wanted to let you know, Nick, you're fucking killing it right now, dude.
+[05:00.600 --> 05:01.200]  Hey, thanks, man.
+[05:01.220 --> 05:03.700]  Welcome to Summer Game Fest 2024.
+[05:03.940 --> 05:05.240]  You ready to see some video games?
+[05:06.540 --> 05:06.900]  No.
+[05:08.220 --> 05:08.580]  Boom.
+[05:08.940 --> 05:09.300]  Boom.
+[05:10.420 --> 05:12.180]  I'm here for celebrity cameos.
+[05:18.340 --> 05:20.000]  I'm not watching the show.
+[05:20.140 --> 05:20.920]  My eyes are closed.
+[05:21.240 --> 05:21.720]  Fuck this.
+[05:22.080 --> 05:23.060]  I only listen.
+[05:23.960 --> 05:26.080]  I like to imagine the games based on the sounds.
+[05:27.080 --> 05:28.600]  Wrap it up!
+[05:29.100 --> 05:29.400]  Boom!
+[05:35.920 --> 05:38.560]  You can tell he's in presenter mode because I do the same thing.
+[05:38.560 --> 05:42.460]  It's where you hold the mic with one hand and your other hand is almost completely straight.
+[05:42.560 --> 05:44.360]  And you're moving it left, right, up, and down.
+[05:44.880 --> 05:45.140]  Nah.
+[05:45.840 --> 05:46.760]  Yeah, it is.
+[05:46.920 --> 05:49.640]  This is how you gesticulate.
+[05:54.400 --> 05:54.800]  Gesticulate?
+[05:55.580 --> 05:55.980]  Yeah.
+[05:57.380 --> 05:58.260]  It's gotta be a word.
+[06:00.160 --> 06:01.180]  What am I supposed to say?
+[06:01.440 --> 06:01.840]  Gesture?
+[06:02.160 --> 06:02.420]  Boo!
+[06:12.680 --> 06:14.380]  I mean, this is great.
+[06:14.660 --> 06:16.380]  I'm so happy for these people.
+[06:16.760 --> 06:21.920]  It is weird to say that our industry is changing in a positive way within this year.
+[06:22.080 --> 06:24.520]  With the amount of layoffs in the games industry.
+[06:24.660 --> 06:24.800]  Yeah.
+[06:24.940 --> 06:25.540]  No kidding.
+[06:26.020 --> 06:29.720]  It feels kind of weird or off to celebrate this.
+[06:29.780 --> 06:31.460]  As much as these deserve celebrating.
+[06:37.090 --> 06:38.150]  Okay, there we go.
+[06:41.850 --> 06:45.990]  That's what makes this industry so, so great.
+[06:48.210 --> 06:51.970]  I mean, I just like hitting the guys and the numbers fly out.
+[06:52.370 --> 06:53.930]  Yeah, I mean...
+[06:53.930 --> 06:57.090]  I mean, I want respect, obviously. Respect the devs, but...
+[06:57.090 --> 07:01.790]  Absolutely, but it's the same thing as animation where they don't get any the whole time.
+[07:02.050 --> 07:03.430]  And it's just like, oh, this sucks.
+[07:06.330 --> 07:10.050]  EA's takeaway from that was that they need to make a 50 million version of Bellatro.
+[07:10.050 --> 07:11.570]  Yeah, I was about to...
+[07:12.030 --> 07:13.630]  Andrew, the word's out of my fucking mouth.
+[07:17.810 --> 07:23.810]  Alright, I think I have the audio balanced. We'll see.
+[07:24.950 --> 07:26.030]  I think it sounds fine, man.
+[07:26.650 --> 07:29.050]  Well, for you, sure. But the audience...
+[07:31.350 --> 07:33.810]  We'll ask the chat. Guys, how does it sound? It sounds good? We good?
+[07:34.230 --> 07:36.730]  At first, it was letter. Letter. Jesus.
+[07:37.030 --> 07:38.470]  I'm gonna go. I have to go.
+[07:40.430 --> 07:41.510]  Nick, you can't go.
+[07:42.110 --> 07:43.870]  I'll just let it run in the background. It's okay.
+[07:44.390 --> 07:45.590]  Oh, here we go. Let's see what we got.
+[07:46.730 --> 07:47.510]  Oh, Lego.
+[07:48.670 --> 07:49.590]  Is that Chris Pratt?
+[07:50.570 --> 07:52.470]  Is this the Pharrell movie?
+[07:54.730 --> 07:58.730]  Did you see this? With the regulation podcast logo in the top is very funny.
+[07:59.210 --> 07:59.570]  Yeah.
+[08:00.230 --> 08:01.810]  Like we had something to do with this.
+[08:03.910 --> 08:06.990]  I mean, we got the guy making the Lego animations.
+[08:08.010 --> 08:08.810]  Yeah, it's true.
+[08:10.050 --> 08:10.750]  This could be him.
+[08:12.750 --> 08:13.390]  Wait.
+[08:14.110 --> 08:17.650]  They're doing like a Lego game? Games? Game?
+[08:19.850 --> 08:21.930]  Nick, what are you doing?
+[08:23.570 --> 08:24.210]  Nick.
+[08:26.410 --> 08:27.050]  Nick.
+[08:29.010 --> 08:30.570]  Nick, what are you doing?
+[08:31.310 --> 08:32.850]  Turning on closed captioning.
+[08:34.070 --> 08:36.050]  Okay. No, I appreciate that.
+[08:37.150 --> 08:39.770]  Is it just Horizon or is it a variety of games?
+[08:40.290 --> 08:43.950]  I don't know. I thought it was gonna be a variety of games. Maybe it is just Horizon.
+[08:54.180 --> 08:54.900]  Is this...
+[08:54.900 --> 08:55.780]  Doesn't seem to be.
+[08:55.920 --> 08:59.400]  I mean, like, I like this style of game, I guess.
+[09:00.900 --> 09:09.280]  Like, the dungeon crawler-y, kind of like looting. Like, I enjoy this, but this isn't like a world I want to spend more time in.
+[09:10.160 --> 09:15.840]  And also, I have immediate questions of, like, what consoles is this on?
+[09:16.780 --> 09:21.320]  Is this gonna be the only way to play Horizon on Xbox, technically? Is this like the only entry?
+[09:22.060 --> 09:23.200]  Like, what a weird intro.
+[09:24.800 --> 09:27.460]  The music is so funny.
+[09:27.740 --> 09:29.820]  It's a little happy for this world.
+[09:30.480 --> 09:31.040]  Yeah.
+[09:31.520 --> 09:33.460]  Alright, let's kill the dinosaur!
+[09:34.620 --> 09:36.600]  In this post-apocalyptic world.
+[09:37.080 --> 09:37.460]  Yeah.
+[09:46.160 --> 09:46.600]  Uh...
+[09:46.600 --> 09:48.780]  This is... I'm gonna make Gus play this.
+[09:49.440 --> 09:50.660]  PS5, Switch, okay.
+[09:50.940 --> 09:52.180]  It's not on Xbox.
+[09:53.100 --> 09:53.200]  Yeah.
+[09:54.520 --> 09:55.300]  Makes sense.
+[09:56.600 --> 09:59.200]  Gus loved Horizon. He played the fuck out of it.
+[09:59.460 --> 10:01.900]  Really? Good. I'm glad.
+[10:03.040 --> 10:07.160]  I tried to play that game. I've started that game like three times and I just went, not for me, I think.
+[10:07.940 --> 10:10.160]  I feel like most people are your experience.
+[10:10.160 --> 10:10.500]  Yeah.
+[10:17.930 --> 10:23.940]  When he has to read copy in front of an entire stadium, it's so funny.
+[10:27.220 --> 10:28.940]  Chivalry 3? Oh.
+[10:28.940 --> 10:30.240]  Ha ha ha!
+[10:39.440 --> 10:39.880]  Interesting.
+[10:43.320 --> 10:44.660]  Oh, that sounds fun.
+[10:45.540 --> 10:47.760]  I mean, it doesn't sound fun, but it sounds interesting.
+[10:47.880 --> 10:48.900]  I mean, it sounds like it'd be fun.
+[10:48.940 --> 10:49.600]  Yeah, what a tonal shift.
+[10:50.160 --> 10:50.440]  Yeah.
+[10:50.960 --> 10:51.660]  Oh, wow, yeah.
+[10:51.800 --> 10:53.400]  Alright, dance party!
+[10:56.200 --> 10:57.600]  Legos! Lego blood!
+[10:58.080 --> 11:02.220]  Oh my god! Why did they put these back to back?
+[11:02.500 --> 11:03.980]  Oh no, Aloy, where are you?
+[11:04.000 --> 11:08.340]  I'm imagining someone bringing their kid in and being like, you gotta see this Lego game!
+[11:08.400 --> 11:12.360]  And then immediately going, leave! Go! Get out of here!
+[11:16.850 --> 11:21.130]  See, this is a world in which Playmobil is the leading provider of entertainment.
+[11:21.130 --> 11:21.470]  I knew it.
+[11:21.530 --> 11:22.510]  And the build-a-toy.
+[11:22.510 --> 11:23.290]  Oh.
+[11:24.010 --> 11:26.650]  Things went wrong when they were the major company?
+[11:27.610 --> 11:27.890]  Yeah.
+[11:29.450 --> 11:30.590]  What's the Halo one?
+[11:31.630 --> 11:32.850]  Doesn't matter. What were you gonna say, Eric?
+[11:33.250 --> 11:37.350]  Are we hurting for a new... I mean, this is inter... like, the concept is interesting.
+[11:37.850 --> 11:40.570]  Are you clamoring for, like, new zombie stuff?
+[11:41.050 --> 11:41.610]  Well, why not?
+[11:42.390 --> 11:43.650]  If it was Left 4 Dead 3, yes.
+[11:44.010 --> 11:44.950]  Oh, that's...
+[11:44.950 --> 11:47.910]  That is... Andrew, that's exactly how I feel.
+[11:47.910 --> 11:55.950]  Is outside of Left 4 Dead, I'm not, like, going wild for, like, yeah, dude, I gotta get, like, what's the next level in zombie stuff?
+[11:57.210 --> 11:59.650]  Just feels like we've been here since, like, 2007.
+[12:00.030 --> 12:03.230]  Would love to shift a gear of some kind.
+[12:03.510 --> 12:03.830]  What was the...
+[12:03.830 --> 12:06.050]  Like, some of this is... some of this is interesting.
+[12:06.590 --> 12:06.810]  Yeah.
+[12:07.110 --> 12:10.950]  The permadeath... the permadeath kind of stuff. That's cool.
+[12:11.430 --> 12:16.010]  What was the... what was the, like, the spiritual successor to Left 4 Dead that came out?
+[12:16.350 --> 12:17.590]  Back for blood.
+[12:17.590 --> 12:18.450]  Didn't like it.
+[12:19.750 --> 12:21.950]  Yeah, it's, like... it's, like, fine.
+[12:22.190 --> 12:26.850]  I played it a bunch, and then I just sort of went, like, one day I just went... I turned it off and never turned it back on.
+[12:27.170 --> 12:33.190]  Yeah, I... I played it for a little bit, and I got to, like, one of those giant titan things, and it just took forever to kill.
+[12:33.290 --> 12:34.230]  I was like, that's not really fun.
+[12:36.090 --> 12:37.750]  It was cool with some friends.
+[12:38.130 --> 12:41.310]  Like, it was cool with, like, some friends, and then it was just sort of, like, not anymore.
+[12:43.010 --> 12:43.970]  Thank you, Geoff.
+[12:43.970 --> 12:47.450]  Hi, everyone. I am so excited to be here at Summer Game Fest.
+[12:47.770 --> 12:48.770]  I'm here with you today...
+[12:48.770 --> 12:49.610]  I like her white belt.
+[12:49.670 --> 12:51.490]  ...even more super fun trailers.
+[12:52.190 --> 12:52.590]  Yeah, it pops.
+[12:52.810 --> 12:54.650]  So, let's get straight to another world premiere.
+[12:55.210 --> 12:57.710]  This is a highly anticipated game from a beloved franchise.
+[12:58.110 --> 12:58.870]  Let's take a look.
+[12:59.810 --> 13:00.290]  Okay.
+[13:00.630 --> 13:01.610]  Alright. Resident Evil 3.
+[13:01.610 --> 13:02.410]  It's another Horizon game.
+[13:02.790 --> 13:05.130]  Lego. Oh, is it? Life is...
+[13:05.130 --> 13:05.710]  Oh, it's...
+[13:05.710 --> 13:06.150]  Life's Crazy?
+[13:06.190 --> 13:07.010]  Oh, it's Quidditch?
+[13:07.650 --> 13:09.070]  They made another Quidditch game?
+[13:10.410 --> 13:12.430]  Oh my god, it's the boy that lived?
+[13:16.150 --> 13:17.830]  EA presents Quidditch.
+[13:17.970 --> 13:18.010]  Oh my god.
+[13:18.010 --> 13:19.010]  It's the boy who played.
+[13:19.450 --> 13:20.690]  Dude, Quidditch 20...
+[13:22.050 --> 13:24.210]  Honestly, 2K25? Let's go Quidditch.
+[13:24.350 --> 13:25.190]  This is great.
+[13:29.090 --> 13:33.630]  It's too bad that there is the college football game happening, but just, like, somebody being like,
+[13:33.790 --> 13:36.110]  They fucking made another Quidditch game before a college game?
+[13:37.030 --> 13:37.490]  Bullshit.
+[13:39.230 --> 13:41.790]  I hope you can make your own character. I'm making Robert Pattinson.
+[13:42.430 --> 13:43.650]  I hope this game has permadeath.
+[13:43.750 --> 13:44.930]  Oh, I hope he has a better result.
+[13:46.690 --> 13:48.410]  Well, it did for Robert Pattinson.
+[13:49.330 --> 13:50.030]  Yes, it did.
+[13:51.530 --> 13:53.490]  Fucking Better Beats Hogwarts. Jesus.
+[13:53.890 --> 13:54.590]  You got one job.
+[13:54.770 --> 13:57.450]  Magic is in the Air is a great tagline for this, though. That's very smart.
+[13:58.510 --> 14:00.470]  I was gonna laugh if that had missed.
+[14:01.670 --> 14:02.470]  Quidditch champions.
+[14:03.390 --> 14:07.230]  Dude, straight up, we'll make a team. I'm going after the snitch, bro.
+[14:07.550 --> 14:09.430]  I'm snitching only. I'm full snitch.
+[14:09.610 --> 14:10.610]  Yeah, you're a snitch.
+[14:10.610 --> 14:14.830]  I mean, why wouldn't you? We can lose 60-2 and then win.
+[14:15.050 --> 14:18.030]  And then we win Golden Snitch Style, baby. Snitch it.
+[14:21.170 --> 14:27.550]  I played the PS2 version of...
+[14:27.550 --> 14:28.910]  Kevin Ice and Bice.
+[14:30.310 --> 14:31.430]  This is a fun name.
+[14:31.590 --> 14:32.070]  Choo Choo?
+[14:35.250 --> 14:37.350]  This is like me describing a show to my son.
+[14:41.730 --> 14:43.830]  I don't have 20 friends.
+[14:44.290 --> 14:45.210]  And what?
+[14:45.870 --> 14:46.830]  Did you say Cockbust?
+[14:47.730 --> 14:51.110]  Oh, this is going to kill on Twitch.
+[14:51.570 --> 14:54.350]  Whatever this is, it's going to crush.
+[14:54.870 --> 15:00.490]  Dude, I've been waiting for a multiplayer version of Oz for years.
+[15:00.870 --> 15:04.030]  I'm so glad they finally did it.
+[15:04.550 --> 15:06.630]  I'm a little Koala JK Simmons.
+[15:11.890 --> 15:13.610]  Oh yeah, this is going to like...
+[15:14.510 --> 15:16.570]  This really is, I think, going to destroy.
+[15:16.910 --> 15:17.450]  Oh yeah.
+[15:22.920 --> 15:23.400]  Jailians?
+[15:26.740 --> 15:27.220]  God.
+[15:30.500 --> 15:32.560]  Dude, yeah. Ray can't wait to stream this.
+[15:36.740 --> 15:37.700]  What? Awesome!
+[15:38.140 --> 15:38.840]  That was cool.
+[15:39.400 --> 15:39.620]  Okay.
+[15:39.620 --> 15:43.560]  We have to play this with Geoff and just follow him.
+[15:43.760 --> 15:43.980]  Yes.
+[15:45.780 --> 15:48.100]  Like, we don't help, he just leads.
+[15:48.920 --> 15:53.560]  What if this is the end of the regulation crew and it becomes like the prison experiment?
+[15:53.780 --> 15:56.060]  Like, Geoff takes it too seriously, being a guard.
+[15:58.120 --> 15:59.440]  I think you're probably right.
+[16:03.220 --> 16:04.800]  You can drive a bus?
+[16:04.800 --> 16:04.920]  Nice.
+[16:09.260 --> 16:13.760]  Someone in the chat says this is overstimulating. I think it's supposed to be, man.
+[16:17.080 --> 16:18.800]  I just don't...
+[16:19.560 --> 16:22.820]  I don't understand how any of the pieces that we just watched connect.
+[16:26.380 --> 16:28.680]  I'm playing this game, baby. I'm in.
+[16:29.160 --> 16:29.880]  Hell yeah.
+[16:34.460 --> 16:35.500]  Hell yeah.
+[16:37.280 --> 16:37.640]  Wow.
+[16:38.660 --> 16:39.020]  That's fun.
+[16:42.900 --> 16:43.260]  Cool.
+[16:44.020 --> 16:49.540]  That's a game I'll probably never play, but that's like, you know, everyone will play it and it looks crazy, so it'll be fun.
+[16:49.740 --> 16:50.320]  I'm proud of Gavin.
+[16:50.760 --> 16:51.000]  Yeah.
+[16:51.320 --> 16:52.740]  That guy is always doing stuff.
+[16:57.540 --> 17:03.880]  Oh, I've been living the life of a scoundrel for a while now.
+[17:03.920 --> 17:04.280]  Yeah.
+[17:14.880 --> 17:19.420]  I can't wait for this to be another game they put Sam Fisher in that isn't a Splinter Cell game.
+[17:20.960 --> 17:26.340]  Wow, it looks beautiful, though.
+[17:26.460 --> 17:30.560]  So is this the same engine and everything as, like, the last Star Wars game?
+[17:32.160 --> 17:32.520]  Uh...
+[17:32.520 --> 17:33.140]  I have no idea.
+[17:33.280 --> 17:33.940]  Because it looks like it, right?
+[17:33.940 --> 17:35.580]  It looks different. Oh, does it?
+[17:36.240 --> 17:40.580]  I think it, like, the way they're walking and everything and this kind of, like, camera angle to it...
+[17:45.310 --> 17:46.550]  I mean, it definitely...
+[17:46.550 --> 17:47.430]  Oh, yeah. It kind of does.
+[17:54.170 --> 17:58.110]  Like, there are people in the chat complaining about, like, the price or whatever.
+[17:58.470 --> 17:59.770]  It's like, oh, yeah, only for $120.
+[18:00.150 --> 18:04.010]  It's like, well, you can't play it the way it's supposed to be played for a year anyway, so just wait.
+[18:04.970 --> 18:06.570]  Like, you gotta wait for the play date, dude.
+[18:06.610 --> 18:08.470]  You can't buy it on release. You're crazy.
+[18:09.030 --> 18:09.330]  Yeah.
+[18:10.570 --> 18:14.210]  Oh, here's seven updates that we have to dispel over, like, nine months.
+[18:14.310 --> 18:16.310]  You gotta wait to play it. It doesn't matter.
+[18:23.150 --> 18:24.770]  Where are we going with this camera?
+[18:25.490 --> 18:30.390]  I was about to say, this is such a production choice that, like, I don't...
+[18:30.390 --> 18:31.690]  I don't care for this.
+[18:31.750 --> 18:34.190]  As an audience member, you're probably like, what the fuck?
+[18:34.730 --> 18:38.430]  Just be here. If you're gonna do that shot, just be there. That's it.
+[18:39.330 --> 18:40.030]  Is this an Abba game?
+[18:41.750 --> 18:43.150]  Yeah, it is an Abba game.
+[18:44.230 --> 18:44.590]  Grease.
+[18:44.650 --> 18:44.810]  Grease?
+[18:50.140 --> 18:53.140]  Oh, man, I can't wait for this to win every award at Game Developers Conference.
+[18:53.400 --> 18:53.560]  Cinnamon?
+[18:54.920 --> 18:56.480]  This game also has permadeath.
+[18:58.340 --> 19:00.980]  Permadeath is a big thing, summer game fest.
+[19:01.140 --> 19:03.960]  Well, I think the big thing is gonna be made by one person.
+[19:05.960 --> 19:06.680]  Fucking yeah.
+[19:06.900 --> 19:08.220]  Made by one guy. Made by one person.
+[19:08.560 --> 19:12.000]  Every company is having to lay off 90% of their workforce, so it's not...
+[19:12.000 --> 19:13.500]  It's just...
+[19:13.500 --> 19:14.300]  Made by one person.
+[19:14.920 --> 19:15.080]  Yep.
+[19:16.640 --> 19:17.280]  Jesus.
+[19:18.340 --> 19:19.140]  Really pretty.
+[19:22.140 --> 19:22.580]  Yeah.
+[19:23.040 --> 19:24.140]  Absolutely gorgeous.
+[19:24.980 --> 19:25.340]  Whoa.
+[19:29.840 --> 19:33.100]  I never played Grease, but it was also a very pretty game.
+[19:41.240 --> 19:41.880]  Whoa.
+[19:45.060 --> 19:49.720]  This is the type of game where I have so many friends that play these, and I don't ever...
+[19:49.720 --> 19:50.560]  I don't either.
+[19:51.080 --> 19:52.760]  Yeah, I would never recommend this to you.
+[19:53.100 --> 19:53.500]  No.
+[19:53.700 --> 19:58.300]  I'm not like... I'm not smart enough and want to give myself up to something that's here.
+[19:58.480 --> 20:00.000]  I want to play Burnout Revenge.
+[20:00.700 --> 20:04.520]  You want to be a koala breaking out of jail, smoking weed on the beach.
+[20:04.520 --> 20:06.920]  Yeah, I mean, like, I'm just like...
+[20:06.920 --> 20:08.020]  I just don't need it. I don't know.
+[20:08.020 --> 20:11.160]  That game is such a true work of art, especially when you get into some of the combat.
+[20:11.380 --> 20:15.820]  It is tons of fun to play, and there's much more coming later today in the Devolver Direct,
+[20:15.900 --> 20:17.200]  which will air directly after today.
+[20:17.280 --> 20:21.260]  That's his little ad-lib. It's not scripted. That's his little ad-lib thing.
+[20:21.400 --> 20:22.680]  And then here's the part where he reads it.
+[20:23.960 --> 20:24.400]  There you go.
+[20:25.680 --> 20:26.060]  Kojima.
+[20:27.680 --> 20:28.060]  Ooh.
+[20:28.920 --> 20:29.300]  Dude!
+[20:32.580 --> 20:33.700]  More spice games?
+[20:36.620 --> 20:37.340]  What?
+[20:37.760 --> 20:39.820]  Is it...
+[20:41.040 --> 20:42.380]  There's Kratos. No.
+[20:43.480 --> 20:44.700]  Is it Civilization?
+[20:46.160 --> 20:46.860]  It might be.
+[20:52.820 --> 20:54.300]  Oh, it's gotta be, right?
+[20:54.960 --> 20:56.020]  I would hope so.
+[20:56.020 --> 21:00.260]  It's either Civilization or something that is a different named civilization.
+[21:00.840 --> 21:02.320]  For Honor 2.
+[21:02.900 --> 21:03.060]  Yeah.
+[21:04.620 --> 21:05.720]  GTA 6.
+[21:05.720 --> 21:06.140]  GTA 6.
+[21:08.560 --> 21:11.900]  Dude, they fucking went crazy with the Fortnite update.
+[21:12.420 --> 21:14.160]  I never guessed.
+[21:19.180 --> 21:19.540]  Ooh.
+[21:20.180 --> 21:21.040]  Train Simulator?
+[21:21.860 --> 21:22.780]  Now we're talking.
+[21:26.100 --> 21:27.540]  Bioshock 4?
+[21:36.720 --> 21:37.200]  There you go.
+[21:37.240 --> 21:37.720]  Yeah.
+[21:40.180 --> 21:42.280]  You ever play those? You guys ever into those?
+[21:42.280 --> 21:47.860]  I got into the Greek mythology one, whatever that was, but no.
+[21:49.820 --> 21:53.720]  My friends are really into it, so I've played it a few times, but it's not my thing.
+[21:55.500 --> 21:58.700]  Sid Meier doesn't feel like a guy that should be alive still.
+[21:59.000 --> 22:02.540]  I've never seen Sid Meier in my life.
+[22:03.120 --> 22:05.180]  I was about to say, is this what he looks like?
+[22:08.800 --> 22:14.440]  It's such a die-during-the-pirate-times-of-like-the-high-seas name.
+[22:14.620 --> 22:14.800]  Yeah.
+[22:20.940 --> 22:24.100]  People are so into these games. That's cool. I mean, there's nothing wrong with that.
+[22:24.220 --> 22:24.900]  Yeah, absolutely.
+[22:25.440 --> 22:28.120]  I'm curious what his involvement is at this point.
+[22:28.720 --> 22:29.720]  I think he's like my name.
+[22:30.200 --> 22:33.400]  I bet he consults, you know? I bet he's like the George R. R. Martin of this stuff.
+[22:33.720 --> 22:34.980]  Nick, Nick, look! Nick, look!
+[22:35.620 --> 22:38.080]  What? What is it?
+[22:38.200 --> 22:39.060]  There's feet everywhere!
+[22:39.740 --> 22:41.200]  Oh. Too hairy.
+[22:42.280 --> 22:45.920]  I thought you were doing a Nick thing because of the monkey. I think this is a monkey situation.
+[22:46.200 --> 22:48.360]  Oh, is it? Is this like a Goku thing?
+[22:48.820 --> 22:49.260]  No.
+[22:51.960 --> 22:52.840]  Not DBZ.
+[22:52.840 --> 22:55.920]  If this is Sekiro 2... oh, Dynasty Warriors? Maybe?
+[22:57.400 --> 22:57.780]  You think so?
+[22:57.820 --> 23:01.140]  Is this Dynasty Warriors Origins that they showed? That showcase result?
+[23:01.160 --> 23:01.800]  Is that a thing?
+[23:03.400 --> 23:05.900]  Yeah, you didn't see it. The PlayStation, whatever.
+[23:06.680 --> 23:09.840]  Oh, that's right. Yeah, this is totally like a Goku, like, Journey of the West thing, right?
+[23:12.180 --> 23:12.540]  Maybe?
+[23:13.040 --> 23:16.000]  Like, he's gonna bring out, like, his Bo Staff and ride on fucking Nimbus and shit.
+[23:17.180 --> 23:18.600]  I just want him to take out Lu Bu.
+[23:19.840 --> 23:20.200]  Whoa!
+[23:20.500 --> 23:22.640]  Hey guys, check it out. It's his Bo Staff.
+[23:27.440 --> 23:28.900]  Black Myth Wukong.
+[23:30.660 --> 23:33.800]  Yeah, this is totally like Journey of the West and stuff. That's all...
+[23:33.800 --> 23:36.780]  It's the Jumanji kid all grown up.
+[23:37.800 --> 23:39.020]  Oh, it is!
+[23:39.220 --> 23:41.940]  Kills 0-3-3-0 is very funny. That's pretty good.
+[23:42.640 --> 23:44.180]  Oh, we gotta get all this stuff!
+[23:44.780 --> 23:45.320]  Oh, shit!
+[23:45.620 --> 23:47.120]  I gotta get a statue and a headband and a wind chime!
+[23:47.640 --> 23:49.180]  I've been wanting a wind chime.
+[23:50.760 --> 23:52.200]  Very expensive wind chime.
+[23:52.840 --> 23:57.200]  Yeah, I wanna tie it to my hose so when someone tries to steal it from down below...
+[23:57.200 --> 23:58.140]  Smart, smart.
+[24:00.360 --> 24:02.180]  Is this the same thing we were just looking at?
+[24:02.620 --> 24:03.020]  No.
+[24:03.080 --> 24:06.880]  No, this is that VR game or whatever.
+[24:07.200 --> 24:09.180]  Like, I've heard people...
+[24:09.180 --> 24:14.000]  Like, a lot of people talk about this as, like, the only VR game that's, like, a real video game video game.
+[24:14.240 --> 24:15.580]  And, uh, I think that's pretty cool.
+[24:16.320 --> 24:18.960]  I don't think those people have played Fallout 4 VR yet.
+[24:21.440 --> 24:25.120]  They just announced Hitman 3 coming to VR and I'm very excited about it.
+[24:25.120 --> 24:25.940]  Oh, that's interesting.
+[24:25.940 --> 24:27.420]  You gotta play that with Gavin.
+[24:28.280 --> 24:29.060]  I would love to.
+[24:34.150 --> 24:35.150]  What the f...
+[24:43.780 --> 24:44.520]  Oh, no!
+[24:52.380 --> 24:52.820]  What?
+[24:55.800 --> 24:56.820]  What the f...
+[24:56.820 --> 24:58.540]  What's going on?
+[24:58.900 --> 25:04.620]  Alright, we're gonna make a video game that's, like, you know when you're dreaming and, like, you kinda, like, half remember some stuff?
+[25:04.620 --> 25:08.660]  Yeah, you got that. You got, like, a little friend. He's got a little top hat. Uh, house walks on legs.
+[25:08.880 --> 25:17.600]  I'd be so fuckin' mad if I saved up money for years, tens of years, to buy a home and that fucker just started walking away.
+[25:18.680 --> 25:19.580]  A Kojima production.
+[25:19.580 --> 25:20.600]  Oh, my house!
+[25:21.440 --> 25:22.900]  What's even interesting?
+[25:23.320 --> 25:23.580]  Wow.
+[25:24.780 --> 25:27.620]  It looked cool. It looked like there was something going on there.
+[25:27.640 --> 25:29.340]  For a second it reminded me of Starcraft.
+[25:31.340 --> 25:32.080]  Steph Curry!
+[25:34.620 --> 25:37.260]  Do you think you can play basketball against Steph Curry in Garfield?
+[25:37.840 --> 25:38.580]  They better.
+[25:39.800 --> 25:45.660]  I miss those, like, uh, what were those basketball games in the PS2 era? Underground or Jam?
+[25:45.680 --> 25:48.040]  Oh, yeah, yeah, yeah. Like NBA Street and stuff?
+[25:48.320 --> 25:51.180]  NBA, yeah, yeah, yeah. I miss those type of games.
+[25:51.420 --> 25:52.280]  Yep. Me too.
+[25:55.740 --> 25:56.180]  Okay.
+[25:57.840 --> 26:03.220]  I'm not opposed to just doing, like, boom, boom, boom, boom, boom. Like, let's just go trailers. This is Warhammer, right?
+[26:03.700 --> 26:04.000]  Yeah.
+[26:04.980 --> 26:11.700]  Have they ever done a game that was, like, a first-person perspective or third even for Warhammer?
+[26:12.300 --> 26:12.560]  Yeah.
+[26:12.840 --> 26:17.260]  Uh, I'm gonna say no, but then someone in the chat's gonna be like, what about, like, Vermintide?
+[26:17.460 --> 26:19.000]  Vermintide. Outside of Vermintide.
+[26:19.020 --> 26:19.260]  Yeah.
+[26:21.120 --> 26:28.200]  I feel like there are a million Warhammer-adjacent games kind of connected. Like, it feels like there's a lot.
+[26:29.000 --> 26:30.040]  And I've avoided all of them.
+[26:30.040 --> 26:33.580]  The chat's just saying Boltgun. I don't know what Boltgun is. Darktide.
+[26:34.000 --> 26:36.140]  Uh, okay. Don't remember.
+[26:46.640 --> 26:47.960]  Oh, cool. Oh.
+[26:54.660 --> 26:55.380]  I've never played.
+[26:56.460 --> 26:59.840]  Oh, really?
+[26:59.840 --> 27:03.020]  That's so cool. Yeah, it's great. It's really, really fantastic.
+[27:03.720 --> 27:06.340]  Can y'all fucking believe they made Horizon a LEGO game?
+[27:08.060 --> 27:08.980]  Fucking crazy.
+[27:09.060 --> 27:09.880]  Hey, what's up, motherfuckers?
+[27:11.440 --> 27:12.220]  Wish we thought of that.
+[27:12.220 --> 27:14.220]  Did that just say speaking in a global language?
+[27:27.120 --> 27:28.640]  Speaking in global language.
+[27:29.920 --> 27:30.380]  Weird.
+[27:30.800 --> 27:33.260]  You ever play the Persona games, Andrew?
+[27:34.340 --> 27:35.800]  No, I haven't.
+[27:37.080 --> 27:39.980]  I know the music is amazing, like you said.
+[27:40.440 --> 27:40.620]  Yeah.
+[27:44.160 --> 27:45.400]  It's turn-based, right?
+[27:45.760 --> 27:46.220]  Yeah.
+[27:46.780 --> 27:49.520]  Yeah, I don't typically enjoy turn-based.
+[27:49.980 --> 27:55.220]  Me neither, but I watched a friend play a lot of them a long time ago, and it was like, oh, this is fucking cool.
+[27:55.220 --> 27:59.300]  Yeah, I feel like it's a perfect watching somebody else play that enjoys that.
+[28:01.240 --> 28:03.780]  Sasquatch in the chat says Persona 5 is on Game Pass, and it's amazing.
+[28:03.920 --> 28:05.900]  It's like, right, but I have a job.
+[28:06.440 --> 28:08.260]  I have time to play Persona 5.
+[28:09.460 --> 28:11.380]  Yeah, that's a job in itself.
+[28:12.040 --> 28:13.040]  Yeah, it really is.
+[28:13.260 --> 28:15.220]  I've been meaning to check it out because it is on Game Pass.
+[28:15.320 --> 28:17.460]  I just haven't gotten there yet.
+[28:17.800 --> 28:21.320]  That game has like the most amount of endings that you can get, I think, in a game.
+[28:22.300 --> 28:22.880]  Oh, really?
+[28:22.880 --> 28:28.140]  Yeah, I think you can beat it like six or seven times.
+[28:28.540 --> 28:31.100]  And depending on what you do, each ending can be different.
+[28:33.000 --> 28:34.200]  So it adds up.
+[28:34.440 --> 28:35.960]  I think there's like double digits.
+[28:41.340 --> 28:42.440]  This looks cool.
+[28:42.520 --> 28:46.780]  This is definitely, you know, it's the guys who made Persona, and you can tell, like the way it looks and everything.
+[28:47.000 --> 28:50.100]  But like the transformations and all the innovation looks really sick.
+[28:52.080 --> 28:57.040]  Yeah, I feel like there's no reason to not be excited about this if you are into these games.
+[28:58.340 --> 29:04.260]  Especially like these are people that you can trust, it feels like, to make exactly this kind of thing.
+[29:05.500 --> 29:07.100]  Oh, I was thinking of the wrong game. Damn.
+[29:07.580 --> 29:09.380]  But there are three endings in the game. Still a lot.
+[29:15.260 --> 29:19.440]  I mean, it looks, it looks like Persona.
+[29:20.100 --> 29:23.140]  Like in the battle stuff.
+[29:24.440 --> 29:27.340]  Now, is this Persona 6 or is this like a side thing?
+[29:27.360 --> 29:29.580]  No, no, this is called Metaphor. It's a different thing.
+[29:29.620 --> 29:29.900]  Okay.
+[29:30.640 --> 29:33.160]  I don't think it's Persona. I think it's just, I think it's them going late.
+[29:33.160 --> 29:33.720]  I see.
+[29:33.880 --> 29:36.880]  Alright, we made fucking five of these. We gotta do something else, please.
+[29:38.880 --> 29:40.580]  Like, let me tell a different story.
+[29:44.080 --> 29:47.120]  Yeah, apathetic Titan in the chat said, I'm glad to just get out of the high school environment.
+[29:47.380 --> 29:48.980]  That's what all of those games are.
+[29:48.980 --> 29:49.640]  Oh, right.
+[29:53.800 --> 29:54.320]  Whoa!
+[29:56.340 --> 29:58.780]  That's what it looks like when we shake hands. It looks crazy.
+[30:05.040 --> 30:08.020]  Yeah, dude, this is Persona. Heavy duty.
+[30:23.420 --> 30:23.940]  Whoa.
+[30:23.940 --> 30:24.380]  Whoa.
+[30:24.500 --> 30:25.340]  That's right, I have wheel power.
+[30:25.880 --> 30:27.720]  Wheel the power to go get that golden snitch.
+[30:27.980 --> 30:28.840]  I'm going for it every game.
+[30:29.180 --> 30:29.860]  Every time.
+[30:31.140 --> 30:32.040]  Insta-kill, baby.
+[30:36.480 --> 30:37.280]  Re-fantasio.
+[30:39.020 --> 30:40.240]  This is a big A.
+[30:40.320 --> 30:40.960]  Andrew, Andrew, Xbox.
+[30:41.400 --> 30:41.760]  Yay!
+[30:42.020 --> 30:42.540]  Oh my god.
+[30:43.640 --> 30:46.680]  Such an honor to have Hoshino and Tsujima with us on stage.
+[30:46.780 --> 30:51.000]  Thank you guys for that deep look at the archetypes, such stunning visual designs.
+[30:51.500 --> 30:53.840]  Now we're going to jump into the Arkhamverse.
+[30:54.100 --> 30:56.300]  Batman Arkham Shadow is a meta quest.
+[30:56.300 --> 30:56.680]  Arkhamverse?
+[30:56.680 --> 30:57.640]  Do you love the Arkhamverse?
+[30:57.840 --> 31:00.180]  I didn't know there was an Arkhamverse.
+[31:00.800 --> 31:00.860]  Yeah.
+[31:00.920 --> 31:01.600]  Well, there's not.
+[31:02.140 --> 31:02.840]  But, you know.
+[31:02.840 --> 31:03.460]  There is now.
+[31:04.840 --> 31:07.880]  Oh, it's a VR game?
+[31:11.500 --> 31:11.600]  Yay.
+[31:16.040 --> 31:17.380]  That's fine, keep it in VR.
+[31:17.620 --> 31:19.900]  I don't need any more Batman Arkham stuff.
+[31:19.900 --> 31:20.580]  Why not?
+[31:20.600 --> 31:21.180]  We can move on.
+[31:22.340 --> 31:25.140]  Because they kept taking them until there was nothing left.
+[31:25.440 --> 31:26.260]  But they were so good.
+[31:27.060 --> 31:27.780]  At first.
+[31:28.540 --> 31:29.040]  They were good.
+[31:29.300 --> 31:29.700]  Exactly.
+[31:37.010 --> 31:38.450]  When does Joaquin Phoenix sing?
+[31:38.570 --> 31:39.690]  Oh my gosh, it's Ratcatcher!
+[31:40.930 --> 31:41.850]  Eric's back on board.
+[31:42.070 --> 31:42.290]  Yeah.
+[31:51.530 --> 31:53.390]  Dude, you gotta tell me where the Rat King is, guys.
+[31:54.110 --> 31:55.390]  Where is the Rat King?
+[31:55.570 --> 31:56.590]  He's right here in this stream.
+[31:57.670 --> 31:58.270]  It's great.
+[31:58.270 --> 32:01.290]  Wait, so many people are going to tweet this to me and I'm going to have to block and unblock all of them.
+[32:02.690 --> 32:04.570]  Have you seen this? Is this you?
+[32:05.730 --> 32:06.210]  Thanks, man.
+[32:10.390 --> 32:12.130]  Batman, but the beast kind of cut off Ratman.
+[32:12.490 --> 32:12.910]  Check it out.
+[32:13.390 --> 32:13.710]  Whoa.
+[32:14.410 --> 32:14.730]  Yep.
+[32:15.830 --> 32:17.790]  Oh, they should be kindred spirits, not enemies.
+[32:20.330 --> 32:22.490]  Don't you see, Batman? You and I are the same.
+[32:22.930 --> 32:24.010]  We are both rodents.
+[32:26.770 --> 32:28.670]  You in the skies, bees in the sewers.
+[32:28.670 --> 32:30.490]  We rule together.
+[32:33.770 --> 32:34.290]  Okay.
+[32:38.270 --> 32:38.790]  Action.
+[32:43.670 --> 32:45.350]  That felt very genuine.
+[32:46.690 --> 32:48.170]  I've played those games.
+[32:49.770 --> 32:54.230]  I think if you're making a VR trailer, you have to show what it looks like in VR.
+[32:54.230 --> 32:54.690]  You have to.
+[32:54.890 --> 32:58.170]  Even if it's just a moment, I don't know what that game is.
+[32:58.670 --> 32:59.730]  Uh-uh.
+[33:00.870 --> 33:02.670]  Oh, what's, uh...
+[33:07.520 --> 33:07.920]  Uh...
+[33:09.560 --> 33:10.720]  Is this King of Fighters?
+[33:11.920 --> 33:13.280]  Oh, my God, is this Gar-?
+[33:13.600 --> 33:14.680]  Is this Gar-? No, no, no.
+[33:14.840 --> 33:15.580]  What is this?
+[33:16.080 --> 33:17.360]  Wait, oh, this is Street Fighter.
+[33:17.560 --> 33:17.920]  Oh, yeah.
+[33:18.180 --> 33:19.080]  No, is that Terry?
+[33:19.120 --> 33:20.620]  I think it is King of Fighters.
+[33:22.760 --> 33:23.160]  Ah!
+[33:23.280 --> 33:23.740]  Fatal Fury?
+[33:24.260 --> 33:24.660]  Wow.
+[33:25.660 --> 33:26.060]  Terry!
+[33:26.220 --> 33:27.240]  Fuck, yes!
+[33:27.800 --> 33:29.020]  Oh, my God!
+[33:30.100 --> 33:30.660]  Oh.
+[33:31.800 --> 33:34.420]  It's my Shiranui of the Shiranui Clan.
+[33:34.660 --> 33:35.760]  Oh, my God.
+[33:36.800 --> 33:37.200]  There's...
+[33:38.240 --> 33:40.100]  There's no way Joe shows up.
+[33:40.520 --> 33:42.200]  There's no way Joe shows up.
+[33:42.220 --> 33:43.360]  You don't think Joe's gonna show up?
+[33:43.520 --> 33:44.780]  There's no fucking shot.
+[33:45.380 --> 33:46.420]  Oh, wait, hang on.
+[33:46.600 --> 33:48.660]  So, wait, we're getting all the best fighting games?
+[33:49.000 --> 33:49.740]  They're adding...
+[33:49.740 --> 33:50.100]  Ah!
+[33:50.700 --> 33:51.260]  Oh!
+[33:51.580 --> 33:51.760]  Oh, shit!
+[33:52.080 --> 33:53.120]  What a move!
+[33:53.740 --> 33:54.660]  Oh, fuck!
+[33:57.620 --> 33:58.180]  Bison?
+[33:58.180 --> 33:59.520]  Yeah, it's...
+[33:59.520 --> 34:00.200]  Wait, is that Bison?
+[34:00.200 --> 34:02.460]  Is it like a campaign with these characters?
+[34:02.880 --> 34:03.020]  Yeah.
+[34:03.340 --> 34:04.120]  Oh, fuck!
+[34:04.200 --> 34:05.040]  I'm getting texts.
+[34:05.400 --> 34:05.640]  Ah!
+[34:07.620 --> 34:11.160]  I'm getting texts from friends that are just fucking freaking out.
+[34:11.360 --> 34:13.700]  I fucking love King of Fighters.
+[34:13.780 --> 34:17.260]  I'm pretty sure they're going to show more Garou stuff.
+[34:17.640 --> 34:20.160]  More Call of the Wolves or whatever, the new one.
+[34:20.300 --> 34:21.980]  Dude, this fucking rocks!
+[34:24.360 --> 34:25.640]  Oh, my God!
+[34:26.720 --> 34:27.680]  Fuck, yes!
+[34:27.680 --> 34:29.380]  Dude, Elena's in it, too?
+[34:29.500 --> 34:30.880]  That's so sick!
+[34:32.140 --> 34:35.920]  Terry in a Street Fighter game is fucking outrageous.
+[34:36.380 --> 34:37.440]  That's awesome!
+[34:37.980 --> 34:41.100]  I'm going to have to play fucking Street Fighter 6!
+[34:41.940 --> 34:43.360]  Whoa, it's good!
+[34:44.020 --> 34:44.560]  Wow!
+[34:44.920 --> 34:46.180]  Dude, that's awesome!
+[34:48.020 --> 34:49.780]  Oh, Merida looks a lot different in this.
+[34:50.620 --> 34:51.840]  Go back to King of Fighters!
+[34:54.280 --> 34:56.040]  Oh, I like the music, though.
+[34:59.240 --> 35:02.640]  Is this just Dynasty Warriors with a short Scottish man?
+[35:02.780 --> 35:04.380]  Because if so, I'm in.
+[35:04.540 --> 35:04.840]  It is Scottish Dynasty Warriors, yeah.
+[35:07.060 --> 35:07.720]  Dynasty Warriors.
+[35:07.980 --> 35:08.160]  Oh, oh!
+[35:08.320 --> 35:09.540]  Oh, my God!
+[35:09.760 --> 35:10.980]  Oh, my God!
+[35:12.560 --> 35:15.000]  I can't wait to take on the Yellow Kilt Rebellion.
+[35:18.420 --> 35:18.920]  Permadeath!
+[35:24.720 --> 35:25.720]  Braveheart 2!
+[35:25.960 --> 35:26.820]  Holy God!
+[35:29.620 --> 35:30.400]  Braver Harder!
+[35:31.240 --> 35:32.500]  I'm Billy Wallace.
+[35:34.940 --> 35:35.880]  Oh, wow!
+[35:38.880 --> 35:40.400]  I'm actually kind of into this.
+[35:43.700 --> 35:46.040]  Sorry, I'm looking up more stuff from Terry being his dog.
+[35:46.040 --> 35:47.240]  Oh, yeah, you do that.
+[35:50.820 --> 35:52.380]  Okay, that sounds...
+[35:53.040 --> 35:53.260]  Yeah.
+[35:55.100 --> 35:56.100]  That sounds great.
+[36:02.700 --> 36:03.100]  Unreal.
+[36:04.580 --> 36:04.940]  Oh, Goku!
+[36:07.860 --> 36:09.200]  Is Terry in this also?
+[36:13.640 --> 36:15.320]  It's a whole new level of power.
+[36:16.900 --> 36:20.200]  Oh, is this DBZ Fighters or whatever?
+[36:20.320 --> 36:21.120]  Like, they're adding new stuff?
+[36:22.120 --> 36:23.120]  Yeah, Fighter Super, probably.
+[36:23.140 --> 36:24.820]  Isn't that game like five years old?
+[36:24.920 --> 36:26.340]  Like, that'd be insane, I feel like.
+[36:26.400 --> 36:28.560]  Oh, maybe this is the...
+[36:32.550 --> 36:33.190]  I don't know.
+[36:37.780 --> 36:41.020]  I don't know what game this... what is this?
+[36:41.740 --> 36:43.540]  Street Fighter 6 is getting crazy.
+[36:51.780 --> 36:57.920]  If you're lost on what's going on in this trailer, check out Mega64's DBZ in 5 Minutes videos.
+[36:58.400 --> 37:01.480]  They'll help catch you up on everything that's going on here.
+[37:01.860 --> 37:04.080]  It'll sort of, you know, paint the picture for you.
+[37:05.840 --> 37:06.600]  That's not useful, Rath.
+[37:11.100 --> 37:12.140]  What's happening?
+[37:12.140 --> 37:12.800]  It's like the heavens, Eric.
+[37:12.800 --> 37:13.700]  This is so much.
+[37:21.890 --> 37:24.070]  I mean, I'm kind of into Dragon Ball Fatalities.
+[37:24.330 --> 37:25.230]  Sparking Zero?
+[37:25.630 --> 37:25.930]  Yeah, Sparking Zero.
+[37:26.250 --> 37:26.650]  Interesting.
+[37:27.050 --> 37:27.490]  Okay, cool.
+[37:28.750 --> 37:30.330]  Yeah, look at all the Gokus or whatever!
+[37:30.330 --> 37:31.110]  It's gonna be Terry!
+[37:31.650 --> 37:32.830]  Hey, that's probably on the right.
+[37:34.050 --> 37:35.170]  Don't tease me!
+[37:39.090 --> 37:42.990]  Oh, are we talking a full-spectrum warrior?
+[37:43.230 --> 37:43.790]  Uh-oh.
+[37:44.370 --> 37:46.230]  Oh, a full-spectrum warrior, alright.
+[37:49.570 --> 37:55.350]  While we're watching this, thank you guys so much who's watching on Twitch and hitting us with those subs and everything.
+[37:56.010 --> 38:00.350]  All the Prime subs, all the gifted subs, everything that's going on, we really appreciate it.
+[38:00.750 --> 38:04.130]  If I talk in the chat, does that mean I'm a comment leaver? What do you think?
+[38:05.170 --> 38:06.350]  Yeah, I mean, come on.
+[38:08.030 --> 38:10.270]  And if you subscribe here, you're a regulation subscriber.
+[38:10.690 --> 38:11.070]  Just letting you know.
+[38:11.650 --> 38:12.010]  Ooh!
+[38:17.930 --> 38:19.050]  This is free-to-play?
+[38:19.730 --> 38:22.370]  It looks good, like, graphically.
+[38:22.490 --> 38:29.470]  Dude, I mean, just, like, what a jump from what free-to-play used to look like in B to what this is now. It's crazy.
+[38:29.530 --> 38:30.110]  You mean like PUBG?
+[38:31.130 --> 38:32.390]  God, yeah, wild.
+[38:32.690 --> 38:35.530]  Well, I mean, when I think of free-to-play, I think of, like, mobile games.
+[38:36.290 --> 38:37.410]  Oh, yeah, fair point.
+[38:37.490 --> 38:38.750]  Like, as the start.
+[38:39.450 --> 38:44.610]  And to be able to have something that's, like, this looks, I mean, fully animated and all that stuff, it's pretty cool.
+[38:53.380 --> 39:04.300]  This is, uh, this trailer's, like, fine. It looks, you know, I think free-to-play is really smart for something like this, because it'll capture, like, a really young audience, and people will play, and it'll be over and over and over again, and all that stuff.
+[39:06.380 --> 39:16.740]  But the thing I really wanted from this trailer was I wanted it to be, like, all of those, uh, like, tactical shooters, like, where they're talking to each other in the way that...
+[39:16.740 --> 39:17.380]  Oh, yeah!
+[39:17.860 --> 39:19.640]  I was really hoping that's what we were getting.
+[39:19.660 --> 39:20.520]  Cover my six!
+[39:21.720 --> 39:22.160]  Yeah.
+[39:23.220 --> 39:25.900]  Oh, Flankle. Yeah, be quiet. There they are.
+[39:28.420 --> 39:29.440]  What? Wait, what?
+[39:31.000 --> 39:32.180]  What? Wait.
+[39:32.880 --> 39:33.880]  What Ridley Scott movie?
+[39:34.920 --> 39:35.440]  Uh...
+[39:35.440 --> 39:37.100]  They're making a Blackhawk down game?
+[39:37.860 --> 39:38.380]  What?
+[39:38.900 --> 39:39.400]  Uh...
+[39:39.400 --> 39:40.200]  What is this?
+[39:40.800 --> 39:43.800]  There's no way that they're making a Blackhawk down game in 2024.
+[39:44.400 --> 39:45.300]  Oh my god!
+[39:45.340 --> 39:46.540]  What are they doing?
+[39:46.940 --> 39:48.120]  Why? No.
+[39:48.660 --> 39:51.240]  Those Blackhawks are all up, dude. What the fuck?
+[39:51.560 --> 39:53.100]  There it is, October 3rd, 1993.
+[39:55.100 --> 39:56.360]  Oh my god.
+[39:57.060 --> 39:59.080]  You think they're gonna bring back Jamie Lannister for this?
+[39:59.340 --> 40:02.680]  Like, why are they making this? This is crazy.
+[40:03.780 --> 40:04.680]  It's just that...
+[40:05.360 --> 40:06.940]  What a weird property to buy into.
+[40:07.520 --> 40:09.980]  I mean, the chat's right. It's everyone just going,
+[40:10.280 --> 40:11.300]  What the fuck?
+[40:13.720 --> 40:15.540]  What I was saying for the summer movie draft.
+[40:15.940 --> 40:17.960]  Yeah, striking while the iron's hot, huh? Alright.
+[40:18.760 --> 40:19.220]  Yeah, man.
+[40:23.240 --> 40:23.960]  Andrew, it's befuddled.
+[40:23.960 --> 40:24.920]  I don't have words.
+[40:27.160 --> 40:28.040]  Just why?
+[40:28.980 --> 40:29.580]  Oh, man.
+[40:29.580 --> 40:32.620]  I can't wait to get back into the world of Blackhawk down.
+[40:34.860 --> 40:35.460]  Yes!
+[40:40.800 --> 40:42.800]  Shut up! Everyone shut up!
+[40:45.120 --> 40:46.720]  Show me Kushnude butt.
+[40:47.580 --> 40:47.700]  What?
+[40:49.680 --> 40:50.800]  Where's Dong Hwan?
+[40:51.680 --> 40:52.620]  Is Kim in this?
+[40:53.500 --> 40:55.940]  Oh my god, show me Rock Howard right now.
+[40:56.120 --> 40:56.620]  What the...
+[40:57.520 --> 40:58.860]  Oh my god!
+[40:58.860 --> 40:59.560]  Now.
+[41:01.540 --> 41:02.500]  Terry. Oh my god.
+[41:02.680 --> 41:03.920]  Geese isn't in this. He's done.
+[41:04.180 --> 41:06.160]  In this timeline, Geese is dead. It's been too long.
+[41:07.140 --> 41:08.640]  We haven't seen him in years, Andrew.
+[41:09.800 --> 41:10.400]  In years?
+[41:10.640 --> 41:11.200]  Oh my god, listen.
+[41:11.340 --> 41:12.900]  Oh my god, it's Terry and Rock.
+[41:13.180 --> 41:13.820]  And they're teaming up.
+[41:13.940 --> 41:15.680]  Kushnude, T-Zach, B-Jeanette.
+[41:17.060 --> 41:18.120]  The gang's all here.
+[41:18.320 --> 41:19.320]  Oh my god, Folks Reaper.
+[41:19.560 --> 41:20.700]  That's new. He's a new character.
+[41:21.520 --> 41:22.420]  It's Kushnude butt!
+[41:25.700 --> 41:26.340]  Where's Gato?
+[41:32.160 --> 41:33.000]  Rev it up.
+[41:33.300 --> 41:34.580]  Oh my god.
+[41:34.680 --> 41:35.880]  Gwen, give me a release date.
+[41:36.820 --> 41:38.200]  Oh! Kushnude butt!
+[41:39.620 --> 41:41.060]  God, that was so quick.
+[41:41.520 --> 41:43.100]  I know, where's the release date?
+[41:45.200 --> 41:49.500]  It's gotta be... it's early next year? Is it early 2025? Oh my god, that's too far away.
+[41:52.760 --> 41:53.600]  Andrew, is this you?
+[41:54.380 --> 41:55.280]  This is me, yeah.
+[41:55.720 --> 41:57.740]  Is that what happens when you do Dolby Atmos?
+[41:59.660 --> 42:01.840]  I haven't called Dolby since high school.
+[42:03.940 --> 42:14.160]  I will say, while it's an ad break, if you are on our Patreon, if you're a Patron, and you're in the Discord, make sure you claim that Pleasantries roll.
+[42:14.580 --> 42:15.280]  We're almost at our month.
+[42:15.900 --> 42:17.460]  The cutoff for that is next week.
+[42:18.360 --> 42:19.160]  Jump on, baby!
+[42:23.100 --> 42:24.100]  These are commercials.
+[42:24.560 --> 42:26.740]  I was kinda hoping we'd get something Halo related there.
+[42:27.820 --> 42:29.280]  Yeah, you got Dolby Atmos.
+[42:29.860 --> 42:30.500]  Yeah, yeah.
+[42:30.680 --> 42:31.380]  They are.
+[42:31.580 --> 42:32.340]  My favorite game.
+[42:33.640 --> 42:36.280]  Halo's in a little bit of a weird spot at the moment, I think.
+[42:36.960 --> 42:38.300]  Yeah, where it's hardly a game?
+[42:39.340 --> 42:41.980]  It's a really good game, but like it's...
+[42:41.980 --> 42:45.280]  I like Infinite by comparison to the previous two.
+[42:46.440 --> 42:48.700]  They've done a lot to add to Infinite.
+[42:48.900 --> 42:54.420]  Like, the Forge is amazing, and there's so much cool stuff in it, but it's just... they missed their window.
+[42:56.320 --> 42:58.620]  See, when I think of free-to-play, this is what I think of.
+[42:59.900 --> 43:01.340]  This style of art.
+[43:14.690 --> 43:19.150]  I mean, there's no gameplay here, it's just a...
+[43:19.370 --> 43:22.970]  Have you gotten those mobile game trailers recently with Chris Hemsworth in them?
+[43:23.410 --> 43:25.450]  Oh yeah, him and Dolph Lundgren.
+[43:26.290 --> 43:27.890]  I think it's so weird.
+[43:28.210 --> 43:30.650]  How much are they paying him for that?
+[43:31.190 --> 43:31.930]  A lot.
+[43:32.090 --> 43:32.990]  I'd love to know.
+[43:33.870 --> 43:36.630]  Is Terry in this or not? So what's going on?
+[43:36.630 --> 43:37.550]  Terry Funk?
+[43:38.410 --> 43:43.290]  No, not Terry Funk. Terry Bogard, King of Fighters. He's already been in two games that they've shown so far.
+[43:43.670 --> 43:44.550]  He's gotta be in this.
+[43:49.980 --> 43:54.260]  Oh my god, I can't wait for City of Wolves. I don't... oh my god, I cannot wait. Fuck.
+[43:54.480 --> 43:57.840]  I'm gonna play Mark of the Wolves again and get blisters. Oh, Jesus Christ.
+[44:00.920 --> 44:01.880]  Gundam? What is this?
+[44:02.100 --> 44:04.500]  Whoa. Somebody call Tyler Stapp.
+[44:04.680 --> 44:04.920]  Yeah.
+[44:08.120 --> 44:09.600]  That dude loved Gundam.
+[44:10.100 --> 44:11.240]  Oh my god, yeah.
+[44:14.000 --> 44:19.160]  It's funny, Gundam Wing was the first Gundam show I watched and so I don't like the other ones by comparison to that show.
+[44:23.400 --> 44:25.540]  Maybe this is Zone of the Enders or something?
+[44:26.260 --> 44:26.700]  Maybe.
+[44:32.080 --> 44:32.520]  Whoa.
+[44:32.700 --> 44:33.120]  Wow.
+[44:33.400 --> 44:34.680]  That looked cool as shit.
+[44:34.680 --> 44:41.360]  I don't know that I have the brain plasticity to keep up with what I just saw.
+[44:41.700 --> 44:44.660]  It's like playing 3D Ikaruga. Like, get real.
+[44:44.760 --> 44:45.740]  Oh god.
+[44:46.660 --> 44:47.580]  Oh man.
+[44:48.280 --> 44:49.400]  That'd be terrible.
+[44:52.580 --> 44:53.580]  Oh, Mecha Break.
+[44:54.620 --> 44:57.680]  Man, of all the names.
+[45:04.680 --> 45:05.360]  Looked cool.
+[45:06.340 --> 45:07.660]  Stop doing this.
+[45:07.920 --> 45:09.860]  They got one shot pre-programmed.
+[45:13.900 --> 45:15.140]  Someone goes, is this Gen 1?
+[45:20.360 --> 45:20.900]  Okay.
+[45:21.620 --> 45:22.680]  Whiplash, the game.
+[45:27.160 --> 45:29.980]  Megan? Oh, they just went with it. That's funny.
+[45:31.000 --> 45:31.460]  Mithregan.
+[45:33.500 --> 45:33.920]  Mithregan.
+[45:34.080 --> 45:35.360]  I can't wait for the sequel, Mithregan.
+[45:36.300 --> 45:37.080]  That's a prequel.
+[45:42.820 --> 45:44.520]  Oh my god, it's Chrysal.
+[45:48.260 --> 45:49.760]  Is this supposed to be scary?
+[45:49.920 --> 45:50.700]  Andrew, do you think this is a 3D game?
+[45:50.960 --> 45:52.300]  Oh, for god's sake.
+[45:52.840 --> 45:53.680]  What's happening?
+[45:55.180 --> 45:59.520]  Okay, so I think the point of this is these are Blumhouse games.
+[45:59.520 --> 46:02.980]  Oh, this is a different one. I see.
+[46:03.160 --> 46:07.020]  I think these are multiple games that Blumhouse is working on.
+[46:08.420 --> 46:09.520]  Boy, that threw me.
+[46:11.320 --> 46:14.120]  I'm dumb. Maybe they should have been a little more deliberate.
+[46:14.440 --> 46:14.860]  But that's it.
+[46:16.580 --> 46:19.160]  I assume that these would be licensed games.
+[46:20.560 --> 46:27.580]  Oh, that's cool. I love the throwback PS1-esque horror stuff.
+[46:27.840 --> 46:28.820]  I think that's so neat.
+[46:30.140 --> 46:32.060]  It's also sometimes surprisingly scary.
+[46:34.580 --> 46:37.300]  And then there's a new Silent Hill, right?
+[46:38.480 --> 46:38.880]  Yeah.
+[46:44.440 --> 46:47.920]  This is interesting. I'm not going to play this, but that's interesting.
+[46:49.120 --> 46:53.200]  Just to be clear, I'm not going to play any of these games because I don't want to get scared.
+[46:53.200 --> 46:56.200]  Oh, Sam Barlow. He's the...
+[46:57.800 --> 46:58.600]  He's the...
+[46:59.900 --> 47:00.820]  Immortality guy, I think.
+[47:01.640 --> 47:02.080]  Oh, really?
+[47:02.400 --> 47:06.280]  It said Brandon Cronenberg. Is that David Cronenberg's kid or something?
+[47:06.620 --> 47:08.300]  I have no idea.
+[47:11.340 --> 47:12.300]  That's a cool logo.
+[47:13.480 --> 47:13.880]  Yeah, oh yeah.
+[47:15.300 --> 47:16.400]  That's cool. Good for them.
+[47:16.660 --> 47:17.400]  Yeah, Half Mermaid.
+[47:17.960 --> 47:19.440]  Oh, Half Mermaid, yeah. There you go.
+[47:22.620 --> 47:25.580]  Wait, was that all one game? I'm very confused now.
+[47:25.580 --> 47:26.660]  Yeah, I don't know. That's cool.
+[47:26.840 --> 47:28.220]  I think it was a list of multiple games.
+[47:31.720 --> 47:33.220]  We just saw them. We don't need to hear more.
+[47:56.050 --> 47:58.530]  Does he have a shark? Oh, I thought he had a shark tooth necklace.
+[48:01.490 --> 48:05.570]  Y'all don't watch these paranormal activity movies anymore, so we're going to fucking do this.
+[48:10.670 --> 48:11.070]  The...
+[48:11.070 --> 48:16.450]  What's the... The Conjuring? Is that that universe with Vera Farmiga or whatever?
+[48:16.830 --> 48:17.810]  Yeah, yeah, yeah.
+[48:18.170 --> 48:20.430]  I just got... I just started getting into those.
+[48:21.490 --> 48:22.910]  Oh, you're into them? How many in are you?
+[48:23.650 --> 48:26.910]  Oh, I only... I've only watched one. The Devil Made Me Do It.
+[48:27.650 --> 48:32.730]  I had a friend who was in town and we just put it like it was flipping through channels and that was on.
+[48:32.930 --> 48:35.110]  I had such a great fucking time watching it.
+[48:35.690 --> 48:38.250]  I... Dude, I... Straight up, I might be a Conjuring guy.
+[48:40.070 --> 48:41.710]  Yeah, I never thought I'd say that.
+[48:42.630 --> 48:45.370]  That's surprising, but only off of that movie.
+[48:46.190 --> 48:47.970]  Oh, yeah, yeah. I haven't seen any of the other ones.
+[48:48.230 --> 48:51.570]  I like that your entry point isn't even a Conjuring film.
+[48:51.570 --> 48:53.590]  Like, you went on one of the side events.
+[48:53.750 --> 48:57.150]  Oh, yeah, yeah. Dude, no, it's called Conjuring. The Devil Made Me Do It, bro.
+[48:58.950 --> 48:59.770]  I've seen The Nun.
+[49:00.210 --> 49:00.950]  Devil Made You Watch It.
+[49:00.950 --> 49:02.370]  I've seen the first one and The Nun.
+[49:04.090 --> 49:06.210]  The best part of The Nun is the ending.
+[49:07.190 --> 49:08.890]  They make an insane choice.
+[49:10.390 --> 49:12.250]  I thought you meant like when the movie stopped.
+[49:12.630 --> 49:15.870]  No, that wasn't like a Muppet-style dig.
+[49:16.430 --> 49:17.610]  Like, I'm in the balcony.
+[49:18.150 --> 49:21.350]  It is genuinely the best part of the film is how they resolve that story.
+[49:23.710 --> 49:24.790]  Conjuring? What are they conjuring?
+[49:24.970 --> 49:27.170]  I don't know, but I'm going to conjure a car to take us home.
+[49:30.730 --> 49:32.230]  They conjured up my disappointment.
+[49:35.930 --> 49:37.390]  We're pretty good at this.
+[49:37.570 --> 49:40.630]  I hope the Muppets show up at Summer Games Fest. Geoff Keighley knows them.
+[49:52.240 --> 49:53.600]  Blumhouse? More like dumbhouse.
+[49:54.900 --> 49:56.640]  It's just them heckling the entire...
+[49:58.760 --> 50:01.680]  It looks awesome, all the stuff you have there.
+[50:01.780 --> 50:04.540]  And I know, you know, we'll get into when games are coming out.
+[50:04.580 --> 50:06.620]  But some of these are coming soon, Jason, right?
+[50:06.680 --> 50:07.260]  We got a good slate.
+[50:07.320 --> 50:09.400]  Yeah, we're on PC and console.
+[50:11.200 --> 50:13.180]  My friend Frank is here right now.
+[50:13.520 --> 50:15.000]  He works at Noclip.
+[50:15.600 --> 50:17.600]  And Danny O'Dwyer just tweeted out a picture.
+[50:17.740 --> 50:18.280]  Spot Frank!
+[50:18.420 --> 50:20.200]  And he's just in the front row.
+[50:21.960 --> 50:23.740]  They keep doing like the sweeping shot.
+[50:23.800 --> 50:25.020]  Then we keep going, stop doing that!
+[50:25.300 --> 50:27.740]  And it's just my buddy Frank in the front with a big smile.
+[50:28.600 --> 50:29.300]  Super creepy.
+[50:29.800 --> 50:31.340]  And I think people will be big fans of it.
+[50:31.420 --> 50:33.040]  Even if you're not normally into horror.
+[50:33.380 --> 50:37.840]  And quickly, actually, Fear the Spotlight is in its first trailer as part of the Day of the Dev showcase.
+[50:38.260 --> 50:39.240]  So stay tuned after the show.
+[50:42.800 --> 50:46.320]  Geoff Keighley looks like his pants and his jacket are made of the same material.
+[50:46.480 --> 50:47.560]  Whoa, they're like velvet.
+[50:47.840 --> 50:48.420]  Like it's a suit.
+[50:48.560 --> 50:50.180]  Yeah, like it's a suit, but it's not a suit.
+[50:50.800 --> 50:52.520]  He's George Costanza-ing this.
+[50:53.880 --> 50:55.020]  Just draped in velvet.
+[50:59.020 --> 50:59.540]  What?
+[51:01.760 --> 51:03.160]  Somebody call Rocco!
+[51:03.500 --> 51:04.020]  What?
+[51:05.380 --> 51:06.560]  Everybody's living their best life.
+[51:06.840 --> 51:08.080]  YouTube clips is really good.
+[51:08.980 --> 51:10.180]  Go back to the beginning.
+[51:10.880 --> 51:12.580]  Oh, is this going to be like remastered?
+[51:12.840 --> 51:13.680]  Oh, interesting.
+[51:17.120 --> 51:19.100]  Is it a side scroll?
+[51:19.280 --> 51:20.880]  Oh my god, that's cool.
+[51:21.140 --> 51:22.120]  Stop playing this.
+[51:22.200 --> 51:23.040]  And there's flies!
+[51:24.100 --> 51:25.320]  We gotta play this.
+[51:25.500 --> 51:26.580]  We gotta play this.
+[51:26.720 --> 51:27.740]  I mean, gameplay, gameplay.
+[51:28.980 --> 51:31.400]  Geoff is gonna hate this.
+[51:31.400 --> 51:34.200]  Geoff is too old to give a fuck about Power Rangers.
+[51:34.480 --> 51:35.680]  Go Power Rangers!
+[51:36.600 --> 51:37.360]  Hey, give me the blue one.
+[51:38.180 --> 51:39.340]  Yeah, absolutely.
+[51:40.480 --> 51:41.520]  Oh, I want a morph.
+[51:42.180 --> 51:43.520]  Did you guys have a favorite Power Ranger?
+[51:44.280 --> 51:45.320]  Uh, green.
+[51:46.700 --> 51:49.760]  Yeah, I cycled red and blue probably.
+[51:50.480 --> 51:52.240]  Oh dude, Black Ranger all the way.
+[51:52.840 --> 51:53.720]  All day, every day.
+[51:53.820 --> 51:55.760]  Oh, this looks really good!
+[51:56.240 --> 51:57.520]  Oh, this looks sick!
+[51:57.520 --> 52:02.340]  I liked when Red Ranger had the gold from the Green Ranger's armor.
+[52:02.740 --> 52:05.220]  Uh, yeah, that was cool and it only happened once, I think.
+[52:05.720 --> 52:07.060]  Uh, maybe twice.
+[52:08.080 --> 52:08.960]  So cool.
+[52:09.720 --> 52:11.720]  I love that old logo so much.
+[52:11.720 --> 52:12.780]  Tommy was always getting hurt.
+[52:13.760 --> 52:14.720]  It made the noise!
+[52:17.080 --> 52:18.660]  That looked badass.
+[52:19.660 --> 52:20.140]  That was cool.
+[52:20.660 --> 52:22.260]  Yeah, that might be the thing I'm most excited about.
+[52:23.220 --> 52:25.140]  I'm most excited for City of the Wolf.
+[52:27.700 --> 52:29.240]  Oh, there's Bambi.
+[52:29.500 --> 52:30.860]  What the fuck?
+[52:31.620 --> 52:33.560]  Oh, come on! Fuck you!
+[52:35.320 --> 52:36.580]  Don't make me feel!
+[52:36.900 --> 52:37.660]  This is bullshit.
+[52:38.720 --> 52:39.900]  Oh, no.
+[52:41.460 --> 52:44.080]  Oh, they're friends! Oh, man!
+[52:44.420 --> 52:44.700]  Oh.
+[52:45.420 --> 52:46.400]  Okay, hear me out, hear me out.
+[52:46.660 --> 52:48.280]  Piglet, but in a gritty universe.
+[52:49.820 --> 52:50.380]  Griglet?
+[52:51.220 --> 52:52.000]  Did you say piglet?
+[52:52.000 --> 52:52.880]  Doing a piglet game.
+[52:53.400 --> 52:54.600]  Oh my god.
+[52:54.600 --> 52:55.720]  Oh my god.
+[52:55.820 --> 52:57.360]  Oh, it's killing me.
+[52:57.560 --> 52:58.880]  Oh, it's killing me.
+[52:59.100 --> 52:59.860]  Oh, this is awful.
+[53:01.920 --> 53:02.600]  Oh, god.
+[53:03.040 --> 53:04.300]  Oh my god, they're best friends.
+[53:04.300 --> 53:08.520]  I can't wait to get to the end and have all the deers turn into a giant blob of deer.
+[53:09.680 --> 53:11.080]  Down the side of a hill.
+[53:11.800 --> 53:14.280]  Can't wait till one of them sacrifices the other at the end of the game.
+[53:16.760 --> 53:18.040]  What the f-
+[53:18.040 --> 53:19.460]  Oh my god, it's Gritty Piglet!
+[53:19.760 --> 53:20.120]  Oh, no.
+[53:20.480 --> 53:20.860]  Griglet!
+[53:22.120 --> 53:23.000]  It's Fern Gully.
+[53:24.780 --> 53:27.340]  Oh, they get older, and they're friends.
+[53:29.320 --> 53:31.240]  This really does remind me of Inside.
+[53:32.060 --> 53:32.280]  Yeah.
+[53:32.360 --> 53:32.740]  Oh, yeah.
+[53:34.620 --> 53:35.280]  There's Griglet.
+[53:37.500 --> 53:38.140]  Ganon?
+[53:38.360 --> 53:38.820]  No.
+[53:39.040 --> 53:40.240]  Playmobil lookin' motherfucker.
+[53:41.820 --> 53:43.700]  Whoa, sick!
+[53:44.080 --> 53:45.220]  Ah, that's real pretty.
+[53:48.660 --> 53:49.440]  Deer and Boy.
+[53:49.440 --> 53:49.800]  Deer and Boy.
+[53:49.860 --> 53:50.420]  Okay, alright.
+[53:50.700 --> 53:52.180]  Did Gavin write this title?
+[53:53.140 --> 53:55.740]  Or the second idea for the name.
+[53:56.860 --> 54:00.120]  It's actually what Geoff named his Let's Play he recorded last week.
+[54:02.160 --> 54:05.200]  Well, originally it was Milo and Otis, so they had to change it.
+[54:10.080 --> 54:10.620]  What?
+[54:13.840 --> 54:16.160]  The French government also just went, what?
+[54:17.640 --> 54:20.060]  Deer and Boy is something that Gavin wrote up, right?
+[54:20.720 --> 54:21.240]  Yeah, right.
+[54:21.580 --> 54:22.660]  Oh, dear boy!
+[54:28.360 --> 54:29.240]  Never played the first one.
+[54:29.240 --> 54:30.200]  Never got into these games.
+[54:30.440 --> 54:30.840]  Uh-uh.
+[54:31.080 --> 54:32.360]  What is this?
+[54:33.580 --> 54:34.860]  Kingdom Come Deliverance.
+[54:36.700 --> 54:39.080]  I don't think I know what this-
+[54:41.380 --> 54:47.440]  It was supposed to be, like, sort of a Skyrim type thing.
+[54:48.740 --> 54:50.660]  But in, like, medieval-
+[54:50.660 --> 54:51.420]  Yeah.
+[54:52.500 --> 54:53.220]  England?
+[54:54.100 --> 54:55.400]  Like, less fantasy.
+[55:12.650 --> 55:13.690]  Alright, I'm in.
+[55:16.290 --> 55:16.830]  Whoa.
+[55:19.010 --> 55:24.830]  Was that implying that those two were doing the dance on the table?
+[55:27.090 --> 55:28.770]  I don't think there's any implication.
+[55:30.790 --> 55:32.990]  I think they just showed it.
+[55:33.310 --> 55:33.410]  Oh.
+[55:33.410 --> 55:33.830]  Uh-huh.
+[55:52.820 --> 55:56.140]  Y'all aren't gonna believe this, but this is also in the Arkhamverse.
+[55:57.520 --> 55:58.540]  I knew it!
+[55:59.180 --> 56:00.380]  Who is the Rat King?
+[56:01.620 --> 56:04.880]  Did you see the new date for Jake Paul Mike Tyson?
+[56:05.700 --> 56:06.700]  No, what is it?
+[56:07.180 --> 56:08.020]  November 15th.
+[56:09.180 --> 56:09.940]  Do you think it happens?
+[56:11.480 --> 56:12.620]  Now I don't know.
+[56:12.620 --> 56:16.380]  Yeah, I'd put it at, like, maybe 30% is my confidence level.
+[56:16.900 --> 56:17.080]  Yeah.
+[56:30.500 --> 56:35.740]  I can't wait to see more from the Twisted Mind.
+[56:37.140 --> 56:38.120]  Do you think it's like Silent Hill?
+[56:39.800 --> 56:45.860]  Yeah, kind of like how that metaphor was kind of like Persona?
+[56:46.080 --> 56:46.180]  Yeah.
+[56:49.280 --> 56:51.720]  Yeah, I think this is kind of like Silent Hill, Nick.
+[56:52.320 --> 56:53.360]  I don't know, I don't see any fog.
+[56:53.840 --> 56:53.980]  Oh, wait.
+[57:00.420 --> 57:01.220]  What the fuck?
+[57:01.340 --> 57:02.180]  Oh, no, Pyramid Head.
+[57:03.280 --> 57:04.680]  Should be in the Recycling Bin.
+[57:08.780 --> 57:09.180]  Compost.
+[57:12.520 --> 57:13.080]  What?
+[57:13.720 --> 57:14.100]  What?
+[57:15.860 --> 57:16.420]  Compost.
+[57:16.940 --> 57:18.160]  Compost never changes.
+[57:19.500 --> 57:20.720]  What the fuck?
+[57:21.020 --> 57:22.380]  That guy still hit the ground.
+[57:26.060 --> 57:28.460]  Yeah, I think it's a little bit like Silent Hill.
+[57:29.020 --> 57:30.340]  That was like Resident Evil 4.
+[57:31.700 --> 57:32.240]  Nope, never mind.
+[57:36.100 --> 57:40.180]  So you just, like, use these people to, like, defeat these guys?
+[57:40.960 --> 57:41.520]  Huh.
+[57:42.500 --> 57:43.760]  I have no idea.
+[57:44.240 --> 57:46.280]  Yeah, this is, uh...
+[57:46.280 --> 57:47.100]  It's interesting.
+[57:49.120 --> 57:50.240]  Uh, what?
+[57:51.180 --> 57:51.640]  Whoa.
+[57:55.970 --> 57:57.170]  You think there's permadeath?
+[57:58.350 --> 57:59.850]  Maybe in the hardest setting.
+[58:03.170 --> 58:04.770]  That's Geoff if the Celtics lose.
+[58:04.770 --> 58:06.970]  Ha ha ha ha ha ha!
+[58:09.630 --> 58:14.530]  Everything that led to this moment of the trailer didn't read as hack and slash.
+[58:14.650 --> 58:15.990]  Like, all the animation is in front.
+[58:16.070 --> 58:16.330]  No, no, no.
+[58:17.950 --> 58:19.510]  Or, like, action game, I guess.
+[58:22.330 --> 58:23.090]  That's cool.
+[58:24.010 --> 58:24.970]  Character swapping.
+[58:26.370 --> 58:26.690]  What?
+[58:26.830 --> 58:28.190]  There's an interesting element to it, yeah.
+[58:28.190 --> 58:28.950]  Oh, that's awesome.
+[58:37.520 --> 58:38.980]  Yeah, fuck platforming.
+[58:39.560 --> 58:40.420]  No, not the dog.
+[58:40.420 --> 58:41.640]  Wait, you mean dog?
+[58:42.180 --> 58:42.500]  Yeah!
+[58:43.120 --> 58:43.860]  Hell yeah.
+[58:46.720 --> 58:48.040]  That... is interesting.
+[58:49.860 --> 58:50.560]  Oh, alright.
+[58:50.800 --> 58:52.280]  Ha ha ha ha ha ha!
+[58:53.180 --> 58:54.060]  You gotta...
+[58:54.940 --> 58:56.260]  I'm excited for this as well.
+[58:56.480 --> 58:57.440]  Yeah, this looks like...
+[58:57.440 --> 58:57.660]  Oh!
+[58:59.040 --> 59:00.020]  This is gonna be awesome.
+[59:00.660 --> 59:01.740]  I forget what it's called.
+[59:01.940 --> 59:02.960]  Are they, like, chicken nuggets?
+[59:03.160 --> 59:03.840]  What's going on?
+[59:04.960 --> 59:07.160]  They're, like, nuggets with potatoes or something, I think.
+[59:07.260 --> 59:09.080]  That's what I call a dramatic entrance.
+[59:09.580 --> 59:10.420]  Oh, God.
+[59:13.580 --> 59:14.360]  Oh, boy.
+[59:14.780 --> 59:15.280]  Oh, they're beans.
+[59:20.560 --> 59:21.560]  This is gonna be...
+[59:22.020 --> 59:23.180]  This is gonna be a weird one.
+[59:23.640 --> 59:24.680]  I'm excited for it.
+[59:25.980 --> 59:29.220]  This is what I wanted out of, like, the last two Saints Row games.
+[59:29.400 --> 59:29.500]  Ha ha ha ha ha!
+[59:29.880 --> 59:30.380]  Oh, topless.
+[59:30.820 --> 59:31.320]  He said topless.
+[59:31.400 --> 59:32.040]  He's bottomless.
+[59:32.240 --> 59:35.740]  No one's wearing any pants, but they're all wearing, like, leg stocking things.
+[59:35.780 --> 59:36.220]  Like, they're all...
+[59:36.220 --> 59:37.080]  Oh, hell yeah!
+[59:37.380 --> 59:39.060]  Like, this is so crazy.
+[59:43.340 --> 59:44.280]  Oh, my God.
+[01:00:07.870 --> 01:00:08.750]  Hell yeah!
+[01:00:09.550 --> 01:00:10.990]  It's, like, Saints Row.
+[01:00:11.510 --> 01:00:11.870]  Yeah.
+[01:00:12.010 --> 01:00:12.730]  That's what I was saying.
+[01:00:12.850 --> 01:00:16.930]  Like, this is what I wanted out of, tonally, those last few Saints Row games.
+[01:00:19.830 --> 01:00:21.450]  I'm sorry, were those zombie nuggets?
+[01:00:22.510 --> 01:00:23.370]  Ha ha ha!
+[01:00:23.430 --> 01:00:24.690]  I believe they were.
+[01:00:26.750 --> 01:00:29.270]  My only complaint about this, and I don't even...
+[01:00:29.270 --> 01:00:30.330]  Like, this is just an assumption.
+[01:00:30.930 --> 01:00:33.990]  Based on how stylized it is, I doubt this is co-op.
+[01:00:34.130 --> 01:00:36.310]  And I would love to experience this in co-op.
+[01:00:36.650 --> 01:00:36.750]  Yeah.
+[01:00:37.570 --> 01:00:38.730]  It's gotta be a single-player game.
+[01:00:40.410 --> 01:00:41.090]  But I'm in.
+[01:00:41.530 --> 01:00:42.550]  Glad you liked that one.
+[01:00:42.590 --> 01:00:46.910]  That was Killer Bean, a third-person roguelike shooter made by another single-player game.
+[01:00:48.770 --> 01:00:49.170]  Yeah!
+[01:00:57.550 --> 01:01:01.630]  Do you think he was just pitching the Wachowskis the entire time listening to that idea?
+[01:01:02.390 --> 01:01:05.590]  He's a bean! He's a bean! Where are you going? He's a bean! Come back!
+[01:01:12.990 --> 01:01:19.640]  When we created our studio, we asked each other to always come up with something new.
+[01:01:20.420 --> 01:01:22.680]  So, after Fury and Haven...
+[01:01:23.400 --> 01:01:26.160]  Do we regret that promise, Emilie? It's been very stressful.
+[01:01:26.960 --> 01:01:28.920]  We put a lot of pressure on ourselves.
+[01:01:29.240 --> 01:01:32.280]  We just want to make a Fortnite clone. We just want to make something free to play.
+[01:01:33.500 --> 01:01:35.400]  We're just very, very tired.
+[01:01:36.380 --> 01:01:41.640]  And I've always wondered, why do alpinists risk their lives in such extreme conditions?
+[01:01:41.640 --> 01:01:45.640]  This is something we wanted to explore in Cairn.
+[01:01:47.540 --> 01:01:51.120]  Cairn is a game about what it takes to go beyond your limits.
+[01:01:52.200 --> 01:01:55.580]  You climb a mountain to reach a summit never reached before.
+[01:01:56.180 --> 01:01:57.020]  Oh, hell yeah.
+[01:01:57.140 --> 01:01:58.980]  The climbing gameplay is a challenge.
+[01:01:59.640 --> 01:02:01.260]  I got burger confidence about this climbing.
+[01:02:02.800 --> 01:02:04.980]  I can climb the fuck out of that mountain.
+[01:02:07.960 --> 01:02:09.640]  He's death-gripping that mic, dude.
+[01:02:09.640 --> 01:02:11.080]  He is.
+[01:02:11.900 --> 01:02:13.480]  What do you think about climbing that mountain?
+[01:02:14.000 --> 01:02:16.040]  He's climbing that mountain.
+[01:02:16.240 --> 01:02:20.700]  I often look at mountains in my life and say, 1v1 me, bro.
+[01:02:20.860 --> 01:02:24.760]  And I'm finally glad that we have a system now.
+[01:02:33.600 --> 01:02:34.080]  Visually...
+[01:02:38.110 --> 01:02:40.070]  I don't want to do this in real life.
+[01:02:40.070 --> 01:02:42.650]  I don't use any ropes. I free-climb it, dude.
+[01:02:43.750 --> 01:02:44.870]  You're a free-climb guy?
+[01:02:46.110 --> 01:02:49.290]  Is that why there's dog lotion on the hands for the free-climb?
+[01:02:49.750 --> 01:02:50.730]  Oh, absolutely, dude.
+[01:02:51.030 --> 01:02:53.230]  That's how I'm making my hands tougher every day.
+[01:02:56.450 --> 01:03:00.910]  I'd be so mad if I got 80% of the way and then a killer bean jumped off and got me.
+[01:03:01.910 --> 01:03:03.130]  Oh my god!
+[01:03:09.630 --> 01:03:16.210]  This is a little bit dark of an idea, but a multiplayer climber that has permadeath, where you see the bodies of people...
+[01:03:16.210 --> 01:03:17.690]  Oh my god, Andrew!
+[01:03:17.930 --> 01:03:18.250]  Jesus.
+[01:03:26.240 --> 01:03:28.680]  This is, like, gorgeous to look at.
+[01:03:28.780 --> 01:03:30.260]  This game is, like, beautiful.
+[01:03:31.480 --> 01:03:32.940]  He's gonna control, like, QWOP.
+[01:03:33.900 --> 01:03:36.520]  Yeah, that's exactly what I was thinking.
+[01:03:37.260 --> 01:03:38.840]  You will never reach the summit.
+[01:03:41.200 --> 01:03:42.280]  Enjoy it in the trailer.
+[01:03:48.540 --> 01:03:50.260]  Screaming Sim, big time.
+[01:03:51.520 --> 01:03:51.960]  Cairn.
+[01:03:53.580 --> 01:03:56.640]  Thanks to everyone who's watching us live on Twitch.
+[01:03:56.760 --> 01:03:58.940]  Appreciate you guys tuning in while we do this.
+[01:03:59.100 --> 01:04:00.440]  This is fun. This is great.
+[01:04:03.690 --> 01:04:06.970]  The Creators of Stanley Parable. I never played that, but people really like that game.
+[01:04:07.250 --> 01:04:07.890]  Yeah, big time.
+[01:04:07.890 --> 01:04:08.330]  Oh yeah!
+[01:04:10.670 --> 01:04:11.030]  Huh?
+[01:04:12.670 --> 01:04:13.890]  Hell yeah.
+[01:04:13.890 --> 01:04:17.090]  I'm out here in the middle of the woods, running a tea shop.
+[01:04:18.250 --> 01:04:20.810]  So, what does running a tea shop involve?
+[01:04:22.410 --> 01:04:23.930]  Well, there's a lot of gardening.
+[01:04:24.970 --> 01:04:28.330]  And I've had to get used to the pretty unique tea machine they've got here.
+[01:04:29.250 --> 01:04:31.950]  None of these tasks are all that hard, they just take patience.
+[01:04:32.790 --> 01:04:34.370]  And I'm not really the patient type.
+[01:04:35.170 --> 01:04:36.170]  But I'm surviving.
+[01:04:37.070 --> 01:04:38.410]  I'm waiting for it to turn sinister.
+[01:04:39.070 --> 01:04:40.270]  Yeah, something's about to happen.
+[01:04:45.250 --> 01:04:48.210]  Based on that animation, I don't think it will.
+[01:04:52.050 --> 01:04:54.990]  You think this is just a cozy tea game?
+[01:04:56.450 --> 01:04:57.730]  I think there's permadeath.
+[01:04:58.170 --> 01:04:59.670]  The Brits will love this shit.
+[01:05:00.730 --> 01:05:02.010]  Yeah, it's about to go nuts.
+[01:05:08.440 --> 01:05:10.800]  What's that like?
+[01:05:11.280 --> 01:05:11.880]  Oh, here we go.
+[01:05:12.860 --> 01:05:13.560]  I'm just kidding.
+[01:05:14.440 --> 01:05:15.840]  She's about to turn into a werewolf.
+[01:05:16.420 --> 01:05:17.640]  Oh, I don't like this.
+[01:05:24.380 --> 01:05:25.800]  This is me going to bed every night.
+[01:05:29.020 --> 01:05:31.720]  Mr. Clean?
+[01:05:39.160 --> 01:05:39.540]  Ghoul.
+[01:05:42.640 --> 01:05:45.640]  I'd like to know more about why she was upset.
+[01:05:47.640 --> 01:05:49.640]  Can I pay for the DLC for that?
+[01:05:49.640 --> 01:05:51.580]  I still don't know what it takes to maintain a tea shop, I have no idea.
+[01:05:53.320 --> 01:05:54.640]  Weird colored teeth.
+[01:06:03.500 --> 01:06:06.440]  Haruna, mama, na-na-na-na-na-na.
+[01:06:06.840 --> 01:06:08.300]  Take me into the fold, Haruna.
+[01:06:13.360 --> 01:06:13.680]  Terrible.
+[01:06:13.680 --> 01:06:14.620]  What?
+[01:06:19.500 --> 01:06:21.220]  That's a good start.
+[01:06:22.040 --> 01:06:23.000]  Oh, this looks cool.
+[01:06:34.520 --> 01:06:35.600]  It's a crystal skull.
+[01:06:36.460 --> 01:06:37.720]  Oh, what is...
+[01:06:47.920 --> 01:06:49.780]  I think that guy might be the Rat King.
+[01:06:54.700 --> 01:06:55.100]  Whoa.
+[01:07:02.320 --> 01:07:05.040]  He looks like a villain from Far Cry.
+[01:07:06.020 --> 01:07:06.560]  Yeah, he does.
+[01:07:06.740 --> 01:07:07.640]  He does, yeah.
+[01:07:14.050 --> 01:07:16.070]  My name's in the title, son of a bitch.
+[01:07:16.070 --> 01:07:17.030]  Yeah, idiot.
+[01:07:17.190 --> 01:07:18.130]  This is my land.
+[01:07:25.020 --> 01:07:26.160]  That's cool looking.
+[01:07:26.960 --> 01:07:27.520]  Yeah.
+[01:07:37.220 --> 01:07:40.180]  I know that actress, it's driving me crazy.
+[01:07:45.450 --> 01:07:47.430]  You guys ever Monster Hunter guys, or what?
+[01:07:49.250 --> 01:07:51.110]  I like the last two.
+[01:07:54.770 --> 01:07:56.850]  Capcom, Summer, DL... hey, Eric!
+[01:07:56.850 --> 01:08:00.370]  Yeah, you better believe I'm fucking locked in right now, dude.
+[01:08:01.930 --> 01:08:02.610]  Oh.
+[01:08:03.010 --> 01:08:04.170]  What percentage?
+[01:08:05.130 --> 01:08:07.150]  Up to 50% off?
+[01:08:11.650 --> 01:08:12.330]  What?
+[01:08:17.940 --> 01:08:18.920]  Robin Hood.
+[01:08:26.210 --> 01:08:27.590]  Souls like Robin Hood.
+[01:08:28.230 --> 01:08:31.390]  Why stop at Pinocchio?
+[01:08:41.280 --> 01:08:44.260]  Damn, I bet Knights back then wished they could have done that.
+[01:08:56.140 --> 01:08:59.020]  Oh, that's awesome. I want one of those in real life.
+[01:08:59.880 --> 01:09:01.960]  I want a stick I can just launch with.
+[01:09:11.580 --> 01:09:12.740]  That's a lot of gold.
+[01:09:16.010 --> 01:09:16.650]  Oh.
+[01:09:17.110 --> 01:09:17.630]  What?
+[01:09:24.860 --> 01:09:25.500]  Whoa.
+[01:09:27.700 --> 01:09:28.340]  Okay.
+[01:09:29.820 --> 01:09:30.960]  There's magic abilities.
+[01:09:32.120 --> 01:09:33.400]  Magic transformation.
+[01:09:34.880 --> 01:09:37.120]  Oh, he's pulling off his Mr. Karate mask.
+[01:09:39.360 --> 01:09:40.900]  Or his face.
+[01:09:46.440 --> 01:09:47.720]  Oh, and now he's him.
+[01:09:51.320 --> 01:09:52.780]  Just much smaller.
+[01:09:54.480 --> 01:09:57.440]  Listen, I appreciate the direction they're willing to take, Hitman.
+[01:09:58.180 --> 01:09:59.280]  They take swings.
+[01:10:02.660 --> 01:10:03.720]  Agent 46.
+[01:10:09.980 --> 01:10:13.000]  All right, we're back here live for more Summer Game Fest.
+[01:10:13.120 --> 01:10:15.840]  The first Descendant, powered by Unreal Engine 5,
+[01:10:15.940 --> 01:10:19.120]  is a next-gen looter shooter with dynamic cooperative gameplay,
+[01:10:19.340 --> 01:10:21.320]  including a grappling hook mechanic.
+[01:10:21.500 --> 01:10:23.320]  It is finally set for release,
+[01:10:23.400 --> 01:10:26.240]  and we're very happy here to debut the new trailer
+[01:10:26.240 --> 01:10:28.400]  and the reveal of the release date.
+[01:10:29.800 --> 01:10:31.000]  I love a looter shooter.
+[01:10:31.320 --> 01:10:33.160]  Let's see what this thing is.
+[01:10:33.340 --> 01:10:34.500]  I love a grappling hook.
+[01:10:35.280 --> 01:10:37.200]  Oh, cool. This might be the game for us.
+[01:10:37.200 --> 01:10:38.280]  Ooh.
+[01:10:40.160 --> 01:10:41.160]  That's cool looking.
+[01:10:51.240 --> 01:10:53.240]  Is this, like, an Imagine Dragons song?
+[01:10:53.380 --> 01:10:53.960]  Like, what's going on?
+[01:10:54.920 --> 01:10:56.100]  It feels like one.
+[01:10:56.100 --> 01:10:56.960]  It's so familiar.
+[01:11:03.510 --> 01:11:06.630]  I'm just glad it's not a gritty pop cover.
+[01:11:07.350 --> 01:11:10.870]  Oh, it's M83.
+[01:11:11.310 --> 01:11:11.910]  There you go.
+[01:11:12.630 --> 01:11:13.110]  Oh.
+[01:11:22.460 --> 01:11:25.620]  We'll say I'm disappointed by the lack of Mountain Dew and Doritos so far.
+[01:11:25.620 --> 01:11:26.240]  Yeah.
+[01:11:26.800 --> 01:11:27.180]  Yeah.
+[01:11:29.180 --> 01:11:31.740]  I think Keeley might be above that at this point,
+[01:11:31.760 --> 01:11:32.960]  and that makes me sad.
+[01:11:33.500 --> 01:11:34.220]  Yeah, I don't like that.
+[01:11:35.700 --> 01:11:37.740]  Oh, with all the swimming, I forgot about the looting and shooting.
+[01:11:40.480 --> 01:11:43.120]  Is any of this gameplay, or is this all just cinematic?
+[01:11:43.500 --> 01:11:43.800]  Cinematic.
+[01:11:47.630 --> 01:11:50.590]  If you told me that this was, like, a Warframe DLC,
+[01:11:50.830 --> 01:11:51.510]  I would believe it.
+[01:11:51.530 --> 01:11:53.290]  Yeah, 100% what it looks like.
+[01:11:55.110 --> 01:11:55.910]  Whoa, a rabbit.
+[01:11:59.110 --> 01:12:01.330]  You been looking for a rabbit game, Nick?
+[01:12:02.950 --> 01:12:04.430]  Uh, not exactly, but...
+[01:12:04.430 --> 01:12:05.330]  You a Rayman guy?
+[01:12:05.730 --> 01:12:07.070]  Oh, yeah, Rayman's a cool man.
+[01:12:10.070 --> 01:12:11.210]  Oh, no, Black Hawk Down!
+[01:12:11.810 --> 01:12:16.330]  I was just thinking, how fucking crazy it is that there's a Black Hawk Down game coming.
+[01:12:17.470 --> 01:12:18.670]  That's fucking nuts.
+[01:12:20.810 --> 01:12:22.570]  Feels kind of messed up.
+[01:12:23.930 --> 01:12:28.970]  Somebody in the chat, uh, Siroc Obamago, just said, uh,
+[01:12:28.990 --> 01:12:31.350]  this is actually just a music video, and, uh, that's true.
+[01:12:31.590 --> 01:12:31.830]  Yeah.
+[01:12:33.630 --> 01:12:35.930]  July 2nd. No gameplay, July 2nd.
+[01:12:37.030 --> 01:12:37.750]  Don't pre-order.
+[01:12:42.810 --> 01:12:45.590]  It's not, the writers aren't being fair to her,
+[01:12:45.830 --> 01:12:50.110]  where it's like, here's an outline from the last one, and here's an inline to the next one.
+[01:12:50.110 --> 01:12:53.070]  Like, that's not, that's not strong, that's not fair.
+[01:12:54.570 --> 01:12:56.110]  The thing in Among Us.
+[01:13:06.070 --> 01:13:07.650]  Good for them, I'm looking for Frank.
+[01:13:08.810 --> 01:13:09.950]  I'll come back to Frank.
+[01:13:15.450 --> 01:13:17.130]  Fuck the Oscars!
+[01:13:24.170 --> 01:13:25.850]  Alright, we're doing bits here.
+[01:13:26.310 --> 01:13:26.790]  Oh.
+[01:14:16.270 --> 01:14:20.110]  Let me tell you about Black Hawk Down the game.
+[01:14:20.370 --> 01:14:20.910]  Yeah!
+[01:14:20.910 --> 01:14:21.070]  Yeah!
+[01:14:22.870 --> 01:14:25.870]  People have been asking for it for a long time.
+[01:14:26.310 --> 01:14:27.590]  And also, it's a real event.
+[01:14:28.050 --> 01:14:28.230]  Yeah.
+[01:14:28.810 --> 01:14:32.750]  To refer to it as a Ridley Scott property is so weird.
+[01:14:32.890 --> 01:14:36.910]  Yeah, Ridley Scott owns the Black Hawk Down.
+[01:14:39.850 --> 01:14:40.690]  They did.
+[01:14:41.330 --> 01:14:41.830]  I remember.
+[01:14:43.890 --> 01:14:45.690]  I don't think I bought it.
+[01:14:46.170 --> 01:14:47.970]  So I can't, I can't take credit for that.
+[01:14:53.920 --> 01:14:56.520]  Millennial-ass fucking trailer right here, dude.
+[01:15:05.040 --> 01:15:06.520]  Oh, that...
+[01:15:08.880 --> 01:15:09.620]  Huh.
+[01:15:12.260 --> 01:15:14.940]  Oh, that looks, that looks really cool.
+[01:15:16.340 --> 01:15:17.420]  Yeah, it's gorgeous.
+[01:15:18.200 --> 01:15:20.640]  We just released a demo for one-button bosses.
+[01:15:20.980 --> 01:15:26.300]  I like it.
+[01:15:26.460 --> 01:15:27.420]  That's a cool idea.
+[01:15:31.000 --> 01:15:36.940]  Do you think the Blumhouse people are thinking, fuck, why didn't we present our thing this way?
+[01:15:37.220 --> 01:15:40.520]  This is such an easier to read setup.
+[01:15:41.780 --> 01:15:44.220]  I'll play Rogue Eclipse if it's like Star Fox.
+[01:15:44.220 --> 01:15:47.600]  I was about to say, the most successful Star Fox game since 64.
+[01:15:50.640 --> 01:15:51.160]  Oh!
+[01:15:53.380 --> 01:15:56.120]  A little bird with a hat on it, that was fun.
+[01:16:00.920 --> 01:16:05.440]  What? One last meal?
+[01:16:11.550 --> 01:16:12.070]  Pudding.
+[01:16:14.190 --> 01:16:14.710]  Cool.
+[01:16:16.210 --> 01:16:17.170]  That looks great.
+[01:16:19.910 --> 01:16:21.650]  Yeah, they're giving her just...
+[01:16:21.650 --> 01:16:25.750]  Yeah, they're not giving her a lot to work with there, eh?
+[01:16:28.470 --> 01:16:28.810]  What?
+[01:16:32.730 --> 01:16:33.850]  I didn't know that, did you know that?
+[01:16:34.670 --> 01:16:35.130]  I did.
+[01:16:36.650 --> 01:16:38.710]  I think James McAvoy might be in it.
+[01:16:39.010 --> 01:16:40.750]  No, shut up. Are you serious?
+[01:16:41.090 --> 01:16:44.870]  Yeah, it's like weirdly, like, casted, like, names.
+[01:16:44.870 --> 01:16:45.950]  I just...
+[01:16:48.330 --> 01:16:50.730]  Is it all just... okay, so it's like these little guys.
+[01:16:55.810 --> 01:16:58.930]  Okay, the voice work is still to be...
+[01:16:58.930 --> 01:17:00.070]  Hey, look, it's Burnout Revenge.
+[01:17:01.770 --> 01:17:03.870]  Every show has Burnout in there.
+[01:17:04.510 --> 01:17:04.970]  Finally.
+[01:17:08.030 --> 01:17:09.730]  Is James Mc... who's in this?
+[01:17:10.650 --> 01:17:12.790]  Among Us TV show cast.
+[01:17:14.930 --> 01:17:16.390]  Elijah Wood is in it?
+[01:17:16.390 --> 01:17:18.430]  Maybe that's what I'm thinking of.
+[01:17:18.710 --> 01:17:20.770]  Dan Stevens, Patton Oswalt.
+[01:17:21.610 --> 01:17:22.110]  What, really?
+[01:17:24.750 --> 01:17:25.270]  Yeah, there you go.
+[01:17:25.370 --> 01:17:25.950]  There we go.
+[01:17:28.010 --> 01:17:29.310]  Wayne Nightingale Park.
+[01:17:29.690 --> 01:17:29.990]  That's cool.
+[01:17:33.600 --> 01:17:36.260]  Up next, we have Sonic X Shadow Generations.
+[01:17:37.160 --> 01:17:39.620]  Oh, a Sonic game.
+[01:17:40.580 --> 01:17:42.980]  Moving around at the speed of sound.
+[01:17:44.180 --> 01:17:46.800]  Moving around at the speed of sound.
+[01:17:46.800 --> 01:17:52.180]  Now it's time for a glimpse of Shadow's brand new powers and gameplay from a standalone campaign,
+[01:17:52.300 --> 01:17:55.780]  as well as the official release date announcement.
+[01:17:57.520 --> 01:17:59.860]  Give us a full Chao game, you cowards.
+[01:18:00.380 --> 01:18:01.340]  Shadow's brand new power.
+[01:18:01.480 --> 01:18:02.800]  Give us a Quidditch game, give us a Chao.
+[01:18:03.040 --> 01:18:03.960]  A machine gun.
+[01:18:04.100 --> 01:18:05.400]  Make Sonic take off his shoes.
+[01:18:09.660 --> 01:18:14.640]  This is... if you're a fan of Sonic the Hedgehog, hey man, good for you.
+[01:18:16.100 --> 01:18:16.580]  Bummer.
+[01:18:17.100 --> 01:18:21.680]  Like, you are just kicked and kicked and kicked,
+[01:18:22.060 --> 01:18:25.160]  and then given a morsel of something that is playable,
+[01:18:25.420 --> 01:18:27.980]  and then you're just back to square one, dude.
+[01:18:28.420 --> 01:18:28.820]  Three Hedgehogs.
+[01:18:28.820 --> 01:18:30.360]  Yeah, but this one has three Hedgehogs.
+[01:18:30.620 --> 01:18:31.400]  Where's the other one?
+[01:18:33.220 --> 01:18:34.180]  Oh, I hate that robot.
+[01:18:34.180 --> 01:18:34.380]  There he is.
+[01:18:42.300 --> 01:18:45.020]  Wow, so one of the Hedgehogs don't even get their own epic adventure?
+[01:18:45.240 --> 01:18:45.620]  No.
+[01:18:45.660 --> 01:18:46.160]  Fucked up.
+[01:18:47.320 --> 01:18:48.400]  Bring back Knuckles.
+[01:18:52.150 --> 01:18:53.250]  God, this is...
+[01:18:57.260 --> 01:18:59.680]  Look, if you're into Sonic, cool, good for you.
+[01:19:00.640 --> 01:19:04.640]  Oh, God.
+[01:19:05.140 --> 01:19:06.420]  This, never mind, that rocks.
+[01:19:10.980 --> 01:19:12.780]  Sonic Adventure Legacy skin?
+[01:19:13.140 --> 01:19:15.560]  From, like, Sega Saturn?
+[01:19:19.720 --> 01:19:21.300]  That's what I've been saying, Geoff.
+[01:19:21.380 --> 01:19:23.080]  Yeah, guys, we just keep saying it.
+[01:19:25.080 --> 01:19:26.480]  What?
+[01:19:27.900 --> 01:19:28.900]  Spice Wars.
+[01:19:36.520 --> 01:19:37.220]  Oh.
+[01:19:42.560 --> 01:19:44.000]  Who's this, Duncan Idaho?
+[01:19:48.400 --> 01:19:49.360]  Oscar Isaac?
+[01:19:51.740 --> 01:19:52.300]  Oh.
+[01:19:53.580 --> 01:19:56.080]  I like that, it's close enough to Timothy Chalamet.
+[01:19:59.820 --> 01:20:01.540]  I created paprika.
+[01:20:03.220 --> 01:20:09.380]  I don't... unless we're seeing God Emperor of Dune-style worm hybrid people, I'm out.
+[01:20:10.520 --> 01:20:11.780]  That's a survival horror game.
+[01:20:13.480 --> 01:20:15.060]  No, I think he did say that.
+[01:20:19.540 --> 01:20:20.860]  I don't... does it work that way?
+[01:20:22.200 --> 01:20:23.660]  Is that a choice in this?
+[01:20:24.100 --> 01:20:25.340]  I haven't seen any of Dune.
+[01:20:25.360 --> 01:20:27.480]  Yeah, the Bene Jesuit have that power.
+[01:20:38.840 --> 01:20:39.680]  Hell yeah.
+[01:20:40.440 --> 01:20:41.400]  Protect them spices.
+[01:20:41.480 --> 01:20:42.580]  But what happens to the Fremen?
+[01:20:46.140 --> 01:20:47.280]  There you go.
+[01:20:49.280 --> 01:20:49.740]  No!
+[01:20:54.440 --> 01:20:55.940]  Boy-D, little mouse.
+[01:21:00.380 --> 01:21:02.940]  No, Nick, did you hear that? No quiz on Hyderak.
+[01:21:03.140 --> 01:21:05.840]  Wow, having not seen the movies, this makes a lot of sense.
+[01:21:07.920 --> 01:21:08.420]  Huh?
+[01:21:12.480 --> 01:21:12.980]  Me?
+[01:21:21.870 --> 01:21:26.190]  Open World Survival MMO, that's a lot of descriptors.
+[01:21:33.850 --> 01:21:34.470]  Okay.
+[01:21:36.530 --> 01:21:38.630]  Aren't all MMOs open world?
+[01:21:39.970 --> 01:21:41.990]  Are there non-open world MMOs?
+[01:21:42.910 --> 01:21:47.430]  Dude, this song is gonna make me jump the fuck up.
+[01:21:51.170 --> 01:21:54.750]  It's been fucking... it's been 25 years since we've done rap rock.
+[01:21:54.930 --> 01:21:55.830]  Let's... here we go, baby.
+[01:21:58.930 --> 01:22:02.050]  This song sounds like what Jenko jeans look like.
+[01:22:06.930 --> 01:22:07.410]  Yeah.
+[01:22:07.410 --> 01:22:12.370]  The animation for this is sick.
+[01:22:13.830 --> 01:22:15.870]  Yeah, I don't even need to play this.
+[01:22:15.870 --> 01:22:16.570]  I don't know what it is.
+[01:22:17.130 --> 01:22:18.590]  This is sick.
+[01:22:19.070 --> 01:22:20.050]  Is it like Star Fox?
+[01:22:21.670 --> 01:22:22.970]  I don't think so.
+[01:22:23.790 --> 01:22:24.390]  Come on, man.
+[01:22:28.470 --> 01:22:31.250]  Somebody in chat just said, please don't be a mobile game.
+[01:22:33.730 --> 01:22:36.410]  Oh my God, Battle Aces looks sick.
+[01:22:37.410 --> 01:22:39.710]  What is Battle Aces? Oh my God.
+[01:22:41.390 --> 01:22:42.290]  Oh, here comes gameplay.
+[01:22:42.370 --> 01:22:42.890]  Oh, QTE.
+[01:22:43.190 --> 01:22:43.450]  No!
+[01:22:46.170 --> 01:22:47.710]  It's a wide stance, my guy.
+[01:22:49.150 --> 01:22:49.710]  No!
+[01:22:49.910 --> 01:22:51.590]  It's an RTS gaming!
+[01:22:52.050 --> 01:22:54.470]  Hold on, hold on, now they're talking.
+[01:22:55.470 --> 01:22:58.690]  Oh, man.
+[01:22:59.290 --> 01:22:59.770]  What?
+[01:23:02.370 --> 01:23:07.330]  I mean, this could be great, but that trailer did not evoke RTS in any way.
+[01:23:07.390 --> 01:23:07.930]  Not a bit.
+[01:23:11.210 --> 01:23:13.890]  Look, people will be into this. Good for them. That's cool.
+[01:23:14.390 --> 01:23:15.490]  Yeah, it looks great.
+[01:23:15.710 --> 01:23:17.210]  It's just not what you wanted.
+[01:23:17.750 --> 01:23:20.190]  Oh, it's so gutting. It looks so sick.
+[01:23:21.430 --> 01:23:23.990]  I honestly was hoping it was a Netflix show.
+[01:23:24.730 --> 01:23:26.050]  I just wanted to watch that.
+[01:23:26.050 --> 01:23:29.230]  Make it fucking Star Fox. Like, put me in the plane and let me...
+[01:23:29.590 --> 01:23:30.190]  Let me fly.
+[01:23:30.990 --> 01:23:32.630]  All range mode. Come on.
+[01:23:32.850 --> 01:23:33.390]  All range mode.
+[01:23:35.430 --> 01:23:37.110]  This makes me want to play Starcraft.
+[01:23:38.230 --> 01:23:40.730]  If you pre-order now, you get a slippy skin.
+[01:23:43.550 --> 01:23:44.830]  Fox, help me!
+[01:23:48.810 --> 01:23:50.530]  Pretty smooth flying, Fox.
+[01:23:50.810 --> 01:23:52.270]  See, that's what this should be.
+[01:23:54.850 --> 01:23:56.530]  Use the boost to get through.
+[01:23:58.030 --> 01:24:00.590]  Can't let you do that, Star Fox.
+[01:24:01.210 --> 01:24:02.050]  Star Wolf.
+[01:24:02.670 --> 01:24:03.910]  Star Wolf.
+[01:24:04.230 --> 01:24:04.990]  See, this is good.
+[01:24:05.850 --> 01:24:07.330]  Battle Aces, you could have been.
+[01:24:08.110 --> 01:24:09.710]  You made your father proud.
+[01:24:10.150 --> 01:24:10.190]  Whatever.
+[01:24:15.410 --> 01:24:16.450]  Shadow Drop.
+[01:24:19.950 --> 01:24:20.770]  The finals.
+[01:24:20.990 --> 01:24:21.630]  That game was fun.
+[01:24:22.270 --> 01:24:23.070]  Yeah, that was fun.
+[01:24:23.970 --> 01:24:24.890]  Look at his little hand go.
+[01:24:26.030 --> 01:24:27.370]  Look at his little hand go.
+[01:24:28.750 --> 01:24:29.770]  That's a presented hand go.
+[01:24:32.150 --> 01:24:33.710]  Is he about to do a hand swap?
+[01:24:34.970 --> 01:24:36.470]  No, he's just double fisting him.
+[01:24:36.970 --> 01:24:37.930]  Have you played this, Andrew?
+[01:24:38.670 --> 01:24:40.190]  Yeah, we did. Let's play on it.
+[01:24:40.430 --> 01:24:41.830]  Nick, Gavin, and I. It was a lot of fun.
+[01:24:42.250 --> 01:24:43.330]  It was a lot of fun.
+[01:24:43.630 --> 01:24:51.130]  Yeah, the best part was when we were running away over this glass rooftop and Gavin shot the glass and we all fell.
+[01:24:51.930 --> 01:24:52.750]  Oh, that's cool.
+[01:24:55.190 --> 01:25:02.060]  What the...
+[01:25:02.060 --> 01:25:03.720]  I think they might be outgunned.
+[01:25:07.220 --> 01:25:09.300]  It's a free game, yeah?
+[01:25:09.620 --> 01:25:09.780]  Yeah.
+[01:25:11.180 --> 01:25:19.410]  Oh, that's kind of cool.
+[01:25:25.510 --> 01:25:28.590]  Ninjas versus, I don't know, soldiers?
+[01:25:28.590 --> 01:25:29.310]  Soldiers, I guess.
+[01:25:32.650 --> 01:25:35.610]  Is the point to kill the other team or are you trying to reach a point?
+[01:25:36.190 --> 01:25:38.510]  You're trying to extract with money.
+[01:25:38.810 --> 01:25:39.890]  Oh, okay, cool.
+[01:25:40.150 --> 01:25:40.450]  That's neat.
+[01:25:40.950 --> 01:25:41.930]  While killing the other guys.
+[01:25:47.970 --> 01:25:48.910]  Hideo Kojima.
+[01:25:51.610 --> 01:25:52.070]  Oh!
+[01:25:53.190 --> 01:25:54.150]  This is... oh!
+[01:25:55.790 --> 01:25:56.530]  Oh, what are we doing?
+[01:25:56.530 --> 01:25:58.030]  What are we doing?
+[01:25:58.390 --> 01:26:00.070]  Now that's a shirt, baby.
+[01:26:01.290 --> 01:26:02.050]  Fuck yeah!
+[01:26:02.870 --> 01:26:04.950]  I still love that stage.
+[01:26:07.410 --> 01:26:11.270]  To not tuck that shirt in is really weird, but I say go for it.
+[01:26:12.870 --> 01:26:15.310]  You European weirdo, let's fucking do it.
+[01:26:16.270 --> 01:26:20.690]  I think the only way you could do those hand to toe touches was with it untucked.
+[01:26:22.670 --> 01:26:27.090]  I like how into coffee he is. He just posts pictures of him drinking coffee and it's great.
+[01:26:32.570 --> 01:26:39.990]  Oh, they're going to release the physical?
+[01:26:40.390 --> 01:26:40.650]  Oh!
+[01:26:43.090 --> 01:26:43.630]  That's cool.
+[01:26:50.250 --> 01:26:50.690]  Nah.
+[01:26:58.830 --> 01:27:01.590]  Oh no, I got Herald of Darkness stuck in my head again.
+[01:27:04.810 --> 01:27:04.990]  Oh!
+[01:27:06.370 --> 01:27:08.170]  You sure did, I paid for it already.
+[01:27:11.250 --> 01:27:13.050]  Hell yeah.
+[01:27:13.910 --> 01:27:14.370]  Okay.
+[01:27:22.450 --> 01:27:25.930]  The two moose guys.
+[01:27:27.230 --> 01:27:30.110]  Quirky what if scenarios.
+[01:27:30.750 --> 01:27:38.210]  It was a chance for us to really go out there, as if we already didn't.
+[01:27:39.930 --> 01:27:41.470]  One of the characters is the dog.
+[01:27:45.150 --> 01:27:47.790]  In less than 24 hours.
+[01:27:47.910 --> 01:27:48.170]  Oh!
+[01:27:49.570 --> 01:27:51.130]  I need to go down without a wig too again.
+[01:27:51.710 --> 01:27:54.870]  I don't know how more people should do that.
+[01:27:54.870 --> 01:27:56.930]  It's such a great moment.
+[01:27:57.750 --> 01:27:58.850]  Holy shit!
+[01:28:03.670 --> 01:28:06.110]  My weekend just completely changed.
+[01:28:12.610 --> 01:28:14.910]  I love the Twilight Zone shit.
+[01:28:15.950 --> 01:28:16.910]  We're going back to Coffee World?
+[01:28:17.010 --> 01:28:17.870]  We're going back to Coffee World.
+[01:28:23.950 --> 01:28:25.630]  Coffee World.
+[01:28:29.940 --> 01:28:30.820]  Oh!
+[01:28:31.900 --> 01:28:32.480]  What?
+[01:28:33.100 --> 01:28:33.540]  What?
+[01:28:36.380 --> 01:28:37.140]  Hell yeah!
+[01:28:40.200 --> 01:28:40.640]  Yes!
+[01:28:40.800 --> 01:28:41.700]  Oh, that's awesome.
+[01:28:41.860 --> 01:28:42.780]  That's so funny.
+[01:28:47.460 --> 01:28:48.840]  Oh shit!
+[01:28:49.420 --> 01:28:50.020]  Oh wow!
+[01:28:50.300 --> 01:28:51.560]  Oh, this is crazy.
+[01:28:52.300 --> 01:28:55.780]  So wait, is it like a survival mode thing?
+[01:28:56.100 --> 01:28:56.880]  Like mercenaries?
+[01:28:57.760 --> 01:29:00.420]  No, I think it's like three different stories.
+[01:29:00.700 --> 01:29:01.180]  Wow!
+[01:29:01.380 --> 01:29:02.220]  And these are the leads.
+[01:29:02.380 --> 01:29:03.700]  Yeah, three playable campaigns.
+[01:29:03.840 --> 01:29:05.360]  Oh, this is cool.
+[01:29:05.600 --> 01:29:06.820]  I gotta finish Control first.
+[01:29:07.020 --> 01:29:08.860]  Yeah, you do.
+[01:29:11.180 --> 01:29:12.780]  Oh, I love this game so much.
+[01:29:20.120 --> 01:29:21.080]  Very cool.
+[01:29:21.460 --> 01:29:22.580]  Wow, I'm so excited.
+[01:29:22.580 --> 01:29:23.160]  That's awesome, dude.
+[01:29:23.460 --> 01:29:24.120]  That's awesome.
+[01:29:26.240 --> 01:29:26.880]  It rocks.
+[01:29:27.140 --> 01:29:27.480]  Wow.
+[01:29:27.820 --> 01:29:28.080]  We get to it.
+[01:29:31.360 --> 01:29:32.920]  We got a hype train going on Twitch.
+[01:29:33.040 --> 01:29:33.620]  Thank you guys very much.
+[01:29:33.760 --> 01:29:34.460]  Oh my god!
+[01:29:34.760 --> 01:29:35.100]  Subscriptions.
+[01:29:35.240 --> 01:29:35.640]  Thank you so much.
+[01:29:35.640 --> 01:29:37.640]  Everyone hanging out, watching with us live.
+[01:29:37.760 --> 01:29:38.560]  This has been a lot of fun.
+[01:29:38.660 --> 01:29:41.520]  This will be posted on our channel later, right?
+[01:29:41.680 --> 01:29:42.520]  That's why we're recording it.
+[01:29:43.180 --> 01:29:43.860]  That's right.
+[01:29:52.900 --> 01:29:53.840]  God, I'm so excited.
+[01:29:53.860 --> 01:29:55.140]  I just want to play Alan Wake 2.
+[01:29:55.220 --> 01:29:57.340]  Thank god I didn't delete it from my PlayStation.
+[01:29:57.920 --> 01:30:01.440]  I need to finish a game to clear space.
+[01:30:02.380 --> 01:30:04.480]  Why not leave the VOD on Twitch?
+[01:30:04.660 --> 01:30:07.060]  Why not watch it on YouTube when it's reposted later?
+[01:30:07.320 --> 01:30:08.540]  We all have questions.
+[01:30:10.680 --> 01:30:14.220]  What's great about us being able to post the VOD later is we can use our local audio,
+[01:30:14.360 --> 01:30:15.960]  so it's actually a better experience.
+[01:30:16.240 --> 01:30:17.260]  Exactly, baby!
+[01:30:18.400 --> 01:30:19.340]  It's higher quality.
+[01:30:22.740 --> 01:30:23.980]  Oh, dude, it's Aeternum.
+[01:30:24.360 --> 01:30:25.580]  I read that as Afternum.
+[01:30:30.240 --> 01:30:31.660]  Nick, we gotta get new Xboxes.
+[01:30:32.360 --> 01:30:34.000]  Yeah, I think we might need them.
+[01:30:37.980 --> 01:30:43.940]  Remember, Eric, it's a Series X, not...
+[01:30:43.940 --> 01:30:45.080]  I don't care.
+[01:30:47.540 --> 01:30:48.300]  Oh, dude!
+[01:30:48.400 --> 01:30:50.660]  Guys, you gotta get on TikTok Live and watch this.
+[01:30:53.140 --> 01:30:55.420]  And speaking of Honkai Star Rail,
+[01:30:55.700 --> 01:30:58.580]  Hoyo vs. Latest Space Fantasy RPG just concluded
+[01:30:58.580 --> 01:31:02.160]  its version 2.3 special program a few hours ago.
+[01:31:02.460 --> 01:31:03.460]  But there's more.
+[01:31:03.700 --> 01:31:07.460]  A sneak peek at the upcoming expedition featuring a beloved character
+[01:31:07.460 --> 01:31:11.420]  who is clearly ready for the forthcoming journey with her brand new look.
+[01:31:13.620 --> 01:31:14.640]  This is, uh...
+[01:31:15.180 --> 01:31:17.860]  When he has to read copy like that, it's just such a bummer.
+[01:31:18.100 --> 01:31:19.600]  It's not him, it's everyone, so...
+[01:31:23.580 --> 01:31:26.880]  The marketing team said that this is really important for you to say.
+[01:31:27.100 --> 01:31:28.760]  And it's not, and they don't understand.
+[01:31:28.860 --> 01:31:30.260]  Word for word.
+[01:31:30.960 --> 01:31:31.160]  Yeah.
+[01:31:32.180 --> 01:31:34.000]  This is so important. It's our branding.
+[01:31:34.360 --> 01:31:35.960]  Oh, the thing no one will remember, and they all go,
+[01:31:36.140 --> 01:31:37.900]  What? Yeah, man. Hell yeah.
+[01:31:39.960 --> 01:31:40.920]  I like music.
+[01:31:43.540 --> 01:31:48.080]  This looks like what I remember every trailer for, like, PS2 looking like.
+[01:31:48.160 --> 01:31:48.420]  Yeah.
+[01:31:51.700 --> 01:31:54.780]  It's reminding me of Astral Chain, but I just, like,
+[01:31:54.920 --> 01:31:57.380]  I feel like all these games kind of remind me of Astral Chain.
+[01:31:59.160 --> 01:31:59.560]  What?
+[01:32:01.220 --> 01:32:02.480]  Music is awesome.
+[01:32:02.680 --> 01:32:04.220]  Yeah, I'm into the music a lot.
+[01:32:19.500 --> 01:32:20.400]  Nick, what are you doing?
+[01:32:20.680 --> 01:32:22.280]  I'm moving it, I'm moving it. I'm just fixing it.
+[01:32:26.250 --> 01:32:29.010]  I thought Andrew was saying that along with...
+[01:32:29.010 --> 01:32:31.570]  When it was the second voice, I'm like,
+[01:32:31.570 --> 01:32:31.930]  I tapped in.
+[01:32:31.950 --> 01:32:32.870]  How does he know?
+[01:32:32.870 --> 01:32:33.990]  I'm like, that's crazy.
+[01:32:36.210 --> 01:32:37.690]  That's fucking crazy, dude.
+[01:32:42.800 --> 01:32:43.240]  Okay.
+[01:32:43.500 --> 01:32:45.020]  I love Star Rail.
+[01:32:46.800 --> 01:32:48.380]  I'm getting fucking Star Railed over here.
+[01:32:55.440 --> 01:32:56.240]  Oh, jeez.
+[01:32:56.420 --> 01:32:57.200]  Oh, you mean shield?
+[01:32:57.360 --> 01:32:58.000]  Uh-oh. Oh, boy.
+[01:32:58.520 --> 01:32:58.740]  Ooh.
+[01:32:58.960 --> 01:32:59.840]  Dark and darker.
+[01:33:01.300 --> 01:33:03.160]  From the studio that brought you Dumb and Dumber.
+[01:33:05.520 --> 01:33:07.080]  Why do the skeletons bleed?
+[01:33:10.100 --> 01:33:11.320]  That's a great question.
+[01:33:11.960 --> 01:33:13.360]  I'm full of them.
+[01:33:18.650 --> 01:33:19.530]  Ah, this...
+[01:33:19.530 --> 01:33:21.410]  I keep going back and forth of like,
+[01:33:21.450 --> 01:33:22.970]  oh, I play this and then...
+[01:33:22.970 --> 01:33:23.310]  Yeah.
+[01:33:23.450 --> 01:33:25.710]  Something else happens and I don't think this is for me.
+[01:33:26.490 --> 01:33:30.710]  This looks like a game I want to watch Funhaus play,
+[01:33:30.910 --> 01:33:31.910]  if they were still around.
+[01:33:31.950 --> 01:33:32.250]  Yes.
+[01:33:32.630 --> 01:33:34.770]  Because of whatever the fuck they would do to break it.
+[01:33:35.010 --> 01:33:36.570]  That is what this feels like.
+[01:33:38.530 --> 01:33:40.350]  This looks like an unfun Skyrim game.
+[01:33:40.350 --> 01:33:40.650]  Skyrim.
+[01:33:41.410 --> 01:33:43.870]  I mean, it looks like all those Dark Messiah games,
+[01:33:43.970 --> 01:33:45.070]  like the Might and Magic games.
+[01:33:48.070 --> 01:33:49.170]  So you're not wrong, I mean.
+[01:33:53.010 --> 01:33:55.150]  Oh, time to restart Skyrim.
+[01:33:56.870 --> 01:33:59.610]  Don't worry, they'll announce another release for it today.
+[01:34:01.130 --> 01:34:02.730]  I own too many of those.
+[01:34:06.980 --> 01:34:07.640]  I actually have enough.
+[01:34:07.640 --> 01:34:08.740]  Is this the game you own the most of?
+[01:34:09.600 --> 01:34:10.020]  Uh...
+[01:34:13.640 --> 01:34:14.160]  Ye...
+[01:34:14.160 --> 01:34:16.480]  I want to say that or Resident Evil 2.
+[01:34:17.380 --> 01:34:18.360]  But I guess the remake is better.
+[01:34:22.620 --> 01:34:24.020]  Oh my god.
+[01:34:24.400 --> 01:34:25.600]  That is mean.
+[01:34:26.420 --> 01:34:27.980]  That puppy is mean.
+[01:34:33.400 --> 01:34:34.820]  Like my friend Frank.
+[01:34:35.020 --> 01:34:35.440]  Hi Frank.
+[01:34:35.940 --> 01:34:36.700]  Where's Frank?
+[01:34:37.340 --> 01:34:38.100]  Oh, he's at the front.
+[01:34:39.640 --> 01:34:39.980]  Frank?
+[01:34:48.160 --> 01:34:48.560]  Oh.
+[01:34:51.200 --> 01:34:51.600]  Oh?
+[01:34:52.060 --> 01:34:52.340]  Oh.
+[01:34:52.620 --> 01:34:53.220]  I don't know what that is.
+[01:34:54.220 --> 01:34:54.980]  Neither do I.
+[01:34:57.380 --> 01:34:59.220]  Capcom's been making great games recently, though.
+[01:34:59.460 --> 01:35:00.760]  They've been on quite the run.
+[01:35:07.880 --> 01:35:11.020]  Yeah, those Resident Evil remakes have been great, haven't they?
+[01:35:11.800 --> 01:35:14.920]  All of the Resident Evil games, I'd say, recently have been really good.
+[01:35:15.320 --> 01:35:16.300]  Oh yeah, Village was great.
+[01:35:17.080 --> 01:35:19.400]  7 and Village and 4.
+[01:35:23.470 --> 01:35:26.230]  I'd say the only one that lacked a bit was the 3 remake.
+[01:35:26.470 --> 01:35:28.470]  And that's just because they cut some stuff, I think.
+[01:35:30.430 --> 01:35:31.610]  Yeah, that's a short remake.
+[01:35:32.130 --> 01:35:33.210]  Yeah, I'm a big fan of 3.
+[01:35:33.270 --> 01:35:34.110]  But 3 is a short game.
+[01:35:34.730 --> 01:35:35.290]  It was.
+[01:35:35.450 --> 01:35:37.670]  Like, I don't think people remember how short 3 was.
+[01:35:37.790 --> 01:35:38.970]  3 is a very, very short game.
+[01:35:40.170 --> 01:35:42.690]  They made you do less backtracking, I think, in the end.
+[01:35:42.830 --> 01:35:43.630]  Big time.
+[01:35:44.050 --> 01:35:44.250]  Yeah.
+[01:35:48.310 --> 01:35:50.050]  Though I do miss the clock tower.
+[01:35:50.250 --> 01:35:51.910]  I wish they'd had that section.
+[01:35:54.650 --> 01:35:57.150]  There's part and parcel for things here and there.
+[01:36:01.450 --> 01:36:03.130]  There are so many...
+[01:36:03.130 --> 01:36:05.750]  I don't mean this as a criticism for what this game is,
+[01:36:05.850 --> 01:36:09.490]  but there are so many games that look like this now,
+[01:36:09.690 --> 01:36:12.130]  with the coloring, the shading,
+[01:36:13.210 --> 01:36:15.130]  just this sort of...
+[01:36:15.130 --> 01:36:18.010]  I don't even know if you call it cel-shaded style,
+[01:36:18.530 --> 01:36:21.790]  but this just looks like...
+[01:36:21.790 --> 01:36:24.230]  It looks dated, almost?
+[01:36:24.790 --> 01:36:28.390]  I'm not really sure how I'm trying to describe it,
+[01:36:28.470 --> 01:36:30.510]  but doesn't this look like something we've seen?
+[01:36:30.890 --> 01:36:32.890]  Not necessarily the gameplay, but the look.
+[01:36:34.570 --> 01:36:35.170]  Absolutely.
+[01:36:35.750 --> 01:36:36.290]  Oh, definitely.
+[01:36:43.150 --> 01:36:45.810]  Like the Explorer and all that stuff is...
+[01:36:45.810 --> 01:36:47.210]  I'd rather...
+[01:36:47.210 --> 01:36:48.310]  Oh, Hyper Light.
+[01:36:48.890 --> 01:36:49.650]  That's why.
+[01:36:50.230 --> 01:36:52.470]  I think that's the reason it looks like that.
+[01:36:53.570 --> 01:36:55.150]  Hey, I will say...
+[01:36:57.370 --> 01:36:57.810]  Boys!
+[01:36:58.550 --> 01:36:59.330]  Oh, we're back.
+[01:36:59.470 --> 01:37:00.250]  Super fun!
+[01:37:03.390 --> 01:37:04.310]  We're back, baby.
+[01:37:10.510 --> 01:37:11.590]  This game is good.
+[01:37:11.730 --> 01:37:14.050]  Next time we'll have to turn on five people.
+[01:37:15.650 --> 01:37:17.590]  Apparently, you can play with five people.
+[01:37:17.730 --> 01:37:19.030]  You don't have to play the first level.
+[01:37:19.130 --> 01:37:19.850]  It's great. We're learning.
+[01:37:20.370 --> 01:37:21.650]  Look, it's the first level.
+[01:37:21.750 --> 01:37:22.750]  Everyone plays the first level.
+[01:37:24.310 --> 01:37:24.710]  See?
+[01:37:25.610 --> 01:37:26.570]  Oh, my God.
+[01:37:28.790 --> 01:37:31.330]  I can't wait for Gavin to have any of these powers.
+[01:37:32.050 --> 01:37:32.650]  Oh, God.
+[01:37:35.670 --> 01:37:39.670]  They're showing you a best-case scenario of what you can do.
+[01:37:39.790 --> 01:37:40.030]  Wait.
+[01:37:40.690 --> 01:37:41.050]  Wait.
+[01:37:42.610 --> 01:37:44.030]  Oh, I'm really into that.
+[01:37:44.030 --> 01:37:44.590]  What?
+[01:37:45.450 --> 01:37:46.030]  Whoa!
+[01:37:47.110 --> 01:37:48.170]  Mario Kart?
+[01:37:48.370 --> 01:37:48.910]  Party Animals?
+[01:37:49.210 --> 01:37:49.590]  Oh, my God.
+[01:37:49.590 --> 01:37:52.010]  Dude, we got to play Uno in Party Animals.
+[01:37:52.470 --> 01:37:52.970]  We do.
+[01:37:56.800 --> 01:37:57.380]  What?
+[01:38:04.020 --> 01:38:06.440]  Did Devolver just take over this conference?
+[01:38:11.540 --> 01:38:14.080]  Is this going to be the egg show meets butthole?
+[01:38:30.860 --> 01:38:32.260]  What?
+[01:38:39.260 --> 01:38:40.660]  What?
+[01:38:49.880 --> 01:38:52.380]  I don't care. Just make more of your fucking show.
+[01:38:52.440 --> 01:38:53.440]  This rocks. This is great.
+[01:38:53.500 --> 01:38:54.280]  I don't care what this is.
+[01:39:08.100 --> 01:39:08.380]  What?
+[01:39:28.260 --> 01:39:29.700]  What is...
+[01:39:29.700 --> 01:39:30.920]  What the hell is happening?
+[01:39:33.280 --> 01:39:35.520]  Find out more at the mcorpwebsite.com.
+[01:39:37.480 --> 01:39:38.820]  Great. Whatever.
+[01:39:39.200 --> 01:39:39.560]  Cool.
+[01:39:43.800 --> 01:39:44.520]  What?
+[01:39:48.880 --> 01:39:49.360]  Andrew!
+[01:39:51.900 --> 01:39:52.400]  Wait, what?
+[01:39:52.540 --> 01:39:52.740]  Oh, my God.
+[01:39:52.740 --> 01:39:53.900]  Wait, this is a skate?
+[01:39:53.900 --> 01:39:55.100]  Oh, so this is a skate thing?
+[01:39:56.260 --> 01:39:57.580]  Oh, dude, he is...
+[01:39:57.580 --> 01:39:59.620]  Like, have you ever seen Tim Robinson skate?
+[01:40:01.160 --> 01:40:01.580]  No.
+[01:40:01.900 --> 01:40:03.500]  He legit skates.
+[01:40:03.700 --> 01:40:04.080]  Oh, really?
+[01:40:04.380 --> 01:40:04.860]  That's awesome.
+[01:40:05.080 --> 01:40:06.820]  Yeah, I watched a TikTok of him doing, like, a tre flip.
+[01:40:07.500 --> 01:40:08.300]  It's sick.
+[01:40:16.140 --> 01:40:21.500]  You see that the Tony Hawk devs for the last game are making a skateboarding MMO?
+[01:40:22.220 --> 01:40:22.960]  Are they really?
+[01:40:23.480 --> 01:40:23.900]  Yeah.
+[01:40:24.320 --> 01:40:28.020]  It's like where you can build parks and, like, share an open world type thing.
+[01:40:28.020 --> 01:40:28.280]  That's really neat.
+[01:40:28.560 --> 01:40:29.320]  That's really cool.
+[01:40:29.480 --> 01:40:32.640]  Any world in which we get more skateboarding games, I'm excited about.
+[01:40:32.840 --> 01:40:33.740]  Yeah, for sure, dude.
+[01:40:33.820 --> 01:40:34.020]  This is great.
+[01:40:34.680 --> 01:40:35.300]  Give me more skate.
+[01:40:36.060 --> 01:40:36.300]  Yup.
+[01:40:38.260 --> 01:40:38.660]  Cool.
+[01:40:38.940 --> 01:40:39.200]  Ooh, cool.
+[01:40:39.200 --> 01:40:40.020]  I'll sign up for that.
+[01:40:40.440 --> 01:40:41.080]  Yeah, give it a shot.
+[01:40:41.140 --> 01:40:41.480]  Why not?
+[01:40:44.620 --> 01:40:45.020]  Okay.
+[01:40:47.680 --> 01:40:47.980]  Oh.
+[01:40:48.400 --> 01:40:48.620]  Okay.
+[01:40:49.880 --> 01:40:51.220]  They are just not doing her any favors.
+[01:40:56.500 --> 01:40:56.900]  Pokemon?
+[01:40:59.160 --> 01:40:59.560]  Wow.
+[01:41:00.660 --> 01:41:01.260]  I was close.
+[01:41:01.900 --> 01:41:03.080]  You were very close.
+[01:41:03.240 --> 01:41:03.860]  Very, very close.
+[01:41:03.880 --> 01:41:04.280]  It's a ballpark.
+[01:41:08.320 --> 01:41:09.960]  I'll be right back.
+[01:41:10.040 --> 01:41:10.140]  Okay.
+[01:41:11.220 --> 01:41:11.960]  New island?
+[01:41:12.940 --> 01:41:13.400]  New island.
+[01:41:13.560 --> 01:41:13.720]  Yeah.
+[01:41:15.200 --> 01:41:15.600]  Lahona.
+[01:41:15.760 --> 01:41:16.220]  What's it called?
+[01:41:16.720 --> 01:41:18.100]  The Aloha Island or whatever.
+[01:41:18.300 --> 01:41:19.740]  They got the rat with the mustache on it.
+[01:41:20.400 --> 01:41:21.200]  Of the Rat King?
+[01:41:21.200 --> 01:41:22.180]  Yeah.
+[01:41:33.380 --> 01:41:33.980]  Whoa.
+[01:41:36.860 --> 01:41:37.760]  New pals.
+[01:41:38.040 --> 01:41:38.620]  Look at my pals.
+[01:41:43.180 --> 01:41:47.960]  I'm excited to see the TikTok where they show what Pokemon these pals are.
+[01:41:49.620 --> 01:41:51.600]  When you find it, send it to me.
+[01:41:55.080 --> 01:41:55.680]  Okay.
+[01:41:56.060 --> 01:41:58.320]  I mean, the servers are a great addition.
+[01:41:58.940 --> 01:42:00.860]  That like more so than new content.
+[01:42:01.000 --> 01:42:02.600]  Just like stability in the game.
+[01:42:02.980 --> 01:42:03.260]  Yeah.
+[01:42:03.340 --> 01:42:05.220]  It crashes a lot on Xbox.
+[01:42:11.760 --> 01:42:15.460]  Dude, those Chill Sona videos that we were sending back and forth are so fucking funny.
+[01:42:16.940 --> 01:42:19.500]  I was going to send you a clip.
+[01:42:20.180 --> 01:42:24.420]  They recently, for his podcast, played a clip of Dana White learning.
+[01:42:24.500 --> 01:42:27.360]  Did you know he's boxing Anderson Silva in like two weeks?
+[01:42:27.900 --> 01:42:28.340]  What?
+[01:42:28.960 --> 01:42:32.060]  Anderson Silva's retirement fight is going to be in Brazil
+[01:42:32.060 --> 01:42:34.460]  and it's a boxing match between him and Chael Sonnen.
+[01:42:35.000 --> 01:42:35.860]  I had no idea.
+[01:42:36.480 --> 01:42:39.440]  It was Dana White learning this information and asking who he thinks would win.
+[01:42:40.260 --> 01:42:43.740]  And he's like, I guess, I mean, Anderson if it's boxing.
+[01:42:44.120 --> 01:42:45.840]  And then it cut to Chael and he's like,
+[01:42:46.060 --> 01:42:50.020]  Dana said that because he wasn't equipped with the knowledge that I fully intend on cheating.
+[01:42:51.100 --> 01:42:54.380]  And then Cormier just laughing and being like, the bad guy, everybody.
+[01:42:55.140 --> 01:42:55.860]  Now we're talking.
+[01:42:56.820 --> 01:42:57.840]  That's fucking great.
+[01:42:57.840 --> 01:43:00.140]  Yeah, they're like boxing in two weeks.
+[01:43:00.280 --> 01:43:02.720]  And then a week after getting inducted into the Hall of Fame together.
+[01:43:03.080 --> 01:43:04.560]  Wild. That's so crazy.
+[01:43:07.160 --> 01:43:10.160]  That guy has the bluest eyes.
+[01:43:10.540 --> 01:43:10.860]  Wow.
+[01:43:11.060 --> 01:43:11.800]  Oh, my God.
+[01:43:15.800 --> 01:43:18.760]  It's like the world's end.
+[01:43:19.420 --> 01:43:20.980]  When the robots of the world's end.
+[01:43:20.980 --> 01:43:25.380]  And today the stage is set to welcome a whole new group of players.
+[01:43:25.720 --> 01:43:26.540]  Let's take a look.
+[01:43:26.600 --> 01:43:27.860]  He just unfroze him.
+[01:43:27.920 --> 01:43:29.360]  He's addicted to spice.
+[01:43:33.440 --> 01:43:34.520]  We're addicted to stuff.
+[01:43:34.560 --> 01:43:35.040]  What's going on?
+[01:43:35.780 --> 01:43:36.240]  Oh, dude.
+[01:43:36.480 --> 01:43:40.100]  One of the Fremen from Dune, I think, is a developer for this game.
+[01:43:40.480 --> 01:43:45.520]  Do you remember the baby Nick in Game of Thrones that got touched and had their eyes turned blue?
+[01:43:46.580 --> 01:43:47.900]  He's a game dev now.
+[01:43:48.200 --> 01:43:48.500]  Wow.
+[01:43:48.500 --> 01:43:50.480]  Yeah, he makes Valorant.
+[01:43:50.880 --> 01:43:52.400]  Oh, so that's where the story went?
+[01:43:53.180 --> 01:43:53.380]  Yep.
+[01:43:53.660 --> 01:43:54.260]  Yeah, yeah, yeah.
+[01:43:55.180 --> 01:43:57.280]  Because they never paid that off in the fucking show.
+[01:43:58.340 --> 01:44:00.900]  This guy's throwing pals from PAL world all over the place.
+[01:44:00.960 --> 01:44:01.400]  What's going on?
+[01:44:12.410 --> 01:44:14.650]  Are they making Valorant like Overwatch?
+[01:44:14.910 --> 01:44:15.410]  What's going on?
+[01:44:16.210 --> 01:44:17.650]  I think it was always like Overwatch.
+[01:44:17.770 --> 01:44:20.630]  Yeah, I don't think they're making it like Overwatch.
+[01:44:20.850 --> 01:44:22.630]  I think they've made it like Overwatch.
+[01:44:28.580 --> 01:44:29.520]  I feel like...
+[01:44:29.520 --> 01:44:30.180]  They'll have that hype train going.
+[01:44:30.300 --> 01:44:31.180]  Bring back the pyro.
+[01:44:31.660 --> 01:44:32.460]  That's insane.
+[01:44:33.000 --> 01:44:33.260]  Yeah.
+[01:44:33.640 --> 01:44:34.980]  Thank you so much, everybody.
+[01:44:35.200 --> 01:44:35.880]  Yeah, appreciate you guys.
+[01:44:38.320 --> 01:44:40.500]  I feel like you got a game out of this, Eric.
+[01:44:40.600 --> 01:44:42.140]  I got news out of this.
+[01:44:42.480 --> 01:44:44.020]  Is there anything you're hoping for, Nick?
+[01:44:44.260 --> 01:44:44.640]  Oh, I got my own.
+[01:44:44.640 --> 01:44:45.740]  I don't feel like we've gotten...
+[01:44:46.180 --> 01:44:47.040]  Oh, you're also...
+[01:44:47.040 --> 01:44:47.160]  Oh, okay.
+[01:44:48.820 --> 01:44:50.400]  I love that game so much.
+[01:44:51.960 --> 01:44:53.160]  I played it twice.
+[01:44:54.380 --> 01:44:54.780]  Jeez.
+[01:44:56.260 --> 01:44:59.240]  Yeah, you played it twice and you missed some...
+[01:44:59.240 --> 01:45:00.720]  Like the dog reveal.
+[01:45:01.060 --> 01:45:02.960]  You missed that twice.
+[01:45:03.220 --> 01:45:03.700]  It's crazy.
+[01:45:04.400 --> 01:45:05.060]  I don't know.
+[01:45:05.200 --> 01:45:07.680]  Especially since the second time was all about collecting stuff.
+[01:45:08.880 --> 01:45:10.840]  I collected every...
+[01:45:11.320 --> 01:45:12.680]  Every cult stash.
+[01:45:14.300 --> 01:45:14.740]  Wow.
+[01:45:17.040 --> 01:45:18.100]  I was going for it.
+[01:45:18.120 --> 01:45:19.540]  I was going for 100% on that.
+[01:45:20.940 --> 01:45:21.860]  Still missed the dog.
+[01:45:22.260 --> 01:45:22.980]  Still missed the dog.
+[01:45:23.200 --> 01:45:23.760]  So I didn't...
+[01:45:23.760 --> 01:45:24.860]  100% by the way.
+[01:45:25.480 --> 01:45:26.400]  PS5 and Xbox.
+[01:45:29.860 --> 01:45:30.540]  There he is.
+[01:45:30.600 --> 01:45:31.000]  See his eyes?
+[01:45:31.080 --> 01:45:31.480]  Look at his eyes.
+[01:45:31.520 --> 01:45:31.820]  See?
+[01:45:32.180 --> 01:45:33.000]  Oh, wow.
+[01:45:33.800 --> 01:45:34.300]  Right?
+[01:45:35.160 --> 01:45:35.600]  So blue.
+[01:45:42.280 --> 01:45:44.060]  Gotta upgrade those Xboxes.
+[01:46:07.760 --> 01:46:09.000]  What's going on?
+[01:46:12.860 --> 01:46:13.280]  Oh, no.
+[01:46:13.420 --> 01:46:15.360]  Back to Black has been pulled from the theaters.
+[01:46:18.420 --> 01:46:18.880]  No!
+[01:46:19.820 --> 01:46:20.080]  Oh, no.
+[01:46:20.120 --> 01:46:21.020]  It's only made $6 million.
+[01:46:22.360 --> 01:46:22.820]  Uh-oh.
+[01:46:23.740 --> 01:46:25.280]  My two points.
+[01:46:26.000 --> 01:46:30.920]  You see that Kevin Costner-Western is tracking Da Bomb so hard.
+[01:46:31.140 --> 01:46:31.600]  Yep.
+[01:46:32.480 --> 01:46:33.740]  There's somebody that...
+[01:46:33.740 --> 01:46:34.580]  Dog shit.
+[01:46:35.420 --> 01:46:38.180]  There's somebody that posted in the subreddit...
+[01:46:38.180 --> 01:46:41.920]  That news post that just like tracking for $10 million opening weekend or something.
+[01:46:42.520 --> 01:46:43.160]  And just replied,
+[01:46:43.380 --> 01:46:47.320]  I just asked what...
+[01:46:47.320 --> 01:46:49.420]  I asked what it meant for part two.
+[01:46:49.680 --> 01:46:51.340]  But no clear answers yet.
+[01:46:52.120 --> 01:46:55.500]  What does it mean for part three that he's currently filming?
+[01:46:56.260 --> 01:46:57.860]  Wait, it has more than two?
+[01:46:58.560 --> 01:46:59.960]  It's gonna be four parts.
+[01:47:00.180 --> 01:47:00.520]  Oh, yeah.
+[01:47:00.600 --> 01:47:02.780]  It's supposed to be like a huge epic thing.
+[01:47:10.430 --> 01:47:17.390]  I think I'll probably write an update on our Patreon page on Monday about where the movie is at and some of the resources that people have made.
+[01:47:17.930 --> 01:47:23.230]  And that's patreon.com slash the regulation pod where you can sign up now for exclusive content.
+[01:47:23.670 --> 01:47:24.430]  That's right.
+[01:47:24.430 --> 01:47:25.790]  Oh, interesting.
+[01:47:34.030 --> 01:47:36.730]  Okay, so this is the news Nick was waiting for, right?
+[01:47:37.250 --> 01:47:37.370]  Yeah.
+[01:47:37.450 --> 01:47:41.290]  I've been dying to see whatever this is.
+[01:47:41.590 --> 01:47:43.370]  Archie can't stop playing Valorant.
+[01:47:44.630 --> 01:47:45.690]  It's like an addiction.
+[01:47:47.030 --> 01:47:48.050]  I knew it.
+[01:47:48.690 --> 01:47:49.830]  It keeps ruining my...
+[01:47:49.830 --> 01:47:51.850]  They're trying to fly him out to China for the eSports contest.
+[01:47:51.990 --> 01:47:53.650]  He doesn't have a passport.
+[01:48:02.760 --> 01:48:03.920]  This is my favorite song.
+[01:48:03.920 --> 01:48:05.760]  Why don't we play it again?
+[01:48:06.440 --> 01:48:07.680]  Why don't they play it again?
+[01:48:07.860 --> 01:48:08.440]  Just for you.
+[01:48:11.800 --> 01:48:12.880]  Is that what they were saying?
+[01:48:12.960 --> 01:48:14.440]  I thought they were saying, why don't we play the game?
+[01:48:15.140 --> 01:48:16.560]  I thought it was, why don't we play it again?
+[01:48:17.060 --> 01:48:19.980]  They said it so many times and I think I don't...
+[01:48:19.980 --> 01:48:21.800]  It was the only words.
+[01:48:22.820 --> 01:48:26.040]  Our next announcement is a big deal for our friends at DoorDash.
+[01:48:26.200 --> 01:48:27.340]  Five weeks of deals with...
+[01:48:27.340 --> 01:48:28.000]  Hell yeah!
+[01:48:29.280 --> 01:48:30.600]  Sign up for DashPash now.
+[01:48:30.720 --> 01:48:31.340]  Where's Frank?
+[01:48:32.640 --> 01:48:33.660]  Frank, hurry!
+[01:48:37.340 --> 01:48:41.740]  I've started referring to appetizers as microtransactions and it's changed my life.
+[01:48:44.160 --> 01:48:45.560]  That's such a good idea.
+[01:48:51.380 --> 01:48:52.060]  Boo!
+[01:48:57.100 --> 01:48:57.980]  Boo!
+[01:49:02.300 --> 01:49:04.040]  Inside out, boo!
+[01:49:08.360 --> 01:49:10.100]  Don't go see this movie.
+[01:49:28.200 --> 01:49:28.640]  Boo!
+[01:49:28.640 --> 01:49:30.000]  I'm trying to do that PS1 style thing.
+[01:49:30.740 --> 01:49:30.960]  Yeah.
+[01:49:37.340 --> 01:49:38.820]  Gavin owns this, I think, right?
+[01:49:39.460 --> 01:49:39.680]  Yeah.
+[01:49:40.660 --> 01:49:40.840]  Oh!
+[01:49:42.960 --> 01:49:44.360]  I'm a poo-goo guy.
+[01:49:45.000 --> 01:49:45.180]  Boo!
+[01:49:57.000 --> 01:49:58.220]  Who's the dog?
+[01:50:00.380 --> 01:50:02.000]  Don't go see that, boo!
+[01:50:02.360 --> 01:50:03.240]  See something else.
+[01:50:03.880 --> 01:50:05.280]  Yeah, wait for it to come out later.
+[01:50:05.680 --> 01:50:07.460]  Go see Samsung instead.
+[01:50:10.220 --> 01:50:12.900]  Watch all of our supplemental content on your new Samsung.
+[01:50:16.620 --> 01:50:18.600]  Oh, God.
+[01:50:19.200 --> 01:50:22.600]  Look at all of you cooped up watching video game announcements.
+[01:50:22.700 --> 01:50:24.440]  Now this is what I think of when I think of mobile game.
+[01:50:24.760 --> 01:50:25.340]  Yeah, yeah.
+[01:50:26.480 --> 01:50:35.180]  And today, Chicken is excited to share a new game that Chicken and Chicken's buddies are in called Squad Busters.
+[01:50:35.540 --> 01:50:37.880]  You fight monsters, collect lots of...
+[01:50:37.880 --> 01:50:40.620]  So what's up, guys? What level are you at at Squad Busters right now?
+[01:50:40.740 --> 01:50:45.280]  When you go see the Kevin Costner movie, do you pull your phone out and play Squad Busters?
+[01:50:47.260 --> 01:50:50.980]  Only during the Kevin Costner scenes. I'm not invested in that storyline.
+[01:50:52.640 --> 01:50:55.600]  Unless Luke Wilson is on the screen, I ain't paying attention.
+[01:50:57.080 --> 01:50:58.320]  There they are.
+[01:50:58.500 --> 01:50:58.720]  Oh.
+[01:50:59.800 --> 01:51:00.040]  Yeah.
+[01:51:00.720 --> 01:51:01.640]  It's this game.
+[01:51:02.220 --> 01:51:03.820]  Uh-huh.
+[01:51:06.220 --> 01:51:07.820]  Is that Christina Ricci?
+[01:51:10.020 --> 01:51:10.940]  Miss Will Arnett?
+[01:51:12.480 --> 01:51:14.280]  Is that Ben Ernst in the bed?
+[01:51:15.280 --> 01:51:16.180]  Yeah, that's Ben Ernst.
+[01:51:19.480 --> 01:51:21.300]  Oh, never mind. Hair doesn't match.
+[01:51:21.520 --> 01:51:22.200]  Beard close, though.
+[01:51:22.380 --> 01:51:22.860]  Not at all.
+[01:51:27.260 --> 01:51:29.940]  Who is the woman with the purple hair? She's like the only one I haven't found out.
+[01:51:29.940 --> 01:51:30.840]  I'm trying to... yeah.
+[01:51:42.160 --> 01:51:45.000]  Yeah, Christina Ricci is the other one. Who's the woman with the purple hair, bud?
+[01:51:49.140 --> 01:51:50.260]  I don't recognize her.
+[01:51:51.020 --> 01:51:51.260]  Yeah.
+[01:51:51.340 --> 01:51:52.740]  All these people made a lot of money, right?
+[01:51:53.680 --> 01:51:54.560]  Oh, absolutely.
+[01:51:54.560 --> 01:51:54.960]  Oh, God, yeah.
+[01:51:55.220 --> 01:51:56.500]  Yeah, yeah, yeah, yeah, yeah.
+[01:51:57.640 --> 01:51:58.720]  But not equally.
+[01:51:59.860 --> 01:52:04.560]  I'd like to know the difference between how much Chris Hemsworth is making to Ken Jeong.
+[01:52:05.420 --> 01:52:05.920]  Yeah, right.
+[01:52:06.560 --> 01:52:08.780]  Oh, and they had to license this song, too.
+[01:52:10.800 --> 01:52:12.540]  Do we have to cut this out?
+[01:52:15.580 --> 01:52:17.860]  Sorry, Nick.
+[01:52:21.100 --> 01:52:21.480]  Fuck.
+[01:52:23.020 --> 01:52:23.640]  Sorry, man.
+[01:52:25.820 --> 01:52:27.280]  I mean, we can leave it in. I don't care.
+[01:52:27.960 --> 01:52:30.140]  I mean, I don't give a shit. Leave it in.
+[01:52:34.030 --> 01:52:40.230]  Hey, Andrew, did you know that when you did the Garfield cart and played that song, that video was demonetized?
+[01:52:40.810 --> 01:52:42.190]  Yeah, Andrew, why'd you do that?
+[01:52:42.370 --> 01:52:43.390]  Wait, what?
+[01:52:43.930 --> 01:52:46.010]  Andrew, why'd you play that song, dude? That was fucked up.
+[01:52:46.070 --> 01:52:46.730]  Oh, Eric.
+[01:52:48.110 --> 01:52:48.270]  Yeah.
+[01:52:48.750 --> 01:52:50.430]  You mean when Eric played the song?
+[01:52:50.550 --> 01:52:50.870]  What do you mean?
+[01:52:51.050 --> 01:52:51.950]  No, hang on.
+[01:52:52.130 --> 01:52:52.570]  It was Eric?
+[01:52:52.690 --> 01:52:53.290]  We need to mute Andrew.
+[01:52:53.410 --> 01:52:54.970]  It was Eric who played the song.
+[01:52:55.090 --> 01:52:55.970]  I didn't play the song.
+[01:52:56.230 --> 01:52:59.050]  Mute Andrew for just a minute. Just one minute, and it's fine.
+[01:52:59.670 --> 01:53:00.710]  No, it was Eric.
+[01:53:01.230 --> 01:53:04.190]  I'm sorry, Andrew. That's my bad. Eric, what the fuck?
+[01:53:05.770 --> 01:53:06.910]  Eric knows better.
+[01:53:07.870 --> 01:53:08.770]  You do know better.
+[01:53:08.890 --> 01:53:09.870]  No, no, no.
+[01:53:10.310 --> 01:53:12.610]  He's like, it's streaming. It's different. It's different.
+[01:53:13.070 --> 01:53:13.470]  Yeah.
+[01:53:16.090 --> 01:53:19.790]  I was going to comment that there wasn't a lot of ads in this thing, and I was surprised by that.
+[01:53:19.890 --> 01:53:22.350]  I think it's because Squad Busters just paid for all of it.
+[01:53:22.850 --> 01:53:23.510]  Yeah, pretty much.
+[01:53:26.230 --> 01:53:27.750]  The reluctant applause.
+[01:53:34.480 --> 01:53:35.640]  This might be it.
+[01:53:37.080 --> 01:53:37.800]  You think so?
+[01:53:38.120 --> 01:53:39.980]  I think it's a two-hour show, so...
+[01:53:50.640 --> 01:53:52.240]  Now, I understand that these are words.
+[01:53:53.100 --> 01:53:53.220]  Yeah.
+[01:53:59.400 --> 01:54:01.660]  As opposed to the other thing you talked about in the episode yesterday?
+[01:54:10.920 --> 01:54:12.720]  Keep an eye out for the important monster, guys.
+[01:54:14.940 --> 01:54:15.940]  Mike Wazowski.
+[01:54:36.080 --> 01:54:43.320]  Somebody tweeted that the crowd here at the Summer Game Fest live show let out an audible awe at the announcement that the Arkham game is for MetaQuest.
+[01:54:43.320 --> 01:54:45.360]  In case you're wondering how VR is going.
+[01:54:58.100 --> 01:55:00.960]  Andrew, did you say you have to buy the Alan Wake 2?
+[01:55:02.000 --> 01:55:02.300]  Yes.
+[01:55:02.680 --> 01:55:03.760]  Ah, dammit.
+[01:55:05.920 --> 01:55:10.940]  It's two season packs as well. There's another thing outside of what's coming out later.
+[01:55:11.580 --> 01:55:14.180]  Oh, maybe I should just get the damn Deluxe Edition then.
+[01:55:15.460 --> 01:55:18.140]  Yeah, there's an upgrade, I want to say.
+[01:55:18.440 --> 01:55:18.660]  Yeah.
+[01:55:18.800 --> 01:55:19.700]  I think that's what I bought.
+[01:55:19.840 --> 01:55:20.700]  Ooh, for 16 bucks.
+[01:55:25.240 --> 01:55:26.700]  I'll just fucking buy that right now.
+[01:55:26.700 --> 01:55:27.840]  They made a sequel to the movie?
+[01:55:31.160 --> 01:55:33.100]  TI is coming back to Monster Hunter?
+[01:55:35.160 --> 01:55:37.400]  The rubber band man himself? Alright.
+[01:55:40.820 --> 01:55:41.780]  Sand Worms.
+[01:55:42.120 --> 01:55:42.880]  That's Dune.
+[01:55:43.780 --> 01:55:44.400]  Or Tremors.
+[01:55:47.100 --> 01:55:48.860]  Tremors game would be really good.
+[01:55:49.400 --> 01:55:49.880]  Yeah, absolutely.
+[01:55:51.600 --> 01:55:51.900]  Yeah.
+[01:55:58.450 --> 01:55:59.130]  I can.
+[01:56:14.800 --> 01:56:18.440]  What's interesting about this to me is that this is not what Monster Hunter is for me.
+[01:56:18.620 --> 01:56:20.320]  And I haven't played a lot of them.
+[01:56:20.320 --> 01:56:25.880]  But it is hacking and slashing at a giant monster for 40 minutes.
+[01:56:26.500 --> 01:56:26.540]  Right.
+[01:56:26.660 --> 01:56:26.940]  And hoping.
+[01:56:27.720 --> 01:56:32.020]  This is an interesting, different thing it looks like.
+[01:56:37.320 --> 01:56:39.380]  Uh oh, you fell down in the Tremor Pit.
+[01:56:39.900 --> 01:56:40.200]  Oh no.
+[01:56:42.160 --> 01:56:44.220]  I hate when that happens.
+[01:56:49.510 --> 01:56:50.410]  Oh shit.
+[01:56:50.810 --> 01:56:51.690]  The look changed a little.
+[01:56:52.650 --> 01:56:56.550]  Yeah, well now it's hacking and slashing at a monster for 40 minutes.
+[01:56:56.650 --> 01:56:56.930]  Are you ready?
+[01:56:57.390 --> 01:57:00.110]  Yeah, now this is what I want.
+[01:57:00.190 --> 01:57:01.450]  Now we're monster hunting, baby.
+[01:57:02.190 --> 01:57:02.650]  Whoa.
+[01:57:02.810 --> 01:57:03.490]  Cut off the tail.
+[01:57:04.410 --> 01:57:07.630]  I got my sniper rifle I'm gonna shoot you with from two feet away.
+[01:57:08.710 --> 01:57:10.510]  Let's do it.
+[01:57:15.840 --> 01:57:16.660]  Oh no.
+[01:57:22.700 --> 01:57:23.880]  Cabela's Monster Hunter.
+[01:57:25.100 --> 01:57:26.620]  Now we're talking.
+[01:57:27.060 --> 01:57:30.120]  The crossover we never knew we needed.
+[01:57:46.430 --> 01:57:51.510]  I don't remember it.
+[01:57:51.930 --> 01:57:52.670]  I don't either.
+[01:57:53.550 --> 01:57:54.710]  But I'm excited to see this.
+[01:58:00.270 --> 01:58:01.110]  Final game.
+[01:58:01.910 --> 01:58:02.790]  No Kojima.
+[01:58:03.350 --> 01:58:03.730]  How sad.
+[01:58:03.910 --> 01:58:04.510]  No Kojima.
+[01:58:08.990 --> 01:58:11.030]  Terry is in this or he's not in this?
+[01:58:11.530 --> 01:58:12.710]  I believe he is.
+[01:58:13.010 --> 01:58:13.790]  Okay, cool, great.
+[01:58:17.820 --> 01:58:19.440]  Terry is known for being in S games.
+[01:58:24.640 --> 01:58:27.480]  Oh, that would be such a fun voice to do.
+[01:58:33.660 --> 01:58:34.980]  Oh, oh man.
+[01:58:35.920 --> 01:58:43.240]  This is away from this or whatever, but there's a Twins Mariners trade that is taking place right now.
+[01:58:43.580 --> 01:58:47.640]  And every single player on the trade that is involved is on the injures list.
+[01:58:48.380 --> 01:58:50.040]  Every single one of the players is hurt.
+[01:58:50.440 --> 01:58:50.840]  Oh, really?
+[01:58:50.900 --> 01:58:52.140]  That's crazy.
+[01:58:52.480 --> 01:58:52.640]  Yeah.
+[01:58:53.080 --> 01:58:54.180]  That's nuts.
+[01:59:04.430 --> 01:59:08.650]  I mean, there are people who are going to go crazy for this game, dude.
+[01:59:09.870 --> 01:59:13.830]  Yeah, I really like Sekiro and this is tapping into that for me.
+[01:59:14.210 --> 01:59:14.870]  Big time.
+[01:59:15.130 --> 01:59:16.830]  It reminds me a lot of that.
+[01:59:20.350 --> 01:59:21.410]  We gotta dodge.
+[01:59:25.530 --> 01:59:26.250]  You hit triangle!
+[01:59:26.370 --> 01:59:26.690]  That's cool.
+[01:59:28.630 --> 01:59:30.050]  I didn't think you were going to hit triangle.
+[01:59:32.030 --> 01:59:33.310]  Who are you talking to?
+[01:59:34.290 --> 01:59:36.970]  Oh, sorry. I thought we were watching... I thought you were playing the game.
+[01:59:38.870 --> 01:59:40.970]  I got confused. I understand. I get it now.
+[01:59:40.970 --> 01:59:42.870]  Like watching Andrew play a demo or something.
+[01:59:55.630 --> 01:59:56.270]  Boo!
+[01:59:57.730 --> 01:59:58.770]  Wrap it up!
+[02:00:00.850 --> 02:00:01.590]  Where's Frank?
+[02:00:10.970 --> 02:00:14.690]  An hour of indie game reveals, including the next game from Cappy.
+[02:00:14.850 --> 02:00:16.830]  And that's followed by Devolver Direct.
+[02:00:16.970 --> 02:00:20.610]  Now keep checking summergamefest.com for other event streams this weekend.
+[02:00:20.890 --> 02:00:26.790]  And we'll see you again live this August 20th in Germany for Gamescom opening night live.
+[02:00:26.970 --> 02:00:30.830]  Thanks for watching, everyone. Remember, Day of the Dev starts right now.
+[02:00:31.210 --> 02:00:32.650]  Bye, Geoff!
+[02:00:32.750 --> 02:00:33.550]  Bye, Geoff!
+[02:00:34.050 --> 02:00:34.710]  Bye, Geoff!
+[02:00:36.030 --> 02:00:37.490]  Well, that was a lot of fun, guys.
+[02:00:37.750 --> 02:00:39.050]  I'm happy you got out of it, too.
+[02:00:39.050 --> 02:00:42.270]  You got the Street Fighter thing. You gotta go get Eric.
+[02:00:43.030 --> 02:00:47.110]  Street Fighter 6 and King of Fires. They showed City of the Wolves, which is really fantastic.
+[02:00:47.370 --> 02:00:48.410]  I thought that was really great.
+[02:00:49.970 --> 02:00:53.070]  That was fun. What a fun stream to watch.
+[02:00:53.490 --> 02:00:55.090]  I'm excited about a lot of that stuff that came up.
+[02:00:55.510 --> 02:00:56.930]  Thank you so much for joining us.
+[02:00:57.310 --> 02:00:59.790]  Nick, you can dump out of it. There you go. Regulation podcast logo.
+[02:00:59.990 --> 02:01:01.590]  Guys, this has been great.
+[02:01:01.730 --> 02:01:07.090]  To be able to stream this live and do this stuff is something we weren't really able to do as much previously.
+[02:01:07.090 --> 02:01:13.110]  And now, since kind of going independent and being on Patreon and having our channels or whatever,
+[02:01:13.330 --> 02:01:15.390]  we're able to do this stuff a little bit more freely.
+[02:01:15.630 --> 02:01:19.790]  And it's really exciting. Like, I'm super pumped to be doing this right now.
+[02:01:19.970 --> 02:01:21.250]  I think this is really fantastic.
+[02:01:21.510 --> 02:01:22.250]  That was so much fun.
+[02:01:22.710 --> 02:01:23.250]  So fun.
+[02:01:23.970 --> 02:01:26.190]  Somebody put in the chat, Black Hawk Down game.
+[02:01:27.070 --> 02:01:29.650]  That's fucking crazy. I keep forgetting that that is a thing.
+[02:01:30.010 --> 02:01:30.870]  That's fucking nuts.
+[02:01:31.350 --> 02:01:31.550]  Absolutely nuts.
+[02:01:31.550 --> 02:01:32.230]  Oh, my God.
+[02:01:32.670 --> 02:01:35.470]  Yeah, I mean, that's really, really crazy.
+[02:01:36.970 --> 02:01:39.230]  But, you know, they showed a lot of stuff.
+[02:01:39.310 --> 02:01:41.450]  I don't think anything was necessarily disappointing or whatever.
+[02:01:41.590 --> 02:01:43.690]  I think that had a little bit of everything for everyone.
+[02:01:43.830 --> 02:01:47.570]  I'm sure there are going to be people who spend too much time online who are very upset about everything they saw.
+[02:01:47.750 --> 02:01:48.170]  That's fine.
+[02:01:48.610 --> 02:01:49.110]  It's okay.
+[02:01:49.810 --> 02:01:53.730]  If you want to watch this later, you can.
+[02:01:53.790 --> 02:01:56.110]  Just speaking to the people who are watching this live right now.
+[02:01:56.170 --> 02:02:01.090]  We're going to put it up on our gameplay YouTube channel, which you can probably find a link for in the chat.
+[02:02:01.550 --> 02:02:02.970]  But you can go check that out there.
+[02:02:03.050 --> 02:02:04.590]  Thank you guys so much for joining us.
+[02:02:04.590 --> 02:02:07.630]  Andrew, any final thoughts or parting words for the folks at home?
+[02:02:08.150 --> 02:02:13.470]  Ah, just get ready for our Blackhawk Down full playthrough after Ratatouille, Eric, you and I.
+[02:02:13.930 --> 02:02:15.430]  Nick, you get in on this.
+[02:02:16.090 --> 02:02:16.530]  Fantastic.
+[02:02:17.270 --> 02:02:17.670]  Okay.
+[02:02:18.010 --> 02:02:18.590]  I, uh...
+[02:02:19.390 --> 02:02:19.830]  Yeah.
+[02:02:20.010 --> 02:02:21.390]  I'm washing my hair that night.
+[02:02:23.630 --> 02:02:24.430]  All right, guys.
+[02:02:24.630 --> 02:02:25.390]  We'll see you next time.
+[02:02:25.490 --> 02:02:25.750]  Bye.
+[02:02:26.130 --> 02:02:26.570]  Bye.

@@ -26,6 +26,16 @@
         "--force"
       ],
       "console": "integratedTerminal"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Run Youtube Image Scanner",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/yt-transcriber/processVideos.js",
+      "console": "integratedTerminal"
     }
   ]
 }

@@ -227,6 +227,10 @@ async function main() {
     const metadataRaw = await fs.readFile(METADATA_PATH, 'utf-8');
     const metadata = JSON.parse(metadataRaw);
 
+    for (const key of Object.keys(metadata)) {
+        metadata[key].sort((a, b) => Number(b.upload_date) - Number(a.upload_date));
+    }
+
     for (const show of Object.keys(metadata)) {
         console.log(`\n--- Processing show: ${show} ---`);
         for (const episode of metadata[show]) {

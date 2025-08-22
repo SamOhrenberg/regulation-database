@@ -140,8 +140,24 @@ async function producerLoop(items, queue) {
     console.log(`${logPrefix} Preparing download...`);
 
     try {
-      const args = config.youtubeCookiePath ? ['--cookies', config.youtubeCookiePath] : [];
-      const itemInfo = await ytDlp.getVideoInfo(item.sourceUrl, args);
+      // Build the arguments array for the exec command.
+      const execArgs = [
+        item.sourceUrl,
+        '--dump-json',
+        '-f', 'best',
+        '--cookies-from-browser', 'firefox'
+        // If you want to use the file instead, uncomment the following lines and comment out the line above
+        // '--cookies',
+        // config.youtubeCookiePath
+      ];
+
+      console.log(`${logPrefix} Executing yt-dlp with args: ${execArgs.join(' ')}`);
+
+      // Use the general .exec() method which accepts all arguments
+      const { stdout } = await execa(config.ytDlpPath, execArgs);
+      
+      // Manually parse the JSON output from stdout
+      const itemInfo = JSON.parse(stdout);
 
       let finalTitle = itemInfo.title;
       if (!finalTitle || finalTitle.toLowerCase().startsWith(`${item.source.toLowerCase()} video`)) {
@@ -200,11 +216,9 @@ async function consumerLoop(queue, isProducerDone, results) {
 async function processDownloadedFile(workItem, logPrefix) {
   const { itemInfo, finalTitle, show, episode_number, category, baseFilename, tempAudioPath, source } = workItem;
   
-  // --- FIX: Sanitize the show name before creating a directory path ---
   const sanitizedShowName = sanitizeFilename(show);
   const showDir = path.join(baseTranscriptionDir, sanitizedShowName);
   await fs.mkdir(showDir, { recursive: true });
-  // --- END FIX ---
 
   const transcriptPath = path.join(showDir, `${baseFilename}.txt`);
   
@@ -340,8 +354,9 @@ async function downloadMedia(url, outputPath, logPrefix = '') {
     console.log(`${logPrefix} Downloading...`);
 
     const args = ['--ffmpeg-location', config.ffmpegPath];
-    if (config.youtubeCookiePath) args.push('--cookies', config.youtubeCookiePath);
+    //if (config.youtubeCookiePath) args.push('--cookies', config.youtubeCookiePath);
 
+    args.push('--cookies-from-browser', 'firefox');
     args.push('-x', '--audio-format', 'mp3');
     args.push('-o', outputPath, url);
 

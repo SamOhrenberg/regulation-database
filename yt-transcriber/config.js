@@ -25,16 +25,20 @@ export const config = {
   // --- Similarity-Based Image Extraction ---
   imageExtraction: {
     enabled: true,
-    similarityThreshold: 0.9, 
-    similarityThresholdUpperCheck: 0.95,
+    similarityThreshold: 0.7, 
+    similarityThresholdUpperCheck: 0.97,
     debug: true, 
+
+    // Set to null to have the script automatically determine the write number of concurrent threads to use based on CPU cores.
+    // Or set to 1 to disable concurrency (easier debugging).
+    maxConcurrency: 1,
     
-    cropDetection: {
+    cropDetection: { 
       enabled: true, // Set to true to only analyze the center of the video
-      width: 0.4,    
-      left: 0.3,     
-      height: 0.4,
-      top: 0.3,
+      width: 0.8,    
+      left: 0.2,     
+      height: 0.3,
+      top: 0.4,
     }
   },
 

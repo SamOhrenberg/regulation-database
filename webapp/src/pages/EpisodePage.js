@@ -110,7 +110,7 @@ function EpisodePage() {
           <div className="image-carousel">
             <img 
               src={imageSources[currentImageIndex]} 
-              alt={`${episode.title} - image ${currentImageIndex + 1}`} 
+              alt={`${episode.title} - ${currentImageIndex + 1}`} 
               className="episode-thumbnail" 
             />
             {imageSources.length > 1 && (

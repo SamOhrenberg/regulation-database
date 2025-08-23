@@ -50,7 +50,7 @@ async function getSimilarity(imgPath1, imgPath2, cropArea) {
             diff.data,
             width,
             height,
-            { threshold: 0.05 }
+            { threshold: 0.2 }
         );
 
         const totalPixels = width * height;

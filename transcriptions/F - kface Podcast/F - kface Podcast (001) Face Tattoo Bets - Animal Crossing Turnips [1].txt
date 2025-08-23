@@ -1,0 +1,938 @@
+[00:00.000 --> 00:03.620]  This summer, try the new Strato Frappuccino blended beverage at Starbucks.
+[00:03.920 --> 00:06.820]  It's the classic blended iced coffee you know and love,
+[00:06.960 --> 00:10.520]  now topped with a creamy layer of handcrafted brown sugar cold foam.
+[00:10.880 --> 00:12.360]  Available for a limited time.
+[00:12.620 --> 00:14.760]  Your Strato Frappuccino is ready at Starbucks.
+[00:25.340 --> 00:28.640]  Hello and welcome to what is hopefully
+[00:28.640 --> 00:32.440]  the first episode of a new podcast by Rooster Teeth Productions.
+[00:33.020 --> 00:38.200]  This one's called F*** Face and it stars myself,
+[00:38.880 --> 00:42.220]  Geoff Ramsey, co-creator of Rooster Teeth,
+[00:42.440 --> 00:46.640]  and my two co-workers and more importantly,
+[00:47.420 --> 00:50.200]  lifelong friends Gavin Free.
+[00:50.480 --> 00:51.420]  Hello. Hey, buddy.
+[00:51.620 --> 00:52.960]  And Andrew Panton. Hello.
+[00:53.220 --> 00:58.260]  The point of this podcast, F*** Face, is it's sort of that thing you do
+[00:58.260 --> 01:00.460]  where I can best describe it.
+[01:00.820 --> 01:03.520]  And Andrew and I've been using this as a verb for a little while.
+[01:03.840 --> 01:06.680]  I can best describe it as shooting yourself in the foot
+[01:06.680 --> 01:09.200]  to make you laugh, right?
+[01:09.920 --> 01:14.200]  Doing something dumb and funny that ultimately probably
+[01:14.920 --> 01:17.480]  causes more harm to you than good.
+[01:17.800 --> 01:21.000]  But as long as it makes you laugh and you're the butt of your own joke,
+[01:21.020 --> 01:21.580]  it doesn't matter.
+[01:22.020 --> 01:23.780]  As someone who's known you for a long time, Geoff,
+[01:23.880 --> 01:26.160]  you've been F*** Facing for your entire life.
+[01:26.440 --> 01:28.600]  Well, Gavin, I have.
+[01:28.680 --> 01:29.960]  I had a bad run there.
+[01:30.180 --> 01:33.960]  I will say part of I think why I'm fascinated by Andrew is
+[01:33.960 --> 01:38.940]  you knew me probably at the worst period in my life for F*** Facing.
+[01:40.740 --> 01:44.180]  I've been married twice for a grand total of about 22 years.
+[01:44.920 --> 01:48.200]  And my second marriage, which lasted about 12 years
+[01:48.200 --> 01:52.180]  to a lovely woman who, unfortunately, was married to me
+[01:52.180 --> 01:55.180]  at the part of my life in my 30s, my late 20s and early 30s.
+[01:55.300 --> 01:58.120]  When Gavin, when you knew me best, you were living with us.
+[01:58.440 --> 02:02.280]  I could not stop cutting off my nose
+[02:02.280 --> 02:04.560]  to spite my own face to make myself laugh.
+[02:04.880 --> 02:07.600]  And ultimately that marriage ended in divorce.
+[02:08.160 --> 02:09.400]  Who can blame her?
+[02:09.700 --> 02:12.760]  But I will say a good thing that came out of it is I learned to stop.
+[02:12.980 --> 02:14.920]  I don't do it anymore. I don't do it anymore.
+[02:15.560 --> 02:16.780]  I don't do it like I did.
+[02:17.000 --> 02:20.980]  There were some times where you would you would be on the brink of making a joke
+[02:20.980 --> 02:25.000]  or a comment that would make you laugh and you knew it was going to cause
+[02:25.000 --> 02:26.160]  something to happen.
+[02:26.560 --> 02:28.480]  And there would be moments where you were just like sat on the couch
+[02:28.480 --> 02:31.520]  and your face would scrunch up and you'd start kicking your legs
+[02:31.520 --> 02:32.460]  to try and hold it in.
+[02:32.580 --> 02:33.820]  And then you would just say the comment
+[02:34.860 --> 02:36.160]  and that would be it for the evening
+[02:36.860 --> 02:38.720]  or the weekend or whatever. Yeah.
+[02:39.720 --> 02:43.340]  What I appreciate is you make it sound like a choice.
+[02:44.080 --> 02:45.780]  Like this is a fascinating thing to hear.
+[02:45.900 --> 02:49.660]  For me, this isn't I mean, I don't calculate my face.
+[02:50.040 --> 02:51.200]  It just happens.
+[02:51.520 --> 02:55.720]  I'm constantly fucking up by accident, making a complete ass of myself.
+[02:55.820 --> 02:56.920]  So you can't turn it off.
+[02:57.520 --> 02:59.060]  No, there's no turning on or off.
+[02:59.100 --> 03:00.320]  This is I'm just existing.
+[03:00.320 --> 03:01.780]  I'm just this is my life.
+[03:02.000 --> 03:04.140]  It's why I think you're a unique individual, Andrew,
+[03:04.860 --> 03:08.020]  because I it was a compulsion for me, for sure.
+[03:08.020 --> 03:10.340]  And it still is. But it's one that I've learned to control.
+[03:10.520 --> 03:13.740]  I think you have no impulse control when it comes to this kind of stuff.
+[03:14.020 --> 03:15.060]  Do you think it's my fault?
+[03:15.580 --> 03:17.960]  Well, yeah, a little bit or genetic or whatever.
+[03:18.380 --> 03:20.360]  But it's it's kind of funny.
+[03:20.440 --> 03:23.840]  It's you are what I call the best kept secret of rooster teeth.
+[03:24.260 --> 03:27.920]  You are this weird I think the closest approximation
+[03:27.920 --> 03:30.680]  is you're kind of like a performance artist.
+[03:31.240 --> 03:33.120]  It would be the best way I could describe it.
+[03:33.200 --> 03:34.660]  A comedic performance artist.
+[03:35.180 --> 03:39.020]  And every day of your life, you live it in a different,
+[03:39.260 --> 03:41.340]  unique way that usually backfires on you.
+[03:41.760 --> 03:44.560]  And Gavin and I have essentially been having this podcast with you
+[03:44.560 --> 03:45.880]  for like the last five years.
+[03:46.180 --> 03:49.140]  And we've been very selfish to keep it between the three of us.
+[03:49.240 --> 03:50.740]  Well, that was the thing I was mentioning.
+[03:51.020 --> 03:52.920]  This is back when we were in the office and stuff.
+[03:52.980 --> 03:57.480]  I would come in and just fill Geoff in on on the latest Andrew antics.
+[03:57.480 --> 04:01.300]  And then at one point, I think I think while we were doing like Vicious Summer
+[04:01.300 --> 04:05.000]  or something, I was like, I think Andrew's the funniest person in Achievement Hunter.
+[04:05.140 --> 04:06.540]  And he doesn't even work here.
+[04:06.640 --> 04:11.280]  We need a show where we just hear about his weird antics.
+[04:11.620 --> 04:12.560]  No, for sure, Gavin.
+[04:12.720 --> 04:15.740]  It's it's kind of a nut we've been trying to crack for a long time is
+[04:15.740 --> 04:18.700]  how do you harness the power of an Andrew Panton
+[04:19.140 --> 04:21.600]  and focus it into into some sort of content?
+[04:21.720 --> 04:22.840]  And we struggled forever.
+[04:23.120 --> 04:26.580]  I don't know why it never crossed our minds to have a podcast until it hit me
+[04:26.580 --> 04:27.320]  like two months ago.
+[04:27.320 --> 04:30.940]  I don't know why it took like five years to figure out to just get in a room
+[04:30.940 --> 04:35.120]  and talk. Apparently, that idea was it was too much for my feeble brain.
+[04:35.660 --> 04:39.620]  I actually thought about calling this the Andrew podcast, just calling it Andrew.
+[04:39.860 --> 04:40.820]  No other explanation.
+[04:41.220 --> 04:42.200]  But that didn't seem dumb enough.
+[04:42.360 --> 04:44.100]  And so I thought, why not name?
+[04:44.920 --> 04:47.120]  Well, first off, the point of Rooster Teeth Productions
+[04:47.120 --> 04:48.980]  is as a production company is to make money.
+[04:49.100 --> 04:51.280]  We make a lot of podcasts, a lot of content on the Internet.
+[04:51.900 --> 04:54.760]  Millions and millions of people across the world tune in, thankfully.
+[04:55.320 --> 04:59.140]  And so I think the ultimate face is to call a podcast
+[04:59.140 --> 05:03.040]  that needs to sell advertisements an unsellable name
+[05:03.500 --> 05:07.580]  in a super oversaturated market where there's a certain amount of money
+[05:07.580 --> 05:09.780]  to go around and there's a billion podcasts.
+[05:10.220 --> 05:11.920]  And this one's called Face.
+[05:12.240 --> 05:17.400]  Yes, there are over one million podcasts in existence right now, I believe.
+[05:17.900 --> 05:21.440]  And as far as I know, this is the only one called Face.
+[05:21.580 --> 05:24.280]  Now, that might mean we're brilliant, but it probably doesn't.
+[05:24.280 --> 05:28.340]  I checked the podcast charts yesterday to see the closest
+[05:28.340 --> 05:31.760]  or the highest ranking podcast I could find that blanks its own name.
+[05:32.100 --> 05:33.160]  It's like one twenty six.
+[05:33.640 --> 05:34.760]  So we got a shot.
+[05:35.220 --> 05:36.480]  We can run the hundreds.
+[05:37.260 --> 05:38.200]  OK, it's possible.
+[05:39.000 --> 05:41.880]  I will say I'm really glad you didn't go with Andrew
+[05:41.880 --> 05:44.960]  because I mentioned at the time, if you did, I would feel obligated
+[05:44.960 --> 05:47.320]  to change my name because it'd be really funny
+[05:47.320 --> 05:50.020]  if we had a podcast called Andrew and nobody on it was called Andrew.
+[05:50.340 --> 05:53.380]  Like the further it went, the funnier it would become.
+[05:54.560 --> 05:57.740]  And when I I ran that idea by my mom, she cried.
+[05:58.440 --> 05:59.680]  That would have been a problem.
+[05:59.880 --> 06:01.980]  She was very committed to the name.
+[06:02.180 --> 06:05.380]  I like the idea of you going, you're going down to the courthouse.
+[06:05.500 --> 06:06.660]  It's like, well, why are you changing your name?
+[06:06.720 --> 06:08.660]  It's because, well, the new name isn't a podcast.
+[06:11.300 --> 06:12.700]  Yeah, I mean, it's a great bet.
+[06:12.740 --> 06:13.760]  You'd have to do it.
+[06:15.400 --> 06:18.720]  Now, Andrew, you were telling me you were listening to another podcast.
+[06:18.840 --> 06:21.140]  We do the RT podcast, the Rooster Teeth podcast.
+[06:21.140 --> 06:25.520]  And we were having a conversation about, I don't even remember what it was, Gav.
+[06:25.580 --> 06:27.220]  Do you remember something about getting face tattoos?
+[06:27.800 --> 06:28.320]  Something like that.
+[06:28.520 --> 06:31.340]  And preface it by saying, if you're not familiar with Rooster Teeth,
+[06:31.500 --> 06:35.360]  I have one hundred and fifty two thousand tattoos
+[06:35.360 --> 06:38.220]  from the neck down to my feet.
+[06:38.320 --> 06:40.320]  And my arms and my hands are all covered in tattoos.
+[06:40.520 --> 06:43.800]  But it'll be a cold day in hell before I get a face tattoo.
+[06:44.440 --> 06:46.860]  That's a that's a bridge too far for me, I think.
+[06:47.680 --> 06:50.860]  But then again, I'm not a mumblecore rapper who's 19
+[06:50.860 --> 06:54.100]  and full of ennui, so maybe it's just not for me.
+[06:54.820 --> 06:57.040]  But Andrew, you said that reminded you of a story.
+[06:57.240 --> 07:00.600]  And kind of the point of this podcast is to let you tell the stories
+[07:00.600 --> 07:04.140]  of the dumb things that you've done or brilliant things or just mediocre things.
+[07:04.620 --> 07:06.300]  What is your face tattoo story?
+[07:06.720 --> 07:09.740]  Well, the conversation on the podcast was you were saying, Gavin,
+[07:09.880 --> 07:12.300]  would you be willing to take a million dollars
+[07:12.300 --> 07:15.240]  to have a company advertise on your face?
+[07:15.660 --> 07:17.380]  Like, would that be an exchange you'd be willing to make?
+[07:17.900 --> 07:21.340]  And as someone who did that, I made a it wasn't even a bet,
+[07:21.440 --> 07:22.580]  which is probably the worst part.
+[07:22.700 --> 07:25.860]  I'm someone if I declare something, I'll own up to it.
+[07:26.060 --> 07:29.040]  And it was a was a college football game, I think. Right, Geoff?
+[07:29.080 --> 07:31.560]  I think it was Alabama versus Auburn.
+[07:31.900 --> 07:37.100]  And I said, if Alabama lost, I would get a temporary Mike Tyson face tattoo.
+[07:37.440 --> 07:39.460]  Wear it every day of the week for the next week.
+[07:39.800 --> 07:40.820]  And they blew it.
+[07:41.160 --> 07:43.180]  They like threw like multiple interceptions.
+[07:43.360 --> 07:44.760]  They threw a pick six. It was terrible.
+[07:44.760 --> 07:48.680]  And so now I felt locked in to having this Mike Tyson tattoo.
+[07:49.180 --> 07:54.560]  I think the the the first face story is that you faced your face.
+[07:54.740 --> 07:59.020]  Yeah, I did. But what's like, it's fascinating, Geoff, you talking about.
+[07:59.100 --> 08:01.540]  I never even considered. You obviously have tons of tattoos.
+[08:01.740 --> 08:03.160]  Are you aware of your tattoos?
+[08:03.820 --> 08:06.700]  Like when you walk around there, are you mindful of like what they are
+[08:06.700 --> 08:08.320]  and that you have them?
+[08:08.540 --> 08:09.720]  No, not at all.
+[08:10.280 --> 08:12.820]  You get tattooed when you have enough tattoos.
+[08:13.560 --> 08:15.320]  You start to get like tattoo blindness.
+[08:15.580 --> 08:16.420]  I don't even think about it.
+[08:16.480 --> 08:18.240]  I forget that I have tattoos.
+[08:18.940 --> 08:22.100]  And sometimes if I walk by a mirror or something, not at home, but if I'm like
+[08:22.100 --> 08:24.780]  and obviously not outside because nobody leaves their house anymore.
+[08:25.200 --> 08:28.740]  But if I were to walk by like downtown and like a window,
+[08:29.220 --> 08:30.980]  like a department store or something, you see reflection.
+[08:31.240 --> 08:33.980]  If I see myself with tattoos, even though I'm forty four
+[08:33.980 --> 08:36.520]  and I've had tattoos for since I was 18.
+[08:37.140 --> 08:38.980]  Yeah, it still catches me off guard sometimes.
+[08:39.100 --> 08:40.780]  And I'm like, what the? Oh, right. That's me.
+[08:40.920 --> 08:42.260]  I'm that guy. I have this.
+[08:42.260 --> 08:45.420]  That's sort of where my insight came in, because when I got the face tattoo,
+[08:45.540 --> 08:47.060]  you would think that you'd be really mindful
+[08:47.060 --> 08:49.100]  the fact that you have a Mike Tyson face tattoo.
+[08:49.540 --> 08:51.140]  Never crossed my mind at all.
+[08:51.380 --> 08:53.000]  I'd constantly forget I had it.
+[08:53.320 --> 08:56.180]  Like the first time I interacted with someone, I had like food delivered
+[08:56.580 --> 08:58.240]  and they looked at me really weird.
+[08:58.360 --> 09:00.780]  And I was kind of I thought it was strange, the interaction.
+[09:01.020 --> 09:02.320]  It's like, why were they staring?
+[09:02.440 --> 09:03.760]  Like, what was as awkward?
+[09:03.920 --> 09:06.500]  And then I saw myself in the mirror was like, oh, right.
+[09:06.520 --> 09:08.480]  I have a fucking Mike Tyson face tattoo.
+[09:09.060 --> 09:10.580]  You would constantly forget.
+[09:10.580 --> 09:13.120]  So I think you would easily like it would make complete sense
+[09:13.120 --> 09:14.360]  that I would be willing to do that.
+[09:14.920 --> 09:18.480]  I'd have a brand tattoo on my face because you just forget that it's there.
+[09:18.700 --> 09:20.480]  That's an unmissable design, too.
+[09:20.760 --> 09:24.200]  Was there a moment when you had that Mike Tyson tattoo for a week?
+[09:24.680 --> 09:27.900]  A, by the way, lucky you didn't get sued by Mike Tyson or the tattoo artist,
+[09:28.040 --> 09:29.880]  because that was a whole kerfuffle way back in the day.
+[09:31.460 --> 09:34.200]  But was there ever a moment where you felt kind of like a tough guy
+[09:34.200 --> 09:35.940]  or like you intimidated somebody?
+[09:36.540 --> 09:38.100]  Not at all. Never.
+[09:38.880 --> 09:39.820]  That's just not in me.
+[09:39.820 --> 09:41.840]  I could never be the tough guy.
+[09:41.980 --> 09:42.740]  It's impossible.
+[09:43.600 --> 09:48.480]  I love listening to like my favorite as watching a documentary recently.
+[09:49.480 --> 09:52.540]  Vince McMahon one time went into a strip club
+[09:52.540 --> 09:55.600]  where it filled with wrestlers is like a bunch of people that work for him.
+[09:55.980 --> 09:58.960]  And he had every single wrestler perform their finisher on him
+[09:58.960 --> 10:03.700]  in the strip club just because like I love dumb, tough guy shit.
+[10:03.760 --> 10:05.260]  But that's just not in my DNA.
+[10:05.640 --> 10:06.540]  Big fan of that.
+[10:08.460 --> 10:11.320]  So you're saying you're less of a Vince McMahon?
+[10:11.900 --> 10:13.160]  Oh, couldn't be less.
+[10:13.780 --> 10:15.740]  OK, well, that's good. I'm getting a clear mental.
+[10:15.860 --> 10:17.340]  If I didn't know if I didn't know you in person,
+[10:17.360 --> 10:19.080]  I would have a pretty clear mental picture of you right now.
+[10:19.240 --> 10:20.960]  And by the way, you and I had this bet.
+[10:21.060 --> 10:23.760]  I'm from Alabama. I'm a University of Alabama fan.
+[10:23.900 --> 10:28.840]  It's largely the only reason that I have that I can point to.
+[10:28.860 --> 10:30.640]  That's a thing to be proud of in Alabama.
+[10:30.900 --> 10:35.700]  And so it was delightful to watch you go through the process
+[10:35.700 --> 10:39.220]  of being disappointed by a far superior football team
+[10:39.220 --> 10:40.560]  because I've been doing it my whole life.
+[10:41.200 --> 10:43.560]  And it was a second layer of entertainment for me.
+[10:43.680 --> 10:46.440]  But what was the embarrassing thing that happened to you?
+[10:46.720 --> 10:51.100]  I this is like this is embarrassing on like a level
+[10:51.100 --> 10:53.020]  that isn't even related to the tattoo.
+[10:53.600 --> 10:57.300]  I don't understand how hair works like I don't.
+[10:57.300 --> 10:58.460]  I don't know how to.
+[10:58.640 --> 11:01.580]  I don't know how to communicate how I want my haircut.
+[11:02.140 --> 11:05.260]  So I've had like three stylists my entire life.
+[11:06.180 --> 11:09.640]  Like one when I was a kid and then one when I was like middle age.
+[11:09.720 --> 11:11.620]  And I went to that guy literally until he died.
+[11:12.200 --> 11:14.060]  And now I went to this third guy.
+[11:14.420 --> 11:16.420]  You used him early. This is how it goes.
+[11:16.760 --> 11:17.460]  I meet a guy.
+[11:17.800 --> 11:20.400]  We come to an agreement on what it'll look like if I like it.
+[11:20.480 --> 11:21.660]  Then that just becomes the thing.
+[11:21.740 --> 11:23.740]  And I just say, just give me what I normally get,
+[11:23.840 --> 11:26.760]  because I don't know how to verbally communicate what I actually want.
+[11:27.300 --> 11:29.280]  The problem is that guy switched.
+[11:29.420 --> 11:34.260]  He was stressed working at a salon, so he switched to work in a retirement home.
+[11:34.260 --> 11:36.680]  So I get my haircut at a retirement home,
+[11:36.720 --> 11:41.740]  which is not a place you want to go to with a Mike Tyson tattoo.
+[11:42.200 --> 11:44.240]  I really at all right.
+[11:44.360 --> 11:46.320]  I'm not a place you can go right now, right?
+[11:46.560 --> 11:48.280]  No, yeah, no. That's another problem.
+[11:48.340 --> 11:49.980]  I have no idea when I'll be able to get my haircut.
+[11:50.340 --> 11:53.320]  No clue. It could be months.
+[11:53.900 --> 11:56.000]  Probably will be months, but it might even be longer.
+[11:56.180 --> 11:57.000]  How old are you, Andrew?
+[11:57.100 --> 11:59.040]  You're like 24, 25, 25.
+[11:59.620 --> 12:03.860]  You're a 25 year old man who goes to a retirement home to get his haircut.
+[12:04.420 --> 12:06.700]  I didn't choose the retirement home.
+[12:06.700 --> 12:08.460]  Listen, he went there. I'm loyal.
+[12:08.840 --> 12:11.280]  I get my guy. I stay loyal.
+[12:13.660 --> 12:14.620]  That's too loyal.
+[12:15.040 --> 12:15.800]  That's too loyal.
+[12:16.420 --> 12:17.160]  I don't know.
+[12:17.560 --> 12:19.660]  You Canadians are just too polite.
+[12:19.960 --> 12:22.280]  Well, honestly, it comes down to I don't know how hair works.
+[12:22.800 --> 12:23.940]  Do you know how hair works, Gavin?
+[12:24.040 --> 12:26.360]  Like when you get your haircut, what do you do? Communicate?
+[12:27.260 --> 12:30.540]  Yeah, I mean, it's along the same lines where you're just like, hey, try it.
+[12:30.540 --> 12:31.560]  Try this.
+[12:31.660 --> 12:34.960]  And then you eventually find one that you like and that you stick with.
+[12:35.020 --> 12:37.240]  It's like when when you're creating a character in a video game
+[12:37.240 --> 12:40.420]  and just hit X to randomize until you're like, oh, that one looks all right.
+[12:43.080 --> 12:43.980]  Yeah, I agree.
+[12:44.340 --> 12:46.460]  I don't like there's probably a thing.
+[12:46.680 --> 12:48.860]  I don't know. I'm not even going to pretend that I have any concept.
+[12:49.020 --> 12:51.200]  I have zero understanding of how hair works.
+[12:51.600 --> 12:52.760]  So I go to a retirement home.
+[12:53.800 --> 12:57.080]  Before you go on, I want to know how far you would have gone to follow this guy.
+[12:57.380 --> 13:00.520]  Like, what if what if you move to a volcano or something?
+[13:00.520 --> 13:02.420]  Would you sack him off at that point?
+[13:02.760 --> 13:03.780]  Is the volcano local?
+[13:09.330 --> 13:10.310]  Did he move?
+[13:10.410 --> 13:13.150]  Is the retirement home closer than where you used to get your haircut?
+[13:13.430 --> 13:15.990]  Like, was it a distance savings or anything?
+[13:16.410 --> 13:19.170]  No, I mean, I live on an island in a small town.
+[13:19.290 --> 13:21.510]  So it's like no matter where you go, it's 15 minutes.
+[13:21.770 --> 13:23.710]  So there's no that's not a factor at all.
+[13:23.770 --> 13:26.850]  In your small, weird Canadian island town.
+[13:27.190 --> 13:28.550]  Are you well known?
+[13:28.910 --> 13:31.450]  Like, are you that weird kid that does the weird stuff?
+[13:31.450 --> 13:33.270]  We'll say that I'm known.
+[13:33.310 --> 13:34.590]  I'm known in some capacity.
+[13:34.930 --> 13:35.710]  Known in some capacity.
+[13:36.090 --> 13:37.930]  A bit of a local celebrity.
+[13:38.610 --> 13:39.410]  A little bit.
+[13:39.730 --> 13:41.650]  There may be people wanting me to run for mayor.
+[13:43.750 --> 13:46.250]  Which, by the way, I have the newspaper article
+[13:46.250 --> 13:48.130]  you sent me from the thing you're talking about.
+[13:48.190 --> 13:50.110]  I'm going to get it framed and hang it in my office.
+[13:50.370 --> 13:51.550]  Is that a future episode?
+[13:51.770 --> 13:53.370]  I think that's probably a future episode. OK.
+[13:54.270 --> 13:54.930]  Oh, my God.
+[13:55.510 --> 13:58.410]  So after your week of walking around Canada
+[13:58.410 --> 14:00.510]  with this shitty Mike Tyson tattoo,
+[14:00.950 --> 14:04.370]  your big insight is that you would get a face tattoo for a million dollars.
+[14:04.630 --> 14:05.790]  Oh, yeah. No, absolutely.
+[14:06.090 --> 14:07.070]  Because you don't notice it.
+[14:07.690 --> 14:08.390]  Like, I don't care.
+[14:08.750 --> 14:10.770]  I don't look at myself in the mirror all that often.
+[14:10.890 --> 14:11.870]  It's not something I need to.
+[14:12.050 --> 14:14.950]  It's really an inconvenience for everyone around me.
+[14:15.070 --> 14:17.470]  And for a million dollars, I'm totally fine with that.
+[14:17.830 --> 14:20.430]  How do you think your hairstylist would feel about it?
+[14:20.450 --> 14:21.590]  Or a barber, I guess.
+[14:21.890 --> 14:24.210]  I don't I don't think they'd care.
+[14:24.530 --> 14:27.350]  Are you close to this guy in the retirement home?
+[14:27.350 --> 14:28.770]  No, we have a routine.
+[14:29.210 --> 14:32.010]  We go in. I pretend that I care about tennis.
+[14:32.110 --> 14:33.790]  We talk about tennis for like 10 minutes.
+[14:34.690 --> 14:36.430]  He pretends that he cares about hockey.
+[14:36.530 --> 14:38.030]  We talk about hockey for 10 minutes.
+[14:38.550 --> 14:43.330]  Then we just kind of struggle to talk about movies that he hasn't seen.
+[14:44.450 --> 14:46.430]  How long has he been cutting your hair?
+[14:46.690 --> 14:48.930]  Four years, maybe three years.
+[14:49.570 --> 14:52.710]  So he's got about six years left in him of cutting your hair before he dies.
+[14:52.970 --> 14:54.510]  Or you know what?
+[14:54.530 --> 14:56.590]  He's older. So, yeah, I'm a little bit nervous.
+[14:56.590 --> 14:59.390]  Retirement is on on the verge.
+[14:59.510 --> 15:02.190]  So, yeah, I'll be looking for a guy, I think, in the near future.
+[15:02.970 --> 15:07.910]  Does he have like a slightly younger protege in the home that you could transition over to?
+[15:08.270 --> 15:10.290]  That's a you know what? I didn't consider that.
+[15:10.330 --> 15:13.030]  I don't think so. I think he's it's a one man shop.
+[15:13.430 --> 15:15.150]  There's another lady that does massages.
+[15:15.290 --> 15:16.090]  He's the hair guy.
+[15:16.710 --> 15:19.010]  I think they would be the end of me in the retirement home.
+[15:19.230 --> 15:25.170]  Here's why you shouldn't take the million dollars and take the the brand deal across your face.
+[15:25.170 --> 15:29.570]  You will spend that million dollars on just being you.
+[15:29.790 --> 15:31.450]  And it would immediately be gone.
+[15:31.770 --> 15:33.550]  And then you would have a tattoo and no million dollars.
+[15:33.750 --> 15:35.530]  You would just face the money away.
+[15:35.690 --> 15:38.490]  I would bet it all on Alabama and then lose it again.
+[15:39.850 --> 15:42.150]  That's no joke. You probably would.
+[15:45.270 --> 15:49.030]  Hey, I forgot you're into betting now.
+[15:49.110 --> 15:50.750]  You're into gambling these days, too.
+[15:51.130 --> 15:54.510]  A little bit. I was going to I was going to recommend that we
+[15:54.510 --> 15:58.970]  if this podcast grows, continues, first of all, and then grows to the level of,
+[15:59.010 --> 16:02.270]  I don't know, like a Joe Rogan or a Howard Stern or a Tom Segura,
+[16:02.770 --> 16:05.250]  which is I'm sure we're headed straight towards.
+[16:05.370 --> 16:08.970]  Oh, yeah, that we could we would maybe do a like some sort of a GoFundMe
+[16:08.970 --> 16:13.010]  to raise a million dollars to get Andrew like the Mike Tyson face tattoo
+[16:13.970 --> 16:15.390]  or something even dumber.
+[16:15.770 --> 16:16.990]  We'd have to determine what that is.
+[16:17.250 --> 16:19.610]  But now I don't want to do it because you're just going to piss it all away.
+[16:19.650 --> 16:20.550]  Gambling on football.
+[16:20.770 --> 16:22.730]  I don't gamble that much.
+[16:22.730 --> 16:25.950]  Didn't you take out like 106 bets on something recently?
+[16:26.650 --> 16:28.030]  That was an Achievement Hunter thing.
+[16:28.190 --> 16:29.910]  I feel like I get an excuse on that.
+[16:30.090 --> 16:33.310]  We did the Super Bowl video and you guys always joke of like,
+[16:33.390 --> 16:34.810]  this is the gambling guide.
+[16:35.110 --> 16:39.690]  So I scanned it and I made 100 bets on like every single possible outcome
+[16:39.690 --> 16:41.350]  you could have in that game.
+[16:41.510 --> 16:43.970]  And we were profitable. We made like two cents.
+[16:44.570 --> 16:45.590]  It was totally worth it.
+[16:46.530 --> 16:49.930]  How much money were you betting with on 106 separate bets?
+[16:49.930 --> 16:51.130]  Oh, it was 10.
+[16:51.210 --> 16:55.470]  I put $10 in and I think I made like it was the minimum amount I could bet.
+[16:55.530 --> 16:57.310]  It was cents. It was like pennies every bet.
+[16:57.390 --> 17:00.250]  But you were making money on stuff that wasn't in the game, right?
+[17:00.290 --> 17:01.430]  As well, you're making money on like.
+[17:01.450 --> 17:03.430]  Oh, I made so much money off J-Lo.
+[17:03.950 --> 17:04.890]  Jenny from the block.
+[17:05.770 --> 17:08.570]  There was a leak that evening that Jenny from the block
+[17:08.570 --> 17:10.910]  was going to be the opening Super Bowl song for her.
+[17:11.190 --> 17:12.870]  And it was like four to one.
+[17:13.070 --> 17:14.410]  So I put some money down on that.
+[17:14.470 --> 17:16.790]  I made like $250 off Jenny from the block.
+[17:16.870 --> 17:17.630]  It was a great moment.
+[17:17.830 --> 17:18.970]  It was more thrilling than the game.
+[17:20.290 --> 17:24.130]  You should take that money and buy that many copies of Jenny from the block.
+[17:24.150 --> 17:26.670]  He can't because he lost it all in the other bets.
+[17:27.050 --> 17:28.690]  It's true. Oh, man.
+[17:28.750 --> 17:30.310]  I'm up. I don't. This is slander.
+[17:31.570 --> 17:33.550]  We should call you Andrew from the block.
+[17:33.810 --> 17:34.610]  That should be your new nickname.
+[17:35.890 --> 17:37.710]  You talked about the GoFundMe idea.
+[17:37.930 --> 17:39.810]  That that's a it's an interesting approach.
+[17:40.110 --> 17:43.830]  I wanted to see how viable this concept actually was.
+[17:43.930 --> 17:48.230]  So I reached out to like 30 companies, I'd say, pitching them
+[17:48.790 --> 17:51.630]  if they would be interested in advertising via face tattoo.
+[17:52.330 --> 17:53.670]  Are you serious? Yeah.
+[17:54.050 --> 17:55.570]  I sent out emails.
+[17:55.770 --> 17:57.310]  I sent out DMs.
+[17:57.390 --> 18:00.830]  I reached out to a lot of big companies and I got replies.
+[18:01.310 --> 18:02.250]  I got some responses.
+[18:03.390 --> 18:07.550]  Tide came in immediately and gave me opinions on the viability.
+[18:08.170 --> 18:10.410]  The detergent company? Tide the detergent company.
+[18:10.470 --> 18:12.730]  Yeah, they had they had some thoughts. They were on the ball.
+[18:12.870 --> 18:14.970]  I got to give them credit for their customer service.
+[18:15.030 --> 18:17.070]  Very quick to respond. They were next day.
+[18:17.750 --> 18:19.510]  Everybody else a little bit slower.
+[18:19.850 --> 18:24.410]  I can't say as of today for potential sponsors, we can rule out Coca-Cola
+[18:24.410 --> 18:27.530]  and Lego. Not that interested.
+[18:28.070 --> 18:31.110]  Coca-Cola refuses to give me their agency addresses.
+[18:31.250 --> 18:33.670]  They say they do all their advertising through agencies
+[18:33.670 --> 18:37.210]  and they will not give that information as to where they will be going.
+[18:38.250 --> 18:43.030]  And Lego called it a unique partnership that they appreciate,
+[18:43.150 --> 18:45.410]  but they're not interested this current time.
+[18:45.410 --> 18:48.830]  So I think even me saying, yes, I would do it.
+[18:48.930 --> 18:49.750]  We're struggling, right?
+[18:49.790 --> 18:53.690]  And the market isn't there, is what I've learned from my emails.
+[18:55.130 --> 18:58.170]  What was the most unrealistic company you reached?
+[18:58.250 --> 19:01.330]  I imagine you reaching out to like GE or something like Boeing.
+[19:01.730 --> 19:02.990]  Well, Procter and Gamble.
+[19:03.090 --> 19:04.090]  Boeing wasn't good.
+[19:04.330 --> 19:06.570]  Procter and Gamble replied because they own Tide.
+[19:06.790 --> 19:08.510]  You're going to the wrong places.
+[19:08.950 --> 19:12.110]  If that's the problem, I think that you should
+[19:13.290 --> 19:17.190]  reframe who you're seeking after here.
+[19:17.890 --> 19:21.590]  I think if you went after like a porn company
+[19:22.290 --> 19:24.930]  or something a little more risque, a little more adventurous,
+[19:25.350 --> 19:29.550]  like Dan Bilzerian, that dude's got $10 billion and he sells weed, right?
+[19:29.810 --> 19:34.170]  Like if you went to Dan Bilzerian, like DM that guy and say for a million dollars,
+[19:34.410 --> 19:38.350]  I'll get Dan Bilzerian's face and a weed leaf on my forehead.
+[19:38.710 --> 19:40.170]  I bet you'd have more success.
+[19:40.450 --> 19:41.090]  That's a good point.
+[19:41.090 --> 19:44.110]  I haven't considered, though, morally, if I would be OK with that.
+[19:44.210 --> 19:46.070]  I don't know if I'm a Dan Bilzerian guy.
+[19:46.510 --> 19:48.050]  Pornhub, maybe. I'm OK with Pornhub.
+[19:48.470 --> 19:49.090]  There you go.
+[19:49.450 --> 19:52.790]  Yeah, I guess reservations about Bilzerian.
+[19:53.470 --> 19:54.270]  I don't you know what?
+[19:54.290 --> 19:54.950]  I don't know about him.
+[19:54.990 --> 19:57.690]  I need to do my research before I'd be willing to commit my face.
+[19:58.170 --> 20:01.350]  I think he chucked a woman off his rooftop and broke her leg once.
+[20:01.510 --> 20:02.070]  Did he really?
+[20:02.390 --> 20:03.450]  I don't think it was malicious.
+[20:03.670 --> 20:04.690]  I think it was part of a photo shoot.
+[20:04.810 --> 20:06.670]  But, you know, he doesn't have he doesn't have a good arm
+[20:06.670 --> 20:07.850]  when it comes to throwing women.
+[20:08.170 --> 20:09.770]  Well, that's one of my top considerations.
+[20:09.770 --> 20:11.230]  So I guess he's off the list.
+[20:11.590 --> 20:15.190]  Well, I hadn't considered the moral obligations you have.
+[20:15.310 --> 20:17.830]  You are going to be advertising that product for the rest of your life.
+[20:17.930 --> 20:21.890]  And if you do if you're like anti throwing women off of buildings
+[20:22.750 --> 20:25.750]  and anti weed, I can see how that that would be a problem for you.
+[20:25.910 --> 20:26.630]  Not anti weed.
+[20:27.090 --> 20:29.490]  I don't want to be political, anti throwing women's.
+[20:29.610 --> 20:33.750]  I feel pretty safe in declaring that that's a thing I'm against.
+[20:34.510 --> 20:36.370]  Sure. I think it's a good one to get behind, actually.
+[20:36.450 --> 20:38.190]  That's like, especially if you're going to run for mayor
+[20:38.190 --> 20:40.050]  of your small Canadian town someday.
+[20:40.730 --> 20:42.810]  You'd be like it could be one of your platforms.
+[20:43.130 --> 20:46.330]  Like if you elect Andrew Panton, if you elect face tattooed
+[20:46.330 --> 20:50.370]  Andrew Panton, nobody, men or women, old or young,
+[20:50.750 --> 20:52.890]  will be thrown off a building in my town.
+[20:53.070 --> 20:55.630]  It just has this stats like an amount of dollars
+[20:55.630 --> 20:58.670]  and the amount I'm investing in health care and then a zero.
+[20:58.910 --> 21:00.270]  The amount of women I've thrown.
+[21:00.730 --> 21:03.450]  Crash pads all over the place, just in case.
+[21:03.550 --> 21:06.950]  I can't predict what will happen everywhere, but we'll be prepared.
+[21:06.950 --> 21:08.470]  You can have a sign up.
+[21:08.550 --> 21:12.030]  It's like days since someone was thrown off building in our town.
+[21:12.130 --> 21:12.770]  Yeah, exactly.
+[21:14.410 --> 21:18.790]  Did you, in your wildest dreams, expect someone to respond
+[21:18.790 --> 21:22.670]  in the affirmative that, yes, we're interested in going down this path with you?
+[21:22.830 --> 21:27.090]  I did because well, probably because I'm dumb and also because of my like,
+[21:27.150 --> 21:30.210]  whenever I do stuff like this, I typically get replies.
+[21:30.610 --> 21:33.750]  It's amazing how often people respond to stuff is what I've learned.
+[21:33.750 --> 21:37.710]  I just randomly emailed the head of Xbox a few months ago about something
+[21:37.710 --> 21:41.030]  and he replied like that day and we had an ongoing dialogue.
+[21:41.470 --> 21:42.550]  This is ridiculous.
+[21:42.790 --> 21:45.150]  You just if you reach out to people, I find they respond.
+[21:45.210 --> 21:47.210]  If you write a decent email.
+[21:47.550 --> 21:49.370]  Yeah, you're a you're pretty fearless with that.
+[21:49.450 --> 21:52.690]  I got to say, I remember one time, maybe a couple of years ago now,
+[21:52.810 --> 21:56.310]  I just loaded up Twitter and you were having a conversation with Norm MacDonald,
+[21:56.570 --> 21:58.690]  who is my favorite comedian on it.
+[21:58.950 --> 22:00.590]  And I was just like, how the fuck?
+[22:01.030 --> 22:01.870]  How the fuck?
+[22:01.870 --> 22:05.030]  And you can hear us say fuck because we can say fuck, by the way,
+[22:05.230 --> 22:06.430]  and we can say face.
+[22:06.710 --> 22:10.310]  But for some reason, if we say them together, you can say fuck and face.
+[22:10.470 --> 22:12.850]  But if you say fuck and face, see that?
+[22:13.090 --> 22:14.330]  That was a. Did you? Oh, yeah.
+[22:14.650 --> 22:17.630]  Yeah. Yeah. Fuck face. Oh, yeah.
+[22:17.690 --> 22:20.310]  Yeah. Yeah. Fuck and face.
+[22:20.450 --> 22:21.750]  Totally fine. I don't get it.
+[22:21.870 --> 22:23.570]  That'll be something for our audio engineers to look into.
+[22:24.470 --> 22:28.330]  But yeah. And you just like you just having a random conversation about fucking.
+[22:28.490 --> 22:29.450]  I don't remember what it was.
+[22:29.450 --> 22:32.270]  Was it golf or something with my favorite comedian of all time?
+[22:32.450 --> 22:35.710]  Just because you decided, I'm going to talk to Norm MacDonald and see what happens.
+[22:35.950 --> 22:37.530]  He's just replying to a lot of people.
+[22:37.630 --> 22:41.070]  And I also Norm MacDonald was probably my favorite standup comedian as well.
+[22:41.670 --> 22:45.410]  So I just sent him a message and he replied in a conversation.
+[22:45.750 --> 22:47.650]  I saw him live and we talked about that briefly.
+[22:48.190 --> 22:50.050]  And I got him to sign a book for us like that.
+[22:50.130 --> 22:52.230]  That is even more impressive, I think, than the interaction
+[22:52.590 --> 22:55.250]  as able to organize him signing books for us.
+[22:55.370 --> 22:58.150]  Yeah, I will say that one of the nicest things or one of the best things
+[22:58.150 --> 23:02.750]  about you as a human being is you're very generous in general,
+[23:02.950 --> 23:05.670]  but you're very generous with your with your bravery.
+[23:08.610 --> 23:11.910]  And knowing that I was such a such a Norm MacDonald fan,
+[23:11.950 --> 23:14.270]  it was very sweet of you to then get him to autograph a book for me.
+[23:14.330 --> 23:15.090]  I really appreciate that.
+[23:15.590 --> 23:16.950]  I think it's funny you call it bravery.
+[23:17.190 --> 23:19.470]  I think that's just where my brain is broken in some way.
+[23:19.550 --> 23:22.290]  I didn't view any of that as brave or intimidating to do at all.
+[23:23.470 --> 23:24.670]  That's the opposite of me.
+[23:24.990 --> 23:26.230]  I don't want to talk to anybody.
+[23:26.370 --> 23:27.490]  Have you ever been nervous?
+[23:27.490 --> 23:28.870]  Oh, yeah, all the time.
+[23:29.050 --> 23:31.630]  I constantly have anxiety just about dumb things, though.
+[23:31.750 --> 23:34.770]  Not, I guess, things that normal people get anxiety about.
+[23:34.950 --> 23:35.950]  What are you nervous about today?
+[23:36.190 --> 23:40.090]  You know what? Today, getting my pop filter installed
+[23:40.090 --> 23:42.530]  and then having to attach it to a fire extinguisher.
+[23:43.070 --> 23:44.330]  It's a last minute solution.
+[23:44.830 --> 23:46.450]  Wait, what was I?
+[23:47.030 --> 23:49.670]  I couldn't figure out how to attach my pop filter, Gavin.
+[23:49.810 --> 23:50.550]  I'll send you a photo.
+[23:50.950 --> 23:53.730]  So it's on a fire extinguisher in front of you.
+[23:53.730 --> 23:56.890]  I have a fire extinguisher pointed at my face right now on my desk.
+[23:58.030 --> 23:59.890]  Because it's the only thing I could find in my room
+[23:59.890 --> 24:02.710]  that I could attach the pop filter to because it wouldn't fit on the mic.
+[24:03.990 --> 24:06.190]  And I had a great moment where I moved the mic and I'm like,
+[24:06.330 --> 24:07.770]  why isn't the pop filter moving with it?
+[24:07.850 --> 24:09.230]  Oh, it's on a fire extinguisher.
+[24:09.310 --> 24:10.770]  That's why they're not actually connected.
+[24:11.110 --> 24:12.150]  I got to say,
+[24:13.710 --> 24:16.810]  I'm impressed that you have a fire extinguisher in your room.
+[24:17.030 --> 24:17.970]  That's very safe.
+[24:18.170 --> 24:19.570]  I, you know, it's just one of those.
+[24:19.670 --> 24:22.610]  I got I bought one of those stupid, boring company flamethrowers.
+[24:22.650 --> 24:25.910]  And I thought if I have a flamethrower, I should probably also have a fire
+[24:25.910 --> 24:29.270]  extinguisher. And it I opened it, put it under my desk,
+[24:29.310 --> 24:30.930]  and it has been there ever since.
+[24:31.490 --> 24:34.430]  Is Andrew still your spray in Gmod, Geoff?
+[24:34.670 --> 24:36.490]  Yeah, Andrew is still my spray in Gmod.
+[24:37.090 --> 24:41.790]  If you're not a video gamer, what that is a spray is when you're playing a PC game,
+[24:42.110 --> 24:46.370]  you can assign a picture to a key, oftentimes the F key.
+[24:46.710 --> 24:49.490]  If you hit that button, it just puts that image up on a wall.
+[24:49.570 --> 24:50.870]  We kind of like sprays it up on the wall.
+[24:50.930 --> 24:51.610]  That's why they call it a spray.
+[24:51.610 --> 24:56.110]  And so I have a picture up any time I play any Steam games.
+[24:57.150 --> 24:59.130]  It's of Andrew Panton with a mustache.
+[24:59.850 --> 25:01.850]  And there's just the look on your face in the photo.
+[25:02.070 --> 25:03.550]  It makes me laugh every time I see it.
+[25:03.710 --> 25:06.810]  And also because I don't think you could grow a mustache if you had to.
+[25:06.910 --> 25:10.650]  Like if I gave you a thousand dollars to grow a mustache today, could you?
+[25:11.830 --> 25:13.310]  Oh, are we making a bet?
+[25:13.730 --> 25:15.530]  Like, what do you mean? How long do I have?
+[25:15.650 --> 25:16.790]  How long do I have to grow this mustache?
+[25:17.350 --> 25:19.390]  You have two weeks to grow a mustache.
+[25:19.430 --> 25:21.310]  Oh, no chance in two weeks.
+[25:21.310 --> 25:23.610]  Well, what's the money involved?
+[25:24.330 --> 25:27.890]  You don't need funds to grow any facial hair.
+[25:29.330 --> 25:32.550]  I think, listen, I feel like there's probably products that exist
+[25:32.550 --> 25:34.810]  that could enhance that or make that easier for you.
+[25:34.890 --> 25:36.030]  I don't know what's on the market.
+[25:36.330 --> 25:36.790]  I don't even think so.
+[25:36.790 --> 25:38.150]  I'd have to do some research.
+[25:38.610 --> 25:41.770]  I would absolutely steroid it up if I needed to for this.
+[25:42.430 --> 25:43.370]  I have no shame.
+[25:43.830 --> 25:49.070]  But as a as a general course of action, you are not a facial hair capable man.
+[25:49.070 --> 25:51.950]  I mean, I I can grow like I don't know.
+[25:52.310 --> 25:55.930]  No, like I can't go Grizzly Adams, but I grow facial hair.
+[25:56.210 --> 25:58.150]  OK, I'm a human being.
+[25:59.750 --> 26:00.690]  Man, I believe.
+[26:00.830 --> 26:02.310]  Well, I want to see you all right now.
+[26:02.430 --> 26:03.590]  Here's my new charge to you, sir.
+[26:03.690 --> 26:07.530]  I would like to see you grow out a normal like what Andrew's actual mustache
+[26:07.530 --> 26:09.970]  would look like, not one that you superglue to your face
+[26:09.970 --> 26:12.410]  and we're stuck with for however long that was.
+[26:12.710 --> 26:13.910]  What is the story behind that?
+[26:13.970 --> 26:14.930]  Why did you have that mustache?
+[26:15.330 --> 26:17.150]  We were having a family dinner party
+[26:17.150 --> 26:19.990]  and somebody bought a bunch of goofy mustaches
+[26:20.510 --> 26:23.490]  and the natural adhesive didn't really stick to my lip.
+[26:23.910 --> 26:26.630]  So I use like Gorilla Glue to lock it in place.
+[26:27.190 --> 26:30.170]  And I thought it was like, great, it's now locked in.
+[26:30.210 --> 26:33.890]  And it was it was really locked in and it became a problem.
+[26:34.130 --> 26:35.510]  I could not get it off.
+[26:35.990 --> 26:38.690]  So did you just have to wait until your skin
+[26:39.590 --> 26:42.410]  just regenerated enough times until it dropped off?
+[26:42.450 --> 26:43.090]  How does that work?
+[26:43.410 --> 26:46.490]  I had it for like a day and a half, and I got rid of it
+[26:46.490 --> 26:48.710]  by going to a store and getting nail polish remover.
+[26:49.890 --> 26:51.990]  So you had to go to the store with it on?
+[26:52.450 --> 26:54.530]  Oh, yeah. No, I was in public with that thing on.
+[26:54.770 --> 26:57.650]  I got more looks about the face tattoo than the mustache.
+[27:01.110 --> 27:02.370]  What? Gorilla Glue?
+[27:03.210 --> 27:03.410]  Dude.
+[27:03.630 --> 27:05.390]  It's the glue we had.
+[27:06.030 --> 27:06.910]  I needed a good adhesive.
+[27:07.650 --> 27:08.130]  Fair enough.
+[27:09.150 --> 27:11.750]  This episode is brought to you by State Farm.
+[27:12.110 --> 27:15.370]  Checking off the boxes on your to do list is a great feeling.
+[27:15.370 --> 27:17.630]  And when it comes to checking off coverage,
+[27:17.850 --> 27:21.050]  a State Farm agent can help you choose an option that's right for you.
+[27:21.230 --> 27:25.510]  Whether you prefer talking in person, on the phone or using the award winning app.
+[27:25.750 --> 27:29.230]  It's nice knowing you have help finding coverage that best fits your needs.
+[27:29.510 --> 27:31.490]  Like a good neighbor, State Farm is there.
+[27:34.730 --> 27:35.970]  Hey, it's Paris.
+[27:36.430 --> 27:38.590]  You know, I love sparkly things, right?
+[27:38.770 --> 27:40.310]  Like stars. Duh.
+[27:40.830 --> 27:44.470]  And thanks to Hilton and AutoCamp, I just slept under them.
+[27:44.470 --> 27:49.390]  Picture me serving looks by the fire outside my luxurious airstream,
+[27:49.850 --> 27:54.090]  making s'mores with the kids while a national park is our backdrop.
+[27:54.810 --> 27:57.130]  The great outdoors meets Hilton hospitality.
+[27:57.630 --> 28:02.050]  That's hot. Explore all the new ways to stay at Hilton dot com.
+[28:02.430 --> 28:03.770]  Hilton for the stay.
+[28:05.790 --> 28:07.570]  This episode is brought to you by Netflix.
+[28:07.890 --> 28:10.930]  Becoming the most valuable sports franchise in the world doesn't happen
+[28:10.930 --> 28:14.590]  without risk. A man who's willing to bet it all and the players
+[28:14.590 --> 28:16.030]  ready to make their own luck.
+[28:16.530 --> 28:20.310]  America's team, the gambler and his cowboys, is the story of the 1990s
+[28:20.310 --> 28:23.890]  Dallas Cowboys and Jerry Jones's impact on NFL history.
+[28:24.270 --> 28:27.210]  Featuring interviews with iconic 90s players and more.
+[28:27.710 --> 28:31.870]  Watch America's team, the gambler and his cowboys streaming now only on Netflix.
+[28:34.370 --> 28:38.410]  So, Andrew, do you got any other faces that you've been a part of lately?
+[28:38.530 --> 28:40.410]  You want to talk about Animal Crossing at some point, right?
+[28:40.410 --> 28:42.970]  Yeah. How are you guys doing in the turnip?
+[28:43.010 --> 28:44.310]  Are you guys in the turnip game this week?
+[28:44.690 --> 28:45.650]  Dude, I'm in the turnip game.
+[28:45.730 --> 28:50.350]  I just made a I just went to a friend's island, took half my turnips.
+[28:50.650 --> 28:53.110]  I invested six hundred and fifty thousand.
+[28:53.810 --> 28:56.990]  If you if you're not familiar with what we're talking about in the mega popular
+[28:56.990 --> 29:00.090]  video game Animal Crossing that came out right as the pandemic hit.
+[29:00.130 --> 29:00.950]  So everybody's playing it.
+[29:01.350 --> 29:05.290]  They have a stock market like an STLK market, and you can buy turnips
+[29:05.290 --> 29:07.590]  on Sundays and then sell them throughout the week,
+[29:08.850 --> 29:11.310]  hopefully for a profit, but very often for a loss.
+[29:12.030 --> 29:15.190]  And so I started my my turnips with I had six hundred fifty thousand.
+[29:15.650 --> 29:19.970]  I invested this week and I'm I'm currently I've made about eight hundred grand
+[29:19.970 --> 29:22.610]  and I still have about half my turnips left to sell.
+[29:22.730 --> 29:24.130]  Yeah, I made about one point four.
+[29:24.330 --> 29:26.210]  What was your what was the buying price?
+[29:26.370 --> 29:28.670]  Ninety three. And I sold for like five something.
+[29:28.970 --> 29:30.790]  You sold for five something? Oh, my God.
+[29:30.910 --> 29:31.890]  What do you typically sell it?
+[29:32.330 --> 29:34.310]  Well, you just said you sold five thirty eight and you did it.
+[29:34.530 --> 29:36.610]  He mentioned it so casually, like, yeah, why wouldn't I?
+[29:36.610 --> 29:38.210]  Like, that's the minimum he would sell it.
+[29:38.290 --> 29:40.950]  No, I probably anything before four hundred probably I'd sell.
+[29:41.230 --> 29:42.910]  Jesus Christ, what life are you living?
+[29:43.350 --> 29:45.010]  I'm lucky if I get two hundred.
+[29:45.150 --> 29:48.230]  If it's my island, I'll sell for way less because you don't have to take the trip.
+[29:48.370 --> 29:50.850]  But if I'm flying somewhere, you want to you want to make it worthwhile.
+[29:51.350 --> 29:58.070]  I see you're leveraging your Gavin Free from the slow-mo guy's fame to
+[29:59.730 --> 30:03.110]  take advantage of some poor fan out there
+[30:03.110 --> 30:06.110]  who just wants Gavin to step on his island.
+[30:06.110 --> 30:10.630]  I'm actually leveraging I'm Meg Turney's boyfriend game
+[30:11.710 --> 30:13.590]  because she gets the hookups.
+[30:14.030 --> 30:16.970]  I don't I don't really put myself out there.
+[30:18.270 --> 30:19.390]  I'm too scared to.
+[30:19.850 --> 30:20.690]  I do the same thing.
+[30:20.750 --> 30:24.790]  My girlfriend does all the she negotiates all the islands and stuff with their friends.
+[30:24.950 --> 30:27.790]  And then Meg will run in and be like, oh, we got we got this price on this island.
+[30:27.870 --> 30:29.370]  And I'll be like, oh, could I come?
+[30:30.050 --> 30:31.810]  Yeah, yeah, it's the same boat.
+[30:31.950 --> 30:33.290]  You don't feel like that's cheating at all?
+[30:33.830 --> 30:35.070]  Moving turkeys to different islands?
+[30:35.070 --> 30:37.510]  No. Taking advantage of the system?
+[30:38.290 --> 30:40.070]  I think what Gavin did is cheating.
+[30:40.350 --> 30:44.870]  The only items, the only islands I've gone to are are friends of my girlfriend's.
+[30:44.870 --> 30:47.310]  So they have like a little they actually have a text group
+[30:48.050 --> 30:51.330]  and like her and her sister and all their friends that are all playing together.
+[30:51.330 --> 30:54.770]  And then they just post their they post their turn up prices twice a day.
+[30:54.850 --> 30:56.970]  And then whoever's got the best price, you know, we just go there.
+[30:57.190 --> 31:00.430]  I feel like that's within the spirit of the game because I literally
+[31:00.430 --> 31:02.950]  I physically know the people whose islands I'm going to.
+[31:02.950 --> 31:06.030]  Unlike Gavin, who is dirty.
+[31:06.330 --> 31:10.170]  I feel like it's it's not in the spirit of the game, but you can it's not too far.
+[31:10.330 --> 31:12.670]  Like you can see the spirit of the game from where I am.
+[31:12.810 --> 31:14.190]  You just it's not in the spirit of the game.
+[31:14.490 --> 31:15.870]  It's on the horizon. Yeah.
+[31:15.970 --> 31:16.570]  Yeah, I don't know.
+[31:17.010 --> 31:19.510]  Andrew, you're probably worse than both of us put together, though,
+[31:19.530 --> 31:23.270]  because you had a racket going where you were selling access
+[31:23.270 --> 31:24.650]  to your island, for Christ's sake.
+[31:24.770 --> 31:26.770]  It wasn't my island, first of all.
+[31:26.850 --> 31:28.070]  And second of all, it was.
+[31:28.730 --> 31:31.590]  Well, no, we're dealing with millionaires here, Geoff.
+[31:31.590 --> 31:35.210]  OK, every trip people would come in, they'd make like 2.5 million bells.
+[31:35.450 --> 31:36.970]  I just asked for a little taste.
+[31:37.290 --> 31:38.090]  It's a little taste.
+[31:38.450 --> 31:39.250]  I hate you.
+[31:39.310 --> 31:40.810]  I want to explain to Gavin how that worked.
+[31:41.490 --> 31:44.490]  I had a friend who got six twenty five prices.
+[31:45.050 --> 31:46.330]  This was early on in the game.
+[31:46.390 --> 31:48.270]  This was like week three of it being.
+[31:48.370 --> 31:49.650]  Yeah, it's like a month ago, wasn't it?
+[31:50.170 --> 31:51.330]  Yeah, it was quite a while ago.
+[31:51.750 --> 31:52.850]  People were really into it.
+[31:53.130 --> 31:54.090]  And it was on a Tuesday.
+[31:54.210 --> 31:57.630]  So like everyone still had their turnips and they're an idiot
+[31:57.630 --> 32:00.850]  and couldn't figure out how to make fences, because I guess when you do that,
+[32:00.850 --> 32:04.310]  to prevent people from just like running all over and creating havoc on your island,
+[32:04.390 --> 32:07.810]  you have to kind of fence a path from the airport to the store.
+[32:08.450 --> 32:09.830]  And he didn't know how to make fences.
+[32:09.950 --> 32:14.410]  So I gave him 200 fences in exchange for 10 percent of whatever he made.
+[32:14.850 --> 32:18.670]  But he's completely incompetent and he made the worst path.
+[32:18.770 --> 32:20.070]  He couldn't figure out how to place the fences.
+[32:20.250 --> 32:22.870]  So when like 50 yards to the right and then it curved up
+[32:22.870 --> 32:26.810]  and then went left and then up and then right, it was like a fucking Spartan course.
+[32:26.970 --> 32:27.770]  It was ridiculous.
+[32:28.670 --> 32:32.710]  Um, yeah, it was just a nightmare and he couldn't organize it himself.
+[32:32.830 --> 32:36.810]  So then I came in and we had a two bodyguard system and we used Turnip Exchange,
+[32:37.050 --> 32:41.350]  which is a website where you share your code, but you can pick how many people see it at a time.
+[32:41.630 --> 32:45.430]  And as soon as we hit send to let people know that there was 625,
+[32:46.210 --> 32:48.290]  250 were on the list immediately.
+[32:48.690 --> 32:50.330]  It was packed. It was great.
+[32:50.610 --> 32:53.170]  It was a bizarre experience to have in this like cartoonish,
+[32:53.190 --> 32:55.470]  like family game that's supposed to be fun.
+[32:55.470 --> 32:58.430]  And just seeing all these people with like really animated,
+[32:58.690 --> 33:02.190]  cute characters being vicious over trying to profit over their turnips.
+[33:02.490 --> 33:06.130]  It was clearly very unorganized because I was talking to you while this was going on
+[33:06.130 --> 33:10.130]  and you were sort of giving me updates every 10 or so minutes,
+[33:10.430 --> 33:13.530]  but you were kind of, it was every 10 minutes because you were just deep in the thick of it.
+[33:13.970 --> 33:17.190]  And I was like, oh my God, are you like streaming this anywhere?
+[33:17.910 --> 33:21.390]  And you said you weren't, but the guy, the guy whose island it was, right?
+[33:21.390 --> 33:26.610]  Was streaming a different game, but it was your audio coming through the stream.
+[33:26.830 --> 33:29.990]  Yeah. I didn't have a way to set up my switch to like stream.
+[33:30.230 --> 33:33.350]  So I had someone stream our party because we're using an Xbox party.
+[33:33.690 --> 33:35.050]  And so you could hear our audio.
+[33:35.590 --> 33:38.670]  Yeah. You sent me the link and I, it was just like footage of a different game.
+[33:38.770 --> 33:42.950]  But all I could hear in the background was you being like, no, no, no, no, no,
+[33:42.950 --> 33:47.550]  put that thing down. Okay. This person in red, they haven't paid that one.
+[33:47.710 --> 33:50.350]  And it was just screaming about everything.
+[33:50.350 --> 33:54.310]  It was like, it sounded like absolute chaos. I think that the fact that I couldn't see what
+[33:54.310 --> 33:57.730]  was happening made it so funny. Like the moment I clicked the link, I just,
+[33:57.950 --> 34:00.650]  I just rolled onto the floor laughing at how much chaos.
+[34:01.290 --> 34:05.950]  I yelled for three hours straight. It is the most exhausted I've ever been.
+[34:06.310 --> 34:08.030]  How much money did you guys make?
+[34:08.290 --> 34:12.510]  I think 4 million between the two of us. I think we both split 2 million each.
+[34:12.670 --> 34:14.090]  But I thought it was 10%.
+[34:14.090 --> 34:17.730]  No. Yeah. Well, see, that's the thing. He's an idiot. He couldn't run it by himself.
+[34:17.730 --> 34:23.650]  So I was there. You hearing me yell was yelling at him because he built the fucking most complicated
+[34:23.650 --> 34:28.390]  course you could imagine. And then people had to drop stuff and he didn't empty his inventory
+[34:28.390 --> 34:33.590]  and there's no way to store things. So he had like two spots. And then my game crashed and
+[34:33.590 --> 34:37.350]  I came back in and he just dropped all of his shit where they dropped the money.
+[34:37.730 --> 34:41.070]  So then I had to pick that. It was a fucking gong show. It was terrible.
+[34:41.770 --> 34:46.850]  It was me yelling for two hours. I went to bed at like 830 PM because I just didn't feel like
+[34:46.850 --> 34:54.190]  I had a soul. I was just stunned. I think Meg came in because I was laughing and it was just
+[34:54.190 --> 34:59.670]  up on my TV at a pretty loud volume. And she was like, who's yelling? And then she was like,
+[34:59.850 --> 35:04.870]  is that Andrew Panton? And I think all of our interactions with you have been you and like
+[35:04.870 --> 35:08.650]  calm, very pleasant. And she was like, what is he screaming about?
+[35:10.230 --> 35:15.350]  Turnip game is very important. I don't know that I've ever seen Andrew like riled up before.
+[35:15.350 --> 35:16.570]  It was pretty fierce.
+[35:16.930 --> 35:22.850]  If we run an Animal Crossing story, you'll see it real quick. Things get intense in those
+[35:22.850 --> 35:26.670]  trenches. You did something really sweet with that money though, right? Like you didn't,
+[35:26.770 --> 35:30.290]  to be fair, you were also, you were kind of a philanthropist about it.
+[35:30.370 --> 35:34.750]  Yeah, I just gave a bunch of it away because I paid off my debt and I had like six million,
+[35:35.030 --> 35:39.350]  not a little, probably eight million at that time. And so I just started giving away million
+[35:39.350 --> 35:44.910]  dollar amounts to people. I gave like a million dollars to this woman who had never played video
+[35:44.910 --> 35:48.430]  games before. And this was like her first thing. It was really sweet.
+[35:50.290 --> 35:53.890]  You showed me all the texts from the guy who's like, my mom is so happy right now. You have
+[35:53.890 --> 35:56.690]  no idea. You've made her day. It was really, really lovely.
+[35:57.510 --> 36:00.070]  So it wasn't like completely like terrible.
+[36:00.530 --> 36:05.550]  That's the exact opposite experience you expect to have when you enter into the video game world
+[36:05.550 --> 36:09.350]  and you start interacting with other people. Somebody gives you a million dollars in a game,
+[36:09.390 --> 36:13.990]  not that they insult your sex, race, creed, and family all at once.
+[36:15.030 --> 36:18.150]  So Andrew, how did things go wrong then? Because you were,
+[36:18.810 --> 36:22.670]  you were telling me that you've, that you're ruined in Animal Crossing right now.
+[36:22.870 --> 36:27.810]  I really, I thought Nintendo liked moms. It was a great miscalculation by my part. They,
+[36:27.990 --> 36:33.070]  there was a turnip day on Mother's Day and I thought there'd be zero percent chance that they
+[36:33.070 --> 36:38.650]  would let people invest, especially potentially moms, go all in on turnips that week, not get a
+[36:38.650 --> 36:44.410]  good return, not make like 600 plus. I thought it was impossible. And I learned that week it was
+[36:44.410 --> 36:48.850]  very possible. Nintendo does not like moms. I can unfortunately report.
+[36:49.650 --> 36:52.170]  How much did you invest in turnips that week?
+[36:52.350 --> 36:56.870]  Like 6.2 million. I went all in. I put all of the bells I had.
+[36:57.270 --> 37:00.290]  How many trips? Because that's filling your inventory several times.
+[37:00.710 --> 37:04.550]  Yeah. Well, it was all on my island. I stayed on my island. So it wasn't that bad,
+[37:04.630 --> 37:09.290]  but I filled essentially my entire beach with turnips, stacks of a hundred.
+[37:10.030 --> 37:11.190]  And then what'd you sell them for?
+[37:11.190 --> 37:19.490]  Well, that's a, that's a thing. I didn't sell them because it was terrible. I said I'd make
+[37:19.490 --> 37:24.410]  a big day. Like I declared once again, like the tattoo thing, I declared I was going to sell for
+[37:24.410 --> 37:31.270]  somewhere between 400 to 600. And I started at 80, went from 80 to 70 to 60 to 50 to 40.
+[37:32.010 --> 37:37.110]  It just went down. There was no up days. It never went above the 95 that I bought in.
+[37:37.150 --> 37:38.930]  The worst pattern you can have, I think.
+[37:38.930 --> 37:43.330]  It was really bad. And so I felt like the only right thing to do,
+[37:43.390 --> 37:46.810]  because I declared that this was going to happen, was you just kind of have to accept
+[37:46.810 --> 37:49.530]  the losses. And so I let them all rot.
+[37:51.310 --> 37:56.350]  Even at the lowest point, you can still usually sell them for like 30, right? You could have made
+[37:56.350 --> 37:57.530]  some of the money.
+[37:57.530 --> 38:02.190]  My last price was 42, but at that point I declared that I was going to have this big
+[38:02.190 --> 38:05.710]  week and it didn't happen. So you just die by the sword.
+[38:06.530 --> 38:11.690]  I'll be honest, in a recent Animal Crossing recording, I realized that some of my Bunny
+[38:11.690 --> 38:17.610]  Day junk was blocking one of my turnips because I was keeping them in that room. And I was gutted
+[38:17.610 --> 38:24.010]  that I had one stack of rotten turnips because that was like potentially 50,000 bells worth.
+[38:24.410 --> 38:29.370]  You had an entire beach riddled with rotten turnips.
+[38:30.570 --> 38:31.590]  And I'm back.
+[38:31.590 --> 38:36.450]  What happens to them as they, as I've never, I've never been dumb enough to let my turnips rot
+[38:36.450 --> 38:39.510]  because they will rot after seven days and you can't, they have zero value.
+[38:40.110 --> 38:43.210]  What, do they just turn a weird color? And then how do you get rid of them?
+[38:43.430 --> 38:46.310]  I don't know how to get rid of them. That's a good question. I haven't tried,
+[38:46.610 --> 38:52.010]  but they turn green and like they're missing chunks and like ants and stuff crawl all over.
+[38:52.310 --> 38:54.530]  There's a visual difference. I have no idea how to get rid of them.
+[38:54.530 --> 39:02.230]  Every beach on your Animal Crossing Island is covered in rotten ant infested green turnips now?
+[39:02.490 --> 39:09.690]  Not every beach. About 70% of the beaches. This week I went all in again. I literally sold
+[39:10.290 --> 39:14.790]  everything I had of value. I sold, I had a million dollar crown. Guess how much you get
+[39:14.790 --> 39:18.070]  back on the million dollar crown if you sell it? Oh no, how much?
+[39:18.070 --> 39:26.330]  300,000. That's it. That's it. I was expecting like 750 at worst half a million, but 300,000.
+[39:26.630 --> 39:34.110]  I sold so much iron. I sold a lot of gold. I scratched my way to 800,000. I'm living on
+[39:34.110 --> 39:41.110]  my beach in a car bed right now, but I bought all turnips that I could. So it's like 75% rotten
+[39:41.110 --> 39:47.450]  turnips and then 25%. I got some turnips this week. I got 800,000 of turnips and I'm looking,
+[39:48.230 --> 39:52.690]  I'm hoping to turn things around. What have your prices been like this week? Is it looking good?
+[39:52.910 --> 39:58.910]  Are we projecting a nice spike? It started out okay, then it went bad. This morning 145.
+[39:59.290 --> 40:02.710]  So I don't know, I'm on the fence. Should I sell? Should I wait?
+[40:04.110 --> 40:10.190]  I think knowing your luck, yes. Dude, I may have to hit you up on that 145 because I still have
+[40:10.190 --> 40:16.490]  turnips to unload. I don't want them to rot. 145 is not bad. I think I might wait it out.
+[40:17.490 --> 40:22.110]  Maybe I should just butter up to Meg and... She's got good connections.
+[40:22.710 --> 40:27.650]  Follow her through a door somewhere. What does it feel like to watch
+[40:27.650 --> 40:31.790]  six and a half million dollars worth of your work rot?
+[40:32.190 --> 40:38.190]  Oh, I don't know if I could put into words. It was consistent disappointment, I guess,
+[40:38.370 --> 40:43.930]  if I had to summarize it. Each day got a little bit worse. It wasn't like a grand emotional like
+[40:44.790 --> 40:49.110]  thing, you know, where it's just deflated at the end of it. I kind of accepted midway through
+[40:49.650 --> 40:54.470]  the best outcome because I was doing video updates every few days on my Twitter account of
+[40:54.470 --> 40:59.070]  what was happening. The funniest options were either I sold at a huge price,
+[40:59.250 --> 41:02.550]  or I lost absolutely everything. So it's a little bit mentally prepared.
+[41:02.790 --> 41:07.090]  Were you having offers to sell at a high price, and you just didn't want to leave your iron?
+[41:07.090 --> 41:12.150]  Apparently every other person on the planet had a 600 bell week is what I learned. I had
+[41:12.150 --> 41:18.490]  10 messages. Everybody I know that plays the game had 400 to 500. I was right for everybody
+[41:18.490 --> 41:23.910]  except me, apparently. I don't know how these people do it. I've never seen over 194 on my
+[41:23.910 --> 41:29.150]  island. God, I don't think I've even seen that high on mine. 145. That's what I got today.
+[41:30.050 --> 41:33.550]  170 this afternoon, Geoff. You can come over. 170 this afternoon?
+[41:33.830 --> 41:40.030]  I'm calling it. 170. If it's 170 this afternoon, I'm taking a trip to Canada today.
+[41:41.270 --> 41:44.890]  I saw 24 the other day. I didn't know you could go that low.
+[41:45.050 --> 41:47.070]  That really? Yeah, somebody had a 24.
+[41:47.510 --> 41:50.890]  That's terrible. It's pretty bad. You never see that
+[41:50.890 --> 41:54.250]  when it's time to buy the turnips though. What's the lowest buy price you've ever seen?
+[41:54.630 --> 41:56.010]  I think 93. The lowest I've seen is 90.
+[41:56.590 --> 41:57.710]  90? I've seen 92.
+[41:58.450 --> 42:00.130]  92. I haven't seen below 90.
+[42:00.370 --> 42:02.930]  I want to say you always buy between 90 and 110. Yeah.
+[42:03.210 --> 42:05.910]  I've definitely never seen they're on sale for 400.
+[42:06.270 --> 42:07.810]  Or 30. Yeah.
+[42:07.810 --> 42:11.710]  Well, Andrew, I hope it works out for you this week, buddy. I hope you recoup some of your
+[42:11.710 --> 42:16.250]  losses. Are you going to try to buy back all the shit you had to hawk? Can you get it out of hawk?
+[42:17.510 --> 42:24.390]  No. I don't know how much I'd make at 175, 800. I might be able to buy a new crown, but
+[42:24.390 --> 42:29.290]  yeah, it's going to be a while. I might have to hire the Breaking Bad guy. Just literally
+[42:29.290 --> 42:32.570]  leave my island. I'm in so much debt if I don't turn it around this week.
+[42:33.570 --> 42:38.350]  It reminds me of this kid, a very good friend of mine I was in the army with. Because I'm
+[42:38.350 --> 42:42.070]  older, this is 1 million years ago. So I'm going to use terminology that you might not understand,
+[42:42.190 --> 42:44.790]  Andrew. Like VHS player.
+[42:45.270 --> 42:48.330]  I'm not that... what? Of course I know what a VHS player is.
+[42:48.690 --> 42:49.890]  You're a young kid.
+[42:50.230 --> 42:50.610]  Okay.
+[42:51.110 --> 42:57.210]  This is the old world. I had this friend in the army who every month he would go broke.
+[42:57.630 --> 43:02.550]  Column A, soldiers don't get paid anything. Column B, he was young and dumb with his money.
+[43:02.570 --> 43:09.670]  It was like a 50-50 thing there. But every month he would go and he would hawk, he would pawn his
+[43:09.670 --> 43:14.070]  VHS player for like $40.
+[43:14.930 --> 43:16.630]  Why'd you keep calling it a VHS player?
+[43:16.990 --> 43:23.510]  VCR, whatever. It's been so long I don't remember the terminology. He would hawk his VCR. I think
+[43:23.510 --> 43:27.310]  it's because it may not have been a VCR. That's a video cassette recorder. His might have been
+[43:27.310 --> 43:30.630]  a VHS player. I don't know that it recorded. Regardless...
+[43:32.050 --> 43:34.530]  It wasn't the whole point of VHS.
+[43:34.970 --> 43:36.730]  I think the point of VHS was to watch movies.
+[43:37.690 --> 43:38.070]  Sure.
+[43:38.410 --> 43:45.430]  So I think he would pawn it for $40 every month when he would run out of cash. And then he would
+[43:45.850 --> 43:51.450]  unpawn it for like $55. And so he was putting himself like 15 bucks in the hole every month.
+[43:51.710 --> 43:54.990]  And I could never get him to understand that that's what he was doing. He was like,
+[43:55.050 --> 43:59.070]  no, dude, I need the money now. Then I'll have the $55 later. That's not a problem.
+[43:59.070 --> 44:02.690]  So I can get it back. I just need the $40 now. And it's like, I would be like, dude,
+[44:02.730 --> 44:05.030]  you gotta stop. You're losing money every month. And he's like,
+[44:06.230 --> 44:07.350]  looks at me like I'm an idiot.
+[44:07.530 --> 44:09.470]  He was like taking out a mortgage on all of his belongings.
+[44:09.970 --> 44:15.230]  Yeah, essentially. And there was like for two weeks every month, he just couldn't watch movies.
+[44:17.850 --> 44:21.710]  Did you ever go to a movie store and rent a VHS, Gavin?
+[44:22.070 --> 44:26.370]  Oh, for sure. Yeah, I used to rent like Ace Ventura Pet Detective over and over and over
+[44:26.370 --> 44:29.050]  again. I must have rented it like 50 quids worth.
+[44:30.750 --> 44:34.670]  Are you saying that like a European thing, Geoff? Or do you just not think that Gavin
+[44:34.670 --> 44:38.230]  and I ever used VHSs? How old do you think we are?
+[44:38.390 --> 44:43.810]  Well, Gavin's a little bit older, but listen, here's how old you guys are. You guys are so
+[44:43.810 --> 44:48.670]  young that you remind me constantly how old I am. So I listened when people tell me constantly,
+[44:48.870 --> 44:52.670]  like all the Achievement Hunter guys, how fucking old I am. I take it to heart. And I assume that
+[44:52.670 --> 44:57.950]  you're all just young and dumb and have never experienced anything before the year 2000.
+[44:58.230 --> 45:01.250]  No, I think we're just dumb. Yeah, definitely dumb.
+[45:02.130 --> 45:07.930]  I only remember the VHS thing because my Blockbuster had... what was the Chris Rock
+[45:07.930 --> 45:10.530]  movie where he was like a rapper? Oh, CB4.
+[45:10.970 --> 45:17.530]  CB4. My Blockbuster had a copy of CB4 for $120. I think it was just like what they were
+[45:17.530 --> 45:22.470]  priced at. Maybe it was a pricing, just a mistake on their part. But it's sort of like a perfect
+[45:22.470 --> 45:26.850]  example of how my brain works. I looked at that and then thought that that was the greatest movie
+[45:26.850 --> 45:29.210]  of all time for years. Because of its price?
+[45:29.510 --> 45:36.030]  Because of its price. I thought like, wow, this must be... if they can sell this thing at $124,
+[45:36.570 --> 45:41.370]  this is the most... the greatest piece of cinema ever made. This is insane. One day,
+[45:41.450 --> 45:44.310]  maybe I'll be lucky enough to see this thing. I still haven't seen it.
+[45:44.710 --> 45:47.530]  You've never seen CB4? I haven't seen it. Well,
+[45:47.570 --> 45:50.350]  because it's the greatest movie of all time. I don't know if I can handle it.
+[45:50.350 --> 45:54.490]  Not attainable. Yeah. But then, like a decade later,
+[45:54.610 --> 46:01.290]  maybe, I saw it in a Best Buy and it was on DVD for like $20 or $15. And it didn't occur to me
+[46:01.290 --> 46:05.650]  that, oh, they mislabeled the price of Blockbuster. My mind immediately went to,
+[46:05.750 --> 46:11.350]  this is a hell of a deal. We got to get in on this. We got to buy this now. $15 for CB4?
+[46:12.310 --> 46:16.150]  This is a savings. I want to challenge you to try and sell
+[46:16.150 --> 46:21.710]  that movie on eBay for over $100 and put like a year on it and see if anyone will buy it.
+[46:22.070 --> 46:24.990]  That's a... I'll take that challenge. I hope you're ready to lose.
+[46:25.150 --> 46:29.570]  What's the most you've ever paid for a VHS tape or a DVD?
+[46:30.550 --> 46:35.850]  I spent $60 on Dawn of the Dead because it's out of print and it doesn't stream anywhere.
+[46:36.030 --> 46:40.790]  We were doing like a Of the Dead marathon at Halloween and I was really annoyed to
+[46:41.450 --> 46:45.490]  spend $60 on a Blu-ray. I don't know if the CB4 thing
+[46:46.730 --> 46:53.570]  was a common deal, but I do know back in the pre-DVD days, I was a real big fan of this movie
+[46:53.570 --> 47:01.090]  growing up called Rad. It's a BMX movie. And it was just hard to find. It was rare.
+[47:01.430 --> 47:07.210]  And I wanted to see it so badly one time, I saved up and I bought the VHS tape for $80 on Amazon.
+[47:07.730 --> 47:11.870]  And it did not hold up. It was not a good use of my money.
+[47:12.070 --> 47:13.730]  Not even like a fun, bad way?
+[47:13.730 --> 47:17.510]  Yeah, but I mean, I was like 22 at the time or something.
+[47:17.770 --> 47:25.010]  And so all I could see was the $80 that I no longer had when I was watching this kid
+[47:25.010 --> 47:28.750]  try to learn how to do a backflip and fall on a mattress for two hours.
+[47:29.030 --> 47:34.310]  I don't think I have anything like that. I don't think I've ever gone all in on a movie.
+[47:34.490 --> 47:37.530]  It's like if I'm buying something dumb like that, it's going to be cheap.
+[47:37.950 --> 47:42.950]  I don't know if it's because we're recording this podcast. I threw up in my mouth.
+[47:42.950 --> 47:43.610]  Did you really?
+[47:43.930 --> 47:44.610]  I just threw up.
+[47:46.210 --> 47:50.290]  It wasn't even for any reason. It was just a bad burp.
+[47:52.710 --> 47:53.450]  You okay?
+[47:55.430 --> 47:59.590]  I can't think of a better place to end it than Gavin throwing up in his mouth.
+[48:00.390 --> 48:01.290]  Why did that happen?
+[48:02.570 --> 48:07.510]  All right, well, that's about as much fucking and facing as I think I can handle for one week.
+[48:07.510 --> 48:15.870]  And we don't want to run through all of our supply of faces in the first episode.
+[48:17.330 --> 48:20.930]  With that, I guess, if you enjoyed this, and I hope you did,
+[48:21.210 --> 48:25.450]  if you're still listening, you're either Andrew's mom or you didn't hate it.
+[48:26.410 --> 48:32.070]  If you could like and subscribe, leave us a review. Believe it or not, that stuff matters,
+[48:32.450 --> 48:36.170]  especially in this crowded podcast world where there's more than a million podcasts
+[48:36.170 --> 48:38.010]  and ours is named F*** Face.
+[48:38.230 --> 48:38.970]  But leave it on Yelp.
+[48:39.290 --> 48:44.730]  Yeah, leave it on Yelp, even. The odds are stacked against this. So if you could leave a review and
+[48:44.730 --> 48:49.230]  give us a good rating on Spotify or iTunes or wherever the fuck it is you listen to podcasts,
+[48:49.370 --> 48:54.210]  we would really, really appreciate it. And I highly recommend you follow Andrew's Twitter,
+[48:55.110 --> 48:58.770]  because you'll see a lot of this stuff happening live. And that's at Andrew Panton,
+[48:59.270 --> 49:05.250]  A-N-D-R-E-W-P-A-N-T-O-N. To a lesser degree, you might want to follow Gavin and I,
+[49:05.250 --> 49:11.710]  we are not as funny. He is at Gavin Free, spelled as it sounds. And I am at Geoff L. Ramsey,
+[49:11.870 --> 49:18.930]  and that is not spelled as it sounds. That is G-E-O-F-F-L-R-A-N-S-E-Y. Not my fault,
+[49:19.030 --> 49:23.710]  my mom did it. She f*** faced me out of the womb with a dumb name that's hard to spell.
+[49:24.430 --> 49:28.830]  Andrew, I love you. Gavin, I love you. Audience, I don't know you that well,
+[49:28.950 --> 49:31.670]  but I deeply like you. We'll see you next week.
+[49:31.850 --> 49:32.270]  Love you lots.
+[49:32.650 --> 49:32.830]  Bye.
+[49:43.050 --> 49:49.570]  Dad, my body is growing at an alarming rate, and the clothes you buy me now will be very small, very soon.
+[49:49.790 --> 49:54.150]  But your wallet doesn't have to suffer because of fashion, with the low prices of Amazon's Back to School.
+[49:54.970 --> 49:57.070]  Amazon, spend less, smile more.

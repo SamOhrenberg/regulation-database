@@ -1,0 +1,907 @@
+[00:00.920 --> 00:03.120]  This episode is brought to you by Buffalo Trace Distillery.
+[00:03.920 --> 00:06.940]  Powerful yet smooth. Contained but never tame.
+[00:07.500 --> 00:09.920]  Proudly going their own way, but never going alone.
+[00:10.620 --> 00:12.700]  This is the spirit inside Buffalo Trace Bourbon.
+[00:13.160 --> 00:14.520]  Made at Buffalo Trace Distillery.
+[00:14.820 --> 00:16.800]  The world's most award-winning distillery.
+[00:17.580 --> 00:20.420]  Buffalo Trace is always perfectly untamed.
+[00:20.900 --> 00:22.660]  Distilled, aged, and bottled by Buffalo Trace Distillery.
+[00:22.840 --> 00:25.580]  Franklin County, Kentucky. 90 proof. 45% alcohol by volume.
+[00:25.780 --> 00:27.420]  Learn more at buffalotracedistillery.com.
+[00:27.540 --> 00:28.400]  Please drink responsibly.
+[00:30.000 --> 00:32.480]  This is a Rooster Teeth production.
+[00:44.820 --> 00:48.260]  Here's what I wanna... I got a question and then a comment based on that question.
+[00:48.360 --> 00:49.000]  Here's my question.
+[00:49.920 --> 00:51.180]  What time were we recording today?
+[00:51.440 --> 00:52.060]  3.30.
+[00:52.420 --> 00:52.720]  Okay.
+[00:53.380 --> 00:57.240]  Well, I'd like to... I'd like to be noted then on the record
+[00:57.240 --> 01:01.300]  that when I showed up into the group at 3.25,
+[01:02.240 --> 01:05.540]  Gavin was there five minutes early and that greatly distressed me.
+[01:05.540 --> 01:09.220]  It was super inconsiderate of you to be early, sir.
+[01:09.440 --> 01:10.780]  You might as well have been late.
+[01:11.040 --> 01:11.680]  I was horrified.
+[01:12.460 --> 01:15.660]  I expect you to be exactly on time every time.
+[01:15.900 --> 01:16.860]  Not before.
+[01:17.260 --> 01:18.420]  Andrew said the same thing to me.
+[01:18.460 --> 01:19.660]  He was like, Jesus, you're early.
+[01:19.720 --> 01:23.300]  I was like, well, yeah, you know, I was doing some work right here in front of my computer
+[01:24.060 --> 01:25.100]  downloading some stuff.
+[01:25.380 --> 01:27.020]  So I thought I'd just drop in because, you know,
+[01:27.480 --> 01:30.180]  I'm not technically here yet, but I am physically here.
+[01:30.500 --> 01:31.760]  So why not be a little bit early?
+[01:32.040 --> 01:35.340]  Also, didn't we move the damn podcast by half an hour for Eric?
+[01:35.340 --> 01:36.620]  Who's not here?
+[01:36.980 --> 01:37.620]  Yes, we did.
+[01:38.020 --> 01:40.560]  So we moved it half an hour so he could be here.
+[01:40.880 --> 01:41.540]  He's not here.
+[01:41.760 --> 01:44.880]  So we've just lost half an hour for no reason.
+[01:45.180 --> 01:50.000]  Hey, I don't know where this podcast began, but you asked me how your car was doing, Gavin.
+[01:50.060 --> 01:52.140]  I was telling you it was doing great.
+[01:52.460 --> 01:54.180]  And that the only time I drive it is on the interstate.
+[01:54.280 --> 01:57.860]  And then I laughed to myself because the next time I drive it on the interstate will be
+[01:57.860 --> 02:02.620]  when I take it to the appointment to drop it back off at the dealer again for the second time.
+[02:03.000 --> 02:04.600]  For the second time in three weeks.
+[02:04.600 --> 02:07.280]  So the last time was some sort of clear coat, right?
+[02:07.440 --> 02:11.000]  Well, it was a clear coat. And then also the brakes were squealing a little bit.
+[02:11.280 --> 02:13.000]  And so I took it in and I had them take a look at it.
+[02:13.000 --> 02:14.200]  And they said the brakes were fine and stuff.
+[02:14.360 --> 02:19.060]  And then a day before yesterday, I was driving it and I got an error message.
+[02:19.180 --> 02:21.540]  Your brake pads are worn. Take to the dealer immediately.
+[02:23.000 --> 02:24.680]  And they fucking told me.
+[02:25.060 --> 02:26.920]  Listen, I've been... and they're nice people.
+[02:27.060 --> 02:30.620]  I'm going to have... if I get to it, I got my flat tire story I want to tell too.
+[02:30.660 --> 02:31.340]  I didn't get to last week.
+[02:31.560 --> 02:32.680]  Also nice people.
+[02:32.680 --> 02:36.160]  I'm not trying to beat up on any of these people in the service industry.
+[02:36.280 --> 02:38.180]  They had excellent customer service.
+[02:38.560 --> 02:41.660]  But the motherfucking guy stood there and looked me right in the eyes and said,
+[02:41.740 --> 02:45.560]  Yeah, they checked out your brake pads and the calipers and everything is fine.
+[02:46.040 --> 02:46.820]  Looks good.
+[02:47.080 --> 02:49.760]  A little bit of squeaking is normal in that kind of car.
+[02:50.060 --> 02:50.960]  I take them at their word.
+[02:51.040 --> 02:51.900]  It probably is.
+[02:52.160 --> 03:00.460]  But I can't believe I used up enough brake pad six days later for the brake pads to be so worn that the car's like pull over immediately.
+[03:00.640 --> 03:01.360]  Do not drive.
+[03:01.440 --> 03:02.060]  You will die.
+[03:02.060 --> 03:07.460]  I feel like as technology advances and cars get more clever, they get more whiny.
+[03:08.080 --> 03:11.120]  Like you never would have known that your brake pads were worn on an older car.
+[03:11.200 --> 03:12.620]  You would have just carried on driving.
+[03:13.040 --> 03:17.000]  Yeah, you just wait until your brakes freeze and then you careen off a cliff or something.
+[03:17.320 --> 03:19.600]  That's how you know when you go off the road.
+[03:20.700 --> 03:21.680]  Or you can't stop.
+[03:22.560 --> 03:27.720]  Imagine someone just careening over a cliff and at that point the error message flashes up.
+[03:27.800 --> 03:28.840]  Check your brake pads.
+[03:28.840 --> 03:31.600]  It's like the ad for explaining why it's needed.
+[03:31.820 --> 03:32.620]  The tech is there.
+[03:32.720 --> 03:34.280]  Like the most extreme commercial ever.
+[03:34.700 --> 03:36.180]  You don't want this to be you.
+[03:36.300 --> 03:38.280]  It's just somebody driving off the side of a cliff.
+[03:38.540 --> 03:39.980]  We've innovated for your safety.
+[03:40.580 --> 03:44.680]  Considering we're still in the first sort of 15 to 20% of the podcast, you want to do an intro?
+[03:45.040 --> 03:49.080]  Before we do the intro, can I just ask how do I cough now?
+[03:49.600 --> 03:51.180]  What's the protocol on coughing?
+[03:51.700 --> 03:52.400]  I need to cough.
+[03:52.560 --> 03:55.180]  I've needed to cough for like 90 seconds now.
+[03:55.600 --> 03:56.060]  How do I cough?
+[03:56.140 --> 03:57.160]  Do I mute the Discord?
+[03:57.160 --> 03:58.640]  Do I just cough?
+[03:59.040 --> 04:00.020]  You weren't talking there.
+[04:00.080 --> 04:03.220]  You could have just walked away from the mic, coughed into a corner and come back.
+[04:03.220 --> 04:07.340]  I would make way more noise walking away from the mic than I would if I just coughed.
+[04:07.440 --> 04:07.800]  It's a real dilemma now.
+[04:07.800 --> 04:08.720]  How are you still talking?
+[04:09.240 --> 04:10.220]  Here we go.
+[04:10.540 --> 04:11.780]  Keep your mouth away from the mic.
+[04:12.260 --> 04:13.180]  I have this.
+[04:13.600 --> 04:15.040]  Andrew, don't listen yet.
+[04:15.220 --> 04:15.760]  I have this.
+[04:16.080 --> 04:20.480]  Do you remember the photo you sent Gavin and I last week?
+[04:20.580 --> 04:22.420]  Which I don't know if we should release or not.
+[04:22.860 --> 04:24.440]  But definitely Gavin's drawing of it.
+[04:24.440 --> 04:27.660]  Do you remember the photo you sent of the eight pillows on top of each other?
+[04:28.140 --> 04:28.440]  Yes.
+[04:28.800 --> 04:33.460]  Grab one of your many, many, many pillows and cough into the pillow.
+[04:33.940 --> 04:34.900]  I have to get up to do that.
+[04:35.020 --> 04:37.560]  I'm going to make more noise getting up to do that than I would if I just coughed.
+[04:37.620 --> 04:38.340]  Do you have a mixer?
+[04:39.920 --> 04:42.380]  I think I have a mixer. Can I mute on the mixer?
+[04:42.580 --> 04:43.580]  That's part of my question.
+[04:43.700 --> 04:46.600]  Just unplug your computer, cough, and then plug it back in.
+[04:47.280 --> 04:49.620]  Great. I need to cough. What do I do here?
+[04:49.720 --> 04:50.520]  Fucking cough!
+[04:50.780 --> 04:51.440]  Okay, okay.
+[04:53.880 --> 04:55.200]  Wow, that was no joke.
+[04:55.440 --> 04:56.680]  No, I had a real cough.
+[04:56.920 --> 04:58.400]  How long were you holding on to that cough?
+[04:59.680 --> 05:02.660]  Honestly, like two minutes. It was a long time. I'm like, what do I do?
+[05:02.680 --> 05:06.220]  I can't believe you were talking so smoothly with that stuck in your throat.
+[05:06.220 --> 05:07.480]  That was like a wheezer.
+[05:07.900 --> 05:10.460]  It was in the chamber. I still have a little bit.
+[05:11.240 --> 05:14.500]  I was just there. I was cocked. I was listening to Geoff's car troubles.
+[05:14.680 --> 05:15.660]  Just like, I don't know what to do.
+[05:16.040 --> 05:19.380]  You need to get the rest out. There's still more to come.
+[05:19.840 --> 05:21.380]  No, I'm good. I'm good. I think I'm good.
+[05:21.640 --> 05:25.740]  While we're talking about cars, another thing I wanted to talk about last time.
+[05:25.980 --> 05:28.800]  And this is quick, so I'll just get through it, but since we're on the car subject.
+[05:29.820 --> 05:33.620]  Do you guys have a favorite license plate you've ever seen in your life?
+[05:33.680 --> 05:36.600]  Like a personalized license plate that sticks with you?
+[05:36.980 --> 05:37.280]  No.
+[05:38.420 --> 05:39.700]  Gavin? Do you have one?
+[05:40.620 --> 05:42.960]  I can't be the only one that pays attention to that stuff.
+[05:43.160 --> 05:47.040]  Not that I'd registered. I've never been like, that's a sweet fucking license plate.
+[05:47.040 --> 05:50.060]  Let me remember that. Let's save storage for that.
+[05:50.460 --> 05:55.520]  I know that I've seen them, but they don't register as funny enough to store long term.
+[05:55.660 --> 05:58.520]  I kept them in RAM, and I binned them after I shut down.
+[05:58.720 --> 06:03.100]  Well, let me tell you what I think the funniest license plate of all time is.
+[06:03.180 --> 06:06.280]  And then I'll tell you the second funniest, because I saw it a couple weeks ago.
+[06:06.660 --> 06:10.500]  The funniest license plate I ever saw in my life, I think was on the FARC forums,
+[06:10.960 --> 06:14.160]  or like on FARC.com way back in the day, or maybe the Something Awful forums,
+[06:14.160 --> 06:18.320]  like before Rooster Teeth. But a long time ago, the state of Florida,
+[06:18.800 --> 06:24.620]  they had six letters or numbers on their license plate, three on the left, and three on the right.
+[06:24.680 --> 06:28.860]  And in the middle was an orange. You know, because Florida grows oranges, right?
+[06:29.260 --> 06:33.080]  And so somebody had a license plate. I never saw it in person, I saw the photo online.
+[06:33.420 --> 06:41.160]  Somebody had a license plate that was A55, the orange, RGY.
+[06:41.160 --> 06:43.160]  Which spells Ass Orgy.
+[06:45.760 --> 06:51.120]  And that buddy was driving around the state of Florida with a license plate that says Ass Orgy.
+[06:51.480 --> 06:55.620]  Which I think is, I mean, that was probably 20 years ago I saw that, and I'm still laughing about it.
+[06:56.180 --> 07:02.760]  And I guarantee you if I said Ass Orgy to Gus, a guy we work with, he would start laughing immediately too,
+[07:02.820 --> 07:10.140]  because we used to laugh at this donkey flaring its teeth that said Gobble Boners,
+[07:10.140 --> 07:14.300]  and GIF, and then the Ass Orgy license plate. It was like our two favorite things in the world.
+[07:14.740 --> 07:18.920]  The other day, and by the way, that's a tough one to beat, and I certainly haven't ever beaten it,
+[07:18.960 --> 07:23.860]  because it's like, it's dirty humor, right? Which is always hilarious.
+[07:24.240 --> 07:29.940]  It's clever, because they're incorporating a non-letter into the...
+[07:29.940 --> 07:31.580]  Yeah, a number and a fruit.
+[07:31.640 --> 07:38.560]  Yeah, a number and a fruit, and it's like edgy because they got one by the DMV, right?
+[07:38.560 --> 07:40.060]  Which makes you like it even more.
+[07:40.460 --> 07:47.440]  But what is the orange on, like when you're filling it out, do you just type what you want it to be, like A55 RGY?
+[07:47.820 --> 07:50.720]  A55 RGY. The orange is just, it's stamped on.
+[07:50.860 --> 07:51.260]  It's always in the middle.
+[07:51.360 --> 07:55.560]  It's always in the middle. Probably not anymore, I haven't paid attention to their license plates anymore.
+[07:56.000 --> 08:01.440]  But you know, like, license plates have, like Texas has a little state of Texas in the middle,
+[08:01.820 --> 08:07.100]  and like, I think, like Illinois has a picture of Abraham Lincoln, state of Lincoln, right?
+[08:07.100 --> 08:12.560]  I'm pretty sure that South Dakota would have the Mount Rushmore.
+[08:12.780 --> 08:20.980]  And just like, let's be honest, dirty humor aside, if you take a second and think about ass orgies, that's just funny.
+[08:21.440 --> 08:27.840]  It's like, I want to have an orgy, but located solely in my or someone else's ass.
+[08:28.960 --> 08:35.640]  That's like, screw the other orifices, we got no interest in that stuff, this is straight to the A.
+[08:37.060 --> 08:43.000]  Anyway, when I was on my road trip to Detroit and back, I saw another, I want to say I was in Kentucky,
+[08:43.660 --> 08:48.140]  I saw another license plate that I thought was hilarious, not nearly as funny as ass orgy,
+[08:48.220 --> 08:51.460]  but it got me wondering if you guys had ever seen a funny license plate,
+[08:51.520 --> 08:57.020]  and obviously neither of you are clever enough to remember funny things, or to pay attention when you leave your house.
+[08:57.360 --> 09:00.580]  But I saw a license plate that just said, Ham Fan.
+[09:01.980 --> 09:03.240]  What's that in reference to?
+[09:03.240 --> 09:06.600]  I don't know, dude, I think it might be a reference to them liking ham.
+[09:07.380 --> 09:11.620]  Because what else could it be a reference to? Just H-A-M-F-A-N.
+[09:11.860 --> 09:15.860]  Yeah, I don't know, I think if it was a West Ham football team, but that would be unlikely.
+[09:16.140 --> 09:19.680]  I doubt it's the West Ham football team in Kentucky or Tennessee.
+[09:20.160 --> 09:25.580]  I think it's a car driving around with somebody who really, really likes ham.
+[09:26.460 --> 09:28.040]  And where did you see this plate, Geoff?
+[09:28.040 --> 09:33.920]  I think it was either in Kentucky or Tennessee. I'm not sure which. It was one of those two states.
+[09:33.980 --> 09:36.000]  He may have been some sort of pork baron.
+[09:36.000 --> 09:37.320]  Could have been a pork baron, right?
+[09:38.100 --> 09:40.760]  But what, like, Ham Fan. It's just fun to say.
+[09:41.280 --> 09:45.320]  You think there are people listening that have plates they're proud of that were like, oh, what if he saw my plate?
+[09:45.640 --> 09:47.240]  That could have been a real moment for someone.
+[09:47.440 --> 09:49.900]  Fucking, what if Ham Fan is out there? That's what I'm saying.
+[09:50.200 --> 09:54.100]  Dude, if you're listening, Ham Fan, I want to know. Here's what I want to know.
+[09:54.100 --> 10:02.420]  I want you to contact me and I want you to let me know the genesis of this license plate, unless it's something really lame.
+[10:02.980 --> 10:07.160]  Like, you're a fan of a baseball player whose nickname is Ham.
+[10:07.480 --> 10:09.240]  I want it to be pork-related.
+[10:10.140 --> 10:14.640]  It needs to be funny. If it's not pork-related, if it's a mundane answer, just don't contact me.
+[10:14.800 --> 10:16.160]  I'd rather, I don't want it to be spoiled.
+[10:17.160 --> 10:18.860]  Stop writing the email now.
+[10:19.940 --> 10:24.260]  Why haven't you ever done one, Geoff? Why haven't you ever done a funny license plate?
+[10:26.200 --> 10:27.480]  I guess I'm not that funny.
+[10:29.620 --> 10:30.440]  I don't know.
+[10:32.140 --> 10:37.120]  You're absolutely right. I appreciate every other personalized license plate I see.
+[10:37.320 --> 10:40.640]  I mean, I either love to hate it because it's super douchey.
+[10:40.920 --> 10:47.460]  Like, somebody has it driving a Corvette and it says, like, Vet No. 2 on the back, implying that there's a 1 and possibly a 3.
+[10:47.460 --> 10:51.680]  Or, you know what I mean? Or, like, Ma Beamer or whatever dumb shit.
+[10:52.200 --> 10:55.180]  I love to hate those people because they spent money.
+[10:55.900 --> 11:00.280]  They're so broken inside in some way that they need the world.
+[11:00.480 --> 11:04.880]  Like, it's not enough to have that car. They also have to brag about it personally on the license plate.
+[11:04.900 --> 11:11.580]  I think that's awesome, to see those people driving around damaged and think, like, oh, yeah, it must hurt to live in your head.
+[11:11.580 --> 11:17.860]  And then it's also fucking amazing when you see a ham fan or an ass orgy roll up.
+[11:18.240 --> 11:23.280]  And it's just, like, somebody was so funny and clever and they thought, I'm going to share that with the world.
+[11:23.460 --> 11:27.660]  And I'm going to brighten the day of everybody who stops behind me at a red light.
+[11:28.280 --> 11:33.600]  I don't know if ham fan thought they were being funny, necessarily. I think they just might be a poor enthusiast.
+[11:33.900 --> 11:36.680]  Listen, it's better if they weren't.
+[11:36.680 --> 11:41.580]  It's better if they were just like, I fucking loved honey baked hams and I loved glazed hams.
+[11:41.700 --> 11:47.860]  And I loved cube ham and I love sugar ham and I love ham sandwiches and I love ham on rye.
+[11:48.160 --> 11:52.360]  And you know, I love a croque monsieur with ham. Like, I drink a ham shake.
+[11:53.280 --> 11:56.360]  I'm beginning to wonder, I think Geoff might be ham fan.
+[11:56.600 --> 12:02.020]  I think there is evidence that now applies that Geoff is testing out his new plate on us.
+[12:02.120 --> 12:02.940]  I'll be honest, guys.
+[12:03.180 --> 12:03.640]  And Gavin's car.
+[12:04.300 --> 12:06.380]  I'll be honest, guys. I was just in the ham zone.
+[12:06.380 --> 12:09.660]  It was just flying out of my mouth. I wasn't prepared.
+[12:10.000 --> 12:12.460]  Ham zone would be a great plate as well. I'd remember ham zone.
+[12:14.300 --> 12:15.580]  Yeah, you should be ham zone.
+[12:17.180 --> 12:19.900]  I'm going to look into getting a ham zone license plate now.
+[12:20.380 --> 12:25.240]  I will definitely do that. Remind me because I'll forget. But I will look and see if I can get ham zone.
+[12:25.600 --> 12:30.780]  Or ham fan. You know what would be funny because Texas has seven letters. Ham fan two.
+[12:31.240 --> 12:36.020]  Because it's like, it implies that I recognize there's a ham fan one and I'm adding on to it.
+[12:36.020 --> 12:40.800]  But it's also like I am also a ham fan and there wasn't enough to spell T-O-O.
+[12:41.160 --> 12:44.340]  So it can do double meaning the two referencing like also ham fan.
+[12:44.800 --> 12:49.180]  I like that. I like... I'm going to look into this. I'm going to look into getting a ham related...
+[12:49.180 --> 12:54.360]  In ham fan two, you wanted it to be like T-O-O, like ham fan as well.
+[12:54.540 --> 12:57.220]  When the number two is perfectly fine because... What?
+[12:57.340 --> 13:02.300]  Yeah, I like it that it's both. Like the number two is like ham fan one, ham fan two, ham fan three. It's sequential.
+[13:02.860 --> 13:06.000]  It's showing...
+[13:06.000 --> 13:12.360]  Yeah, but... But you don't think of it as... Yeah, I guess. I don't know. I like... I like that it's like...
+[13:12.360 --> 13:17.040]  I would rather people refer to me as not the second ham fan, but also a ham fan.
+[13:17.320 --> 13:22.900]  Well, I mean, technically, you only saw the Kentucky ham fan, right? You can have the same license plate in multiple states.
+[13:23.260 --> 13:24.160]  It's true. It's true.
+[13:24.300 --> 13:27.120]  There could be 49 other ham fans.
+[13:27.320 --> 13:33.400]  Listen, I just was incredibly brazenly honest with you guys. I can't take credit for ham fan one now.
+[13:33.400 --> 13:34.740]  Like that would be...
+[13:35.200 --> 13:36.700]  Yeah, that's why you've got ham zone.
+[13:37.260 --> 13:40.920]  Yeah, I think ham zone has an intensity to it that I think is wonderful.
+[13:41.780 --> 13:46.100]  I think it tells a story. Yeah. I like ham zone. I'll look into ham zone.
+[13:46.520 --> 13:53.940]  And I think you guys should think about... Not that I anticipate either of you ever owning or driving a car in your lives.
+[13:54.660 --> 13:55.060]  I can drive.
+[13:55.760 --> 13:56.420]  Do you have a car?
+[13:56.980 --> 13:57.720]  No, I don't have a car.
+[13:58.100 --> 13:58.600]  Do you have a license?
+[13:59.080 --> 13:59.560]  Yeah, I have a license.
+[13:59.860 --> 14:02.220]  Why'd you get a license, though, if you don't drive?
+[14:02.640 --> 14:03.880]  Why wouldn't I get a license?
+[14:04.780 --> 14:05.340]  That's a great question.
+[14:05.340 --> 14:05.820]  It's not hard to get a license.
+[14:06.340 --> 14:07.220]  That's a great question.
+[14:07.320 --> 14:10.400]  Makes life a lot easier. I don't know why... Why don't you have a license?
+[14:10.780 --> 14:13.040]  Uh, what? Well, I was... No, I was...
+[14:13.960 --> 14:19.520]  I was asking, why bother having a license but not the car? Like, I don't have either. That's just...
+[14:19.520 --> 14:23.980]  Oh, it's an ID. I can use the license for more than just driving. If I need to drive, I can drive the car.
+[14:24.160 --> 14:25.620]  If I'm in a scenario where I need to.
+[14:26.140 --> 14:29.320]  I mean, for someone with such shoddy ankles, I'm surprised you're not driving all the time.
+[14:30.780 --> 14:34.020]  I got, uh, Heelys. That's my move. I stick to the Greg.
+[14:34.340 --> 14:36.100]  Have you ever owned a pair of Heelys?
+[14:36.740 --> 14:38.540]  No, but I hear they're super heavy.
+[14:39.120 --> 14:46.500]  I bet you... you seem like the kind of kid that would buy a pair of Heelys because he saw, like...
+[14:46.500 --> 14:51.340]  I don't know, like a salamander in Heelys, and he thought, like, I could be cool like that salamander.
+[14:51.480 --> 14:52.440]  That's a terrible example.
+[14:52.620 --> 14:55.100]  Well, I was gonna say an ape or a monkey, but we've already been down that road.
+[14:55.100 --> 14:56.900]  And I don't want to pigeonhole you.
+[14:57.140 --> 15:02.540]  You saw, like, the Disney direct-to-DVD movie, uh, Heely Bud, or whatever.
+[15:02.920 --> 15:08.480]  Yeah. I mean, I think any animal, any cool animal, and I think I could do it, for sure.
+[15:09.080 --> 15:10.860]  I thought I could ice skate because I could walk.
+[15:11.300 --> 15:12.920]  I don't have, uh...
+[15:13.840 --> 15:18.980]  My concept of what is achievable based on what I know, uh, is exaggerated.
+[15:19.320 --> 15:22.080]  Dude, if I look at ice skates, my ankles hurt.
+[15:22.660 --> 15:22.840]  Oh.
+[15:23.540 --> 15:23.940]  Why?
+[15:23.940 --> 15:24.960]  I was terrible.
+[15:25.460 --> 15:30.200]  They're the most painful things I've ever strapped to my body in my life.
+[15:31.460 --> 15:33.340]  The second you put- and I've been ice skating a bunch.
+[15:33.560 --> 15:38.660]  The second you put them on, you're like, how does every part of my foot hurt in a different way all at once?
+[15:38.840 --> 15:47.580]  And I suddenly feel all 180 pounds or whatever of my weight on both ankles, and they feel ready to snap any second.
+[15:47.940 --> 15:52.900]  Yeah, you feel really weird. I've been ice skating a few times with, you know, shitty rental skates because I don't own any.
+[15:53.280 --> 15:58.060]  And something about putting your shoes back on after a, you know, a 90-minute ice skating sesh.
+[15:58.160 --> 16:01.380]  Your legs feel so weird after you're walking on flat ground again.
+[16:01.780 --> 16:02.600]  Yeah, it's really weird.
+[16:02.880 --> 16:07.680]  They're not great. I was never a good skater. Once again, bad ankles, not a good ice skater. Never was for me.
+[16:08.340 --> 16:11.500]  Oh, yeah, because you're a Canadian. You were, like, born on the ice, right?
+[16:12.100 --> 16:13.360]  Yeah, that's how it works.
+[16:13.600 --> 16:17.700]  You, uh, you got that little saucer of milk, and you're, like, slapping it around with your stick, and...
+[16:17.700 --> 16:18.300]  Goal!
+[16:18.520 --> 16:20.100]  Did you see what Andrew tweeted at me, Geoff?
+[16:20.420 --> 16:21.120]  I don't think so.
+[16:21.120 --> 16:22.720]  I'm not sure I follow you guys.
+[16:22.800 --> 16:25.180]  Okay, uh, he tweeted last night,
+[16:25.780 --> 16:27.800]  With no training, and while being out of shape,
+[16:28.420 --> 16:34.440]  I bet you, Gavin Free, that I could walk and or run the distance of three marathons in seven days.
+[16:34.940 --> 16:38.540]  Double or nothing on all standing bets that aren't pence-related.
+[16:38.980 --> 16:41.620]  Firstly, what's wrong with you?
+[16:41.720 --> 16:47.880]  Why do you always throw yourself into these insane scenarios that no one asked for?
+[16:47.880 --> 16:51.180]  You sat there looking at the ceiling one night, and you're, like,
+[16:51.280 --> 16:55.560]  Three marathons in a week? I don't have ankles left. Let's do it.
+[16:55.720 --> 16:57.860]  That's almost 80 miles, dude.
+[16:58.300 --> 17:02.380]  You can barely walk. You hurt your ankle getting a hot dog last week.
+[17:02.960 --> 17:05.360]  Uh, yeah. That's exactly what happened.
+[17:05.500 --> 17:12.300]  I was laying in bed, and I was talking to somebody about long-distance running, and, like, doing multiple marathons in a short amount of time.
+[17:12.420 --> 17:14.500]  And I was, like, I bet I could do three in a week.
+[17:15.240 --> 17:17.620]  I'm just gonna challenge Gavin to a challenge.
+[17:17.620 --> 17:19.920]  You know how far a marathon is, right?
+[17:20.120 --> 17:24.940]  Yeah, yeah. No, I did the basic research. I looked into it. I feel very confident I could do this.
+[17:25.680 --> 17:26.700]  I don't think it would be a problem.
+[17:27.100 --> 17:28.880]  Why do you feel confident you could do that?
+[17:28.940 --> 17:32.580]  I just do. I believe in myself. I don't know. I think I can do it.
+[17:32.600 --> 17:34.000]  What's the furthest you've run?
+[17:35.040 --> 17:40.160]  Oh, boy. Like, oh, I don't know. That's a question.
+[17:40.980 --> 17:45.240]  I've never done, like, a race. I've never done, like, a half-marathon.
+[17:45.240 --> 17:48.320]  I don't think I've ever done a structured run.
+[17:48.500 --> 17:51.880]  We have a thing called Terry Fox Day. You get to run for that during school.
+[17:52.360 --> 17:53.440]  You do it outside school, too.
+[17:53.700 --> 17:56.100]  You have the confidence of a much dumber man.
+[17:58.760 --> 18:11.200]  Okay, so you think, okay, I want to know, do you think in the last year, say the last 365 days, that you've walked, what is it, 78 miles?
+[18:11.200 --> 18:17.220]  Oh, definitely not in 2020, no. I mean, I did a competition where I could try to take the fewest steps possible.
+[18:17.700 --> 18:19.980]  I've definitely, I've done the reverse.
+[18:20.220 --> 18:22.580]  Yeah, that definitely set you back. That's ruined your average.
+[18:22.760 --> 18:24.000]  Yeah, for sure.
+[18:24.260 --> 18:30.320]  So you're saying in one week, you're going to walk or run further than you have in the last year?
+[18:30.720 --> 18:31.600]  Yeah, no, absolutely.
+[18:31.880 --> 18:36.960]  Possibly two years. How long does it take the average non-runner to run almost 80 miles?
+[18:37.460 --> 18:40.840]  No idea. I can do it in a week, though. I can do it three times in a week.
+[18:40.840 --> 18:41.740]  You can't.
+[18:42.260 --> 18:43.980]  No, I feel very confident about that.
+[18:43.980 --> 18:49.620]  Okay, so say you nail the first marathon on the first day. Let's say it takes you 10 hours to do.
+[18:51.580 --> 18:57.000]  You're going to be in pain. You're going to have blisters galore. You're not used to doing it. You're going to have a definite...
+[18:57.440 --> 19:06.420]  Okay, Eric's written, the average person could walk three miles per hour. Based on that, 80 miles would take 26 hours, 45 minutes.
+[19:06.800 --> 19:07.200]  Easy.
+[19:07.200 --> 19:13.680]  Okay, so you have a week to put in 26, let's say 27 hours of walking.
+[19:14.260 --> 19:18.680]  So break that down, Gavin. That's four hours a day?
+[19:19.260 --> 19:21.520]  Actually, yeah, that's not awful.
+[19:22.020 --> 19:26.520]  That's assuming I space it out and don't just try to do three marathons in the first three days.
+[19:28.380 --> 19:31.180]  That's what I would do. I'd just try to do as much as I could.
+[19:31.260 --> 19:36.140]  Why do you have this confidence? Why are you like this?
+[19:36.140 --> 19:43.520]  I can't explain that. I was laying in bed. The funny part is, I was laying in bed. I put the tweet out of like, I feel very good about this.
+[19:43.760 --> 19:48.620]  And then I stood up to get something from my kitchen, and it was very hard to walk.
+[19:51.800 --> 19:56.340]  My ankle's like 80% right now, I'd say. So it was a definite stumble down the stairs.
+[19:56.440 --> 20:01.720]  And I was like, that was an absurd challenge for me to make it this time, but I still feel good about it. I think I could do it.
+[20:01.720 --> 20:07.260]  I'd say there's just as good a chance that you'll just walk right into the ER and into surgery.
+[20:09.020 --> 20:14.400]  Yeah, plot a hospital that's about 80 miles away. Just go straight there.
+[20:14.760 --> 20:15.760]  That'll be the last lap.
+[20:16.300 --> 20:17.300]  Reconstructive surgery.
+[20:18.100 --> 20:19.540]  No, I don't think it would be that bad.
+[20:19.900 --> 20:26.000]  I think you're underestimating every single part of this. After walking for about 90 minutes, I assume you're gonna be tired.
+[20:26.000 --> 20:31.800]  You're gonna be like, oh god, this sucks. And you will not even be like 5% into the total.
+[20:32.260 --> 20:36.000]  I mean, I think it'll be bad, but I'm not gonna stop. I'm not gonna quit during this.
+[20:36.120 --> 20:40.320]  Okay, hold on. Obviously, Gavin, he's not gonna make it, right?
+[20:40.960 --> 20:41.760]  No, definitely not.
+[20:42.060 --> 20:46.480]  Maybe the real bet is the side bet between you and I as to how many miles he gets.
+[20:47.120 --> 20:47.300]  Yeah.
+[20:47.600 --> 20:51.020]  Well, I want in on that action. I'll double in on this.
+[20:51.080 --> 20:53.020]  You can't be in on this because you can affect the results.
+[20:53.040 --> 20:54.440]  I want to double in on this side action.
+[20:54.440 --> 20:56.860]  You're just gonna wall up until you win the bet.
+[20:57.900 --> 21:00.420]  What do you mean? No, I'm gonna, I'm saying I'm gonna do it.
+[21:00.480 --> 21:03.700]  I want in on whatever you two are betting, I want in on that because I'm gonna do it.
+[21:03.720 --> 21:06.340]  You can't make a side bet off of me and I get nothing for it.
+[21:06.420 --> 21:08.560]  Yeah, but you're directly in control of the results.
+[21:09.000 --> 21:12.560]  I'm saying that's a dangerous game for me to even know about this side bet.
+[21:12.620 --> 21:16.260]  You two are idiots because I could work with either of you, depending on the bet.
+[21:16.440 --> 21:20.360]  I agree with Eric. Eric says Andrew can only bet the maximum. Yeah, you can only bet...
+[21:20.360 --> 21:29.280]  Yeah, that's what I'm saying. I'm gonna do it. But my point is, if I wanted to, I could then work with you, Geoff, or Gavin, now that I know that you have a side bet.
+[21:29.600 --> 21:33.480]  And I want a cut of that. No, your only challenge is to walk 78 miles.
+[21:33.720 --> 21:36.220]  No, but I'm saying you shouldn't have even told me you have a side bet.
+[21:36.400 --> 21:42.040]  That's a mistake by both of you because I could weasel my way in and try to get part of this deal, whatever's on the table.
+[21:42.240 --> 21:45.300]  Nah, that's okay because our real side bet will be the side bet of our side bet.
+[21:45.420 --> 21:47.260]  Yeah, you don't know about the true side bet.
+[21:47.260 --> 21:54.060]  Oh, shit. But you would want me to know. My point is you'd want me to know because then I could let you win. That's my point.
+[21:54.200 --> 21:59.220]  Alright, you're not gonna... listen. You need to be focused on one thing.
+[21:59.860 --> 22:03.560]  Oh, I'm already focused. Walking 79 miles or whatever it is.
+[22:03.560 --> 22:07.820]  My first focus is healing my ankle. I might be good by Monday, but we'll see.
+[22:08.260 --> 22:12.660]  Unless you try to walk down those stairs again or cook another hot dog.
+[22:13.800 --> 22:21.800]  In my head, I make the tweet, Gavin says yes, then I say we start on Monday. I don't even have a way to count steps at the moment.
+[22:21.940 --> 22:23.160]  I ain't starting shit.
+[22:23.660 --> 22:31.740]  No, I like to be inclusive. We. Not literally, we. I know I'm the one walking, but it's part of the story. We're going on an experience together.
+[22:32.140 --> 22:39.880]  If I were you, I would honestly pick somewhere that is that far away. Or at least somewhere that's half the distance to walk back.
+[22:39.880 --> 22:43.880]  Otherwise, you're gonna be aimlessly walking, and you're just gonna give up and go home.
+[22:44.160 --> 22:47.960]  I feel like you could do this all in one go. I think you should just bring a ton of food.
+[22:48.320 --> 22:49.280]  No. A little tent.
+[22:49.800 --> 22:55.500]  I'm not doing three marathons. That's absurd. I can't do that in one go. I could spread it out, though.
+[22:56.020 --> 23:00.920]  I'm gonna go the other way. I'm gonna say that you should embrace the monotony.
+[23:00.920 --> 23:07.340]  You should go to a high school or middle school that has a track outside.
+[23:07.460 --> 23:10.400]  You know, the fucking circular quarter mile track or whatever it is.
+[23:10.940 --> 23:23.560]  And then only count your walking on that, and then record you losing your mind as you walk 1,700,000 million laps around that track.
+[23:23.740 --> 23:28.000]  I'm not even sure if I'm gonna leave my house to do this. I think I could just walk around my house.
+[23:28.980 --> 23:31.020]  You're gonna walk a hole through the floor.
+[23:31.360 --> 23:34.460]  Yeah, you're gonna drop through into the place below.
+[23:35.760 --> 23:38.760]  I'll just keep walking. If I start at the top floor, there's no problem.
+[23:39.300 --> 23:45.600]  You are so up and down. You are a man who doesn't want to walk to his kitchen to make a waffle.
+[23:46.420 --> 23:48.700]  Now say you're gonna walk three marathons there?
+[23:49.000 --> 23:55.980]  Yeah. Well, it's the inconvenience of the kitchen to the wall. I have a waffle maker now in my kitchen, by the way.
+[23:55.980 --> 23:56.960]  Oh, you got a second one?
+[23:57.240 --> 24:02.480]  Yeah, I got a second one. It's now in the kitchen. So I'm good to go. No matter what floor I'm on, I'm ready.
+[24:05.080 --> 24:09.760]  Yeah, I mean, if I put a challenge around something, I feel very confident I could do this.
+[24:10.140 --> 24:11.820]  Okay, so you're gonna try Monday for a week?
+[24:12.200 --> 24:18.260]  Let's see. I'll make the ruling on Sunday. It doesn't matter, because by the time people hear this, the results will have happened.
+[24:19.040 --> 24:21.460]  So let's say I'll make a call on Sunday.
+[24:22.000 --> 24:23.240]  No, you won't. You have a week.
+[24:23.240 --> 24:25.860]  Well, yeah, when would this come out?
+[24:26.680 --> 24:30.860]  You're gonna have to stop running your marathon to record the next f***face.
+[24:31.200 --> 24:33.320]  Oh, yeah, well, yeah, I would, but I'm saying...
+[24:33.320 --> 24:35.960]  Well, we're not recording next week because it's Thanksgiving.
+[24:36.040 --> 24:37.060]  Oh, because it's Thanksgiving.
+[24:37.680 --> 24:43.200]  I didn't even think about that. I just meant more of like how many episodes we have backed up by the time people hear this, if I start on Monday.
+[24:43.200 --> 24:45.340]  Oh, I see what you mean. That's a good...
+[24:46.700 --> 24:49.880]  Hellman's believes they can turn any mayo hater into a lover.
+[24:50.260 --> 24:57.360]  So if you know someone who thinks mayo equals bland, show their taste buds the truth and challenge them to try Hellman's Flavored Mayo.
+[24:57.580 --> 25:04.340]  With irresistible flavors like Hellman's Spicy Mayo, Garlic Aioli, Chipotle, and Italian Herb, they'll be eating their words.
+[25:04.740 --> 25:08.420]  Challenge haters to try Hellman's Flavored Mayo and get them to eat their words.
+[25:08.760 --> 25:10.960]  Learn more at hellmans.com slash eatyourwords.
+[25:12.540 --> 25:15.920]  Now at Chipotle, our all-new Chipotle Honey Chicken.
+[25:16.220 --> 25:18.280]  Brings Chipotle heat with a touch of sweet.
+[25:18.720 --> 25:25.000]  Seared smoked peppers and savory Mexican spices, blended with a hint of pure honey for a perfectly balanced sauce.
+[25:25.360 --> 25:30.260]  All combined with fresh tender chicken hot off the grill, served up in your favorite burrito or bowl.
+[25:30.860 --> 25:32.220]  New Chipotle Honey Chicken.
+[25:32.580 --> 25:34.580]  Takes heat and sweet to a whole new level.
+[25:34.900 --> 25:37.040]  But it's only at Chipotle for a limited time.
+[25:37.380 --> 25:39.200]  Order now in the app for pickup or delivery.
+[25:39.200 --> 25:40.800]  Chipotle. For real.
+[25:43.580 --> 25:46.700]  The Twisted Tale of Amanda Knox is on Hulu.
+[25:47.440 --> 25:50.720]  In 2007, Amanda Knox was studying abroad in Italy.
+[25:51.260 --> 25:54.580]  She had no idea her dream would turn into a nightmare.
+[25:55.140 --> 25:59.460]  Inspired by the actual events of her wrongful conviction and 15-year fight for freedom,
+[25:59.920 --> 26:03.880]  watch the new Hulu original series, The Twisted Tale of Amanda Knox.
+[26:04.260 --> 26:08.040]  Now streaming on Hulu and Hulu on Disney Plus for bundle subscribers.
+[26:08.040 --> 26:09.300]  Terms apply.
+[26:11.680 --> 26:12.240]  Point.
+[26:16.830 --> 26:23.490]  This, uh, hole-a-day season, may your home be filled with joy.
+[26:24.090 --> 26:27.870]  And may your butthole be as clean as the fresh-driven snow.
+[26:28.390 --> 26:30.810]  Thanks to Hello Tushy. I don't write this.
+[26:31.530 --> 26:33.730]  Don't get stuck with a post-Turkey Day disaster.
+[26:33.730 --> 26:40.770]  Protect your pipes, not your lung pipes, but your anal pipes, with a Hello Tushy bidet.
+[26:41.290 --> 26:46.730]  For years, bidets have cost thousands of dollars. That's true. I've looked into it, uh, in the past.
+[26:46.830 --> 26:52.590]  And, uh, or you have to buy an expensive plane ticket to Europe and then stay in a fancy hotel.
+[26:52.770 --> 26:59.810]  Or convince some rich, uh, European, uh, like dilettante to allow you into their home to use their bidet.
+[26:59.810 --> 27:06.750]  And that's, uh, while a cool solution to a dirty butthole problem, it's, uh, it's not super convenient.
+[27:07.410 --> 27:14.170]  And, uh, I don't know if you've ever had to hold it on a flight from America to Europe, but it's not always possible.
+[27:14.670 --> 27:21.290]  Much easier just to get the Hello Tushy, uh, at your own home and save you, uh, you might not even have a passport, for God's sakes.
+[27:21.670 --> 27:22.710]  Get Hello Tushy.
+[27:22.710 --> 27:30.070]  Every Hello Tushy bidet attachment comes with a 60-day risk-free happy butt guarantee and a 12-month warranty.
+[27:30.290 --> 27:32.870]  And might I add, it's still cheaper than going to Europe.
+[27:33.310 --> 27:37.450]  Hello Tushy attaches to your existing toilet, which you, uh, likely already have.
+[27:37.530 --> 27:40.510]  If you're not, if you don't own a toilet, get a toilet first.
+[27:40.610 --> 27:45.410]  Or get the Hello Tushy and then bring it around with you wherever you go to the bathroom.
+[27:45.490 --> 27:51.050]  I don't know if you're using rest stops, uh, gas stations, maybe a friend's house, maybe the library.
+[27:51.050 --> 27:54.930]  Throw it in your backpack, bring it with you, connect, it's gonna take you a few minutes.
+[27:55.070 --> 27:57.830]  Easier if you have your own toilet, but not a requirement, I wouldn't say.
+[27:58.170 --> 28:02.230]  No electricity required, no additional plumbing needed, so it's gonna be easy to install,
+[28:02.370 --> 28:05.650]  whether it's your toilet or somebody else's, or the public library's, whatever.
+[28:06.170 --> 28:11.350]  Uh, but it cleans your butt with a precise stream of fresh water, and it's only $79.
+[28:12.190 --> 28:17.730]  Get 10% off plus free shipping right now at hellotushy.com slash face.
+[28:17.730 --> 28:23.790]  That's hellotushy.com slash face for 10% off and free shipping.
+[28:24.130 --> 28:26.370]  hellotushy.com slash face.
+[28:28.470 --> 28:31.870]  How far ahead are we? I don't even, I've lost all perspective on that.
+[28:31.890 --> 28:33.910]  I think we're just like one week ahead.
+[28:33.910 --> 28:37.390]  Yeah, I mean, with all the shelves and stuff, I think we're like a week ahead.
+[28:38.510 --> 28:43.770]  Speaking of, I'm recording in my bedroom today because they're doing work on the shelves right now.
+[28:44.890 --> 28:47.950]  Hold on, I'm gonna send you guys a photo, because I knew you'd want to see it.
+[28:48.030 --> 28:54.130]  So this is why, so if I sound a little different, it's because I'm in my bedroom, which is very hot in the daytime, I've learned.
+[28:54.210 --> 28:58.910]  While you're getting that, can we just mention that, um, now that Eric's here, that we moved the entire podcast
+[28:58.910 --> 29:02.910]  so that Eric could be in this recording, and he was 10 minutes late anyway.
+[29:03.150 --> 29:08.390]  Trust me when I say I did not choose to be late, Gavin. I had a meeting that I absolutely could not get out of.
+[29:09.590 --> 29:11.830]  That's what the fuck your shelf room looks like?
+[29:12.890 --> 29:16.430]  I love that's now the feature of the room. It's the shelf room.
+[29:16.810 --> 29:22.110]  Yeah, it's getting the shelves painted. So obviously I can't be in there recording. It's paint fumes.
+[29:24.470 --> 29:29.790]  Dude, everything is the same color in that room. The floor, the ceiling, the shelves, the walls.
+[29:30.510 --> 29:34.490]  Okay, well, so first off, the floor is not the same color. The floor is hardwood.
+[29:34.610 --> 29:39.310]  It's just covered with plastic that's painted blue from the overspray from the paint machine.
+[29:39.950 --> 29:41.650]  There'll be a wooden floor, don't worry.
+[29:42.070 --> 29:43.810]  Oh, it's just so uniform. It's great.
+[29:43.950 --> 29:49.250]  And then the behind me wall, where I'm standing, is wallpaper, or it will be when the fucking wallpaper comes in.
+[29:49.570 --> 29:54.970]  And the wall behind the shelves is actually wooden slats. You just can't see it because it's all covered up by...
+[29:54.970 --> 30:01.530]  It's not all blue. It's just covered up by plastic sheeting that got sprayed blue when they were painting everything else.
+[30:01.670 --> 30:05.650]  So you're gonna have to move your recording again for when the wallpaper guy is there.
+[30:07.130 --> 30:13.610]  Yes, that is 100% correct, because the wallpaper goes around my desk. Yeah, I'm not done jostling shit around.
+[30:13.970 --> 30:19.150]  Also, while you're in that Discord looking at that, if you scroll up a bit, Eric found the Ass Orgy license plate.
+[30:19.450 --> 30:20.790]  Yeah, I saw.
+[30:21.190 --> 30:22.470]  It's fucking cool. We'll have to put that on Instagram.
+[30:22.890 --> 30:24.190]  Why is your chandelier so low?
+[30:25.690 --> 30:26.790]  It's a low room.
+[30:28.510 --> 30:30.930]  I guess the question really is why is there a chandelier in the room.
+[30:31.050 --> 30:32.370]  Yeah, I think Andrew's right.
+[30:32.990 --> 30:35.230]  Well, I mean, usually you put a table under a low light.
+[30:35.230 --> 30:41.710]  Yeah, it has a... well, in a more useful time, when I'm in the room, there's a big coffee table there.
+[30:42.110 --> 30:48.010]  That's like a three circle coffee table. So it's not like... you couldn't walk into it. You'd go around it.
+[30:48.030 --> 30:51.670]  And also, it's there because it was there when I bought the house, and it works.
+[30:51.950 --> 30:56.710]  I'm not in the business of taking out lights that perform their function perfectly well.
+[30:57.290 --> 31:02.830]  No, I get it. Did I ever post the pillow photo? Does Eric know about the pillows?
+[31:02.830 --> 31:06.270]  Yeah, why don't you fill Eric in about your pillows?
+[31:06.610 --> 31:08.690]  Eric, how many pillows do you sleep under?
+[31:09.510 --> 31:11.010]  Like, how many actual pillows?
+[31:11.330 --> 31:13.950]  Yeah, like when you go to bed, how many pillows do you use?
+[31:13.970 --> 31:14.750]  I use one pillow.
+[31:15.030 --> 31:16.570]  That's absurd to me.
+[31:16.790 --> 31:17.270]  Why?
+[31:18.050 --> 31:19.210]  I use eight.
+[31:22.030 --> 31:24.330]  What? What do you do with eight pillows?
+[31:25.390 --> 31:30.270]  Okay, well, before we get there, I tweeted out how many pillows do you use with no context.
+[31:30.790 --> 31:34.070]  I was shocked by how many people use one or at most two.
+[31:34.330 --> 31:37.570]  There were very few that went above. It was like 90% one.
+[31:37.590 --> 31:42.510]  You're shocked by normal. You're shocked by normalcy.
+[31:43.030 --> 31:45.690]  It's like asking someone, how many pairs of gloves do you wear at a time?
+[31:46.030 --> 31:47.830]  One? That's insane.
+[31:48.270 --> 31:51.570]  Yeah, but the bed has four pillows on it, typically, or at least two.
+[31:51.850 --> 31:53.530]  So I'd assume you'd use the pillows you had.
+[31:53.530 --> 31:56.810]  Now, if you're sharing the bed with someone, I get there's a distribution of pillows.
+[31:57.090 --> 32:01.650]  But if it's just you and the bed, I don't see why I don't use all the pillows available to you at that time.
+[32:03.010 --> 32:06.750]  So this is my pillow stack. This isn't a full eight. This is like maybe six or seven.
+[32:06.850 --> 32:08.630]  I had one on the floor. I had one on the side.
+[32:09.150 --> 32:12.530]  It was a full stack. But this is my pillow formation when I go to bed.
+[32:13.110 --> 32:16.930]  Wait, hang on. Wait, wait, wait. Hang on. What the fuck? Hang on.
+[32:17.510 --> 32:17.670]  Yeah.
+[32:17.710 --> 32:18.030]  Wait.
+[32:18.410 --> 32:19.990]  You were us last week, Eric.
+[32:20.330 --> 32:21.090]  I don't understand.
+[32:22.030 --> 32:24.930]  Also, do you have like little choo-choo trains on your sheets?
+[32:25.290 --> 32:25.850]  Or what is that?
+[32:25.990 --> 32:30.310]  They're little cars with Christmas trees, Eric. I'm a child. I like Christmas.
+[32:30.510 --> 32:31.530]  Do you sleep vertically?
+[32:32.150 --> 32:36.130]  That's what they said. Here's a little side shot. I thought this was funny for comparison.
+[32:36.610 --> 32:42.150]  My top pillow is above my lamp on my night table.
+[32:42.510 --> 32:47.210]  I like that they're all different sizes. They're all like different pillows with different cases on.
+[32:47.210 --> 32:50.850]  Because I guess no one sells a nine pillow case set.
+[32:51.970 --> 32:57.330]  I don't understand. Some of these pillows look like rolled up sheets. What's going on?
+[32:57.590 --> 33:02.850]  No, they're just kind of compressed. The bottom is the two thicker pillows, and I use that as a structure.
+[33:03.550 --> 33:05.030]  We went over this last week.
+[33:06.330 --> 33:12.930]  I have to say this. I couldn't get my head around how he sleeps, so I drew a diagram of what I think he's doing.
+[33:13.330 --> 33:14.990]  Yeah, it's a great diagram.
+[33:17.450 --> 33:23.870]  Honestly, that's 100% accurate. Look, he's looking up, standard ears. This all makes sense to me.
+[33:25.310 --> 33:32.950]  And also, note in the picture that I drew, I had to redact the amount of pillows that he actually has.
+[33:33.070 --> 33:36.950]  I had to condense it down to five, because eight looked too stupid.
+[33:39.090 --> 33:44.590]  Well, so I've been observing now my sleep. I never really put any thought into it, and I have an explanation.
+[33:44.590 --> 33:46.690]  I have a system that I didn't know I had.
+[33:47.290 --> 33:52.390]  So, to answer your question, Eric, I kind of lean into it. I make like a pillow mountain. I lay into it.
+[33:53.750 --> 33:55.230]  Where's this photo I'm looking for?
+[33:55.330 --> 34:03.510]  What happens, though, is with all the pillows, is that over time, my bed starts to slide out from the wall.
+[34:04.210 --> 34:06.770]  Here we go. This is a clear example.
+[34:07.150 --> 34:12.130]  So my mattress, my bed, starts to separate itself from the wall.
+[34:12.930 --> 34:17.930]  And as time passes, more and more pillows fall down the hole.
+[34:18.790 --> 34:22.410]  So every time you lose a pillow to the hole, you just buy three more pillows?
+[34:22.850 --> 34:24.030]  No, no, no, no, no, no.
+[34:24.030 --> 34:31.910]  What happens, Geoff, is my pillow tower progressively gets naturally smaller as my bed gets further and further away from the wall.
+[34:32.270 --> 34:38.970]  Once my pillows are then level with the bed, that is when I pull all the pillows out, and we reshuffle.
+[34:38.970 --> 34:41.690]  We put the deck back in, we push the bed back to the wall.
+[34:41.930 --> 34:47.930]  It's like an automatic pillow-replacing dispenser thing. It's like a typewriter for sleeping.
+[34:48.270 --> 34:49.670]  Yes, it's great.
+[34:50.030 --> 34:59.470]  I'm trying to... do you put your head on the pillows, but you... I'm trying to like figure out...
+[34:59.470 --> 35:03.110]  Is it like your whole upper body is like laying on the pillows?
+[35:03.690 --> 35:08.370]  Yeah, my shoulder and my head are kind of near the top, and I just kind of fall in.
+[35:08.370 --> 35:12.810]  Kind of near the top? So the rest of your body is on the other six pillows?
+[35:13.530 --> 35:20.330]  No, I'd say the majority of my body is on the bed, but like my shoulder to kind of like rib area is all pillowed up.
+[35:20.450 --> 35:26.610]  In my head, Eric, he's like rugby tackling the stack of pillows, and that's what's causing the mattress to shoot out.
+[35:26.690 --> 35:33.050]  I'm sorry, I'm sorry. He just said that his rib area is all pillowed up.
+[35:33.470 --> 35:36.030]  Yeah, I'd say like halfway to the ribs are all pillows.
+[35:36.030 --> 35:45.230]  Now here's the thing. You're changing your song and dance, because you said a majority of your body is on the bed, and now it sounds like a 50-50 split.
+[35:45.910 --> 35:47.450]  I have a very long back.
+[35:49.610 --> 35:55.750]  On the bright side, Andrew, they're gonna invent a new version of scoliosis and name it after you.
+[35:55.890 --> 36:01.590]  No, I'm gonna be fine. This is... my bed naturally starts moving away from the wall.
+[36:02.010 --> 36:08.210]  People are gonna be taking their 13-year-old kids to the doctor because they can't stand up straight. They're gonna go like, you have scoliandru. That's not good.
+[36:08.310 --> 36:09.490]  Yeah, you got long back.
+[36:10.490 --> 36:15.950]  Honestly, I'm starting to realize I think I like four in the hole, four on the bed is where I'm at. I think that's like the perfect height.
+[36:16.270 --> 36:17.230]  Eight is a little bit high.
+[36:17.610 --> 36:19.690]  Have you tried just one or two?
+[36:20.010 --> 36:21.070]  Oh yeah, that's horrible.
+[36:21.590 --> 36:22.350]  Why is that horrible?
+[36:22.730 --> 36:27.170]  Awful. Too low. I don't know. I don't like too low to the ground. I want some elevation.
+[36:27.170 --> 36:42.770]  Gavin or Eric, can I ask you as humans if you ever encounter this? A problem I have with pillows while we're on the subject is I find that often, especially if it's at a hotel or something, that one pillow is not enough, but two is too many.
+[36:43.310 --> 36:43.530]  Yes.
+[36:44.070 --> 36:44.490]  Yeah.
+[36:45.150 --> 36:46.010]  It's the worst, right?
+[36:46.010 --> 36:57.310]  What I do is I get a towel from the bathroom and I fold that up and I use that because it's like half of the density or whatever of another hotel pillow.
+[36:57.430 --> 36:58.510]  You create a half pillow.
+[36:59.030 --> 37:03.390]  Yeah, I create a half pillow and then I put a pillow on that and I go, ah, perfect pillows.
+[37:04.490 --> 37:06.670]  The human race has become so wet.
+[37:06.670 --> 37:16.450]  I'm going to fucking try that, dude. That sounds like a... because that is something that plagues me. I'm going to absolutely try that next time I go somewhere that has unfamiliar pillows.
+[37:16.790 --> 37:20.210]  In 2022, you've got this pillow thing. Lock down, man. It's going to be great.
+[37:21.350 --> 37:31.230]  The first people walking the earth were like, where do you want to sleep? Ah, that rock. Now we're like folding up hotel room towels to make the pillow stack the perfect height.
+[37:31.670 --> 37:42.610]  I just use all the pillows. Any hotel I'm in, it's no problem. Or if I'm in an Airbnb, use all the pillows because it's never enough for what I typically use. It's great. Zero thought has to be put into it.
+[37:42.730 --> 37:44.610]  So when you book a hotel, do you order more pillows?
+[37:45.190 --> 37:50.290]  No, I just use whatever's there. I typically have two decorative and two normal. I'll just use all of them.
+[37:50.570 --> 37:52.970]  Oh, you don't want to put your face on a decorative one.
+[37:52.970 --> 37:56.250]  Oh yeah, that's what that's... they don't wipe their tears off those.
+[37:57.290 --> 38:01.390]  Nah, it's all bad. It's all bad. None of it's good.
+[38:01.630 --> 38:04.970]  Do you ever... like you never have a good night's sleep then because there's like...
+[38:04.970 --> 38:05.710]  Oh, I sleep so good.
+[38:06.190 --> 38:08.130]  At a hotel without eight pillows?
+[38:08.690 --> 38:19.230]  Nah, I make it work. I make it work. I do the pillows for comfort, Geoff. It's not needed. It's not an needed eight stack. It's for me. I do that for me. I just enjoy it.
+[38:19.230 --> 38:23.230]  I need to have a time lapse of you slowly wearing your tower of pillows down.
+[38:24.230 --> 38:25.030]  Oh God.
+[38:25.410 --> 38:27.470]  Another one slips in and your head gets lower.
+[38:27.870 --> 38:28.070]  Yeah.
+[38:28.310 --> 38:29.270]  Put another pillow on top.
+[38:29.330 --> 38:35.090]  As I'm walking my three marathons, I'll take a photo a day of where my current bed pillow situation is.
+[38:35.370 --> 38:40.930]  When you used to go to do sleepovers at your friends, did your dad have to drive the truck to bring all the pillows?
+[38:41.570 --> 38:43.130]  Yeah, you fall on the back.
+[38:44.990 --> 38:51.010]  No, a sleeping bag is fine. I was a sleeping bag sleepover. That's what people do, right? You bring your sleeping bag.
+[38:51.250 --> 38:52.330]  That's where you hide all your pillows.
+[38:54.190 --> 38:55.070]  Yeah. Exactly.
+[38:55.390 --> 39:05.030]  Let's say ten years into the future, you're married, you've got a kid, your wife is next to you in the bed, and you are like an entire story above her.
+[39:05.030 --> 39:11.230]  Is she going to roll over for a little cuddle and she's going to have to climb up to you?
+[39:11.510 --> 39:18.030]  You know what? Avalanches happen, okay? And it's just going to be part of the experience. I can't control it.
+[39:18.210 --> 39:21.270]  You just wake up and she's died because all the pillows collapsed?
+[39:21.290 --> 39:22.990]  No, nobody... she is going to enjoy...
+[39:22.990 --> 39:25.190]  Because Andrew fell two stories on top of her?
+[39:25.610 --> 39:31.910]  Is what that is. Nobody here has tried it but me. You're knocking something you haven't attempted, it's like the waffle maker all over again.
+[39:32.210 --> 39:32.810]  This is a joy.
+[39:33.130 --> 39:33.510]  That's fair.
+[39:33.510 --> 39:34.250]  This is a joy.
+[39:34.450 --> 39:34.950]  That's fair.
+[39:35.450 --> 39:35.830]  That's true.
+[39:36.010 --> 39:37.030]  Geoff, Geoff.
+[39:37.070 --> 39:37.750]  Yeah, yeah, yeah.
+[39:38.170 --> 39:39.290]  What's your flat tire story?
+[39:39.930 --> 39:45.810]  Oh, shit. I can tell that in a second. Hey, Andrew distracted us but did you want to do the intro now, Gavin?
+[39:46.370 --> 39:46.850]  Oh, yeah.
+[39:48.450 --> 39:50.350]  Uh, hey, welcome... no.
+[39:51.090 --> 39:52.650]  You guys didn't do a fucking intro?
+[39:53.390 --> 39:55.350]  No, I tried to, we started to.
+[39:56.270 --> 39:57.830]  What happened? No, what happened?
+[39:58.170 --> 40:01.710]  What happened was we didn't have our producer here to produce us.
+[40:01.710 --> 40:03.910]  Yeah, as we haven't for the last three weeks.
+[40:04.430 --> 40:07.770]  Yeah, I've been... I was off last week. I mean...
+[40:08.270 --> 40:09.150]  That's fair, that's fair.
+[40:09.250 --> 40:18.630]  That was... you gotta take time for yourself, Gavin. But this week, I got suckered into a meeting where I went, well, this should end on time and then guess what happened with the meeting?
+[40:19.450 --> 40:23.350]  A lot of people had a lot to say and it didn't end on time.
+[40:23.530 --> 40:24.470]  Was it worth your time?
+[40:24.950 --> 40:30.050]  Yeah, it was one that I had to be in or I would probably be in like... I would be in like a dire situation.
+[40:30.490 --> 40:30.810]  Oof.
+[40:30.810 --> 40:31.850]  Yeah, so...
+[40:32.590 --> 40:33.270]  Well, we don't want that.
+[40:33.530 --> 40:33.710]  No.
+[40:33.710 --> 40:34.890]  Why did we skip the intro?
+[40:35.210 --> 40:36.650]  No, just have Eric do it.
+[40:36.870 --> 40:51.510]  Hey, what's going on? Welcome to F*** Face, the only podcast where Andrew, Gavin, and Geoff get together every week to talk about the crazy farts, the mountain of pillows, and the nutso license plates that they see in the world.
+[40:52.170 --> 40:55.970]  I'm your producer, Eric, and I'll... Geoff, take it away.
+[40:56.650 --> 41:07.090]  My butt, speaking of, my butthole has been, it's like been the Sahara Desert of farts lately. I am, I got nothing going. I got no, no beans in the tank.
+[41:07.610 --> 41:16.830]  I've been meaning to tell you, Geoff, once again, like I meant to bring this up last week. I don't think I did. When I was on the prescription painkillers, it was like steroids for my ass.
+[41:17.070 --> 41:24.170]  I was letting them rip left and right and it also made me constipated, so there's no risk. It was great. It was a fantastic combination.
+[41:24.170 --> 41:36.330]  I have, I have a difficulty there and I can't allow myself to get constipated because of my colon disease. So like constipation is like, uh, that'll put me in the hospital, uh, potentially.
+[41:36.490 --> 41:43.630]  So I have to avoid constipation at all costs. But usually that does not affect, it doesn't affect my, my, my, uh, my output.
+[41:43.910 --> 41:49.890]  I'll be honest though, when you described your ass as the Sahara Desert, I didn't know whether you were talking hot, big, or barren.
+[41:49.890 --> 41:56.790]  There was a really odd choice. All the above maybe, yeah. But it's barren. Well, sandy. Yeah, it's not sandy, it's pretty clean. Dry.
+[41:57.510 --> 42:06.070]  Um, yeah, I, I, I don't know what it is because I haven't, I haven't really changed my diet lately, but I just like, I got nothing.
+[42:06.390 --> 42:16.870]  And, you know, I've been making a point of recording them all and there's just been like, it's just been fucking, I can't, well, I can't even make that sound because that sounds like a fart.
+[42:16.870 --> 42:23.510]  It hasn't even been that. It's just been like, it's been like this. It's been like this. Your similes are just off base today. Yeah, like that.
+[42:23.850 --> 42:38.330]  Yeah, my, my lack of farts are like... Oh man. So I was, I was riding my bicycle as I do, uh, and we have a... Pedaling? Yeah, yeah, yeah.
+[42:39.070 --> 42:46.390]  Uh, always pedaling, always pedaling, unless I'm going downhill. Uh, so I, you know, I try, I try to ride like 24 to 30 miles a day depending on how much time I have.
+[42:46.830 --> 42:56.830]  And then we have this place in Austin called Town Lake. If you're ever in Austin and you're on Town Lake, watch out, I'm gonna run you the fuck over if you're walking slow and in the middle of the path because, uh, that's rude.
+[42:57.790 --> 43:07.350]  Um, and I was, I rode down to the, to Town Lake and I stopped for a second because it was very pretty and I wanted to sit, uh, I sat on a bench and I wanted to look at the water.
+[43:07.350 --> 43:20.070]  There were people, like, stand up paddle boarding and canoeing and it was just like, it was lo- people fishing and shit. It was lovely and I just sat and I watched people for about 15 minutes and I hopped back on my bike and my back tire was dead-ass flat.
+[43:20.310 --> 43:29.790]  Which fuckin' sucks. And, uh, I looked, uh, and this is, believe it or not, and the whole time I've had this, this bike, this is not a problem I've encountered, which is a flat tire on the road.
+[43:29.790 --> 43:44.010]  Like, I've routinely come, uh, go into my shed to get my bike and have a flat tire and then have to change it or, or deal with that. Um, I had a bad run there where I had four flat tires in two weeks and, uh, it was fuckin' brutal.
+[43:44.010 --> 44:01.230]  Um, but anyway, so, uh, I got this flat tire and so I looked and I'm, like, a little under two miles from the closest bike store. Bike repair shop. And it's, like, a national chain. I won't, I won't say it because I don't want it to seem like I'm disparaging them.
+[44:01.770 --> 44:16.250]  Uh, but I was like, fuck, and it's COVID and the whole thing. So I called them and I said, hey, I just got a flat tire on the lake, uh, or on the, the trail. Is it okay? Can y'all fix it? And they're like, yeah, no, no problem. It's not that busy. Bring it in. Uh, we'll happily help ya.
+[44:16.630 --> 44:26.270]  And then I didn't, like, Emily was at work and so I don't, I didn't have a way to get the bike there. I, I don't, I don't know if I can call, like, a COVID Uber bike delivery thing.
+[44:26.270 --> 44:41.450]  So I was like, it's only two miles. I'll just walk it. And so I walked, uh, uh, two miles, uh, which took a while to push a bike two miles with a flat tire. Uh, it wasn't super fun and I had to push it down a major, uh, fast road for a while.
+[44:41.450 --> 44:52.410]  This is your, your bike with a motor, right? Yeah, it felt like a heat. So this is, yeah, this is the motor is now turned against you. Your lack of effort in your day to day biking has now turned and has created way more effort.
+[44:52.610 --> 45:04.650]  It actually even has a setting on the bike where if you want to, like, if you want to walk it and get a little help, you can like do this. Uh, you can like push this button three times and hold it down and it, and it helps you. It goes like two miles an hour while you push it.
+[45:04.650 --> 45:16.710]  It helps you walk the bike? Yeah, it just like, it like spins the motor slowly. That did not work with a flat tire. Uh, so it was actually, these things when, when they're not functioning as bikes, they're pretty fucking heavy.
+[45:17.170 --> 45:26.730]  Anyway, so it took me forever, but I walked the bike there and I get in and the guy goes, oh, it's an e-bike. And I go, yeah, I told you on the phone. It's an e-bike. And he goes, yeah, yeah, yeah.
+[45:27.230 --> 45:38.470]  And he goes, I was like, can you still fix the tire? It's just a fucking tube. And he goes, yeah, yeah, no problem at all. Hold on. And he takes the bike in. These people were lovely, by the way. It's going to sound like I'm besmirching them, but I'm not. They were lovely.
+[45:38.930 --> 45:52.490]  Uh, and after a while he comes out and he goes, uh, hold on a second. Uh, this is a different tire size than we carry. And I'm thinking, I didn't, I've had, I've been to like 30 bike stores in Austin. I've had my bike fixed by different places. I've never encountered the tire size problem.
+[45:52.990 --> 46:02.550]  Uh, but he's like, yeah, it's a 27.5. We don't, let me see. Yeah, we only have those in a Presti valve. Uh, so, uh, that's not going to work. You got a Schrader valve.
+[46:02.550 --> 46:21.570]  So, uh, I'm afraid I can't do it. Uh, and I'm like, well, my house is like six or seven miles from here. I would, I really don't want to walk at home. And he's like, well, if you want to get a tube, like if you want to go buy a tube from another bike store and bring it back, we'll still fix it for you.
+[46:22.670 --> 46:41.410]  And I'm like, fucking Christ. And while I'm doing that, some other guy comes over and he's like, and I go, you know what? I have a tube at home. I bought a box on Amazon the other day. So can I like get an Uber home, get a tube, bring it back to you, give it to you, and then you'll fix it. And he goes, and they go, yeah, yeah, yeah, yeah, we'll do that.
+[46:41.710 --> 47:07.350]  While I'm like being entered into the system and stuff. And I'm like, that's not terrible. You know, it's not too far. It's, it's annoying. Um, but that's not the end of the world. I'll still get my bike fixed. And, uh, and he goes, uh, some other guy comes over and he goes, uh, let me, let me take a look at this bike. And he goes, oh, you know what? One of your sprockets is busted. Uh, we can fix that for you. No problem. And I go, oh, okay, cool. Add it to the repair bill. And then some, uh, other guy comes over and he goes, uh, I don't know that we have that sprocket diameter.
+[47:08.590 --> 47:27.750]  And I go, excuse me? And he goes, let me check. And he goes away for like 10 minutes and he comes back and he goes, yeah, we don't have the right sprockets for that. And I go, we'll just take it out. It's got a bunch of other sprockets. And he goes, yeah, yeah, we can do that. And then you'll just, you'll just get it fixed by somebody else. And I'm like, yeah, I just, I just need to get it home. It'll, it'll still drive home with missing one sprocket.
+[47:28.210 --> 47:49.910]  And then he, and then the other, it's like three different dudes and they just like keep rotating on fucking me. And one of the other three, one of the other three dudes in the fuck Geoff pyramid, uh, he comes over the fuck Geoff triangle comes over and he goes, oh no, no. You see right here where the sprockets busted. It's the way it's ripped out. It's, uh, uh, yeah, I don't know if we can fix that. And I go, and the other guy goes, no, no, we can fix it.
+[47:49.910 --> 48:08.730]  And I go, well, uh, and this is where my preparation paid off because when I bought this bike and I got it, I realized that none of this looked easy to fix. And, uh, I didn't know how sturdy this thing would be. So I immediately bought extra parts for everything on the bike. I bought a new rear wheel, new motor, uh, new spray, everything.
+[48:08.730 --> 48:37.490]  And so I just buy two bikes. I have three of them actually. Thank you. I have one for me, one for Emily and one for Millie. Uh, but, uh, and so the parts work for all three of them. But, uh, I go, okay, well, um, when I go home, I got some sprockets. Uh, I got some sprockets. So can I bring in a sprocket and you'll fix it too? And he goes, yeah, yeah. Anyway, and then he and the other guy argue about whether it's repairable. And then the other guy finally wins and he goes, nah, dude, the way you're at this, this rim is bad. You're not gonna be able to fix that.
+[48:37.890 --> 49:04.810]  And, uh, and he goes, it's a, the way that the sprocket ripped out, it's, it's, it's ruined the integrity of it. And I go, okay. And he goes, so yeah, we're not going to be able to fix it at all. I'm sorry. And I go, well, hold on. I have another rim. I'll bring that in too. And he goes, well, we don't know how to take the rim because you've got this like gear system on the back tire. I don't know how to remove that from the rim. And I go, don't worry. It's all on there already.
+[49:04.810 --> 49:33.630]  They were very politely trying not to help me, but they were very sweet about it. Um, and I go, no, I got the whole thing. And they're like, well, oh, okay. And I was like, so I'll bring that by too. And they're like, well, we, we don't, I don't know if we know how to fix this. And I go, I put it together myself. It's not hard. I had to fight with them and shut them down every step of the way. Eventually I had to bring, essentially, I took an Uber ride home, threw everything in the back of my car. I had to bring them almost an entire other bike.
+[49:34.170 --> 49:37.990]  At this point, why didn't you just bung the bike in the Uber and fix it at home?
+[49:38.190 --> 49:41.750]  It's a big ass bike, dude. How am I going to bring it? How am I going to fit it in an Uber?
+[49:43.090 --> 49:44.070]  XL. Uber XL.
+[49:44.070 --> 49:49.890]  Now, and then I'm going to be like, hey, like, I'm going to throw this greasy ass, dirty bike in your suburban. That seemed implausible to me.
+[49:50.050 --> 49:59.730]  And also, I'm in a situation where I very clearly have a group of men in this triangle who have no interest in helping me, but are so good with their customer service and so polite.
+[49:59.990 --> 50:07.930]  And I have to firmly and gently stand my ground and say, no, I am a customer. I walked two miles here to get my bike fixed. I will get my bike fixed.
+[50:08.050 --> 50:12.530]  Even if I have to do most of the fixing myself, it's getting fixed on these premises.
+[50:12.530 --> 50:17.610]  It sounds like you've walked two miles to have three dudes watch you fix your bike.
+[50:17.750 --> 50:27.150]  Yeah. So I get an Uber home and I throw the parts in my car and I drive your car. Sorry. I drive your car back and I give them all the parts and they go and I go, how long do you think it's going to take?
+[50:27.190 --> 50:33.510]  And they go, oh, yeah, it's been it got really busy after you left. We're slammed. We won't be able to get to it today.
+[50:34.210 --> 50:43.550]  And I was like, oh, OK. So then like 24 hours later, I they called me and they had I had to call them and I'd like, is my bike fixed yet?
+[50:43.570 --> 50:52.430]  And they're like, oh, we're still working on it. Eventually they fixed it. I got an Uber back. I got I got there and they only charged me seven dollars because they felt.
+[50:54.330 --> 50:56.270]  But I did more than seven dollars worth of work.
+[50:56.270 --> 51:04.390]  I feel like Geoff just discovered a bike store that is a front like you clearly didn't go to a bike repair store like these people are desperately.
+[51:04.810 --> 51:12.890]  It's all an illusion. I don't know what their actual business is, but it isn't repairing bikes and you infuriatingly wouldn't let them just not fix it.
+[51:12.890 --> 51:20.190]  Yeah, I wasn't taking no for an answer when when he said we had we don't have that diameter of sprocket.
+[51:20.410 --> 51:28.490]  I thought that's it. Like I will burn. I will burn this building down with everybody inside it before I leave with this bicycle.
+[51:28.670 --> 51:34.150]  I am not accepting fucking sprocket diameters. Fuck you. Like that's not happening.
+[51:34.150 --> 51:38.130]  Shouldn't a bike store have every diameter of sprocket, like every available sprocket?
+[51:38.430 --> 51:45.110]  Shouldn't a bike store have a 27.5 inch tire? It's not that rare. Like shouldn't shouldn't a bike.
+[51:45.210 --> 51:56.530]  Yeah, dude, it should. A bike store shouldn't be shouldn't be staffed with people who when you bring a bicycle to them, look at it like it's like it's a new technology they've never before seen in their life.
+[51:56.990 --> 52:02.110]  I mean, but but it's a weird bike. It's not that weird, dude. It's not that weird.
+[52:02.650 --> 52:07.550]  It's not that weird. I'm sure I'm sure most people that take their bikes there enjoy the pedaling part of bikes.
+[52:07.850 --> 52:13.190]  I enjoy the pedaling part of bikes. As a matter of fact, dickhead, I got into a fight with Jack about this.
+[52:15.810 --> 52:23.830]  Face superfan Jack, as we call him, our first superfan Jack. Yeah, because he was making fun of me for for like, right.
+[52:23.870 --> 52:28.430]  Like, quote unquote, riding 30 miles a day on my quote unquote e-bike. So I did some research.
+[52:28.430 --> 52:37.510]  I looked up a bunch on I use the Google. I looked up a bunch of articles that prove that riding an e-bike gives you just as much exercise as riding a normal bike.
+[52:37.650 --> 52:48.770]  And if it's less, it's negligible the amount less. And riding 30 miles a day on an e-bike is worth 100% more than you not walking down the stairs or you not leaving your fucking house.
+[52:48.770 --> 52:58.410]  Gavin, there's no way in balls that riding 30 miles on a pedal bike is the same as sitting on a chair that the pedaling is the same.
+[52:58.570 --> 53:05.450]  I just go faster. You're still pedaling just as much as any other asshole pedaling less because you get there quicker.
+[53:05.770 --> 53:10.570]  Wouldn't that be the argument? No, because getting there is nothing. I'm going for distance. I'm not going there.
+[53:10.830 --> 53:15.050]  I'm also going to run three marathons in a week. I'm just going to I'm just going to piggyback.
+[53:15.810 --> 53:23.010]  Yeah, that sounds good. It's the same though. If you move your feet like you're walking in the piggyback, then I say it counts.
+[53:26.270 --> 53:33.550]  I'll be hang gliding, but I'll be kicking my legs. Kick your legs for the entirety of it and you'll get just as much exercise.
+[53:33.610 --> 53:39.290]  What if I'm water skiing? If I lift my legs up every once in a while, is that a clear step? What defines a step?
+[53:39.290 --> 53:41.830]  I just want to see you water ski. I'd be fun.
+[53:41.830 --> 53:45.970]  Anyway, I could find the bullshit articles that I used to show Jack.
+[53:47.670 --> 53:50.210]  I was like, it counts. It's exercise.
+[53:50.950 --> 53:55.010]  Okay, how many bikes did you buy at the same time? Is my first question. I bought two.
+[53:55.710 --> 53:59.790]  Two. And you bought one set of parts for two of them. Between the both.
+[53:59.810 --> 54:03.450]  And you have not bought another set of spare parts for your now three bikes.
+[54:04.510 --> 54:07.290]  I did buy a few extra parts.
+[54:07.330 --> 54:09.110]  So you have two sets of spare parts.
+[54:09.390 --> 54:14.170]  It's not entirely like that. I have two sets of some stuff, one set of other stuff between the three bikes.
+[54:14.190 --> 54:22.130]  Okay, that's fine. It's just the story went from me being impressed at how prepared you were to feeling like you didn't prepare at all for one set of spare parts.
+[54:22.270 --> 54:25.970]  If I had an extra frame, I could almost build a fourth bike.
+[54:26.530 --> 54:26.830]  Okay.
+[54:27.910 --> 54:29.370]  You just need the bike part.
+[54:34.070 --> 54:39.830]  And by the way, it's worked out perfectly because everything they threw at me, I had an answer for.
+[54:40.410 --> 54:41.130]  I had a part for.
+[54:42.270 --> 54:47.850]  They probably thought you were testing them. You came from the bike union, the bike organization.
+[54:48.350 --> 54:50.150]  This is a test. Get certified.
+[54:50.710 --> 54:53.270]  I was so convinced it was going to be ridiculously expensive.
+[54:53.530 --> 54:58.250]  And this is why I say that they're lovely people. They were like, we just didn't feel right charging you.
+[54:59.070 --> 55:00.810]  I don't think they fixed it, Geoff.
+[55:00.810 --> 55:01.910]  I rode it home.
+[55:02.690 --> 55:06.530]  No, I think they went somewhere because you said a day passed. You had to call them, right?
+[55:06.630 --> 55:16.850]  That's even better, dude. If they took the effort to drive my bike to a real bike store to get it fixed and bring it back and still charge me $7, that's concierge level service.
+[55:17.390 --> 55:24.710]  Because they're not a bike store, Geoff. They're a front for some other business. They only care about you not talking about it.
+[55:24.710 --> 55:27.430]  They're not only a bike store. They also sell tints and shit.
+[55:28.350 --> 55:28.530]  Okay.
+[55:29.350 --> 55:33.490]  But I don't want to... I still feel very positively about them.
+[55:33.830 --> 55:38.730]  Like I said, the Fuck Geoff Triangle, they were lovely people. They really were.
+[55:38.890 --> 55:41.530]  It was just a confounding set of circumstances.
+[55:42.050 --> 55:47.050]  And I wouldn't necessarily recommend you take your e-bike there to get fixed again.
+[55:47.310 --> 55:50.990]  And if you have a 27.5 inch tire, stay as far away as humanly possible.
+[55:51.430 --> 55:56.710]  But any other bike, I would say take it to REI. I don't know.
+[55:58.190 --> 56:04.050]  Okay. I have my own issue. I have some problems. I was talking to Geoff about this. I know we're running a little long.
+[56:04.410 --> 56:09.450]  But I need Eric's guidance on this. I need producer Eric to tell me what I need to do.
+[56:09.770 --> 56:15.410]  I'm in a real jam here. So I got a new recording set up. And I have a mic stand. I have a roadie mic arm.
+[56:15.870 --> 56:17.670]  I so did not want to help you last night.
+[56:18.990 --> 56:20.190]  You didn't help me at all.
+[56:20.290 --> 56:21.370]  I know. I didn't try to.
+[56:21.510 --> 56:24.790]  You implied your implication that you did. You're useless.
+[56:24.790 --> 56:29.050]  No, I was just like, everything you said, I was like, yeah, that sucks. That's rough.
+[56:31.610 --> 56:32.290]  That's annoying.
+[56:33.050 --> 56:40.490]  My desk is both too thick for it to attach to it, but not long enough for me to make it work.
+[56:41.070 --> 56:42.290]  I'm going to set a photo example.
+[56:42.590 --> 56:44.610]  His desk is too thick and shallow.
+[56:45.270 --> 56:50.630]  Yes, I have a too thick, too shallow desk. I don't know what I'm supposed to do with that. That was my initial problem.
+[56:50.730 --> 56:52.930]  Oh, so you have like a keyboard shelf.
+[56:54.910 --> 56:57.950]  And the arm is bashing into it.
+[56:58.550 --> 57:02.790]  No, that is literally just for a shelf. I pulled the shelf out.
+[57:05.010 --> 57:06.170]  What's the word I'm looking for?
+[57:06.890 --> 57:07.710]  A drawer?
+[57:09.350 --> 57:12.430]  That should be a drawer. Yes, that is the word I was looking for.
+[57:12.650 --> 57:13.930]  That should be my desk drawer.
+[57:14.370 --> 57:17.570]  I pulled the drawer out of the desk to try to put the thing in.
+[57:17.570 --> 57:24.250]  It's too thick for the part to get in, but it's not long enough for me to make it work.
+[57:24.750 --> 57:26.690]  What do I do? What's the solution here?
+[57:26.910 --> 57:27.930]  Get a different kind of stand.
+[57:28.210 --> 57:32.750]  Is there anywhere else on the desk that you could make that work?
+[57:33.030 --> 57:34.590]  That's literally the only spot?
+[57:35.770 --> 57:39.010]  Yeah, well it's the whole thing. It's the consistent thickness. They're out everywhere.
+[57:39.730 --> 57:44.550]  I could try the side. See, if you look at the side, my desk is way longer than the thing.
+[57:44.550 --> 57:46.690]  It's the only entry point I have.
+[57:46.810 --> 57:48.310]  It would be removing a drawer.
+[57:49.070 --> 57:52.270]  Have you tried maybe clamping the mic to a fire extinguisher?
+[57:54.150 --> 57:56.590]  You know, that wouldn't help, unfortunately.
+[57:56.950 --> 57:59.390]  I'm just going to show you. This is my initial solution.
+[57:59.930 --> 58:04.210]  I tried to make this work, and it was a very temporary fix.
+[58:05.350 --> 58:07.470]  Oh, that's not a solution at all.
+[58:07.910 --> 58:11.210]  No, it seemed like it was at the time.
+[58:11.210 --> 58:13.670]  Wait, so you just jammed it?
+[58:14.810 --> 58:17.930]  Yeah, I just leveraged it in the actual drawer area.
+[58:18.330 --> 58:21.670]  Look at the damage that you've done to the little...
+[58:21.670 --> 58:26.150]  Oh yeah, I ripped up the front corner of that desk trying to sneak it in.
+[58:26.430 --> 58:30.030]  I mean, at this point, just saw a semicircle in that part of the desk.
+[58:30.130 --> 58:33.450]  That's what I was going to say. I mean, you've already done damage.
+[58:34.230 --> 58:34.970]  I'd have to get one.
+[58:35.270 --> 58:39.290]  Well, get like a hole drill. A hole saw. What's it called? A spinny thing?
+[58:39.290 --> 58:40.130]  Buy one of those.
+[58:40.350 --> 58:43.410]  Dude, sell one of your mini waffle makers.
+[58:43.890 --> 58:46.650]  I can't do that. It's precious to my heart.
+[58:47.090 --> 58:50.670]  Why don't you walk it two miles to the nearest desk store and see what they say?
+[58:50.990 --> 58:53.630]  Yeah, that'll get some of your marathoning out of the way.
+[58:54.030 --> 58:58.890]  That's a great point. Anyway, I figured it out. It's a temporary fix.
+[58:58.970 --> 59:00.310]  So I'm going to take solutions.
+[59:00.630 --> 59:02.450]  That's how you figured it out? That's terrible.
+[59:02.450 --> 59:05.770]  No, no, no, no, no, no, no, no, no, no, Gavin. Let me finish.
+[59:05.910 --> 59:08.870]  You fucking idiot. Once again, I'm explaining my point.
+[59:08.870 --> 59:13.310]  For the millionth time, and dummy Gavin interrupts to yell at me.
+[59:13.830 --> 59:15.750]  That is not my final solution.
+[59:16.090 --> 59:16.990]  That fell over immediately.
+[59:16.990 --> 59:19.070]  Don't say final solution. That's a different thing, dude.
+[59:19.110 --> 59:20.310]  We don't want to be associated with that.
+[59:20.690 --> 59:23.470]  Okay, that was not the fix.
+[59:25.330 --> 59:26.970]  I love how annoyed he gets.
+[59:27.710 --> 59:31.150]  You're useless. You yell at me for a thing that I'm doing.
+[59:31.450 --> 59:35.230]  We're already over time. Just show me the thing you did.
+[59:35.890 --> 59:39.230]  Calm down, Eric. You got another meeting where you gotta go.
+[59:39.350 --> 59:43.410]  Yeah, I have things to do, but I also want to know what it is, and you're just not showing.
+[59:43.890 --> 59:46.730]  I wanted to tell, but Gavin fucking interrupted.
+[59:46.890 --> 59:47.690]  Get on with it.
+[59:47.710 --> 59:48.610]  It's not my fault.
+[59:49.390 --> 59:51.070]  You get on with it. Shut up.
+[59:52.670 --> 59:54.510]  The fire extinguisher is gone.
+[59:55.050 --> 59:57.090]  We lost the fire extinguisher, sadly.
+[59:57.370 --> 59:59.930]  It is now attached to the mic arm.
+[59:59.930 --> 01:00:02.750]  But, we have gained a fridge.
+[01:00:03.370 --> 01:00:07.810]  My temporary solution to this problem is I have mounted it to my fridge.
+[01:00:08.370 --> 01:00:10.230]  Why your fridge doesn't shut?
+[01:00:10.530 --> 01:00:11.190]  The door's open.
+[01:00:11.750 --> 01:00:15.030]  Geoff, do something.
+[01:00:18.350 --> 01:00:23.970]  I don't know what to say. I don't know what to do for this.
+[01:00:25.110 --> 01:00:26.970]  You're a straight up maniac.
+[01:00:27.730 --> 01:00:29.130]  You're a crazy person.
+[01:00:29.130 --> 01:00:31.130]  That's worse than the other solution.
+[01:00:31.290 --> 01:00:32.150]  No, no, no, no.
+[01:00:33.090 --> 01:00:35.990]  It's very secure. I've made it through this whole podcast.
+[01:00:36.370 --> 01:00:38.150]  My fridge has been unplugged.
+[01:00:39.090 --> 01:00:40.150]  The door is wide open.
+[01:00:40.370 --> 01:00:41.130]  That's not good.
+[01:00:42.590 --> 01:00:43.690]  Here's what you can do.
+[01:00:44.510 --> 01:00:47.930]  Here's what you can do to solve your shutting the fridge door problem.
+[01:00:48.630 --> 01:00:51.290]  I can't shut it with the mic in.
+[01:00:51.370 --> 01:00:52.750]  I need a new place to put the mic.
+[01:00:52.750 --> 01:00:53.830]  I can help you with that.
+[01:00:54.130 --> 01:00:56.530]  Take the fucking mic stand out.
+[01:00:56.530 --> 01:00:58.170]  Shut your fridge door.
+[01:00:58.490 --> 01:00:59.110]  Get a hammer.
+[01:00:59.510 --> 01:01:02.110]  Bash the glass out of the front door of the fridge.
+[01:01:02.610 --> 01:01:03.450]  Clean that out.
+[01:01:03.730 --> 01:01:06.730]  And then you can put the mic stand in right through where the glass used to be.
+[01:01:07.090 --> 01:01:08.930]  Boom. Fridge door shut.
+[01:01:09.590 --> 01:01:10.510]  That's a bad idea.
+[01:01:10.970 --> 01:01:11.690]  That's what that is.
+[01:01:12.370 --> 01:01:14.530]  Also, do you have fine china in your fridge?
+[01:01:15.490 --> 01:01:16.190]  Oh, shit.
+[01:01:16.850 --> 01:01:17.230]  Oh, boy.
+[01:01:19.890 --> 01:01:23.070]  Well, that'll do it for this episode of F*** Face.
+[01:01:23.490 --> 01:01:24.650]  The fridge just fell over.
+[01:01:24.650 --> 01:01:25.750]  No, no, no.
+[01:01:25.810 --> 01:01:28.150]  I thought Geoff had a real tip.
+[01:01:28.330 --> 01:01:30.430]  So I pulled my mic out of the fridge.
+[01:01:30.510 --> 01:01:32.110]  The base of the mic has fallen.
+[01:01:32.230 --> 01:01:33.790]  I'm now just holding my mic stand.
+[01:01:34.450 --> 01:01:35.470]  Like a tree.
+[01:01:36.050 --> 01:01:36.890]  We're fine, though.
+[01:01:37.490 --> 01:01:39.550]  This is sort of heavy.
+[01:01:39.850 --> 01:01:42.570]  I probably got two minutes before my arm starts cramping up.
+[01:01:42.570 --> 01:01:44.930]  And you're gonna walk 19 marathons.
+[01:01:45.390 --> 01:01:47.390]  You can't hold a mic stand.
+[01:01:47.750 --> 01:01:48.810]  No, let me adjust.
+[01:01:49.190 --> 01:01:49.930]  This is...
+[01:01:49.930 --> 01:01:51.510]  Can you still hear me?
+[01:01:51.510 --> 01:01:52.370]  This is weird.
+[01:01:52.710 --> 01:01:54.670]  How do I...
+[01:01:54.670 --> 01:01:55.810]  I made it worse.
+[01:01:56.230 --> 01:01:59.410]  The bit that fell off is where the sound goes.
+[01:01:59.890 --> 01:02:02.570]  Gavin, this is like a f***ing exercise machine.
+[01:02:02.810 --> 01:02:03.830]  Geoff, end this.
+[01:02:04.150 --> 01:02:05.310]  Geoff, end it.
+[01:02:06.070 --> 01:02:08.010]  He's gonna get crushed by the fridge.
+[01:02:09.470 --> 01:02:10.370]  We didn't even...
+[01:02:10.370 --> 01:02:11.650]  Dude, he's not even...
+[01:02:11.650 --> 01:02:12.570]  He's not done.
+[01:02:12.710 --> 01:02:13.890]  He's got other problems.
+[01:02:14.830 --> 01:02:17.450]  Canadian manchild found dead in his own fridge.
+[01:02:17.530 --> 01:02:21.170]  He can't figure out how to connect the mic holder to the mic stand.
+[01:02:21.170 --> 01:02:22.410]  No, I figured that out.
+[01:02:22.430 --> 01:02:23.910]  I put this together.
+[01:02:24.610 --> 01:02:26.110]  Wait, I'm gonna...
+[01:02:28.010 --> 01:02:28.490]  Okay.
+[01:02:29.650 --> 01:02:30.250]  Am I okay?
+[01:02:30.990 --> 01:02:31.610]  Oh, shit.
+[01:02:31.950 --> 01:02:35.410]  I tried to balance it on the door of the fridge and it just fell.
+[01:02:36.190 --> 01:02:37.490]  He's gonna kill himself.
+[01:02:37.950 --> 01:02:38.290]  Alright.
+[01:02:38.430 --> 01:02:38.890]  Good episode.
+[01:02:39.310 --> 01:02:42.050]  Thanks for tuning in to another episode of F*** Face.
+[01:02:42.650 --> 01:02:43.770]  I look forward to...
+[01:02:43.770 --> 01:02:45.950]  My favorite comments I've been seeing lately...
+[01:02:45.950 --> 01:02:47.810]  You see one or two every episode...
+[01:02:47.810 --> 01:02:49.070]  Is a comment that says...
+[01:02:49.070 --> 01:02:50.790]  I've never heard this podcast before.
+[01:02:51.250 --> 01:02:52.750]  I don't know what the f*** it is.
+[01:02:53.190 --> 01:02:54.430]  But I'll listen again.
+[01:02:54.990 --> 01:02:57.470]  So hopefully you're one of those people and you'll listen again.
+[01:02:57.870 --> 01:02:59.770]  And if you like stars...
+[01:02:59.770 --> 01:03:01.890]  And you like to throw them out like they're candy...
+[01:03:01.890 --> 01:03:02.930]  Throw them our way...
+[01:03:02.930 --> 01:03:05.790]  On whatever podcasting platform that you can rate us on.
+[01:03:05.990 --> 01:03:08.370]  Tell a little story about how it's the best thing that you've ever heard.
+[01:03:08.650 --> 01:03:11.710]  Maybe somebody in your family was dying of cancer...
+[01:03:11.710 --> 01:03:13.270]  Or some other ailment...
+[01:03:13.270 --> 01:03:14.670]  And you played the podcast for them.
+[01:03:14.690 --> 01:03:15.670]  And it cured them.
+[01:03:15.670 --> 01:03:18.030]  And now they're super strong and healthier.
+[01:03:18.630 --> 01:03:19.330]  And better than ever.
+[01:03:19.730 --> 01:03:21.470]  And maybe even invulnerable.
+[01:03:21.830 --> 01:03:23.010]  Thank you and goodbye.

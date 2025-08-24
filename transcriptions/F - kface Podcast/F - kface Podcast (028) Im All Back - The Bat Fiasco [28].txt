@@ -1,0 +1,1408 @@
+[00:01.240 --> 00:03.580]  Getting ready to step into your career era?
+[00:03.960 --> 00:06.880]  Set yourself apart with Adobe Creative Cloud Pro for Students.
+[00:07.200 --> 00:11.100]  Hone your skills with apps like Photoshop, Illustrator, Premiere Pro, and more.
+[00:11.280 --> 00:13.080]  Powered with the latest in creative AI.
+[00:13.520 --> 00:17.300]  Students save over 55% so you can build a portfolio you're proud of.
+[00:17.580 --> 00:20.320]  Launch your future with Adobe Creative Cloud Pro for Students.
+[00:20.720 --> 00:23.160]  Visit adobe.com slash students to learn more.
+[00:26.360 --> 00:28.880]  This is a Rooster Teeth production.
+[00:41.610 --> 00:43.210]  And action on the episode.
+[00:43.450 --> 00:43.770]  Hello!
+[00:44.190 --> 00:44.910]  I don't have it up yet.
+[00:45.550 --> 00:46.430]  Oh boy.
+[00:46.570 --> 00:47.170]  Are you kidding?
+[00:47.350 --> 00:48.270]  Don't you ever...
+[00:48.270 --> 00:49.570]  What does that mean?
+[00:49.810 --> 00:50.950]  I don't have anything up yet.
+[00:51.090 --> 00:51.890]  I gotta...
+[00:51.890 --> 00:52.550]  Every time...
+[00:52.550 --> 00:52.870]  It's not ready.
+[00:53.270 --> 00:54.310]  Every time I record.
+[00:54.850 --> 00:55.410]  Yeah, I know.
+[00:55.950 --> 00:59.350]  No, I closed everything so now I'm making a new thing.
+[00:59.690 --> 01:00.630]  Why would you close it?
+[01:00.650 --> 01:01.810]  We're about to start a podcast.
+[01:02.330 --> 01:03.270]  You gotta make it fresh.
+[01:03.530 --> 01:04.630]  Gotta get it fresh.
+[01:06.610 --> 01:08.590]  The project rate has to be right.
+[01:08.590 --> 01:12.590]  Geoff was 0.5 of a second there into what sounded like an amazing intro.
+[01:12.590 --> 01:12.850]  I'm ready.
+[01:13.870 --> 01:14.350]  Go ahead.
+[01:14.770 --> 01:14.970]  I'm ready.
+[01:15.270 --> 01:15.690]  Here we go.
+[01:15.930 --> 01:17.450]  And take three.
+[01:17.610 --> 01:18.530]  Action on the episode.
+[01:18.710 --> 01:20.570]  Hello and welcome to F*** Face.
+[01:20.770 --> 01:22.510]  I believe it's episode 28.
+[01:23.010 --> 01:25.570]  I am Geoff Ramsey and with me as always...
+[01:25.570 --> 01:26.650]  I hate doing intros.
+[01:27.270 --> 01:29.230]  It sounds so fucking phony.
+[01:29.570 --> 01:31.770]  Gavin and Andrew.
+[01:32.390 --> 01:35.630]  The problem was, Geoff, is that you were forced to do it three times there because Andrew didn't have...
+[01:35.630 --> 01:36.290]  Maybe that's it.
+[01:36.810 --> 01:38.030]  It's not my fault.
+[01:38.030 --> 01:39.270]  I never said I was ready.
+[01:39.430 --> 01:41.930]  You all just kept assuming I was and then jumping into it.
+[01:41.990 --> 01:42.670]  That's not my fault.
+[01:43.050 --> 01:43.570]  Well, anyway, this is...
+[01:43.570 --> 01:45.110]  Well, because we were here on time and ready to go.
+[01:45.250 --> 01:46.810]  I was here ten minutes early.
+[01:46.950 --> 01:47.790]  I was ahead of...
+[01:47.790 --> 01:50.930]  If you were here ten minutes early, why didn't you get that shit figured out ten minutes early?
+[01:50.930 --> 01:53.410]  Because I was doing the fucking test, Geoff.
+[01:53.490 --> 01:54.770]  And then my computer froze.
+[01:55.270 --> 01:56.030]  And it was a whole thing.
+[01:56.150 --> 01:57.390]  Eric is very...
+[01:57.390 --> 01:58.370]  A lot of attitude to that.
+[01:58.390 --> 01:59.330]  I'll be honest, Andrew.
+[01:59.430 --> 02:02.410]  We've had 14 whole days between recordings.
+[02:02.690 --> 02:04.130]  You couldn't have done a test then?
+[02:04.510 --> 02:05.010]  I did.
+[02:05.090 --> 02:05.970]  Oh, there's so much...
+[02:05.970 --> 02:07.090]  I did do a test then.
+[02:07.090 --> 02:08.610]  And then I was ten minutes early.
+[02:08.750 --> 02:10.670]  And then they joined and they asked me to do a test again.
+[02:11.170 --> 02:11.750]  So much...
+[02:11.750 --> 02:14.270]  So much to cover in the last 14 days of just like...
+[02:14.810 --> 02:16.210]  Just behind the scenes nonsense.
+[02:16.830 --> 02:17.930]  So, this is interesting.
+[02:18.250 --> 02:19.070]  Because I...
+[02:19.070 --> 02:20.290]  You know, I listen to this podcast.
+[02:20.510 --> 02:23.730]  It's the only production that I'm a part of that I...
+[02:23.730 --> 02:24.770]  That I actually listen to.
+[02:25.310 --> 02:27.310]  And actually, it's the only production I'm a part of now.
+[02:28.210 --> 02:28.570]  But...
+[02:28.570 --> 02:29.470]  But, you know, I...
+[02:29.470 --> 02:31.790]  It's not like I watched a bunch of Achievement Hunter videos all the time or anything.
+[02:32.170 --> 02:32.470]  And...
+[02:32.470 --> 02:33.990]  Or like listen to the RT podcast.
+[02:34.370 --> 02:35.190]  When I was on it, at least.
+[02:35.250 --> 02:36.430]  Because I hate me.
+[02:36.430 --> 02:38.950]  But I listen to this one because I find YouTube to be entertaining.
+[02:39.190 --> 02:41.910]  And it's really my only source of friendship right now.
+[02:42.310 --> 02:42.690]  And...
+[02:43.410 --> 02:44.250]  And the...
+[02:44.250 --> 02:47.670]  Every episode I listen to, I come away with thinking...
+[02:47.670 --> 02:49.810]  Having a totally different opinion of when I recorded it.
+[02:49.870 --> 02:52.910]  And the prevailing thread is always...
+[02:52.910 --> 02:55.670]  I get too upset over too little a thing.
+[02:55.990 --> 02:56.850]  And I go...
+[02:56.850 --> 02:58.350]  I get too hot too fast.
+[02:58.450 --> 02:59.690]  And I'm like, I gotta work on that.
+[02:59.990 --> 03:01.890]  Because when I hear it, it doesn't sound...
+[03:01.890 --> 03:03.190]  It sounds like excessive to me.
+[03:03.270 --> 03:05.210]  Like, why did I get that mad in that moment?
+[03:05.390 --> 03:06.410]  Like, that seems...
+[03:06.410 --> 03:08.450]  Like my reaction is greater than the moment.
+[03:09.030 --> 03:10.630]  But now, here I am in the moment.
+[03:10.790 --> 03:12.250]  And I'm genuinely annoyed.
+[03:12.990 --> 03:13.350]  Immediately.
+[03:14.150 --> 03:15.070]  And I feel justified.
+[03:15.350 --> 03:17.830]  But I know next week when I listen to this, I'm gonna go...
+[03:17.830 --> 03:19.090]  Goddammit, Geoff, you did it again.
+[03:19.170 --> 03:19.910]  No, it's justified.
+[03:20.250 --> 03:20.510]  Absolutely not.
+[03:20.630 --> 03:21.510]  No, no, no, no, it's not.
+[03:21.650 --> 03:23.450]  It couldn't be less justified.
+[03:23.670 --> 03:24.570]  I was the most prepared.
+[03:25.110 --> 03:26.290]  I was asked to do a thing.
+[03:26.550 --> 03:28.330]  And you both were just like, okay, we're starting now.
+[03:28.410 --> 03:34.330]  Do you think you were more prepared than both of us who were actually ready to go at 3.30 to record?
+[03:34.330 --> 03:39.850]  I 100% was more prepared because I showed up 10 minutes early and I was fulfilling a task I was asked to do.
+[03:40.310 --> 03:46.010]  If you're 10 minutes early, but you caused us to start recording 5 minutes late, that's... there's no point of being early.
+[03:46.050 --> 03:47.310]  I'm not the cause of that, though.
+[03:47.330 --> 03:49.010]  I was doing a thing I was asked to do.
+[03:49.070 --> 03:50.650]  So you can be mad at Nick or Eric.
+[03:51.070 --> 03:52.070]  I don't really care which.
+[03:52.490 --> 03:53.190]  Not my fault.
+[03:54.390 --> 03:59.030]  I'm so loud, I just got a text from my daughter, who's on the other side of the house.
+[03:59.410 --> 04:03.810]  And it's not like a giant house or anything, but it's built, it's long, and it's like a horseshoe.
+[04:03.810 --> 04:07.450]  And she just texted to make sure I was okay because she said it sounded like I was dying.
+[04:08.330 --> 04:11.510]  I'm surprised the shelves don't dampen the sound.
+[04:11.730 --> 04:14.110]  Well, I'm not in the library, I'm in my bedroom still.
+[04:16.130 --> 04:21.270]  So I couldn't be further away from Millie and still in the same house as her.
+[04:22.030 --> 04:26.010]  And I was so excessively loud, she had to check in on me.
+[04:26.250 --> 04:28.650]  Is your house longer than Andrew's back?
+[04:30.370 --> 04:32.190]  I don't know if that's possible.
+[04:32.190 --> 04:34.530]  I don't know either.
+[04:35.470 --> 04:37.450]  Honestly, it's like a magic trick.
+[04:37.750 --> 04:39.670]  If you see me standing, you're like average height.
+[04:39.810 --> 04:42.530]  And then when I sit down, I'm taller than everybody.
+[04:42.970 --> 04:44.850]  I'm like fucking Yao Ming in a chair.
+[04:45.270 --> 04:46.370]  Out of nowhere comment.
+[04:46.790 --> 04:49.030]  Was that last week's one where you said you had a really long back?
+[04:49.730 --> 04:50.730]  That floored me.
+[04:51.050 --> 04:53.330]  I don't remember what the context even was, but it's true.
+[04:53.690 --> 04:56.170]  I think it might have been in relation to pillows and stuff.
+[04:56.270 --> 04:58.290]  But yeah, that was a bizarre thing to say.
+[04:58.490 --> 04:59.370]  No, it's true.
+[04:59.770 --> 05:01.770]  I have an absurdly long... I'm all back.
+[05:01.770 --> 05:03.830]  Not a lot of legs, I'm all back.
+[05:04.290 --> 05:11.330]  When I sit down, if you saw me sitting at a table with a bunch of people, you would think I was way taller than I actually am.
+[05:11.370 --> 05:14.230]  Because I have a massive height advantage if we're sitting on a chair.
+[05:14.430 --> 05:16.730]  That's if the chair hasn't cracked and dropped you a foot.
+[05:17.030 --> 05:20.230]  That's true, but I'm good at keeping that afloat.
+[05:20.390 --> 05:22.330]  You're describing a dachshund.
+[05:22.670 --> 05:23.650]  Yes, sure.
+[05:23.690 --> 05:25.590]  So you're like a little sausage dog.
+[05:25.690 --> 05:26.730]  The human version of.
+[05:26.730 --> 05:34.690]  I think we need to bring up the fact that our podcast is such a mess that it got uploaded, there's an error in the upload, and it ended in the middle.
+[05:35.290 --> 05:37.710]  And a lot of people don't even know that that was an error.
+[05:38.030 --> 05:39.310]  Like that's how fucked we are.
+[05:39.450 --> 05:42.410]  A lot of people think that it was some bit we did.
+[05:42.930 --> 05:43.470]  What happened?
+[05:44.010 --> 05:44.710]  What happened, Nick?
+[05:46.170 --> 05:48.270]  Now we just talk. No clue.
+[05:50.530 --> 05:51.930]  Suddenly no Nick to be found.
+[05:52.450 --> 05:53.050]  Hold on.
+[05:56.730 --> 06:00.670]  I had people come to me and say, I thought that was a funny ending.
+[06:00.990 --> 06:01.970]  I didn't see it coming.
+[06:02.070 --> 06:02.890]  How abrupt it was.
+[06:03.010 --> 06:04.390]  And it's like that wasn't.
+[06:04.490 --> 06:04.670]  It wasn't.
+[06:04.830 --> 06:05.330]  Where did it end?
+[06:05.630 --> 06:06.090]  It ended.
+[06:06.230 --> 06:08.750]  I think Geoff said, do the intro, Gavin.
+[06:08.830 --> 06:09.930]  And then you're about to speak.
+[06:09.950 --> 06:10.930]  And it just cuts off.
+[06:11.110 --> 06:11.290]  So people.
+[06:11.350 --> 06:12.830]  Oh, that's probably better than the.
+[06:13.650 --> 06:14.810]  No, no.
+[06:15.170 --> 06:15.550]  I.
+[06:15.590 --> 06:18.030]  I almost took out my fucking setup.
+[06:18.410 --> 06:19.430]  That went in a microwave.
+[06:19.830 --> 06:20.530]  All of that is gone.
+[06:20.690 --> 06:26.510]  That was the episode where we were trying to convince Andrew to knock the glass out of his fridge to hang his.
+[06:26.510 --> 06:26.970]  Yeah.
+[06:27.010 --> 06:31.190]  So if you missed the end of last week's episode without knowing it, make sure you listen to it because Andrew.
+[06:31.610 --> 06:35.990]  It sounds like he's wrestling an alligator, but he's really just trying to clip his mic to the fridge or something.
+[06:36.450 --> 06:38.130]  He destroyed his bedroom somehow.
+[06:39.170 --> 06:41.630]  Let's not get too far away from Nick explaining himself.
+[06:41.850 --> 06:41.970]  Yeah.
+[06:41.970 --> 06:42.170]  Yeah.
+[06:42.170 --> 06:42.570]  Come back.
+[06:42.790 --> 06:44.250]  I was hoping you forgot.
+[06:46.030 --> 06:48.470]  It ended up being something on the upload.
+[06:48.590 --> 06:50.730]  And the full episode was there.
+[06:50.730 --> 06:53.230]  But for whatever reason, the way their cash works.
+[06:53.230 --> 06:59.010]  It had 37 minutes of the hour and one minute that was uploaded.
+[06:59.250 --> 07:03.130]  And so I had to reupload it multiple times for it to actually go through.
+[07:03.430 --> 07:05.750]  And then it took about an hour for that to happen.
+[07:05.870 --> 07:10.710]  So by that time, probably about 9000 people had listened to it already.
+[07:12.070 --> 07:13.150]  Probably most people.
+[07:14.570 --> 07:17.450]  Also, people who have downloaded too.
+[07:17.670 --> 07:19.110]  Because, like, I think it was the whole thing.
+[07:19.150 --> 07:20.390]  You had to delete it to get the new.
+[07:20.450 --> 07:21.490]  It was a disaster.
+[07:21.490 --> 07:23.570]  In a weird way, it became a collectible.
+[07:24.070 --> 07:25.970]  The 35 or whatever minute.
+[07:26.230 --> 07:26.390]  Yeah.
+[07:26.510 --> 07:30.470]  Do you have the original episode 27 of F*** Face?
+[07:30.930 --> 07:33.190]  Oh, dude, don't get me started on collectibles.
+[07:33.510 --> 07:33.950]  Thanks, Nick.
+[07:35.150 --> 07:37.270]  I think that's an excellent response, Nick.
+[07:37.750 --> 07:38.790]  Happens to the best of us.
+[07:38.970 --> 07:39.050]  Yeah.
+[07:39.330 --> 07:42.890]  I have a thing to also address from last.
+[07:42.970 --> 07:47.090]  Because one of the things we did lose as well in the midst of the chaos was a catch-up conversation.
+[07:47.270 --> 07:50.450]  It's a payoff to a catch-up bet that we had, Gavin.
+[07:50.450 --> 07:53.930]  That I said it was dangerous to have lid down.
+[07:54.050 --> 07:55.510]  Because the catch-up could explode.
+[07:55.630 --> 07:56.490]  Could shoot everywhere.
+[07:57.030 --> 07:57.110]  Yeah.
+[07:57.350 --> 07:58.070]  You disagreed.
+[07:58.130 --> 08:00.430]  I bet that if I left it and I opened it, it would shoot everywhere.
+[08:00.530 --> 08:00.970]  It didn't.
+[08:01.370 --> 08:02.110]  I lost.
+[08:02.390 --> 08:03.950]  But that wasn't good enough for me.
+[08:04.270 --> 08:05.530]  So I went to Heinz.
+[08:06.050 --> 08:07.570]  And I got Heinz's opinion on this.
+[08:07.650 --> 08:08.970]  So I reached out to the Heinz company.
+[08:11.630 --> 08:14.770]  And he loses a bet and takes it up with the conglomerates.
+[08:15.270 --> 08:15.750]  I did.
+[08:16.050 --> 08:17.710]  I reached out to Heinz.
+[08:19.170 --> 08:21.550]  We have an Instagram.
+[08:21.970 --> 08:23.810]  And there's a great post about the catch-up bottles.
+[08:23.870 --> 08:24.850]  Getting other people's opinions.
+[08:25.110 --> 08:27.330]  A lot of people agreed with me in that thread.
+[08:27.850 --> 08:31.370]  And so I sent them the photo from our Instagram of the catch-ups.
+[08:31.490 --> 08:32.270]  One upside down.
+[08:32.410 --> 08:33.830]  One lid down.
+[08:33.970 --> 08:34.490]  One lid up.
+[08:34.910 --> 08:36.070]  And I asked them about it.
+[08:36.610 --> 08:38.250]  Heinz said, hey there.
+[08:38.590 --> 08:41.310]  We're happy to put an end to this great Heinz catch-up debate.
+[08:41.630 --> 08:43.090]  When in doubt, follow the label.
+[08:43.090 --> 08:48.010]  That being said, for the bottle in the picture, cap face down would be the correct direction.
+[08:48.450 --> 08:49.990]  So the label reads correctly.
+[08:50.470 --> 08:51.250]  Hope that helps.
+[08:51.770 --> 08:52.430]  That's what they said.
+[08:52.470 --> 08:53.410]  So they sided with you.
+[08:53.610 --> 08:57.610]  But then, I had someone who works at NASA reach out to me about this.
+[08:57.950 --> 08:58.970]  A NASA engineer.
+[09:01.530 --> 09:02.490]  And they...
+[09:02.490 --> 09:05.690]  You can't tell me somebody from NASA listens to us.
+[09:05.750 --> 09:07.110]  I'm telling you they do.
+[09:07.630 --> 09:10.210]  A janitor at NASA responded to me.
+[09:10.210 --> 09:10.430]  No.
+[09:11.630 --> 09:12.630]  They're an engineer.
+[09:12.630 --> 09:13.610]  NASA has cupboards too.
+[09:14.670 --> 09:15.830]  They are an engineer.
+[09:16.410 --> 09:18.530]  And they gave me the science behind it.
+[09:19.190 --> 09:20.510]  It's a custodial engineer.
+[09:21.050 --> 09:22.170]  It is a huge post.
+[09:22.290 --> 09:22.830]  I don't know.
+[09:23.270 --> 09:24.790]  I don't know if it's worth reading all of it.
+[09:24.990 --> 09:25.750]  Was it to do with temperature?
+[09:26.030 --> 09:26.710]  Maybe pressure?
+[09:27.010 --> 09:28.010]  Sort of outside to inside?
+[09:28.010 --> 09:29.730]  That's essentially the idea.
+[09:29.910 --> 09:30.110]  Yeah.
+[09:30.230 --> 09:33.010]  In summary, I'll just read the more abbreviated version of it.
+[09:33.410 --> 09:35.830]  Gavin was very wrong about the ketchup thing.
+[09:35.830 --> 09:43.850]  As a NASA engineer, I can tell you that storing it upside down is very dangerous due to the pressure increase of air inside the bottle due to temperature changes.
+[09:44.390 --> 09:48.330]  I've also experienced ketchup spurts and can scientifically explain why it happens.
+[09:48.510 --> 09:50.630]  And there's a huge explanation for the science behind it.
+[09:50.690 --> 09:52.550]  A couple things I'd like to address there.
+[09:52.930 --> 09:53.270]  Go ahead.
+[09:53.770 --> 10:03.370]  One, I think that in matters of the tomato, I think I'll trust the ketchup experts over the spaceship experts.
+[10:03.870 --> 10:05.430]  Can I counter that really quickly?
+[10:05.430 --> 10:07.190]  Yeah, go ahead.
+[10:07.430 --> 10:10.310]  Well, I appreciate that perspective, Geoff.
+[10:10.510 --> 10:15.610]  So then I took his very long scientific explanation and I sent it to Heinz.
+[10:15.810 --> 10:17.030]  And I was like, well, explain this.
+[10:17.070 --> 10:18.470]  Because this is what NASA is saying.
+[10:18.550 --> 10:19.030]  Oh, my God.
+[10:19.230 --> 10:23.910]  And then they looked at the thing from NASA and they just said, this is beyond our pay grade.
+[10:27.710 --> 10:30.630]  But they kind of pulled back.
+[10:30.710 --> 10:31.990]  They're like, I think you're both right.
+[10:31.990 --> 10:35.850]  We still stand by the label, but I think both sides are correct in this conversation.
+[10:35.990 --> 10:36.830]  There's a level of danger.
+[10:37.550 --> 10:43.250]  When I store stuff the correct way, capped down, if the label is that way, I never have it spurt all over me.
+[10:43.350 --> 10:44.750]  And you also didn't.
+[10:45.190 --> 10:49.690]  No, I have had it happen to me and it happened to me with that bottle previously.
+[10:50.050 --> 10:52.330]  But not when it came down to the money.
+[10:52.810 --> 10:59.990]  I think the larger point at play here to take away from this argument has less to do with ketchup
+[10:59.990 --> 11:02.650]  and more to do with the fact that this is what's wrong with NASA.
+[11:03.190 --> 11:05.450]  This is why the space shuttle program got shuttered.
+[11:05.530 --> 11:09.490]  This is why they're having to cash rides on Tesla rockets or SpaceX rockets.
+[11:09.690 --> 11:15.410]  Because their space program is in shambles because their engineers or their custodial engineers
+[11:15.410 --> 11:19.410]  or whoever these people are, are spending all their time listening to dipshit podcasts
+[11:19.410 --> 11:22.610]  instead of doing science math to send us to the moon.
+[11:22.810 --> 11:27.050]  They've got to be thinking about how to get, you know, properly store ketchup on the ISS and stuff.
+[11:27.170 --> 11:27.910]  It's important stuff.
+[11:27.910 --> 11:29.210]  It's the best condiment.
+[11:29.210 --> 11:29.990]  Just follow the label.
+[11:30.310 --> 11:31.430]  Nah, you gotta figure out...
+[11:31.430 --> 11:34.030]  Follow the label? Which way up is the label when you're in zero gravity?
+[11:35.990 --> 11:39.950]  Andrew, are you asserting that ketchup is the best condiment?
+[11:40.370 --> 11:44.690]  Ketchup is easily the best condiment. The best general condiment, without a doubt.
+[11:44.890 --> 11:46.170]  You're going on record with that.
+[11:46.250 --> 11:50.670]  I'm going on record. Number two for me, very close, honey mustard. Fantastic.
+[11:51.030 --> 11:53.250]  It's a great condiment, but ketchup is number one.
+[11:53.550 --> 11:56.230]  Gavin, rank the... give me a three, Andrew.
+[11:58.110 --> 12:01.770]  Probably a sweet and sour sauce, I'd say, is the third best.
+[12:02.090 --> 12:04.230]  Okay. Gavin, what are your top three condiments?
+[12:04.810 --> 12:06.790]  I would say number one, Coleman's mustard.
+[12:07.410 --> 12:08.270]  That's outrageous.
+[12:09.070 --> 12:10.110]  Outrageous? What do you mean?
+[12:11.170 --> 12:17.250]  Cut a pork pie, nice big pork pie, cut it into quadrants, dip that shit in a bit of Coleman's.
+[12:17.430 --> 12:19.610]  It's the deluxe evening snack.
+[12:19.970 --> 12:22.270]  I'm not saying you're wrong. I am saying you're wrong.
+[12:22.390 --> 12:24.710]  I'm not saying it's delicious, but you're wrong.
+[12:26.370 --> 12:29.550]  Heinz has to be number one. It's the Coca-Cola of condiments.
+[12:29.910 --> 12:34.970]  Well, listen, let's not throw the word Coca-Cola as if they're the best soda or anything.
+[12:35.370 --> 12:36.230]  But they're the number one.
+[12:36.810 --> 12:40.170]  They may be the number one, but that doesn't mean they're the best. Pepsi's way better.
+[12:40.590 --> 12:46.510]  I think Heinz baked beans is being number one in breakfast, but I'm not putting ketchup as number one anyway.
+[12:46.650 --> 12:48.510]  So Coleman mustard is number one for you, Gavin?
+[12:48.690 --> 12:49.690]  Yeah. Two and three.
+[12:49.950 --> 12:53.670]  Two and three? Any mayo would probably be number two.
+[12:54.630 --> 12:55.110]  Okay.
+[12:55.930 --> 12:56.830]  Hellmann's. Why not?
+[12:58.630 --> 12:59.590]  Number three...
+[12:59.590 --> 13:02.970]  Mayo's a thing I don't enjoy unless it's sneakily put in.
+[13:03.390 --> 13:08.350]  I would never put mayo on something, but if it has mayo in it and I don't know mayo's gonna be on it, I enjoy it.
+[13:08.410 --> 13:09.310]  What about salad cream?
+[13:09.950 --> 13:10.350]  Sour cream?
+[13:10.550 --> 13:11.030]  Salad dressing?
+[13:11.570 --> 13:13.670]  No, salad... salad...
+[13:14.450 --> 13:14.930]  What?
+[13:16.450 --> 13:17.370]  What are you saying?
+[13:17.970 --> 13:19.810]  Did you say salad cream?
+[13:20.770 --> 13:21.710]  Salad cream.
+[13:22.010 --> 13:22.970]  What the fuck is that?
+[13:22.970 --> 13:24.090]  What is salad cream?
+[13:26.010 --> 13:27.510]  Are you trying to say sour cream?
+[13:27.650 --> 13:29.530]  Are you trying to say salad dressing?
+[13:29.550 --> 13:32.110]  I think I was right the first time. No, I think it's sour cream.
+[13:32.910 --> 13:34.850]  No, it's neither. It's salad cream.
+[13:35.030 --> 13:35.850]  What the fuck is that?
+[13:35.870 --> 13:36.650]  What is that?
+[13:37.370 --> 13:38.810]  What does it sound like?
+[13:39.270 --> 13:40.130]  It sounds disgusting.
+[13:40.310 --> 13:43.430]  I don't even know what it is, to be honest. Salad cream?
+[13:44.590 --> 14:00.290]  I'm gonna guarantee you right now, dude, I'm gonna tell you right now, if you and I, if I drove over to your house, if I got in your car and drove over to your house right now and picked you up and we went to the grocery store, H&B or Randall's or Fresh Plus or whatever, and I asked them where the salad cream is, they would ask me to leave.
+[14:01.090 --> 14:04.770]  Look, Heinz salad cream, I would place above Heinz ketchup.
+[14:05.110 --> 14:06.110]  That is insane.
+[14:06.110 --> 14:15.230]  I would place Heinz baked beans above the both of them. In terms of all my Heinz top three, I would have ketchup as number three with salad cream and then beans.
+[14:15.830 --> 14:17.490]  When do you use salad cream?
+[14:18.150 --> 14:20.470]  When? Did you say when do you use salad cream?
+[14:20.590 --> 14:22.190]  Is it just a salad cream?
+[14:22.510 --> 14:24.150]  You put it on salad, Andrew.
+[14:24.430 --> 14:25.070]  Is that it?
+[14:25.250 --> 14:26.030]  That's dressing!
+[14:26.650 --> 14:27.390]  Yeah, what?
+[14:27.410 --> 14:30.050]  What's the flavor? What does it taste like? What's it made of?
+[14:30.950 --> 14:33.350]  What's the difference between a cream and a dressing?
+[14:33.350 --> 14:37.050]  It looks like, it looks like somebody, it looks like tainted mayonnaise.
+[14:37.630 --> 14:41.230]  If I go to a store, can I find that on a shelf right now?
+[14:41.490 --> 14:41.690]  No.
+[14:41.950 --> 14:43.370]  Well, not on this continent, probably.
+[14:43.750 --> 14:49.110]  Okay, so it's regional. I just want to make sure that this is like some section I've never seen.
+[14:49.310 --> 14:58.430]  It's just a little bit, you know, a little bit more flavorsome than if you have sort of a bland dressing or vinaigrette. If you want a punch, whack on some salad cream.
+[14:58.770 --> 15:02.350]  What's it? Is it tangy? Is it sweet? Is it sour? Is it salty?
+[15:04.090 --> 15:08.630]  I'll be honest, it's been about 12 years since I've had it, but I remember enjoying it.
+[15:08.670 --> 15:10.030]  You put it in your top three.
+[15:10.310 --> 15:11.110]  It's more similar to mayo than anything else.
+[15:11.230 --> 15:14.230]  Well, look, I'm not a big condiment sort of person anyway.
+[15:14.550 --> 15:19.430]  Fair enough, but I mean, you can't think of a third, like a cheese, is a cheese sauce a condiment?
+[15:23.550 --> 15:27.550]  I mean, yeah, I guess so. It's like a hot, it's a hot, it's a hot dog condiment.
+[15:27.830 --> 15:31.590]  Let me be honest with you, I've inserted salad cream into my top three.
+[15:31.590 --> 15:34.190]  It's probably in my top ten. It's not in my top three.
+[15:34.290 --> 15:38.030]  I just really wanted to sort of shove it right into the middle of this conversation.
+[15:38.610 --> 15:41.230]  And it provided the correct amount of confusion, I think.
+[15:41.630 --> 15:46.970]  Would you say that the salad cream in that image that Eric sent us is stored right side up?
+[15:47.370 --> 15:47.530]  Yeah.
+[15:47.850 --> 15:48.250]  Okay.
+[15:49.550 --> 15:51.650]  You blow my mind on that salad cream.
+[15:51.870 --> 15:57.130]  I've never heard of salad cream before. It looks gross. I'm going to guess it tastes as gross.
+[15:57.370 --> 16:00.770]  Geoff, you would hate it. You would absolutely hate it.
+[16:00.770 --> 16:02.390]  It looks like tartar sauce.
+[16:03.570 --> 16:04.410]  Similar color.
+[16:05.090 --> 16:06.510]  Can I order salad cream?
+[16:07.110 --> 16:11.770]  Andrew is right in that the number one condiment of all time is easily ketchup.
+[16:12.270 --> 16:14.810]  I would go with Heinz ketchup because they're the industry standard.
+[16:14.990 --> 16:15.530]  Standard, yeah.
+[16:16.690 --> 16:20.430]  I'm not a big fan of honey mustard. I certainly don't think I like salad cream.
+[16:21.210 --> 16:22.670]  Look, don't knock it until you've tried it.
+[16:22.730 --> 16:27.930]  I would go number two would be virtually any barbecue sauce. Don't really care.
+[16:27.930 --> 16:33.310]  I don't feel like a barbecue sauce is a condiment because I thought barbecue sauce too, but it's not.
+[16:33.890 --> 16:36.830]  You don't live in Texas. Barbecue sauce is absolutely a condiment.
+[16:37.070 --> 16:41.130]  You know what? HP sauce would probably be in my top three if we're talking breakfast.
+[16:41.610 --> 16:42.170]  That's a good one.
+[16:42.190 --> 16:45.250]  Or maybe Daddy's. A bit of Daddy's sauce. That's similar.
+[16:45.550 --> 16:46.490]  Number three is A1.
+[16:47.950 --> 16:52.770]  Does the salad cream make a difference, bottle or plastic? Does it make a taste difference?
+[16:53.250 --> 16:53.450]  Yes.
+[16:53.450 --> 16:54.170]  Because it's in plastic?
+[16:54.170 --> 16:56.730]  Yeah, well, yeah, well, certain things taste better and different.
+[16:56.850 --> 16:58.330]  I'm saying should I go plastic or bottle?
+[16:58.730 --> 16:59.150]  You should go bottle.
+[16:59.150 --> 17:00.790]  Oh, are you buying some? Are you importing it?
+[17:00.790 --> 17:02.210]  Yeah, I'm ordering it right now.
+[17:02.290 --> 17:02.950]  Where are you getting it from?
+[17:03.490 --> 17:03.750]  Amazon.
+[17:04.390 --> 17:06.350]  Am I going bottle or plastic? I'm going bottle, right?
+[17:06.690 --> 17:08.410]  Yeah, go bottle, dude.
+[17:08.810 --> 17:13.410]  If you used Babbel, you would.
+[17:13.670 --> 17:20.970]  Babbel's conversation-based techniques teaches you useful words and phrases to get you speaking quickly about the things you actually talk about in the real world.
+[17:20.970 --> 17:28.830]  With lessons handcrafted by over 200 language experts and voiced by real native speakers, Babbel is like having a private tutor in your pocket.
+[17:29.130 --> 17:35.030]  Start speaking with Babbel today. Get up to 55% off your Babbel subscription right now at babbel.com slash Spotify.
+[17:35.290 --> 17:38.870]  Spelled B-A-B-B-E-L dot com slash Spotify. Rules and restrictions may apply.
+[17:38.870 --> 17:46.330]  Mamá, papá, mi cuerpo crece a un ritmo alarmante y la ropa que me compren ahora me quedará muy pequeña muy pronto.
+[17:46.630 --> 17:51.430]  Pero su billetera no tiene que sufrir por la moda con los precios bajos de la vuelta a clases de Amazon.
+[17:51.790 --> 17:54.010]  Amazon, gasta menos, sonríe más.
+[17:54.610 --> 17:59.330]  Starting a business can seem like a daunting task, unless you have a partner like Shopify.
+[18:00.070 --> 18:02.770]  They have the tools you need to start and grow your business.
+[18:03.070 --> 18:08.090]  From designing a website to marketing to selling and beyond, Shopify can help with everything you need.
+[18:08.090 --> 18:13.610]  There's a reason millions of companies like Mattel, Heinz, and Allbirds continue to trust and use them.
+[18:14.010 --> 18:17.090]  With Shopify on your side, turn your big business idea into...
+[18:18.110 --> 18:22.070]  Sign up for your $1 per month trial at Shopify.com slash special offer.
+[18:27.560 --> 18:33.960]  Earlier this year, more than 100 Twitter users got their accounts hacked into.
+[18:34.560 --> 18:38.080]  Passwords, email addresses, phone numbers, and more.
+[18:38.080 --> 18:45.220]  All taken from high-profile people like Joe Biden, Elon Musk, even Kanye West.
+[18:45.400 --> 18:48.240]  Yes, presidential hopeful Kanye West.
+[18:48.440 --> 18:51.940]  These kinds of attacks are getting more frequent and more severe.
+[18:52.440 --> 18:58.720]  And it's not just Twitter. Facebook, eBay, Uber, Adobe, and Yahoo
+[18:58.720 --> 19:04.760]  have leaked data such as passwords, credit card info, and driver's licensees.
+[19:04.760 --> 19:08.140]  Belonging to billions of users.
+[19:08.600 --> 19:16.540]  Look, if someone can hack Joe freaking Biden, just imagine how easy it would be for them to hack you.
+[19:16.940 --> 19:23.340]  That's why I use ExpressVPN to safeguard my personal data online.
+[19:24.260 --> 19:30.920]  According to recent reports, hackers can make up to $1,000 from selling someone's personal information on the dark web.
+[19:31.280 --> 19:34.380]  Making people like me and you easy, lucrative targets.
+[19:34.380 --> 19:36.300]  It's nice to think that I'm worth $1,000.
+[19:37.140 --> 19:40.180]  Congratulations to you as well. You're worth $1,000.
+[19:40.840 --> 19:42.500]  It's good to know what one's worth.
+[19:42.940 --> 19:46.660]  ExpressVPN is an app that funnels your data through a secure encrypted tunnel
+[19:46.660 --> 19:52.180]  so that no matter what device you use, you can have peace of mind every time you use the internet.
+[19:52.340 --> 19:57.080]  Everybody knows the most secure surface on earth is an encrypted tunnel.
+[19:57.560 --> 20:00.720]  The app connects with just one click, is lightning fast,
+[20:00.720 --> 20:05.360]  and the best part is ExpressVPN works on up to five devices simultaneously,
+[20:05.740 --> 20:08.780]  so you and your whole family can stay protected.
+[20:09.080 --> 20:15.140]  If a breach can happen to powerful individuals like Joe freaking Biden, it can easily happen to you.
+[20:15.480 --> 20:21.940]  Protect yourself with ExpressVPN, the VPN rated number one by CNET, Wired, and countless others.
+[20:22.420 --> 20:30.120]  And if you visit expressvpn.com slash face right now, you can arm yourself with an extra three months of ExpressVPN for free.
+[20:30.120 --> 20:36.740]  That's E-X-P-R-E-S-S-V-P-N dot com slash face.
+[20:36.920 --> 20:41.340]  Visit expressvpn.com slash face to learn more.
+[20:41.580 --> 20:48.560]  This, uh, this whole a day season, oh boy, may your home be filled with joy.
+[20:48.900 --> 20:52.340]  And may your butthole be as clean as the fresh driven snow.
+[20:52.540 --> 20:54.220]  Thanks to Hello Tushy.
+[20:54.220 --> 21:02.200]  I live in Texas, so we don't have snow or freshly driven or otherwise, uh, but it sounds just beautiful.
+[21:02.460 --> 21:05.260]  It sounds pristine, and that's what I want my butthole to be.
+[21:05.540 --> 21:07.840]  That's why I use a bidet, and that's why you should too.
+[21:08.120 --> 21:14.720]  I know you've heard me talk about Tushy, uh, over and over and over again, but that's because it's so damn important.
+[21:15.080 --> 21:18.560]  Listen, you do not want to get stuck with a post turkey day disaster.
+[21:19.100 --> 21:20.320]  You know what I'm talking about.
+[21:20.320 --> 21:22.540]  Protect your pipes with a Hello Tushy bidet.
+[21:22.900 --> 21:27.660]  For years, bidets have cost thousands of dollars and available only to the richest of a-holes.
+[21:27.780 --> 21:31.900]  The culturally elite, the Joe Bidens and the Donald Trumps of the world.
+[21:32.060 --> 21:38.240]  Mmm, so rich and famous and fancy with their giant rich buttholes that can afford all of the fineries.
+[21:38.700 --> 21:43.760]  Well, Hello Tushy's modern bidet attachment is here to democratize the blessings bestowed by bidets
+[21:43.760 --> 21:47.800]  and offer clean buttholes to everyone for an affordable price.
+[21:47.800 --> 21:49.300]  That's right, $79.
+[21:49.960 --> 21:54.220]  It attaches to your existing toilet, there's no electricity or additional plumbing needed,
+[21:54.640 --> 21:57.920]  and it's going to clean your butt with a precise stream of fresh water.
+[21:58.340 --> 22:00.420]  So much better than cleaning your butt with dirty water.
+[22:00.680 --> 22:01.300]  Or no water.
+[22:01.500 --> 22:02.140]  Or sand.
+[22:02.700 --> 22:03.400]  Or dirt.
+[22:03.780 --> 22:06.240]  Or any of the terrible things you could try to clean your butthole with.
+[22:06.400 --> 22:07.780]  Don't do it. Use fresh water.
+[22:08.260 --> 22:11.100]  It even cuts your toilet paper usage by like 80%.
+[22:11.100 --> 22:15.540]  Which, uh, that's a pretty dirty secret the toilet paper lobbyists don't want you to know about.
+[22:15.860 --> 22:16.800]  But Tushy doesn't care.
+[22:16.800 --> 22:21.280]  They're getting power to the people, as we say, in the toilet and bidet industry.
+[22:21.580 --> 22:26.840]  It pays for itself simply by how much of this TP that they don't want you to know that you can save.
+[22:27.260 --> 22:29.400]  Corporate industry. Corporate interests.
+[22:29.980 --> 22:32.160]  Don't fall for it, dammit. Get a bidet.
+[22:32.540 --> 22:34.360]  Because with Hello Tushy, you don't wipe it all.
+[22:34.600 --> 22:37.260]  Hello Tushy is your new hands-free butt buddy.
+[22:37.540 --> 22:43.240]  Get 10% off plus free shipping right now at HelloTushy.com slash face.
+[22:43.240 --> 22:47.840]  That's HelloTushy.com slash face for 10% off and free shipping.
+[22:48.180 --> 22:50.460]  HelloTushy.com slash face.
+[22:52.080 --> 22:55.420]  I had a business idea. Do we want to stay in sauces?
+[22:55.960 --> 22:58.280]  No, no, no. I wasn't even trying to get into sauces.
+[22:58.400 --> 23:02.300]  I just, we started talking about it and then you boldly claimed ketchup is the best sauce.
+[23:02.420 --> 23:06.560]  Well, it just is. It's the industry standard. Hank's Ketchup is like the established one.
+[23:06.840 --> 23:11.460]  Dude, you're preaching to the choir. I just wanted to follow that thought exercise out and see what everybody thought.
+[23:11.460 --> 23:17.740]  Yeah, no, I think we should go to your business idea. We should talk about why it's been 14 days since we recorded.
+[23:18.000 --> 23:23.380]  We should talk about the fucking baseball bats. All kinds of stuff.
+[23:23.700 --> 23:25.860]  Don't you laugh, you little prick. Don't you laugh, you little prick.
+[23:26.200 --> 23:29.460]  Why don't you tell us about your fucking business idea, you little shit.
+[23:29.480 --> 23:31.540]  Okay, I think this is a great idea.
+[23:32.340 --> 23:37.380]  I'm just going to throw, maybe we edit this out because it's such a good idea that I'm scared someone will steal this.
+[23:37.460 --> 23:38.280]  I think it's genius.
+[23:38.600 --> 23:38.860]  Dude.
+[23:38.860 --> 23:43.900]  The company is, okay, it's called Thank Me Later. This is how it works, okay?
+[23:44.340 --> 23:44.600]  Okay.
+[23:44.680 --> 23:49.300]  You buy something, you order something. Let's say, it's not important things that you need immediately.
+[23:49.760 --> 23:51.720]  Like for me, it was Sour Patch Kids.
+[23:52.260 --> 23:58.820]  It's like you buy some Sour Patch Kids and then we ship them to you at least a minimum four months from now.
+[23:59.280 --> 24:04.220]  We don't tell you when they're going to be shipped. At the earliest, you're getting them four months from now.
+[24:04.500 --> 24:06.620]  Could be a year. That's the whole thing.
+[24:06.620 --> 24:09.520]  You don't know when they're coming. It's fantastic.
+[24:09.920 --> 24:11.440]  What are you delivering? What?
+[24:11.840 --> 24:16.580]  So let's say it's candy. So for me, my example is, let's say you want some Sour Patch Kids, right?
+[24:16.720 --> 24:17.740]  You feel like some Sour Patch Kids?
+[24:17.980 --> 24:25.160]  You buy the Sour Patch Kids from Thank Me Later and then we'll ship them to you in between four to twelve months.
+[24:25.660 --> 24:26.060]  Eventually.
+[24:26.360 --> 24:27.100]  Why would you want that?
+[24:27.320 --> 24:28.800]  Because, okay, this is why.
+[24:28.800 --> 24:37.720]  Because I ordered Sour Patch Kids recently online and they told me I'm either going to get them December 24th or March.
+[24:38.300 --> 24:41.020]  Anywhere in that range. That's my shipping range.
+[24:41.280 --> 24:43.820]  And I'm now way more excited about these than I were.
+[24:43.960 --> 24:47.940]  I hope they go further out because I'm going to forget I ordered these by January.
+[24:48.360 --> 24:53.780]  That's going to completely leave my mind and I'm going to randomly have a day where I show up and I have Sour Patch Kids in my house.
+[24:54.120 --> 24:55.220]  I'm thrilled by this.
+[24:55.460 --> 24:57.260]  I think that's a great idea, Andrew.
+[24:57.260 --> 24:59.160]  It's like Christmas year round.
+[24:59.280 --> 25:00.440]  You're just surprising yourself.
+[25:00.540 --> 25:01.560]  You don't know when it's coming.
+[25:01.660 --> 25:02.500]  You know you want it.
+[25:02.560 --> 25:03.620]  It's the thing you're going to enjoy.
+[25:04.000 --> 25:05.840]  And it's just going to randomly appear there one day.
+[25:05.960 --> 25:10.040]  I can't see myself being like, oh yeah, I'll do it through that website though.
+[25:10.260 --> 25:12.740]  Why would I want to add the delay?
+[25:13.120 --> 25:16.280]  If you order it through Amazon, you know when you're going to get it.
+[25:17.760 --> 25:19.020]  I'm totally on board with you, Andrew.
+[25:19.320 --> 25:21.680]  What's the nicest thing about getting a gift, Gavin?
+[25:22.060 --> 25:24.860]  Well, maybe the nicest thing is that somebody cares about you, right?
+[25:25.100 --> 25:26.660]  But the second thing is it's a nice surprise.
+[25:26.660 --> 25:29.780]  Typically, if it's not your birthday or whatever, somebody gives you a little gift.
+[25:30.180 --> 25:32.420]  For instance, I sent Emily flowers today.
+[25:32.460 --> 25:33.260]  She's not expecting them.
+[25:33.540 --> 25:34.340]  She's going to get flowers.
+[25:34.480 --> 25:36.320]  She's going to be like, oh, Geoff thought of me.
+[25:37.040 --> 25:38.460]  What a special little thing today.
+[25:38.520 --> 25:39.220]  That's so nice.
+[25:40.000 --> 25:46.340]  You're giving yourself a gift and then the discretion is up to thank me later to determine when,
+[25:46.600 --> 25:49.760]  within a 12-month window, to send you that, send yourself that gift.
+[25:50.160 --> 25:56.000]  And like Andrew said, if I sent myself a box of, I don't know, Panini Prism basketball cards
+[25:56.000 --> 25:59.280]  and I didn't get them until August, what a hell of a surprise.
+[25:59.580 --> 26:01.360]  I would have forgotten about it ten times over.
+[26:01.780 --> 26:02.840]  That's a great idea.
+[26:03.160 --> 26:05.380]  It's not that you're waiting for it eagerly.
+[26:05.500 --> 26:08.220]  It's you forget that you even made the order is the thing.
+[26:08.380 --> 26:10.260]  And then it just shows up and it's like magic.
+[26:10.440 --> 26:12.020]  It's like a fucking magic trick just happened.
+[26:12.180 --> 26:16.640]  And then you're like, for you, Gavin, say you ordered yourself some,
+[26:16.680 --> 26:21.080]  and this is fucking disgusting to look at, daddy's favorite brown sauce,
+[26:21.560 --> 26:23.280]  which is in the Discord.
+[26:23.960 --> 26:25.700]  And, but you said, you know what?
+[26:25.740 --> 26:28.780]  I don't, I don't really, I was thinking about it, but I don't really have a need for it right now.
+[26:29.180 --> 26:35.240]  What if I just, I'll set the slider that I want to receive at any time between May and June of next year,
+[26:35.720 --> 26:38.060]  or May and December of next year.
+[26:38.160 --> 26:42.140]  And then Andrew, working for the company, decides to send it to you in October.
+[26:42.320 --> 26:43.080]  You forgot about it.
+[26:43.100 --> 26:46.640]  And then you, you open up the mail and there's a package to Gavin from Gavin.
+[26:46.800 --> 26:47.840]  And you're like, what did I send?
+[26:48.540 --> 26:49.880]  Brown sauce, daddy's brown sauce.
+[26:50.240 --> 26:52.760]  Oh, I'm going to have a brown sauce event now.
+[26:52.760 --> 26:55.600]  I'm going to go eat whatever the fuck goes with this.
+[26:55.980 --> 26:59.180]  And it'll be a pleasant little surprise from me to me.
+[26:59.300 --> 26:59.880]  I love it.
+[27:00.260 --> 27:00.900]  I can kind of see it.
+[27:00.960 --> 27:03.620]  So I assume it's being just dispatched and shipped late.
+[27:03.740 --> 27:05.540]  It's not just sat in a box for a year.
+[27:05.940 --> 27:06.500]  Uh, yeah.
+[27:06.700 --> 27:07.860]  No, I think that'd be the way to go.
+[27:08.000 --> 27:08.140]  Yeah.
+[27:08.900 --> 27:09.980]  If it were perishable.
+[27:10.360 --> 27:13.420]  Yeah, it was definitely not, probably avoid most perishable things.
+[27:13.660 --> 27:17.140]  I feel like you just have to store people's stuff for so long,
+[27:17.160 --> 27:19.840]  because you don't want something to go out of stock, like right before it's meant to ship.
+[27:20.160 --> 27:20.540]  That's true.
+[27:20.540 --> 27:23.240]  I mean, if it's popular items, I don't think you have to worry about it.
+[27:23.440 --> 27:24.300]  Can I ask a question?
+[27:24.480 --> 27:27.300]  I'm sorry, I was going to type this out, but I really, I want to, I'm curious.
+[27:27.780 --> 27:28.060]  Absolutely.
+[27:28.200 --> 27:30.240]  What do you do the first four months in operation?
+[27:30.800 --> 27:32.060]  Uh, just make money.
+[27:32.160 --> 27:34.300]  It's just all profit for the first four months.
+[27:34.600 --> 27:35.380]  He's got a point.
+[27:35.760 --> 27:40.900]  So, in the first four months, you just take orders, and then you just sit back?
+[27:41.100 --> 27:44.300]  No, that's pretty good, because you would use the money generated in the first four months,
+[27:44.400 --> 27:47.820]  and then you'd probably use that money to buy a warehouse, to store the stuff,
+[27:47.820 --> 27:51.060]  that by the time the warehouse is all settled, you're shipping it out.
+[27:51.300 --> 27:52.360]  Yeah, you're taking the money up front.
+[27:52.560 --> 27:55.560]  And if you're really smart, you'll send yourself the gift of a subscription.
+[27:55.880 --> 28:01.240]  And then you can say, like, I like these eight things, send them to me randomly throughout the year.
+[28:01.340 --> 28:02.040]  That's interesting.
+[28:02.360 --> 28:03.920]  I didn't think about the subscription angle.
+[28:04.060 --> 28:08.620]  Like a birch box, or like a nerd box, whatever the fuck those things are called, you know?
+[28:08.820 --> 28:12.360]  Where you get one every month, and you're like, I get one called a boom box for basketball cards.
+[28:12.800 --> 28:16.800]  Where you're like, oh shit, I got a box that I sent myself of basketball cards I can open up.
+[28:16.800 --> 28:19.120]  But oh, look, they're all trash, just like every month. Great, let me throw them away.
+[28:19.500 --> 28:21.120]  But in this instance, they probably wouldn't be.
+[28:21.420 --> 28:24.080]  This is fucking cool. I think I'm ready to invest.
+[28:24.560 --> 28:29.800]  It's a great idea, because the joy of Christmas is you don't know what's coming, you get your gifts, you open them.
+[28:30.240 --> 28:34.180]  This is like, as an adult, you lose that, because you just buy the things you want to buy.
+[28:34.360 --> 28:36.520]  I find making a Christmas list as an adult impossible.
+[28:36.580 --> 28:38.860]  You know, I might be on board with this. I think this is actually pretty good.
+[28:39.020 --> 28:41.480]  It's a fantastic idea. Thank me later.
+[28:41.760 --> 28:45.760]  I think it would make me shop differently. It would make me shop specifically for treats.
+[28:45.760 --> 28:48.540]  Like, I wouldn't want to buy anything that I need on that.
+[28:48.800 --> 28:50.400]  No, absolutely not.
+[28:50.440 --> 28:55.040]  I don't want toilet paper showing up when I'm on the bog without anything to wipe with.
+[28:55.320 --> 29:00.380]  Right, or you're like, oh look, I sent myself another pair of salmon colored shorts, I'll throw it on the pile.
+[29:00.640 --> 29:02.140]  Yeah, you always need a new pair of them.
+[29:04.620 --> 29:05.640]  That's my business idea.
+[29:05.860 --> 29:07.820]  You're brilliant, Andrew, that's a really good business idea.
+[29:08.020 --> 29:08.980]  Thank you, I appreciate it.
+[29:09.220 --> 29:12.960]  Speaking of things we need to catch up on, how did the three marathons go?
+[29:12.960 --> 29:15.740]  Oh, I haven't started yet. I keep re-rolling my ankle.
+[29:17.680 --> 29:18.640]  Come on.
+[29:18.920 --> 29:20.380]  You say it like it's a D&D character.
+[29:20.560 --> 29:22.820]  Trying to get better endurance.
+[29:23.540 --> 29:27.160]  This is, okay, so I re-rolled it slightly on Tuesday.
+[29:27.360 --> 29:29.340]  My problem is, it's been sore.
+[29:29.940 --> 29:33.200]  Okay, don't interrupt me, Gavin, I can already see you trying.
+[29:34.020 --> 29:39.740]  What happens is, because I'm thinking about it, because it hurts, I'm constantly having dreams where I'm rolling my ankle.
+[29:39.740 --> 29:44.160]  And when I do that in my dream, I then physically react, and I hurt my ankle further.
+[29:44.380 --> 29:46.380]  So I'm constantly re-aggravating it back.
+[29:46.880 --> 29:48.000]  It's a terrible cycle.
+[29:48.840 --> 29:51.000]  Get your legs away from the walls and stuff.
+[29:51.220 --> 29:51.960]  Jesus, what do you mean?
+[29:52.940 --> 29:53.920]  How are you injuring it?
+[29:54.220 --> 29:59.980]  Because I'm laying, okay, so any sharp movement right now, any sudden flinch, Gavin, hurts my ankle.
+[30:00.420 --> 30:01.160]  So I'll be dreaming.
+[30:02.240 --> 30:06.320]  No, I'm dreaming, and in my dream, I'm rolling my ankle in my dream.
+[30:06.320 --> 30:10.840]  And so then I, like, jerk in my sleep, and then I actually hurt my ankle in real life.
+[30:11.340 --> 30:12.460]  I can't imagine.
+[30:13.420 --> 30:19.880]  If you laid me on a bed, and you said, hurt your ankle right now, I don't think I'd physically do it.
+[30:20.960 --> 30:23.420]  Well, you need to have it injured already.
+[30:23.900 --> 30:25.100]  This isn't a healthy...
+[30:25.100 --> 30:26.100]  Put it into the wall.
+[30:27.620 --> 30:31.860]  No, but this is not a healthy ankle, Gavin, this is an ankle in recovery.
+[30:31.880 --> 30:34.620]  You're making it sound like if you look at it funny, it snaps.
+[30:35.060 --> 30:39.780]  No, no, no, it's the tendons, it's not a good situation, man.
+[30:39.820 --> 30:41.320]  I kick it in my sleep.
+[30:42.160 --> 30:42.720]  Yeah, I should.
+[30:43.300 --> 30:50.280]  Why don't you take two of your 40 pillows and wrap your feet around them and then duct tape it to your ankles while you sleep?
+[30:51.100 --> 30:54.180]  That doesn't sound comfortable at all, and I'm giving up two good pillows for that.
+[30:54.480 --> 30:58.600]  I have a feeling you've got extras, and, dude, I'll buy you the pillows.
+[30:59.200 --> 31:03.500]  And it sounds more comfortable than spraining your ankle every time you have a dream.
+[31:03.500 --> 31:05.260]  Nah, well, it's...
+[31:06.860 --> 31:09.820]  It's specifically ankle rolling dreams, and it's very odd.
+[31:09.980 --> 31:12.980]  I have, like, two or three a day, I'd say.
+[31:13.480 --> 31:16.160]  Every time, like, I'll wake up from it and then I'll go back to bed and I'll roll it again.
+[31:16.300 --> 31:17.780]  Do you remember the plot of any of these?
+[31:19.400 --> 31:22.900]  Yeah, it's literally... the plot is the entirety of the roll.
+[31:23.020 --> 31:28.400]  It'll be like I'm in a park and I'm stepping on a rock and then it just rolls and then I jerk and I wake up and I'm in pain.
+[31:28.400 --> 31:28.980]  I'm an egg.
+[31:29.140 --> 31:36.080]  So it just happens to happen in your dream. It's not like you're, like, stood on a bunch of boxes about to jump onto one ankle and grab it.
+[31:36.320 --> 31:44.380]  No, no, no, no. There's no, like, lead up. It's like as soon as I have awareness of that I'm in a thing or I'm in a place, it immediately rolls and then I wake up in pain.
+[31:45.280 --> 31:48.840]  But I'm, like, 90%. Haven't started the marathons. They will happen.
+[31:49.340 --> 31:51.000]  I don't think they will, and here's why.
+[31:51.000 --> 32:01.980]  You can't sleep safely in your bed in your home two days in a row. How are you going to walk 80 miles?
+[32:02.320 --> 32:06.220]  I might not be able to do it, but I'm going to try to do it. That's the thing.
+[32:06.580 --> 32:09.420]  And it's for all bets, all non-pencil-related bets are cleared.
+[32:09.420 --> 32:11.800]  All non-pencil-related, yeah. Double or nothing.
+[32:12.060 --> 32:14.340]  Is that including the one you lost last week with the ketchup bottle?
+[32:14.340 --> 32:19.060]  Yeah, yeah, yeah. I was right about that, but I lost it. I'm not going to argue that point.
+[32:19.060 --> 32:27.240]  Here's the thing, Andrew. I think you need your ankle to be 100%. You need to have not rolled it for months before attempting it.
+[32:27.260 --> 32:30.720]  No, I don't think I need that much time. I think, like, maybe four or five days.
+[32:31.140 --> 32:40.320]  I think somewhere in the middle. I think probably three weeks would be good, but I don't foresee you going three weeks without hurting your ankle because you can't control your sleep.
+[32:40.320 --> 32:42.640]  I went months without hurting my ankle.
+[32:44.180 --> 32:45.740]  You make it sound like it's an accomplishment.
+[32:45.740 --> 32:52.680]  Yeah, I know. As soon as I said that, I realized that. But yeah, it was a while. It'd probably been at least a year since I really rolled my ankle.
+[32:53.640 --> 32:58.820]  I don't plan on ordering 70 pounds of pancake mix in the near future. I think I'm going to be okay in the short term.
+[32:59.100 --> 33:00.020]  Have you ever broken a bone?
+[33:00.360 --> 33:02.760]  I broke my toe once, my big toe.
+[33:03.380 --> 33:03.960]  How'd you do that?
+[33:04.460 --> 33:14.900]  I think I slammed it. Well, no, I broke two toes. I broke one toe here. My big toe was a much worse break. That was terrible. It was like I couldn't even put a bed sheet on it without it hurting.
+[33:16.160 --> 33:17.340]  Awful. Just awful.
+[33:17.640 --> 33:18.700]  It's pretty funny.
+[33:19.280 --> 33:25.660]  It was like a feather. You put a feather on that big toe when it was broken. Extreme pain. It was not fun.
+[33:26.100 --> 33:28.360]  You must have had so many toe-breaking dreams.
+[33:28.760 --> 33:36.540]  No, I didn't. I thankfully had no toe-breaking dreams. When I get obsessive about things, though, or if I'm in, I guess, constant pain, I'll have dreams about it.
+[33:36.540 --> 33:49.620]  I know we talked about when you and I were doing that trials competition, Gavin, but whenever I'm in something, I'll dream about it. I don't remember if I told this, but I slammed my head into the wall because I was dreaming I was on the bike in the game.
+[33:49.640 --> 33:50.740]  Yeah, you did tell that one.
+[33:51.320 --> 33:51.680]  Okay.
+[33:52.300 --> 33:55.180]  You're a very active dreamer.
+[33:55.480 --> 34:00.300]  I guess so, yeah. Well, if I'm thinking about something, it consumes my mind. That's all I think about.
+[34:00.660 --> 34:06.500]  Yeah, toe-break's not fun. What about you? Anyone break a bone? Like, a real bone? I don't feel like a toe-break is a real break.
+[34:07.180 --> 34:09.180]  Uh, my nose. It's all smashed in.
+[34:09.200 --> 34:09.380]  Brooke nose?
+[34:10.640 --> 34:14.760]  Well, it's hard to... I fell on it when I was very young, and now it's crooked.
+[34:15.280 --> 34:15.560]  Oh.
+[34:15.560 --> 34:19.340]  And it bled a ton. Or it bled later. It didn't bleed at the time, somehow.
+[34:19.700 --> 34:26.940]  I know this is insane. I know this is completely unreasonable. I don't think my nose could be broken. I think I have an unbreakable nose.
+[34:26.940 --> 34:27.560]  Andrew.
+[34:28.060 --> 34:28.620]  I'm not.
+[34:28.960 --> 34:29.360]  Andrew.
+[34:30.680 --> 34:31.480]  I'm saying...
+[34:31.480 --> 34:35.480]  Listen to what you're saying. Listen to the words as they're coming out.
+[34:35.920 --> 34:43.160]  No, I know there are scenarios like, if a fucking missile hit me in the face, my nose would break. But I don't think...
+[34:43.160 --> 34:45.820]  There's so much less than that that would break your nose.
+[34:45.920 --> 34:46.820]  No, I don't think...
+[34:46.820 --> 34:49.040]  It's gotta be... What are you, Superman? It's gotta be a missile?
+[34:49.520 --> 34:55.220]  Uh, no, I guess... I don't think anyone... I think it would be extremely difficult to break my nose.
+[34:55.220 --> 35:01.020]  Bend over in front of me at the driving range. Facing me, I should say. And it'll be gone. Immediately.
+[35:01.440 --> 35:04.560]  Walk too close behind me when I shut a door or I'll break your nose.
+[35:05.520 --> 35:11.000]  I think just the structural integrity of my nose is very good. I think it's sturdy.
+[35:11.400 --> 35:14.400]  And that's based on what? Based on, like, what life experience?
+[35:14.400 --> 35:19.780]  I've kind of, like, played around my nose a little bit. I put pressure on it. It's very durable.
+[35:21.420 --> 35:22.220]  It's resistant.
+[35:23.560 --> 35:26.080]  In both shape and size.
+[35:26.100 --> 35:27.260]  This is the dumbest thing you've ever said.
+[35:27.440 --> 35:35.260]  No. Have you compared that anecdotal tensile strength to another nose? To see how yours holds up?
+[35:35.260 --> 35:37.160]  No, no, no. I've never compared noses.
+[35:37.420 --> 35:38.040]  Baseless assumptions.
+[35:38.080 --> 35:43.860]  I don't think someone could punch me in the face and break my nose. I just think the shape of my nose and the integrity of it, it would hold.
+[35:43.860 --> 35:47.780]  Alright, I've got to find a picture of your nose. Let's find your slack.
+[35:48.000 --> 35:53.260]  Okay, so you've got, like, a pretty small, slightly upturned nostril nose.
+[35:53.280 --> 35:55.680]  It's a cute nose. It's a nice nose.
+[35:57.620 --> 36:01.220]  There's a width to it. It's not too far extended. It's not exposed.
+[36:01.660 --> 36:06.480]  I think what you're noticing here is that, like, the bridge of your nose is close to your skull.
+[36:06.960 --> 36:11.260]  It doesn't stick out too much. It sticks out more at the end, which is all cartilage.
+[36:11.820 --> 36:13.420]  Yeah, your bone is back there.
+[36:13.420 --> 36:16.720]  It's pretty secure. It's like when you tuck your chin when you're fighting.
+[36:16.920 --> 36:20.480]  Like, it's protected. It's naturally protected. It'd be very hard to break my nose.
+[36:20.860 --> 36:26.540]  Right, but it's no less difficult than breaking your skull. Like, it's all the same bone.
+[36:27.840 --> 36:29.140]  Wait. Is that true?
+[36:30.300 --> 36:31.780]  Well, where's your nose bone?
+[36:32.180 --> 36:33.720]  Oh, my... wait a sec.
+[36:34.760 --> 36:36.540]  Now I get... yeah. Now I guess that's right.
+[36:38.140 --> 36:39.780]  Huh. I never thought about that.
+[36:39.780 --> 36:43.520]  Like, your cheekbone and your nose bone, it's the skull. It's all the skull.
+[36:43.820 --> 36:47.780]  Well, the cheekbone is clearly the skull, but the nose, I never thought about. You're right.
+[36:47.860 --> 36:51.440]  The nose is part of the... it is the full pack. Yeah. No, you're right.
+[36:52.180 --> 36:53.080]  It's a big bone.
+[36:54.380 --> 36:56.820]  Yeah. It doesn't include the jaw, though, I think.
+[36:57.440 --> 36:57.780]  Really?
+[36:57.980 --> 36:58.740]  That's a separate one.
+[36:59.300 --> 37:02.120]  I guess, yeah, the bottom, right, would be... yeah.
+[37:02.160 --> 37:04.500]  I think the skull bottom is, like, your top row of teeth.
+[37:04.500 --> 37:06.380]  Yeah. You know, that makes sense.
+[37:07.100 --> 37:09.880]  I just don't think... like, I could... let me take that back.
+[37:09.960 --> 37:13.000]  My nose obviously could be broken. I think my nose would be very hard to break.
+[37:13.400 --> 37:15.280]  I don't think you could just break my nose by punching me.
+[37:15.660 --> 37:17.360]  Okay. I think you're wrong.
+[37:17.760 --> 37:18.480]  I think you're wrong.
+[37:19.640 --> 37:20.720]  I don't know about that.
+[37:21.740 --> 37:27.820]  I think... dude, I just watched... last weekend I watched Mike Tyson and Roy Jones Jr. fight,
+[37:28.800 --> 37:34.000]  and there's a... Mike Tyson's a 54-year-old dude who could break your nose in one punch, I guarantee you.
+[37:34.000 --> 37:36.380]  I think everything else would break but the nose.
+[37:38.200 --> 37:42.040]  The nose stays intact. Everything else is flying away.
+[37:42.220 --> 37:45.480]  I'm not saying I'm invulnerable, just my nose is very sturdy.
+[37:45.640 --> 37:49.540]  So you'd have, like, a shattered eye socket, teeth knocked out.
+[37:49.560 --> 37:50.640]  Yeah, teeth flying everywhere.
+[37:50.920 --> 37:52.440]  But your nose would break his fist.
+[37:52.440 --> 37:56.900]  I'm not worried yet. The nose is the one thing I never feel I'd need to additionally protect.
+[37:57.900 --> 37:58.660]  It's fine.
+[37:59.440 --> 38:00.740]  Hey, you know what we should talk about?
+[38:01.100 --> 38:01.960]  What should we talk about?
+[38:02.320 --> 38:03.400]  Maybe we should talk about some bats.
+[38:03.400 --> 38:08.780]  Oh, yeah, that's a great idea. Instead of that, why don't we talk about why we didn't record the podcast last week?
+[38:08.900 --> 38:10.600]  What? Well, no. Well, okay, sure.
+[38:10.880 --> 38:13.380]  I feel like you're blaming me for that, but that's not my fault.
+[38:13.780 --> 38:14.320]  Who are you blaming?
+[38:14.880 --> 38:15.840]  It's Gavin's fault.
+[38:16.060 --> 38:17.280]  Yeah, I had to move it.
+[38:17.500 --> 38:23.360]  Because I moved something from an earlier podcast that got moved.
+[38:23.440 --> 38:27.560]  It had to be moved earlier because of just shelves or something, or Andrew's ankle.
+[38:28.260 --> 38:33.000]  So I moved my thing to what turned out to be last week.
+[38:35.220 --> 38:40.960]  Turns out it worked out well because I actually had to take my car to the shop that day.
+[38:41.000 --> 38:44.080]  And I did not want that covered in the podcast.
+[38:44.360 --> 38:46.400]  So when I cancelled, you were like, oh, thank God.
+[38:46.860 --> 38:51.060]  Yeah, kind of. I was like, oh, that's another bullet there.
+[38:51.360 --> 38:52.200]  What's wrong with it now?
+[38:52.440 --> 38:55.300]  Nothing. Nothing's wrong with it. It's perfect. It's amazing.
+[38:55.480 --> 38:56.680]  It's okay, you can tell us.
+[38:56.900 --> 39:00.500]  There's nothing wrong with it. I just had to get that brake thing fixed.
+[39:00.700 --> 39:00.980]  Okay.
+[39:00.980 --> 39:03.080]  It was just the sensor. It was fine. It's totally fine.
+[39:03.980 --> 39:05.800]  So the brakes are good, the sensor was bad.
+[39:06.100 --> 39:08.500]  Yeah, sensor was bad. So it got replaced.
+[39:08.700 --> 39:12.580]  And everything's wonderful in Gavin's car world.
+[39:12.920 --> 39:16.120]  That's good. I'm sorry for moving the podcast.
+[39:16.500 --> 39:17.120]  Oh, it's okay.
+[39:17.280 --> 39:23.040]  I would just like to say, I think we should consider ourselves all even now.
+[39:23.280 --> 39:26.200]  I moved the podcast for a very good shelf reason.
+[39:26.800 --> 39:29.080]  Andrew moved the podcast for some bullshit.
+[39:29.080 --> 39:31.600]  Gavin moved the podcast for the weakest of all reasons.
+[39:31.820 --> 39:33.440]  But, like, let's just all just say...
+[39:33.440 --> 39:34.120]  My reason was good.
+[39:34.640 --> 39:36.880]  We're all... yeah, sure, whatever.
+[39:37.300 --> 39:38.200]  I had robot training.
+[39:38.600 --> 39:40.300]  I couldn't sit in a chair.
+[39:40.680 --> 39:41.560]  We're even now.
+[39:41.800 --> 39:42.740]  No, I think the shelves...
+[39:42.740 --> 39:43.920]  We've all moved the podcast.
+[39:43.920 --> 39:46.000]  The shelves is by far the bottom of the pyramid.
+[39:46.280 --> 39:46.980]  Fuck you!
+[39:47.680 --> 39:48.260]  Fuck you!
+[39:48.600 --> 39:48.860]  Without a doubt.
+[39:48.860 --> 39:52.120]  You couldn't do the podcast because you couldn't sit down because your ankle hurt?
+[39:52.440 --> 39:57.560]  I did the podcast, every podcast we did for 11 weeks I had root canals while we were doing it.
+[39:57.560 --> 39:59.180]  I did the podcast several times.
+[39:59.300 --> 40:00.240]  I don't want to hear this shit.
+[40:00.820 --> 40:01.840]  I couldn't sit.
+[40:02.020 --> 40:02.240]  We are even.
+[40:02.240 --> 40:03.120]  It was hard to talk.
+[40:03.320 --> 40:04.140]  We are even.
+[40:05.140 --> 40:06.340]  Hey, we gotta calm down, Geoff.
+[40:06.660 --> 40:07.640]  We talked about this in the beginning.
+[40:07.740 --> 40:08.100]  Let's calm down.
+[40:08.200 --> 40:08.540]  Let's breathe.
+[40:08.780 --> 40:09.140]  Let's relax.
+[40:09.400 --> 40:10.620]  I'm just saying we're fucking even.
+[40:10.900 --> 40:11.720]  No, we're not even.
+[40:11.960 --> 40:16.660]  On the bright side, I got my wallpaper put in yesterday, so I'm that much closer to being back in my office.
+[40:17.160 --> 40:17.680]  That's exciting.
+[40:17.940 --> 40:23.580]  I think if Andrew and I both cancel one more time in the future, then we'll be even.
+[40:23.720 --> 40:25.620]  Because the shelf was like a double cancel.
+[40:26.180 --> 40:27.020]  I don't even know what that means.
+[40:27.020 --> 40:28.160]  It was just obscene.
+[40:28.240 --> 40:29.860]  It was an absurd cancellation.
+[40:30.440 --> 40:31.740]  It's totally incorrect.
+[40:32.300 --> 40:32.960]  Totally incorrect.
+[40:33.540 --> 40:35.320]  The shelf was exceptionally valid.
+[40:35.620 --> 40:36.440]  You saw the photos.
+[40:36.840 --> 40:38.220]  You saw the amount of work that was going in.
+[40:38.380 --> 40:41.960]  All in the service of giving me a permanent space to record this podcast.
+[40:42.480 --> 40:56.140]  If anything, I should be commended for spending the money and hiring shelf builders to come in and build a set for which I can now be comfortable in theory.
+[40:57.160 --> 40:58.240]  Performing this podcast.
+[40:58.440 --> 41:00.260]  I was doing it for us.
+[41:00.740 --> 41:01.380]  You're welcome.
+[41:01.760 --> 41:02.520]  You should expense it to the company.
+[41:06.520 --> 41:07.820]  You're right. I should.
+[41:08.120 --> 41:10.840]  Did you use that room to store the bats?
+[41:12.840 --> 41:13.240]  No.
+[41:14.160 --> 41:15.640]  No, I don't think they ever were in there.
+[41:15.940 --> 41:16.120]  Okay.
+[41:16.740 --> 41:17.140]  Interesting.
+[41:17.620 --> 41:18.540]  Fuck you guys, though.
+[41:18.920 --> 41:19.740]  So how do we...
+[41:19.740 --> 41:20.340]  What do you mean, Geoff?
+[41:20.340 --> 41:21.820]  How do we unravel the bats?
+[41:22.200 --> 41:22.580]  Yeah, go ahead.
+[41:22.620 --> 41:23.820]  I don't talk, Geoff.
+[41:23.860 --> 41:24.780]  You just talk about what you want to talk about.
+[41:24.780 --> 41:26.940]  I just think you guys are little shits.
+[41:27.140 --> 41:32.940]  I think you're little shits, and I knew you were being little shits, but I don't trust you enough that I...
+[41:32.940 --> 41:33.520]  What happened, Geoff?
+[41:33.560 --> 41:38.680]  You preyed on my insecurities, and I lost it a bit.
+[41:38.780 --> 41:39.480]  I'll be honest with you.
+[41:39.520 --> 41:42.280]  Not to mention the fact that the whole bat thing sucked from start to finish.
+[41:43.240 --> 41:44.180]  And I hope...
+[41:44.180 --> 41:45.100]  But I will say this.
+[41:45.460 --> 41:46.300]  The bats are done.
+[41:46.860 --> 41:47.740]  Here's what happened.
+[41:48.260 --> 41:49.120]  Alright, here's what happened.
+[41:50.000 --> 41:51.200]  Get back down on the bats.
+[41:51.420 --> 41:51.920]  What are the bats?
+[41:51.940 --> 41:52.340]  Okay, okay.
+[41:52.400 --> 41:53.460]  I had a brilliant idea.
+[41:53.460 --> 41:59.220]  The podcast is named F*** Face because of a funny baseball card.
+[42:00.620 --> 42:04.000]  Billy Ripken, Kyle Ripken Jr.'s brother, had a baseball bat.
+[42:04.380 --> 42:06.780]  It had written F*** Face on the knob.
+[42:07.460 --> 42:08.960]  And it was a 1999 Fleer.
+[42:08.980 --> 42:09.720]  It was a big deal.
+[42:10.180 --> 42:11.960]  They pulled the card from production.
+[42:12.260 --> 42:13.020]  It was an era card.
+[42:13.140 --> 42:14.780]  They replaced it with three different versions.
+[42:15.440 --> 42:17.140]  Then it came out years later that...
+[42:17.140 --> 42:22.820]  He had always said that one of his teammates had played a prank on him and written F*** Face on the bat, and he didn't know it.
+[42:22.820 --> 42:27.660]  And then he admitted years later he had written F*** Face on the bat himself and F*** Faced himself.
+[42:27.900 --> 42:30.760]  And that's kind of where the genesis of the idea of F*** Facing Yourself came from.
+[42:32.960 --> 42:35.880]  So I thought it would be funny to make...
+[42:35.880 --> 42:39.020]  This was at the height of everybody hating Andrew for the pencil bet.
+[42:39.280 --> 42:46.840]  I thought it would be funny to make little souvenir baseball bats that say F*** Face on them to sell in the store as like a little collectible.
+[42:46.840 --> 42:53.180]  And Andrew was very against that idea because I think he thought the audience was going to buy a bunch of baseball bats and try to break his nose with them.
+[42:53.200 --> 42:57.680]  It just seemed like a bad idea to sell a weapon when the audience was at their most angry.
+[42:59.660 --> 43:03.500]  So I jumped on that and I had the store order the bats.
+[43:03.580 --> 43:04.760]  And we got these little souvenir bats.
+[43:04.840 --> 43:05.900]  They're about 18 inches long.
+[43:06.300 --> 43:07.320]  They say F*** Face on them.
+[43:07.440 --> 43:13.960]  And then on the knob I was going to write F*** Face on a bunch of them.
+[43:13.960 --> 43:16.320]  And I had them order 50.
+[43:17.540 --> 43:21.320]  And so I thought, well that...
+[43:21.320 --> 43:24.320]  I should do something a little extra, a little more than that.
+[43:24.680 --> 43:31.840]  So I ordered a wood burning kit and a vice and all this equipment.
+[43:32.680 --> 43:41.960]  And then I got some special attachments for the wood burning kit and I wanted to hand number each of the bats to add to the collectability of them.
+[43:41.960 --> 43:47.200]  And so... horrible, horrible process by the way.
+[43:48.120 --> 43:49.700]  Eventually the bats come in.
+[43:50.240 --> 43:52.120]  I just get a bunch of bats at my front door.
+[43:52.480 --> 43:55.520]  And I'm like, okay cool, I'll deal with that later.
+[43:55.580 --> 43:57.440]  So I put them in a room and I forget about them.
+[43:57.440 --> 43:57.960]  Not the library.
+[43:58.920 --> 44:01.980]  And then, I'll be honest with you, I completely forgot about them.
+[44:02.100 --> 44:03.080]  I was being lazy about it.
+[44:03.080 --> 44:12.440]  And then, I think it was Mallory from the merch department slacked me the other day and said, hey, we just got this shipment of baseball bats.
+[44:12.460 --> 44:14.360]  Oh my god, the dog just farted so loud.
+[44:14.600 --> 44:16.660]  That was amazing.
+[44:17.260 --> 44:22.960]  So she sent a slack that said, hey, I just saw that a bunch of the baseball bats just arrived at work.
+[44:23.660 --> 44:24.940]  Can you come pick them up?
+[44:25.700 --> 44:28.880]  And I said, well, how can that be?
+[44:29.000 --> 44:30.180]  I already have the bats.
+[44:30.240 --> 44:31.020]  They were sent to my house.
+[44:31.120 --> 44:32.120]  I've had them for like a week.
+[44:32.740 --> 44:37.460]  And she said, can you send me a picture of them?
+[44:37.920 --> 44:39.140]  So I took a picture and I sent them to her.
+[44:39.280 --> 44:41.000]  And she just responded with, okay.
+[44:41.600 --> 44:42.780]  Which I thought was strange.
+[44:43.340 --> 44:48.760]  And then, you two took that as an opportunity to torture me.
+[44:49.000 --> 44:52.520]  No, that's not an accurate, I think...
+[44:52.520 --> 44:53.180]  What was the torture?
+[44:53.420 --> 44:54.760]  That's an interesting perspective.
+[44:55.000 --> 44:56.160]  You know what the torture was.
+[44:56.640 --> 44:59.040]  The audience doesn't have any idea what you're talking about.
+[44:59.040 --> 44:59.600]  What happened?
+[44:59.600 --> 45:04.920]  You both convinced me that they weren't real bats that I had received.
+[45:05.080 --> 45:08.160]  And that I had somehow received fake or joke bats.
+[45:08.960 --> 45:13.420]  And something was going to happen to me when I tried to burn them.
+[45:14.500 --> 45:18.300]  And then so I didn't want to touch them for like a week.
+[45:18.980 --> 45:23.200]  And then eventually, and I knew you were fucking with me intellectually.
+[45:23.620 --> 45:24.900]  But emotionally I couldn't get there.
+[45:25.300 --> 45:26.900]  And I got very upset.
+[45:27.080 --> 45:27.680]  I got very upset.
+[45:27.680 --> 45:30.980]  And I demanded to know why there were two sets of bats.
+[45:31.100 --> 45:34.100]  And I demanded to see photos of the bats at work.
+[45:35.020 --> 45:37.020]  And then there was a lot of backpedaling.
+[45:37.340 --> 45:40.240]  And then I threatened to burn the bats in my fire pit.
+[45:40.740 --> 45:42.020]  And I was serious.
+[45:42.320 --> 45:47.620]  And then, you know, and then cooler heads prevailed.
+[45:47.940 --> 45:48.820]  I have a question though.
+[45:48.940 --> 45:53.520]  As someone who had the bats, like you were able to pick up and hold the bats.
+[45:54.240 --> 45:55.900]  How could the bat be fake?
+[45:56.140 --> 45:56.740]  What does that mean?
+[45:56.740 --> 45:57.520]  I don't know.
+[45:57.620 --> 45:58.280]  I don't know what it was.
+[45:58.340 --> 45:59.520]  I don't know if it was coated in something.
+[45:59.840 --> 46:01.520]  I don't know if it was like a silly bat.
+[46:01.580 --> 46:03.460]  The knob was so incredibly small.
+[46:03.820 --> 46:06.480]  I didn't know if you guys bought like a special bat with a tiny knob.
+[46:06.560 --> 46:08.400]  Knowing it would be impossible for me to do the work on.
+[46:08.620 --> 46:11.920]  And then there was a real bat with a big knob at work waiting for me.
+[46:12.020 --> 46:15.360]  And then I would spend countless hours toiling away.
+[46:15.840 --> 46:20.640]  Hand burning these numbers in with a magnifying, I had a giant magnifying glass.
+[46:20.880 --> 46:22.520]  So that I could fucking sit here and do it.
+[46:22.660 --> 46:24.220]  And then I was going to get through all of them and go...
+[46:24.220 --> 46:27.520]  And then Mallory would be like, those aren't the bats, we can't sell those.
+[46:27.580 --> 46:28.060]  Those are fake.
+[46:28.280 --> 46:29.520]  And then I'd be like, oh Andrew.
+[46:30.960 --> 46:32.420]  And I just didn't trust you.
+[46:32.520 --> 46:33.940]  And you guys did a very good job.
+[46:34.460 --> 46:36.600]  And Eric, the little shit that Eric is too.
+[46:36.860 --> 46:39.960]  All three of you did a really good job of fucking with me.
+[46:40.080 --> 46:42.060]  To the point where I didn't know what was real and what was fake.
+[46:42.340 --> 46:43.420]  And it was all very frustrating.
+[46:44.200 --> 46:46.360]  The Slack conversation was fantastic.
+[46:46.500 --> 46:48.280]  It's leaked over into the merch channel.
+[46:48.500 --> 46:50.620]  Where you said, are there more bats RT?
+[46:50.920 --> 46:53.380]  Am I in possession of counterfeit bats?
+[46:53.380 --> 46:55.740]  Mallory said, these are the right ones.
+[46:55.980 --> 46:58.460]  Eric said, I don't know what you're talking about, Geoff.
+[46:58.920 --> 47:01.460]  Geoff said, I'll burn these fake bats.
+[47:02.140 --> 47:05.100]  Eric said, Geoff, no one would ever give you fake bats.
+[47:05.540 --> 47:10.000]  Geoff said, they're going in my fire pit tonight if I don't get any answers.
+[47:11.940 --> 47:13.660]  This went on for ages.
+[47:14.100 --> 47:17.080]  I'd like to compare these bats to the bats at RT.
+[47:17.860 --> 47:20.960]  At this point Mallory's like, there aren't any bats at RT.
+[47:22.280 --> 47:26.220]  What's really important to note is that there are gaps in time between these messages too.
+[47:26.580 --> 47:29.840]  This is a day, this is a whole day of this bat issue.
+[47:30.140 --> 47:32.940]  I feel like we should provide Geoff with some context, Gavin.
+[47:33.120 --> 47:34.760]  And then there were a bunch of bats in the...
+[47:34.760 --> 47:37.760]  The three of us have a text chain.
+[47:37.960 --> 47:42.160]  And you guys tortured me in that text chain forever about the goddamn bats.
+[47:43.480 --> 47:44.360]  Okay, so...
+[47:44.360 --> 47:45.620]  What did we put in the text?
+[47:45.860 --> 47:48.840]  Oh yeah, it goes on for a long time.
+[47:48.840 --> 47:51.500]  It does. They're great.
+[47:52.000 --> 47:53.460]  It was a great conversation.
+[47:53.840 --> 47:58.760]  We have been planning this, Geoff, since they were announced as a thing.
+[47:59.120 --> 47:59.700]  Gavin and I.
+[47:59.980 --> 48:01.260]  We've been talking about this.
+[48:01.540 --> 48:04.400]  As soon as you put the effort of putting the bats forward,
+[48:05.020 --> 48:07.360]  Gavin and I were having a conversation, and I just observed,
+[48:07.440 --> 48:10.340]  because you said you wanted to sign the bats from the beginning, the knob of the bat.
+[48:10.660 --> 48:13.020]  And they were absurdly small, even in the photo.
+[48:13.320 --> 48:16.020]  It's like, there's no way. This is an impossible thing you want to do.
+[48:16.020 --> 48:17.800]  And I was talking to Gavin about it.
+[48:18.320 --> 48:23.160]  And then, I think he came up with the idea of coating the bats in some sort of thing,
+[48:23.380 --> 48:24.520]  so you couldn't... like, half of them.
+[48:24.900 --> 48:29.100]  Yeah, I thought it'd be a great idea to take 50% of the bats
+[48:29.100 --> 48:32.160]  and dip them in a hydrophobic coating,
+[48:32.400 --> 48:34.780]  so that if you had a Sharpie, it just wouldn't take.
+[48:35.080 --> 48:37.040]  Because this was back when we thought you were writing on them.
+[48:37.440 --> 48:38.840]  Yeah, this was right at the start.
+[48:39.420 --> 48:41.780]  So we agreed this was a fantastic idea.
+[48:42.220 --> 48:43.880]  We tried to figure out the logistics,
+[48:43.880 --> 48:45.580]  and I was like, well, just Eric's the producer.
+[48:45.780 --> 48:48.320]  I'll tell Eric about this, maybe he can do it.
+[48:48.340 --> 48:49.900]  So I tell Eric, and he's like,
+[48:50.080 --> 48:53.320]  I'll talk to Tony, who works in the merchandise department,
+[48:53.860 --> 48:55.260]  and they'll figure something out.
+[48:55.580 --> 48:56.540]  That's where we left it.
+[48:56.920 --> 48:59.880]  Then we'd occasionally get updates in the merch chat,
+[49:00.980 --> 49:01.900]  like Tony was saying,
+[49:02.100 --> 49:03.780]  we're just gonna send you a card to sign,
+[49:03.860 --> 49:05.180]  so you don't even have to sign the bats.
+[49:05.420 --> 49:09.100]  Which then led me to believe that Eric never actually talked to Tony about the bats,
+[49:09.460 --> 49:10.980]  and that the bats were not being coated.
+[49:10.980 --> 49:14.260]  So then there was this series of texts between Gavin and I throughout,
+[49:14.500 --> 49:16.100]  in between now and when that started,
+[49:16.620 --> 49:18.820]  of do we talk about the bat thing, and that it didn't happen.
+[49:19.220 --> 49:21.760]  Do we yell at Eric about the bats, he let us down about the bats.
+[49:22.120 --> 49:23.020]  But we just kept it going.
+[49:23.680 --> 49:26.560]  And then, the final update with you and the Mallory talk,
+[49:26.580 --> 49:29.140]  and you said that you got a wood engraver to sign them,
+[49:29.700 --> 49:31.000]  I messaged Gavin, and I said,
+[49:31.080 --> 49:33.280]  man, I did not see the wood engraver twist coming.
+[49:33.580 --> 49:36.600]  Even if we coated the bats, it wouldn't have made a difference.
+[49:37.060 --> 49:40.340]  Even if we did it, if it was successful, it wouldn't have come through.
+[49:40.340 --> 49:43.000]  Yeah, we couldn't pull it off, and even if we did, wouldn't have mattered.
+[49:43.100 --> 49:44.260]  Wouldn't have mattered in the slightest.
+[49:44.520 --> 49:49.380]  But I said, we have such, there's such a paranoia around all the stuff we've done in this show,
+[49:49.440 --> 49:54.000]  especially with Mae, I bet if I just imply that the bats are tampered with,
+[49:54.420 --> 49:58.360]  Geoff would then think they were, and it would be like we did the thing we didn't do.
+[49:58.660 --> 50:00.000]  And then it's arguably even funny.
+[50:00.200 --> 50:02.880]  You just started saying stuff like, Geoff, how are the bats?
+[50:03.120 --> 50:04.920]  And that was enough. It was like Inception.
+[50:05.060 --> 50:07.560]  That was enough to plant the idea within Geoff's mind,
+[50:07.940 --> 50:09.620]  that ate him away from the inside.
+[50:09.620 --> 50:12.740]  And that coincidentally coincide, what?
+[50:13.520 --> 50:15.240]  I almost said coincidentally coincide.
+[50:16.620 --> 50:20.700]  That coincided with Mallory saying that the bats were at the office,
+[50:20.760 --> 50:25.700]  when in fact they were at your house, which then just naturally bled into you thinking
+[50:25.700 --> 50:28.640]  there were two sets of bats. It was absolutely perfect.
+[50:28.960 --> 50:34.000]  And we basically were able to enjoy all of, you know, if we had pulled it off,
+[50:34.040 --> 50:36.520]  we got all the enjoyment out of it, even though we didn't do anything.
+[50:36.560 --> 50:37.400]  We did nothing.
+[50:37.820 --> 50:38.520]  It was fantastic.
+[50:38.520 --> 50:40.020]  I was laughing constantly.
+[50:40.200 --> 50:43.320]  But there's another layer to this, that is even more complicated.
+[50:43.460 --> 50:45.840]  This got really deep. This was a whole game of deception.
+[50:46.000 --> 50:46.940]  I didn't know who to trust.
+[50:47.400 --> 50:49.960]  I then messaged Eric about it, and I said,
+[50:50.100 --> 50:53.960]  how long do you think it'll take for Geoff to notice that he has manipulated bats?
+[50:54.540 --> 50:57.020]  And Eric's response was that they were manipulated.
+[50:57.540 --> 51:02.360]  So then I was confused of if the bats were actually tampered with in some capacity,
+[51:02.520 --> 51:04.020]  or if Eric was just going with it.
+[51:04.340 --> 51:07.500]  So I'd love to know, Eric, were the bats tampered with in any capacity,
+[51:07.500 --> 51:09.880]  or were you just conversationally going with what I was saying?
+[51:10.420 --> 51:13.440]  Geoff, we would never give you messed up bats.
+[51:13.660 --> 51:14.140]  Fascinating.
+[51:14.280 --> 51:15.700]  We would never do anything.
+[51:16.000 --> 51:17.300]  That's a fascinating approach.
+[51:17.800 --> 51:24.360]  It's gone so deep that throughout this, I didn't know anymore whether the bats were actually messed with,
+[51:24.760 --> 51:27.360]  to the point where I didn't know if I could even trust Andrew.
+[51:27.740 --> 51:32.280]  We had a real moment of like, I don't know if I can trust you anymore.
+[51:32.280 --> 51:37.780]  You were talking to me in confidence, to the point where everyone didn't know anything else.
+[51:37.980 --> 51:40.460]  And I was like, Andrew, please don't turn on me.
+[51:40.520 --> 51:45.360]  And you were like, we can't turn on each other, we're all we've got, basically.
+[51:45.740 --> 51:49.500]  It was a situation of which I'm almost certain the bats aren't tampered with,
+[51:49.640 --> 51:51.320]  but I don't know that to be true.
+[51:51.420 --> 51:53.560]  I'm 99% sure they're not tampered with.
+[51:54.380 --> 51:57.540]  And I couldn't tell if Eric knew that they weren't tampered with,
+[51:57.580 --> 52:01.580]  or if he thought that I had tampered with the bats, because I've done stuff like that.
+[52:01.580 --> 52:04.800]  Has anyone tried writing on the bats?
+[52:05.360 --> 52:07.020]  Here's the deal with the bats.
+[52:09.200 --> 52:11.480]  I'm pretty sure they were tampered with.
+[52:13.320 --> 52:14.360]  Here's why.
+[52:15.180 --> 52:19.680]  This all but confirms it for me.
+[52:20.240 --> 52:23.500]  I haven't tried to write on the bats with a sharpie because
+[52:24.640 --> 52:27.820]  Tony sent me 50 baseball cards to autograph,
+[52:27.820 --> 52:32.780]  so each bat's gonna come with a little f*** face baseball card that's autographed by me.
+[52:33.280 --> 52:37.260]  But I didn't know, and I guess I still technically don't,
+[52:37.340 --> 52:40.400]  I didn't know if the bats came with a protective coating,
+[52:41.540 --> 52:43.700]  like some sort of a clear polyurethane coating,
+[52:43.800 --> 52:46.960]  because they're just like a f***ing toy bat and that's how they come or not.
+[52:47.320 --> 52:54.820]  But there's definitely a coating on the bats that played hell on my engraving.
+[52:54.820 --> 52:56.600]  I had to...
+[52:57.740 --> 53:01.480]  What I had to do was I had to take each bat and with a pencil in the magnifying glass,
+[53:01.800 --> 53:06.360]  I had to write like three horizontal lines, 50.
+[53:06.740 --> 53:09.920]  4 slash 50, 5 slash 50, right?
+[53:10.000 --> 53:12.580]  I assume that just finished with some sort of seal.
+[53:12.580 --> 53:15.340]  Whatever the finish is, it's f***ing annoying.
+[53:15.720 --> 53:19.100]  Then I had to go through at a certain temperature, it took me a while to figure this out,
+[53:19.420 --> 53:22.320]  with the wood engraver, and burn that off.
+[53:23.160 --> 53:26.600]  So that I could get to the wood to then burn the wood.
+[53:26.900 --> 53:32.500]  So I don't know if Eric's jumping on this to make it seem like they were actually f***ed with,
+[53:32.580 --> 53:34.620]  or if they were actually f***ed with or not,
+[53:35.200 --> 53:40.160]  but if they're just normal bats, the process of burning a number into a bat is f***ing annoying,
+[53:40.420 --> 53:41.780]  because you have to do it twice.
+[53:42.140 --> 53:45.080]  And it's tiny, the knobs are so tiny,
+[53:45.300 --> 53:48.520]  but I definitely had to number every bat two times.
+[53:48.820 --> 53:50.320]  And some of them, you can tell.
+[53:50.320 --> 53:52.060]  Why don't you just sand the knobs?
+[53:52.380 --> 53:54.860]  I started to. I did.
+[53:55.100 --> 53:58.200]  I got about 20, maybe 30 in,
+[53:58.640 --> 54:01.140]  and I got one of Emily's nail files,
+[54:01.500 --> 54:04.880]  and I sanded down the knobs on every bat from that point on.
+[54:05.340 --> 54:07.340]  Nick just brought up a great point in the Discord.
+[54:07.600 --> 54:10.360]  This paranoia extended, because the thought was,
+[54:10.560 --> 54:13.160]  this is all going to play out, and then we're recording the next day,
+[54:13.200 --> 54:15.740]  and things will be settled, but then Gavin moved the recording,
+[54:16.140 --> 54:18.360]  so it was just freefall of this bat paranoia.
+[54:18.360 --> 54:20.520]  Until today, which we can talk about it.
+[54:20.780 --> 54:23.260]  I saw, because we moved the recording,
+[54:23.440 --> 54:25.760]  and Geoff said, I don't trust any of you f***ers,
+[54:25.880 --> 54:27.800]  I'm going to show up at the recording time anyway,
+[54:27.960 --> 54:29.260]  I think this is a bit. I did.
+[54:29.260 --> 54:34.020]  So Geoff, I missed that, but I saw the log of Eric queuing in the bot
+[54:34.020 --> 54:35.480]  that we used to record audio,
+[54:35.980 --> 54:38.800]  and I saw the log of that, and I got so suspicious,
+[54:39.260 --> 54:41.640]  that I was like, then I'm just going to pretend that I recorded something.
+[54:42.000 --> 54:44.260]  So then I went in, and I summoned the bot,
+[54:44.380 --> 54:47.360]  and I sat there for like 20 minutes, and then I called the bot off.
+[54:47.360 --> 54:48.840]  Because I didn't know what the audio was.
+[54:49.160 --> 54:50.860]  It was very, it was a lot of paranoia.
+[54:51.220 --> 54:53.120]  I didn't know what was recorded, or what was planned.
+[54:53.440 --> 54:56.760]  I showed up just in case, and Eric was there waiting for me.
+[54:57.380 --> 54:59.960]  And so I had a brief conversation with Eric about the stupidity.
+[54:59.960 --> 55:01.780]  Should we play that audio in this episode?
+[55:02.160 --> 55:05.080]  We should. I think we should absolutely, I think it is.
+[55:05.180 --> 55:06.720]  I think in the context of the paranoia.
+[55:07.300 --> 55:08.900]  It's very funny, I would slot it in right now.
+[55:09.540 --> 55:09.740]  Here.
+[55:12.020 --> 55:13.120]  There's no podcast today.
+[55:13.520 --> 55:13.900]  Yeah, I know.
+[55:14.520 --> 55:15.460]  So why are you hanging out in here?
+[55:15.460 --> 55:19.220]  Just making sure, just in case anybody stops by and says what's going on.
+[55:20.100 --> 55:20.580]  Okay.
+[55:20.980 --> 55:22.700]  Yeah, there's no podcast.
+[55:23.220 --> 55:25.720]  I don't trust anything anybody says anymore.
+[55:26.040 --> 55:28.540]  What's, I don't know what the issue is.
+[55:29.080 --> 55:29.620]  There's no podcast.
+[55:31.220 --> 55:31.480]  Okay.
+[55:31.820 --> 55:32.620]  How are your bats?
+[55:33.060 --> 55:33.860]  They're fine.
+[55:34.160 --> 55:34.420]  Okay.
+[55:34.940 --> 55:37.360]  I'm gonna deal with them at some point in the future.
+[55:37.980 --> 55:38.920]  I'm ignoring them right now.
+[55:39.160 --> 55:40.400]  You're gonna deal with them?
+[55:40.740 --> 55:42.820]  Yeah, I gotta like personalize them and all.
+[55:43.160 --> 55:44.920]  Oh, okay, have you tried that?
+[55:44.920 --> 55:45.560]  No.
+[55:46.040 --> 55:46.380]  Okay.
+[55:46.920 --> 55:48.280]  Stop saying it like that.
+[55:48.720 --> 55:49.420]  Saying like what?
+[55:49.760 --> 55:50.080]  Alright.
+[55:50.540 --> 55:51.760]  I'm just asking you about your bats.
+[55:52.060 --> 55:53.440]  I'm leaving. I'm going.
+[55:53.800 --> 55:54.400]  Okay, goodbye.
+[55:55.640 --> 55:57.020]  He never saw it coming.
+[55:59.280 --> 56:00.060]  Well, alright.
+[56:00.220 --> 56:00.380]  It was great.
+[56:00.480 --> 56:02.180]  I told you, that was not interesting.
+[56:02.480 --> 56:04.780]  So that was in the midst of bat confusion.
+[56:05.020 --> 56:10.560]  It was in the midst of bat paranoia, and it even extended to as far, as I was trying to get,
+[56:10.560 --> 56:13.800]  I was trying to gauge where Geoff was, because Geoff had gone quiet, and I didn't feel like
+[56:13.800 --> 56:14.960]  I could talk to Geoff directly.
+[56:15.160 --> 56:17.800]  So I texted Geoff's girlfriend about it, the bats.
+[56:17.860 --> 56:24.620]  I was trying to get a bat read on Geoff, and then she gave me an update, and then sent
+[56:24.620 --> 56:29.580]  me a photo of Geoff, and I thought, I'm gonna try to mess with Geoff from the inside even
+[56:29.580 --> 56:29.860]  more.
+[56:29.940 --> 56:34.240]  So then I just texted that photo of him at the table, engraving the bats with no context,
+[56:34.720 --> 56:38.800]  and then there was some conversation that was had, and she, I don't think, was thrilled
+[56:38.800 --> 56:41.080]  that I blew up her spot, which is completely understandable.
+[56:41.440 --> 56:42.500]  She's ride or die, buddy.
+[56:43.020 --> 56:44.000]  She's never gonna turn.
+[56:44.080 --> 56:44.700]  She's true blue.
+[56:44.940 --> 56:53.120]  Well, that's the thing of, I felt bad once she was like, hey, you called out my spot,
+[56:53.160 --> 56:54.140]  and I was like, I shouldn't have done that.
+[56:54.200 --> 56:55.320]  I should have approached that differently.
+[56:55.820 --> 57:00.100]  But then I talked to Gavin about, I can't tell her that we don't think the bats are
+[57:00.100 --> 57:03.200]  tampered with, because at this point, I feel like she would tell you.
+[57:03.320 --> 57:06.440]  But I also feel bad, and I don't want to just, like, ignore that message.
+[57:06.440 --> 57:11.120]  So I apologized, and then I just lied to her and said that the bats were definitely
+[57:11.120 --> 57:12.300]  tampered with.
+[57:13.860 --> 57:18.400]  Under the expectation, she would then tell you the bats were tampered with, and then
+[57:18.400 --> 57:21.860]  I was concerned that you're actually gonna burn all the bats, which would have been amazing,
+[57:22.100 --> 57:22.980]  but I would feel bad about it.
+[57:23.280 --> 57:29.060]  I've also, I found here the original inception moment in our text chain, where Andrew says,
+[57:29.240 --> 57:30.340]  let us know how it goes.
+[57:31.160 --> 57:33.080]  Have you noticed anything about the bats?
+[57:33.500 --> 57:35.660]  Geoff replied, dot, dot, dot.
+[57:35.660 --> 57:38.580]  I wrote, yeah, how normal are these bats?
+[57:38.880 --> 57:40.120]  On a scale of one to ten.
+[57:40.620 --> 57:44.280]  Andrew said, just let us know how it goes, and record whatever happens.
+[57:44.860 --> 57:47.140]  Geoff said, I hate you all so much.
+[57:48.780 --> 57:50.100]  It's a fantastic time.
+[57:50.300 --> 57:52.620]  I was laughing so hard throughout that whole day.
+[57:52.800 --> 57:54.980]  It's one of the most fun days I've had in a long time.
+[57:55.080 --> 58:00.680]  I didn't, and those bats, the bats have been, they've been poured over by everybody
+[58:00.680 --> 58:01.500]  in my house.
+[58:01.620 --> 58:02.660]  My mom was here for a month.
+[58:02.960 --> 58:04.240]  She looked over the bats.
+[58:04.240 --> 58:06.420]  Emily and I looked over the bats a million times.
+[58:06.800 --> 58:08.840]  Millie, for whatever the thing is.
+[58:08.960 --> 58:09.480]  I don't know.
+[58:10.100 --> 58:12.260]  And I already don't trust anybody.
+[58:12.560 --> 58:14.020]  Like, I don't trust either of you idiots.
+[58:14.160 --> 58:15.360]  I definitely don't trust Eric.
+[58:15.740 --> 58:17.380]  I trusted Nick.
+[58:17.500 --> 58:18.580]  I'm not so sure about him.
+[58:18.920 --> 58:22.420]  I definitely don't trust my daughter, because she's a shill for you, Andrew.
+[58:22.760 --> 58:25.260]  So it's like, I was so paranoid about these fucking bats.
+[58:25.420 --> 58:30.800]  For weeks and weeks, it's caused, it's taken months off of my life.
+[58:30.800 --> 58:34.600]  The process of receiving and getting these bats out the door.
+[58:34.640 --> 58:35.820]  By the way, they are out of my house.
+[58:36.100 --> 58:37.000]  I am done with them.
+[58:37.080 --> 58:37.540]  Oh, they're done.
+[58:37.800 --> 58:42.880]  It was a brutal weekend of sitting there at a table, numbering these bats.
+[58:42.940 --> 58:47.040]  And let me tell you, whatever we charge for these bats, when we eventually sell them,
+[58:47.260 --> 58:48.360]  it is not enough.
+[58:48.460 --> 58:51.780]  If we charged a hundred bucks a bat, that wouldn't be enough.
+[58:51.800 --> 58:55.480]  Because I put a hundred bucks worth of work into every stupid bat.
+[58:55.860 --> 58:58.300]  And I even did special stuff.
+[58:58.300 --> 59:00.780]  The first one I wrote, I did the f*** face, right?
+[59:00.860 --> 59:01.660]  Like the Billy Ripken f*** face.
+[59:01.740 --> 59:02.560]  And it didn't look great.
+[59:02.620 --> 59:03.480]  And I thought, well, fuck it.
+[59:03.940 --> 59:04.880]  We got some extras.
+[59:05.040 --> 59:07.000]  I'll just do, I'll shit can that one.
+[59:07.080 --> 59:08.480]  And then I'll do 1 through 50.
+[59:08.580 --> 59:10.640]  And then I thought, no, that's the first bat.
+[59:11.000 --> 59:11.640]  It's special.
+[59:11.900 --> 59:12.920]  That'll be number 1.
+[59:13.140 --> 59:14.960]  So then I numbered 2 through 50.
+[59:15.120 --> 59:18.620]  And then I thought, you know, it'd be funny, because I made that one.
+[59:18.760 --> 59:20.860]  What if I made number 51 of 50?
+[59:20.900 --> 59:23.120]  So we're actually gonna sell 51 bats.
+[59:23.560 --> 59:24.560]  51 of 50.
+[59:24.800 --> 59:27.280]  One of them will be number 51 of 50, which is weird.
+[59:27.280 --> 59:29.300]  And then one of them will just say f*** face on it.
+[59:29.340 --> 59:31.080]  So if you get that bat, it's gonna be random.
+[59:31.240 --> 59:33.320]  Congratulations, you got the fucking worst one.
+[59:33.740 --> 59:40.460]  Then I thought, Rebecca, who we all know, member of the community that we love dearly.
+[59:40.680 --> 59:42.460]  She was like, I'm so excited about these bats.
+[59:42.560 --> 59:46.720]  And then I thought about her buying a bat and having it shipped all the way to England, where she lives.
+[59:46.780 --> 59:49.980]  And that seemed like way too much money for somebody to spend.
+[59:50.060 --> 59:52.140]  And then also, I didn't know if these bats were tainted in some way.
+[59:52.360 --> 59:54.060]  So I was like, I'm gonna give you a bat.
+[59:54.220 --> 59:57.060]  And then I thought, if I'm gonna give Rebecca a bat, I want it to be special.
+[59:57.060 --> 59:59.040]  So I asked her what her favorite number was.
+[59:59.220 --> 01:00:00.160]  Her favorite number is 21.
+[01:00:00.600 --> 01:00:05.720]  So bat number 21 has a special R written on the other side of the bat that we're gonna mail to her specifically.
+[01:00:06.060 --> 01:00:10.640]  And then I thought, if I'm gonna make a special bat for Rebecca, we've gotta have a special bat for superfan Jack.
+[01:00:10.860 --> 01:00:12.580]  So I asked Jack what his favorite number is.
+[01:00:12.860 --> 01:00:13.900]  Jack's favorite number is 37.
+[01:00:14.380 --> 01:00:18.760]  So Jack got a special bat that's 37 of 50 on the other end with a J on the other end of it.
+[01:00:18.900 --> 01:00:20.620]  So much fucking work went into these bats.
+[01:00:20.680 --> 01:00:22.300]  And then I made bats for all of you.
+[01:00:22.300 --> 01:00:23.960]  I made an Andrew bat.
+[01:00:24.040 --> 01:00:24.920]  And I made a Gavin bat.
+[01:00:24.940 --> 01:00:26.740]  And I made an Eric bat.
+[01:00:26.880 --> 01:00:27.940]  And I made a Nick bat.
+[01:00:28.360 --> 01:00:30.280]  And I hated every second of it.
+[01:00:30.600 --> 01:00:32.720]  And I'm so fucking done with these bats.
+[01:00:32.880 --> 01:00:36.280]  And now Andrew wants to sell knobs.
+[01:00:36.540 --> 01:00:39.140]  And he's being a knob about the idea of knobs.
+[01:00:39.320 --> 01:00:43.180]  There was this whole knob measuring conversation that was mind-numbing.
+[01:00:43.420 --> 01:00:44.740]  I don't know how it sounds.
+[01:00:45.520 --> 01:00:49.920]  I just like, at the end of all this, I don't know if I enjoyed it.
+[01:00:49.920 --> 01:00:51.760]  I don't even know if they got tampered with.
+[01:00:51.880 --> 01:00:52.900]  I don't know what happened.
+[01:00:53.060 --> 01:00:54.960]  It got completely away from me.
+[01:00:55.380 --> 01:00:57.520]  Andrew took it and ran. I don't know what happened.
+[01:00:57.780 --> 01:00:58.500]  I had a lot of fun.
+[01:00:58.660 --> 01:01:00.160]  Either way, you tortured me mentally.
+[01:01:00.740 --> 01:01:05.460]  And if the bats were physically tampered with, it worked because it was a tremendous pain in the ass.
+[01:01:05.560 --> 01:01:10.400]  If they weren't physically tampered with, it sucked because it was a tremendous pain in the ass.
+[01:01:10.760 --> 01:01:15.400]  Either way, I'm not numbering any more bats any time soon.
+[01:01:15.400 --> 01:01:21.680]  The worst part about this for me was I broke my phone like three days into this bat controversy.
+[01:01:21.840 --> 01:01:24.620]  I had no way of communicating or seeing any of the messages that were going on.
+[01:01:24.900 --> 01:01:30.320]  So I felt like I was a soldier on an island that nobody said the war was over to, and it's been like 20 years.
+[01:01:30.420 --> 01:01:31.480]  I had no idea what was happening.
+[01:01:31.940 --> 01:01:33.720]  Did you bite even deeper through the phone?
+[01:01:34.120 --> 01:01:37.860]  I don't know how to explain how I broke it.
+[01:01:37.920 --> 01:01:38.940]  I broke it on my bed.
+[01:01:39.660 --> 01:01:40.740]  It was a bed break.
+[01:01:41.040 --> 01:01:41.920]  Was it near your ankle?
+[01:01:41.920 --> 01:01:43.640]  No, it wasn't an ankle thing.
+[01:01:43.820 --> 01:01:47.340]  You know a good knee slapper of a joke?
+[01:01:49.120 --> 01:01:51.320]  The classic knee slapper of a joke?
+[01:01:51.660 --> 01:01:51.900]  Yeah.
+[01:01:52.660 --> 01:01:57.120]  I did one of those with my phone, and I put it into my bed, and the screen just shattered.
+[01:01:57.460 --> 01:01:58.120]  It just broke.
+[01:01:58.840 --> 01:01:59.720]  And so my phone died.
+[01:02:00.900 --> 01:02:02.200]  Was it eight pillows high?
+[01:02:02.560 --> 01:02:05.020]  No, it was no pillows at all.
+[01:02:05.140 --> 01:02:05.940]  I was just laying in bed.
+[01:02:07.100 --> 01:02:08.680]  I was just kind of relaxing.
+[01:02:08.680 --> 01:02:11.040]  I didn't have my pillow tower, so I wasn't going to sleep.
+[01:02:11.420 --> 01:02:13.000]  I don't know what you're sleeping on.
+[01:02:13.080 --> 01:02:15.540]  Your ankles get hurt, your phone breaks on it.
+[01:02:15.740 --> 01:02:17.180]  What's your mattress made of?
+[01:02:17.420 --> 01:02:18.260]  It's a nice mattress.
+[01:02:18.680 --> 01:02:19.880]  It's like a foamy mattress.
+[01:02:20.480 --> 01:02:21.260]  It was very weird.
+[01:02:21.340 --> 01:02:25.360]  I just think it was the perfect blow to the right spot, and everything broke.
+[01:02:26.000 --> 01:02:28.680]  And so I didn't have any way to communicate with anyone for a week.
+[01:02:28.960 --> 01:02:31.120]  So I'm just eagerly thinking, what's going on?
+[01:02:31.320 --> 01:02:34.820]  And then when I got my new phone, I lost all of my text history.
+[01:02:34.820 --> 01:02:42.500]  So the first thing I saw in that group chat was Geoff saying, for our number one fan, and it was the video of the jack bat, the super fan jack bat.
+[01:02:42.660 --> 01:02:45.100]  But I didn't have any context or knew if I missed anything.
+[01:02:45.400 --> 01:02:49.460]  So I immediately texted Gavin, like, what does this mean? Is this related?
+[01:02:49.900 --> 01:02:50.540]  It was great.
+[01:02:51.120 --> 01:02:52.580]  Bat paranoia was a lot of fun.
+[01:02:52.740 --> 01:03:00.860]  I'm telling you, right now, if you buy one of those bats, it comes with a...
+[01:03:00.860 --> 01:03:05.420]  You're buying a piece of my mental torment and misery.
+[01:03:05.760 --> 01:03:06.920]  We'll call it limited edition.
+[01:03:07.160 --> 01:03:08.800]  It's imbued in the bat.
+[01:03:09.340 --> 01:03:12.360]  Limited edition numbered potentially counterfeit bat.
+[01:03:12.620 --> 01:03:14.280]  But no one is 100% sure.
+[01:03:14.700 --> 01:03:16.160]  I mean, they're gonna go up for sale soon, right?
+[01:03:16.500 --> 01:03:21.240]  I assume so. I dropped them off at work Monday, actually.
+[01:03:21.540 --> 01:03:24.560]  So the autographed cards and the bats are all there.
+[01:03:24.760 --> 01:03:25.740]  You put them with the other ones?
+[01:03:26.420 --> 01:03:27.080]  Fuck off.
+[01:03:28.520 --> 01:03:29.320]  Fuck off.
+[01:03:29.400 --> 01:03:30.860]  And I have y'all's bats here.
+[01:03:31.200 --> 01:03:33.140]  I'll mail them or give them to you or whatever.
+[01:03:33.420 --> 01:03:34.240]  Fucking burn them.
+[01:03:34.660 --> 01:03:36.260]  Burn them and mail them to you.
+[01:03:37.660 --> 01:03:42.460]  I fucking was trying to do something fun and clever and unique and different.
+[01:03:42.800 --> 01:03:46.820]  I'm trying to, through f***face, have a deeper relationship to the merchandising.
+[01:03:47.000 --> 01:03:51.080]  And I thought it would be interesting if the stuff that we sell is more than just a logo slap.
+[01:03:51.220 --> 01:03:55.400]  But there's a bit of our personality in it in a way that we haven't done previously with Rooster Teeth.
+[01:03:55.400 --> 01:04:02.020]  And so I thought the idea of this hand lettering and us actually working on it in some way...
+[01:04:02.020 --> 01:04:06.460]  It would just make it more fun for the audience.
+[01:04:06.620 --> 01:04:09.080]  But you told us about it, Geoff. You f***faced yourself.
+[01:04:09.440 --> 01:04:10.880]  I know. I f***faced myself hard.
+[01:04:10.920 --> 01:04:13.840]  I feel like the bats are in a way better place than they would have if you just signed them.
+[01:04:14.100 --> 01:04:16.880]  There's a whole lore around these bats. A whole history.
+[01:04:17.040 --> 01:04:19.280]  There was stress. There was manipulating going on.
+[01:04:19.320 --> 01:04:21.140]  Nobody knew who to trust. It's fantastic.
+[01:04:21.400 --> 01:04:23.400]  There's lore in these bats now. It's just like the hats.
+[01:04:23.400 --> 01:04:24.340]  Yeah. It's great.
+[01:04:24.340 --> 01:04:26.540]  There's a story behind every...
+[01:04:26.540 --> 01:04:27.640]  Yeah. Yeah.
+[01:04:28.580 --> 01:04:29.480]  You don't sound enthused.
+[01:04:32.200 --> 01:04:35.520]  When they go on sale, if you buy one of these thousand dollar bats...
+[01:04:38.900 --> 01:04:43.880]  If you buy one of these dumb bats, know that the number on the bottom of it...
+[01:04:43.880 --> 01:04:46.920]  The very shittily burned number on the bottom of it...
+[01:04:46.920 --> 01:04:51.960]  Includes a lot of personal swearing and yelling from me while I'm doing it.
+[01:04:52.380 --> 01:04:55.440]  And my mom looking at me disapprovingly from the sofa.
+[01:04:56.280 --> 01:04:57.380]  Solid episode, lads.
+[01:04:57.760 --> 01:04:59.420]  Yeah. We need to...
+[01:05:00.100 --> 01:05:01.160]  I guess we need to wrap it up.
+[01:05:01.320 --> 01:05:04.040]  And then we have to record another one because Gavin had a robot.
+[01:05:04.380 --> 01:05:06.380]  I had a robot. Well, we don't have to...
+[01:05:06.380 --> 01:05:07.340]  Eric wanted to do two.
+[01:05:07.760 --> 01:05:08.460]  Well, we probably should.
+[01:05:09.000 --> 01:05:09.720]  Let's do another one.
+[01:05:10.860 --> 01:05:12.420]  There's something else we should talk about.
+[01:05:12.700 --> 01:05:14.980]  Like what? We're doing another episode. What do you mean?
+[01:05:15.620 --> 01:05:16.840]  Why are we stalling this one?
+[01:05:17.040 --> 01:05:20.620]  No, no, no. We should wrap. I had something for the next episode.
+[01:05:20.620 --> 01:05:22.840]  But why bring it up now? We're trying to close the episode.
+[01:05:22.840 --> 01:05:24.420]  Eric says in the chat...
+[01:05:24.420 --> 01:05:26.300]  We can do two next week. It's up to you.
+[01:05:26.640 --> 01:05:29.560]  But you, in all caps, have to end this one.
+[01:05:29.720 --> 01:05:30.900]  End this one now.
+[01:05:31.380 --> 01:05:33.560]  Well, why? Because it's going to get uploaded in half.
+[01:05:33.640 --> 01:05:35.560]  So if we go a few more minutes...
+[01:05:35.560 --> 01:05:36.320]  Then...
+[01:05:36.320 --> 01:05:39.340]  If we go like ten more minutes, it'll be like a normal episode.
+[01:05:40.020 --> 01:05:40.420]  Alright.
+[01:05:41.540 --> 01:05:41.940]  And...
+[01:05:41.940 --> 01:05:43.920]  Thanks for listening to another episode of F*** Face.
+[01:05:43.980 --> 01:05:45.540]  I believe this was episode 28.
+[01:05:45.880 --> 01:05:47.280]  The Bat Fiasco.
+[01:05:48.580 --> 01:05:49.620]  Hope you enjoyed it.
+[01:05:49.880 --> 01:05:51.380]  Like and subscribe.
+[01:05:51.700 --> 01:05:53.200]  Review and rate and star.
+[01:05:54.200 --> 01:05:55.860]  Print out pictures of the podcast.
+[01:05:56.300 --> 01:05:56.960]  And send them to people.
+[01:05:57.080 --> 01:05:59.800]  And say, hey, look at this flyer for a podcast.
+[01:06:00.040 --> 01:06:01.540]  Nobody's ever made a flyer for a podcast before.
+[01:06:01.720 --> 01:06:02.920]  But you should check it out.
+[01:06:03.140 --> 01:06:04.360]  Oh, I know what I want to talk about.
+[01:06:04.460 --> 01:06:06.980]  I want to talk about how dumb Andrew is.
+[01:06:07.480 --> 01:06:09.680]  And not understanding what a zine is.
+[01:06:10.000 --> 01:06:11.560]  So tune in for the next episode.
+[01:06:11.760 --> 01:06:12.580]  To be continued.
+[01:06:12.820 --> 01:06:14.100]  I wasn't listening to your outro.
+[01:06:14.100 --> 01:06:15.560]  I just want to make sure this is said.
+[01:06:15.800 --> 01:06:17.080]  Because I see these comments a lot.
+[01:06:17.480 --> 01:06:20.880]  If you want to see what we're talking about, we post all the photos on our Instagram page.
+[01:06:21.180 --> 01:06:22.580]  Just so people know.
+[01:06:22.800 --> 01:06:23.920]  Because we never talk about it.
+[01:06:24.160 --> 01:06:25.360]  We just mention these photos.
+[01:06:25.460 --> 01:06:26.680]  Never reference where you can see them.
+[01:06:26.740 --> 01:06:28.100]  If you want to see the photos, we have an Instagram.
+[01:06:29.180 --> 01:06:29.960]  What's the Instagram?
+[01:06:30.440 --> 01:06:31.500]  It's F*** Face Pod.
+[01:06:33.320 --> 01:06:35.660]  F-U-C-K-F-A-C-E-P-O-D
+[01:06:35.660 --> 01:06:37.760]  And yeah, it's all the bats.
+[01:06:38.200 --> 01:06:39.920]  All the Heinz ketchups.
+[01:06:40.140 --> 01:06:42.220]  I'm assuming that the salad toss.
+[01:06:42.220 --> 01:06:42.880]  What was it called?
+[01:06:43.120 --> 01:06:44.820]  Oh my god, end it.
+[01:06:46.460 --> 01:06:48.100]  Talk about it on the next f***ing episode.
+[01:06:48.200 --> 01:06:49.520]  You're going to record another one.
+[01:06:49.700 --> 01:06:51.460]  You want us to talk about salad cream on the next episode?
+[01:06:51.480 --> 01:06:53.520]  Salad cream will be up there.
+[01:06:53.620 --> 01:06:55.760]  I forgot that I ordered salad cream.
+[01:06:55.920 --> 01:06:57.300]  That's like the reverse of my idea.
+[01:06:57.460 --> 01:07:00.020]  I'm going to get disappointed in like a month when I get it.
+[01:07:00.300 --> 01:07:00.940]  No, it's great.
+[01:07:02.140 --> 01:07:02.700]  It's great.
+[01:07:02.840 --> 01:07:04.240]  One month from now, I'll give you my opinion.
+[01:07:04.320 --> 01:07:04.800]  Okay, bye.

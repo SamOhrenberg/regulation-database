@@ -364,11 +364,14 @@ async function extractStaticImages(videoPath, episodeImagesDir, logPrefix) {
     const currentIndex = i;
     tasks.push(limit(async () => {
       // --- Enhanced Debugging ---
+      const prevFrameId = frameFiles[currentIndex - 1]
       const frameId = frameFiles[currentIndex];
+      const nextFrameId = frameFiles[currentIndex + 1];
+      const nextNextFrameId = frameFiles[currentIndex + 2];
       try {
         const triggerSimilarity = await getSimilarity(
-          path.join(tempFramesDir, frameFiles[currentIndex - 1]),
-          path.join(tempFramesDir, frameFiles[currentIndex]),
+          path.join(tempFramesDir, prevFrameId),
+          path.join(tempFramesDir, frameId),
           cropArea
         );
 
@@ -376,19 +379,21 @@ async function extractStaticImages(videoPath, episodeImagesDir, logPrefix) {
         //console.log(`[${frameId}] Trigger similarity: ${triggerSimilarity.toFixed(4)} (Threshold: < ${config.imageExtraction.similarityThreshold})`);
 
         if (triggerSimilarity < config.imageExtraction.similarityThreshold) {
-          console.log(`[${frameId}] PASSED trigger check. Now checking stability...`);
+          console.log(`[${frameId}] [i=${currentIndex}] PASSED trigger check. Now checking stability... for ${nextFrameId} and ${nextNextFrameId}`);
 
           const [stabilityCheck1, stabilityCheck2] = await Promise.all([
-            getSimilarity(path.join(tempFramesDir, frameFiles[currentIndex]), path.join(tempFramesDir, frameFiles[currentIndex + 1]), cropArea),
-            getSimilarity(path.join(tempFramesDir, frameFiles[currentIndex + 1]), path.join(tempFramesDir, frameFiles[currentIndex + 2]), cropArea)
+            getSimilarity(path.join(tempFramesDir, frameId), path.join(tempFramesDir, nextFrameId), cropArea),
+            getSimilarity(path.join(tempFramesDir, nextFrameId), path.join(tempFramesDir, nextNextFrameId), cropArea)
           ]);
 
           // Log the stability checks' results
-          console.log(`[${frameId}] Stability checks: Check1=${stabilityCheck1.toFixed(4)}, Check2=${stabilityCheck2.toFixed(4)} (Threshold: > ${config.imageExtraction.similarityThresholdUpperCheck})`);
+          console.log(`[${frameId}] Stability checks: ${nextFrameId}=${stabilityCheck1.toFixed(4)}, ${nextNextFrameId}=${stabilityCheck2.toFixed(4)} (Threshold: > ${config.imageExtraction.similarityThresholdUpperCheck})`);
 
           if (stabilityCheck1 > config.imageExtraction.similarityThresholdUpperCheck && stabilityCheck2 > config.imageExtraction.similarityThresholdUpperCheck) {
+            console.log(`[${frameId}] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
             console.log(`[${frameId}] PASSED stability checks. This is a candidate.`);
-            const candidatePath = path.join(tempFramesDir, frameFiles[currentIndex]);
+            console.log(`[${frameId}] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
+            const candidatePath = path.join(tempFramesDir, frameId);
             return { path: candidatePath, index: currentIndex };
           } else {
             console.log(`[${frameId}] FAILED stability checks.`);

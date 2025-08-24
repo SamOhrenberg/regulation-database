@@ -1,0 +1,683 @@
+[00:00.700 --> 00:03.540]  This episode is brought to you by Dogfish Head Craft Brewery.
+[00:03.860 --> 00:08.160]  The Grateful Dead and Dogfish Head have gotten the band back together with the release of Grateful
+[00:08.160 --> 00:13.160]  Dead Juicy Pale Ale, a light-bodied pale ale brewed with sustainable kerns of grains, granola,
+[00:13.380 --> 00:17.560]  and heaps of good karma for a refreshing brew that's music to your taste buds. Available
+[00:17.560 --> 00:23.280]  nationwide, visit dogfish.com to find Grateful Dead Juicy Pale Ale in your neck of the woods.
+[00:23.560 --> 00:27.500]  Dogfish Head Craft Brewery is located in Milton, Delaware. Please drink responsibly.
+[00:30.000 --> 00:34.700]  Looking to cut down on food waste and time spent in the kitchen? HelloFresh sends you
+[00:34.700 --> 00:38.880]  pre-measured ingredients and easy-to-follow recipes so you can get dinner on the table
+[00:38.880 --> 00:46.880]  in about 30 minutes. Go to hellofresh.com slash 12face and use code 12face for 12 free meals,
+[00:47.040 --> 00:51.660]  including free shipping. This is a Rooster Teeth production.
+[01:03.520 --> 01:13.940]  Welcome to F*** Face number 55. What age are your friends? Uh, 30s. Are they all older? Yeah,
+[01:14.020 --> 01:19.160]  they're all older. It's kind of funny. Are you friends with anyone your own age? No, no I'm not.
+[01:20.380 --> 01:25.880]  Go ahead, Jack. I like that you assume that you know Andrew's age. I mean, we know an age that
+[01:25.880 --> 01:31.060]  he's told us over time, but I don't know that it's accurate or even if it is that he would accept
+[01:31.060 --> 01:37.400]  it's accurate. You're going to find out exactly. Eric just typed in 41. I would not be surprised
+[01:37.400 --> 01:41.120]  in the least if Andrew just said, what do you mean? I am also in my 30s. I could be
+[01:41.620 --> 01:46.220]  a Benjamin Button. I always thought he was similar to us, or not us, but me. I thought
+[01:46.220 --> 01:50.320]  he was similar to me in age. And then I think you said once that you were born in the late 90s or
+[01:50.320 --> 01:57.820]  something. Yeah, it was like mid 90s. I was born in 94. Ace Ventura, Pet Detective. Haven't seen it.
+[01:57.820 --> 02:02.560]  It's a blind spot for me. I'm missing a lot of key Jim Carrey movies. Yeah, I remember it now.
+[02:02.900 --> 02:08.400]  It's the year that came out. Is it? Was 94 a good movie year? Isn't like 99 a great movie year?
+[02:08.740 --> 02:15.360]  Isn't that like the famous movie? Is Jurassic Park 93 or 94? 94 I think was great for Jim Carrey.
+[02:15.980 --> 02:21.480]  I mean the 90s in general I feel like great for Jim Carrey. Yeah. It's a great year. Great movie
+[02:21.480 --> 02:27.060]  year. How are you doing, Geoff? I'm good. How are you? I'm great. I want to... I have some questions
+[02:27.060 --> 02:32.540]  for you. Listen, before we get into this, let's just... I'm just gonna... I'll just come out and
+[02:32.540 --> 02:45.280]  say it. The last two podcasts have been just a vomitous diatribe of all of the misery that
+[02:45.280 --> 02:55.740]  constitutes the sloppy formation of cells that is me. Sloppy formation?
+[02:56.560 --> 03:08.120]  So as this mind and body simultaneously start to slough off and break away into tiny chunks
+[03:09.480 --> 03:18.280]  from just the myriad of just life bashing I've received. I think it's gonna sound like Thanos
+[03:18.280 --> 03:23.820]  snapped you. Yeah, it has left me... well, if he had, I wouldn't be talking. Wouldn't have to go
+[03:23.820 --> 03:28.660]  through it. It's like if it's happening really slowly though over the course of like a week and
+[03:28.660 --> 03:35.440]  a half. Yeah, or it's like undecided. So what I'm saying is it's left me in a diminished state.
+[03:35.440 --> 03:44.440]  I feel kind of like if... I feel like an empty vessel that is empty of any kind of joy or comedy.
+[03:44.760 --> 03:52.060]  So I was gonna lean heavily on you two this week. Great! That works totally fine. Before we... I feel
+[03:52.060 --> 03:56.200]  like we need to just catch up on a few things because it's been a week since we've talked.
+[03:56.940 --> 04:01.420]  We first just need to say I was devastated to learn that it wasn't Kim and Kanye on the
+[04:02.040 --> 04:07.120]  What a disappointing realization. I found that out too and I think that I'm not even gonna bother.
+[04:07.820 --> 04:15.780]  Well, supposedly it's not. It's like a Snopes thing, like a pretty well-established urban myth.
+[04:16.280 --> 04:21.520]  But I'm keeping that one because my girlfriend and all of her friends that love the Kardashians
+[04:21.520 --> 04:26.520]  and that hang out on celebrity gossip blogs and Instagram and all that shit, they all think it's
+[04:26.520 --> 04:30.740]  real and I'm not crushing any of their dreams. Yeah, it's like a tooth fairy thing at this point.
+[04:30.740 --> 04:35.980]  I see. Well, it is perfect. As I said, Kanye West's entire music career really feels like
+[04:35.980 --> 04:40.780]  it's building to that moment. His discography is perfect for it. Would you be annoyed if everyone
+[04:40.780 --> 04:46.320]  thought you ate it on a jet ski but you didn't? Oh, absolutely not. I'd love that. I get the
+[04:46.320 --> 04:51.000]  story of it without having to deal with the pain. It's great. Pretty fucking annoying to
+[04:51.000 --> 04:57.880]  go through life with everybody thinking that I was in a ball pit once. I'm so fucking sick of
+[04:57.880 --> 05:05.380]  that Photoshop. I think I'd hate it. Have you been in a ball pit, though? In my life? Yeah,
+[05:05.440 --> 05:10.160]  have you been in a ball pit? At certain points, I have. Okay, so it's factually correct in a sense.
+[05:10.260 --> 05:13.680]  You've had that experience. It just isn't displayed. Yeah, it's just I'm not Patrick Stewart.
+[05:14.040 --> 05:19.420]  Yeah, that didn't happen to you, that specific case. Any root canals, Geoff, in the last week?
+[05:19.420 --> 05:28.240]  Any dental issues going on? I don't know. I thought this would be no. I thought you'd say
+[05:28.240 --> 05:35.060]  no and we'd move on. Well, yeah. So, okay. Well, when I got my root canal, the lady,
+[05:35.220 --> 05:41.120]  you know, they had to put a temporary crown on and the lady said, this glue is a little messy
+[05:41.120 --> 05:47.600]  and I might have got a little on the back of your tooth there, but it'll come off.
+[05:48.700 --> 05:56.940]  And I go, uh, okay. And she goes, it'll go away in like a day or two. And I could feel a little
+[05:56.940 --> 06:03.380]  bit of a rough spot back there. And then I didn't think too much of it. And then like three days
+[06:03.380 --> 06:12.160]  later, a chunk of glue came out of my mouth that was the size of it was like a finger long, like
+[06:12.160 --> 06:17.580]  finger to knuckle long. And I thought my mouth was falling apart. I had forgotten about it.
+[06:17.580 --> 06:21.000]  I sat down with this thing that came out of my mouth, looking at it, trying to figure out what
+[06:21.000 --> 06:26.480]  the fuck was going wrong inside of me. And it probably took a good 45 seconds to realize that
+[06:26.480 --> 06:30.400]  that was the thing that had released. And it was way bigger than she'd given me the impression and
+[06:30.400 --> 06:33.880]  probably way bigger than it should have been and probably should have been cleaned up. But anyway,
+[06:34.200 --> 06:39.100]  so yeah, I had about a 46, 45, 46 second period there where I almost shit my pants because I
+[06:39.100 --> 06:45.220]  thought my mouth was falling out. I haven't been back to the dentist because I don't get to go yet,
+[06:45.220 --> 06:50.360]  but I do have to go in two weeks to get the permanent crown put on. Okay, so just until then,
+[06:50.840 --> 06:54.620]  just until then I can't eat on the left side of my mouth. So what I am in essence doing,
+[06:54.740 --> 06:58.560]  and I continue to do because the other crown, the other root canal was on this side, is I'm just
+[06:58.560 --> 07:04.040]  over chewing on the right side of my mouth, which a, I assume wears down my teeth more on that side,
+[07:04.140 --> 07:07.780]  which means it's going to create an imbalance of tooth problems on the right side down the road.
+[07:07.900 --> 07:11.460]  But also, I'll be honest with you, I'm getting really strong on the right side of my mouth
+[07:11.460 --> 07:15.140]  and on the left side not so strong, so I'm like that guy in that M. Night Shyamalan movie,
+[07:15.260 --> 07:19.160]  I got one big-ass mouth muscle on the right and one tiny-ass mouth muscle on the left,
+[07:19.480 --> 07:22.780]  and it does me no fucking good because I'm not Sylvester Stallone and over the top,
+[07:22.820 --> 07:27.220]  and I can't win any fucking fights with it. You're just like a charger, but it's in your face.
+[07:27.540 --> 07:31.840]  Yeah, I'm like a face charger. I'm a cheek charger. I'm a cheek charger.
+[07:34.140 --> 07:38.060]  Okay. That's how the dentist is going. The dentist is great. What else you got, Andrew?
+[07:38.060 --> 07:43.800]  I got other things. How's Applejack in your fridge? Do you still have any Applejack updates?
+[07:43.940 --> 07:47.540]  Is the fridge broken? What is happening with your fridge? Yeah, is this still a broom?
+[07:48.220 --> 07:52.400]  Yeah, are you still having to set up like a Home Alone trap to keep your door closed?
+[07:52.840 --> 08:04.740]  Well, this is okay. Well, I eventually was able to get to a place to get a quote,
+[08:04.740 --> 08:11.140]  so I've gone to the process of getting a new refrigerator quoted out. Now, the price of that
+[08:11.140 --> 08:19.440]  refrigerator we won't get into. We're gentlemen here. Yeah. But the price... I'll also say this
+[08:19.440 --> 08:26.860]  too. Here's the situation with the fridge currently. It is cold. The nice little Russian
+[08:26.860 --> 08:33.060]  man was able to eventually get it working. I have no idea what he did, and I don't know that he did
+[08:33.060 --> 08:38.900]  either, but we got it working. He led me to believe that it would work for three days or
+[08:38.900 --> 08:44.620]  three months, maybe, but not much longer. To fix it properly, he said, would cost $2,600,
+[08:45.240 --> 08:48.540]  which seems like a lot of money. Seems like more than most people would pay for a fridge.
+[08:48.760 --> 08:55.220]  Let me tell you something. That $26 is a drop in the bucket compared to replacing that fridge.
+[08:55.500 --> 09:00.140]  Once again, we won't go into that price. Yeah. Wait, when did it become $26? $2,600?
+[09:00.140 --> 09:06.300]  $2,600. Oh, okay. That's what I said. $2,600. Is that what you said? No, he said it $2,600
+[09:07.400 --> 09:15.120]  and then he said $2,600. I said it twice. $2,600. But after he left and Emily and I decided,
+[09:15.300 --> 09:19.920]  do we test using this thing? Do we immediately go buy the new fridge? What do we do? And we said,
+[09:19.980 --> 09:25.080]  let's just use it in the short term while we figure this out because it is an eight-week
+[09:25.080 --> 09:29.860]  order on the fridge. I don't know if you know this, but it's impossible to get anything in
+[09:29.860 --> 09:32.800]  America right now because nothing's been being made for like the last year and a half and
+[09:33.500 --> 09:38.660]  supplies are low. So I still haven't ordered the new fridge yet because I can't bring myself to
+[09:38.660 --> 09:41.800]  do it. I'll get into that for a second. If you want to talk about complicating a life.
+[09:43.640 --> 09:48.360]  So I'm sitting right now on a cold fridge that's working today. I don't know what'll happen
+[09:48.360 --> 09:52.960]  tomorrow, but a funny thing that did happen like two days after the guy left and then Emily and
+[09:52.960 --> 09:56.400]  I made the decision, let's ride the fridge out for a little bit longer. All the lights burned
+[09:56.400 --> 10:01.560]  out in it. So now I got a fridge and a freezer. They're just fucking dark as nicks, dude. I can't
+[10:01.560 --> 10:08.400]  see shit in it, but they're cold. I just got no fucking lights. All the lights? What? Wait,
+[10:08.480 --> 10:12.300]  how many lights? What are we talking about? You got fridge lights, you got freezer lights. I don't
+[10:12.300 --> 10:17.500]  know. They're fucking burned out. So now I can't see shit. Luckily I got lights in my kitchen,
+[10:17.500 --> 10:23.700]  so that works. And it's not deep. It's not like I got to go spelunkering to find shit. And also,
+[10:23.700 --> 10:29.360]  luckily, everything that was in the fridge and everything that was in the freezer went bad,
+[10:29.540 --> 10:34.220]  so it's not like there's anything to see in there anyway. I got some mustard and I got some
+[10:34.220 --> 10:40.680]  Popeye's popsicles. That's about fucking... Oh, and I have a lime waterloo soda water. And that's
+[10:40.680 --> 10:46.260]  fucking it. That's what my fridge is. Why didn't the mustard go bad? It's new mustard. But does
+[10:46.260 --> 10:51.380]  mustard not need to be in the fridge? Oh, I don't know. I don't know. Don't bug me about mustard,
+[10:51.380 --> 10:54.980]  dude. I'm just telling you what's in my fridge right now. I have one question about the fridge.
+[10:55.420 --> 11:01.860]  Is the price of the new fridge more or less than the price of a new jet ski?
+[11:03.480 --> 11:11.340]  They're about the same. And to be clear, the fridge is so expensive because of how large it
+[11:11.340 --> 11:16.320]  is, right? That's the issue. It has to fit within a specific cabinet. Yeah, because other geniuses
+[11:16.320 --> 11:21.740]  of friends of mine, they're like, hey, dummy, don't get a big fridge to fit the space. Get a
+[11:21.740 --> 11:24.840]  tiny fridge and put it in there. And then I go, yeah, but then I got a half a fridge space right
+[11:24.840 --> 11:29.480]  and they go, no, that's when you get more custom cabinets built. Yeah. Did you know how much custom
+[11:29.480 --> 11:36.020]  cabinets cost? They cost... A, they cost three times more than you quoted and B, it costs three
+[11:36.020 --> 11:44.500]  months of your life. I don't want to go for a fucking... I don't want a hole in my house. I
+[11:44.960 --> 11:49.680]  kitchen. Last time it was in a library I didn't use. Now it's in the middle of goddamn fucking
+[11:49.680 --> 11:55.060]  shit, a whole house. So I'm not going to do that. I'm going to buy a fucking refrigerator. I think
+[11:55.060 --> 11:59.260]  I can't make the decision because I realized the point. If I'm going to buy... I'm going to spend
+[11:59.260 --> 12:05.300]  jet ski money on another refrigerator. Maybe I should sell the house and buy a new one.
+[12:05.520 --> 12:10.080]  So that's what I got to deal with. Do I buy another fucking house in Austin, Texas,
+[12:10.080 --> 12:17.280]  in the worst time in the history of the planet earth to buy a house in Austin, Texas? Or do I
+[12:17.280 --> 12:24.840]  just continue to pump thousands of thousands of dollars into the hellspawn money pit that is my
+[12:24.840 --> 12:29.940]  home? I don't know, guys. I'm on the fence trying to figure it out. Fridger new home,
+[12:30.220 --> 12:38.560]  help me out here because I don't know what to do. It has to be pointed out. The kindest thing
+[12:38.560 --> 12:43.860]  Geoff maybe has ever done on this podcast is say hypothetical idiots and not Gavin,
+[12:44.020 --> 12:49.560]  who made the cabinet suggestion last week. That was Gavin's idea. I know it wasn't my idea.
+[12:50.000 --> 12:54.720]  You know, you you absolutely said you could do new cabinets. A hundred percent. I haven't
+[12:54.720 --> 13:00.220]  stopped thinking about it since he said it. The dumbest fucking thing I've heard.
+[13:01.500 --> 13:02.460]  Terrible idea.
+[13:05.160 --> 13:11.120]  You know how much fucking hell I went through just from you two idiots over the last round
+[13:11.120 --> 13:16.160]  of shelves that I had built? You think I'm going through that again anytime soon?
+[13:16.860 --> 13:22.440]  I just thought you're the shelf guy. You love shelves. You love shelves. Oh, well,
+[13:22.520 --> 13:26.600]  I didn't realize that was my suggestion. So that's that's where we are with the fridge.
+[13:26.960 --> 13:28.700]  Do I buy a new house or not? I don't know.
+[13:30.620 --> 13:36.780]  The fridge problem is do I buy a new house? It's fantastic. Oh, I'm sorry. Next question.
+[13:37.120 --> 13:41.820]  Yeah, I'm not done, actually. How is the pipe? Did you fix the pipe with the leak in it?
+[13:42.500 --> 13:47.860]  Slash is the wall fixed? Well, what's going on with that? OK, well, fine. Everything's fine.
+[13:48.520 --> 13:55.540]  So well, all right. So all right. So does the paint match? Yeah. Yeah. All that's good. All
+[13:55.540 --> 14:01.140]  that's good, right? Oh, that's good. I had to rip that fucking enclosure out and then and then I
+[14:01.140 --> 14:05.920]  had to fucking, you know, because the fucking asshole, the fucking asshole who flipped this
+[14:05.920 --> 14:12.280]  house. Sorry, buddy. I'm sure you're a nice guy. Motherfucker. You know, he did this really cool
+[14:12.280 --> 14:16.020]  thing where he built this enclosure around a washer and a dryer that fits really snugly.
+[14:16.120 --> 14:19.960]  And then it's like it's basically the washer and the dryer become like a countertop and it's
+[14:19.960 --> 14:25.240]  pretty and it's like wood and stuff. And then and then to fix the wall, I had to take all that apart.
+[14:25.540 --> 14:31.120]  And that's and that's when I realized what he did to put it together. And I'm scared of this house
+[14:31.120 --> 14:39.080]  now because I saw his handiwork up close. I really am. And and so is it fine? Yeah, the leak got fixed
+[14:39.080 --> 14:43.740]  and I eventually got the washer and the dryer back into place and then and then it got painted
+[14:43.740 --> 14:49.480]  and then I barely put this fucking piece of shit enclosure back together. Right. Because it was
+[14:49.480 --> 14:54.640]  not built well initially and it was hard as flat. I had to break it six ways to Sunday to get it
+[14:54.640 --> 14:58.320]  apart. Otherwise, I couldn't get the fucking leak fixed. Right. So it's not like I had a choice.
+[14:58.500 --> 15:03.640]  It's either have a I can have an enclosure or a leak. Right. So I chose to have the leak fixed and
+[15:03.640 --> 15:07.480]  then try to put the piece of shit enclosure back together, which I've done. But anyway, but that
+[15:07.480 --> 15:13.000]  brings me to another point that I suspect that this guy's a fucking did it. I've had a problem
+[15:13.000 --> 15:17.100]  for a long time since I bought this washer in the dryer, which were brand new to this fucking house.
+[15:17.100 --> 15:21.420]  By the way, I bought him and stuck him in there. I'm pretty sure that the goddamn enclosure makes
+[15:21.420 --> 15:26.180]  the goddamn dryer overheat all the goddamn time because it probably shouldn't be closed up like
+[15:26.180 --> 15:29.580]  that. And I don't know what the fuck to do about it because to take it apart again is going to
+[15:29.580 --> 15:33.640]  make all kinds of fucking trouble. So now I just got to restart my goddamn dryer every 30 minutes.
+[15:33.720 --> 15:37.240]  I like the fact that you said you're going to be relying heavily on this episode.
+[15:37.540 --> 15:43.160]  Yeah, I got nothing to talk about. This is what happened. This is what happened. This is what
+[15:44.040 --> 15:47.600]  happened since last time. This is what happened since the last time I stopped the recording.
+[15:47.600 --> 15:53.360]  I said goodbye to you two guys and then I turned off and I sat in the dark and I tried not to
+[15:53.360 --> 16:00.780]  talk to a repairman or an electrician or a plumber or anyone. I just sat there and I watched Survivor
+[16:00.780 --> 16:05.460]  and I tried not to make eye contact with the world and I tried not to breathe too loud and
+[16:05.460 --> 16:10.680]  I just tried not to... I just tried. I just tried. That's all. And so nothing has happened in my life
+[16:10.680 --> 16:16.280]  other than a season and a half of Survivor and me, you know, just fucking dealing with
+[16:16.280 --> 16:23.440]  just trying to cope with this. What season of Survivor are you on? I'm on 27. 27, okay. I believe
+[16:23.440 --> 16:29.080]  it's blood versus water. Oh, great season. Yeah, it's a great season. I'm pretty sure a dryer is
+[16:29.080 --> 16:34.700]  one of the few things that you can't overheat because it has a specific hot air vent pipe.
+[16:35.380 --> 16:40.640]  That goes through the wall, right? Yeah, I think you're correct. I think you're right. Then why
+[16:40.640 --> 16:46.400]  does my dryer go E3, E3, overheating, overheating all the time? And when I brought the dryer
+[16:46.400 --> 16:50.100]  repairman out for it, he goes, no, it seems to be working fine. I don't know.
+[16:51.880 --> 16:57.360]  I'm not gonna bring that guy out again. I've already had two dryer repairmen look at it, Gavin.
+[16:58.440 --> 17:05.020]  Two! I feel like building furniture around appliances, especially... Crystal clear waters,
+[17:05.640 --> 17:11.900]  white sandy beaches, tropical drinks with little umbrellas. Stress doesn't exist here,
+[17:12.240 --> 17:17.220]  but it could back at home where an undetected water leak can turn into costly water damage.
+[17:18.160 --> 17:24.240]  But with Moen Flow, you can enjoy your vacation with no worries. It detects leaks and stops your
+[17:24.240 --> 17:30.860]  water main automatically from anywhere. So the only thing on your mind is having nothing on your
+[17:30.860 --> 17:38.060]  mind. Moen. You don't technically need this car. You say that out loud to yourself. You say,
+[17:38.320 --> 17:44.860]  I have no space. You say, eh, I'm just looking. Then you click. Then you zoom in on photo number
+[17:44.860 --> 17:51.360]  87 and whisper, oh no. Then you text a friend, the one who always enables you. You say to yourself,
+[17:51.680 --> 17:58.320]  this is the last one, knowing it is not. You don't need this car, but maybe, just maybe,
+[17:58.320 --> 18:02.900]  this car needs you. Bring a trailer. It's never just a car.
+[18:03.060 --> 18:08.740]  Buenos dias! Café Bustelo Espresso styled iced coffee is hitting refrigerators with a
+[18:08.740 --> 18:12.740]  cold front that will sweep through your senses. So keep the coffee pours long
+[18:12.740 --> 18:16.440]  and the cold sips slow. Café Bustelo está aquí.
+[18:17.520 --> 18:21.400]  This day and age where nothing lasts anymore is so short-sighted. Like,
+[18:21.400 --> 18:28.460]  oh my god, do I agree with you? It's like, what are you doing? I'd rather have furniture that
+[18:28.460 --> 18:32.880]  lasts longer than electronics, so why am I staring at furniture that doesn't match the
+[18:32.880 --> 18:43.300]  thing it was built for anymore? Ridiculous. We all shop online and we've all seen that
+[18:43.300 --> 18:48.600]  promo code field taunt us at checkout. Hey dummy, where's your discount code? Hey dummy,
+[18:48.680 --> 18:52.840]  what, you got no friends? Nobody's giving you discounts? Loser. But thanks to Honey,
+[18:52.840 --> 18:58.680]  manually searching for coupon codes is now a thing of the past. Honey is the free shopping tool
+[18:58.680 --> 19:03.040]  that scours the internet for promo codes and applies the best one it finds to your cart.
+[19:03.400 --> 19:09.140]  And Honey supports over 30,000 stores online. From tech to gaming products, fashion brands,
+[19:09.340 --> 19:14.280]  food delivery, you name it. I dare you to try to shop at 30,000 stores online.
+[19:14.660 --> 19:18.420]  Go ahead, I'm waiting. Here's how it works. Imagine you're shopping on one of your favorite
+[19:18.420 --> 19:22.680]  sites. And when you go to checkout, the Honey button drops down, and all you have to do is
+[19:22.680 --> 19:28.520]  click Apply Coupons. Wait a few seconds as Honey searches the entire internet for coupons it can
+[19:28.520 --> 19:34.040]  find for that site. If it finds one, then Honey will apply it and you will watch the prices drop.
+[19:34.360 --> 19:39.340]  I've talked about it a few times before, but I am now a stand-up paddleboarder, one of those people,
+[19:39.700 --> 19:43.820]  and was able to get my inflatable one, which isn't as scary as you would think. I thought
+[19:43.820 --> 19:49.000]  that maybe they wouldn't be buoyant enough, but it's all about how hard you pump them.
+[19:49.340 --> 19:53.240]  I got mine online and used Honey to get a pretty significant discount on it
+[19:53.240 --> 19:55.940]  for mine and my girlfriend's, so it was pretty awesome for us.
+[19:56.260 --> 20:00.980]  Honey has found its over 17 million members over $2 billion in savings.
+[20:01.460 --> 20:05.720]  If you don't already have Honey, you could be straight up missing out on free savings.
+[20:05.980 --> 20:09.740]  It's literally free and installs in a few seconds. And by getting it,
+[20:10.040 --> 20:13.280]  you'll be doing yourself a solid and supporting this podcast.
+[20:13.820 --> 20:19.820]  I'd never recommend something I don't use. Get Honey for free at joinhoney.com slash face.
+[20:19.960 --> 20:22.360]  That's joinhoney.com slash face.
+[20:22.900 --> 20:27.520]  If you're like me and sick of going to the grocery store, maybe give HelloFresh a try.
+[20:27.920 --> 20:32.560]  It is pre-measured ingredients, mouth-watering seasonal recipes delivered right to your front
+[20:32.560 --> 20:37.200]  door so you can skip that damn grocery store and you can count on HelloFresh to make your home
+[20:37.200 --> 20:41.460]  cooking easy, fun, and affordable. That's why it's America's number one meal kit.
+[20:41.460 --> 20:45.340]  Just try HelloFresh's quick and easy meals. They have 15-20 minute dinners,
+[20:45.760 --> 20:49.660]  breakfast on the go, and more easy options perfect for your busy lifestyle.
+[20:50.100 --> 20:53.060]  They offer more than 27 recipes to choose from each week,
+[20:53.200 --> 20:58.800]  from vegetarian meals and calorie smart choices to Kraft burgers, extra special gourmet options,
+[20:59.180 --> 21:04.400]  there is something for everyone to enjoy with all recipes designed and tested by professional chefs,
+[21:04.720 --> 21:10.520]  not those amateurs, and nutritional experts, not those amateurs, to ensure deliciousness
+[21:10.520 --> 21:15.700]  and simplicity. Plus, HelloFresh's ingredients are sourced directly from growers and delivered
+[21:15.700 --> 21:21.180]  from the farm to your front door in under a week, contact free as well. It's also 28%
+[21:21.180 --> 21:25.960]  cheaper than shopping at your local grocery store and 72% cheaper than a restaurant meal
+[21:25.960 --> 21:31.080]  without sacrificing any of the quality. I don't know about you, but it feels like to me in 2021
+[21:31.080 --> 21:34.860]  that things aren't going to slow down and I'm going to continue to be about as busy as I've
+[21:34.860 --> 21:39.500]  ever been. And that's why something like HelloFresh can really save time on the weekends
+[21:39.500 --> 21:44.000]  and help you recoup a little bit of relaxation time for yourself. You don't spend the whole
+[21:44.000 --> 21:50.120]  time in the kitchen. Go to HelloFresh.com slash 12Face and use code 12Face for 12 free meals,
+[21:50.240 --> 21:57.160]  including free shipping. That's HelloFresh.com slash 12Face and use code 12Face for 12 free
+[21:57.160 --> 22:03.780]  meals, including free shipping. HelloFresh, America's number one meal kit. You got any
+[22:03.780 --> 22:08.640]  custom shit, Andrew? You got any custom furniture that's around appliances? No,
+[22:08.640 --> 22:13.740]  I don't have anything. I got a desk and a bed and a fridge. That's all I have. I don't have any.
+[22:13.840 --> 22:19.260]  There's no built in appliances where I live. It's pretty easy. A cool idea would be a desk
+[22:19.260 --> 22:27.360]  that had a built in waffle maker in the desk. Oh, I have a I have a sauce drawer. That's a pretty
+[22:27.360 --> 22:34.720]  cool part of my desk. OK, OK, OK, OK. Hold on. Elaborate. Can you inventory the sauce drawer?
+[22:34.720 --> 22:39.160]  Yeah, I could. I mean, we're going to we're going to go down a road of sauces eventually in this
+[22:39.160 --> 22:44.900]  episode. I have some my desk. I got three drawers on my desk left side. It's all my collectible
+[22:44.900 --> 22:49.860]  stuff. I got cards in there. Anything that I deem collectible value, put it in the left side
+[22:49.860 --> 22:55.940]  middle. That's the important papers, cards, whatever information, serious stuff in the
+[22:55.940 --> 23:03.680]  middle cabinet. My cards. Yeah. You know, like my Social Security, all that middle, middle desk area.
+[23:03.680 --> 23:12.640]  The right cabinet, right drawer, sauces. It's all about sauces. I got my sauces. I got straws.
+[23:12.920 --> 23:17.760]  I got some some cutlery, some plastic cutlery. Never know when you need it. That's my food
+[23:17.760 --> 23:23.140]  drawer. The right drawer. My desk can open it right now. I got mainly it's honey mustard.
+[23:23.260 --> 23:28.580]  We got a lot here. I can take a photo. I'll be one second. You actually have your phone on you
+[23:28.580 --> 23:34.240]  in the middle of the podcast. And it's charged. Did you charge it last night? Oh, I sure did,
+[23:34.320 --> 23:41.920]  Gavin. I'm learning. OK, it took me a year, but I'm learning. This is a. Oh, boy. OK,
+[23:41.940 --> 23:46.560]  so now it's a whole thing. I don't have discord on my phone. So this is where it begins. So I got
+[23:46.560 --> 23:54.200]  to I got to send the photo to here and then I'll go to my tablet. Is this what it's like when I
+[23:54.200 --> 23:59.940]  send stuff to you guys? Oh, yes. Yes, it is this. I get it. I get it. There's a clear path on this.
+[24:00.080 --> 24:04.260]  I'm genuinely excited to see this photo, though. Like, I feel like if I know a photo is coming
+[24:04.260 --> 24:08.660]  from Andrew Panton and I'm about to have just a little window into his weirdo world, I'm so
+[24:08.660 --> 24:14.400]  excited. I'm so less interested in the photo and what's around the photo. Yeah. What's the stuff
+[24:14.400 --> 24:18.920]  that isn't the subject of the photo? Yeah. Yeah. I don't think there's a lot going on as far as not
+[24:18.920 --> 24:26.060]  the subject. My tablet's almost dead. So we're going to. OK, well, we're going to we're going to
+[24:26.060 --> 24:31.740]  pivot to my sauce story. Lesson not entirely learned. No. Well, I didn't, you know. Hey,
+[24:32.080 --> 24:36.320]  we're not all perfect at all times. This is my sauce drawer at the moment.
+[24:37.260 --> 24:42.800]  I got some ketchup. You got some honey mustard. You got a syrup. There's two syrups in there.
+[24:43.320 --> 24:48.420]  Whenever I get extra whatever sauce, I just throw it in the sauce drawer. Heinz honey mustard
+[24:49.080 --> 24:52.860]  bistro. Yeah, that's the Wendy's honey mustard right now. They used to have a branded. I don't
+[24:52.860 --> 24:57.920]  know when it flipped, but since I guess I do since the pandemic, they don't have it anymore.
+[24:58.120 --> 25:03.180]  What's in the dotted drawer? What is in the little box? That's a great. I think it's just
+[25:03.180 --> 25:08.000]  bullshit. It's just bullshit. I don't know what's really in there. It's not sauce related. No,
+[25:08.080 --> 25:13.620]  it's not sauce related. I can see the edge of a plate on your desk. Is that the edge of a plate?
+[25:13.620 --> 25:16.680]  No, that's my mousepad. That's the edge of my mousepad. That is not a plate.
+[25:17.160 --> 25:22.780]  That's a really big drawer. That's a massive drawer. It's a big drawer of sauce. So we need
+[25:22.780 --> 25:28.140]  to move the sauces. I don't know if either of you... Do you know what a BTS is? The...
+[25:28.140 --> 25:35.040]  The K-pop band. I didn't know what a BTS was. BTS is a K-pop band. They have a McDonald's
+[25:35.040 --> 25:40.920]  combo right now, much like the Travis Scott meal. They got a whole nugget. It's a 10 piece nugget
+[25:40.920 --> 25:46.920]  fries with two sauces that are, I think, new to the company. They've never had these before.
+[25:47.440 --> 25:51.540]  I don't know if you remember a few weeks ago, we had a conversation about chugging sodas in a can.
+[25:52.640 --> 25:57.480]  You never did that, Andrew. Yeah, well, they're on my desk. Gavin, they're on my desk right now.
+[25:57.800 --> 26:01.040]  So I could do this. You guys said it was nothing, so I don't know if it's even worth doing.
+[26:01.880 --> 26:07.600]  But last week, I was going to do it, but I couldn't find a place that sold cans. So I
+[26:07.600 --> 26:12.880]  thought I'll just order a drink from McDonald's. And I found the BTS meal. I found the sauces.
+[26:13.660 --> 26:17.560]  Sauce is delicious. I'm a big fan of the sweet chili. They have a sweet chili and a Cajun sauce.
+[26:17.940 --> 26:22.960]  Love the sweet chili. So I ordered it. I tried it. I was like, these are great. They're limited.
+[26:23.120 --> 26:27.300]  They're going to go away at the end of June. It's too bad you only get two sauces per thing.
+[26:27.360 --> 26:31.880]  I love sauce. I'm a big sauce guy. So then I thought, well, on the app, I've been told,
+[26:31.960 --> 26:36.420]  apparently in the past, you cannot just buy sauces. Typically, when it's a specialty sauce,
+[26:36.420 --> 26:40.000]  you need to order the meal it comes with. But on the app, on DoorDash,
+[26:40.720 --> 26:44.640]  there's a sauce section. I'm sure it's for every delivery app. There is a condiment section
+[26:45.100 --> 26:51.680]  and they had the nugget sauce in the condiment section. So I did what any reasonable person would
+[26:51.680 --> 26:59.520]  do. I just ordered 75 nugget sauce of the sweet chili. Oh, like without any other food? Nothing
+[26:59.520 --> 27:04.880]  else. Just 75. I ordered a bag of sauce. I'm like, I was talking to Eric about it and I was
+[27:04.880 --> 27:09.260]  trying to figure out, well, what's the max here? Can I just order a big bag of sauce?
+[27:09.600 --> 27:18.800]  And then the concern is we accept the order. I went all sauce. OK, so we ordered 75 sweet chili
+[27:18.800 --> 27:24.160]  sauce. To my shock, I kept waiting for them to say, this is a criminal act. You cannot do this.
+[27:24.340 --> 27:30.040]  We are shutting down your order. But it just kept advancing to the next phase. So it just kept
+[27:30.040 --> 27:36.860]  building and building. And they surely budget out their inventory with the amount of meals.
+[27:37.000 --> 27:40.220]  Like if they're only giving two per meal, they probably know exactly how many meals they can
+[27:40.220 --> 27:47.140]  sell. You're basically ruining the entire system. No. OK, listen, they got nugget boxes, Gavin.
+[27:47.260 --> 27:52.300]  They got bags. They got cups. It's a whole... there's all sorts of combinations for it. And
+[27:52.300 --> 27:57.600]  they're selling the sauce independently. I didn't... I just enjoy it. So I bought it,
+[27:57.600 --> 28:04.120]  honestly expecting it to get cancelled. Yeah. But it didn't. Bart arrived, the person who delivered
+[28:04.120 --> 28:09.980]  it, and he dropped off. Didn't even get any other food for it. No. Not even just like a cheeseburger.
+[28:10.280 --> 28:16.480]  No, not not not any other food, just 75 sauces. So I now have this bag of sauce in front of me.
+[28:16.580 --> 28:22.660]  And I know it's sauce. It's like it's a huge bag. But you don't know, like sometimes have you ever
+[28:22.660 --> 28:25.960]  ordered food from somewhere and they're like, oh, we don't have it. So we replaced it with this.
+[28:25.960 --> 28:29.760]  I get that mainly, I guess, like when I ordered the stuff to make the cheese sandwich,
+[28:29.940 --> 28:33.420]  the Branson sandwich, they're like, we don't have turkey. So we just threw ham in instead.
+[28:33.900 --> 28:40.960]  I was worried that I ended up with a bag of fucking just hot mustard. Nobody wants 75 hot mustard.
+[28:42.160 --> 28:47.580]  But they gave me... I'm trying to find the photo of it. They gave me... the bag had the sauce. The
+[28:47.580 --> 28:53.420]  bag had the BTS sauce in it. I had 75. They gave it to me. I just had 75 of the sweet chili. So
+[28:53.420 --> 29:00.240]  then I thought, well, how far can I push this? So I tried to do a second order. Well, firstly,
+[29:00.360 --> 29:05.920]  how much did the 75 cost? Not much. They're 20 cents a container. So it's really cheap to go
+[29:05.920 --> 29:11.080]  like buy it a surplus of sauces. So I tried to I tried to double down on this in the evening.
+[29:11.420 --> 29:18.720]  I did a round two of sauce orders. I tried to get 100 Cajun sauces and 30 more sweet chili,
+[29:18.720 --> 29:23.720]  really round it out, have a nice 100 of each. That order was rejected. Well, that would have
+[29:23.720 --> 29:30.040]  put you at 105. Well, I would have had two sets. I would have had yeah, yeah. 205 sauces would
+[29:30.040 --> 29:35.760]  have been the total 100 Cajun, 105 sweet chili. Wait, are they 130 calories each?
+[29:36.060 --> 29:42.020]  Yeah, I think so. I think so. Yes. But Gavin, he wasn't planning on eating all 75 at once.
+[29:42.220 --> 29:47.660]  No, of course not. Oh, this is the bag. I'm going out of sequence here. So this is the bag I got.
+[29:47.660 --> 29:52.820]  This is what 75 sauces in a bag looks like. It was heavier than the McDonald's bag.
+[29:52.980 --> 29:59.420]  That's almost 10,000 calories. You wouldn't you wouldn't know the horror that lies inside that
+[29:59.420 --> 30:04.800]  bag. No, I was terrified. Honestly, I thought it could be bullshit. It could be hot mustard.
+[30:04.920 --> 30:08.580]  When I opened and saw that it was like when they opened the briefcase of Pulp Fiction,
+[30:08.580 --> 30:15.080]  it was just gold. Oh, it's a pink glow. Because then I did research and people are fucking
+[30:15.080 --> 30:21.560]  selling this for so much money, like the bag and everything. It's worth money. I saw a bet
+[30:21.560 --> 30:27.880]  for a bet, not a bet, a bid. It was two sauces, one of each $10. Somebody paid. This is liquid
+[30:27.880 --> 30:33.520]  gold. This is you're looking at my retirement fund right now. I have been on a sauce ordering
+[30:33.520 --> 30:39.200]  spree ever since last week. I just keep accumulating sauces every time I go to place an
+[30:39.200 --> 30:44.600]  order, throw 40 sauces in there. I'm a sauce guy. I'm building a sauce empire. You're a McDonald's
+[30:45.640 --> 30:51.240]  profiteering guy now. Yes, I am. What I learned is that you have to Gavin is right. You throw in a
+[30:51.240 --> 30:55.920]  little thing. So now I'm ordering the meal with the sauce and then I throw in like give me 40
+[30:55.920 --> 31:01.740]  nugget sauces and then they add on to it. That's been a reliable system. They just don't care
+[31:01.740 --> 31:06.360]  though, because sometimes they'll give me 37. Sometimes they'll give me 52. They give no fuck.
+[31:06.420 --> 31:11.820]  Sometimes they'll get other sauce on top. I'm just a fucking sauce factory at this point. I'm about
+[31:11.820 --> 31:17.100]  a week away from opening my own McDonald's. I hate everything about this. I hate the waste,
+[31:17.260 --> 31:22.860]  the plastic waste, the carbon footprint of sending for a little tiny. It's awful. Everything.
+[31:24.220 --> 31:29.200]  Do you think that the sauces in your old sauce drawer right now are feeling really fucking
+[31:29.200 --> 31:33.080]  confused and abandoned? Well, I was going to replace the whole sauce drawer initially,
+[31:33.080 --> 31:36.800]  but now, yeah, I now when I get a honey mustard, I'm like, I don't need this.
+[31:36.920 --> 31:39.260]  Well, are they going in the fridge or are you just keeping them in the drawer?
+[31:39.260 --> 31:46.180]  I'm storing this honey mustards in the drawer. I'm storing the sweet chili sauces and the Cajun
+[31:46.180 --> 31:51.320]  in another location. I feel like this is like Animal Crossing turnips. No, they last longer.
+[31:51.380 --> 31:55.760]  So I did a little bit of research on that. There's like a multiple month shelf life for sauces that
+[31:55.760 --> 32:00.900]  you can extend if you refrigerate them. But for like standard packaging, it's months long. It's
+[32:00.900 --> 32:05.080]  not an imminent thing. I've gotten to the point where I'm like, I'm trying to build up my sauce
+[32:05.080 --> 32:10.620]  empire a little bit. So this is like a creation I made yesterday talking about Survivor. I felt
+[32:10.620 --> 32:15.180]  like I was in an immunity challenge. It got really shaky on the right side trying to stack
+[32:15.180 --> 32:21.560]  this tower up. It's intimidating. So are you now more likely to sell them than eat them?
+[32:22.260 --> 32:28.960]  That's the dilemma. That's the problem. I made the fatal mistake of trying the sweet chili sauce
+[32:28.960 --> 32:34.440]  before realizing I was going to build a sauce empire. I fucking love the sauce. I'm a big fan
+[32:34.440 --> 32:40.060]  of it. Even if I wanted to sell it, I'm running the risk of eating my entire supply. It's a
+[32:40.060 --> 32:45.700]  problem. It's tough to resist. I don't know what I'm going to do with the sauces from a profitability
+[32:45.700 --> 32:51.580]  standpoint. It would be absurd if I didn't try to sell them. But the fucking sweet chili sauce is
+[32:51.580 --> 32:56.340]  so good. I don't like the Cajun. I'm not a big fan of the Cajun sauce. Sweet chili is great.
+[32:56.780 --> 33:02.840]  Why don't you why don't you sell the Cajun sauce to finance your sweet chili empire?
+[33:02.840 --> 33:09.060]  That's a great idea. The thing is, Geoff, we got to wait until June 21st and then this is a fucking
+[33:09.060 --> 33:14.720]  sauce ship to Mars. Right, right. It becomes the Session One Sauce from Rick and Morty. It becomes
+[33:14.720 --> 33:20.060]  Session One Sauce 2.0. Exactly. It's like when the artist dies and his work becomes more valuable.
+[33:20.500 --> 33:26.480]  Yeah, that's exactly absolutely correct. I've went on to build other... I was trying to like...
+[33:27.040 --> 33:31.960]  I was trying to build the most epic sauce type structure I could make. So we've done a few
+[33:31.960 --> 33:38.820]  variations. I was doing three by three and I got to 16 levels and it collapsed, which was
+[33:38.820 --> 33:46.300]  terrifying. These are valuable goods. I was playing. I was playing a game and I got to the 16th floor
+[33:46.300 --> 33:52.440]  and then everybody just heard me go, oh, the entire tower just fell over. Sauce shot all over
+[33:52.440 --> 33:57.620]  the place. But right next to me. And it is terrifying because it wobbles because every
+[33:57.620 --> 34:02.460]  once in a while my fridge will violently vibrate because it's like chilling or whatever a fridge
+[34:02.460 --> 34:08.380]  does. I don't know how fridges work. Violently vibrate. Yeah, like it might want to get a look
+[34:08.380 --> 34:12.540]  at, but sure. No, it's like a brief. It's very... it only lasts for like 30 seconds. It's probably the compressor kicking on.
+[34:13.000 --> 34:16.880]  Yeah, so it's probably... honestly, that is probably what it is. This is what I got right next to me
+[34:16.880 --> 34:22.280]  right now to my right. I got a whole sauce. It's leaning a little bit. It's not great.
+[34:22.280 --> 34:27.360]  Now, is that a black container or is that the color of the sauce? That is a black container.
+[34:27.660 --> 34:32.200]  Okay, thank God. Yeah, it is not. It's kind of like a red and a yellowy sauce. Okay, gotcha.
+[34:32.820 --> 34:39.440]  So what is what is the total number of sauces? Great question, Geoff. That's fantastic. What a great...
+[34:39.440 --> 34:48.720]  I think I have 116 sweet chili sauces and 73 Cajun, I want to say. Somewhere around there.
+[34:49.180 --> 34:54.320]  I'm close to 200 sauces. And where are we taking this? Like, what, do you have an immediate goal?
+[34:54.840 --> 34:59.060]  Every... you know, no, it's sort of like I feel like I'm getting into the early levels of like
+[34:59.060 --> 35:02.920]  Bitcoin. I'm just every time I order, I throw some sauce in there. I feel like I'm making
+[35:02.920 --> 35:07.360]  penny investments and it's going to really cash out at the end of June. Where are you going to
+[35:07.360 --> 35:11.520]  be selling these anyway? You're going to be shipping them across the country? I mean,
+[35:11.560 --> 35:14.800]  I could theoretically do that. I mean, eventually... Are they going off island?
+[35:15.620 --> 35:20.560]  BTS meal is very popular right now. I could just go outside of McDonald's. You want a BTS meal?
+[35:21.040 --> 35:26.160]  I got it right here. What, for the people who are too lazy to go all the way in?
+[35:26.400 --> 35:30.720]  No, no, no, no, no. When they stop selling the sauce, I could be outside of McDonald's and be
+[35:30.720 --> 35:35.080]  like, oh, you know, it's really good with those nuggets, the sweet chili sauce. Oh,
+[35:35.100 --> 35:40.420]  they don't sell it anymore? Interesting. What would you what would you give?
+[35:41.540 --> 35:46.120]  Hmm. And are you selling that? Are you going into McDonald's first and getting a load of nugs just
+[35:46.120 --> 35:51.840]  so you can offer the complete package? Or are you making? No, I think I would stand near the front
+[35:51.840 --> 35:56.340]  till and anybody who ordered nugs, I'd then be like, hey, you know what would be really good
+[35:56.340 --> 36:00.320]  with that? You're going to get kicked out. You should get a sign. Yeah, you get a sign like
+[36:00.320 --> 36:05.960]  a scalper. Yeah. Right. Maybe I set up like a lemonade stand outside of the McDonald's and
+[36:05.960 --> 36:12.140]  be like sauces, BTS sauces here. It's it's great. This is my empire we're building.
+[36:12.660 --> 36:16.840]  You know what you should do in the meantime is while you're building up to that, to help promote
+[36:16.840 --> 36:21.560]  people, help to keep the idea of these sauces fresh in people's minds so they don't forget about
+[36:21.560 --> 36:25.240]  them. Because, you know, at some point McDonald's is going to they're going to turn they're going
+[36:25.240 --> 36:31.040]  to ratchet down the marketing nozzle on this thing. And so, you know, they won't be inundating
+[36:31.040 --> 36:36.300]  Canadians with with BTS sauces. So you'll have to pick up some of the slack. You've got something
+[36:36.300 --> 36:43.880]  going here with with this with this. I'm going to call it sauce art. The stackable sauce art.
+[36:44.060 --> 36:48.360]  I see you like I could see I could see an Eiffel Tower coming out of this. I could see a Greek
+[36:48.360 --> 36:52.520]  Parthenon. I could see you doing a lot of interesting historical things. I could see you
+[36:52.520 --> 36:56.720]  making some pretty cool and impressive art. You put that on TikTok and Instagram. That's just
+[36:56.720 --> 37:00.600]  going to help drive people to your sauce business when the time is right. That's a great point. I
+[37:00.600 --> 37:04.620]  just feel like BTS is very popular from my understanding. So I don't need to worry about
+[37:04.620 --> 37:10.300]  the obscurity of the sauce going away. It's tied to a very large thing. Well, yeah, but if BTS
+[37:10.920 --> 37:14.280]  isn't pumping McDonald's connection and McDonald's is no longer pumping the connection,
+[37:14.480 --> 37:18.160]  somebody is going to have to be there to put to and to to make that connection to, you know,
+[37:18.180 --> 37:22.260]  you're going to have to keep that. No, that's fair. I think you should try the sauces, both of you.
+[37:22.320 --> 37:27.000]  And just it's a great sauce. People are going to naturally miss this sauce. I got to be honest
+[37:27.000 --> 37:34.020]  with you. At no point have I considered or desired to taste these sauces at any point in
+[37:34.020 --> 37:38.860]  this conversation. Really? I'm probably going to do it after we finish. You should try the sweet
+[37:38.860 --> 37:43.160]  chili. It is a fantastic sauce. I had McDonald's yesterday. I like ketchup. Ketchup is great
+[37:43.160 --> 37:46.660]  condiment. It's the best condiment, without a doubt. It's worthless, though. You can't sell
+[37:46.660 --> 37:51.200]  that to people. Can't sell it. No, Heinz is still going. They're not stopping anytime. But I got
+[37:51.200 --> 37:55.200]  to... I don't think you're selling a flavor. I think Andrew got sold on a flavor, but I don't
+[37:55.200 --> 37:59.200]  think it matters at all whether it tastes good or not. I think you're selling the BTS thing.
+[37:59.620 --> 38:03.620]  So it doesn't matter if I try it and like it. That's fair. I just think I would just... I'm
+[38:03.620 --> 38:08.280]  saying just as a food experience, which feels fucking dumb to say about a McDonald's. I think
+[38:08.280 --> 38:12.800]  you should try it. I'd give the sweet chili a try. Are you going to hire dealers to flog this
+[38:12.800 --> 38:16.680]  stuff after it's gone away? Or are you going to be the one out on the stand? That's an interesting
+[38:16.680 --> 38:23.260]  thing. I think... I'm imagining you like a Heisenberg-esque or like a Jessie. No, I was
+[38:23.260 --> 38:28.120]  going to say I think I might rewatch The Wire is what I'm going to do and just take some notes
+[38:28.120 --> 38:33.100]  and just like find a good corner and operate off of it. That might be the way. But remember,
+[38:33.320 --> 38:39.800]  Walter White got mad at Jessie for trying the product. You need to either be selling it or
+[38:39.800 --> 38:44.860]  eating it. But I don't think both. It's like the number one rule of a drug dealer is you can't get
+[38:44.860 --> 38:48.380]  high on your own supply. Yeah, I got to be honest with you, Andrew. I feel like you're high right
+[38:48.380 --> 38:54.220]  now. No, I'm not high. The issue is it's not like fucking Walter White. I think you're sauce
+[38:54.220 --> 38:59.300]  high right now. I think you are. I don't think there's a lot of day that goes by that you're not
+[39:00.320 --> 39:06.500]  pretty close to or on the sauce. You know what? Listen, it's been tough. I'm not going to lie to
+[39:06.500 --> 39:11.940]  you, but I've avoided sauce high. I don't know if you've... There's a movie called Win It All,
+[39:12.260 --> 39:16.420]  and the premise is like this guy gets a bag of money and he just has to hold it and not think
+[39:16.420 --> 39:21.580]  about it. And he can't resist using it to gamble. That's how I feel about this sauce. I need to put
+[39:21.580 --> 39:26.200]  it like a duffel bag and throw it in a closet and just pretend it doesn't exist for the next.
+[39:26.220 --> 39:30.420]  Yeah, you need to hide it under the insulation in where you like your washer and dryer.
+[39:30.920 --> 39:36.020]  I need to reopen Gavin's safe that I bought and just put all the sauce in that and just
+[39:36.020 --> 39:41.720]  lock it away because it is. I'm not sauce high, Geoff, but I'm constantly thinking about being
+[39:41.720 --> 39:48.460]  every day. It is a struggle. You withdrawals. I feel like the day the B.T.S. product, you know,
+[39:48.520 --> 39:52.380]  ends thing ends and you're like, all right, now's the day I get rich. You're going to open up that
+[39:52.380 --> 39:59.240]  sauce drawer and it's just going to be a little sauce. And you're going to go, oh, and then you're
+[39:59.240 --> 40:04.560]  double fucked because not only is it gone, but you were your own supply and you've just you've
+[40:05.120 --> 40:09.060]  run through your own supply and now you're the only addict and you have no way to get it.
+[40:09.060 --> 40:13.600]  You've created your own problem. It's going to be buying off other people.
+[40:14.140 --> 40:18.040]  Andrew's going to be standing outside of McDonald's begging people to sell him sauce.
+[40:18.980 --> 40:24.120]  Hey, anyone get some B.T.S. sauce last night? Check your glove compartment for your car.
+[40:24.660 --> 40:27.800]  Anything? Maybe your truck. He's rummaging through the bin.
+[40:28.720 --> 40:33.400]  When was the last time you ate McDonald's? You're right. I'm the person I'm selling to is me.
+[40:33.400 --> 40:34.520]  I'm the person.
+[40:38.580 --> 40:43.320]  This is a whole new perspective. Maybe I just enjoy the sauces and view it as a savings
+[40:43.320 --> 40:47.180]  compared to what I'd be spending on the resale market. I don't know what I'm going to do.
+[40:47.480 --> 40:50.640]  But yeah, I'm a sauce guy. We got a lot of sauces going on.
+[40:50.720 --> 40:52.520]  Oh, that's funny as hell. Yeah.
+[40:54.240 --> 40:57.080]  Every week you have a new lifestyle change.
+[40:59.720 --> 41:03.880]  I was going to bring it up last week and then Geoff just randomly ended the show.
+[41:05.840 --> 41:09.920]  Oh, so like literally as soon as we stopped recording, I said to Eric,
+[41:10.060 --> 41:13.540]  I have this dumb thing lined up with all these sauces. Should I just do this?
+[41:13.620 --> 41:16.220]  And then it became I've become obsessed. I'm a sauce guy.
+[41:16.320 --> 41:22.220]  I'm creating an empire. It's going to be great. June 21st is going to be an exciting time.
+[41:22.860 --> 41:27.320]  Can I tell you guys, by the way, speaking of the way the last podcast ended, because like
+[41:27.320 --> 41:31.940]  for whatever reason, my audio cut out and I couldn't hear you guys. I assume it's an
+[41:31.940 --> 41:35.680]  because why wouldn't it be? Why would it be something that would require me to call somebody
+[41:35.680 --> 41:39.300]  to come out to my house and pay to do it and probably do it three or four times,
+[41:39.680 --> 41:43.660]  which is on the list of things to do. God, sorry.
+[41:45.400 --> 41:51.420]  Don't worry. I, uh, I got lost in my misery for a second.
+[41:51.560 --> 41:54.740]  What were we talking about? No, you're talking about ending the podcast abruptly.
+[41:55.020 --> 42:00.740]  Oh, right. I ended up. So on the bright side, that that happening prepared me for when it
+[42:00.740 --> 42:04.800]  happened twice this week during annual pass. The other podcast I record right now with Jack.
+[42:05.020 --> 42:08.280]  Did you end that one as well? No, I'll tell you when it happened,
+[42:08.400 --> 42:12.180]  I recognized what was happening. So I just shut up and I just waited. And eventually he came back
+[42:12.180 --> 42:17.080]  in and had never fucking knew that. I don't know what episode we just recorded, but there's probably
+[42:17.080 --> 42:20.780]  six minutes of that podcast that I was just not in. And Jack has no idea.
+[42:21.080 --> 42:24.520]  I love the idea of Jack finishing like a four minute spiel and then you're just like,
+[42:25.220 --> 42:31.300]  huh? Anyway, all right. To be fair to you as well, though, I feel like if that would have
+[42:31.300 --> 42:34.920]  happened on annual pass, you wouldn't have reacted the way you did. It felt very much
+[42:34.920 --> 42:39.240]  like you're paranoid is your response. You did not want to be fucked with. You thought it was
+[42:39.240 --> 42:43.960]  a prank in some way. So you were still not sure it was a prank. Oh, it definitely was.
+[42:44.000 --> 42:48.100]  You'll hear when the episode when it comes out to listen to you, you can tell, especially after I
+[42:48.100 --> 42:52.740]  had just had a whole conversation about how I'm getting paranoid that I'm late for a prank.
+[42:52.740 --> 42:57.360]  I'm overdue for one. And then immediately you guys stopped talking. Geoff is really paranoid
+[42:57.360 --> 43:01.760]  because I texted Geoff randomly the other day because I was just curious. I just wanted to
+[43:01.760 --> 43:07.800]  check in on Geoff. Why are you texting me, man? Don't text me. Nobody, nobody contact me. Nobody
+[43:07.800 --> 43:12.000]  talk to me. What do you want me to do? You're fucking you. Last week you're saying we don't
+[43:12.000 --> 43:15.720]  text you enough that we're saying. No, I'm not saying you don't text me. No, I'm just saying
+[43:15.720 --> 43:20.300]  you don't respond to me. It's fine. I relinquish my complaint. I don't trust it. I can't trust
+[43:20.300 --> 43:24.400]  any communication or Gavin. The only time Gavin text me is to guilt me for the rain. And it's
+[43:24.400 --> 43:31.520]  never my fault. Look, you know, the picture I posted last week of of the weather. Mm hmm. Yeah.
+[43:31.820 --> 43:41.520]  It's identical now. Yeah, it's the exact same. Anyway, Andrew, I don't I don't remember what
+[43:41.520 --> 43:47.000]  I was. Oh, I texted you saying, hey, have you played Gems of War recently? And you said,
+[43:47.000 --> 43:52.900]  why would you ask that? Why? Because I was thinking about my question. No, I was thinking
+[43:52.900 --> 43:57.180]  about my friend Geoff. And I thought, huh, I haven't talked to Geoff about Gems of War in a
+[43:57.180 --> 44:01.440]  long time. You love that game. You'd play it all the time. Talk to me about Gems of War ever. Yeah.
+[44:01.540 --> 44:05.700]  Well, just but it would come up in conversation. I'd ask you about it. I just like between the
+[44:05.700 --> 44:11.000]  show and the text conversation. I hadn't heard about it. Andrew Raymond Pantin. Uh huh. You
+[44:11.000 --> 44:16.980]  and I have so many things to talk about. There are so many places we can connect or check in
+[44:16.980 --> 44:22.860]  with each other on. Yeah. Not the least of which, by the way, is the entire NBA landscape right now.
+[44:22.980 --> 44:28.100]  And everything that you and I are watching as fans and then dealing with. Oh, that's another
+[44:28.100 --> 44:33.520]  thing. Asked what happened in the last week. I don't know. Maybe the entire goddamn Boston Celtics
+[44:33.520 --> 44:40.660]  organization flipped upside down and a piece of shit. Fucking super three fucking asshole.
+[44:40.660 --> 44:49.440]  No dignity. Let's buy a team fucking championship. Goddamn Brooklyn. No heart. Nets one. Obviously,
+[44:49.700 --> 44:53.840]  it's fucking. Oh, and a gentleman sweep. But Jason Tatum was amazing. And then the whole
+[44:53.840 --> 44:58.600]  fucking team fell apart. Also, that happened anyway. I did. I think that there's a million
+[44:58.600 --> 45:03.680]  other reasons for you to contact me than Gems of War and out of the blue. No. As soon as you text
+[45:03.680 --> 45:08.600]  me out of the blue about Gems of War, of all things, I think what's the Gems of War bit?
+[45:08.600 --> 45:13.280]  This is there was no bit. It was it was in the heart of and we should probably address this too
+[45:13.280 --> 45:18.160]  at some point. It was during our bet between Gavin and I and I was thinking about Gavin and
+[45:18.160 --> 45:21.660]  I playing games. And then I thought about you and I was like, well, I wonder if Geoff
+[45:21.660 --> 45:25.320]  is still playing Gems of War. So I just was curious. There was nothing behind it. It was
+[45:25.320 --> 45:29.420]  just a genuine question as a friend, because there's the achievement named after you in that
+[45:29.420 --> 45:34.160]  game. For a while, we'd get constant updates of like I'm a quarter of the way there or whatever.
+[45:34.160 --> 45:39.020]  I played for 20 hours and I gained one percent on it. So I was just curious. Would you be excited,
+[45:39.240 --> 45:43.880]  Andrew, to get that achievement before Geoff? Oh, I would love to. But there's no way. There's a
+[45:43.880 --> 45:48.480]  zero percent chance that could happen. I feel like you're very sad that our bet ended, that
+[45:48.480 --> 45:53.000]  our Halo bet. I think we're both sad about it. I'm pretty sad. Do you guys want to talk about that?
+[45:53.060 --> 45:58.540]  Like who won the bet and all that stuff? Yeah, we should go into that. We should. It developed
+[45:58.540 --> 46:04.600]  into... it went 12 rounds, which is shocking. I think in the last episode that aired, the time
+[46:04.600 --> 46:09.200]  was like four minutes, 20. I think I said that. And someone asked me, do I think Gavin will beat
+[46:09.200 --> 46:14.440]  it? And I was like, 90 percent chance, no way. And it went like five more days after that point.
+[46:14.700 --> 46:17.900]  It went back and forth so many times. And I think since the last one we recorded,
+[46:18.680 --> 46:26.100]  I said like a 344. And then because we were like just chipping away seconds, we like got to the
+[46:26.100 --> 46:32.240]  point where if we clipped a corner or if we didn't take a turn like a Formula One driver,
+[46:32.420 --> 46:36.960]  we would reload. We're just shaving off seconds. So it was like going all the way down. I got to
+[46:36.960 --> 46:45.740]  about 344. I think I beat your 345. And then out of complete nowhere, you got a 339. It was the
+[46:45.740 --> 46:49.980]  best run I've ever had. You shaved five entire seconds off. And at that point, I was like,
+[46:50.000 --> 46:56.000]  oh, I am screwed. It was fantastic. It took less than an hour. It honestly felt like
+[46:56.000 --> 47:00.720]  revenge for the bathtub text you sent me where you like did it in 40 minutes. It felt like
+[47:00.720 --> 47:05.440]  retribution in that way. I just had everything happen to line up for me perfectly. It's the
+[47:05.440 --> 47:11.020]  best run I've ever had. Probably will be the best run I'll ever have on that level. And it only took
+[47:11.020 --> 47:17.240]  like 65 minutes. It was ridiculous. It was insane. So I was like, oh, I was really down.
+[47:17.780 --> 47:24.520]  I eventually managed to shave off four seconds off my last time. So I got to 340 on your 339.
+[47:24.520 --> 47:30.880]  By the way, real quick, what's the world record? It's 335 on easy. So you guys are
+[47:30.880 --> 47:36.300]  five seconds off of four and five seconds off of the world record doing it on legendary with some.
+[47:36.420 --> 47:42.880]  Yeah, well, yeah, it's you can't count the skulls save scumming speed run then. Yeah. Yeah. I mean,
+[47:42.940 --> 47:47.240]  the skulls are part of the easy speed run. It's just more of we're safe scumming it. We're not
+[47:47.240 --> 47:52.820]  it's like we're optimizing every point section by section. It's not a fluid run. The run is all about
+[47:52.820 --> 47:57.300]  the start between the start and getting in the ghost. It's how quickly you do that. That's what
+[47:57.300 --> 48:02.220]  determines the run is what I've seen. And I feel like you were sort of falling towards the ghost
+[48:02.220 --> 48:08.240]  around 30 seconds. And I actually was able I spent an entire day doing this. I just I was just
+[48:08.240 --> 48:14.040]  drilling the rooftop over and over again, blasting myself through that shitty hallway to get to the
+[48:14.040 --> 48:20.020]  ghost. And I managed to fly out of that hallway and I was falling towards the ghost at 27 seconds.
+[48:20.020 --> 48:26.280]  And I was like, oh, if this checkpoints, I have this. But what I didn't realize is that
+[48:26.280 --> 48:31.540]  there's a load zone that I guess is within that time. So all the enemies spawn in. So I was there
+[48:31.540 --> 48:37.340]  in my ghost driving it like 28 seconds. And all of the enemies were in different places. Like
+[48:37.340 --> 48:42.760]  there's a ghost that comes down. And usually, you know, when you're hitting that a normal time,
+[48:42.940 --> 48:47.340]  the ghost just drives past you. It then turns around and start shooting you. Because it was
+[48:47.340 --> 48:52.160]  so early, he barely even come out. He started shooting me straight away. It made every single
+[48:52.160 --> 48:57.160]  part after that so much more difficult because everything was so early and shit was in different
+[48:57.160 --> 49:02.280]  places. I got hung up in the tunnels. I think I ended up losing three or four seconds in places
+[49:02.280 --> 49:06.980]  where I used to breeze through. And it was so freaking frustrating. I didn't want to bin the
+[49:06.980 --> 49:11.540]  run. So I was just drilling. Every single checkpoint was difficult. Pissed me right off.
+[49:11.600 --> 49:14.900]  And when I got to the end and I was like, I don't even have enough. I don't have enough seconds left
+[49:14.900 --> 49:21.260]  to even get ahead or even tie. It was it was a really a huge downer. And I'm still upset about
+[49:21.260 --> 49:27.900]  it. I really don't think I don't think I can beat that time ever. I think you could because you set
+[49:27.900 --> 49:32.240]  up for a scenario in which you were faster. I don't think I could ever beat that time. I think
+[49:32.240 --> 49:39.600]  the way this contest played out or this bet, it's the only scenario I would win. That 339 time
+[49:39.600 --> 49:45.200]  is just extremely lucky. If we ran this back 10 times, started over, I think you would win most
+[49:45.200 --> 49:50.180]  of them. I just got you. I hit that one right time. You were bummed and you were asking me
+[49:50.180 --> 49:55.420]  to pick other levels so we could basically do it again. And I and I realized that it's so hard to
+[49:55.420 --> 49:59.700]  cheat in other levels like that. That one sounds like an anomaly. You could just fly over most
+[49:59.700 --> 50:03.960]  the level. And it's Halo 2, so there's all these stupid skulls. In other games, it's not as easy.
+[50:03.960 --> 50:10.120]  So I decided I don't want to do a different level. I just want to... I feel like even though I lost
+[50:10.120 --> 50:16.340]  the bet, you care much less about the bet. You would care much more if I beat your time on
+[50:16.340 --> 50:20.600]  outskirts. Even after the bet, I feel like you would have to go back and beat it again.
+[50:21.340 --> 50:26.680]  I don't think I would, to be honest with you. You would happily let me sit above you on the
+[50:26.680 --> 50:30.700]  leaderboards for outskirts after everything we went through? Yeah, because I won the bet. So
+[50:30.700 --> 50:33.740]  now this is just like... I'm acknowledging already... We didn't even know what the bet was
+[50:33.740 --> 50:39.920]  for! Yeah, what did you win? Didn't we determine bragging rights? No, no, it was Gavin has to chew
+[50:39.920 --> 50:44.980]  a piece of gum of my choice. It's like 10 chews or something. Sure, we'll get that out of the way.
+[50:45.860 --> 50:49.420]  I'm still debating whether or not to bring lawyers into that, but I think I'll just go ahead and do
+[50:49.420 --> 50:55.160]  it. But I honestly think if I, like a month from now, was like, by the way, better than your
+[50:55.160 --> 51:00.040]  outskirts, I think you'd be livid. Do you want to know the proof of why I wouldn't care? I don't
+[51:00.040 --> 51:05.380]  have any times in Garfield cart anymore. I've moved on. I feel the same way about this. I won,
+[51:05.480 --> 51:09.940]  I accomplished what I wanted to. I acknowledge that I think you're better at me at that level.
+[51:10.260 --> 51:14.700]  I think this is the only scenario in which I win this bet. I'm okay with you having the better
+[51:14.700 --> 51:18.100]  time because I think you're better at that level than I am. I think I would have put that to the
+[51:18.100 --> 51:25.320]  test. Feel free. Go ahead. It will take hours. You spent 8.5 hours, I think you said, to get a
+[51:25.320 --> 51:31.220]  second below the time I have. That's a lot of grind. Over the weekend when I was talking to
+[51:31.220 --> 51:36.040]  you guys, there was some discussion about continuing this with other levels. It sounds
+[51:36.040 --> 51:41.300]  like that's no longer on the table. Gavin's just going to beat your time for fun. I guess so.
+[51:41.520 --> 51:46.240]  Is there no, which I, by the way, Gavin, I think is the right move. I think it's the right decision.
+[51:46.560 --> 51:53.260]  And I think that you are right in every way. I do think what might happen is Andrew might not be
+[51:53.260 --> 51:59.120]  able to let you and us know that you were right. And so it might fester and eat away at him inside.
+[51:59.740 --> 52:06.520]  Way, way, way worse way than anything else, which I think is just brilliant. And honestly,
+[52:07.040 --> 52:11.820]  whether it's true or not doesn't really matter as long as you and I believe it's true. And I 100%
+[52:11.820 --> 52:17.280]  believe it's true. But I do feel like, I thought you guys were going to come up with a point
+[52:17.280 --> 52:22.020]  scoring system and you were going to try to do first to five or some shit and you were going
+[52:22.480 --> 52:26.040]  I thought that's what we were doing. I didn't know that Gavin has decided he doesn't want to
+[52:26.040 --> 52:29.760]  do that anymore. I mean, I do want to do that. I do want to do, I just try to figure out where
+[52:29.760 --> 52:37.480]  the value is. What will annoy you more? The other levels are just normal levels. You got to be good
+[52:37.480 --> 52:41.500]  at shooting and stuff. The reason I love this level and the reason I kept doing it back in
+[52:41.500 --> 52:46.180]  the day is that you don't have to even kill anything. That's true. What is so stupid in
+[52:46.180 --> 52:51.100]  my mind is when we agreed initially, we both before said, OK, we're going to do Master
+[52:51.100 --> 52:55.640]  Chief Collection has six Halo games. We'll do a level per game. If you win the game, you get a
+[52:55.640 --> 53:00.540]  point. First to four points wins was kind of the idea. I never considered Gavin to use the skull
+[53:00.540 --> 53:05.760]  method on other levels. When he texted me yesterday, I was like, man, it's hard to cheat on other
+[53:05.760 --> 53:10.680]  levels. I was terrified because it's like, oh, fuck, I never even thought about that this could
+[53:10.680 --> 53:15.920]  continue on in other ways. Halo 2 has definitely the goofiest skulls and it's going to be very
+[53:15.920 --> 53:19.380]  difficult in other games. But I am going to find a way to create new techniques in other games.
+[53:19.380 --> 53:24.380]  I'm just I think outskirts will always be on my mind. We could even move ahead. Like once again,
+[53:24.440 --> 53:28.740]  talking about times you had, you and I were going to do a whole fucking Hitman race. So I took every
+[53:28.740 --> 53:35.260]  time in Hitman 2 and then you just never played Hitman 2. It never happened. Well, I will say
+[53:35.260 --> 53:40.240]  where you're fucked here, Andrew. I think you're a better gamer than Gavin in most cases,
+[53:40.420 --> 53:44.920]  certainly without a doubt. Not that Gavin is bad, by the way. We know that's a joke,
+[53:45.360 --> 53:49.280]  especially with Halo. But Gavin knows Halo better than he knows Gavin.
+[53:50.040 --> 53:59.720]  And he knows the ins and outs and intricacies and foibles of that system and that engine so
+[53:59.720 --> 54:06.000]  fucking well that if there is a way to exploit it, he will find it. He will. He is a genius at it to
+[54:06.000 --> 54:10.880]  the point where after the bet was over, I thought, well, since I've been streaming this every night
+[54:10.880 --> 54:16.640]  and people have been watching, I feel like there should be one more closeout stream. And since it
+[54:16.640 --> 54:21.420]  was over, Gavin was just sharing with me stuff he's doing. He came up with this way of reducing
+[54:21.420 --> 54:26.320]  the time by hopping out of the ghost, throwing a grenade underneath it, and then propelling you
+[54:26.320 --> 54:30.840]  to a tunnel area. And it was genius and it's something I would never consider.
+[54:31.340 --> 54:35.320]  Yeah, I tested that out on my run. The checkpoint positioning is very important on that one,
+[54:35.420 --> 54:39.360]  but on my run, I did figure out it would save me exactly one second doing that.
+[54:39.360 --> 54:44.060]  Yeah, like, it's absurd. Like, I really, I genuinely think you're better at me at that
+[54:44.060 --> 54:49.940]  level. It's just between the time restriction and the time I happen to hit. Like, if you would
+[54:49.940 --> 54:54.420]  have got 340, I don't know if I would ever get 339. I would be very interested if you could
+[54:54.420 --> 54:59.300]  even get 339 again. I was even contemplating trying to grenade myself up the final ramp,
+[54:59.660 --> 55:04.800]  but you take so much damage before that. Should we do, um, should we do your cans? You want to do
+[55:04.800 --> 55:09.500]  the cans? You guys want to talk over while I crack cans? This isn't hard, you guys said. You
+[55:09.500 --> 55:12.980]  both were like, eh, who gives a shit? So what did you got in front of you? You got two cans of drink?
+[55:13.220 --> 55:19.220]  Yeah, so I have three cans. One of them is opened, uh, cause I almost puked while Geoff was yelling
+[55:19.220 --> 55:23.800]  earlier cause I was laughing so hard and I needed something to drink to stop myself from doing so.
+[55:23.940 --> 55:27.120]  Man, I did not want to laugh or did not want to yell.
+[55:27.880 --> 55:31.340]  Now, hey, you know what? I didn't know you were gonna, I didn't know you were gonna get me going.
+[55:31.340 --> 55:35.300]  I didn't try to Geoff. It's just, I feel like you needed that. He was just working on his checklist.
+[55:35.800 --> 55:40.400]  Yeah, I was just, I was taking notes from the fucking... I just, I fucking realized I had
+[55:40.400 --> 55:44.320]  answers to those questions and they were frustrating answers. Well, I feel like it was
+[55:44.320 --> 55:48.840]  very therapeutic and we love you. So I'm going to crack a can. This is really easy. You guys both
+[55:48.840 --> 55:54.380]  said. So the idea is to not burp and do two cans. You should do the two other cans though. Cause I
+[55:54.380 --> 55:57.980]  assume the open one has lost carbonation. The other one has lost carbonation. I completely
+[55:57.980 --> 56:04.480]  agree. I will do the last can last or the open one last. But no, no burping allowed.
+[56:04.860 --> 56:08.840]  No burping allowed. Now we talked about this before. Do I have like a 10 count once I'm done
+[56:08.840 --> 56:14.320]  with the drinks to like, to what extent? Cause I'm going to burp eventually. When do I pass the,
+[56:14.540 --> 56:18.620]  I've made the challenge. We should get 30 seconds to tick by and then you can burp.
+[56:18.740 --> 56:24.140]  Yeah. 30 seconds. 30 seconds. How long did it take you guys to chug a can? I can't remember
+[56:24.140 --> 56:28.200]  last time I chugged this soda in a can. I feel like this could be different. 10 seconds maybe.
+[56:28.600 --> 56:35.240]  Okay. 10 seconds. Holy shit. It fucking fizzed and shot everywhere. Okay. Here we go.
+[56:35.660 --> 56:39.660]  All right. I'm imagining this one. It sounds like he's drinking. Sounds,
+[56:40.140 --> 56:44.460]  sounds like he's getting it down. Yeah. When do you think you'll get? You think you'll do two?
+[56:45.100 --> 56:50.060]  No, I don't think. Well, do you think you could do two? You seem to think, feel pretty confident
+[56:50.060 --> 56:53.720]  you could handle two. I think I could do two. Yeah. I don't think I could do three.
+[56:54.140 --> 56:59.380]  I think based on how much I hurt after I did it and how then I had like...
+[57:11.320 --> 57:13.300]  I made a mistake.
+[57:14.220 --> 57:18.540]  It was like one can. What was that noise?
+[57:20.120 --> 57:23.480]  Someone's vomiting it all up. Oh my God.
+[57:28.920 --> 57:32.880]  Oh my God. It's like a T-Rex that just ate a goat.
+[57:35.520 --> 57:43.580]  I fucked up so bad. Do not go with seven up. It's so carbonated. It's so bubbly.
+[57:44.280 --> 57:52.840]  It's got bubbles on the can. That's the point. Oh my God. I genuinely almost puked. That was one.
+[57:52.840 --> 57:56.980]  That was one. That was a bad attempt. Did you make the 30 seconds?
+[57:57.200 --> 58:01.120]  Oh no. I definitely burped and like died and almost puked.
+[58:01.220 --> 58:04.400]  The 30 seconds was supposed to start after the second can.
+[58:04.860 --> 58:07.680]  Okay. So I got a second can. I can try the Pepsi.
+[58:08.260 --> 58:11.000]  Yeah. He's mixing and matching.
+[58:11.620 --> 58:15.600]  Okay. Oh yeah. Well, I had two Pepsis and it's seven up because I thought it might get boring.
+[58:16.240 --> 58:19.200]  Okay. I know the other day I said, I said,
+[58:19.220 --> 58:22.220]  I'm never going to listen to this podcast again, but I have to tune in to hear that noise.
+[58:24.680 --> 58:28.560]  I want to listen to his raw audio right after we finish recording.
+[58:28.800 --> 58:31.100]  I've never heard anything like that in my life.
+[58:39.480 --> 58:44.760]  He's terrible at this. He sucks so much at this. I'm so bad at this.
+[58:44.760 --> 58:53.460]  Oh my God. I have to... Oh man. I fucking vomit.
+[58:55.240 --> 58:57.780]  I had soda all over my shirt.
+[59:00.820 --> 59:06.820]  What's wrong with it? Why is it bringing up liquid?
+[59:10.080 --> 59:14.740]  I think my body's trying to burp and the soda just keeps coming down.
+[59:15.960 --> 59:18.420]  Oh my God, he rejects the Pepsi.
+[59:20.040 --> 59:25.620]  It doesn't matter. Seven up wasn't a mistake. It's just all, it's all bad for me. It all doesn't
+[59:25.620 --> 59:29.300]  work. You took such a big game, like it was going to be a piece of piss.
+[59:29.320 --> 59:34.560]  I really thought it was going to be so easy. It was not. That was, that was not good.
+[59:34.840 --> 59:37.620]  I feel like I could genuinely go vomit right now.
+[59:39.840 --> 59:45.120]  Well, considering you almost vomited at nothing earlier, it probably wasn't the first time to try
+[59:45.120 --> 59:52.200]  this. Oh, I got tears in my eyes. I definitely vomited a little bit. That was the first.
+[59:53.040 --> 59:58.120]  I'm sorry to anyone that had to listen to that. How far into the can was the burp? Was it,
+[59:58.220 --> 01:00:03.060]  you couldn't, you just couldn't stifle the burp? I was burping while chugging,
+[01:00:03.060 --> 01:00:09.140]  which probably caused the violent roar of the seven up. And then the Pepsi,
+[01:00:10.220 --> 01:00:18.660]  I couldn't, it was just, it came to the surface. I couldn't stop it. So I got, I don't.
+[01:00:19.320 --> 01:00:22.660]  Okay. I'm, I'm, I'm ready to start the timer whenever you're ready.
+[01:00:23.240 --> 01:00:27.240]  Okay. I'm going to start the third one, Eric. Get ready. Okay. Get, get, get the timer going.
+[01:00:27.300 --> 01:00:30.360]  Ready? Okay. Here's round three. Is he really going for the other one?
+[01:00:30.360 --> 01:00:36.800]  Probably drinking a flat soda. That one's not going to be bad. Well, maybe we'll hear that roar
+[01:00:36.800 --> 01:00:49.560]  again. A little burp. I can't do this. I tap. I tap. I think potentially, I think potentially we
+[01:00:49.560 --> 01:00:54.780]  should try this again one day. Maybe this is what we'll do on our first in-person. Oh, that was,
+[01:00:55.420 --> 01:01:03.020]  are we good? Did everyone, everyone happy? Yeah. That was no salad cream, buddy. Let me tell you.
+[01:01:03.320 --> 01:01:11.000]  Okay. Thank you for listening to another episode of F*** Face. If you enjoyed whatever that was.
+[01:01:11.380 --> 01:01:16.100]  I've run out of laughter. I can't laugh anymore. I'm just crying. I'm just pushing tears now. I've
+[01:01:16.100 --> 01:01:20.400]  got nothing left to give. Please subscribe on whatever platform you use for podcasts.
+[01:01:20.400 --> 01:01:26.000]  leave a five-star review. You would appreciate that. Also we have merged. I don't know if you
+[01:01:26.000 --> 01:01:30.940]  guys have seen, I think the, the waffle air freshener might be the worst rated product
+[01:01:30.940 --> 01:01:37.940]  on the RT store. It is so strong. Yeah. It's so sickeningly sweet smelling. It's wonderful.
+[01:01:38.400 --> 01:01:43.180]  It has two reviews and they're both like, what is this? This is a mistake.
+[01:01:43.680 --> 01:01:49.280]  So if you want to smell the worst air freshener of all time, please. It is available in the store.
+[01:01:50.400 --> 01:01:51.300]  Thank you for listening.

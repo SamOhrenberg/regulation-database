@@ -1,0 +1,515 @@
+[00:00.560 --> 00:05.740]  This episode is brought to you by Wayfair. Podcasts follow us everywhere. Whether you're cooking in
+[00:05.740 --> 00:09.560]  the kitchen, chilling in the living room, or pretending to fold laundry in the bedroom.
+[00:09.900 --> 00:14.960]  And with Wayfair, every one of those rooms can tell a story of its own. Their curated collections
+[00:14.960 --> 00:20.600]  of furniture styles and prices make Wayfair the trusted destination to turn your home into your
+[00:20.600 --> 00:26.460]  happy place. Shop everything home at Wayfair.com with free and easy delivery straight to your door.
+[00:40.350 --> 00:47.410]  Hello and welcome to another episode. Was that too, was that an appropriate level of excitement?
+[00:47.670 --> 00:50.930]  I just realized I didn't check with you. Yeah, it was, it was a good, you know, I wasn't gonna
+[00:50.930 --> 00:55.010]  interrupt you this time because you were so aggressive about it last time. Yeah, so you
+[00:55.010 --> 00:59.410]  interrupted yourself for some reason. Um, but yeah, I'd say that was pretty good. I'll be honest,
+[00:59.470 --> 01:04.070]  you guys have me second guessing myself a lot these days. Okay, uh, that's for the best though.
+[01:04.070 --> 01:10.930]  Episode of F*** Face. My name is Geoff Ramsey. And as with me, with, with me as always,
+[01:11.210 --> 01:16.510]  the other two. I'm one of the other two. I'm the other one. Gavin and Andrew. How's it going,
+[01:16.590 --> 01:21.750]  boys? I'm pretty good. How are you? I'm pretty good. I'm pretty good. I'm, uh, I'm excited
+[01:21.750 --> 01:28.790]  because we just recorded what I think was one of the, uh, episodes of the show. Yeah. Yeah,
+[01:28.990 --> 01:33.510]  it was. That's factually correct statement. I can confirm that. So Geoff, you mentioned last
+[01:33.510 --> 01:39.970]  episode that you had listened to previous episodes of F*** Face. Yeah. Is it good? Is
+[01:39.970 --> 01:44.410]  it any good? I quite, uh, I'll be totally, I'll break character here. I'll be totally honest with
+[01:44.410 --> 01:49.410]  you. I quite enjoy the interplay between you guys. And I don't, I don't know if it's, if it's
+[01:49.410 --> 01:57.130]  my inability to recognize myself in a positive way ever for anything, but I find myself to be
+[01:57.130 --> 02:02.790]  grating and obnoxious and overbearing. And I find that I laugh too much. And when I do,
+[02:02.790 --> 02:07.350]  it sounds disingenuous, even though it's not. Uh, but I find you guys to be really funny. And I,
+[02:07.350 --> 02:13.510]  I quite enjoyed listening to you two talk because when you're doing a podcast like this, or like,
+[02:13.530 --> 02:17.010]  let's say a, a let's play at Rooster Teeth or one of those things where you're performing,
+[02:17.590 --> 02:21.490]  you're hyper aware of everything that's happening and you're in the conversation, but you're,
+[02:22.130 --> 02:27.050]  it's different to perform in it than it is to listen to it and enjoy it, if that makes sense.
+[02:27.290 --> 02:31.190]  And so being able to go back and listen to you guys, just, just listen to you guys talk and be
+[02:31.190 --> 02:35.290]  able to take it for what it is without having to be thinking about pacing and like where to take the
+[02:35.290 --> 02:38.850]  story or when to interject or, you know what I mean? It's, it's, it's a much more fun, passive
+[02:38.850 --> 02:42.750]  experience for me. Uh, going back and listening to you guys talk. Wow. That, that took me by
+[02:42.750 --> 02:50.770]  surprise. I was ready for an insult. I hate you, Geoff. I hate you. I was so prepared to face you
+[02:50.770 --> 02:57.470]  and censor it. I was the only time in my life I've been ready and you decide to be nice.
+[02:57.470 --> 03:03.430]  The only time. Imagine Geoff spewing all that wonderfulness and Andrew just like...
+[03:03.430 --> 03:10.130]  Yeah, I was, I had my finger on the trigger. I was ready to go. Geoff decided to be a nice guy.
+[03:10.350 --> 03:15.970]  God damn it. Thank you. But God damn it. Gotta keep you guys on your toes. There you go.
+[03:17.170 --> 03:21.070]  Speaking of you, Andrew. Yeah. I want to talk about an idea. I mentioned earlier,
+[03:21.070 --> 03:26.110]  I have an idea for a product and it centers around you. Oh, this is horrifying.
+[03:26.870 --> 03:30.710]  Considering the last thing you thought I would qualify for. I'm a little nervous.
+[03:31.550 --> 03:35.170]  I'm excited about it. Uh, and when I say product, I feel like that's a little disingenuous.
+[03:35.470 --> 03:41.050]  I was just trying to be obtuse, uh, so that you couldn't follow the thread. I think that you
+[03:41.050 --> 03:47.290]  have the makings of, I think that maybe, maybe we've all been looking at you the wrong way.
+[03:47.310 --> 03:52.330]  And we've been like Gavin and I, we've been taking you the wrong way. Um, I, I've always,
+[03:52.330 --> 03:58.030]  I've always taken you as this like happy-go-lucky, really talented, good-natured, good-hearted,
+[03:58.670 --> 04:04.950]  too funny for his own good, too mischievous for his own good kid who kind of, uh, practices a,
+[04:05.710 --> 04:13.010]  uh, like a chaotic good malevolence, uh, upon his own life. Uh, but also the people around him,
+[04:13.030 --> 04:19.210]  but in an endearing way. I'm waiting for the turn. However, I think you have the makings of
+[04:19.760 --> 04:28.130]  like, uh, uh, let's say like a Krampus or, uh, what's, what's, what's, uh, like, uh,
+[04:28.130 --> 04:33.710]  what's another evil entity? I did not expect. Like boogie man, boogie man type creature,
+[04:34.050 --> 04:40.250]  right? Krampus? Like, like Candyman, I think of like a horror movie villain, like, uh, yeah,
+[04:40.390 --> 04:45.830]  like maybe... Hitler. Well, I think unless... I really should have blocked that one. That's
+[04:45.830 --> 04:51.450]  regrettable, miss. I know I wasn't going that way, but yeah, I think more like, like the thing
+[04:51.450 --> 04:56.690]  that people are scared of in the night. And here's why, here's why. Okay. I'm gonna take a
+[04:56.690 --> 05:04.910]  couple of examples. Okay. You told a story about, uh, how awkward you are and how socially inept
+[05:04.910 --> 05:10.870]  you are. And so you found a guy to cut your hair. And so when he retired and moved to the old folks
+[05:10.870 --> 05:16.330]  home, you just dotingly and awkwardly followed along with him. That's not exactly how it went,
+[05:16.430 --> 05:21.110]  but okay. It's pretty close. Not really. And, and you, you talk about how you pretend to be
+[05:21.110 --> 05:25.330]  interested in, in football while he pretends to be interested in hockey or golf or whatever it was.
+[05:25.490 --> 05:30.930]  Tennis, maybe. Slip those as well, but that's fine. Continue. Yeah. And then, uh, you talked about,
+[05:31.090 --> 05:35.690]  uh, another story. I'm just pulling these from the ether. Another story is, uh, there was the
+[05:35.690 --> 05:42.690]  time when you found all the like hamster traps in your yard and you thought that somebody was,
+[05:42.690 --> 05:48.070]  was performing some sort of a malicious prank or weird thing on you. Uh, and then there was the
+[05:48.070 --> 05:54.730]  time that you mistakenly sent a package to yourself, but you sent it to an old address.
+[05:54.890 --> 05:59.870]  So instead of just going up and knocking on the door, you, uh, developed an elaborate plan,
+[05:59.870 --> 06:04.390]  which required you, uh, putting Chinese food flyers all over a neighborhood.
+[06:05.030 --> 06:10.550]  Uh, and then there was a recent one that you just brought up where you, uh, were, uh,
+[06:11.590 --> 06:16.570]  alerted to looking out the window by an ambulance and flashing sirens. And then you, uh,
+[06:17.610 --> 06:21.930]  unintentionally following a mystery, ended up watching a homeless lady go to the bathroom.
+[06:22.730 --> 06:28.710]  Yeah. Those all sound perfectly rational when told through that lens. But here's what I'm
+[06:28.710 --> 06:32.110]  thinking. I'm thinking, what if we've been looking at you the wrong way? What if you
+[06:32.110 --> 06:39.490]  have been unintentionally terrorizing your poor town and Island and you've become like a mythical
+[06:39.490 --> 06:46.210]  boogeyman type creature? For instance, you're the kid that it was so that the barber was so scared
+[06:46.210 --> 06:50.810]  of because he's so intimidated by you and your forceful sports talk. He tried to go the one place
+[06:50.810 --> 06:56.670]  a 20 year old man would not follow him and old folks home. It's anathema to youth to go to an
+[06:56.670 --> 07:00.810]  old folks home. It was the only place he could think of to stay in business and hide. And you
+[07:00.810 --> 07:07.790]  still found him. Or maybe the person who lived in that house before you or lived next door was a
+[07:07.790 --> 07:13.390]  little boy who had a pet hamster that his dad gave him. And then his dad died in a plane crash.
+[07:13.690 --> 07:17.470]  And all he has to remember his dad by is this hamster. And the hamster got out one night
+[07:17.470 --> 07:21.890]  and he's been going and setting traps, trying to find his poor hamster that reminds him of his dead
+[07:21.890 --> 07:26.930]  dad. And every time you find it, you throw it on the pile or you smash it or you do in some way
+[07:26.930 --> 07:32.630]  stop this poor kid from reconnecting with his dead father. Or what if you this poor Chinese
+[07:32.630 --> 07:38.010]  food restaurant is getting fined by the local authorities because they keep flyering neighborhoods
+[07:38.010 --> 07:42.470]  and they don't. And they and they keep saying, no, it's this Andrew. It's Andrew. It's the name
+[07:42.470 --> 07:46.530]  that people whisper in the dark. It's Andrew. And they're like, Andrew doesn't exist. He's not real.
+[07:46.990 --> 07:50.810]  What if there's a poor homeless woman who's like, every time I go to the bathroom,
+[07:50.810 --> 07:57.070]  there's this pair of eyes staring at me through a window. It's Andrew. What if you are
+[07:58.070 --> 08:05.250]  Andrew, the boogeyman? Andrew, I prefer Andrew from the block. I think that was a better. I'd
+[08:05.250 --> 08:10.010]  rather have that title. Sure. I will say I don't necessarily agree with a lot of what you're
+[08:10.010 --> 08:15.910]  saying. That was a torrent. It was a lot. But to give a little bit of evidence to part of your
+[08:15.910 --> 08:20.270]  theory, the guy that cuts my hair, very shaky hands. I don't know if he's like that with
+[08:20.270 --> 08:25.350]  everybody because he's terrifying. It's that's what I'm saying. I'm adding a little bit of weight
+[08:25.350 --> 08:32.450]  to your theory. So wait, you exclusively see a hairdresser who is incredibly difficult to get to
+[08:32.450 --> 08:35.870]  and his hands shake while he's cutting your hair. Yeah, because he knows how to cut my hair.
+[08:36.190 --> 08:40.430]  It's convenient. It's he knows how to cut your hair out of fear because he's scared you're going
+[08:40.430 --> 08:45.010]  to kill him. I don't think that's true. But the handshaking is a little weird. Coronavirus might
+[08:45.010 --> 08:49.230]  have been the best thing to ever happen to that poor man. That's one way to look at. I mean,
+[08:49.230 --> 08:53.790]  that's a take, I guess. I don't really know what to say. I didn't expect to be called Krampus.
+[08:54.710 --> 09:02.670]  Yeah, the Krampus was was a took a turn into Krampus. Yeah. No, just something to think
+[09:02.670 --> 09:10.010]  about. You might be. So anyway, I my idea for a product is we should franchise you as the new,
+[09:10.170 --> 09:15.710]  like evil, scary thing in the night. The thing that goes bump in the night.
+[09:15.710 --> 09:20.630]  How do you how do I advertise that? Do I just? Well, I'm the thing in the night on my Twitter
+[09:20.630 --> 09:25.610]  bio. Hire me. Like what? Yeah, maybe. I don't know. Maybe maybe maybe we could write a book
+[09:25.610 --> 09:31.070]  about it or we make a movie and you could you could be like like maybe it's a movie franchise
+[09:31.070 --> 09:36.190]  like Friday the 13th or Nightmare on Elm Street. It's very Nightmare on Elm Street. Very cerebral.
+[09:36.570 --> 09:40.910]  You're a smart guy. Maybe you're like the new Freddy Krueger. I wonder what the day rate should
+[09:40.910 --> 09:45.970]  be on the thing in the night. That's a great question, too. And also, I like you say these
+[09:45.970 --> 09:50.850]  like I'm purposefully causing them. These are just things that have happened. I don't feel I'm at
+[09:50.850 --> 09:54.710]  fault for most of these things. What do you mean you're not at fault? I don't think I'm at fault
+[09:54.710 --> 09:59.110]  in any way. I don't think I caused any of these to happen. Well, OK, but like for the stuff where
+[09:59.110 --> 10:04.790]  you smacked every button in the lift. So Steven Spielberg had to go to every floor of that
+[10:04.790 --> 10:15.150]  building. Can we tell that fucking story after this bit? If we must. That is the best story. Also
+[10:15.150 --> 10:20.830]  lends a lot of credence to where I'm going with this. For all I know, Steven Spielberg whispers
+[10:20.830 --> 10:26.750]  your name to his kids at night to scare them. I don't think that's true. I feel like here's why
+[10:26.750 --> 10:33.710]  this analogy doesn't work. The Krampus is scary in appearance. I've met Andrew, you know, not a scary
+[10:34.170 --> 10:40.810]  person to look at. Yeah, but Robert Englund isn't scary. Freddy Krueger is. Yeah, but he's like
+[10:40.810 --> 10:46.110]  missing. He's not playing himself. He doesn't just show up and he's Freddy Krueger. They put like
+[10:46.110 --> 10:50.910]  paint on his face and stuff. Half his face is missing. He got burns everywhere. We'll burn
+[10:50.910 --> 10:56.610]  your face or whatever. That's fine. What if I become Two-Face? You consider that. What if we
+[10:56.610 --> 11:02.270]  give you like No-Face? Oh, that's not. I can live with that.
+[11:04.450 --> 11:11.890]  I agree with you, Gavin, in that it works better as a psychological horror when you only hear of
+[11:11.890 --> 11:16.130]  Andrew whispered in the dark. When you see him, it takes a bit of the fear away.
+[11:18.490 --> 11:23.790]  I emerge from the darkness. Yeah, it should be. It should be someone that you never see,
+[11:23.790 --> 11:29.350]  but only hear about. Yeah. The other thing I feel bad about this with is I get mistaken for
+[11:29.350 --> 11:35.070]  a different Andrew Panton. That's two Andrew Pantons? There's way more. I'm in a group chat
+[11:35.070 --> 11:40.630]  of just Andrew Pantons, which is great. It's me and five other Andrew Pantons. It's a very
+[11:40.630 --> 11:45.450]  supportive group. Do you all look the same? How did you meet each other? Yeah, you would think
+[11:45.450 --> 11:50.310]  this sounds like an idea I would come up with, but I just got invited in a messenger group to a chat
+[11:50.310 --> 11:54.710]  called Andrew Panton, and it was me and five other Andrew Pantons. And that's the only similarity.
+[11:54.830 --> 11:58.830]  We all have the same name. But what do you have in common, though? Aside from having the same name.
+[11:58.930 --> 12:01.890]  It's just like, hey, this is kind of funny. And it's like, yeah, this is funny. And then
+[12:02.390 --> 12:07.370]  it's not an active chat, but there's some communication. It's like you have access to
+[12:07.370 --> 12:11.750]  a parallel universe where you can see other versions of you and how they turned out. Like,
+[12:11.790 --> 12:16.650]  they're all you, but they've all gone on different paths. Who's the most successful Andrew Panton,
+[12:16.650 --> 12:23.750]  judging by the chat? That's the thing. I feel really bad about whenever I pop up in any way
+[12:23.750 --> 12:28.610]  on the Internet, because there is another Andrew Panton who is way more accomplished than I am.
+[12:28.990 --> 12:32.950]  What has he done? This is what he's done. This has caused some problems in my life.
+[12:33.410 --> 12:41.070]  He was Susan Boyle's original vocal coach. He taught her how to sing. That's what the actual,
+[12:41.250 --> 12:45.850]  that's what the top Andrew Panton has done, as far as what I'm aware of. That's the greatest
+[12:45.850 --> 12:52.830]  accomplishment of any Andrew Panton. It has caused problems. That, to be fair, is way cooler
+[12:52.830 --> 12:59.310]  than anything you've done. Yeah, 100% cooler. He does like musical stuff. He teaches like a
+[12:59.310 --> 13:04.610]  program in England. Like, he's very accomplished. Taught Susan Boyle how to sing. I don't have any
+[13:04.610 --> 13:09.390]  of that. So whenever, if I ever pop up ahead of him in any way, I always feel embarrassed.
+[13:09.670 --> 13:14.650]  Have you ever thought about taking out all of the other Andrew Pantons so you gain all of their
+[13:14.650 --> 13:21.410]  power? No, that's never crossed my mind. Yeah, or like, there was a comic called Rising Stars
+[13:21.410 --> 13:25.010]  that was like that. Which is interesting you say that, Gav, because I was going to bring up,
+[13:25.090 --> 13:31.510]  what if Andrew is the least evil of the Andrews? And his, like, their worst versions of him. Like
+[13:31.510 --> 13:39.690]  some sort of a multiverse type thing. And there are, like, we all now realize how evil the Andrew
+[13:39.690 --> 13:45.290]  that goes bump in the night is. What if you're the best version of him? That's an alarming thing to
+[13:45.290 --> 13:51.850]  consider. I hope that's not the case. I will say, just to continue the Susan Boyle talk for a
+[13:51.850 --> 13:57.670]  minute, I got an angry mob of Susan Boyle fans mad at me at one point. And that is not a community
+[13:57.670 --> 14:03.330]  you want to have any issue with. I've been blocked by several Susan Boyle fans. They're aggressive.
+[14:03.730 --> 14:08.090]  They're old, but they're aggressive. How did you anger them? Well, I, because I have, my Twitter
+[14:08.090 --> 14:13.530]  name is at Andrew Panton. I have the Twitter handle. So sometimes I'll get tweets from people
+[14:13.530 --> 14:19.470]  asking about Susan Boyle. And I always respond to them. I always think it's, if I get, if someone
+[14:19.470 --> 14:24.010]  mistakes me for someone else, I always think it's funnier just to pretend to be that person and to
+[14:24.010 --> 14:28.690]  give it a terrible opinion because they think I'm the person and it doesn't reflect on me. It reflects
+[14:28.690 --> 14:33.810]  on them. It's like house money. Pretty evil thing to do. I mean, I confess at a certain point,
+[14:33.810 --> 14:39.430]  but the Susan Boyle thing was a thing where someone asked me what her set list was for a
+[14:39.430 --> 14:43.390]  show she did. And I was like, Oh, I was going to perform and I, or I was going to go and I missed
+[14:43.390 --> 14:49.710]  it. What was the set list? I'd love to know. And I sent this like 15 song list that included Free
+[14:49.710 --> 14:57.270]  Bird, Baby Got Back. I included like ridiculous song, Barbie Girl, whatever I could think of.
+[14:57.310 --> 15:02.750]  Like, there's no way she'd perform this. I didn't, what I didn't anticipate. Here's the problem. I
+[15:02.750 --> 15:08.310]  don't fully think a lot of these plans through. Her response was, Oh, that sounds wonderful. Thank
+[15:08.310 --> 15:13.030]  you so much for replying. I'm sarcastically. I never considered she would think the song list
+[15:13.030 --> 15:19.350]  was real. Then it spiraled into like some other Susan Boyle fans saw it and was like, this guy
+[15:19.350 --> 15:25.390]  is not who you think he is. This is all a route. He's trolling you. This is a troll. He's nasty.
+[15:25.730 --> 15:29.330]  And then I, it just turned into a whole thing. I got blocked by a bunch of Susan Boyle fans.
+[15:29.330 --> 15:34.530]  They weren't happy with me, man. Yeah. It's a weird group. I never thought I'd have a battle
+[15:34.530 --> 15:39.650]  with Susan Boyle fans, but it's happened. Well, what was Boyle up to these days? What's she playing
+[15:39.650 --> 15:45.170]  at? I have no idea. I haven't heard in a while. Nobody's tweeted. How do you not keep up with
+[15:45.170 --> 15:49.730]  Susan Boyle? It used to be easy, Geoff. The news would come to me. I don't think she's up to much
+[15:50.310 --> 15:56.110]  based on what I've heard. Uh, I don't have any update on Susan Boyle. I hope she's doing well.
+[15:56.110 --> 16:01.550]  She's okay, right? Susan Boyle, voice like an angel, vocal coach like a demon.
+[16:02.730 --> 16:09.030]  Vocal coach like Krampus. People say one thing about Susan Boyle. That vocal coach sure is Krampus
+[16:09.030 --> 16:16.350]  like. Krampus. It's such a weird pull. Why did he go Krampus? The success she's been able to have,
+[16:16.450 --> 16:22.270]  despite having you in her corner. That's the real inspiration of the story.
+[16:22.850 --> 16:28.350]  Not her own accomplishments is what she's overcome within her own team to get to where she is.
+[16:28.550 --> 16:33.330]  Why were you in a lift with Stevie Speils? It was just a coincidence. I was just in the same
+[16:33.330 --> 16:37.970]  elevator with him. I was there for a different, I was in Vancouver for something. Yeah. Do you
+[16:37.970 --> 16:43.290]  want to give us the whole spiel? I'll give it abbreviated. I'll give like the highlights. I was
+[16:43.290 --> 16:49.630]  in an elevator with him and, uh, there was an issue and I felt like he was being a jerk. And
+[16:49.630 --> 16:53.330]  so when I got to my floor, I hit all of the buttons cause he had to go to a higher floor
+[16:53.330 --> 16:59.030]  and I ran out. That was about it. I will say a second thing that made me very proud
+[16:59.490 --> 17:04.430]  is like four years later, that exact scenario played out on Curb Your Enthusiasm. Larry does
+[17:04.430 --> 17:08.850]  that to somebody. Yeah. The exact same thing happened. I was like, holy shit. I did that.
+[17:09.070 --> 17:13.630]  I lived that ridiculous moment. What did Steven Spielberg yell at you as you ran out the door
+[17:13.630 --> 17:18.070]  of the elevator? I don't, did he yell something? I don't remember that. You told me he yelled,
+[17:18.070 --> 17:24.850]  Hey you, come here. Oh, I don't remember that. I guess he did. Cause you got off on the
+[17:25.550 --> 17:30.710]  third floor and he was going to like the 36th floor or something. Yeah, I was on a much lower
+[17:30.710 --> 17:35.290]  floor than the button he hit. Did he have like an entourage or was it just him? No, it was just him.
+[17:37.150 --> 17:42.190]  Surprising. Yeah. I mean, you're in a hotel. I didn't do people have entourages. An elevator
+[17:42.190 --> 17:46.830]  is kind of a tough place to have an entourage. You kind of own the elevator at that point.
+[17:46.830 --> 17:51.950]  You're not just going into elevators. He probably ended up being late for some meeting that lost
+[17:51.950 --> 17:57.290]  him a gig. And as he was going to bed, that's like the last thing I thought of was Andrew.
+[17:57.710 --> 18:03.330]  That is what I'd love to know. Like you talking about, and I think you took it to maybe ridiculous
+[18:03.330 --> 18:08.930]  level, but I'm sure there is a world impact that I'm not aware of, of some of these stories that
+[18:08.930 --> 18:14.930]  have happened to me. And I'd love to know what the ripple effect of those button presses was.
+[18:14.930 --> 18:19.850]  Here's what I'm trying to do for you, Andrew. I'm trying to make you more than a man. I'm trying
+[18:19.850 --> 18:27.430]  to make you like mythical. I want I want the name Andrew Panton or whatever we end up calling you,
+[18:27.810 --> 18:32.450]  like Andrew the pissperve or whatever it is. I want it to live beyond your lifespan.
+[18:34.430 --> 18:41.090]  The pissperve. I feel like myths and legends are never man-made. They always come after.
+[18:41.090 --> 18:47.690]  You can't try and become a myth. You are just mythical. I think if I put my foreskin in my ass,
+[18:47.690 --> 18:53.290]  I would be a man-made. I think I'd get credit for that. That's never happened.
+[18:53.510 --> 18:56.430]  Interesting that you brought that up. Yeah. I don't know where I got that from.
+[18:57.810 --> 19:03.330]  Randomly pulled that one. Can we cut that entire conversation from the last episode just so that
+[19:03.330 --> 19:12.030]  it was more insane? No. Fuck you. No. Andrew, where would you get that from? Why is he always
+[19:12.030 --> 19:16.950]  talking about his foreskin? Geoff talked about that for like 20 minutes. You're just cut it
+[19:16.950 --> 19:22.250]  like that's the whole episode. I don't remember any of that. We're not having a 20 minute episode.
+[19:22.810 --> 19:27.650]  You're being a real fuckface here, Andrew. If one episode is suddenly 20 minutes long,
+[19:27.690 --> 19:31.950]  you don't think people are going to think that's suspicious? That's called fuckfacing ourselves.
+[19:31.950 --> 19:37.650]  We deliberately sabotage all the good from our last episode just to make you look weird in this
+[19:37.650 --> 19:42.450]  one. Is there a small joke? What's the most effort you're willing to put into a small joke?
+[19:43.390 --> 19:48.130]  I put a lot of effort into a small joke. The smaller, the more effort, honestly.
+[19:48.470 --> 19:51.650]  I, one time, I was playing a game with someone and I said, I'll be right back.
+[19:52.010 --> 19:55.170]  And I grabbed a drink and then something happened and ended up taking like 10 minutes.
+[19:55.710 --> 20:00.810]  And I like this person a lot. Part of me thought, and I really considered this for a few minutes,
+[20:00.810 --> 20:05.790]  what if I just never talked to them again? Like, what if I just completely vanished?
+[20:06.230 --> 20:10.590]  That'd be really funny. And then like maybe 40 years later, be like, what's up? I'm back.
+[20:12.270 --> 20:15.350]  And you're just slurping sounds like you've got your drink.
+[20:15.570 --> 20:18.830]  Yeah, exactly. I'm back. Let's play. Let's do this.
+[20:19.010 --> 20:23.430]  God, that would cause potentially psychological damage to the other person.
+[20:23.590 --> 20:24.070]  Oh yeah.
+[20:24.070 --> 20:27.170]  Also, you'd have to hope that you could still contact them in four years.
+[20:27.170 --> 20:31.870]  That's a risk because that's a joke where obviously well worth the joke
+[20:31.870 --> 20:36.990]  because of the psychological damage. But would you throw away the entire relationship and risk
+[20:36.990 --> 20:40.490]  the fact that you wouldn't be able to talk to them again, just from drifting apart,
+[20:40.630 --> 20:43.370]  technology changes, you don't know how to get to them.
+[20:43.610 --> 20:47.570]  That's a really well thought out point. I didn't get, I honestly, I thought about it. I was like,
+[20:47.610 --> 20:51.530]  that'd be really funny. Oh, but I need co-op achievements in this game.
+[20:51.530 --> 20:57.610]  So I'll tell you what's funny is how many people may or may not be listening to this episode right
+[20:57.610 --> 21:03.390]  now who know you personally, Andrew, and haven't spoken to you in more than two weeks who are like,
+[21:03.470 --> 21:05.790]  am I the guy? Is he doing it to me right now?
+[21:05.990 --> 21:09.230]  It's funny you mentioned that. And this would have been a good housekeeping note,
+[21:09.290 --> 21:14.290]  something I left out of the Garfield story. When the Garfield thing came out,
+[21:14.770 --> 21:19.850]  it was on the subreddit for where I live. And one of the comments was I was this guy's
+[21:19.850 --> 21:24.610]  childhood best friend. I know that guy. He definitely is from where the article was published.
+[21:25.550 --> 21:27.790]  And I thought, I don't know who this person is. So I messaged them.
+[21:28.110 --> 21:33.530]  We had a conversation. They were genuinely my childhood best friend who I hadn't spoken to
+[21:33.530 --> 21:38.950]  in like 11 years. And that was a really, like, I didn't expect Garfield to take me there.
+[21:39.210 --> 21:45.950]  That's a very weird conversation to know someone for so long, but also like not know who they are
+[21:45.950 --> 21:50.870]  anymore. Like I knew all the information of the person, but had no concept of who they were.
+[21:51.330 --> 21:51.750]  It was a very...
+[21:51.750 --> 21:55.990]  But how did you, in what way had you forgotten about them? Like you forgot their name or you
+[21:55.990 --> 21:57.270]  were like, oh, it's that person's name?
+[21:57.290 --> 22:01.810]  No, no, no. They had a username. So I didn't know who their name was. I completely was aware
+[22:01.810 --> 22:02.270]  of everything.
+[22:02.630 --> 22:05.730]  And how did you, how did you drift apart? Did you piss on his leg or something?
+[22:06.250 --> 22:11.750]  Yeah, it was a really unfortunate accident. He called me Krampus. I got a little aggressive.
+[22:11.750 --> 22:13.690]  All right, let's say, I think you're being a little serious. Obviously,
+[22:13.690 --> 22:17.510]  Andrew's not going to pee on somebody's leg. What I assume is that you got caught watching
+[22:17.510 --> 22:18.330]  his mom pee.
+[22:18.630 --> 22:21.290]  And then you didn't warn him that he was going to walk through it.
+[22:21.870 --> 22:27.930]  I, when I told the pee story, I really didn't. It's, it's not worth, the juice was not worth
+[22:27.930 --> 22:33.310]  the impact of this. This is a thing that is stuck around. The story wasn't,
+[22:33.930 --> 22:38.130]  Geoff, I don't call you the fucking grill master. You told an average barbecue story
+[22:38.130 --> 22:41.050]  and we let it go. We let it pass.
+[22:42.130 --> 22:44.850]  Oh, uh, speaking of the grill, can I give you guys an update?
+[22:45.230 --> 22:46.010]  Yeah, go ahead.
+[22:46.250 --> 22:48.070]  It's working fine. Yeah, things are good.
+[22:48.350 --> 22:49.770]  Yeah, good. You got the thing?
+[22:49.890 --> 22:51.770]  Yeah, no issues. Yeah, everything's good.
+[22:52.070 --> 22:52.710]  Good to know.
+[22:53.030 --> 22:54.510]  You're not pissed off that it's a floor model?
+[22:54.950 --> 22:56.470]  Nah, it's fine. It still cooks the same.
+[22:57.830 --> 22:59.390]  Great. I'm happy for you.
+[23:00.050 --> 23:04.550]  We should, you got to introduce the next f***ing faces. Pee boy and grill master.
+[23:10.330 --> 23:11.730]  The worst duo.
+[23:12.070 --> 23:14.490]  We should get Robert Rodriguez to make a kid's movie about us.
+[23:16.710 --> 23:23.970]  Goddamn. I had no idea when you divulged your piss obsession that it was going to turn into
+[23:23.970 --> 23:24.910]  such material.
+[23:25.350 --> 23:29.830]  See what you've done here, Andrew, you've given him, you've given him a nibble and he's taken it
+[23:29.830 --> 23:34.530]  and he's reeled you in. Well, I guess you gave him a nibble. Uh, so what
+[23:34.530 --> 23:39.270]  you got to do around Geoff is never let on like the fact that you that he knows that it's affecting
+[23:39.270 --> 23:44.030]  you. Yeah, that will last. It won't last forever because his memory is shit and he'll just drift
+[23:44.030 --> 23:47.250]  away and forget it eventually. But that will last at least six episodes, I assume.
+[23:47.610 --> 23:52.510]  It's a good point. You bring that up, Gavin. And I feel like it's a perfect time in the
+[23:52.510 --> 23:56.130]  episode to remind everyone that Trevor Collins comes in his own face.
+[23:58.250 --> 23:58.650]  Goddamn.
+[23:58.670 --> 24:00.010]  Doesn't bode well for me.
+[24:02.010 --> 24:03.570]  You know, Fiona thought that was real.
+[24:04.110 --> 24:04.550]  Really?
+[24:06.670 --> 24:07.570]  Did she really?
+[24:07.990 --> 24:12.490]  Yeah. She's gone this whole time thinking her boss does that and that's what he's into.
+[24:13.870 --> 24:18.630]  I continued just working for him as usual. She's very accepting.
+[24:19.750 --> 24:24.290]  She's the best. Fiona's really the best. Oh, man. Goddamn. That's great.
+[24:24.730 --> 24:27.250]  Uh, what other perversions are you into right now, Andrew?
+[24:27.490 --> 24:31.670]  Well, I have you said you had a product and I said that I had a product.
+[24:31.950 --> 24:32.090]  Yes.
+[24:32.090 --> 24:35.710]  I wanted to share as well. Mine is actually a product. I don't think we could really sell
+[24:35.710 --> 24:37.130]  the thing that you're...
+[24:37.130 --> 24:40.710]  Sell the franchise rights to make movies and books and like dinnerware and...
+[24:40.710 --> 24:46.050]  I'm not talking about Piss Boy and Grillmaster. That's obviously a multi-film franchise.
+[24:46.730 --> 24:51.890]  I wouldn't discredit that. It's your whole Krampus angle. I don't think it's hard to sell.
+[24:52.350 --> 24:54.390]  I don't... it's... we can't travel right now.
+[24:54.490 --> 24:58.050]  I... all I'm saying is I think people in Vancouver Island are terrified of you.
+[24:58.330 --> 24:59.990]  I don't know about that.
+[24:59.990 --> 25:02.230]  I think you're a supervillain and you don't know it.
+[25:02.470 --> 25:03.470]  I don't know about that.
+[25:30.210 --> 25:33.190]  Must be 21 plus to purchase. Enjoy Heineken responsibly.
+[25:34.890 --> 25:38.510]  What if buying a new appliance felt like a win for your home and your wallet?
+[25:38.850 --> 25:43.810]  Save up to 50% plus up to an extra $600 on select major appliances at the Best Buy
+[25:43.810 --> 25:48.370]  Appliances Labor Day Sale. Learn more at BestBuy.com. Best Buy. Imagine that.
+[25:48.850 --> 25:54.490]  Tired of losing your sanity looking for important work? Dropbox Dash finds what you need fast across
+[25:54.490 --> 25:58.830]  all your work apps so you can focus on what matters. Dash means less time searching,
+[25:58.830 --> 26:02.870]  more time creating. Learn more at Dropbox.com backslash dash.
+[26:03.850 --> 26:05.270]  Well, I can tell you what I do know.
+[26:05.670 --> 26:05.930]  Okay.
+[26:05.990 --> 26:10.110]  Is that we have a shirt. We have a shirt that came out a few weeks ago at this point. We have
+[26:10.110 --> 26:11.250]  a shirt. Yeah.
+[26:11.250 --> 26:17.450]  With our show name on it. And when we were introduced the shirt, I suggested that we
+[26:17.450 --> 26:24.990]  make a fuck hat. We have a hat that just says, fuck on. I think this is a great idea. I was shot
+[26:24.990 --> 26:30.330]  down for reasons I don't understand. I think it's a hit in the making. If it would only,
+[26:30.550 --> 26:36.050]  if only maybe see the light of day, if only it could be seen, maybe opinions could be swayed.
+[26:36.150 --> 26:38.930]  Eric was having none of it. Not a fan of the fuck hat.
+[26:38.970 --> 26:40.930]  Was it just going to be with the asterisks?
+[26:41.410 --> 26:42.990]  No, I was just going to say fuck.
+[26:43.210 --> 26:45.950]  You wouldn't have to put the asterisks because it's not the name. You can say fuck.
+[26:45.950 --> 26:50.110]  There's no face. Yeah, you can say the fuck part is fine. It's when you combine them.
+[26:50.370 --> 26:53.710]  That's why the shirt is censored. I thought we could sell a hat that said fuck,
+[26:53.710 --> 26:56.750]  and then a shirt that said face, and then you can have the uncensored.
+[26:57.510 --> 27:01.270]  Really, I just, I mean the face shirt, whatever. I'm really, I'm in it for the fuck hat.
+[27:01.950 --> 27:03.470]  I thought it was a great idea.
+[27:03.750 --> 27:07.790]  I think that is a great idea. And people are going to be buying two items. I think that's
+[27:07.790 --> 27:09.590]  amazing. That's great marketing.
+[27:09.990 --> 27:14.110]  On the surface, I agree. I think it's a great idea. And I think if you want a fuck hat,
+[27:14.330 --> 27:18.390]  and you're an audience member, please tweet Rooster Teeth store or Eric.
+[27:18.990 --> 27:23.630]  I think Eric personally would really like to, he'd go to bat for this.
+[27:23.710 --> 27:28.050]  It tweet everybody associated with Rooster Teeth, whatever you want to do, that's fine.
+[27:28.570 --> 27:31.110]  Although I will say, Andrew, I would like to caution you.
+[27:31.210 --> 27:31.450]  Okay.
+[27:31.690 --> 27:35.450]  Because here's what I see unfolding. I see you in your daily routine,
+[27:36.170 --> 27:39.730]  getting your fuck hat in the mail, which by the way, have you guys received your
+[27:39.730 --> 27:40.870]  fuck face shirts? Because I have not.
+[27:41.070 --> 27:41.170]  I have not.
+[27:41.250 --> 27:43.070]  No, I haven't got mine either. Okay.
+[27:44.690 --> 27:49.230]  So you open the mail one day and you got your fuck hat and you're so excited and you put it on.
+[27:49.810 --> 27:53.950]  You look yourself in the mirror and you're like, oh, it looks, it's, you know, I have an issue
+[27:53.950 --> 27:57.410]  where I'm like, not a lot of hats look good on me. So it's always exciting when I find one that
+[27:57.410 --> 28:01.330]  does look good. Maybe you have a similar situation. You're like, oh, this hat makes me look taller.
+[28:02.810 --> 28:06.850]  Whatever. It elongates me or, you know, it makes me look striking. It really
+[28:06.850 --> 28:12.430]  shows off my chin. I don't know. And then you forget that you're wearing it because you're
+[28:12.430 --> 28:15.730]  very comfortable in it. And then you go about your business. You do your chores.
+[28:15.730 --> 28:21.390]  You, uh, you torture Jake online for a little bit. You maybe run some errands for your mom.
+[28:21.570 --> 28:25.430]  And then at some point in the day, when you're looking out the window for homeless ladies to
+[28:25.430 --> 28:29.730]  piss and you make eye contact with those poor homeless women, they're now looking at a pair
+[28:29.730 --> 28:34.690]  of evil eyes with a giant fuck hat. It's gotten darker quickly.
+[28:35.170 --> 28:38.910]  I'm going to poke a hole in your theory right off the bat. And some people might say,
+[28:38.970 --> 28:41.890]  I'm not going to stare at homeless women pissing. I'm not going to counter that.
+[28:41.890 --> 28:46.930]  What I'm going to counter is my head is too big to wear hats. No hat fits this head. I can't wear
+[28:46.930 --> 28:52.430]  the hat. It's not going to happen. It's not going to fit. I feel like everything about your head is
+[28:52.430 --> 28:57.850]  such an issue for you. Like this one old shaky guy is the only man who can tackle that mane
+[28:57.850 --> 29:02.770]  and no hat fits on it. What's wrong with your head? It's I have a big head. I don't know what
+[29:02.770 --> 29:08.090]  you want. Look, people have bigger heads than you who wear hats. That's a guess. That's not accurate.
+[29:08.090 --> 29:12.410]  Once you get in the same room as Bernie Burns, come on, his head is huge.
+[29:12.570 --> 29:16.930]  But once again, you're kind of you're missing the point. I do the haircut thing for convenience.
+[29:17.230 --> 29:21.950]  You think I'm going to get a custom hat made for my head? That seems like a lot of work.
+[29:22.030 --> 29:26.910]  That's not convenient at all. If it's not convenient, I'm not probably going to do it.
+[29:26.910 --> 29:32.510]  All right. We'll make and we'll we'll try it. Please tweet or send a snail mail letter
+[29:32.510 --> 29:38.130]  to Rooster Teeth asking for a fuck hat and an extra large size so that even Andrew can wear it.
+[29:38.250 --> 29:43.070]  Are you saying that even if if we made you a custom sized large hat, would you not wear it
+[29:43.070 --> 29:47.810]  or would you wear it? I'm not opposed to wearing it. I just it's going to that's a tough hat to
+[29:47.810 --> 29:53.390]  find. You must be able to fit a beanie. Uh, you know, I don't I don't fuck with beanies.
+[29:53.570 --> 29:58.770]  What about a fuck fedora? Oh, that sounds horrible. No, thank you. What about a hat?
+[29:58.770 --> 30:06.370]  But instead of face or whatever on it, it just is a picture of your forehead on top so people can
+[30:06.370 --> 30:10.610]  like see through the hat. So wait, it's a photo. It's not like a panel. It's not like a window.
+[30:10.870 --> 30:16.710]  No, it's a photo of your specific forehead on the hat. But I would wear that hat. I would if I could
+[30:16.710 --> 30:24.330]  wear Andrew's forehead on a flat peaked hat. So it looked like you were looking through it.
+[30:24.410 --> 30:28.070]  I think that'd be a great hat. I don't think I got a great forehead. I don't think
+[30:28.990 --> 30:33.230]  I think I've got a very average forehead. Very middle of the road.
+[30:33.570 --> 30:38.410]  Should we all post pictures of our foreheads and without telling who is who and have the
+[30:38.410 --> 30:42.130]  audience guess like whose forehead? I feel like it would be easy to tell.
+[30:42.590 --> 30:45.730]  I don't think that wouldn't be hard. I think it'd be pretty obvious.
+[30:46.290 --> 30:51.810]  I'm 45. Mine's the one that looks like the topographical aerial photo of the Grand Canyon.
+[30:53.530 --> 30:57.150]  Like a baseball glove. Geoff's is like an ordinance survey map.
+[31:02.890 --> 31:07.130]  I think it's a good idea, though. It's a great hat idea.
+[31:08.310 --> 31:13.350]  There's more to this story. It's a great hat idea. I appreciate people should absolutely reach out.
+[31:13.710 --> 31:18.770]  Demand a fuck hat. I thought I could maybe turn opinions here. I didn't realize that
+[31:18.770 --> 31:22.910]  the support would be so large within this group for the fuck hat. Kind of was a dead
+[31:22.910 --> 31:28.550]  on arrival when I initially pitched it. But I know a guy and I had a prototype made.
+[31:28.550 --> 31:35.790]  I have a prototype. Fuck hat was made. However, in perfect face fashion,
+[31:35.790 --> 31:39.930]  I'm going to post the current result of the prototype. Yeah, there are some issues.
+[31:41.630 --> 31:45.790]  There are some issues with the fuck hat. What is it? It looks like it's in Russian.
+[31:46.450 --> 31:52.010]  Yeah, I just look like fuck is that? It looks like it was burnt.
+[31:52.170 --> 31:55.810]  It looks like the text melted. It looks like it says fucks.
+[31:55.810 --> 32:00.470]  It looks like they sewed, they embroidered the front. And then at some point the hat got
+[32:00.470 --> 32:04.810]  flipped over and started coming in from the back. I don't even know how that's been done.
+[32:05.210 --> 32:11.490]  Yeah. So I know a guy who said he could get a prototype made. And I was like, great. I could
+[32:11.490 --> 32:18.570]  try to convince people that this is a great idea. So he went, that's the first prototype. He made,
+[32:18.710 --> 32:25.090]  he tried to, he tried to make that hat. Look, we have to sell that hat. We have to sell exactly
+[32:25.090 --> 32:31.930]  that. I would wear that. That's amazing. I'm with Gavin. We need a thousand of that hat.
+[32:33.150 --> 32:39.970]  Also, is it possible to get each hat with the large stain on the bill there? I didn't ask
+[32:39.970 --> 32:44.270]  about that. I didn't pay extra for that. It was just there. That's what the prototype looked like.
+[32:44.870 --> 32:49.410]  It was, yeah, maybe the collateral damage. I was really excited. That was the first prototype.
+[32:50.150 --> 32:54.590]  So that didn't go too well. So then the person went to people that worked at the place
+[32:54.590 --> 33:00.150]  and said, Hey, I'm trying to make a fuck hat. This is very important. Could you try? And the
+[33:00.150 --> 33:05.710]  second hat came out the same way. Nobody knew what was going on. So then they tried a third time
+[33:05.710 --> 33:11.850]  and they got a third hat that was identical. Their machine broke while trying to make the fuck hat.
+[33:12.050 --> 33:17.190]  And the guy that owns the place got so mad. He threw a chair. He threw a chair across the room
+[33:17.190 --> 33:24.070]  and said, this is, we're done. We're done. So the fuck hat took out a hat store in Kansas.
+[33:24.630 --> 33:31.110]  It's a dangerous item. No, the fuck hat didn't. Once again, super villain Krampus-esque Andrew
+[33:31.110 --> 33:37.530]  Panton, the evil that men whisper in the night, strikes again. This was in a different state.
+[33:37.650 --> 33:43.170]  This is far away. I can't be blamed for this. Your reach is far. Yeah, legend travels across
+[33:43.170 --> 33:48.230]  borders. Oh God, I don't think I've ever laughed so much at a hat. That's the funniest hat I've
+[33:48.230 --> 33:52.010]  ever seen in my life. I mean, it doesn't really deliver the message, but I agree. It's a pretty
+[33:52.010 --> 33:56.530]  good hat. I think we should make that. We should make that. I don't know how we would make that
+[33:56.530 --> 34:02.170]  because it's clearly, you'd have to like break the machine to do that. Yeah. Oh yeah. It's
+[34:02.170 --> 34:07.430]  expensive. We should buy that machine so we can replicate it every time. It's clearly, it's
+[34:07.430 --> 34:11.890]  clearly working every single time you try and print it. Yeah, that's true. I'd put in a bulk
+[34:11.890 --> 34:16.290]  order. I didn't get any other photos of the other prototypes from my understanding. They all look
+[34:16.290 --> 34:21.470]  identical to that masterpiece. It looks like a Russian MAGA hat.
+[34:23.650 --> 34:28.370]  Maybe we should change the color scheme. Yeah, I would gavel on that one. Interesting
+[34:28.370 --> 34:33.950]  color choice you chose. I didn't pick the color. Want that also on the record. I just, I was,
+[34:33.970 --> 34:39.210]  I signed off on the prototype. Keep the white text. Keep the weird yellow thread that's going
+[34:39.210 --> 34:43.650]  through it for some reason and put it on a black hat and I would buy it. I definitely feel like
+[34:43.650 --> 34:48.610]  that's more on brand for us. I agree. I'd agree with that statement. I didn't pick the hat color.
+[34:49.070 --> 34:58.350]  I don't know what it says. Rook. Yeah. I'm trying to see what's gone on and I feel bad about talking
+[34:58.350 --> 35:01.910]  about like a visual that people clearly can't see. I assume it's on our Twitter somewhere,
+[35:02.030 --> 35:08.830]  but it looks like the top, the bottom of the U was printed on the top of the U and maybe the top,
+[35:08.830 --> 35:14.790]  the bottom of the C is on the top, but the entire K came out. Yeah, the K is perfect. I don't
+[35:14.790 --> 35:21.410]  understand why the K looks so good and everything else is Russian, but the machine broke. Took out
+[35:21.410 --> 35:29.650]  a machine. The C looks kind of like a fat Twitter bird. I see that. Yeah. Yeah. Facing left. Yeah.
+[35:30.030 --> 35:35.530]  That's the fuck hat. All right. So let us know if you would want, if you would also buy that hat.
+[35:35.530 --> 35:40.390]  So we've got, we've got three hats that we've talked about. We've got just the, uh, the hat
+[35:40.390 --> 35:44.990]  with the F word on it. We've got the hat with Andrew's forehead on it and we've got whatever
+[35:44.990 --> 35:51.110]  this is. I think whatever this is, is the clear winner. It's pretty good. I definitely, uh,
+[35:51.170 --> 35:56.590]  message Eric about it because he's not here anymore. So we can say whatever we want and he
+[35:56.590 --> 36:01.950]  doesn't, yeah. Can't say no. Who is Eric to shoot down your idea anyway though, Andrew? To be fair,
+[36:01.950 --> 36:06.370]  he didn't necessarily say no, he just reiterated what I said, maybe in shock.
+[36:06.610 --> 36:09.670]  And then I said, yeah. And then that was our conversation.
+[36:12.310 --> 36:16.950]  I think it's a great idea. I think you've got a clear winner. And I don't think you should sleep
+[36:16.950 --> 36:23.550]  on the idea that you may be the next, uh, scary monster that parents use to terrify their kids
+[36:23.550 --> 36:27.990]  and to keep them in bed at night, not to look under, uh, or in the closet and to brush their
+[36:27.990 --> 36:32.610]  teeth. No, I feel pretty good about sleeping in that one. I think he's more like, he's more like
+[36:32.610 --> 36:39.290]  Banksy, where he's just kind of like a Banksy, uh, elusive idea, but he touches various things
+[36:39.290 --> 36:43.090]  and you should be honored if he touches anywhere near you, but you never truly know what he is.
+[36:43.290 --> 36:47.570]  I don't know if that's an insult or a compliment. I would take that as a huge compliment. Yeah.
+[36:47.610 --> 36:52.590]  That's a compliment. Okay. Well, thank you, Gavin. It's like, for example, okay. The reason
+[36:52.590 --> 36:57.770]  I compare it is this. If I owned a shop and Banksy just graffitied all over the side of it, I'd be
+[36:57.770 --> 37:04.570]  like, well, that's awesome. It's like, it sucks, but it's great. And also I feel like the same way.
+[37:04.630 --> 37:10.790]  Like if, if I was randomly messed with by Andrew Panton and it caused me, you know, emotional
+[37:10.790 --> 37:16.770]  peril, I'd be like, oh my God, but at least it was Andrew Panton. That's crazy. Of all people.
+[37:17.130 --> 37:21.070]  I would like, I don't think I've caused much emotional peril. I don't think,
+[37:21.110 --> 37:25.550]  I think everything's been in good fun. I think everyone's okay. I've messed with.
+[37:25.550 --> 37:30.610]  That goes to the question. I always wonder about this. Do villains know they're villains?
+[37:30.990 --> 37:36.090]  Like if you're the bad guy, do you know you're the bad guy? Or are you always the protagonist,
+[37:36.670 --> 37:39.850]  always the good guy, always the hero in your own story?
+[37:40.310 --> 37:45.690]  I feel like that's sort of the cliche of modern movies, at least, right? Like it's like the
+[37:45.690 --> 37:49.690]  villain in his own mind thinks he's right. Yeah. They kind of present that a lot.
+[37:49.730 --> 37:55.090]  They always try and put more of a personal angle on the villain. You always kind of learn a little
+[37:55.090 --> 37:59.870]  bit more about them than you used to. Like Thanos wasn't really into just snapping for fun.
+[38:00.330 --> 38:05.450]  Yeah. Yeah, exactly. Like, like he, he had his reasons. I mean, you look back on old shit,
+[38:05.550 --> 38:11.470]  like Blofeld. I mean, he liked his cat, but what was the reason he was killing all those people?
+[38:12.190 --> 38:15.290]  I never really figured it out. No. I think it was just a mental.
+[38:15.630 --> 38:20.270]  Those movies, the early Bond movies are kind of, they're very confusing in that way,
+[38:20.370 --> 38:23.750]  where it's like they kind of had an idea of what to do, but no idea at the same time.
+[38:23.750 --> 38:27.370]  Like the idea of like a league of villains. Are you still trying to watch them all?
+[38:27.630 --> 38:31.730]  You were like, yeah, I need to, I need to get back through it. Yeah. I'm like nine in.
+[38:31.830 --> 38:35.850]  It's a lot of movies. Do you think you're like a Bond villain? Is that how you would describe
+[38:35.850 --> 38:41.190]  yourself? No, I'm not. James Bond has caused me a lot of problems in my life, but I would not
+[38:41.190 --> 38:48.630]  consider. Okay. Well, when I was a kid, you kind of have that assumption that like adults know
+[38:48.630 --> 38:55.130]  everything and you don't, and how they do it is better. And I played Goldeneye a lot on the N64
+[38:55.850 --> 39:02.130]  and, uh, I used to play soccer and I thought, huh, I don't run like James Bond runs in the game.
+[39:02.230 --> 39:09.710]  James Bond is a secret agent, super spy knows a lot. I bet you his way of running is more effective
+[39:09.710 --> 39:16.010]  than how I'm currently running. And, uh, if you remember Goldeneye on N64, how the characters
+[39:16.010 --> 39:21.750]  would run in that game is they'd ball up both fists and then slowly move their arms forward
+[39:21.750 --> 39:26.030]  and backwards as they ran. So there was a period of my life where I was running like all the
+[39:26.030 --> 39:29.990]  characters from the Goldeneye video game. Cause I thought that that was a more effective way to
+[39:29.990 --> 39:38.550]  gain speed. Oh, it's so stupid. Yeah. I thought that was true. I also thought I could ski because
+[39:38.550 --> 39:44.950]  I saw James Bond do it in a movie and I thought that looked really easy and I couldn't. He skied
+[39:44.950 --> 39:49.790]  backwards sometimes. And sometimes on just one ski, you know, there was a, there was a bond
+[39:49.790 --> 39:56.790]  where he gets one of his skis blown off. So he just uses the remaining ski. He like picks up some,
+[39:56.890 --> 40:02.330]  some like plain shrapnel and stands on it with both feet. And he's like snowboarding down the
+[40:02.330 --> 40:07.930]  mountain. Apparently that's what popularized snowboarding. Really? Yeah. And everyone was
+[40:07.930 --> 40:12.810]  like watching him like use two feet on one, you know, air quotes ski. And everyone was like,
+[40:12.810 --> 40:18.250]  that looks so cool. And the same thing happened with the, with the jet ski. He popularized jet
+[40:18.250 --> 40:23.810]  skiing and yeah, he like Q made him this like special, I think they called it the wet bike
+[40:24.510 --> 40:29.270]  and it popularized the whole vehicle. Which two movies were those or was it the same movie?
+[40:29.410 --> 40:34.850]  Uh, I want to say spy who loved me was one of them. I don't remember. It was one of the old,
+[40:34.890 --> 40:39.590]  I think Roger Moore era. Gotcha. So Andrew, it sounds like James Bond has caused a lot of
+[40:39.590 --> 40:46.230]  problems for you. He has. Yeah. Would you, would you say you feel like maybe getting revenge on
+[40:46.230 --> 40:51.590]  James Bond? Would you want to, I don't know, saw him in half with a laser? That seems like once
+[40:51.590 --> 40:55.650]  again, where am I ordering the laser from? That seems like a lot of work. I got to get a table
+[40:55.650 --> 41:00.290]  that is like at a human height longer than human. That seems like a lot of work. That also seems
+[41:00.290 --> 41:05.510]  expensive. I don't, I don't have the budget for that. Gotcha. So, so you do want to harm James
+[41:05.510 --> 41:11.790]  Bond, but you don't have the ambition or budget of the, of your predecessors, let's say. I don't
+[41:11.790 --> 41:15.650]  want to. I think you're a supervillain in the making is what I'm getting at here. I don't want
+[41:15.650 --> 41:21.670]  to, but I, yeah, it just seems like a lot of work. Do you ever wonder Geoff that like pushing this on
+[41:21.670 --> 41:27.570]  Andrew is what is turning him into a supervillain? Oh, it's sort of like a, yeah, sort of like a Mr.
+[41:27.670 --> 41:35.230]  Glass type situation. And uh, yeah, yeah. That's interesting. I feel like you could be causing this
+[41:35.230 --> 41:40.450]  entire thing. Maybe that's my role. I don't know. I don't think, I feel like what really, Geoff had no
+[41:40.450 --> 41:46.650]  involvement in the first thing I would say I did of this nature, like a prank or messing with someone.
+[41:46.890 --> 41:52.690]  I don't think he gets credit for that. Thank you. I agree. Yeah, I don't think so. I think this was
+[41:52.690 --> 41:58.410]  all me. I'll own this one. Yeah, no, I think, I think your, your special brand of evil was, was
+[41:58.410 --> 42:04.810]  born from you. Is it evil? If it's funny, if everyone thinks it's funny, is it evil?
+[42:05.090 --> 42:12.570]  I don't think so. Is it evil? If it's funny, I don't think as long as nobody's hurt.
+[42:13.050 --> 42:18.190]  I think it's all good fun. Geoff doesn't get the credit. You became P-boy entirely on your own.
+[42:18.190 --> 42:24.090]  Uh, yeah, I guess that is what I'm saying. Andrew Panton became, uh,
+[42:27.490 --> 42:35.810]  okay, let's see. Try to get this out. A Bond villain, uh, kids nightmare-esque piss
+[42:35.810 --> 42:42.690]  fetish aficionado all on his own. He needed no help. Thanks for listening to F*** Face. Wait,
+[42:42.690 --> 42:47.450]  no, wait a second. You survived another episode, as did we. My name is Geoff Ramsey,
+[42:47.490 --> 42:52.570]  with me as always, Gavin Free and Andrew Panton. I hope you liked the episode. If you did tell a
+[42:52.570 --> 42:58.130]  friend about it, go ahead and like and subscribe. Give us a review on Apple Podcasts if you,
+[42:58.130 --> 43:05.030]  if you would intend to. And, uh, hey, no, thanks a lot. And as we, as, uh, as, as we always say,
+[43:05.950 --> 43:11.230]  well, I'm Geoff Ramsey. You keep peeing and Andrew will keep making my barbecue is broken.
+[43:11.230 --> 43:17.550]  I had to get a floor model. Woe is me. It's a pandemic and I don't have a barbecue. Oh boy,
+[43:17.730 --> 43:21.490]  things are rough. Let me tell you about my toenail, but then not talk about it
+[43:21.490 --> 43:24.310]  too much of a coward. Look at my own goddamn toenail.
+[43:25.350 --> 43:35.940]  Oh, that was excellent, Andrew. Thank you very much. And I hope the rivers of your
+[43:35.940 --> 43:41.360]  future success run as yellow as your fetish. The episode ended. What are you talking? Why
+[43:41.360 --> 43:44.740]  are you still? I thought, you know, I don't think the episode ended because
+[43:44.740 --> 43:49.300]  you bleeped the outro. You bleeped all the way through the instruction part. Well,
+[43:49.300 --> 43:56.960]  he was slandering me. He was slandering me. It's not my fault. Now the audience is going to turn
+[43:56.960 --> 44:02.820]  this off and not know what to do to support us. Like and subscribe. Give us a five-star review
+[44:02.820 --> 44:07.060]  because Andrew will catch you peeing if you don't.
+[44:09.460 --> 44:15.520]  Look behind you. It's Andrew. You smell that in the distance? Geoff is nearby. There's a fucking
+[44:15.520 --> 44:23.100]  grill going. It's the grill monster. You smell that charcoal? Ah, shit. It's the smell you smell
+[44:23.100 --> 44:28.840]  is the stale urine caked on Andrew's shoes. Stalks you in the night.

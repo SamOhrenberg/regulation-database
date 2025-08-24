@@ -1,0 +1,1418 @@
+[00:00.560 --> 00:05.740]  This episode is brought to you by Wayfair. Podcasts follow us everywhere. Whether you're cooking in
+[00:05.740 --> 00:09.560]  the kitchen, chilling in the living room, or pretending to fold laundry in the bedroom.
+[00:09.900 --> 00:14.960]  And with Wayfair, every one of those rooms can tell a story of its own. Their curated collections
+[00:14.960 --> 00:20.600]  of furniture styles and prices make Wayfair the trusted destination to turn your home into your
+[00:20.600 --> 00:26.460]  happy place. Shop everything home at Wayfair.com with free and easy delivery straight to your door.
+[00:30.000 --> 00:33.220]  This is a Rooster Teeth production.
+[01:10.550 --> 01:16.710]  And they would monitor your heart rate. And you had to keep your heart rate within a certain area
+[01:16.710 --> 01:21.930]  to continue to make money. And John McEnroe would like serve tennis balls at you while you sat in
+[01:21.930 --> 01:27.030]  the chair, trying to make you more scared. Or like they'd just drop a bunch of snakes next to your
+[01:27.030 --> 01:32.970]  chair. You'd have to sit there and answer questions about like, who is the second president? It was a
+[01:32.970 --> 01:35.190]  great show. So are you recording right now, Andrew?
+[01:35.490 --> 01:37.870]  Oh yeah. That's what I'm talking about. I'm looking at the bars.
+[01:37.870 --> 01:39.210]  Are you recording, Geoff?
+[01:39.550 --> 01:46.250]  Yeah. So I guess the podcast already started. Here's what happened. We didn't record for a week,
+[01:46.310 --> 01:53.530]  which I would love to get into. Also, by the way, I have decided to provide Nick today with pictures
+[01:53.530 --> 01:57.690]  of the shelves. I took them before the podcast and I will be putting them in Discord in a second.
+[01:58.450 --> 02:00.310]  Because I feel like Nick deserves to see them.
+[02:00.730 --> 02:02.030]  Why Nick before us?
+[02:02.390 --> 02:03.670]  You'll see it at the same time.
+[02:04.190 --> 02:07.230]  Yeah, but you really seemed excited to show Nick and not the rest of us.
+[02:07.230 --> 02:08.090]  I like Nick.
+[02:08.590 --> 02:13.470]  I mean, it depends, too. I feel like Nick has been asking. I don't think any of us have been asking.
+[02:13.810 --> 02:14.690]  No, I was asking.
+[02:15.050 --> 02:18.210]  I don't remember you asking. Nick has definitely been the voice of the shelves.
+[02:18.610 --> 02:21.130]  You weren't even in one of the episodes. Your power went off.
+[02:21.250 --> 02:22.290]  I listened to that one, though.
+[02:22.590 --> 02:28.470]  Well, here's what's happened post that. It's infected all of us, apparently. I logged in.
+[02:28.530 --> 02:35.290]  Andrew was going strong. I was having immediate feedback issues where I'm getting your levels
+[02:35.290 --> 02:39.910]  in my audition for some reason. Then Gavin couldn't... we couldn't hear him.
+[02:40.590 --> 02:44.830]  And then as soon as Gavin eventually got back in and Nick verified that my shit works okay,
+[02:45.150 --> 02:48.290]  Andrew got an error message and his shit broke.
+[02:48.550 --> 02:52.110]  Yeah, I had to close Discord. And when I opened it again, it tried to update,
+[02:52.510 --> 02:59.070]  but it couldn't find itself. And it threw up about 97 error messages that took me forever to close.
+[02:59.390 --> 03:03.910]  And then I realized, it sat down finally, got it all working, took a sip of my cup of tea that
+[03:03.910 --> 03:08.630]  I've just made, and it's rank. I've got a really disgusting cup of tea in front of me,
+[03:09.270 --> 03:12.250]  and it's my only source of caffeine now for the entire show.
+[03:12.510 --> 03:14.010]  How did that happen? What's wrong?
+[03:14.110 --> 03:19.270]  I think, you know, if you don't like run a tap for a bit, it gets a little bit sort of,
+[03:19.630 --> 03:22.810]  this water's been sat in the pipe for a week sort of taste to it.
+[03:22.930 --> 03:23.890]  Yeah, yeah, yeah, yeah.
+[03:23.890 --> 03:26.590]  But I boiled that, and now I've got like that, but hot.
+[03:26.830 --> 03:28.330]  Austin tap water stinks.
+[03:28.530 --> 03:29.010]  It's rank, man.
+[03:29.010 --> 03:31.110]  One of the worst tap waters I've ever had.
+[03:31.130 --> 03:31.730]  It's terrible.
+[03:31.730 --> 03:32.010]  It's so bad.
+[03:32.010 --> 03:32.970]  All right, listen.
+[03:34.330 --> 03:35.290]  It's... all right.
+[03:35.590 --> 03:36.390]  No, there's no defense.
+[03:36.430 --> 03:39.110]  Why am I trying to defend Austin's tap water?
+[03:39.310 --> 03:40.410]  No, you don't need to, it's fine.
+[03:40.930 --> 03:43.970]  Sometimes, I don't know, I don't know, what am I doing? Who am I?
+[03:44.030 --> 03:45.170]  Fucking shut up, idiot.
+[03:45.190 --> 03:45.810]  Shut up, tea.
+[03:46.150 --> 03:46.810]  What are you doing?
+[03:47.210 --> 03:47.570]  Goddammit.
+[03:47.630 --> 03:49.610]  But yeah, on occasion...
+[03:50.390 --> 03:51.810]  God, I feel like I got to stand up for Austin.
+[03:52.110 --> 03:53.270]  On occasion...
+[03:53.270 --> 03:53.530]  It sucks.
+[03:53.890 --> 03:54.510]  It smells.
+[03:54.830 --> 03:56.270]  Yeah, or it gets this like blue algae stuff.
+[03:56.270 --> 03:57.410]  It doesn't taste good ever.
+[03:57.570 --> 03:59.270]  I don't give a fuck if it smells occasionally.
+[03:59.470 --> 04:00.470]  It never tastes good.
+[04:00.650 --> 04:01.670]  It mostly tastes fine.
+[04:01.670 --> 04:03.290]  I use a Brita filter.
+[04:03.910 --> 04:05.230]  Yeah, you're wrong, you're wrong.
+[04:05.730 --> 04:07.870]  I've... Andrew, do you drink out of the tap where you live?
+[04:07.910 --> 04:09.230]  Always, constantly.
+[04:09.530 --> 04:10.370]  No filter needed.
+[04:10.770 --> 04:14.350]  Samurai used to live just delicious, straight out of the tap, just guzzling it all day.
+[04:14.690 --> 04:17.070]  This stuff here is bizarre.
+[04:17.430 --> 04:20.910]  And a lot of people here who grew up here just drink it and think that's what water tastes like.
+[04:21.150 --> 04:25.650]  Which I think is why so many people drink like Big Red and shit.
+[04:26.050 --> 04:27.230]  Big Red is terrible too.
+[04:27.550 --> 04:27.970]  What?
+[04:28.450 --> 04:32.190]  It's just, it's like an overcompensation of the shitty tap water.
+[04:32.370 --> 04:34.250]  It's like a million bags of sugar and red dye.
+[04:34.650 --> 04:36.970]  There's no like, there's no taste to that beyond sweet.
+[04:37.110 --> 04:39.170]  What you just described sounds delicious.
+[04:39.510 --> 04:40.110]  Nah, it's not.
+[04:40.470 --> 04:41.090]  It's not.
+[04:41.710 --> 04:45.890]  Maybe the tap water here is poisoned so that people drink the fizzy drinks.
+[04:46.110 --> 04:47.130]  That's a great point.
+[04:47.590 --> 04:50.810]  I will say, in defense of Big Red, the one time I had it,
+[04:50.850 --> 04:53.470]  I had like two bottles and then I vomited later that day.
+[04:54.070 --> 04:55.110]  Fantastic puke color.
+[04:55.410 --> 04:56.070]  It was a great red.
+[04:56.070 --> 04:58.910]  I have a serious, serious question for you, Andrew.
+[04:59.090 --> 04:59.370]  Go ahead.
+[04:59.450 --> 05:00.930]  How often do you throw up?
+[05:02.150 --> 05:02.950]  Oh, okay.
+[05:02.970 --> 05:03.910]  You want to get into this?
+[05:04.150 --> 05:04.650]  This is good.
+[05:05.130 --> 05:08.370]  I had a fear of vomiting for years.
+[05:08.370 --> 05:13.270]  Like when I was like eight or nine, I had bad Chinese food and I vomited up a bunch of Chinese
+[05:13.270 --> 05:14.390]  food and it was horrible.
+[05:14.830 --> 05:16.990]  So then I had a fear of vomiting for a long time.
+[05:16.990 --> 05:19.210]  Was that like a mesophobia or something?
+[05:19.330 --> 05:19.690]  Was it cool?
+[05:19.750 --> 05:21.250]  I have no idea what it's called.
+[05:21.330 --> 05:23.030]  I just really didn't want to ever do it.
+[05:23.110 --> 05:23.950]  It was a whole problem.
+[05:23.950 --> 05:29.530]  But then I went through this phase where I kept getting signed up for like these exercise classes
+[05:29.530 --> 05:34.550]  and I would vomit at the end of every class and I was doing like two or three a week.
+[05:35.010 --> 05:40.170]  So I just quickly it went from like a thing I was scared of to I'm an all time great vomiter.
+[05:40.370 --> 05:40.990]  I'm loud.
+[05:41.230 --> 05:42.150]  I'm efficient.
+[05:42.650 --> 05:45.990]  I'm really good at vomiting and it was fantastic.
+[05:46.490 --> 05:51.270]  One of the classes was me and these two women who were like in their 40s and they just they
+[05:51.270 --> 05:52.830]  like kind of flirting with the trainer.
+[05:52.830 --> 05:54.730]  They were just having a great time.
+[05:55.470 --> 05:55.870]  No, no.
+[05:55.930 --> 05:56.750]  This was like a gym.
+[05:56.870 --> 05:57.830]  Like I'm going to a gym.
+[05:58.090 --> 05:58.830]  This is a trainer.
+[05:58.990 --> 05:59.730]  This is like a class.
+[05:59.790 --> 06:00.610]  This wasn't a school thing.
+[06:01.030 --> 06:05.070]  So it's these two like 40 year olds and they kind of like flirt the trainer and just like
+[06:05.070 --> 06:08.710]  talk about wine they liked and like they were super buddy buddy.
+[06:09.130 --> 06:12.390]  And then I had absolutely nothing in common with them at all.
+[06:12.470 --> 06:16.870]  I was just the worst third wheel ever and I would constantly vomit so they couldn't
+[06:16.870 --> 06:17.770]  have liked me less.
+[06:18.310 --> 06:21.410]  And there was this one time where I had the vibe.
+[06:21.410 --> 06:23.650]  Oh, I couldn't have killed the vibe more.
+[06:23.930 --> 06:25.190]  I was the complete vibe killer.
+[06:25.590 --> 06:30.730]  But there's this one time I drank like a strawberry protein shake before I went.
+[06:31.190 --> 06:32.310]  And that was also like we did.
+[06:32.370 --> 06:33.250]  These stairs were outside.
+[06:33.330 --> 06:34.310]  We typically wouldn't be outside.
+[06:35.050 --> 06:41.550]  And I walked like five feet after doing them and just the largest projectile vomit I've
+[06:41.550 --> 06:42.110]  ever had.
+[06:42.130 --> 06:43.310]  And they could all see.
+[06:43.530 --> 06:46.490]  And it is bright like strawberry red.
+[06:46.750 --> 06:48.550]  And these women were terrified.
+[06:49.030 --> 06:50.110]  They were so frightened.
+[06:50.110 --> 06:51.350]  And I'm a loud vomiter.
+[06:51.510 --> 06:55.610]  I'm like, it's a lot of like, like, it's very loud.
+[06:55.830 --> 06:57.390]  It was fantastic.
+[06:57.770 --> 07:02.030]  Because I feel like when I've rarely talked to you outside of this podcast, usually on
+[07:02.030 --> 07:04.450]  Slack or something, you'll be telling me a story.
+[07:04.770 --> 07:06.690]  And you'd be like, yeah, yeah, I threw up all over myself.
+[07:06.850 --> 07:08.050]  And then the story continues.
+[07:08.110 --> 07:12.410]  And like the vomit part is usually like a side issue to the main story.
+[07:12.510 --> 07:16.250]  And it's most of your stories involve you chunking somewhere.
+[07:16.750 --> 07:18.750]  I feel like the ratio might be off.
+[07:18.750 --> 07:22.070]  I think it's just maybe such a memorable aspect of something I tell.
+[07:22.170 --> 07:23.590]  I don't vomit that often.
+[07:24.050 --> 07:24.770]  It's been a while.
+[07:24.910 --> 07:25.610]  Sounds like you do.
+[07:25.930 --> 07:28.870]  I thought last time I vomited, I think was three weeks ago.
+[07:29.450 --> 07:31.490]  I don't know why we're talking about that.
+[07:31.590 --> 07:32.650]  That's pretty recent, dude.
+[07:32.810 --> 07:35.970]  It is recent, but I'm saying before that it would have been months.
+[07:36.270 --> 07:38.890]  How many times a year on average do you vomit?
+[07:39.270 --> 07:40.730]  Maybe two or three.
+[07:41.130 --> 07:43.690]  Gavin, how many times a year on average do you vomit?
+[07:44.350 --> 07:45.230]  Maybe twice.
+[07:45.370 --> 07:48.330]  But I do have to add that the last time I vomited was yesterday.
+[07:48.830 --> 07:49.750]  There you go.
+[07:50.190 --> 07:51.670]  Well, we need to get into that.
+[07:51.950 --> 07:56.610]  I would say since I got sober, I average zero times a year vomiting.
+[07:57.090 --> 07:58.530]  Why are you guys puking so much?
+[07:58.870 --> 07:59.870]  Twice a year, isn't it?
+[07:59.870 --> 08:02.270]  I mean, that's like I ate something bad once, probably.
+[08:02.570 --> 08:03.630]  Did you eat something bad yesterday?
+[08:04.010 --> 08:05.270]  No, but my cat did.
+[08:05.390 --> 08:12.210]  Boy, at like 4am, he started making that sort of drain clog noise in his throat and started
+[08:12.210 --> 08:13.790]  chunking all over the floor.
+[08:14.450 --> 08:19.770]  And it was this thing, he does it sometimes where, like he's a cat, so he'll sometimes
+[08:19.770 --> 08:20.830]  just chunk up what he ate.
+[08:21.310 --> 08:25.930]  But he sometimes does this thing where he chunks up literal shit, like he will shit
+[08:25.930 --> 08:26.850]  out of his mouth.
+[08:27.290 --> 08:31.250]  It looks like turd, it smells like turd, like an absolute biohazard.
+[08:31.530 --> 08:34.730]  And we took him to the vet after the first time and it was fine, apparently.
+[08:35.130 --> 08:37.050]  Is he eating shit when you're not looking?
+[08:37.050 --> 08:44.370]  No, he's just vomiting like severely digested something, food, to the point where it's just
+[08:44.370 --> 08:45.330]  like brown paste.
+[08:47.570 --> 08:55.230]  And I was cleaning up, I was cleaning up, but Meg was asleep, so I was trying to clean
+[08:55.230 --> 08:56.110]  it up without gagging.
+[08:56.190 --> 09:01.170]  So I was like stifling my gags while I was smearing up all this shit in the dark.
+[09:01.470 --> 09:05.190]  And eventually I just had to get up, walk to a different room and throw up because the
+[09:05.630 --> 09:07.430]  stifling had started to hurt my stomach.
+[09:07.550 --> 09:10.050]  And it was every time I looked at the poo, I was almost vomiting.
+[09:10.150 --> 09:11.010]  So I just had to get it out.
+[09:12.410 --> 09:13.210]  That's hideous.
+[09:13.910 --> 09:18.190]  So I will say, Andrew, in defense of what you were talking about, this is my aside,
+[09:18.370 --> 09:24.590]  is when I was when I was in the army way back many, many years ago, I was in the fast
+[09:24.590 --> 09:29.510]  running group and our drill sergeant, this is in like basic and journalism school and
+[09:29.510 --> 09:34.090]  stuff, and my drill sergeant would not let us stop running until we vomited.
+[09:34.090 --> 09:38.530]  So he said, until you throw up, you don't run hard enough.
+[09:38.970 --> 09:42.410]  And so I threw up six days a week for eight months.
+[09:42.650 --> 09:43.930]  That's so bad.
+[09:43.990 --> 09:47.830]  Because I was not allowed to not throw up.
+[09:47.970 --> 09:54.090]  And then when I went to Fort Hood and I began my first duty station, I would be so hung
+[09:54.090 --> 10:00.170]  over that you would want to throw up really quickly in PT because what would happen was
+[10:00.170 --> 10:02.850]  you would feel like you were dying all the way through PT.
+[10:02.850 --> 10:07.690]  And then if you threw up, you would instantly feel better and it would erase the memory
+[10:07.690 --> 10:08.450]  of doing PT.
+[10:09.010 --> 10:13.110]  So I would really look forward to throwing up because either I could stop running or
+[10:13.110 --> 10:16.670]  because it would erase the memory of having to work out feeling sick.
+[10:16.970 --> 10:19.210]  And then I quit working out for years and years and years.
+[10:19.630 --> 10:25.550]  But then every time since, like one time Gav, Dan Godwin, and I took a Krav Maga class,
+[10:26.150 --> 10:29.050]  and like halfway through, I was like, I'll be right back.
+[10:29.090 --> 10:32.150]  And I had to go outside in the front of the place and throw up, come back in,
+[10:32.150 --> 10:34.630]  work out for another 10 minutes, go back out, throw up.
+[10:34.970 --> 10:43.590]  I did some sort of a CrossFit class at a gym one time, and I had to leave in the middle
+[10:43.590 --> 10:44.250]  of it and throw up.
+[10:44.350 --> 10:45.450]  And everybody's like, are you okay?
+[10:45.690 --> 10:47.810]  And I'm like, yeah, I'm just throwing up because I'm working out.
+[10:48.010 --> 10:50.090]  And people are like, nobody does that.
+[10:50.130 --> 10:51.770]  And I realized that nobody does that.
+[10:51.890 --> 10:59.270]  But my brain is now tricked where I work out to vomit as quickly as possible, I guess,
+[10:59.270 --> 11:03.610]  because like the rote memory is that like, I can stop as soon as I puke.
+[11:03.730 --> 11:05.930]  So I get to puke really fast.
+[11:06.310 --> 11:07.270]  And that's why I don't work out.
+[11:07.530 --> 11:09.390]  You also puke as though it's nothing.
+[11:09.770 --> 11:15.570]  Like at that time where you tried to put your dog tag chain down your nose hole and out your mouth.
+[11:15.890 --> 11:16.270]  No.
+[11:16.610 --> 11:19.930]  And you threw up everywhere and clogged the sink.
+[11:20.150 --> 11:21.090]  I filled the sink with puke.
+[11:21.090 --> 11:25.110]  For some reason, threw up in the sink instead of the toilet and clogged it.
+[11:27.070 --> 11:31.530]  The disappointing thing there was that was so easy to do when I was like 18.
+[11:32.030 --> 11:37.150]  And I was so dismayed to find out that at that point in my late 30s or whatever I was,
+[11:37.470 --> 11:43.710]  that it was so goddamn physically difficult to do it that I threw up an entire sink worth.
+[11:43.890 --> 11:45.270]  Yeah, I got through it though.
+[11:45.290 --> 11:45.730]  I did it.
+[11:45.850 --> 11:46.630]  I'll never do it again.
+[11:46.710 --> 11:48.250]  But I fucking did it that one last time.
+[11:48.430 --> 11:49.170]  You just disappeared off.
+[11:49.350 --> 11:50.770]  You're like, yeah, I can still do this.
+[11:50.790 --> 11:51.990]  And you were like, you started doing it.
+[11:52.030 --> 11:53.070]  Then you're like, oh, hold on, be right back.
+[11:53.070 --> 11:56.590]  And then you came back with it threaded through your sinuses.
+[11:56.850 --> 11:59.490]  And then you're like, hey, check this out.
+[11:59.530 --> 12:01.110]  And you took me to your sink.
+[12:01.930 --> 12:03.690]  You just disappeared off on your own.
+[12:04.150 --> 12:05.310]  OK, I'm looking at the shelves.
+[12:05.490 --> 12:09.030]  Yeah, I want to just make a quick point before before we continue.
+[12:09.850 --> 12:13.830]  Nick very kindly looked at the shelves, said that's something that I imagine something
+[12:13.830 --> 12:14.550]  far less grand.
+[12:14.870 --> 12:16.330]  And he said, that looks amazing.
+[12:16.370 --> 12:16.730]  Well done.
+[12:17.150 --> 12:18.090]  You didn't do anything.
+[12:18.170 --> 12:18.890]  You paid somebody.
+[12:19.190 --> 12:20.010]  You don't get a well done.
+[12:20.010 --> 12:24.510]  That's like a full like armoire shelving cabinets.
+[12:25.170 --> 12:26.210]  There's like a ledge.
+[12:26.390 --> 12:27.970]  There's probably what?
+[12:28.130 --> 12:31.870]  Twelve, fifteen shelves there, maybe on the side shelves.
+[12:32.170 --> 12:36.450]  And on the and then on the other side is that it is a built in desk and more shelves.
+[12:36.890 --> 12:37.650]  That's why.
+[12:37.750 --> 12:39.490]  And it's all in the room I record in.
+[12:39.590 --> 12:41.170]  That's why I couldn't record in the room.
+[12:42.150 --> 12:45.010]  Nine dudes in there for 14 hours that day.
+[12:45.130 --> 12:47.230]  I feel like you did describe it like that.
+[12:47.230 --> 12:51.270]  But in my head, whenever we went back to it, I was just thinking about you putting up
+[12:51.270 --> 12:57.490]  like a couple of like a hundred percent, 100 percent.
+[12:57.670 --> 13:00.810]  I was explaining to you what a major ordeal this was.
+[13:01.110 --> 13:04.390]  And when we got back on, you guys were like, you hung an Ikea shelf, asshole.
+[13:04.590 --> 13:09.010]  What Nick posted is exactly what I was picturing.
+[13:09.150 --> 13:15.050]  I was like, well, congrats on your shelves.
+[13:15.150 --> 13:16.490]  They they look nice.
+[13:16.490 --> 13:17.730]  We congratulate them.
+[13:17.870 --> 13:18.550]  They do look nice.
+[13:18.630 --> 13:19.990]  Does he need a congrats?
+[13:20.530 --> 13:22.490]  I appreciate that, Andrew.
+[13:22.590 --> 13:22.910]  Thank you.
+[13:23.870 --> 13:25.210]  Congrats to you as well.
+[13:25.910 --> 13:28.010]  Yeah, this is painted, obviously.
+[13:28.350 --> 13:29.150]  And I got to go.
+[13:29.310 --> 13:29.970]  It's a whole.
+[13:30.210 --> 13:31.770]  Are you matching the color of the ceiling?
+[13:32.010 --> 13:32.270]  Yeah.
+[13:32.370 --> 13:32.570]  Yeah.
+[13:32.570 --> 13:33.750]  Matching the color of the ceiling.
+[13:33.750 --> 13:36.910]  And then in the other one where the desk is, there's wallpaper that's got to be installed.
+[13:36.990 --> 13:37.970]  It's a whole fucking thing.
+[13:38.030 --> 13:38.510]  I'm not anywhere.
+[13:38.670 --> 13:39.450]  I'm not close.
+[13:39.750 --> 13:40.330]  Not even close.
+[13:40.470 --> 13:41.790]  You must like your house.
+[13:42.130 --> 13:42.530]  I'm not.
+[13:42.650 --> 13:43.150]  I'm not.
+[13:43.390 --> 13:44.990]  Well, yeah, I don't hate it.
+[13:44.990 --> 13:46.410]  I don't know.
+[13:46.470 --> 13:48.830]  I just never lived in a house long enough where I'm like, yeah,
+[13:48.870 --> 13:50.650]  I'm going to do all this custom stuff to it.
+[13:50.870 --> 13:51.190]  Dude.
+[13:51.330 --> 13:53.170]  But yeah, you've you've done it.
+[13:53.270 --> 13:53.730]  That's awesome.
+[13:53.850 --> 13:55.010]  That's that's money invested.
+[13:55.390 --> 13:58.950]  I hope you get to a point in your life where you feel like installing built ins.
+[13:59.550 --> 14:01.030]  And it seems like a wise investment.
+[14:01.130 --> 14:01.930]  That's the dream, Geoff.
+[14:01.990 --> 14:04.890]  I've been I've kind of been pitching this already.
+[14:05.070 --> 14:06.810]  You don't need to go all the way to a shelf, Gavin.
+[14:06.850 --> 14:07.890]  You can make small changes.
+[14:08.330 --> 14:10.470]  You can customize things in a small way.
+[14:10.670 --> 14:11.650]  You can make your space your own.
+[14:12.030 --> 14:14.350]  Andrew, I know you have a thousand things to talk about.
+[14:14.350 --> 14:15.450]  Gavin, what do you got going on?
+[14:15.610 --> 14:19.070]  Well, I just feel like we should mention that we took another break.
+[14:19.430 --> 14:23.890]  Andrew, 11th hour last week, cancelled the podcast recording.
+[14:24.310 --> 14:25.610]  Way later than I cancelled.
+[14:25.770 --> 14:27.350]  Way later than when I cancelled.
+[14:27.350 --> 14:28.610]  Not from my perspective.
+[14:29.250 --> 14:30.250]  Not from my perspective.
+[14:30.530 --> 14:33.270]  It was like, what, two hours before we were going to do it?
+[14:33.530 --> 14:34.350]  You were like, we can't.
+[14:34.390 --> 14:35.010]  We can't do it.
+[14:35.330 --> 14:36.170]  No, it's not true.
+[14:36.550 --> 14:37.230]  That's not true.
+[14:37.490 --> 14:38.170]  You're making it.
+[14:38.270 --> 14:38.570]  I try.
+[14:38.750 --> 14:42.190]  It's worse than that because I reached out in the morning to talk shit about Geoff
+[14:42.190 --> 14:43.670]  and that I wasn't going to cancel.
+[14:43.670 --> 14:45.710]  That is a hero for not cancelling.
+[14:45.930 --> 14:47.150]  Let me look at the timestamp.
+[14:47.330 --> 14:50.210]  It was, I want to say, 7.30-ish AM.
+[14:50.350 --> 14:51.710]  It was around 7 AM, I'd guess.
+[14:51.930 --> 14:52.950]  You're talking earlier in the morning.
+[14:53.030 --> 14:54.630]  I must record from my phone again.
+[14:55.390 --> 14:57.450]  Tried my best, but I can't record today.
+[14:57.710 --> 14:58.250]  Can't do it.
+[14:58.490 --> 15:00.950]  That was at 1.30 for a three-minute recording.
+[15:00.950 --> 15:01.930]  No, no, no, no, no, no, no, no, no.
+[15:01.990 --> 15:02.670]  It was before that.
+[15:02.750 --> 15:03.550]  Keep scrolling up.
+[15:03.790 --> 15:06.290]  Yeah, you said you might have to record from your phone.
+[15:06.430 --> 15:10.290]  You didn't cancel it and end the whole day until 1.30.
+[15:10.770 --> 15:12.710]  Yeah, but I also said I'd be willing to record on my phone.
+[15:12.710 --> 15:14.270]  90 minutes, dude, 90 minutes.
+[15:14.430 --> 15:15.390]  At the end, at the end.
+[15:15.670 --> 15:20.690]  And might I point out that I couldn't tell if it was fucking real or a bit.
+[15:21.070 --> 15:24.550]  So I showed up to record anyway, just in case.
+[15:25.570 --> 15:27.670]  So it's still wasted my time.
+[15:27.950 --> 15:29.430]  I was there at three o'clock.
+[15:29.530 --> 15:35.470]  I stuck around till 3.15 just to make sure by myself in the fucking Discord.
+[15:35.770 --> 15:37.650]  But the way, the things you were saying,
+[15:38.270 --> 15:41.730]  you were basically calling yourself a hero for even attempting it.
+[15:41.770 --> 15:44.370]  It was an act of heroism.
+[15:44.850 --> 15:48.670]  Then you said you wouldn't be able to record from your desk.
+[15:48.850 --> 15:51.650]  You said you wouldn't be able to record comfort, comfortably.
+[15:52.290 --> 15:52.530]  Nope.
+[15:52.770 --> 15:55.770]  You said you could do about 25 minutes in this condition.
+[15:56.230 --> 15:57.790]  But an hour would be tough.
+[15:58.190 --> 15:58.990]  What on earth?
+[15:59.390 --> 16:00.490]  Because you wouldn't tell us anything.
+[16:01.010 --> 16:02.470]  What on earth are you talking about?
+[16:02.490 --> 16:04.170]  Do you want to get into it, Andrew?
+[16:04.350 --> 16:04.910]  Do we want to?
+[16:05.370 --> 16:06.270]  OK, we can.
+[16:06.290 --> 16:09.910]  I've wanted to know badly for a full fucking week.
+[16:09.910 --> 16:11.410]  And I've just been sitting here waiting,
+[16:11.810 --> 16:14.910]  sitting on my hands, trying not to talk to you because I don't want to spoil it.
+[16:14.930 --> 16:17.850]  In my head, you Michael Scotted your foot.
+[16:18.370 --> 16:21.570]  You stepped on your waffle maker like he stepped on his George Foreman.
+[16:21.690 --> 16:23.150]  That's what I've been picturing all week.
+[16:23.770 --> 16:24.130]  Absolutely.
+[16:24.590 --> 16:26.510]  I definitely Icarus myself.
+[16:27.290 --> 16:33.510]  I embraced a new lifestyle and I flew a little too close to the sun and it escalated poorly.
+[16:33.830 --> 16:37.550]  So last time we spoke, I had ordered the 70 pounds of mix.
+[16:38.090 --> 16:39.110]  Yeah, I was waiting for it.
+[16:39.110 --> 16:42.290]  On the previous early on Saturday, I rolled.
+[16:42.650 --> 16:43.430]  I have shitty ankles.
+[16:43.590 --> 16:44.870]  I've always had awful ankles.
+[16:45.330 --> 16:46.450]  Just the worst.
+[16:46.570 --> 16:49.290]  Even when I was a kid, like I'd run with a limp when I wasn't hurt.
+[16:49.390 --> 16:50.230]  Just bad ankles.
+[16:50.710 --> 16:51.670]  And I rolled.
+[16:52.330 --> 16:56.790]  I rolled my right ankle on a walk because the curb wasn't level and I didn't notice.
+[16:56.910 --> 16:58.150]  So I rolled my right ankle.
+[16:59.270 --> 17:02.230]  Then later in the day, the 70 pounds of mix came,
+[17:02.430 --> 17:05.030]  which the boxes were not built to carry that much weight.
+[17:05.130 --> 17:08.390]  They put them in like three different Amazon boxes and they were falling apart
+[17:08.390 --> 17:09.630]  as it's carrying them.
+[17:10.130 --> 17:15.130]  So I'm on one leg and I'm trying to carry 70 pounds of mix of several sets of stairs.
+[17:15.490 --> 17:16.630]  And I keep falling.
+[17:17.170 --> 17:20.230]  Yeah, I did initially try to carry everything up the one go and I fell.
+[17:20.390 --> 17:21.090]  And that was a mistake.
+[17:21.370 --> 17:25.350]  With a rolled ankle, you took all 70 pounds in your hand.
+[17:25.390 --> 17:26.150]  I tried.
+[17:27.050 --> 17:27.890]  I tried.
+[17:27.970 --> 17:28.410]  I almost fell.
+[17:28.630 --> 17:32.550]  I almost did the Home Alone fall where I was like slowly falling backwards off the stairs.
+[17:32.550 --> 17:33.650]  It was like, oh, I can just grab.
+[17:33.770 --> 17:34.470]  Oh no, I can't.
+[17:34.490 --> 17:35.050]  I can't grab.
+[17:35.410 --> 17:36.670]  And I barely caught myself.
+[17:36.670 --> 17:39.070]  But so then I hurt.
+[17:39.690 --> 17:43.110]  I hurt my ankle, my other ankle doing that.
+[17:43.230 --> 17:45.350]  I hurt my left, my right ankle.
+[17:45.410 --> 17:47.410]  I rolled walking my left ankle.
+[17:47.530 --> 17:53.250]  I hurt trying to get the mix up and it was bad, but it wasn't the worst injury I've had.
+[17:53.290 --> 17:54.210]  I've had this before.
+[17:54.250 --> 17:58.110]  I've had issues with my ankles before where it typically is like I'm out for a week.
+[17:59.450 --> 18:02.170]  But I really I've embraced this waffle lifestyle.
+[18:02.410 --> 18:06.650]  I've had so much fun and I thought I need to add more because I have a fridge.
+[18:06.670 --> 18:08.210]  So I have a fridge.
+[18:08.310 --> 18:09.170]  I have everything I need.
+[18:09.290 --> 18:12.150]  I don't need to necessarily stop at waffles.
+[18:12.490 --> 18:16.490]  So I made a new investment to add to my lifestyle.
+[18:16.710 --> 18:17.770]  I bought this.
+[18:18.170 --> 18:19.730]  I thought this could be perfect.
+[18:19.850 --> 18:20.590]  I could have breakfast.
+[18:20.710 --> 18:21.610]  I could have lunch.
+[18:23.170 --> 18:24.330]  Later in the day.
+[18:24.570 --> 18:30.130]  You posted a toaster that toasts hot dog buns and hot dogs.
+[18:30.350 --> 18:32.490]  Yes, I bought a dog toaster.
+[18:32.610 --> 18:34.030]  I thought I'll sit at my desk.
+[18:34.090 --> 18:35.810]  I could cook some dogs up for lunch.
+[18:35.810 --> 18:36.970]  I have a hurt ankle.
+[18:37.170 --> 18:38.070]  This is perfect.
+[18:38.570 --> 18:39.990]  I'm so glad I invested in this.
+[18:40.250 --> 18:41.570]  This is it arrived on Tuesday.
+[18:41.770 --> 18:44.170]  It arrived middle of the week.
+[18:46.190 --> 18:49.830]  I had this whole dog fantasy lined up, Gavin, that you have no idea.
+[18:49.950 --> 18:51.870]  I was so excited to add to the waffles.
+[18:52.350 --> 18:54.650]  You've got the shortest attention span ever.
+[18:54.730 --> 18:56.850]  You've already ignored the 70 pounds of pancakes.
+[18:56.970 --> 18:58.190]  You're on to dog toasting.
+[18:58.230 --> 18:59.290]  Is this also in your bedroom?
+[18:59.590 --> 19:00.350]  Yes. Oh, yes.
+[19:00.410 --> 19:03.210]  Putting it on my desk was the whole game plan I had.
+[19:03.270 --> 19:04.370]  I had my dogs on my desk.
+[19:04.370 --> 19:07.230]  I was going to make desk dogs and I was just going to love life.
+[19:07.330 --> 19:10.890]  I could make waffles in bed, dogs at my desk, fully covered.
+[19:11.290 --> 19:12.310]  This is a great thing.
+[19:12.650 --> 19:13.650]  So I get the maker.
+[19:13.870 --> 19:14.830]  My ankle is sore.
+[19:15.070 --> 19:15.810]  It's not that bad.
+[19:15.810 --> 19:16.950]  I'm recovering on Tuesday.
+[19:17.270 --> 19:19.570]  I get the hot dog maker on Tuesday.
+[19:20.270 --> 19:21.150]  I'm hurting.
+[19:21.390 --> 19:25.650]  I don't have any food in my room, but I do have a packet of hot dogs and some buns.
+[19:26.070 --> 19:26.690]  In the fridge.
+[19:26.930 --> 19:27.590]  In my fridge.
+[19:27.830 --> 19:31.790]  And I thought I'm going to cook a desk dog up on the podcast.
+[19:31.790 --> 19:34.690]  That will be my introduction to this thing.
+[19:34.870 --> 19:39.250]  That'd be really funny if I just throw some desk dogs on, eat a dog while we record.
+[19:39.790 --> 19:41.630]  But I was hungry and I thought, oh, fuck it.
+[19:41.650 --> 19:42.590]  I'll test it anyway.
+[19:42.730 --> 19:49.070]  So I read the instructions and the instructions say experience or get ready to to have a strong
+[19:49.070 --> 19:51.310]  chemical odor on your first cook.
+[19:51.490 --> 19:52.490]  So it's prepared for that.
+[19:52.530 --> 19:53.290]  I wasn't worried about it.
+[19:53.310 --> 19:53.870]  It's basic.
+[19:54.110 --> 19:56.550]  It's literally just a toaster you put hot dogs into.
+[19:56.790 --> 19:58.190]  So I put the dogs in.
+[19:58.730 --> 20:00.890]  I'm afraid I don't want to undercook the dogs.
+[20:00.890 --> 20:04.310]  I don't know how effective the heating mechanism is on the inside of this thing.
+[20:04.530 --> 20:05.710]  Well, I assume they're cooked already.
+[20:05.890 --> 20:06.690]  You're just heating them up.
+[20:06.830 --> 20:07.630]  Yeah, I'm heating them.
+[20:07.750 --> 20:08.330]  It's fair.
+[20:08.590 --> 20:09.550]  Yeah, I'm just heating them.
+[20:09.550 --> 20:10.910]  I wanted a good heat, though.
+[20:11.010 --> 20:17.250]  So I cranked it all the way to the highest setting and I'm sitting at my desk tracking
+[20:17.250 --> 20:19.190]  the election, got my desk dogs going.
+[20:19.510 --> 20:23.690]  It's a good night and I can really smell this strong chemical odor.
+[20:23.850 --> 20:26.130]  And it's really, it's strong, but I expect it.
+[20:26.170 --> 20:26.690]  So it's fine.
+[20:27.170 --> 20:28.310]  And I'm just relaxed.
+[20:28.410 --> 20:29.190]  I'm really happy.
+[20:29.270 --> 20:30.150]  I'm enjoying life.
+[20:30.150 --> 20:37.070]  And then my room starts vibrating because I have triggered the loud, the loudest,
+[20:37.650 --> 20:40.270]  the loudest smoke alarm I've ever heard.
+[20:40.350 --> 20:44.910]  I set off the smoke alarm in my bedroom, cooking my desk dogs, and it was ringing.
+[20:45.410 --> 20:46.450]  Everything was shaking.
+[20:46.750 --> 20:47.630]  It was so bad.
+[20:47.810 --> 20:49.310]  I go into full panic mode.
+[20:49.650 --> 20:51.370]  I ripped the machine off my desk.
+[20:51.510 --> 20:56.410]  Dogs go flying and I hobble into my bathroom because there's no smoke machine in my bathroom.
+[20:56.590 --> 20:57.930]  Not smoke machine, smoke alarm.
+[20:58.110 --> 20:59.690]  I don't have a smoke machine in there either.
+[20:59.690 --> 21:01.550]  But I'm worried about the smoke alarm.
+[21:02.010 --> 21:03.010]  No fears about a machine.
+[21:03.390 --> 21:08.650]  So I put the desk dog device in underneath where my towels are in my bathroom.
+[21:09.070 --> 21:10.090]  I'm good there.
+[21:10.890 --> 21:12.110]  Initial problem solved.
+[21:12.290 --> 21:12.950]  Dogs are somewhere.
+[21:13.070 --> 21:14.190]  I don't know where they flew to.
+[21:14.370 --> 21:15.090]  Not a worry.
+[21:15.430 --> 21:21.630]  My next concern is that I have triggered the fire system for my entire building is my worry.
+[21:21.810 --> 21:25.370]  So then I have to stumble out into my hallway, make sure there are no other alarms.
+[21:25.550 --> 21:27.350]  Thankfully, I only activated mine.
+[21:27.990 --> 21:31.790]  Um, but recently they tested all the smoke alarms.
+[21:31.970 --> 21:36.170]  And whenever they'd set one off, a guy was on a phone talking to someone off site.
+[21:36.390 --> 21:37.950]  And they're like, yeah, no, it went off.
+[21:38.010 --> 21:38.290]  We're good.
+[21:38.330 --> 21:39.210]  We can go to the next one.
+[21:39.470 --> 21:44.810]  So I thought, oh, shit, this is going to send a signal to somebody potentially.
+[21:45.030 --> 21:46.690]  And the fire cavalry might be coming.
+[21:47.090 --> 21:48.530]  I don't know if they're going to send somebody.
+[21:48.710 --> 21:54.490]  And I don't know how I can explain the desk dogs was the cause of this fire investigation.
+[21:55.430 --> 21:58.850]  So I'm nervous about them embracing my new lifestyle.
+[21:59.710 --> 22:04.450]  So I sit for a second and then I think I need to do something about all of my pancake mix.
+[22:04.570 --> 22:06.490]  So like they were bags of cocaine.
+[22:06.790 --> 22:10.930]  I grabbed them one at a time and start frantically hiding them throughout my room
+[22:10.930 --> 22:16.670]  because I just don't want them to stumble into 70 pounds of pancake mix and the waffle machine.
+[22:16.770 --> 22:17.790]  What's wrong with you?
+[22:17.850 --> 22:19.190]  They could take the wrong idea.
+[22:19.390 --> 22:19.870]  They would.
+[22:20.230 --> 22:20.850]  I don't know.
+[22:20.890 --> 22:21.750]  I thought I could get in trouble.
+[22:21.830 --> 22:23.230]  I don't think this is probably a normal thing.
+[22:23.230 --> 22:27.110]  I don't imagine the building manager would love this new lifestyle I've embraced.
+[22:27.270 --> 22:30.870]  So I'm hiding everything and I get it all done.
+[22:30.950 --> 22:33.710]  And then the dog adrenaline has worn off at this point.
+[22:33.810 --> 22:39.130]  And my ankle is very sore because I've been running around moving 10 pound bags of pancake mix,
+[22:39.410 --> 22:42.750]  running up and down stairs, making sure alarms weren't going off.
+[22:42.950 --> 22:43.750]  It was the whole thing.
+[22:44.430 --> 22:50.810]  And so the pancake mix initially fractured, fractured me, put a dent in the armor.
+[22:50.810 --> 22:53.170]  And the desk dogs broke.
+[22:54.270 --> 22:59.610]  That's how my ankle fell apart, was the moving of the desk dogs on Tuesday.
+[22:59.850 --> 23:02.930]  Could not walk, could not stand the next day.
+[23:03.290 --> 23:04.310]  Just couldn't do anything.
+[23:04.670 --> 23:07.930]  Had to spend the next several days just laying in bed.
+[23:08.030 --> 23:13.390]  I don't understand why you couldn't do it from your desk, but you could still do it from your phone.
+[23:13.710 --> 23:14.690]  I... yeah.
+[23:14.910 --> 23:19.170]  I drove from multiple root canals straight to the podcast.
+[23:19.170 --> 23:22.110]  And you had a sore... you had an ankle.
+[23:22.370 --> 23:22.610]  Owie.
+[23:22.910 --> 23:26.030]  No, my ankle was so bad I couldn't sit at my desk.
+[23:26.190 --> 23:27.710]  I couldn't. I had to have it elevated.
+[23:28.210 --> 23:29.070]  I couldn't have it down.
+[23:29.430 --> 23:32.910]  The day we tried to record that morning, when I said, like, give me an hour,
+[23:33.130 --> 23:38.170]  I took five Advils at once and then was just going to see if it would numb my foot.
+[23:38.230 --> 23:39.770]  And it didn't. It didn't make any difference.
+[23:39.910 --> 23:40.690]  That's what I have to call it.
+[23:40.690 --> 23:41.870]  You shouldn't do that.
+[23:42.210 --> 23:43.190]  I made a real effort.
+[23:43.290 --> 23:43.650]  Yeah, that's probably a lot.
+[23:43.830 --> 23:45.170]  Your liver's going to fail.
+[23:45.390 --> 23:48.790]  It was a terrible idea, but I tried it because I'm a hero.
+[23:48.790 --> 23:50.670]  And I want to be here for you guys.
+[23:50.750 --> 23:53.010]  I'm like Geoff, worried about some shelves.
+[23:53.230 --> 23:54.370]  I make every attempt.
+[23:54.690 --> 23:56.970]  And so I could have... I tried.
+[23:57.150 --> 24:02.830]  I'd sit at my desk and I'd go like every ten seconds because my ankle would throb.
+[24:02.930 --> 24:06.090]  It was a throbbing, stabbing pain that was horrendous.
+[24:06.630 --> 24:07.670]  You know what you should have done?
+[24:07.770 --> 24:09.690]  You should have made a tourniquet with hot dogs.
+[24:10.050 --> 24:11.370]  Oh, that's a good idea.
+[24:11.730 --> 24:12.490]  Split it up.
+[24:12.670 --> 24:17.070]  I'm worried now that we... that Geoff and I live so far from you.
+[24:17.070 --> 24:19.750]  Like something... you're going to kill yourself by accident.
+[24:20.370 --> 24:25.430]  Look, look, you almost burnt down your entire building with desk dogs.
+[24:25.670 --> 24:27.370]  And then you took five Advils.
+[24:27.870 --> 24:29.030]  That was one day.
+[24:29.130 --> 24:30.770]  And then it took you a week to recover.
+[24:31.070 --> 24:32.730]  Well, I'm still recovering.
+[24:32.950 --> 24:34.470]  I don't have pain, but I can't really walk.
+[24:35.090 --> 24:36.490]  But everything was fine.
+[24:36.610 --> 24:38.490]  I don't take that many that often.
+[24:38.630 --> 24:40.610]  It was like, I need... we're trying to record today.
+[24:41.010 --> 24:42.230]  This is what did happen though.
+[24:42.770 --> 24:44.710]  I, for the very first time, dangerous.
+[24:44.710 --> 24:47.210]  Don't recommend it unless you absolutely need it.
+[24:47.330 --> 24:50.230]  Took a pain reliever that was beyond what you could get.
+[24:50.450 --> 24:51.390]  Just like at a counter.
+[24:51.910 --> 24:53.330]  Like a prescription...
+[24:53.330 --> 24:54.650]  You got prescription painkillers.
+[24:55.010 --> 24:56.490]  Prescription painkillers.
+[24:56.670 --> 24:57.670]  Real game changer.
+[24:57.990 --> 24:58.510]  Big help.
+[24:58.850 --> 25:00.070]  That's why you were texting me.
+[25:00.610 --> 25:01.890]  I feel like I'm cheating.
+[25:02.510 --> 25:05.370]  This is what... yes, this is literally...
+[25:05.370 --> 25:08.330]  I had a really bad night before I took the first one.
+[25:08.510 --> 25:09.030]  It was rough.
+[25:09.570 --> 25:10.410]  And I'm laying in bed.
+[25:10.430 --> 25:11.710]  I'm like, I need to do something.
+[25:12.070 --> 25:14.370]  So I ordered a walking boot off of Amazon.
+[25:14.370 --> 25:15.730]  I could make this.
+[25:15.810 --> 25:16.610]  It's going to arrive in two days.
+[25:16.690 --> 25:17.130]  I can last.
+[25:17.210 --> 25:17.670]  It'll be fine.
+[25:18.510 --> 25:20.410]  I then got the prescription painkillers.
+[25:20.470 --> 25:21.150]  And I took two.
+[25:21.390 --> 25:23.670]  I canceled my boot order 40 minutes later.
+[25:23.810 --> 25:24.590]  I'm like, I'm good.
+[25:24.810 --> 25:26.210]  Don't need the boot anymore.
+[25:26.730 --> 25:28.830]  Don't you guys have socialized health care?
+[25:28.910 --> 25:30.350]  Can't you just go to the doctor and get a boot?
+[25:30.610 --> 25:32.030]  I couldn't leave.
+[25:32.610 --> 25:33.490]  I couldn't move.
+[25:33.710 --> 25:34.910]  What's he going to limp to his boot?
+[25:36.510 --> 25:39.850]  Eric suggested I throw myself off the series of balconies,
+[25:39.870 --> 25:41.310]  which I could have technically done.
+[25:41.710 --> 25:42.930]  But like, there's no way...
+[25:42.930 --> 25:43.710]  I was stuck in my room.
+[25:44.190 --> 25:46.470]  Today's the first day I left my room in like 10 days.
+[25:47.310 --> 25:49.010]  Well, let me ask you two questions.
+[25:51.310 --> 25:53.250]  First, did you say fire cavalry?
+[25:53.650 --> 25:53.930]  Yeah.
+[25:54.090 --> 25:55.330]  I didn't know who was going to come.
+[25:55.450 --> 25:56.010]  Fire department.
+[25:56.210 --> 25:57.430]  Maybe the people who work here.
+[25:57.510 --> 25:58.010]  A whole group.
+[25:58.150 --> 25:58.950]  I didn't know how many.
+[25:58.990 --> 25:59.250]  Okay.
+[25:59.370 --> 26:00.610]  I didn't know if that's like...
+[26:00.610 --> 26:02.010]  That's what they call the fire department.
+[26:02.130 --> 26:03.330]  No, no, no, no, no, no.
+[26:03.410 --> 26:03.650]  All right.
+[26:03.670 --> 26:04.850]  And I was going to ask like, what the...
+[26:04.850 --> 26:06.530]  Now I got to know, what do they call it in England?
+[26:07.010 --> 26:07.430]  The brigade.
+[26:07.970 --> 26:09.130]  The fire brigade, right?
+[26:09.170 --> 26:10.250]  Brigade is a good word too.
+[26:10.390 --> 26:11.090]  Well, they used to.
+[26:11.330 --> 26:12.370]  I'm not sure if they still do.
+[26:12.630 --> 26:13.350]  Second question.
+[26:13.710 --> 26:16.750]  Have you had a successful hot dog since?
+[26:16.910 --> 26:17.570]  And how are they?
+[26:17.830 --> 26:19.290]  That's a great question, Geoff.
+[26:19.830 --> 26:23.570]  Amongst the pain of Tuesday night, my ankle throbbing, still sore.
+[26:23.750 --> 26:24.630]  Never ate dinner.
+[26:24.970 --> 26:27.910]  But I was scared to set the alarm off again.
+[26:28.250 --> 26:31.950]  So I sneakily, I sneakily cooked some dogs in my closet.
+[26:32.470 --> 26:35.730]  For a little sneaky desk dog closet action.
+[26:37.050 --> 26:38.230]  I had two of them.
+[26:38.450 --> 26:39.210]  And they were fine.
+[26:39.670 --> 26:42.010]  It had enclosed unventilated space.
+[26:42.010 --> 26:44.370]  Where probably a bunch of fabric is.
+[26:44.890 --> 26:45.830]  Uh, yeah, there's a bunch of fabric.
+[26:46.010 --> 26:47.390]  I don't, you know, it was late.
+[26:47.470 --> 26:50.110]  I kept the lights off so I couldn't see if there was.
+[26:50.290 --> 26:50.810]  I was just very nervous.
+[26:50.810 --> 26:52.030]  You can't see it, it doesn't exist.
+[26:52.630 --> 26:53.350]  It's far.
+[26:53.430 --> 26:55.410]  It was on the opposite corner of the alarm.
+[26:55.550 --> 26:56.510]  I had a fan going.
+[26:56.650 --> 26:57.910]  I'm sure everything was fine.
+[26:57.950 --> 27:01.590]  To be fair, if the lights are off, you're going to notice the fire sooner.
+[27:04.530 --> 27:05.410]  There's no fire.
+[27:05.470 --> 27:09.290]  I'm 32, juggling family, working full time and earning a bachelor's degree.
+[27:09.290 --> 27:13.670]  At University of Phoenix, I earn career-relevant skills with every five-week course.
+[27:13.810 --> 27:16.230]  Skills I can use now, not just after graduation.
+[27:16.650 --> 27:18.550]  Earn skills weeks, not years.
+[27:18.890 --> 27:20.030]  Visit phoenix.edu.
+[27:20.570 --> 27:22.850]  You don't technically need this car.
+[27:23.170 --> 27:25.010]  You say that out loud to yourself.
+[27:25.450 --> 27:27.010]  You say, I have no space.
+[27:27.310 --> 27:29.210]  You say, eh, I'm just looking.
+[27:29.610 --> 27:30.710]  Then you click.
+[27:31.210 --> 27:34.450]  Then you zoom in on photo number 87 and whisper, oh no.
+[27:34.950 --> 27:37.450]  Then you text a friend, the one who always enables you.
+[27:37.450 --> 27:42.550]  You say to yourself, this is the last one, knowing it is not.
+[27:43.030 --> 27:44.170]  You don't need this car.
+[27:44.590 --> 27:48.130]  But maybe, just maybe, this car needs you.
+[27:48.510 --> 27:48.990]  Bring a trailer.
+[27:49.330 --> 27:50.530]  It's never just a car.
+[27:51.010 --> 27:53.110]  This episode is brought to you by Pacifico.
+[27:53.590 --> 27:55.630]  Here's a story you've probably never heard.
+[27:56.070 --> 28:01.070]  Legend has it, decades ago, a couple surfers went down to Mexico in search of epic swells.
+[28:01.150 --> 28:03.110]  But they found something unexpected instead.
+[28:03.410 --> 28:05.890]  It was still crisp, lively, and smooth.
+[28:05.890 --> 28:07.910]  But it had nothing to do with waves.
+[28:08.210 --> 28:10.770]  It was Pacifico, a delicious Mexican lager.
+[28:11.230 --> 28:13.270]  It's like it was brewed to be discovered.
+[28:13.930 --> 28:15.650]  Pacifico, find your own way.
+[28:16.010 --> 28:17.310]  21 Plus, discover responsibly.
+[28:17.450 --> 28:19.670]  Pacifico Clara Beer, imported by Krine Import Chicago, Illinois.
+[28:25.440 --> 28:30.580]  Let's take a break from this dumb podcast for a second to talk about the social dilemma on Netflix.
+[28:30.960 --> 28:34.980]  It's a documentary where tech insiders explain how social media is engineered
+[28:34.980 --> 28:37.440]  to exploit users' data for profit.
+[28:37.440 --> 28:39.920]  They call it surveillance capitalism.
+[28:40.300 --> 28:42.540]  And look, I'm cool with normal capitalism, obviously.
+[28:43.060 --> 28:45.540]  I've made a living off of selling dumb slogans on t-shirts.
+[28:46.100 --> 28:50.460]  And while I'm a willing participant of transactions, like every time I go to the store to buy food,
+[28:50.760 --> 28:54.500]  or when I go buy cases and cases of Diet Pepsi,
+[28:54.960 --> 28:58.980]  but when my data is being harvested so tech billionaires can get even richer,
+[28:59.360 --> 29:00.540]  that's where I draw the line.
+[29:00.940 --> 29:04.780]  And that is why I put a layer of protection around my data with ExpressVPN.
+[29:04.780 --> 29:08.020]  Every time you use the internet, big tech companies mine your data
+[29:08.020 --> 29:11.100]  by tracking your searches, your messages, your video history.
+[29:11.440 --> 29:14.620]  They find out about all the stuff you don't necessarily want them to know about.
+[29:14.920 --> 29:16.080]  You know what I'm talking about.
+[29:16.380 --> 29:17.260]  Spoons and thimbles.
+[29:17.720 --> 29:19.220]  Spoons and thimbles.
+[29:19.680 --> 29:23.000]  But when you run ExpressVPN on your device, it hides your IP address,
+[29:23.420 --> 29:25.700]  which websites can use to personally identify you.
+[29:25.920 --> 29:29.300]  That makes your activity more difficult to trace and sell to advertisers.
+[29:29.660 --> 29:32.220]  You still need to be careful with what you share on social media.
+[29:32.220 --> 29:35.640]  But with ExpressVPN, you can make web browsing more anonymous.
+[29:36.220 --> 29:40.780]  It also encrypts 100% of your internet data to keep you safe from hackers and prying eyes.
+[29:41.060 --> 29:43.220]  You know, the collectible spoon cabal.
+[29:43.400 --> 29:44.840]  We've talked about it in the past.
+[29:45.040 --> 29:48.940]  So hey, if you don't like the idea of tech companies or anybody for that matter,
+[29:49.080 --> 29:50.660]  exploiting your personal information,
+[29:51.120 --> 29:55.080]  then please visit expressvpn.com slash face right now
+[29:55.080 --> 29:58.100]  and you can get three extra months of ExpressVPN for free.
+[29:58.480 --> 30:02.060]  That's E-X-P-R-E-S-S-V-P-N
+[30:02.220 --> 30:05.920]  dot com slash face to protect your data.
+[30:06.160 --> 30:08.240]  By the way, did you see how well I spelled that?
+[30:08.500 --> 30:10.060]  First try. Nailed it.
+[30:10.300 --> 30:13.880]  Go to expressvpn.com slash face to learn more.
+[30:14.560 --> 30:19.820]  Support for Face comes from Manscaped, who's the best in men's below the belt grooming.
+[30:20.360 --> 30:24.580]  Manscaped offers precision engineered tools to help your family jewels.
+[30:24.840 --> 30:27.560]  Hey, fellas, listen up. It's getting close to Christmas.
+[30:27.900 --> 30:30.620]  It's time to pin those jingle balls to the walls.
+[30:30.620 --> 30:33.440]  Untrimmed pubes can be a thing of the past.
+[30:33.780 --> 30:37.380]  It's time to gear up and get yourself the gift of shaving this holiday season.
+[30:38.500 --> 30:38.980]  Smooth.
+[30:39.800 --> 30:42.720]  I'm talking about Manscaped, the perfect package 3.0.
+[30:42.960 --> 30:46.600]  I don't know if you have ever cut your balls while shaving.
+[30:46.840 --> 30:49.480]  I've done it with an electric razor. I've done it with a straight razor.
+[30:50.080 --> 30:51.840]  I'd like to do neither again.
+[30:51.920 --> 30:54.600]  And I would, even though I don't personally know you,
+[30:54.860 --> 30:58.440]  I would like for you to have the same comfort in your lives.
+[30:58.440 --> 31:03.000]  I don't want to see you nicking your balls, or your shaft,
+[31:03.540 --> 31:07.720]  or any of your important regions that you might want to shave.
+[31:07.920 --> 31:12.280]  That's why I'm recommending you take a look at the revolutionary company Manscaped,
+[31:12.560 --> 31:14.360]  because they've redesigned the electric trimmer.
+[31:14.660 --> 31:19.040]  Their Lawn Mower 3.0 has proprietary advanced skin safe technology.
+[31:19.340 --> 31:21.420]  The skin is the part we're trying to keep safe.
+[31:21.740 --> 31:24.180]  So it's like context clues. They put it in the title.
+[31:24.360 --> 31:26.720]  Keep your skin safe with this trimmer.
+[31:26.720 --> 31:31.020]  You don't want to put a cut on your nut, or anywhere that's important to you for that matter.
+[31:31.400 --> 31:33.540]  It's also waterproof, so you can use it in the shower,
+[31:33.920 --> 31:36.660]  or drop it in the shower, and pick it back up and continue to use it.
+[31:36.920 --> 31:40.760]  The Lawn Mower 3.0 comes inside the brand new Perfect Package 3.0.
+[31:40.980 --> 31:43.280]  I think I said that earlier, the Perfect Package 3.0,
+[31:43.400 --> 31:45.160]  but I didn't tell you what it was, so here we go.
+[31:45.240 --> 31:47.180]  It makes it a perfect holiday gift this season.
+[31:47.280 --> 31:52.600]  It's literally everything you need to keep trimmed, cut free, and smelling nice down there.
+[31:52.720 --> 31:55.480]  Because I'll be honest, I'm the kind of guy who takes two showers a day.
+[31:55.480 --> 31:56.780]  We've talked about that.
+[31:57.100 --> 32:01.540]  And even after two showers, sometimes if I go for a bike ride, or for a long walk,
+[32:01.560 --> 32:03.780]  I'm not running, that's for sure. I would never do that.
+[32:03.980 --> 32:05.540]  But you know, maybe I cut the grass.
+[32:05.940 --> 32:08.040]  You know, two showers a day might not be enough.
+[32:08.280 --> 32:10.460]  That's why you might want to do a little something extra.
+[32:10.860 --> 32:12.880]  Like get the Perfect Package 3.0.
+[32:13.100 --> 32:17.060]  And for God's sake, don't use the same trimmer on your face as you're using on your balls.
+[32:17.420 --> 32:22.220]  Two entirely different regions, entirely different sensitivity levels.
+[32:22.980 --> 32:24.420]  Plus, it's just nasty.
+[32:24.420 --> 32:26.580]  It's like rubbing your sweaty balls on your face.
+[32:26.840 --> 32:27.860]  Which maybe that's your thing.
+[32:28.040 --> 32:28.880]  I'm not judging.
+[32:29.120 --> 32:32.040]  I'm just saying, uh, you're getting ready for a job interview.
+[32:32.340 --> 32:34.680]  You probably don't want a face smelling like sweaty balls.
+[32:35.060 --> 32:39.000]  Get 20% off and free shipping at manscaped.com slash face.
+[32:39.100 --> 32:44.080]  That's 20% off with free shipping at manscaped.com slash face.
+[32:44.460 --> 32:46.900]  Clean up your nuts and make Santa proud this year.
+[32:49.340 --> 32:51.080]  How... I'm worried about your ankle.
+[32:51.140 --> 32:52.400]  You say you always roll your ankle.
+[32:52.400 --> 32:56.260]  You've been to Austin to see us several times.
+[32:56.400 --> 32:56.820]  Yeah.
+[32:56.920 --> 32:58.440]  And you've done fine.
+[32:58.780 --> 32:59.520]  Walking around.
+[32:59.820 --> 33:02.140]  No, no, no, no, I haven't.
+[33:02.220 --> 33:03.460]  In fact, has not.
+[33:03.800 --> 33:05.240]  Oh, did you roll an ankle at Austin?
+[33:05.520 --> 33:07.540]  Yeah, oh yeah, I've rolled several ankles.
+[33:07.900 --> 33:12.520]  I feel like the last time you were in Austin, I don't even know if I saw you.
+[33:12.840 --> 33:15.260]  You spent like 48 hours in a bathtub or something.
+[33:15.700 --> 33:16.680]  I don't remember that.
+[33:17.700 --> 33:19.780]  But I will say there was one time...
+[33:19.780 --> 33:21.920]  One time I went to...
+[33:21.920 --> 33:23.400]  It wasn't the last time I went.
+[33:23.460 --> 33:25.480]  It was one of the first times I went to Austin.
+[33:25.820 --> 33:28.000]  I went to your house, Geoff, said goodbye.
+[33:28.280 --> 33:28.600]  It was great.
+[33:28.620 --> 33:29.520]  It was at night.
+[33:29.960 --> 33:30.680]  Great night.
+[33:31.160 --> 33:33.620]  Gave you a hug, gave Millie a hug, said goodbye.
+[33:33.720 --> 33:34.480]  Everything was great.
+[33:34.740 --> 33:37.320]  I wasn't familiar with your street and the curb.
+[33:37.660 --> 33:40.840]  And your curb was like four feet off the ground.
+[33:41.300 --> 33:42.800]  I immediately rolled it.
+[33:43.680 --> 33:44.100]  Badly.
+[33:44.300 --> 33:45.300]  It was a bad roll.
+[33:45.620 --> 33:49.040]  And so then I get in the Uber and I'm leaving the next day and I can't walk.
+[33:49.780 --> 33:54.020]  And I nearly fainted in the airport because I hadn't eaten anything.
+[33:54.160 --> 33:56.060]  And I started losing my vision.
+[33:56.340 --> 34:00.220]  And my bag was like 20 pounds because I only pack one bag when I travel.
+[34:00.360 --> 34:02.260]  And it's like genuinely 20 pounds.
+[34:02.400 --> 34:03.440]  And I'm stumbling.
+[34:03.760 --> 34:05.000]  I'm just dragging my foot.
+[34:05.080 --> 34:09.880]  And I bought three slices of pizza and a Gatorade while my vision was going out.
+[34:10.060 --> 34:10.880]  Like, I couldn't see.
+[34:10.980 --> 34:13.040]  I was on my way to blackout, just hobbling.
+[34:13.420 --> 34:14.420]  And I'm all good.
+[34:14.480 --> 34:15.300]  Like, I got the pizza.
+[34:15.460 --> 34:15.980]  I had the Gatorade.
+[34:16.020 --> 34:16.820]  Everything is fine.
+[34:16.820 --> 34:20.840]  But yeah, say I've never had an ankle injury in Austin is a lot.
+[34:21.060 --> 34:24.600]  Didn't you get so sick you couldn't leave your bed or the bathtub or something?
+[34:24.720 --> 34:27.420]  You were like, you landed in Austin deathly ill.
+[34:27.540 --> 34:28.300]  I remember this.
+[34:28.420 --> 34:28.800]  I know.
+[34:28.980 --> 34:29.900]  I half the time.
+[34:30.300 --> 34:30.980]  Well, the day.
+[34:31.760 --> 34:32.240]  Okay.
+[34:32.980 --> 34:34.060]  I'm gonna throw up.
+[34:35.240 --> 34:36.480]  Twice in two days.
+[34:37.560 --> 34:39.840]  Gavin, you're blowing through your quota.
+[34:40.000 --> 34:40.620]  Slow down.
+[34:40.760 --> 34:41.840]  That's my yearly allowance.
+[34:42.080 --> 34:43.000]  Oh, I'm crying.
+[34:43.020 --> 34:44.680]  I've had no pukes left for 12 months.
+[34:44.680 --> 34:47.140]  I'm freaking just tearing up.
+[34:47.660 --> 34:53.420]  So the time I vomited Big Red was it was after I get sick.
+[34:53.520 --> 34:55.300]  70% of the time I go to Austin.
+[34:55.620 --> 34:56.580]  I just have terrible luck.
+[34:56.920 --> 34:57.780]  It must be the water.
+[34:58.540 --> 35:00.080]  Yeah, it's clearly the water.
+[35:00.660 --> 35:02.240]  I always get a cold.
+[35:02.480 --> 35:03.140]  I got everybody.
+[35:03.260 --> 35:03.800]  It was bad.
+[35:03.840 --> 35:04.500]  I always get sick.
+[35:04.580 --> 35:05.260]  It's never good.
+[35:05.580 --> 35:10.080]  But the day I vomited Big Red, I was super sick and I didn't know it yet.
+[35:10.220 --> 35:14.000]  And I was staying with people and we made an agreement that I would pay
+[35:14.000 --> 35:16.780]  for the Uber to the convention center.
+[35:17.160 --> 35:18.260]  They would pay for it back.
+[35:18.540 --> 35:22.360]  They had never used one of these apps before, and they could not figure out
+[35:22.360 --> 35:24.540]  how to call a car that wasn't eight blocks away.
+[35:24.920 --> 35:28.500]  They called a car genuinely eight blocks away from the convention center.
+[35:28.660 --> 35:29.600]  So we're walking.
+[35:30.000 --> 35:30.980]  I've been out all day.
+[35:31.040 --> 35:31.580]  It's hot.
+[35:31.940 --> 35:32.900]  I'm exhausted.
+[35:33.440 --> 35:34.760]  And it's just a nightmare.
+[35:35.060 --> 35:39.060]  I had a whole thing with a homeless guy that I don't know if I should get into at this time.
+[35:39.120 --> 35:40.120]  That was the whole story.
+[35:40.580 --> 35:42.060]  It was like a Jerry Maguire moment.
+[35:42.180 --> 35:43.180]  He was yelling at me.
+[35:43.180 --> 35:44.620]  It was a weird friendship.
+[35:45.060 --> 35:46.320]  He invited me to an orgy.
+[35:46.480 --> 35:47.640]  It was a strange thing.
+[35:48.220 --> 35:51.580]  But then we eventually get to the car and I thought I had heat sickness.
+[35:52.180 --> 35:55.000]  Andrew, I don't know why I don't already know that story,
+[35:55.100 --> 35:57.360]  but we are going to have to get into it at some point.
+[35:57.580 --> 35:57.860]  Okay.
+[35:58.760 --> 36:00.260]  I mean, we could get into it now.
+[36:00.440 --> 36:01.500]  No, no, let's continue.
+[36:01.700 --> 36:02.040]  Continue.
+[36:02.180 --> 36:03.440]  Just I'm going to put a pin in that one.
+[36:03.760 --> 36:04.180]  Anyway, okay.
+[36:04.220 --> 36:05.220]  So we walk like eight.
+[36:05.520 --> 36:06.680]  My friend was useless, too.
+[36:06.820 --> 36:07.980]  Like he was with me the whole time.
+[36:08.020 --> 36:09.040]  Didn't say a single thing.
+[36:09.080 --> 36:09.920]  Didn't help me at all.
+[36:10.020 --> 36:11.680]  While I'm getting invited to this homeless orgy.
+[36:11.680 --> 36:15.440]  I may have sent it to a hotel that I didn't stay at because I didn't know what to do.
+[36:15.620 --> 36:16.620]  It was very, it was intense.
+[36:17.000 --> 36:17.620]  It's a weird story.
+[36:17.900 --> 36:20.440]  Anyway, the point is I've been sick in Austin a lot.
+[36:20.500 --> 36:21.280]  I guess I vomited.
+[36:21.420 --> 36:23.800]  I thought I had heat stroke because I was walking eight blocks.
+[36:23.900 --> 36:25.320]  But it was just I was super sick.
+[36:25.640 --> 36:29.280]  Well, to be fair, Austin in July is about 312 degrees.
+[36:29.860 --> 36:31.940]  So it would be easy to get heat stroke.
+[36:31.980 --> 36:35.220]  I feel like the only times I've ever seen you in real life is in Austin.
+[36:35.360 --> 36:38.980]  And I feel like you were just holding in the pain the entire time
+[36:38.980 --> 36:40.500]  because you've always seemed fine.
+[36:40.500 --> 36:44.200]  But you've probably rolled your ankle three times that day and thrown up.
+[36:44.320 --> 36:45.300]  There was a time...
+[36:45.300 --> 36:47.060]  I didn't try to burn a bottle, I fell down.
+[36:47.620 --> 36:52.840]  Gavin, you have a role in a story that you don't know, I think.
+[36:53.080 --> 36:54.460]  Oh, did I hurt you somehow?
+[36:54.920 --> 36:56.420]  No, you did not hurt me.
+[36:56.700 --> 36:58.140]  But I was in a spot.
+[36:58.360 --> 36:59.400]  I was in a rough spot.
+[36:59.580 --> 37:03.020]  It was a Fourth of July party at your house, Geoff.
+[37:03.160 --> 37:03.920]  I remember this.
+[37:03.920 --> 37:04.380]  It was hot.
+[37:04.600 --> 37:06.560]  We handled this, though. We took care of this.
+[37:06.740 --> 37:07.840]  We did. We were fine.
+[37:07.840 --> 37:09.540]  But it was hot.
+[37:09.640 --> 37:11.280]  And I'm talking to people I don't know.
+[37:11.740 --> 37:13.480]  And all the good seats are taken.
+[37:14.120 --> 37:15.560]  And I'm just like, I just want to sit down.
+[37:15.620 --> 37:17.400]  But everyone's outside. It'd be weird to be inside.
+[37:18.160 --> 37:22.180]  And then Geoff had these really plasticky old chairs.
+[37:22.560 --> 37:23.820]  Oh, those things were shite.
+[37:24.040 --> 37:25.320]  They were rickety old things.
+[37:25.540 --> 37:28.000]  They were rickety old plastic chairs.
+[37:29.060 --> 37:30.920]  And I think someone was using one.
+[37:30.980 --> 37:31.700]  And they just got up.
+[37:31.760 --> 37:32.420]  And I was like, oh, great.
+[37:32.440 --> 37:33.360]  I'm going to go sit down.
+[37:33.660 --> 37:34.120]  I'm tired.
+[37:34.280 --> 37:35.420]  It's post-RTX.
+[37:35.740 --> 37:36.500]  Just exhausted.
+[37:37.040 --> 37:39.480]  And I miscalculated how low the chair was.
+[37:39.620 --> 37:41.240]  So I kind of fell into it.
+[37:41.300 --> 37:43.920]  And as soon as I fell into it, I heard a crack.
+[37:44.260 --> 37:45.060]  The chair cracked.
+[37:45.380 --> 37:47.140]  And everybody is outside.
+[37:47.740 --> 37:50.580]  And it's like in a movie when somebody steps on a landmine.
+[37:50.740 --> 37:51.660]  And then they can't move.
+[37:51.820 --> 37:52.700]  That's how I felt.
+[37:52.880 --> 37:56.200]  I'm in this chair that could shatter at any moment.
+[37:56.300 --> 37:58.020]  It would be incredibly embarrassing.
+[37:58.320 --> 38:00.740]  But I just have to sit and not move.
+[38:01.040 --> 38:01.720]  And that's all I did.
+[38:01.760 --> 38:02.400]  I sat there.
+[38:02.440 --> 38:03.020]  I didn't move.
+[38:03.200 --> 38:04.300]  People would come in and out.
+[38:04.500 --> 38:06.020]  I'd just look around a little bit.
+[38:06.020 --> 38:09.420]  You, Dan, and Meg were at the part.
+[38:09.480 --> 38:10.120]  You came over.
+[38:10.240 --> 38:10.960]  You said hi.
+[38:11.280 --> 38:13.220]  And I didn't get up out of the chair because I couldn't.
+[38:13.280 --> 38:15.460]  And I felt weird to not stand up and be like, hey.
+[38:15.820 --> 38:17.100]  And so we had a little talk.
+[38:17.120 --> 38:20.760]  And you had no concept of the fear that was going through my mind.
+[38:21.540 --> 38:24.700]  You were stood on a frozen lake right in the middle.
+[38:24.920 --> 38:25.700]  But it was all cracked.
+[38:26.140 --> 38:28.900]  Yeah, I was on a pane of glass that was slowly shattering.
+[38:29.240 --> 38:30.360]  And there was no help.
+[38:30.600 --> 38:31.920]  The worst part was...
+[38:31.920 --> 38:33.620]  So I sat in that chair for like an hour.
+[38:34.140 --> 38:34.940]  And then...
+[38:37.920 --> 38:42.860]  Enough time had passed in the chair that you and everybody you were with had done talking.
+[38:43.000 --> 38:44.000]  You finished your evening.
+[38:44.140 --> 38:45.220]  You're done talking with everyone.
+[38:45.340 --> 38:46.480]  And you decided to go home.
+[38:46.860 --> 38:48.260]  And you walked over to say goodbye.
+[38:48.640 --> 38:50.420]  And Meg put her hand on my shoulder.
+[38:50.580 --> 38:52.320]  And it was the scariest moment of my life.
+[38:52.500 --> 38:54.260]  It was an additional...
+[38:54.260 --> 38:55.440]  There was extra weight.
+[38:55.820 --> 38:56.660]  And it was like a nice...
+[38:56.660 --> 38:58.140]  It was like, hey, it was nice seeing you.
+[38:58.280 --> 39:00.260]  But in my head, it was like, this is gonna shatter.
+[39:00.500 --> 39:01.100]  I'm done.
+[39:01.380 --> 39:01.940]  You're gonna know.
+[39:02.400 --> 39:04.740]  And so I stayed there until the evening.
+[39:05.100 --> 39:06.520]  And everybody had left.
+[39:06.580 --> 39:08.780]  And it was just Geoff and I at that point.
+[39:08.860 --> 39:10.200]  You had to just wait everyone out.
+[39:10.460 --> 39:12.340]  He sat there for like six hours.
+[39:12.760 --> 39:15.060]  Gavin, this is the year that we had the pool.
+[39:15.240 --> 39:16.280]  And Linda was there.
+[39:16.400 --> 39:16.940]  And the whole thing.
+[39:17.140 --> 39:18.800]  Yeah, that was a really fun day.
+[39:18.960 --> 39:21.920]  We were in that backyard for 10 hours, probably.
+[39:22.320 --> 39:26.060]  It was like two in the afternoon until the sun went down.
+[39:26.240 --> 39:29.000]  Yeah, which is like 4 a.m. in Texas in the summer.
+[39:30.240 --> 39:31.940]  So it's just Geoff and I at that point.
+[39:32.020 --> 39:32.620]  We have a talk.
+[39:32.720 --> 39:33.520]  We're talking for a bit.
+[39:33.580 --> 39:35.160]  And he's like, well, you know, everyone's inside.
+[39:35.220 --> 39:36.340]  I guess we should probably go.
+[39:36.680 --> 39:38.020]  I was like, I gotta tell you something.
+[39:40.280 --> 39:41.420]  I'm in a spot here.
+[39:42.500 --> 39:44.260]  And I explained what had happened.
+[39:44.640 --> 39:46.300]  He's like, well, you know, we'll just we'll figure it out.
+[39:46.340 --> 39:46.560]  We'll see.
+[39:46.620 --> 39:47.460]  Let's see what happens.
+[39:47.760 --> 39:50.260]  I move like an inch and the chair shatters.
+[39:50.400 --> 39:51.280]  It just falls.
+[39:51.840 --> 39:52.480]  Fall over.
+[39:53.120 --> 39:53.960]  It was perfect.
+[39:54.080 --> 39:54.600]  I was right.
+[39:54.680 --> 39:57.720]  It actually was a nice justification that I truly was trapped.
+[39:58.280 --> 40:02.880]  And I never told a soul from that moment until now.
+[40:03.160 --> 40:03.920]  No, I didn't.
+[40:04.020 --> 40:05.000]  I wouldn't care if you did.
+[40:05.120 --> 40:05.820]  It's a great story.
+[40:06.320 --> 40:08.320]  Yeah, but it was your story to tell.
+[40:08.840 --> 40:11.000]  Oh, oh, my God.
+[40:11.440 --> 40:14.300]  And it's a shame, too, because we were having such a good time.
+[40:15.000 --> 40:18.300]  And I assume I thought you weren't having a good time.
+[40:18.400 --> 40:23.860]  Because I was probably like, he doesn't really want to talk to me.
+[40:23.920 --> 40:25.480]  He just doesn't want to stand up.
+[40:25.480 --> 40:27.580]  He was just like sitting, smiling at people.
+[40:30.600 --> 40:31.820]  What else did he do?
+[40:31.840 --> 40:32.420]  Head nods.
+[40:32.480 --> 40:33.780]  He was like, hey, what's up?
+[40:33.900 --> 40:35.800]  He did that about 7,000 times.
+[40:35.940 --> 40:38.420]  Lots of one word replies and then looking away.
+[40:43.020 --> 40:43.680]  It was a good party.
+[40:44.180 --> 40:45.120]  It was a good party.
+[40:45.500 --> 40:46.160]  It was a good party.
+[40:48.060 --> 40:48.860]  Good times.
+[40:49.120 --> 40:50.200]  That hurts so bad.
+[40:51.160 --> 40:53.640]  I'm not a good party guest, generally speaking, anyway.
+[40:53.680 --> 40:55.400]  But that was a whole other level of fear.
+[40:55.480 --> 40:57.120]  That nobody else was aware of.
+[40:57.200 --> 41:00.460]  According to my telephone, that was July 2016.
+[41:01.060 --> 41:01.540]  Oh, wow.
+[41:01.960 --> 41:02.580]  Does that sound about right?
+[41:02.840 --> 41:03.140]  Sure.
+[41:03.580 --> 41:05.060]  Oh, oh, man.
+[41:05.460 --> 41:06.220]  Where does the time go?
+[41:06.460 --> 41:08.100]  Oh, shit, Andrew, damn.
+[41:08.100 --> 41:08.820]  What are we talking about?
+[41:09.100 --> 41:13.780]  So from your point of view, though, as you said, you're not like the biggest party guy.
+[41:14.160 --> 41:14.680]  No, not at all.
+[41:14.680 --> 41:16.580]  And stuff just happens to you constantly.
+[41:16.780 --> 41:19.620]  Was that like a normal overall experience for you?
+[41:19.660 --> 41:22.120]  Or was that like one of the biggest nightmares of your life?
+[41:22.480 --> 41:23.180]  No, it wasn't.
+[41:23.180 --> 41:27.860]  Honestly, I think that was maybe the first like adult party I had gone to.
+[41:28.120 --> 41:28.980]  So it was fun.
+[41:29.260 --> 41:29.840]  I had a good time.
+[41:30.460 --> 41:32.680]  I didn't have a lot to measure against.
+[41:32.960 --> 41:34.280]  And I didn't mind the chair was fine.
+[41:34.480 --> 41:35.620]  It was constant fear.
+[41:35.820 --> 41:38.520]  But it was also an understanding of that.
+[41:38.620 --> 41:39.980]  This is going to be a great story one day.
+[41:40.120 --> 41:45.120]  I'm imagining in my head, you know, how like a party, if you if someone's got a camera
+[41:45.120 --> 41:48.140]  and they set up a time-lapse and you see there's all the things of everyone.
+[41:48.300 --> 41:51.060]  And they're like in this room, they're in that room and the sun's going down.
+[41:51.060 --> 41:53.220]  But you're just in the chair all night.
+[41:55.580 --> 41:57.740]  No, I don't think I even had a drink.
+[41:57.880 --> 41:58.500]  It was.
+[41:59.180 --> 42:00.800]  Yeah, I would have got you one.
+[42:01.160 --> 42:02.900]  Well, I couldn't just say, hey, can you get that?
+[42:02.960 --> 42:03.360]  Be weird.
+[42:03.480 --> 42:04.560]  That'd be a weird thing to say.
+[42:04.640 --> 42:07.100]  I couldn't in any way that I'm already up.
+[42:08.000 --> 42:08.340]  You're all.
+[42:08.500 --> 42:10.280]  Everyone was essentially already up.
+[42:10.640 --> 42:14.240]  There is no like five people down at like a bench.
+[42:14.340 --> 42:16.440]  You're a fire and everyone else.
+[42:17.220 --> 42:17.900]  Everyone else is up.
+[42:18.760 --> 42:19.280]  Oh, God.
+[42:19.340 --> 42:20.640]  I will say this.
+[42:20.640 --> 42:25.820]  One nice thing about skipping the recording last week, which I guess I'm ruining right now,
+[42:25.820 --> 42:30.000]  is I was not looking forward to one of the last things we talked about.
+[42:30.380 --> 42:33.060]  The previous episode was that I had to go sell your car, Gavin.
+[42:33.440 --> 42:34.940]  I was going to trade it in for a new car.
+[42:35.320 --> 42:35.840]  How'd it go?
+[42:36.360 --> 42:39.400]  Well, I was afraid you guys were going to ask me how the new car was.
+[42:39.500 --> 42:41.920]  And it was at that moment in the shop getting fixed.
+[42:44.180 --> 42:46.720]  Exactly one week later, it was back in the shop.
+[42:47.260 --> 42:49.100]  Did you buy someone's broken car?
+[42:49.100 --> 42:51.100]  No, I bought a 2019.
+[42:51.780 --> 42:55.120]  It just needed to have like the clear coat.
+[42:55.360 --> 42:58.780]  I bought this like special clear coat for the for the outside and the
+[42:59.420 --> 43:01.400]  inside to help it be more protected.
+[43:02.100 --> 43:04.900]  And then then I had to get the brakes worked on.
+[43:05.000 --> 43:05.720]  They were a little squeaky.
+[43:06.140 --> 43:07.760]  But the timing was just impeccable.
+[43:07.820 --> 43:08.560]  It was like that morning.
+[43:08.620 --> 43:15.460]  I was like, oh, the as a matter of fact, in similar funny fashion, I drove it this morning.
+[43:15.460 --> 43:20.080]  And when I got into it, it gave me an alert that the brakes need to be checked again.
+[43:23.860 --> 43:26.100]  I feel like you may have bought me another money pit.
+[43:27.640 --> 43:30.720]  Well, this time I bought you a money pit with a five year
+[43:31.360 --> 43:32.860]  everything warranty that I paid a lot of.
+[43:32.880 --> 43:35.580]  I paid about what it cost me to fix the old money pit this summer.
+[43:36.660 --> 43:38.700]  I got a great trade in on that money pit, though.
+[43:39.700 --> 43:40.420]  And nice.
+[43:40.900 --> 43:41.640]  You're going to love you.
+[43:41.680 --> 43:42.600]  You're going to love your new car.
+[43:42.700 --> 43:43.260]  It's beautiful.
+[43:43.700 --> 43:45.040]  I'm excited to eventually see it.
+[43:45.040 --> 43:48.300]  I'm excited to get to drive it once it's not in the shop.
+[43:48.460 --> 43:49.760]  I'm excited to walk.
+[43:52.580 --> 43:55.760]  So what are you going to do long term about your ankles?
+[43:55.960 --> 43:57.420]  Because you're in the prime of life.
+[43:57.700 --> 44:03.680]  Like your life and the youthfulness of your body won't ever get any better than it is now.
+[44:03.780 --> 44:05.020]  Now, yeah, it's downhill from here.
+[44:05.460 --> 44:05.860]  Absolutely.
+[44:06.440 --> 44:07.000]  I've had this.
+[44:07.140 --> 44:09.500]  This is like maybe the 12th time I've had this injury.
+[44:09.720 --> 44:10.600]  This isn't the worst one.
+[44:10.720 --> 44:11.220]  So I'll be fine.
+[44:11.600 --> 44:12.440]  It just takes a little time.
+[44:12.440 --> 44:16.420]  When I worked at an electrical warehouse, I had this for a little over a month
+[44:16.420 --> 44:18.560]  because I could never get enough time to heal it.
+[44:19.020 --> 44:20.220]  I didn't want to take time off work.
+[44:20.500 --> 44:22.760]  So just for a month and a half, I was limping everywhere.
+[44:22.900 --> 44:23.800]  I was sitting on carps.
+[44:24.100 --> 44:24.980]  It was terrible.
+[44:25.500 --> 44:27.960]  Is it possible?
+[44:28.980 --> 44:30.120]  And I'm just throwing this out there.
+[44:30.240 --> 44:30.520]  Go ahead.
+[44:31.500 --> 44:35.880]  Once you're feeling better, like maybe three weeks to a month down the road,
+[44:36.580 --> 44:38.080]  everything's A-OK with your ankle.
+[44:38.160 --> 44:38.980]  You're feeling great.
+[44:39.510 --> 44:44.880]  You go to a physical therapist and start doing something to strengthen it
+[44:44.880 --> 44:45.900]  so it doesn't happen again?
+[44:46.320 --> 44:49.560]  Yeah, I mean, that would be the smart thing to do.
+[44:50.060 --> 44:52.240]  I should at least learn how to wrap my ankle.
+[44:52.320 --> 44:53.160]  I don't know how to do that.
+[44:53.380 --> 44:56.920]  And I say this as a guy who did four months of physical therapy on his shoulder
+[44:56.920 --> 44:58.480]  for the end result to be,
+[44:59.380 --> 45:01.680]  yeah, your shoulder's just going to suck for the rest of your life
+[45:01.680 --> 45:02.980]  because you're old and have arthritis.
+[45:03.480 --> 45:06.120]  So I'm not saying that the solution is a solution,
+[45:06.280 --> 45:07.760]  but it's maybe worth exploring.
+[45:07.880 --> 45:08.580]  Yeah, absolutely.
+[45:08.580 --> 45:10.920]  I think it's a good thing to attempt to explore.
+[45:11.720 --> 45:18.960]  That was the bottom of the warehouse was like a month and a half of limping everywhere
+[45:19.540 --> 45:21.380]  and just it being being terrible.
+[45:21.620 --> 45:22.440]  I cried.
+[45:23.060 --> 45:26.680]  There was a guy who worked there who was like a retired hockey player
+[45:26.680 --> 45:29.340]  who was like really tough, like guy's guy, not emotional in any way.
+[45:29.600 --> 45:35.460]  And I cried with my shitty, ugly foot on his lap as he rolled my ankle.
+[45:35.460 --> 45:42.260]  It was it was a great, great low, but it's fine.
+[45:42.400 --> 45:42.940]  It'll be good.
+[45:43.580 --> 45:47.920]  I eventually that healed and it takes a little more than a week,
+[45:48.060 --> 45:48.800]  but then I'm good to go.
+[45:48.980 --> 45:50.020]  I have a dilemma, though.
+[45:50.280 --> 45:52.020]  I have a few things to still talk about this.
+[45:52.300 --> 45:53.500]  I broke my phone.
+[45:54.260 --> 45:55.340]  I shattered my phone.
+[45:55.620 --> 45:56.400]  It's not shattered.
+[45:56.640 --> 45:57.680]  I put a hole in it.
+[45:58.000 --> 45:58.980]  The glass is cracked.
+[45:59.440 --> 46:02.620]  It's OK, though, but it might be the dumbest phone break.
+[46:03.240 --> 46:04.240]  Certainly, I've ever had.
+[46:04.240 --> 46:06.100]  What does that mean for all the bits inside?
+[46:06.400 --> 46:07.640]  The bits are still fine.
+[46:07.760 --> 46:08.860]  They're safely secure.
+[46:09.980 --> 46:12.480]  But it was such an effort to, like, get up.
+[46:12.580 --> 46:15.280]  My bathroom is only maybe eight feet from my bed.
+[46:15.400 --> 46:19.600]  And it was this whole process every time for the first few days after the dog disaster.
+[46:19.820 --> 46:20.960]  It was a real struggle.
+[46:21.480 --> 46:23.660]  And it sometimes would be hard to even leave.
+[46:23.780 --> 46:25.680]  So I'd always want to bring my phone with me.
+[46:25.680 --> 46:28.480]  So I'd have something to communicate with or just even entertain myself.
+[46:28.940 --> 46:30.580]  So every time I'd go to the bathroom,
+[46:30.580 --> 46:33.320]  I needed both hands to pull myself there.
+[46:33.500 --> 46:37.320]  So I put the phone in my teeth, kind of like that.
+[46:37.440 --> 46:40.600]  That was the move I was doing for transporting the phone.
+[46:41.020 --> 46:43.280]  And I heard a crack one day.
+[46:43.720 --> 46:44.740]  I didn't think much of it.
+[46:45.040 --> 46:45.900]  I bit too hard.
+[46:46.020 --> 46:47.060]  I bit a hole into my phone.
+[46:47.440 --> 46:51.240]  The glass has a little tooth hole at the top of it.
+[46:51.640 --> 46:57.200]  I was expecting it to slip out of your mouth.
+[46:57.560 --> 46:57.920]  No.
+[46:59.880 --> 47:01.360]  No, it was not.
+[47:01.380 --> 47:02.640]  I was not going to let that thing fall.
+[47:02.640 --> 47:04.140]  I got a good bite on it.
+[47:04.240 --> 47:04.520]  Gavin.
+[47:04.640 --> 47:10.000]  Imagine you biting a hole through your phone, stepping over waffle makers, dog toasters.
+[47:10.640 --> 47:12.020]  Dodging flying hot dogs.
+[47:12.880 --> 47:17.080]  You have everything in your capacity to make your life totally normal.
+[47:17.120 --> 47:20.160]  And you refuse at every junction, at every opportunity.
+[47:20.600 --> 47:21.600]  You make your life weird.
+[47:21.880 --> 47:23.140]  No, no, no, no, no, no, no, no.
+[47:23.140 --> 47:32.480]  Gavin, if I gave you an hour and $1,000 if you could bite a hole into your phone with your own mouth,
+[47:32.860 --> 47:35.840]  do you think you could- do you think you have it in you to do that?
+[47:36.820 --> 47:39.760]  I don't think I could bring myself to give it enough beans.
+[47:39.900 --> 47:41.340]  I'd be so worried about cutting myself.
+[47:41.580 --> 47:41.900]  I mean-
+[47:41.900 --> 47:45.500]  Or, yeah, there's no way in hell I could chew into a phone.
+[47:45.700 --> 47:46.940]  Yeah, it's glass and metal.
+[47:47.020 --> 47:48.160]  I think I'd break a tooth.
+[47:48.460 --> 47:49.800]  Oh, your tooth would be gone.
+[47:50.180 --> 47:51.400]  How did you-
+[47:51.400 --> 47:54.500]  Do you have like, do you have like Moonraker Jaws teeth?
+[47:55.040 --> 47:58.780]  I mean, to be fair, it's near where there already was a crack,
+[47:58.900 --> 48:01.140]  but there used to only be one hole and now there's two holes.
+[48:01.380 --> 48:02.740]  Wasn't that Spy Who Loved Me Jaws?
+[48:03.240 --> 48:04.360]  Oh, was that Spy Who Loved Me Jaws?
+[48:04.420 --> 48:04.820]  Yeah, sorry.
+[48:05.380 --> 48:07.180]  And by the way, Gavin, we haven't talked.
+[48:07.260 --> 48:07.860]  My condolences.
+[48:08.560 --> 48:09.520]  Oh, Sean Connery?
+[48:09.740 --> 48:11.440]  Yeah, I know you got to be pretty sad about that.
+[48:11.840 --> 48:12.460]  Yeah, that was sad.
+[48:12.820 --> 48:15.940]  If it makes you feel any better, Andrew and I had a- we suffered a loss together
+[48:15.940 --> 48:17.960]  that we have been debating on whether we talk about.
+[48:17.960 --> 48:22.180]  But but first, you were going to say something more about you're chewing through your phone.
+[48:22.560 --> 48:25.700]  Like, I mean, I put a hole in it and it's not that hard to do.
+[48:25.800 --> 48:30.020]  So be careful if if someone listening tries that mode of transportation,
+[48:30.020 --> 48:34.040]  which I'm sure isn't going to happen, but just throwing it out there.
+[48:34.100 --> 48:36.160]  Was it your top teeth or your bottom?
+[48:36.380 --> 48:37.420]  Top teeth. Top teeth.
+[48:37.540 --> 48:38.180]  Top teeth. Okay.
+[48:38.360 --> 48:39.040]  Yeah. Yeah.
+[48:39.400 --> 48:40.680]  I think the pointy one.
+[48:40.960 --> 48:42.440]  Why were you biting so hard?
+[48:42.680 --> 48:44.400]  Because I didn't want it to fall out of my mouth.
+[48:44.640 --> 48:45.700]  And shatter.
+[48:45.700 --> 48:49.060]  Every every single inch, Gavin, I'm going.
+[48:51.620 --> 48:55.220]  So it's like a bit of leather when someone's getting their legs torn off.
+[48:55.500 --> 48:59.120]  Yeah, I didn't I didn't want like that sort of also was a perk of it.
+[48:59.180 --> 49:00.160]  But yeah, it was constant.
+[49:00.520 --> 49:04.620]  I had to move my phone, but I also was in extreme pain and wanted to yell about it
+[49:04.620 --> 49:06.560]  every second of my journey.
+[49:06.940 --> 49:09.200]  Okay, I have a one word question.
+[49:09.460 --> 49:09.780]  Go ahead.
+[49:10.080 --> 49:10.300]  Pocket.
+[49:10.780 --> 49:12.600]  Okay, that's that's another thing.
+[49:12.600 --> 49:16.200]  It was I went bottomless during this whole run.
+[49:17.320 --> 49:21.000]  It was just too much effort to put bottoms on and off that hurt.
+[49:21.100 --> 49:22.900]  I had to lift my leg up every time.
+[49:23.220 --> 49:25.100]  So you weren't wearing boxes?
+[49:25.660 --> 49:26.240]  No, nothing.
+[49:26.380 --> 49:28.880]  I went complete bottomless during this entire injury.
+[49:29.080 --> 49:32.680]  So you're just running around like Winnie the Pooh this whole time?
+[49:33.000 --> 49:33.500]  Yeah, I was.
+[49:33.800 --> 49:34.960]  I was Winnie the Poohing it up.
+[49:35.260 --> 49:41.940]  You're participating in the dicks out, two ankle busted obstacle course
+[49:41.940 --> 49:43.560]  with an iPhone in your mouth.
+[49:44.480 --> 49:45.620]  Absolutely, I was.
+[49:45.980 --> 49:47.340]  I heard that's the new Spartan games.
+[49:47.640 --> 49:48.860]  Oh my god.
+[49:49.400 --> 49:50.920]  Yeah, bottomless.
+[49:51.160 --> 49:53.280]  So how long were you without pants?
+[49:54.480 --> 49:57.720]  I put I put underwear on for the first time yesterday.
+[50:02.740 --> 50:04.620]  Yesterday was it was bad.
+[50:04.840 --> 50:09.460]  Yesterday is the first day I had a bath or a shower since the injury too.
+[50:09.840 --> 50:11.000]  I was scared.
+[50:11.720 --> 50:14.740]  I was scared I wouldn't be able to get out of the tub, but it was a risk.
+[50:14.820 --> 50:15.460]  I had to take it.
+[50:15.540 --> 50:16.620]  It had been too long.
+[50:16.960 --> 50:17.820]  I felt gross.
+[50:18.160 --> 50:19.780]  Did that become pungent over time?
+[50:20.620 --> 50:21.940]  It wasn't a concern.
+[50:22.560 --> 50:23.180]  If I know.
+[50:23.660 --> 50:24.140]  Yeah, I wasn't.
+[50:24.220 --> 50:25.260]  That wasn't a big issue.
+[50:25.320 --> 50:26.040]  I had other problems.
+[50:28.100 --> 50:30.900]  It sounds like you've got a lot of other problems, buddy.
+[50:31.060 --> 50:31.960]  Oh, I had another one.
+[50:32.000 --> 50:32.620]  Should I include?
+[50:32.780 --> 50:35.000]  I mean, we should probably wrap up.
+[50:35.480 --> 50:37.320]  You could tell us in the next one if it.
+[50:37.320 --> 50:38.620]  Because we're rolling.
+[50:39.580 --> 50:42.700]  OK, well, we continue my last.
+[50:42.820 --> 50:43.560]  I had a real problem.
+[50:43.720 --> 50:45.480]  I have a few other issues that came from this.
+[50:45.940 --> 50:51.020]  But I think I think we should talk about our loss, Geoff, because it is a meaningful.
+[50:51.560 --> 50:53.660]  We lost a meaningful figure to our lives.
+[50:53.920 --> 51:00.400]  And I would say more so to our relationship than than like is where I feel the loss.
+[51:00.560 --> 51:04.220]  Oh, before before we end, though, I'm going to say we never did it.
+[51:04.220 --> 51:06.720]  So welcome to Face episode something.
+[51:07.180 --> 51:08.400]  I don't know what episode this is.
+[51:08.480 --> 51:09.700]  Twenty twenty five.
+[51:09.960 --> 51:10.260]  Twenty five.
+[51:10.400 --> 51:11.180]  Welcome to fuck.
+[51:12.900 --> 51:16.840]  Oh, I don't know what happened there.
+[51:16.980 --> 51:18.820]  Welcome to Face episode twenty five.
+[51:18.940 --> 51:19.860]  I'm your host, Geoff Ramsey.
+[51:19.860 --> 51:22.200]  With me, as always, Gavin Free and Andrew Pantin.
+[51:22.320 --> 51:25.040]  Andrew, I believe you you're a phone eater now.
+[51:25.120 --> 51:25.580]  That's interesting.
+[51:26.080 --> 51:26.960]  We'll get into that.
+[51:27.320 --> 51:28.360]  And then we just did.
+[51:28.980 --> 51:29.260]  Yeah.
+[51:29.340 --> 51:33.860]  So let's dedicate this episode to to Sean Connery, but also to the great Tommy Heinsen,
+[51:33.860 --> 51:35.960]  Gavin, you have no idea who he is.
+[51:36.840 --> 51:41.680]  He was he has an interesting, a really unique and interesting legacy.
+[51:42.180 --> 51:47.420]  He was initially a player for the Boston Celtics, and then he became a coach for the Boston Celtics.
+[51:47.780 --> 51:52.180]  And then he became an announcer for the Boston Celtics.
+[51:52.640 --> 51:57.040]  And so he has the distinction of being in the Hall of Fame as a Hall of Fame player
+[51:57.040 --> 51:58.940]  and a Hall of Fame coach.
+[51:59.640 --> 52:03.260]  And the Radio Hall of Fame is bullshit or the I don't know what the announcer Hall of Fame
+[52:03.260 --> 52:05.360]  but he's a very distinguished announcer.
+[52:05.560 --> 52:12.460]  He was in the Celtics organization for 60 years and is the only person on fucking earth
+[52:12.460 --> 52:17.800]  who was a member of the Boston Celtics for all 17 of their championships,
+[52:18.240 --> 52:20.160]  which is unbelievable to think about.
+[52:20.460 --> 52:23.780]  Over 60 years, the Celtics won until this year when the Lakers won.
+[52:24.000 --> 52:26.020]  They had the most championships ever with 17.
+[52:26.600 --> 52:27.500]  Now it's tied.
+[52:27.840 --> 52:30.020]  And Tommy was there for every single one of them.
+[52:30.020 --> 52:34.180]  The reason it's important to Andrew and I, I mean, because we loved him,
+[52:34.500 --> 52:37.440]  is because, you know, there was that period where Andrew thought I hated him for a couple
+[52:37.440 --> 52:39.460]  of years for some reason, and we just didn't talk.
+[52:40.180 --> 52:42.500]  It was basketball that brought us back together.
+[52:42.840 --> 52:45.980]  And he and I, he was looking to get into basketball.
+[52:46.260 --> 52:47.520]  I recommended the Celtics.
+[52:47.800 --> 52:53.320]  He did this very Andrew thing where he went to every NBA team's subreddit and made a post
+[52:53.320 --> 52:55.440]  that said, I'm looking about getting into basketball.
+[52:55.580 --> 52:58.220]  Tell me why I should vote, why I should be a fan of your team.
+[52:58.280 --> 52:58.900]  I was a free agent.
+[52:58.900 --> 53:01.360]  Which went about, he was a free agent, which went about as well as you'd expect.
+[53:01.660 --> 53:05.940]  Anyway, he fell in love with the Celtics, and he and I used to bond over all the,
+[53:06.180 --> 53:10.680]  just the ludicrous, crazy, wacky shit that Tommy used to say.
+[53:10.900 --> 53:15.680]  And I would say that Tommy, he was a focal point of bringing us back together and
+[53:15.680 --> 53:19.040]  like reigniting our friendship that you were hiding from me.
+[53:19.760 --> 53:21.440]  I didn't realize you ever broke up.
+[53:21.780 --> 53:24.200]  I didn't either until like three episodes ago.
+[53:25.180 --> 53:27.020]  No, I wouldn't say it was a breakup.
+[53:27.020 --> 53:30.080]  There was maybe like a year and a half where I didn't talk to anybody.
+[53:30.520 --> 53:30.760]  Yeah.
+[53:30.780 --> 53:33.280]  That was with you guys or part of the company.
+[53:33.500 --> 53:39.740]  But yeah, what made Tommy so special is that we would watch and when I say watch,
+[53:39.760 --> 53:40.580]  I meant to look.
+[53:40.680 --> 53:43.420]  Do you do you remember how early it was into that season?
+[53:44.020 --> 53:48.040]  It was the post Isaiah Thomas season, the season after that.
+[53:48.240 --> 53:51.460]  I want to say it was like, yeah, 12 games or 13 games in.
+[53:51.880 --> 53:54.320]  Yeah, I just decided I was going to follow the Celtics.
+[53:54.380 --> 53:55.600]  I'd been doing so casually.
+[53:55.600 --> 53:58.500]  And then they played Golden State.
+[53:58.680 --> 54:00.480]  And we're talking about that early in the day.
+[54:00.560 --> 54:04.220]  And Geoff and I watched like the entire game together over Slack,
+[54:04.360 --> 54:05.980]  just messaging things back and forth.
+[54:06.120 --> 54:09.620]  And we did that for like essentially every game of that season.
+[54:09.840 --> 54:10.220]  I want to say.
+[54:10.420 --> 54:12.880]  Yeah, we watched almost every game together.
+[54:13.000 --> 54:16.480]  The only ones that we like, if one of us had to travel or something, we could.
+[54:17.080 --> 54:22.160]  And Tommy was just such a great focal point because he's such a ridiculous character.
+[54:22.160 --> 54:24.460]  And as somebody who was trying to get into basketball,
+[54:25.000 --> 54:28.620]  he was like this, not even like human figure.
+[54:28.740 --> 54:31.360]  Like you just imagine that when he wasn't calling games,
+[54:31.400 --> 54:34.000]  he was in a diner talking about the team constantly.
+[54:34.000 --> 54:37.960]  Like you didn't have a life beyond like him and Mike, who is his partner,
+[54:38.500 --> 54:40.420]  just talking about the team.
+[54:40.580 --> 54:44.180]  And he had such a bias for the team that it was wonderful.
+[54:44.180 --> 54:50.100]  Like it was such an extreme, irrational hatred for both refs
+[54:50.100 --> 54:53.400]  and any player on any other team that it was wonderful.
+[54:53.400 --> 54:55.540]  It was so much fun to listen to his games.
+[54:56.020 --> 55:01.120]  It's going to be a real miss because he had moved away like last season, I think.
+[55:01.460 --> 55:03.860]  I mean, before COVID, he was only doing like home games.
+[55:03.880 --> 55:06.540]  And even then it was like every few home games.
+[55:07.040 --> 55:09.700]  And then sometimes it was only some of the game as well.
+[55:09.740 --> 55:11.840]  Like he was he died at 86. He's pretty old.
+[55:11.900 --> 55:12.080]  Yeah.
+[55:12.280 --> 55:16.260]  And he so he wasn't like an every every game figure anymore.
+[55:16.260 --> 55:21.500]  But man, did we have a lot of fun laughing at the wild Homer shit that he would say?
+[55:21.500 --> 55:22.740]  Just not even the home.
+[55:22.860 --> 55:27.000]  Just like the way he'd phrase things or his unwillingness to go with jokes.
+[55:27.180 --> 55:30.160]  Like I remember there's this time where it was like a three man booth
+[55:30.160 --> 55:33.940]  and you could tell they're kind of getting ready to transition Tommy out of his role.
+[55:34.340 --> 55:35.920]  And they were having some argument.
+[55:36.260 --> 55:40.460]  And the third guy and Mike wanted to do this thing where he pretended that like Tommy hit him.
+[55:41.320 --> 55:43.180]  And he's like, oh, my foot.
+[55:43.260 --> 55:45.480]  And then Tommy just said, I didn't do nothing.
+[55:47.220 --> 55:49.700]  He didn't play into it at all.
+[55:49.700 --> 55:50.820]  It was just moments like that.
+[55:51.100 --> 55:51.840]  It's fantastic.
+[55:52.260 --> 55:54.540]  He saw this this there was a he doesn't play for us.
+[55:54.600 --> 55:55.660]  Anybody plays for the Phoenix Suns.
+[55:55.680 --> 55:59.160]  But there was this Australian player played center for us named Aaron Baines,
+[55:59.320 --> 56:04.180]  who you actually Nick used to play for your San Antonio Spurs, I believe.
+[56:04.200 --> 56:06.140]  And I think maybe even has a ring with them.
+[56:06.300 --> 56:09.560]  And apparently his dick is the size of a Buick.
+[56:09.760 --> 56:11.880]  And Tommy saw him in the shower.
+[56:12.140 --> 56:16.040]  And he talked about that guy's dick every game,
+[56:16.040 --> 56:21.540]  every time Aaron Baines had the ball or made any kind of a defensive play.
+[56:21.740 --> 56:23.800]  Tommy found a way to talk about that guy's dick.
+[56:23.920 --> 56:24.860]  It was so funny.
+[56:25.140 --> 56:28.640]  It felt like it changed their dynamic in like how he'd call him.
+[56:28.960 --> 56:31.420]  Like he didn't even say he wasn't specific.
+[56:31.720 --> 56:33.640]  He said, I believe his line at the time was,
+[56:34.080 --> 56:36.240]  I was watching Baines in the shower earlier.
+[56:36.660 --> 56:38.800]  And boy, does that guy look like all of Australia.
+[56:39.200 --> 56:40.840]  And he said it in such a way.
+[56:41.220 --> 56:43.400]  And then every time Baines would play,
+[56:43.400 --> 56:46.460]  he just seemed to have like an additional level of love for Baines.
+[56:46.560 --> 56:49.680]  He had a new appreciation for Aaron Baines, which was amazing.
+[56:50.200 --> 56:52.920]  There's another player named Daniel Tice, who is German.
+[56:53.360 --> 56:55.700]  And he got fouled out one game just like playing.
+[56:55.900 --> 56:58.580]  Like there was nothing crazy about the calls, but he got fouled out.
+[56:58.960 --> 57:02.940]  And Tommy just yelled like four seconds after the call had happened.
+[57:03.180 --> 57:04.900]  He just screamed at the top of his lungs.
+[57:05.000 --> 57:06.280]  That ref hates Germans.
+[57:06.840 --> 57:07.980]  There's no other point.
+[57:08.140 --> 57:09.820]  There's no like basis for that.
+[57:10.220 --> 57:11.120]  He's just amazing.
+[57:11.540 --> 57:12.260]  He will be missed.
+[57:12.260 --> 57:13.860]  Anyway, he will be very missed.
+[57:14.020 --> 57:17.960]  And Andrew and I got really choked up the other day when he died and we talked about it.
+[57:18.260 --> 57:19.680]  That's our sincere moment.
+[57:20.340 --> 57:21.980]  That's the end of this fucking episode.
+[57:22.460 --> 57:27.200]  I don't think I've laughed so hard in a recording in like four years.
+[57:27.720 --> 57:31.500]  Dude, I had to walk away from my mic at one point because I was crying.
+[57:32.060 --> 57:34.460]  Yeah, that was pretty intense.
+[57:34.800 --> 57:36.760]  I think I can make Gavin vomit next episode.
+[57:37.400 --> 57:38.360]  Oh, you probably could.
+[57:38.860 --> 57:43.840]  Yeah, I have two funny-ish things, but they're not vomit funny.
+[57:44.100 --> 57:45.220]  But I look forward to it.
+[57:45.220 --> 57:46.640]  No, this isn't vomit funny either.
+[57:46.760 --> 57:48.860]  I just think Gavin's going to vomit when he sees this.
+[57:50.560 --> 57:51.340]  Oh, God.
+[57:51.520 --> 57:51.740]  All right.
+[57:51.880 --> 57:52.940]  Well, that was F*** Face.
+[57:53.500 --> 57:59.580]  Rate and subscribe and like and tell your friends and buy a t-shirt for your mom.
+[58:01.460 --> 58:03.740]  Garpel and all that other bullshit.
+[58:04.060 --> 58:07.100]  Oh, and guess what I just got in the fucking mail.
+[58:07.100 --> 58:13.320]  Do you know how I convinced them to make us F*** Face baseball bats?
+[58:14.300 --> 58:14.860]  Yes.
+[58:16.600 --> 58:20.340]  At your extreme urging to the contrary.
+[58:21.440 --> 58:25.780]  I'm going to hand F*** Face every one of them and they're going to come with a certificate
+[58:25.780 --> 58:30.740]  of authenticity. And the certificate of authenticity looks suspiciously like a
+[58:30.740 --> 58:35.900]  certain baseball card style. And it has like a little message. And then I'm going to Sharpie
+[58:35.900 --> 58:40.540]  sign each one as the authenticity. And those came in the mail yesterday. So I have a bunch of
+[58:40.540 --> 58:44.520]  baseball cards to sign. No, the bats don't come till next year. But I got the cards of
+[58:44.520 --> 58:46.240]  authenticity. So I'm going to sign each one.
+[58:46.560 --> 58:47.640]  Takes a year to make a bat.
+[58:48.020 --> 58:50.380]  Takes a while to get them from wherever the fuck they got them from.
+[58:50.560 --> 58:52.560]  Are you going to sign the bats too or are you just signing the cards?
+[58:52.720 --> 58:57.120]  Yeah, so the bats are like novelty bats. And they say they have like the F*** Face logo
+[58:57.120 --> 59:00.140]  on the like where the Louisville Slugger logo is on the fat part of the bat.
+[59:00.520 --> 59:04.440]  And then on the bottom, they don't do custom engravings.
+[59:04.440 --> 59:08.080]  Like nobody on Earth does custom engravings on bats that aren't full size, I guess.
+[59:08.280 --> 59:15.280]  And so I'm going to hand F*** Face, just write F*** Face, but with the stars on every bat.
+[59:15.400 --> 59:19.400]  And then we'll include a baseball card with my signature authenticated.
+[59:19.600 --> 59:20.640]  So wait, it's a small bat?
+[59:21.100 --> 59:22.600]  Uh, it's like 18 inches, maybe.
+[59:23.020 --> 59:24.700]  And how? So what's the point of it?
+[59:24.980 --> 59:25.780]  So people can buy it.
+[59:25.880 --> 59:27.540]  To hit balls with it or just to have it?
+[59:27.680 --> 59:28.860]  Just to have it. Just like collectible.
+[59:29.020 --> 59:29.540]  Little fun thing.
+[59:29.600 --> 59:31.380]  Why don't just sell the stump, the handle?
+[59:31.800 --> 59:35.080]  Nobody wants to just buy a knob. What are you talking about?
+[59:35.220 --> 59:36.620]  You want me to just sell the knob?
+[59:37.320 --> 59:40.120]  Well, that's the bit that's got the F*** Face on it.
+[59:40.760 --> 59:41.960]  Yeah, that's the whole aim now.
+[59:42.500 --> 59:43.620]  Nobody's buying knobs.
+[59:43.960 --> 59:48.760]  Look, think of 200 bats, how big that is, and then think about 200 bat knobs.
+[59:49.540 --> 59:53.820]  Yeah, but if you bought just a knob, Gavin, you'd be like, where's the rest of this bat?
+[59:54.180 --> 59:57.440]  That's you'd feel like you got screwed over. It's a bad investment.
+[59:57.900 --> 59:59.160]  I don't want the whole rest of it.
+[59:59.740 --> 01:00:02.800]  Nobody just wants the knob. You're full of shit.
+[01:00:05.420 --> 01:00:07.820]  Jesus Christ. I don't even know where to go with that.
+[01:00:07.860 --> 01:00:08.780]  I think we should just end.
+[01:00:09.460 --> 01:00:11.520]  That's it. All right. All right.
+[01:00:11.520 --> 01:00:12.020]  Face out.

@@ -1,0 +1,1168 @@
+[00:00.800 --> 00:03.500]  This episode is brought to you by LifeLock.
+[00:03.920 --> 00:08.600]  When you visit the doctor, you probably hand over your insurance, your ID, and contact details.
+[00:08.940 --> 00:11.520]  It's just one of the many places that has your personal info.
+[00:11.860 --> 00:15.900]  And if any of them accidentally expose it, you could be at risk for identity theft.
+[00:16.340 --> 00:18.740]  LifeLock monitors millions of data points a second.
+[00:19.080 --> 00:23.060]  If you become a victim, they'll fix it, guaranteed, or your money back.
+[00:23.420 --> 00:27.140]  Save up to 40% your first year at lifelock.com slash podcast.
+[00:27.480 --> 00:27.820]  Terms apply.
+[00:31.300 --> 00:33.520]  This is a Rooster Teeth production.
+[00:45.320 --> 00:46.720]  So you guys can take it away.
+[00:46.840 --> 00:49.380]  This is episode number 43.
+[00:49.920 --> 00:51.040]  This is going to be the good one.
+[00:51.360 --> 00:53.480]  I think that all the other ones have been great.
+[00:53.660 --> 00:56.080]  This one is going to be head and shoulders above the rest of them.
+[00:56.360 --> 00:57.880]  But it's up to you guys to get it there.
+[00:57.960 --> 00:58.900]  So I'll leave it to you.
+[00:59.000 --> 00:59.820]  Take it away.
+[01:00.400 --> 01:02.420]  Thanks for that awesome intro, Eric.
+[01:02.540 --> 01:06.280]  I don't think any of us could have done a better job than what you just did.
+[01:06.320 --> 01:09.280]  You continue to impress and amaze.
+[01:09.280 --> 01:10.240]  And you are right.
+[01:10.600 --> 01:12.080]  That is what this show is.
+[01:12.260 --> 01:13.860]  Gavin, Raymond, how are you guys doing today?
+[01:14.140 --> 01:14.760]  Not bad.
+[01:15.040 --> 01:16.020]  I'm doing great.
+[01:16.380 --> 01:19.120]  I feel like there's a little bit of pressure, though, off that opening.
+[01:19.400 --> 01:20.460]  Like Eric said, this is going to be great.
+[01:20.520 --> 01:21.140]  And then just left.
+[01:21.340 --> 01:22.160]  Just disappeared.
+[01:22.420 --> 01:25.320]  That's what a real showman does, right?
+[01:25.700 --> 01:27.280]  He threw the gauntlet to us.
+[01:27.380 --> 01:29.200]  Now it's up to us to run with it.
+[01:29.700 --> 01:35.260]  So, Andrew, I believe I hopped into the chat to the recording earlier.
+[01:35.780 --> 01:37.360]  And I heard you talking about pickling.
+[01:37.460 --> 01:38.060]  So I left.
+[01:38.060 --> 01:39.380]  Did you want to get into pickling?
+[01:39.660 --> 01:42.380]  I mean, we don't need to necessarily get into pickling.
+[01:42.460 --> 01:43.520]  I could talk about it briefly.
+[01:43.740 --> 01:45.980]  I well, OK, let's say you're offended by it, Geoff.
+[01:46.020 --> 01:46.640]  Is that why you left?
+[01:46.900 --> 01:51.580]  No, I just thought I don't need to hear this shit from him unless it's like on.
+[01:54.080 --> 01:58.840]  Would you say if I said that I'm into pickling now, does that mean that I'm going to pickle
+[01:58.840 --> 02:01.580]  things or that I'm open to the idea that pickled things could be good?
+[02:01.800 --> 02:04.060]  If you're into pickling, you're one who pickles.
+[02:04.180 --> 02:05.880]  So you're like making your own pickles.
+[02:06.080 --> 02:06.920]  And what should I say?
+[02:06.920 --> 02:11.500]  Did I say I think I said I'm open to the idea that pickled things are good or pick?
+[02:11.600 --> 02:14.600]  I don't remember what I said, but I'm not I'm not going to be a pickler.
+[02:15.140 --> 02:19.780]  I just thought there was no way like anything being pickled didn't seem like it would enhance
+[02:19.780 --> 02:20.780]  the flavor to me.
+[02:20.980 --> 02:22.140]  I mean, you're already a pickle.
+[02:22.240 --> 02:24.280]  You got a pickled waffle on your desk right now.
+[02:24.560 --> 02:26.240]  That's true.
+[02:27.360 --> 02:29.140]  I should do something with that eventually.
+[02:29.240 --> 02:33.700]  I just don't I kind of want to smell it again, but I'm convinced I'll just vomit immediately.
+[02:33.980 --> 02:35.980]  And there needs to be a right time for that.
+[02:35.980 --> 02:37.620]  I also don't want to get puke on my keyboard.
+[02:38.000 --> 02:42.320]  Yeah, that's something you build up to throughout the course of an episode for sure.
+[02:42.440 --> 02:43.980]  You don't blow it in the first five minutes.
+[02:44.780 --> 02:47.540]  Hey, speaking of which, you guys got a lot to cover this week.
+[02:47.580 --> 02:48.180]  Gav, you got anything?
+[02:48.420 --> 02:52.560]  I have a thing to bring up that we forgot to talk about is a brief thing.
+[02:52.800 --> 02:55.760]  Gavin, you mentioned maybe it was the end of the story, but I was going to expand on
+[02:55.760 --> 02:56.260]  it a little bit.
+[02:56.660 --> 03:01.280]  You had a jacket that like would buzz alarms or whatever, and it was kind of set up in a
+[03:01.280 --> 03:02.780]  way of like, we'll talk more about it.
+[03:03.040 --> 03:03.960]  And then we just never did.
+[03:04.300 --> 03:05.140]  Oh, yeah.
+[03:05.140 --> 03:06.140]  I could go into that.
+[03:06.480 --> 03:07.360]  I have a question, too.
+[03:07.540 --> 03:09.540]  I said, Gav, do you have anything?
+[03:09.720 --> 03:11.480]  And then, Andrew, you also answered.
+[03:11.880 --> 03:17.080]  So is this your way of telling us that you have a third name and it's Gavin that you
+[03:17.080 --> 03:17.940]  have been hiding from us?
+[03:18.300 --> 03:22.820]  No, I just got excited and I answered when you said, do you have anything?
+[03:22.980 --> 03:24.080]  Then you said Gavin.
+[03:24.260 --> 03:25.720]  I assumed it was open to everybody.
+[03:25.880 --> 03:28.040]  I didn't realize this is a Gavin only question when I replied.
+[03:30.500 --> 03:35.020]  My only thing to talk about this week is Andrew will routinely say things that he
+[03:35.020 --> 03:42.520]  hasn't done, which I feel like most people have, like eating an egg or what else?
+[03:42.680 --> 03:43.360]  There was something else.
+[03:43.620 --> 03:43.880]  Meatball.
+[03:44.420 --> 03:45.320]  You haven't eaten a meatball.
+[03:45.460 --> 03:46.060]  Yeah, stuff like that.
+[03:46.080 --> 03:48.340]  I haven't watched Star Wars or whatever you lied about last week.
+[03:48.800 --> 03:52.780]  No, I didn't watch Triple X for the Millennium.
+[03:52.800 --> 03:53.820]  That was just a mistake.
+[03:54.200 --> 03:55.140]  The two year screener.
+[03:55.200 --> 04:00.420]  But I'm intrigued if you can pinpoint, Andrew, things that you know most people have done
+[04:00.420 --> 04:00.980]  that you haven't.
+[04:00.980 --> 04:03.700]  Oh, I feel like, well, this is weird.
+[04:03.800 --> 04:05.380]  I feel like everything that we just talked about.
+[04:05.820 --> 04:06.900]  Star Wars is a big one.
+[04:07.080 --> 04:08.540]  I have a Star Wars question for you, Gavin.
+[04:08.720 --> 04:10.500]  Geoff gave me so much shit about this.
+[04:10.820 --> 04:12.160]  And you need to understand my concept.
+[04:12.320 --> 04:14.000]  I've seen the Phantom Menace.
+[04:14.340 --> 04:15.600]  I saw the Clone Wars.
+[04:16.140 --> 04:17.480]  Walked out of Revenge of the Sith.
+[04:17.720 --> 04:18.380]  Didn't finish it.
+[04:18.440 --> 04:19.480]  I've never finished that movie.
+[04:19.680 --> 04:20.600]  And I've seen Rogue One.
+[04:21.200 --> 04:22.300]  I was thinking about Star Wars.
+[04:22.460 --> 04:25.920]  So, like, understand the characters I have a grasp on from those movies.
+[04:26.540 --> 04:30.200]  I asked, and I thought this was a very fair question, but Geoff thought I was a fucking
+[04:30.200 --> 04:30.520]  idiot.
+[04:31.400 --> 04:32.620]  Is Chewbacca an Ewok?
+[04:35.000 --> 04:36.000]  He's a Wookiee.
+[04:36.020 --> 04:37.160]  Well, I didn't know, like, I don't know.
+[04:37.240 --> 04:38.740]  I just, I don't know anything.
+[04:38.860 --> 04:39.880]  I don't know what a Wookiee is.
+[04:40.280 --> 04:41.680]  I thought it was a fair question.
+[04:41.780 --> 04:43.140]  They're both furry things.
+[04:43.440 --> 04:49.780]  And I was just curious if Chewbacca was, like, substantially taller than all the other Ewoks.
+[04:50.220 --> 04:51.800]  I thought it was a fair question.
+[04:52.120 --> 04:54.480]  So all furry things are the same to you?
+[04:54.800 --> 04:57.920]  I'll be honest with you, Andrew, that makes you sound a little furry intolerant.
+[04:57.920 --> 05:01.280]  No, I'm just saying that typically when you see an Ewok, there's certain sides from what
+[05:01.280 --> 05:01.720]  I've seen.
+[05:02.040 --> 05:05.760]  And it's just curious if Chewbacca was an anomaly, if he was just a really tall Ewok.
+[05:06.420 --> 05:08.620]  He was the Yao Ming of Ewoks.
+[05:08.840 --> 05:10.540]  Yeah, that was sort of what I was presenting.
+[05:10.820 --> 05:13.440]  But wait, you said you saw Rogue One.
+[05:13.640 --> 05:15.020]  Doesn't, isn't that the one with all the Ewoks?
+[05:15.180 --> 05:16.680]  All the, damn it, all the Wookiees?
+[05:17.240 --> 05:18.900]  Which one's, or is that Solo?
+[05:19.320 --> 05:20.540]  What one has all the Wookiees fighting?
+[05:20.600 --> 05:22.980]  I don't think, I don't think they're in Rogue One.
+[05:23.300 --> 05:24.060]  Yeah, I haven't seen Solo.
+[05:24.500 --> 05:24.800]  Okay.
+[05:25.720 --> 05:26.880]  Chewbacca's in that one, though.
+[05:26.880 --> 05:30.700]  I don't think I've seen a Star Wars movie that's featured Chewbacca in any way.
+[05:30.920 --> 05:34.880]  I'll be honest, I don't want to turn this into a whole Star Wars thing, but I'll say growing up,
+[05:35.220 --> 05:38.620]  Star Wars was an easy franchise to wrap my head around because there were
+[05:39.280 --> 05:43.120]  only six movies, and really three for most of my childhood.
+[05:43.580 --> 05:44.820]  It all runs together now.
+[05:44.880 --> 05:47.720]  Just hearing you guys list all the fucking movies to try to keep up with,
+[05:47.780 --> 05:49.180]  I don't know how anybody keeps it separate.
+[05:49.660 --> 05:50.880]  And I'm by no means an expert.
+[05:51.080 --> 05:54.880]  I didn't, I watched them all in chronological order for the first time.
+[05:54.880 --> 05:59.700]  I watched 1, 2, 3, 4, 5, 6, and then I hadn't seen them in years,
+[05:59.800 --> 06:02.280]  and then I didn't remember anything about it, so I had to re-watch them all.
+[06:02.560 --> 06:04.040]  I never thought when I was a kid, I'd be like,
+[06:04.120 --> 06:07.140]  all right, slow down on the Star Wars for a minute. I need to catch my breath.
+[06:08.800 --> 06:12.780]  I actually feel like I watch them in the worst way, in some sense,
+[06:12.840 --> 06:15.920]  because I've never seen Darth Vader in any movie ever.
+[06:16.180 --> 06:18.900]  I sort of have this perception of who Vader is.
+[06:19.200 --> 06:22.920]  So wait, you're watching Rogue One, and then at the end, you're like, who the hell's that?
+[06:22.920 --> 06:26.120]  No, no, no, I know who he is. Culturally, I've seen Darth Vader.
+[06:26.320 --> 06:29.080]  I get who Darth Vader is, but I've never seen him in a movie.
+[06:29.620 --> 06:34.860]  So when he had the Rogue One sequence, people lost their minds about how cool that was.
+[06:35.140 --> 06:38.260]  To me, I just assumed that's what Vader's done every other movie.
+[06:38.360 --> 06:41.940]  That's what I thought the bar was. That was in no way exceptional to me.
+[06:42.160 --> 06:43.760]  I was like, oh, he just killed a bunch of guys.
+[06:44.220 --> 06:47.540]  He moved like an old man in almost every movie.
+[06:47.680 --> 06:49.340]  That was the one time he was badass.
+[06:49.900 --> 06:51.800]  Yeah, so yeah, that's my problem.
+[06:51.800 --> 06:54.780]  I feel like if I watch those movies now, it's just going to be ridiculous
+[06:54.780 --> 06:58.940]  under seeing what he could do in Rogue One compared to what he did in the other movies.
+[06:59.000 --> 07:01.040]  Well, I just wouldn't even bother if I were you then.
+[07:01.480 --> 07:03.100]  Yeah, I don't know. It seems like a lot to watch.
+[07:03.360 --> 07:04.760]  There you go. No need.
+[07:05.640 --> 07:11.000]  Maybe Star Wars and eggs and meatballs and pickles just aren't for you.
+[07:11.320 --> 07:12.160]  I'm open to pickles.
+[07:13.960 --> 07:20.520]  Wendy's has this Korean barbecue burger in Canada right now, and it had pickled onions on it.
+[07:20.520 --> 07:22.720]  I think it's like the first thing I've had that was pickled.
+[07:22.900 --> 07:26.280]  Really enjoyed it, kind of brought out some additional flavor, kind of tart.
+[07:26.700 --> 07:27.640]  I'm a fan of it.
+[07:27.700 --> 07:28.800]  So I'm open to the idea that...
+[07:28.800 --> 07:29.360]  Was that your first pickled onion?
+[07:29.660 --> 07:30.640]  Yeah, yeah, it was.
+[07:30.740 --> 07:34.080]  I think it might be my first pickled anything, knowingly.
+[07:34.420 --> 07:36.760]  You should try a pickled cucumber.
+[07:37.160 --> 07:38.340]  They are delicious.
+[07:39.340 --> 07:41.980]  But I don't like cucumber, so I don't...
+[07:42.660 --> 07:46.000]  Well, listen, a lot of people don't like onions, but they like pickled onions.
+[07:46.180 --> 07:47.680]  It's a whole different world when you pickle it.
+[07:47.920 --> 07:48.780]  Yeah, but I like onions.
+[07:48.780 --> 07:51.980]  So I feel like it's not shocking that I'd also like pickled onions.
+[07:52.200 --> 07:53.680]  It's just a variant of the flavor.
+[07:53.820 --> 07:54.960]  I don't like cucumbers.
+[07:55.420 --> 07:59.580]  I'm going to recommend that you try to ride this pickle wave,
+[08:00.180 --> 08:05.760]  and maybe you don't jump into pickles, pickled cucumbers immediately,
+[08:05.980 --> 08:08.130]  but I think you got to get there because it's like...
+[08:09.880 --> 08:11.640]  It's the big dog in the ocean.
+[08:11.940 --> 08:13.940]  It's the shark of pickling, right?
+[08:14.060 --> 08:14.260]  Okay.
+[08:14.640 --> 08:16.140]  It's the blue whale.
+[08:16.140 --> 08:20.800]  It's the apex predator of all other pickled items,
+[08:20.840 --> 08:22.200]  so you can't ignore it forever.
+[08:22.360 --> 08:23.660]  At some point, you got to give it a shot.
+[08:23.740 --> 08:24.800]  Maybe you work your way up to it, though.
+[08:25.100 --> 08:27.360]  Is there a pickled section in the grocery store?
+[08:27.440 --> 08:28.280]  I imagine there is, right?
+[08:30.000 --> 08:30.780]  I don't know.
+[08:31.020 --> 08:31.680]  I don't know.
+[08:31.840 --> 08:35.160]  Like, could I just buy pickled things if I wanted to just expand?
+[08:35.680 --> 08:36.200]  See if...
+[08:36.200 --> 08:36.380]  Yeah.
+[08:36.860 --> 08:37.160]  Okay.
+[08:37.580 --> 08:39.720]  Yeah, I assume it's like in the area with the jars.
+[08:40.020 --> 08:42.060]  Yeah, where the pickles are, even.
+[08:42.220 --> 08:42.480]  Okay.
+[08:42.840 --> 08:44.540]  I don't think I've ever gone down that aisle.
+[08:45.040 --> 08:46.500]  You've never gone down an aisle?
+[08:46.900 --> 08:48.480]  Well, no, the pickle aisle, specifically.
+[08:48.620 --> 08:49.360]  Have you ever been down...
+[08:49.360 --> 08:52.360]  He's standing on the end of all the fixtures, like, peeping down the aisles,
+[08:52.420 --> 08:53.720]  but never set foot down there.
+[08:54.160 --> 08:56.220]  Andrew, the pickles are...
+[08:57.120 --> 08:58.160]  It's just like, excuse me, sir,
+[08:58.500 --> 09:00.780]  about halfway down that aisle or so, there's some pickles.
+[09:00.980 --> 09:01.460]  Would you...
+[09:01.460 --> 09:02.980]  Would you grab me the Vlassics?
+[09:03.540 --> 09:04.160]  Extra crunchy.
+[09:04.460 --> 09:05.380]  I can't go down the aisle.
+[09:05.740 --> 09:07.920]  That'd be a really interesting challenge, just to go a year,
+[09:08.020 --> 09:09.240]  but you can only buy off the ends.
+[09:12.960 --> 09:16.060]  The face shopping challenge to see what's available to you.
+[09:16.160 --> 09:17.300]  Everything that's on promotion.
+[09:17.820 --> 09:21.220]  Yeah, well, I mean, like the produce, you'd live off the produce section.
+[09:21.320 --> 09:22.660]  You got the deli.
+[09:22.900 --> 09:24.120]  You can make that work, I think.
+[09:24.320 --> 09:25.000]  It's just like condiments.
+[09:25.020 --> 09:28.340]  Yeah, but stuff like refrigerated stuff is never on the end, is it?
+[09:28.420 --> 09:30.020]  No, very rarely.
+[09:30.160 --> 09:34.700]  You would just end up with a lot of, like, ice cream cones and fixings for ice cream.
+[09:36.180 --> 09:37.980]  A lot of, like, maraschino cherries.
+[09:38.440 --> 09:40.660]  Yeah, you can buy all the big red that you want.
+[09:44.360 --> 09:45.640]  And, like, candles.
+[09:46.120 --> 09:47.760]  You can eat candles all day long.
+[09:48.540 --> 09:49.220]  Candles and batteries.
+[09:50.040 --> 09:52.600]  Just for the next two weeks, I'm not going to walk down any aisles.
+[09:53.300 --> 09:54.040]  I'll just see how it goes.
+[09:54.180 --> 09:54.660]  Let's see what I can...
+[09:54.660 --> 09:56.400]  That's a great challenge, I think.
+[09:56.480 --> 10:01.220]  I think that's a great 2021 challenge for everybody, for the audience as well.
+[10:02.060 --> 10:02.780]  Oh, man.
+[10:03.320 --> 10:04.340]  Hey, so I have...
+[10:05.200 --> 10:06.720]  Can I talk to you guys about something?
+[10:07.120 --> 10:07.700]  Yeah, of course.
+[10:07.700 --> 10:13.740]  I was a little unhappy with my performance in last week's F*** Face.
+[10:14.060 --> 10:18.080]  I usually am, but I was so unhappy, in fact, that I even reached out
+[10:18.080 --> 10:20.720]  to you guys after the episode just to make sure that it was okay.
+[10:20.800 --> 10:21.580]  Oh, you texted Andrew as well?
+[10:22.380 --> 10:24.120]  Maybe I just texted you.
+[10:24.240 --> 10:24.880]  Thanks for bringing it up.
+[10:30.460 --> 10:31.860]  Anyway, I'm sure I had a reason.
+[10:34.200 --> 10:38.500]  So I decided that instead of being in a funk about it,
+[10:38.500 --> 10:42.100]  I was going to redouble my efforts between that episode to this episode.
+[10:42.260 --> 10:44.600]  And the struggle that I've been having, I was talking about with Gavin,
+[10:44.820 --> 10:46.840]  it's like nothing's happening in my life right now, right?
+[10:46.860 --> 10:49.200]  Because of the pandemic and because of working from home and stuff.
+[10:49.300 --> 10:53.180]  And I think I even said to Gavin, like, I can only make socks and fingernail clippings
+[10:55.120 --> 10:56.480]  stories for so long.
+[10:56.560 --> 10:59.060]  Like, I'm really scraping the bottom of the f*** barrel here.
+[10:59.340 --> 11:01.300]  Yeah, but last night, last time you're pulling up, like,
+[11:01.360 --> 11:02.840]  throwing up blood and all that cool stuff.
+[11:02.960 --> 11:04.100]  Yeah, that's true too.
+[11:04.180 --> 11:04.560]  That's what I'm saying.
+[11:04.600 --> 11:05.760]  It's the bottom of the barrel, man.
+[11:08.500 --> 11:10.720]  It's just, oh God.
+[11:11.560 --> 11:18.420]  So I set to come up with some stuff for this episode that I wanted to get excited and invigorated
+[11:18.420 --> 11:18.640]  about.
+[11:18.900 --> 11:22.360]  And it was such a fun experiment that two things happened.
+[11:22.600 --> 11:28.440]  One, I became an inventor and I have created what I think is a revolutionary product I
+[11:28.440 --> 11:29.620]  would like to share with you guys.
+[11:29.700 --> 11:36.540]  And two, I became an artist and I think I've created an avenue for a future of art.
+[11:36.540 --> 11:41.400]  So I would like to share these two things with you if you don't mind and if no one else
+[11:41.400 --> 11:42.840]  has any more pressing business.
+[11:43.600 --> 11:44.760]  No, I'd like to see.
+[11:44.900 --> 11:46.260]  Are these connected in any way?
+[11:46.720 --> 11:48.280]  Are these two separate ventures?
+[11:48.880 --> 11:52.860]  They are separate, but one could argue they're connected on a theme.
+[11:53.320 --> 11:53.900]  Okay, okay.
+[11:54.880 --> 11:56.000]  Pickled eggs are amazing.
+[11:56.120 --> 11:57.280]  I think so by condiments.
+[11:57.360 --> 11:57.860]  Yeah, Nick's right.
+[11:58.040 --> 11:58.780]  They're by the condiments.
+[11:58.900 --> 12:00.400]  Okay, so let me, let me preface.
+[12:00.940 --> 12:02.460]  I'll take this back a little bit.
+[12:02.700 --> 12:06.420]  I was having this conversation where I thought, like, what am I going to do between now and
+[12:06.420 --> 12:09.580]  to really to bring it like the guys have done?
+[12:09.740 --> 12:15.000]  Like Andrew's done or Raymond has done every week with the shit that he makes up and how
+[12:15.000 --> 12:19.820]  Gavin has been able to just like coast by without really doing anything, even signing
+[12:19.820 --> 12:24.580]  the goddamn baseball cards, which the merch team has been begging us for Gavin to do.
+[12:25.280 --> 12:28.480]  But it doesn't matter because Gavin, he's got the, he's the boy with the golden hands,
+[12:28.600 --> 12:29.360]  as his grandfather said.
+[12:32.820 --> 12:38.320]  So, as I happen, as I tend to do, I have these creative, like sessions on the bicycle, right?
+[12:38.620 --> 12:41.440]  So I was, I was like, I gotta get on my bike and I gotta run out there and I gotta figure
+[12:41.440 --> 12:43.320]  out what I'm gonna do between f*** face and f*** face.
+[12:43.800 --> 12:47.660]  And I was like, oh, f***ing, right as I was about to get on the bike, I realized I was
+[12:47.660 --> 12:48.080]  hungry.
+[12:48.200 --> 12:49.120]  It's like a law firm.
+[12:49.640 --> 12:51.840]  Yeah, yeah, exactly, f*** face and f*** face.
+[12:54.020 --> 12:56.080]  So I was like, oh, I should grab some food before I go.
+[12:56.260 --> 12:58.860]  And I looked around and there was nothing that I could eat on my bicycle.
+[12:58.860 --> 13:02.080]  But then I saw like a candy bracelet because I had bought a bunch of candy bracelets at
+[13:02.080 --> 13:03.400]  the dollar store the other day.
+[13:04.660 --> 13:06.720]  You know what I'm talking about, candy bracelets, right?
+[13:06.920 --> 13:07.100]  Yeah.
+[13:07.280 --> 13:07.700]  Okay, cool.
+[13:07.740 --> 13:08.240]  Yeah, I feel like I do.
+[13:08.240 --> 13:11.900]  So I slapped a candy bracelet on my wrist and I went off on my bicycle.
+[13:12.040 --> 13:15.880]  About halfway down, I remember on my ride, I realized that the candy bracelet was still
+[13:15.880 --> 13:16.100]  there.
+[13:16.440 --> 13:18.360]  And I thought, that's kind of convenient.
+[13:18.860 --> 13:22.260]  I can eat the candy without getting off my bicycle, right?
+[13:22.700 --> 13:26.680]  And so I was able to eat the entire candy bracelet while riding without slowing down,
+[13:26.680 --> 13:28.760]  without reducing my pace, without anything.
+[13:29.020 --> 13:35.380]  And I thought, what a shame that I was able to provide sustenance for myself without even
+[13:35.380 --> 13:37.900]  slowing down or breaking my stride on my bike.
+[13:38.080 --> 13:43.080]  Were you leading your hand up to your mouth or were you hunching down to your wrist while
+[13:43.080 --> 13:43.360]  riding?
+[13:43.520 --> 13:46.820]  It's an excellent question, Gavin, and I'm glad you asked it.
+[13:46.860 --> 13:50.580]  And I have some documentation that can answer that for you.
+[13:51.180 --> 13:53.360]  However, so we'll get to that.
+[13:53.360 --> 13:59.940]  Anyway, in this moment, I thought, I wish that I could continue this bike ride but still
+[13:59.940 --> 14:01.580]  feel like I got the sugar rush.
+[14:01.700 --> 14:03.300]  It's over and now I'm worse off than before.
+[14:03.400 --> 14:05.580]  As G.I. Joe told you, eat a banana, not a candy bar.
+[14:05.920 --> 14:07.400]  You'll have energy longer, right?
+[14:09.400 --> 14:13.500]  So I was like, I had the quick rush of the sugar, but I was bummed that I didn't have
+[14:13.500 --> 14:14.240]  something more substantial.
+[14:14.480 --> 14:18.600]  And then it struck me what we need to be able to do as a society.
+[14:18.760 --> 14:20.660]  And this is how you guys are going to have to an audience.
+[14:20.660 --> 14:25.340]  All this will go up on the Instagram F*** Face pod is what it's called so that you can
+[14:25.340 --> 14:26.560]  play along with me.
+[14:26.940 --> 14:35.600]  I thought there's got to be a better way to combine the convenience of jewelry and the
+[14:35.600 --> 14:37.920]  raw power of beef.
+[14:39.380 --> 14:45.140]  Combine the convenience of hand jewelry with bovine energy.
+[14:45.660 --> 14:51.300]  And that's when I landed on the beef bracelet.
+[14:52.520 --> 14:57.000]  You see what I've done in this photo, and I apologize for my skin looking a little ashy.
+[14:57.180 --> 15:01.600]  It's still beaten up from being scraped across I-35 for a couple hundred feet.
+[15:02.760 --> 15:05.860]  I'm still a little under the weather physically.
+[15:06.780 --> 15:09.800]  The beef bracelet, what I've done here, I made a prototype, right?
+[15:09.800 --> 15:15.780]  I took the string from a candy bracelet, and then I cut up like a Slim Jim.
+[15:16.040 --> 15:20.600]  And then I combined it around and created a bracelet of beef.
+[15:20.720 --> 15:22.900]  And let me tell you, boys, it worked.
+[15:23.460 --> 15:25.160]  Now, here's why I'm telling you.
+[15:25.260 --> 15:28.980]  I would like you to consider investing in F*** Face beef bracelets.
+[15:30.260 --> 15:34.260]  And I don't want to stop there because I got to thinking that's good.
+[15:34.380 --> 15:35.000]  That's convenient.
+[15:35.240 --> 15:36.760]  I can ride my bike.
+[15:37.000 --> 15:38.280]  I can eat beef.
+[15:38.360 --> 15:39.200]  I don't have to stop.
+[15:39.200 --> 15:40.340]  I don't have to slow down.
+[15:40.500 --> 15:43.780]  I don't have to... it doesn't have to impede my life in any way.
+[15:43.920 --> 15:45.040]  But that's not a lot of beef.
+[15:45.140 --> 15:46.200]  What am I going to do?
+[15:46.220 --> 15:47.520]  I'm gonna end up with like 17 bracelets.
+[15:47.760 --> 15:48.680]  I could do that.
+[15:48.920 --> 15:52.380]  Or I could go for the big beef bracelet.
+[15:52.700 --> 15:54.320]  I made a second prototype.
+[15:54.660 --> 15:55.420]  That's right.
+[15:55.540 --> 15:58.780]  With chunks, like huge chunks of beef jerky.
+[15:59.000 --> 16:03.460]  So if you don't want a snack, you want a meal, it's right there on your hand.
+[16:03.460 --> 16:09.420]  I can already envision the commercial as Geoff riding his bike and there's six dogs running after him.
+[16:09.520 --> 16:09.960]  Beef bracelet.
+[16:10.200 --> 16:10.440]  All right.
+[16:10.500 --> 16:11.660]  I'm glad you mentioned the dogs.
+[16:11.940 --> 16:15.040]  We're going to get into that because that is an area for concern.
+[16:15.500 --> 16:16.300]  Here's what I thought.
+[16:16.420 --> 16:18.020]  Why stop at beef, right?
+[16:18.440 --> 16:19.660]  This is a whole product line.
+[16:19.840 --> 16:21.560]  So I tried a lot of stuff to put on a bracelet.
+[16:21.680 --> 16:22.400]  I'll be honest with you.
+[16:22.440 --> 16:22.900]  It's hard.
+[16:23.160 --> 16:24.520]  What goes well with beef?
+[16:25.120 --> 16:25.880]  Cheese, right?
+[16:26.180 --> 16:26.860]  Beef and cheese.
+[16:28.120 --> 16:31.380]  I'll be damned if I could get cheese to stay on my wrist for anything.
+[16:31.820 --> 16:33.040]  Any kind of cheese.
+[16:33.040 --> 16:35.140]  I gave up and then it struck me.
+[16:35.360 --> 16:36.540]  I'm overthinking it.
+[16:36.720 --> 16:38.340]  What do people like about beef?
+[16:38.420 --> 16:39.300]  They like that it's salty.
+[16:39.400 --> 16:42.000]  So what happens when you combine sweet and salty?
+[16:42.240 --> 16:44.180]  You get sweet and salty beef bracelet.
+[16:44.420 --> 16:46.820]  I already had the answer right there in front of me.
+[16:47.000 --> 16:53.000]  You just combine the candy necklace or the candy bracelet with the beef bracelet and you've got both.
+[16:53.100 --> 16:55.460]  You've got a sweet and salty bite all at once.
+[16:55.880 --> 16:56.980]  And you're getting your...
+[16:56.980 --> 17:01.380]  And you're scratching that sweet tooth urge.
+[17:01.380 --> 17:03.380]  And you're building up your protein.
+[17:03.760 --> 17:05.040]  And you get...
+[17:05.040 --> 17:06.880]  You're gonna be in the best shape of your life.
+[17:06.980 --> 17:10.880]  You're gonna be the most extreme mountain biker, swimmer.
+[17:10.920 --> 17:12.020]  Oh, that's another great thing, right?
+[17:12.620 --> 17:14.320]  It's a bit of a problem for the sweet and salty.
+[17:14.840 --> 17:15.640]  Candy bracelets?
+[17:15.940 --> 17:17.200]  They will melt in the rain.
+[17:17.460 --> 17:20.540]  However, beef is rain resistant.
+[17:21.720 --> 17:23.940]  You can wear this sucker in the ocean if you want to.
+[17:24.160 --> 17:24.360]  What?
+[17:24.440 --> 17:25.780]  Your beef gonna get saltier?
+[17:25.880 --> 17:26.760]  What do you mean?
+[17:28.800 --> 17:30.800]  You want to eat a load of wet beef?
+[17:30.800 --> 17:33.600]  No, I don't want to, but I'm saying you can if you have to.
+[17:33.840 --> 17:35.360]  I like that you went from...
+[17:35.360 --> 17:37.360]  Like you pressed stop last week and you're like...
+[17:38.700 --> 17:42.660]  Hard cut to you stapling and gluing beef to your arm.
+[17:43.080 --> 17:45.800]  How is that taking place?
+[17:46.060 --> 17:47.500]  Look at the state of that picture.
+[17:47.700 --> 17:48.960]  It looks foul.
+[17:49.180 --> 17:50.060]  It looks disgusting.
+[17:50.540 --> 17:53.040]  Well, I think I'll say thank you.
+[17:53.580 --> 17:54.480]  Oh my god.
+[17:54.820 --> 17:55.800]  I support this.
+[17:55.820 --> 17:57.240]  And then I wanted to...
+[17:57.240 --> 17:58.820]  Oh, I have one more for you guys too, right?
+[17:59.280 --> 18:01.820]  So I thought I need to make a commercial.
+[18:02.020 --> 18:02.960]  Now, I don't have the money.
+[18:03.520 --> 18:05.040]  Oh, these files are too powerful.
+[18:05.180 --> 18:06.460]  They're more than eight megs.
+[18:07.520 --> 18:09.320]  Oh, I can't show it to you.
+[18:09.380 --> 18:10.380]  You could text maybe.
+[18:10.680 --> 18:11.600]  Yeah, or the slack.
+[18:11.900 --> 18:13.180]  Okay, I'll slack it to f*** face.
+[18:13.660 --> 18:18.320]  So I filmed just to give you guys a clue of what I'm talking about.
+[18:18.400 --> 18:20.740]  And this goes back to what Gavin was saying about like...
+[18:21.360 --> 18:25.140]  Do I hunch my head down or do I bring my arm up?
+[18:25.140 --> 18:28.840]  I created a video to show how it works.
+[18:28.940 --> 18:31.640]  Now, when you watch the video, you'll have to take into consideration
+[18:31.640 --> 18:34.300]  that what I'm actually eating is...
+[18:34.300 --> 18:36.600]  Because I didn't have the beef bracelet on me at the time.
+[18:36.800 --> 18:37.480]  I'm actually...
+[18:37.480 --> 18:40.920]  I'm using a bracelet that says fart on it that Millie made for me.
+[18:41.120 --> 18:45.120]  And I'm using that to pantomime eating how the motion works.
+[18:45.180 --> 18:47.000]  Then what we'll do when we get some money,
+[18:47.160 --> 18:48.560]  like when you guys invest and other people invest,
+[18:48.640 --> 18:49.920]  we'll rotoscope in some beef.
+[18:50.100 --> 18:51.200]  Okay, I'm gonna watch this now.
+[18:51.320 --> 18:52.100]  Yeah, watch it.
+[18:56.260 --> 18:59.040]  Okay, yeah, he's one-handed it.
+[18:59.420 --> 19:01.400]  He's bringing the wrist up to his mouth.
+[19:01.620 --> 19:02.660]  He's having a little snack.
+[19:02.880 --> 19:05.400]  Obviously, this is just the model prototype.
+[19:05.460 --> 19:06.380]  Doesn't contain any beef.
+[19:06.760 --> 19:07.900]  Yeah, I can see that.
+[19:08.180 --> 19:10.260]  It's Geoff pretending to eat beads.
+[19:12.100 --> 19:13.980]  Yeah, you know what's great about that too?
+[19:14.420 --> 19:15.620]  It's so safe.
+[19:15.980 --> 19:18.360]  I was filming that whole thing with my left hand.
+[19:18.440 --> 19:19.660]  I didn't have any hands on the bike.
+[19:20.440 --> 19:23.360]  When you're eating a beef bracelet, you only need one hand.
+[19:23.520 --> 19:24.340]  I was able to do it.
+[19:24.340 --> 19:26.220]  I was able to continue without either.
+[19:26.680 --> 19:28.000]  It's gonna be twice as safe for you
+[19:28.000 --> 19:29.780]  because you're not gonna be filming yourself eating a beef bracelet.
+[19:29.900 --> 19:31.140]  You're just gonna be eating it and riding.
+[19:31.620 --> 19:32.800]  Boom, beef bracelet.
+[19:33.360 --> 19:35.440]  Imagine him getting wheeled off on a stretcher.
+[19:35.480 --> 19:36.120]  He's like, oh, what happened?
+[19:36.200 --> 19:40.220]  I couldn't eat the beef and hold the camera at the same time.
+[19:41.260 --> 19:45.860]  Could you imagine Geoff's bike fall with the beef bracelet on?
+[19:46.020 --> 19:48.800]  Adding that to the story, his beef launching everywhere.
+[19:49.340 --> 19:51.460]  All this thing is for me is...
+[19:52.400 --> 19:57.540]  I guess it's like if you die out in the world, it just attracts the raven sooner.
+[19:57.820 --> 19:59.840]  I think that's all this bracelet achieves.
+[20:00.740 --> 20:03.340]  Here's the one problem I need to solve for.
+[20:03.940 --> 20:08.420]  And I feel like we need to do some workshopping and I could use your help.
+[20:08.580 --> 20:12.560]  I'm bringing this to the F*** Face Council so that we can investigate this.
+[20:12.620 --> 20:14.000]  I think there's a lot of money in it for us.
+[20:14.340 --> 20:17.620]  I mean, just think about the athleisure wear industry.
+[20:17.620 --> 20:22.900]  You make an attractive beef bracelet that goes along with your lululemons.
+[20:23.480 --> 20:25.620]  It's a license to print money.
+[20:26.200 --> 20:30.980]  However, Gavin hit on the main drawback that I have with this is angry dogs.
+[20:31.880 --> 20:32.860]  I'm not sure.
+[20:33.240 --> 20:35.000]  Now, an angry dog can be a motivator.
+[20:35.120 --> 20:38.360]  If a dog is chasing you because of your beef bracelet and you're on a bike,
+[20:38.500 --> 20:39.460]  you're going to ride faster.
+[20:39.960 --> 20:44.240]  So I mean, I guess it could be considered beneficial in that way.
+[20:44.240 --> 20:48.860]  But I don't know if we need to make a in conjunction like an anti-dog and anti-bear spray
+[20:49.400 --> 20:53.800]  or I don't know, I'm open to hearing what the council has to say.
+[20:53.940 --> 20:55.220]  I think there are a variety of options.
+[20:55.380 --> 20:59.380]  How easy is it to rip a piece of beef off the bracelet if you need to throw it,
+[20:59.540 --> 21:01.100]  create a little bit of space for yourself?
+[21:01.240 --> 21:06.200]  Maybe an emergency release button or pull somehow if you need to evac the bracelet.
+[21:06.620 --> 21:11.380]  Here's the thing with the little like sweet, the candy bracelet is that you lean down
+[21:11.380 --> 21:13.540]  or you bring your wrist up and you crunch one off.
+[21:13.540 --> 21:19.320]  You don't sink your teeth in and then like pull away like you'd have to do with beef.
+[21:19.600 --> 21:22.720]  Surely if you're one-handed beef eating off your own wrist,
+[21:22.860 --> 21:24.540]  you're going to pull the bit of beef off.
+[21:24.740 --> 21:29.280]  It snaps the string and six pieces of beef go flying in every direction.
+[21:29.920 --> 21:33.000]  I can understand how you would be concerned about that,
+[21:33.060 --> 21:36.060]  but I can tell you in practice with my prototypes, that is not a concern.
+[21:36.260 --> 21:39.700]  And what's the state of your wrist after you've eaten candy and beef off your wrist?
+[21:40.000 --> 21:40.580]  That's delicious.
+[21:41.000 --> 21:41.780]  It smells fragrant.
+[21:42.040 --> 21:43.320]  Sticky though? A bit messy?
+[21:43.320 --> 21:44.880]  Sticky. Maybe. Maybe. Yeah.
+[21:44.980 --> 21:47.940]  But I mean, so am I. I've been riding my bike for 30 miles without stopping
+[21:47.940 --> 21:50.660]  because I didn't have to take a break to eat a beef jerky.
+[21:52.360 --> 21:55.380]  Do you think this is only for high performance athletes, Geoff?
+[21:55.480 --> 21:56.740]  You know, I think it could be for anyone.
+[21:57.220 --> 22:00.880]  I think it could be for anyone who cares about sustenance
+[22:00.880 --> 22:03.560]  and they don't want to break a stride while they're working out.
+[22:04.020 --> 22:06.880]  I guess the problem is like everyday person.
+[22:07.020 --> 22:10.520]  They they don't need they're not restricted to holding handlebars.
+[22:10.520 --> 22:13.880]  Yeah, it's more of a just like it's just like it's a convenience.
+[22:14.080 --> 22:16.060]  If you could wear your food, wouldn't you want to?
+[22:17.180 --> 22:17.820]  I would.
+[22:19.720 --> 22:22.580]  I would wear the beef bracelet, even if it wasn't.
+[22:22.700 --> 22:25.640]  I just like the look. I think there's there's a certain vibe
+[22:25.640 --> 22:29.340]  you're giving off with the beef bracelet that is unique to the market.
+[22:29.480 --> 22:32.020]  I just feel like if I was riding a bike, I could much more easily
+[22:32.020 --> 22:35.600]  pull a Slim Jim out from my jacket pocket and eat it.
+[22:35.820 --> 22:38.500]  And then open it up? Or are you going to have a dirty Slim Jim
+[22:38.500 --> 22:40.720]  rolling around in there collecting pocket lint?
+[22:41.040 --> 22:42.620]  Then you're eating a bunch of fuzz, dude.
+[22:42.780 --> 22:46.220]  No, and you're not going to want to open up a Slim Jim while you're on your bike.
+[22:46.300 --> 22:49.680]  That's harder than filming yourself eating a Slim Jim. I've done it.
+[22:49.800 --> 22:52.180]  What if I just open that? I pre-open the Slim Jim,
+[22:52.400 --> 22:55.460]  shove it behind my ear and then eat it as I go.
+[22:55.640 --> 22:56.800]  Just put it back up there.
+[22:59.000 --> 23:00.860]  Man, stop trying to poke holes.
+[23:01.180 --> 23:04.200]  Just let me get just let me make us rich, dickhead.
+[23:04.200 --> 23:11.640]  Or sunglasses with tubular ear rims that you can shove a Slim Jim on each one
+[23:11.640 --> 23:14.280]  and you just see them sticking out a little bit past your eyes.
+[23:16.180 --> 23:19.220]  Listen, I'm not opposed to that in tandem.
+[23:19.800 --> 23:21.940]  Like, this could be a whole suite of products.
+[23:22.060 --> 23:26.080]  And if you want to make sunglasses, beef jerky holder, I don't think that's a bad idea.
+[23:26.400 --> 23:29.180]  I think that those two, I don't think they have to work against each other.
+[23:29.240 --> 23:30.120]  I think they can work in tandem.
+[23:30.200 --> 23:30.720]  What about you, Andrew?
+[23:30.720 --> 23:32.680]  Geoff, I got I got a solution for this.
+[23:32.760 --> 23:35.540]  I think I think you're narrowing in on the wrist a little bit too much.
+[23:35.620 --> 23:37.480]  We get a hat. We get some fishing line.
+[23:37.720 --> 23:40.080]  We drape it down the front of the hat.
+[23:40.280 --> 23:41.680]  You don't even need to move your head.
+[23:41.740 --> 23:44.080]  You just kind of tilt it, let it fall in your mouth, biting down.
+[23:44.120 --> 23:46.220]  Like one of those Australian cork hats.
+[23:46.340 --> 23:48.240]  Yeah, but you look like an asshole.
+[23:48.860 --> 23:52.000]  Nobody even notices that you've got a bee bracelet on your face.
+[23:52.260 --> 23:54.160]  No, you don't. You just look like a dude with a bracelet.
+[23:54.560 --> 23:59.040]  No, I think we got to fully lean into this combination of clothing,
+[23:59.040 --> 24:01.600]  accessory that's also edible in part.
+[24:01.820 --> 24:03.320]  I'm all about that.
+[24:03.480 --> 24:07.820]  I just think that the beef bracelet is a great starting point, right?
+[24:08.160 --> 24:09.460]  Also, it is.
+[24:09.580 --> 24:16.140]  You start with one Chia Pet and then you franchise out to every every kind of head on earth, right?
+[24:16.280 --> 24:20.480]  That's we start with something simple that people can wrap their teeth and their brain around.
+[24:20.860 --> 24:21.720]  A beef bracelet.
+[24:22.120 --> 24:23.920]  And then we go beef hats.
+[24:24.100 --> 24:25.420]  We go beef fucking.
+[24:25.740 --> 24:27.740]  We go like, oh, how about you know, like,
+[24:27.740 --> 24:30.180]  you know how people wear like, like what's his name?
+[24:30.260 --> 24:32.420]  Fucking Brett Favre is always like wear copper.
+[24:32.740 --> 24:34.220]  It makes your elbow hurt less.
+[24:34.600 --> 24:36.420]  What if we made like beef arm braces?
+[24:36.880 --> 24:37.900]  And then you can use it.
+[24:38.000 --> 24:40.760]  You could fucking use it to protect yourself while you play football.
+[24:40.840 --> 24:44.100]  Then if you get hungry, just like, you know, like there's a million ways we can take it.
+[24:44.360 --> 24:47.820]  I don't think I want to eat sweaty beef is the thing I'd want to avoid.
+[24:47.900 --> 24:50.360]  That beef was sweating way back when it was alive.
+[24:50.400 --> 24:50.920]  What do you care?
+[24:51.200 --> 24:55.040]  I just feel like the bottom of my wrist, you know, if you walk into somewhere,
+[24:55.040 --> 24:58.500]  you sign in, your beef is going to be smearing on their table.
+[24:58.600 --> 24:59.840]  It's not going to be hygienic.
+[25:00.220 --> 25:00.560]  I don't know.
+[25:00.620 --> 25:02.620]  I can't remember the last time I signed in somewhere.
+[25:03.380 --> 25:04.420]  Yeah, well, I'm sorry.
+[25:04.480 --> 25:06.720]  Are you going to be signing in to ride your mountain bike?
+[25:06.920 --> 25:07.420]  Like, what are you?
+[25:08.060 --> 25:09.700]  I'm not telling you to wear it to the dentist.
+[25:10.060 --> 25:11.700]  But also you have to take it off to dump.
+[25:12.380 --> 25:15.620]  You can't be shoving your beef down the toilet while you wipe.
+[25:15.800 --> 25:16.420]  You're not.
+[25:16.680 --> 25:19.080]  This is for this is for bike riding, not shitting.
+[25:19.620 --> 25:22.820]  You know, you know, it's not for extreme shitting.
+[25:23.820 --> 25:25.140]  OK, so you only put it on.
+[25:25.960 --> 25:28.600]  It's like if you're hanging off the fucking side of a cliff, you know,
+[25:28.700 --> 25:30.340]  mountain climbing like my cousin or whatever.
+[25:30.580 --> 25:34.020]  And you're like, I'm a thousand feet from anywhere and I'm fucking hungry.
+[25:34.080 --> 25:37.540]  And I have to be so careful about what I put in my pockets
+[25:37.540 --> 25:39.440]  because I have to have all the right shit.
+[25:39.760 --> 25:40.640]  Oh, thank God.
+[25:40.980 --> 25:43.140]  Thank God I had the beef bracelet on.
+[25:43.260 --> 25:45.000]  I probably just saved my own life.
+[25:45.100 --> 25:45.980]  I'd be willing to try it.
+[25:46.020 --> 25:46.520]  I'd give it a go.
+[25:46.840 --> 25:47.540]  Yeah, thank you.
+[25:47.700 --> 25:48.400]  I appreciate that.
+[25:48.680 --> 25:50.000]  I appreciate your openness.
+[25:50.500 --> 25:52.540]  Have you attempted using both wrists?
+[25:52.540 --> 25:54.260]  It feels like you're really loading up on one.
+[25:54.380 --> 25:56.680]  I think I almost want my sweet on the left wrist.
+[25:56.800 --> 25:57.180]  Oh, yeah.
+[25:57.200 --> 25:58.180]  Salty on the right.
+[25:58.360 --> 26:00.200]  Get the dessert on the other wrist.
+[26:00.300 --> 26:00.520]  Yeah.
+[26:00.760 --> 26:02.140]  I like where you're going with that.
+[26:02.280 --> 26:02.700]  I did.
+[26:02.860 --> 26:04.160]  There was a there was a prototype.
+[26:04.500 --> 26:06.760]  There was an all cheese one for my left wrist.
+[26:07.420 --> 26:11.900]  And in addition to the cheese and beef combo, it just didn't work.
+[26:12.000 --> 26:15.220]  But I think that they're, you know, I mean, this is me in my kitchen, right?
+[26:15.240 --> 26:16.540]  Mad sciencing this.
+[26:16.860 --> 26:20.120]  When we get labs involved and, you know, professional
+[26:21.160 --> 26:25.300]  distributors, they're going to be able to figure out ways to streamline and to make these things
+[26:25.300 --> 26:26.680]  work for both of us.
+[26:26.740 --> 26:31.580]  I feel like maybe three little pots on the front of your handlebars with different sources
+[26:31.960 --> 26:33.040]  would go well with this.
+[26:33.120 --> 26:35.680]  And you have a little wrist dunk, maybe in some mustard.
+[26:35.820 --> 26:38.940]  Another one got a little bit of horseradish or something if we're sticking with the beef theme.
+[26:39.020 --> 26:40.140]  I think that'd be pretty good.
+[26:40.440 --> 26:41.580]  Now, that's a good idea.
+[26:41.980 --> 26:42.780]  I like that.
+[26:43.180 --> 26:46.680]  I'd say the other problem that we have with this so far is that you haven't actually done
+[26:46.680 --> 26:47.000]  anything.
+[26:47.180 --> 26:50.120]  You've just applied other products to your wrist that people make.
+[26:50.560 --> 26:51.180]  You don't know.
+[26:51.240 --> 26:52.420]  You don't really own any of this.
+[26:53.740 --> 26:54.360]  What do you mean?
+[26:54.420 --> 26:55.120]  Candy bracelet.
+[26:55.260 --> 26:56.260]  Well, like you got a candy.
+[26:56.380 --> 26:56.880]  Your candy.
+[26:56.940 --> 26:57.900]  Oh, I see what you're saying.
+[26:57.900 --> 26:58.580]  I see what you're saying.
+[26:58.680 --> 26:59.080]  Someone else.
+[26:59.260 --> 26:59.800]  Yeah, yeah, yeah.
+[26:59.800 --> 27:02.700]  No, you don't have any way to source any of these products yourself.
+[27:03.020 --> 27:06.520]  You're just buying Slim Jims and yeah, for for prototypes.
+[27:06.740 --> 27:08.780]  But you are technically correct.
+[27:09.080 --> 27:09.360]  I do.
+[27:09.420 --> 27:10.200]  I have an answer for that.
+[27:10.240 --> 27:11.440]  I do have a dehydrator.
+[27:11.920 --> 27:13.140]  I can make real jerky.
+[27:13.260 --> 27:14.440]  Yeah, well, I want to.
+[27:14.580 --> 27:15.620]  OK, OK.
+[27:15.620 --> 27:17.260]  That's not out of reach for me, man.
+[27:17.420 --> 27:19.360]  That's yeah, you pickle.
+[27:19.580 --> 27:22.720]  I dehydrate will be a perfect combo anyway.
+[27:22.940 --> 27:24.800]  Yeah, obviously there are issues.
+[27:24.880 --> 27:26.780]  I'm not going to be producing the shit out of my house.
+[27:26.780 --> 27:29.460]  You know, like I don't think you just said you.
+[27:29.560 --> 27:34.220]  I don't think that I don't think that Jim has a Slim Jim line in his in his living room.
+[27:34.220 --> 27:38.860]  You know, I'll I'll fucking I'll snap into it somewhere in a warehouse.
+[27:39.020 --> 27:40.420]  But I just trying to get that.
+[27:40.500 --> 27:43.400]  I'm just trying to get the idea out there so you guys can wrap your heads around it,
+[27:43.400 --> 27:50.040]  buy into it, hopefully bite into it and and invest in this really exciting new product
+[27:50.040 --> 27:52.700]  that I think is going to it could be a really it could be a big boon
+[27:52.700 --> 27:54.820]  financially for Rooster Teeth and F*** Face.
+[27:54.940 --> 27:58.840]  You know how they shave off the kebab meat in my strips?
+[27:59.140 --> 28:00.740]  I think that would make quite a good tie.
+[28:05.240 --> 28:06.700]  Very easy to dip, too.
+[28:06.900 --> 28:07.900]  That's what I like about the tie.
+[28:07.960 --> 28:10.680]  I would have length, just do a little like bend over, dip it in.
+[28:10.760 --> 28:12.800]  I dip by accident when I wear a tie.
+[28:13.420 --> 28:15.300]  It always gets in your food.
+[28:15.440 --> 28:16.580]  I like that.
+[28:16.800 --> 28:17.900]  I think this is a great idea.
+[28:18.180 --> 28:18.960]  I like that.
+[28:19.360 --> 28:21.900]  Food as an adult isn't as fun as it should be.
+[28:21.980 --> 28:24.600]  You kind of lose all the fun food items you grow out of it.
+[28:24.660 --> 28:27.720]  I really like the idea of the fun bracelet, the dipping.
+[28:28.100 --> 28:30.520]  There's a lot of joy to be had in this product line.
+[28:30.900 --> 28:31.820]  I would certainly invest.
+[28:31.900 --> 28:34.980]  Maybe if you're really hungry, there's some sort of big like steak gauntlet.
+[28:35.240 --> 28:40.420]  This is why I took it to you guys, because you guys are similarly visionaries.
+[28:40.420 --> 28:44.040]  And you guys can take and help me get this over the finish line.
+[28:44.120 --> 28:46.760]  So we can make something that's greater than the sum of our parts together.
+[28:46.960 --> 28:49.420]  I'm so fucking excited to be working on beef bracelet with you guys.
+[28:49.560 --> 28:54.140]  I'm so fucking excited to be working on beef tie or like shawarma tie, whatever it is.
+[28:54.340 --> 28:55.540]  I just I'm jazzed, man.
+[28:55.580 --> 28:56.640]  I'm really fucking jazzed.
+[28:56.680 --> 28:57.320]  I'm really excited.
+[28:57.480 --> 29:00.060]  I think that 2021 is going to be bright for us.
+[29:00.700 --> 29:02.440]  Do you have a name for the product?
+[29:02.780 --> 29:03.740]  Is my only question.
+[29:04.000 --> 29:05.080]  You're looking at it, my friend.
+[29:05.300 --> 29:09.520]  You can't have a beef bracelet and not have like, what if we want to do chicken?
+[29:09.520 --> 29:10.720]  What if we want to do chicken?
+[29:10.860 --> 29:12.980]  Like, is it just we're going to change the name of it?
+[29:13.460 --> 29:15.860]  I mean, bracelet works with beef, though.
+[29:15.920 --> 29:18.420]  It works with like brisket bracelet also works.
+[29:19.040 --> 29:19.840]  Yeah, brisket bracelet.
+[29:20.060 --> 29:22.160]  It just narrows in what it is.
+[29:22.240 --> 29:25.940]  I feel like we should have a product name that kind of could cover all possible food items.
+[29:26.220 --> 29:27.760]  Did you have an idea?
+[29:28.180 --> 29:28.940]  No, not at all.
+[29:29.000 --> 29:32.220]  I was just thinking like we're kind of narrowing in on beef bracelet.
+[29:32.420 --> 29:37.220]  I love the beef bracelet, but it would be nice to have some form of name that would maybe expand
+[29:37.220 --> 29:38.520]  across other items.
+[29:38.820 --> 29:39.020]  Uniform.
+[29:39.040 --> 29:40.180]  Especially if we want to do hats.
+[29:40.920 --> 29:41.440]  Uniform?
+[29:42.920 --> 29:44.160]  I don't mind uniform.
+[29:47.800 --> 29:49.820]  I think uniform can work.
+[29:49.940 --> 29:51.100]  Uniform is not bad.
+[29:51.180 --> 29:52.300]  All right, we're going to put a pin in that.
+[29:52.640 --> 29:55.860]  Tentatively, beef bracelet is a product of uniform.
+[29:56.360 --> 29:59.500]  It's like Unilever, how they own almost everything.
+[30:00.300 --> 30:01.620]  Like they're the overseeing company.
+[30:02.680 --> 30:03.760]  Oh, God.
+[30:04.340 --> 30:05.420]  Oh, man.
+[30:05.520 --> 30:10.180]  You guys have warmed my heart being so receptive to this idea.
+[30:10.280 --> 30:10.960]  You have no idea.
+[30:12.080 --> 30:16.120]  When you're in the lab, as they say, creating, you don't know.
+[30:17.540 --> 30:20.580]  It's a difficult situation where I want to reach out to you two,
+[30:20.980 --> 30:24.700]  my chief creative partners in life, and get your feedback.
+[30:25.040 --> 30:31.720]  But I can't do it because then that fucks up the efficacy of the podcast, right?
+[30:31.720 --> 30:34.340]  And so it just makes it a little bit harder.
+[30:34.480 --> 30:36.240]  So you say, like, I've been sitting on beef bracelet for a week,
+[30:36.360 --> 30:39.520]  just worrying that this wasn't a good idea.
+[30:39.800 --> 30:40.680]  Does that make it taste better?
+[30:41.060 --> 30:42.260]  Adopt it. Yeah, it does.
+[30:43.440 --> 30:45.840]  The salt is a little bit sweeter today.
+[30:46.320 --> 30:46.340]  Yeah.
+[30:46.460 --> 30:49.720]  I want to know, because I feel like we're all in,
+[30:50.000 --> 30:51.860]  like Andrew and I, obviously, we want to point out the flaws.
+[30:51.960 --> 30:53.800]  We want to, you know, get involved even more.
+[30:54.240 --> 30:58.760]  Eric is usually the downer of the podcast, is usually the one based in realism.
+[30:58.940 --> 31:00.360]  Eric, what are your thoughts on beef bracelet?
+[31:00.360 --> 31:02.560]  Eric and Nick, feel free to hop into.
+[31:02.880 --> 31:06.160]  I'm still, I'm all for it. I say go for it.
+[31:06.280 --> 31:10.000]  I think Geoff keeps talking about high performance athletes and his bike.
+[31:10.120 --> 31:14.660]  And I don't know if I'm on board with calling that bike a bike for high performance athletes.
+[31:15.800 --> 31:19.600]  I think that we still haven't solved the quick release problem
+[31:19.600 --> 31:21.900]  for any dogs that might come after you.
+[31:23.440 --> 31:27.840]  However, those are just issues that can be solved later once it's out of beta.
+[31:28.580 --> 31:30.780]  That's what we need to take the Apple route.
+[31:30.940 --> 31:33.320]  We need to sell this now to people.
+[31:33.720 --> 31:36.580]  So they buy it, they test it for us, paid beta testing.
+[31:36.880 --> 31:40.600]  And then we come out with Beef Bracelet 2.0 and it's got all the bells and whistles.
+[31:40.920 --> 31:43.180]  So I say, yay, I'm in favor.
+[31:43.520 --> 31:43.780]  Wow.
+[31:43.960 --> 31:47.140]  Eric, I am so glad to have you on board.
+[31:47.580 --> 31:48.480]  What a visionary.
+[31:49.040 --> 31:49.200]  Nick.
+[31:49.240 --> 31:49.720]  I'm excited.
+[31:50.180 --> 31:52.760]  I would like to hear your affirmations as well.
+[31:53.060 --> 31:53.500]  Absolutely.
+[31:54.000 --> 31:54.620]  Hell yeah.
+[31:55.280 --> 31:56.220]  Oh, this is exciting.
+[31:56.220 --> 31:57.740]  That's five for five.
+[31:59.000 --> 32:01.760]  Is this... what is the company name for...
+[32:01.760 --> 32:04.560]  So we have Unifarm is our pin name.
+[32:04.900 --> 32:06.920]  Is this a Rooster Teeth product?
+[32:06.960 --> 32:07.860]  Is it our own product?
+[32:07.960 --> 32:08.480]  What is this?
+[32:08.520 --> 32:09.940]  Maybe it's not the Rooster Teeth store.
+[32:10.160 --> 32:10.760]  It could be.
+[32:10.900 --> 32:11.500]  That's a good point.
+[32:11.640 --> 32:13.180]  Could we... how do we get people...
+[32:13.880 --> 32:17.840]  Do you think Unifarm being based on Uniform, do you think that's too like...
+[32:17.840 --> 32:19.560]  It reminds people too much of work though?
+[32:20.680 --> 32:21.520]  Or school?
+[32:21.640 --> 32:25.640]  Do you think the Beef Bracelet will remind people of their professional lives?
+[32:26.680 --> 32:31.180]  I want to see if you could actually fit like three courses on your body.
+[32:35.480 --> 32:36.720]  That's actually a good point.
+[32:36.980 --> 32:37.940]  Like a salad.
+[32:39.900 --> 32:43.720]  The nice thing about this is that the audience is going to help out.
+[32:43.900 --> 32:45.940]  You know, they always provide insights.
+[32:46.120 --> 32:49.200]  They'll have... somebody out there is going to have a brilliant idea for a name or some
+[32:49.200 --> 32:50.980]  avenue we haven't even thought of yet.
+[32:51.600 --> 32:52.720]  And I'm excited.
+[32:52.800 --> 32:53.540]  I'm just excited for that.
+[32:53.540 --> 32:57.280]  I'm excited to breathe this idea out into the world and then see the world change and
+[32:57.280 --> 33:00.480]  become a better place because of... in some small way because of us.
+[33:00.920 --> 33:04.440]  There is a lot of food that I like that is annoying to eat.
+[33:04.780 --> 33:06.600]  But you definitely can't eat on the go.
+[33:07.180 --> 33:09.060]  Yeah, I feel like this got some legs.
+[33:09.420 --> 33:09.880]  Thanks, man.
+[33:10.340 --> 33:12.940]  And in those legs, we're going to put eatable pants.
+[33:13.300 --> 33:13.420]  Yeah.
+[33:17.320 --> 33:17.760]  I...
+[33:20.560 --> 33:23.340]  Those pictures, they look so disgusting.
+[33:23.700 --> 33:28.480]  I'm not sure if it's because of your injured hand mixed with the rubber bands and all the
+[33:28.480 --> 33:30.540]  tattoo and just the meat all over it.
+[33:30.560 --> 33:32.820]  It's a very fleshy picture.
+[33:33.160 --> 33:33.840]  Yeah, it is.
+[33:33.860 --> 33:34.240]  I agree.
+[33:35.960 --> 33:39.460]  The Slim Jim just... it makes me fearful of you.
+[33:39.700 --> 33:43.300]  If I saw somebody walk out with a Slim Jim bracelet, I do not mess with that guy.
+[33:43.560 --> 33:46.280]  Now, well, that could be another benefit to personal security.
+[33:46.700 --> 33:47.540]  That's something to think about.
+[33:49.400 --> 33:53.180]  If someone is willing to wear a beef bracelet, you don't know what they're capable of.
+[33:53.320 --> 33:54.520]  They're capable of a lot.
+[33:54.640 --> 33:57.360]  They're capable of... they've got beef fist.
+[33:57.600 --> 33:58.500]  You don't want to fuck with them.
+[34:03.290 --> 34:07.970]  This show was brought to you by our show's new sponsor, BetterHelp Online Therapy.
+[34:08.070 --> 34:09.390]  A lot of us take care of our bodies.
+[34:09.890 --> 34:11.010]  Superfan Jack does not.
+[34:11.330 --> 34:15.990]  But 2020 and 2021 have been tough, so we might want to take care of our minds.
+[34:16.490 --> 34:20.230]  I would say there's a pretty common misconception about what therapy is.
+[34:20.230 --> 34:22.670]  And the reality is it can be whatever you want it to be.
+[34:22.790 --> 34:26.110]  It doesn't have to be just sitting around talking about your feelings.
+[34:26.630 --> 34:31.170]  A lot of people struggle with anger and stress and how to handle that.
+[34:31.490 --> 34:33.670]  Or depression or anxiety.
+[34:34.390 --> 34:37.210]  A multitude of things can cause PTSD.
+[34:38.090 --> 34:39.750]  The list... it goes on and on.
+[34:40.090 --> 34:44.510]  If this sounds like you, you can use therapy to get some tools that'll make your life easier.
+[34:44.970 --> 34:46.750]  I mean, I think I'm proof of that.
+[34:47.370 --> 34:48.950]  Therapy is an integral part of my life.
+[34:48.950 --> 34:55.850]  And I wouldn't be who I am or maybe even here if it weren't for the help of a lot of talented people.
+[34:56.370 --> 34:59.690]  BetterHelp is customized online therapy that offers video,
+[34:59.970 --> 35:02.650]  phone, and even live chat sessions with your therapist.
+[35:02.950 --> 35:05.550]  So you don't have to see anyone on camera if you don't want to.
+[35:05.850 --> 35:07.770]  It's much more affordable than in-person therapy,
+[35:07.970 --> 35:11.090]  and you can start communicating with your therapist in under 48 hours.
+[35:11.490 --> 35:14.890]  So join the millions of people who are seeing what therapy is really about.
+[35:14.890 --> 35:19.350]  It's always a good time to invest in yourself because you are your greatest asset.
+[35:19.890 --> 35:21.950]  This podcast is sponsored by BetterHelp,
+[35:22.070 --> 35:28.090]  and f***face listeners get 10% off their first month at BetterHelp.com slash face.
+[35:28.290 --> 35:34.370]  That's B-E-T-T-E-R-H-E-L-P dot com slash face.
+[35:34.830 --> 35:39.470]  Go to BetterHelp.com slash face to get 10% off your first month of BetterHelp.
+[35:40.030 --> 35:45.010]  Hey, it's 2021. Stop being gross and old and dirty in your butt area.
+[35:45.450 --> 35:48.210]  Get a bidet. Go the extra mile. Do it.
+[35:48.470 --> 35:51.490]  Your butt'll thank you. Your underwear will thank you.
+[35:51.710 --> 35:55.330]  Your loved ones will thank you. Strangers on the street are gonna thank you.
+[35:55.550 --> 35:57.550]  It's the future of toileting, and it's arrived.
+[35:57.850 --> 36:00.770]  And it's also technically been here for a very, very, very long time.
+[36:01.070 --> 36:07.050]  Hundreds of years, at least, people have figured out the mysteries of unlocking the clean butthole.
+[36:07.050 --> 36:10.690]  However, in the past, it has cost exorbitant fees.
+[36:11.010 --> 36:13.910]  If you wanted to use a bidet, you either had to pay the thousands of dollars
+[36:13.910 --> 36:19.470]  to get one installed in your house, or you had to pay the thousands of dollars to hop on a plane
+[36:19.470 --> 36:25.650]  to fly to, I don't know, France, use a bidet, dry off, I assume, and then fly all the way home.
+[36:25.870 --> 36:31.750]  That's like a minimum probably 32 hours you're gonna put into using a bidet pre-tushy.
+[36:31.750 --> 36:38.810]  Ay yi yi. Thank God the brand new Hello Tushy 3.0 modern bidet attachment is here
+[36:38.810 --> 36:43.630]  to level the playing field. What playing field? I guess the toilet playing field,
+[36:43.730 --> 36:47.870]  the poopoo playing field. It's stylish, it's eco-friendly, it's easy to install,
+[36:48.050 --> 36:53.210]  and it's super affordable. And Hello Tushy 3.0 doesn't just cleanse your butt with its precise
+[36:53.210 --> 36:58.310]  stream of fresh water, although it does that, and it's delightful. It also cleans itself before
+[36:58.310 --> 37:03.150]  and after it's used with the SmartSpray automatic self-cleaning nozzle, which is something I wish
+[37:03.150 --> 37:08.270]  I could install on me post-haste. It attaches to your existing toilet, it requires no electricity
+[37:08.270 --> 37:13.950]  or additional plumbing, and it cuts toilet paper use by 80%. So the Hello Tushy bidet pays for
+[37:13.950 --> 37:18.510]  itself in just a few months. You'd be a fool not to get one. You'd be a dirty fool, you'd be a
+[37:18.510 --> 37:24.650]  crusty butthole fool. And if you're still one of those suckers who's wiping, ay yi yi, just poop,
+[37:24.650 --> 37:31.230]  spray, dry, go. Hello Tushy, and it's sanitary because of the smooch shield that offers
+[37:31.230 --> 37:36.950]  cleaning and the knobs are naturally antimicrobial. Once again, wish I was naturally antimicrobial.
+[37:37.250 --> 37:41.930]  Unfortunately, I am not. Plus, every Hello Tushy bidet attachment comes with a 60-day
+[37:41.930 --> 37:47.330]  risk-free guarantee and a 12-month warranty. Those are both fancy, important-sounding numbers.
+[37:47.490 --> 37:52.290]  Already got a tush on your pot? Well, upgrade to the new 3.0 model. If you're new to the revolution,
+[37:52.290 --> 37:57.890]  join millions of happy Hello Tushy customers right now and have a clean butt with every flush.
+[37:59.550 --> 38:03.950]  Do you hear that sound? That's the sound of a clean butthole. Go to hellotushy.com
+[38:03.950 --> 38:08.910]  slash face and get 10% off plus free shipping. This is a special offer for our listeners,
+[38:09.330 --> 38:15.310]  so go to hellotushy.com slash face for 10% off. That's hellotushy.com slash face.
+[38:17.170 --> 38:25.970]  Alright, well, I'd like to move on to the second thing that happened. After I landed on the idea
+[38:25.970 --> 38:29.950]  of the beef bracelet, and I spent a few days perfecting those images, and I made the video,
+[38:30.490 --> 38:35.970]  did some testing, obviously, I wasn't done. I've also, as you know, been kind of obsessed
+[38:35.970 --> 38:43.090]  with collecting basketball cards and the idea of collecting in general, reconnecting with that.
+[38:43.090 --> 38:46.910]  I even had the realization a while back that Achievement Hunter, which is the side
+[38:46.910 --> 38:51.510]  arm of Rooster Teeth that we started 12 years ago, actually was just video game collectibles,
+[38:51.630 --> 38:55.950]  right? We were just digital collectibles. And so I realized that this obsession with
+[38:55.950 --> 39:01.310]  collecting has kind of been pervasive in my life. And so I was thinking about that and trying to
+[39:01.310 --> 39:05.230]  figure out... F***face, we touched on a little bit with the F***face collection. We've done
+[39:05.230 --> 39:08.890]  the Don Zimmer stuff. And I kind of want to figure out a way to expand upon that.
+[39:09.390 --> 39:14.290]  NFTs are hot. Everybody's into the idea of an NFT. Gavin, Andrew, do you know what NFTs are?
+[39:14.610 --> 39:15.230]  Yeah, I do.
+[39:15.450 --> 39:20.310]  Yeah, OK. An NFT stands for Non-Fungible Token. If you don't know what that is,
+[39:20.370 --> 39:23.690]  it's not because you're dumb, because I didn't know what it is either, although I am done.
+[39:24.010 --> 39:29.270]  I had to look it up. A non-fungible token is an item that can't be replaced by another item
+[39:29.850 --> 39:34.270]  identically of same value, like a one of a kind. Like if I had a dollar bill
+[39:34.270 --> 39:38.890]  and Andrew had a dollar bill, if we switch those dollar bills, we'd both still have the same value.
+[39:39.050 --> 39:45.290]  You can't do that with a one of a kind item, like a one of one Don Zimmer baseball card.
+[39:45.510 --> 39:48.370]  If it's the only one in existence, it's the only one in existence. That's non-fungible.
+[39:48.710 --> 39:53.230]  So what the smart people on the internet have done is they've created these things called NFTs,
+[39:53.370 --> 40:00.370]  non-fungible tokens, that basically are items that are digitally unique and can be proven as such.
+[40:00.370 --> 40:06.310]  And the way they do that is by creating them on the blockchain. I'm sure you've all heard about
+[40:06.310 --> 40:09.030]  the blockchain. I don't know if you know what it is or not. I'm not going to get into that.
+[40:09.290 --> 40:16.310]  But it's a chain and it's created with blocks. And that's essentially it. However, you can basically
+[40:16.310 --> 40:21.730]  create a digital signature of an item that originates on the blockchain. It's called minting.
+[40:21.870 --> 40:25.610]  And that basically says that no matter what happens to this file going forward,
+[40:25.630 --> 40:28.910]  this is the only one of that file or one of five of that file or whatever.
+[40:28.910 --> 40:35.970]  And so collectibles have started to catch on to this idea. It's a cool idea because
+[40:35.970 --> 40:41.690]  artists can now sell their art directly to a consumer via an NFT marketplace,
+[40:41.870 --> 40:45.170]  whether it's digital art in a way that people weren't able to do before. You could do music,
+[40:45.750 --> 40:52.450]  you could do anything. Anything that qualifies as art, right? Animated GIFs sell whatever it is.
+[40:52.490 --> 40:57.790]  The most expensive piece of digital art just sold at Christie's auction. I think it's Bleeple
+[40:57.790 --> 41:01.490]  is the artist. I'm not familiar. Very famous. Apparently, I'm out of the loop.
+[41:01.950 --> 41:08.290]  Sold for $69 million today or yesterday. And it's just an image. But it was authenticated
+[41:08.290 --> 41:12.890]  on a blockchain. It's an NFT and it's the only one of its kind. NBA has this service called
+[41:12.890 --> 41:20.810]  Top Shot now, where they sell digital packs. And a pack has three clips. Clips are 10 seconds long.
+[41:21.090 --> 41:27.110]  And they're moments from players. So instead of getting a LeBron James basketball card,
+[41:27.110 --> 41:32.910]  you get a LeBron James video of a LeBron James dunk in an important game at an important time,
+[41:33.450 --> 41:40.190]  as an example. And then you now own... If there's 1000 of that in LeBron James dunk,
+[41:40.470 --> 41:43.610]  you own one of 1000. Or if there's only one, you own that one.
+[41:44.110 --> 41:49.130]  That thing has taken off to such a degree. I tried... During All-Star Weekend, I tried to get
+[41:49.130 --> 41:55.390]  in to buy some packs because they ran out and they can't make them fast enough. I got in line.
+[41:55.390 --> 42:02.290]  I was never closer than 129,000th in line to buy the packs this last weekend. And they only
+[42:02.290 --> 42:07.930]  released them in 60,000 chunks. And I tried it three times. And after you get the one the first
+[42:07.930 --> 42:14.370]  time, you're not eligible to get back in line. So each time they would throw 60,000 of those packs
+[42:14.370 --> 42:18.610]  out, people would buy them. And then immediately... My point being, I never got any closer. It was
+[42:18.610 --> 42:22.490]  like there's millions of people trying to get those stupid packs. Anyway, NFTs are going crazy.
+[42:22.550 --> 42:25.130]  They're going everywhere. So I've been reading about them. And I've been learning about them.
+[42:25.130 --> 42:30.850]  I've been thinking about them. And I decided that why not become an NFT artist myself? And so if
+[42:30.850 --> 42:38.010]  you'll look in the Discord, I have created my first NFT and I've shared it with you.
+[42:38.210 --> 42:44.730]  Okay. One of one ham sandwich. I'd say... Did you take these photos, Geoff?
+[42:44.970 --> 42:49.350]  I took the photos. Yes. And it's one photo and one video. If you click on the photo,
+[42:49.350 --> 42:59.950]  you get to see a video authenticating it. And you can buy that. It's the only one in existence.
+[43:00.210 --> 43:06.210]  Now, no one has purchased it yet. I understand that... Well, I haven't gotten the word out there.
+[43:06.530 --> 43:09.310]  But let me read the description for you to understand what's happening here. There's a
+[43:09.310 --> 43:14.450]  picture of a ham sandwich and on it, in mustard, painted with a paintbrush, because this is art.
+[43:14.450 --> 43:19.410]  It says one of one. It is the only sandwich I made that day. It is the only sandwich made with
+[43:19.410 --> 43:24.470]  those specific ingredients at that moment in the world. I then ate that sandwich. It no longer
+[43:24.470 --> 43:29.610]  exists. So I think this description of the art adequately surmises what you're getting here.
+[43:29.850 --> 43:36.310]  Only one of its kind, extremely rare as sandwich no longer on earth in this form, has been
+[43:36.310 --> 43:42.150]  responsibly biologically recycled. You can own the only remaining evidence of this ham sandwich's
+[43:42.150 --> 43:48.030]  life. A once-in-a-lifetime opportunity to possess a piece of pure ephemera. Included are the only
+[43:48.030 --> 43:52.230]  surviving picture of said ham sandwich, as well as a short video of me eating the first bite.
+[43:52.590 --> 43:58.350]  You can buy that. Believe it or not, that was a tremendous amount of effort. It took me two days
+[43:59.030 --> 44:08.330]  of creating accounts across fucking MetaMask, Binance, Coinbase, every... diving into blockchain
+[44:08.330 --> 44:14.630]  and all this nonsense to be able to list it. Then I thought, I'm gonna list this thing.
+[44:15.370 --> 44:19.170]  Obviously you want your art to sell for like a billion dollars, right? I mean, that's the goal.
+[44:19.570 --> 44:24.870]  But I don't feel... I feel like that's... I feel like art has to be earned. So I put it up at what
+[44:24.870 --> 44:28.830]  I thought was a really reasonable cheap price. I'm selling it for one-tenth of one Ethereum,
+[44:29.350 --> 44:32.730]  which I thought was not a lot of money. It's like a hundred bucks. So it's a little more than I
+[44:32.730 --> 44:38.410]  wanted it to be. I thought one-tenth of one dollar would be like 30 cents. I didn't realize
+[44:38.410 --> 44:41.230]  it would be like a hundred and something dollars, but it's up there. It's for sale.
+[44:41.570 --> 44:45.190]  I hope somebody sees it. I hope somebody likes it. I hope somebody... it brings somebody joy
+[44:45.190 --> 44:51.790]  and they can... they can relish in the idea that they have the only ham sandwich NFT on earth.
+[44:51.930 --> 44:56.710]  I like that... I like that you went... you took NFTs straight to the ham zone.
+[44:58.730 --> 44:59.710]  It's a great point.
+[44:59.710 --> 45:04.470]  You're goddamn right I did, Gavin, and let me tell you why. I'm glad you brought that up. Well,
+[45:04.590 --> 45:08.490]  A, I think consistency is important. When I think sandwich, I think ham sandwich. We even
+[45:08.490 --> 45:13.210]  had a discussion about that recently. But I also, you know, I'm a man who dabbles in the ham zone.
+[45:13.590 --> 45:18.450]  I'm not... I would be lying. I would be lying, Andrew. I'd be lying, Gavin, if I... if I said
+[45:18.450 --> 45:23.070]  that... if I didn't say that there were... that... that I had some... some visions... some... some
+[45:23.070 --> 45:27.210]  places I'd like to take this. First of all, one cool thing about this little piece of art, if you
+[45:27.210 --> 45:33.170]  buy it, what I was trying to do, uh, is create ham... you guys remember hams across America?
+[45:33.630 --> 45:38.010]  Yeah. Yes. You want hams across America? I wanted to create hams across America,
+[45:38.370 --> 45:42.070]  hams across the world, ham sandwich across the world. I was hoping somebody would buy this
+[45:42.070 --> 45:46.010]  for next to nothing, they would hold on to it for a while, and then they would sell it to somebody,
+[45:46.130 --> 45:50.990]  and people would keep selling it and buying it at a really reasonable price, and then people could
+[45:50.990 --> 45:54.990]  share this ham sandwich, and everybody could own a bite of it, if you will, just for a small period
+[45:54.990 --> 46:00.870]  of time. However, getting back to the ham zone, Gavin, we've... we've essentially turned the
+[46:00.870 --> 46:05.590]  collecting world on its head with Don Zimmer, and we've created what could be a... a piece of
+[46:05.590 --> 46:11.230]  physical currency in... in Zimmer's, right? Like, someday, if things continue at this pace, someday,
+[46:11.490 --> 46:17.070]  you could potentially go to, like, a bodega in New York, or, like, to go get a... a flat tire fixed
+[46:17.070 --> 46:22.330]  in Austin, and pay in Zim's. It's possible. You could pay in, like, you could be, how much is that?
+[46:22.330 --> 46:27.350]  You'd be like, well, yeah, I fixed a flat tire, and I... I had to align your wheels. That's...
+[46:27.350 --> 46:31.010]  that's three Zim's. And you're like, no problem. Here you go. Here's your Zim's. That's physical,
+[46:31.210 --> 46:35.290]  right? But we're... we're living in... we're living in a digital world, right? Here's what I'm
+[46:35.290 --> 46:40.630]  thinking. What if we created... we mint and create... which, by the way, you have to mint this. That's...
+[46:40.630 --> 46:46.370]  it costs money. I think I paid... I think I paid $90 to make this. So, what I... if I sell for $100...
+[46:46.370 --> 46:48.410]  The most expensive ham sandwich in the world!
+[46:48.410 --> 46:54.310]  Yeah, I think it cost me about $90, with transfer fees and minting. So, I will not be making any
+[46:54.310 --> 46:59.710]  money off of it, if it ever does sell. However, what we... what... what if we created ham coin?
+[47:00.090 --> 47:06.550]  We can mint and create ham coin. We can take... we can take deli ham. We can cut it into circles.
+[47:06.770 --> 47:11.170]  Then we can write some sort of ham logo on them, like imprint it in the physical ham.
+[47:11.390 --> 47:17.050]  Then we can NFT a small number of those, like, say, five, and then that becomes official
+[47:17.050 --> 47:23.930]  ham currency. And it is the rarest currency on Earth. And because we're creating it,
+[47:24.150 --> 47:28.250]  we set the value. It's like GME, right? It's worth what we say it's worth. We might... we...
+[47:28.250 --> 47:32.650]  we can... and if we want to mint more ham coin, we can. We can make another five ham coin. We just
+[47:32.650 --> 47:38.050]  need a little bit of ham. So, you want, like, a scarcity ham... you... you want... this is amazing.
+[47:38.190 --> 47:42.490]  So, it's going to be just pictures of a ham coin, though. Well, yeah, but you'll own those pictures.
+[47:42.690 --> 47:46.510]  Okay, because you don't want to... you don't want currency that you have to eat within the week.
+[47:46.510 --> 47:53.230]  Yeah, no, no, it'll go bad. It'll go bad. And by the way, can I just say, I'm not... because I was...
+[47:53.230 --> 47:57.850]  I received some criticism from Gus earlier. I'm not a monster who puts mustard on the outside
+[47:57.850 --> 48:02.370]  of my fucking sandwiches, okay? That was clearly just to number. No, it's artistic. Yeah. Yeah.
+[48:02.830 --> 48:07.750]  And I used a paintbrush because it is art, you know. So, anyway, there you go. This is the first...
+[48:07.750 --> 48:13.090]  this is my first piece of digital new media art now that I am the... I'm a NFT artist. I don't know
+[48:13.090 --> 48:18.710]  what's coming next. You know, art's funny that way. But I will say, as an aside, as a business venture,
+[48:18.790 --> 48:23.650]  I would like you guys to do a little bit of... take a little bit of homework home and start
+[48:23.650 --> 48:28.290]  thinking about ham coin, what it could be for, how powerful it could be, what we could do with it,
+[48:28.350 --> 48:31.590]  how we could revolutionize, change the world. How many ham coins should there be?
+[48:32.070 --> 48:34.370]  Well, at least five. One for each of us.
+[48:36.150 --> 48:40.090]  But then... Certainly, there needs to be more than five. There needs to be more than five. I agree.
+[48:40.090 --> 48:43.190]  What about six? One for each of us and one for the world.
+[48:43.770 --> 48:47.850]  Okay, yeah, we could do that. We could absolutely do that.
+[48:47.990 --> 48:53.810]  It's just this one coin being passed around in the world and then all of a sudden our coins
+[48:54.330 --> 48:55.870]  might be worth selling one day.
+[48:57.990 --> 49:04.330]  People that... look, Elon Musk's tweeting about Dogecoin. How fucking far off are we from ham
+[49:04.330 --> 49:07.830]  coin? All we got to do is get Bezos on board, right? We'll be fine.
+[49:08.110 --> 49:14.090]  Or Bill Gates. Or what about Balmer? Balmer's into sports. He's into basketball. He owns the
+[49:14.090 --> 49:18.870]  Clippers. I'm into sports basketball. I'll slide in with Balmer, slide into his DMs. I'll hit him
+[49:18.870 --> 49:25.390]  up about ham coin. Boom. Maybe I'll get working on the vegetarian option, like tofu coins for
+[49:25.390 --> 49:29.250]  people who don't want to trade ham. That's a great point. Interesting. That's a great point.
+[49:29.450 --> 49:34.470]  That is a really good point. Yeah, we should have a vegetarian option. A vegan option.
+[49:35.030 --> 49:39.850]  Yeah. Keto coin. I feel like you're paying something with a tofu coin and you get ham
+[49:39.850 --> 49:48.710]  coin as change. It's like, no, I'm a vegetarian. Anyway, that's it. That's what I have prepared
+[49:48.710 --> 49:54.710]  for this week's F*** Face. I took doing a better job to heart and I created two new lines of
+[49:54.710 --> 49:59.810]  business for us because I can't point to any dumb thing that I'm not going to... I'm going to try
+[49:59.810 --> 50:07.710]  hard not to fall or off of anything or run into anything or electrocute myself or trip or hurt
+[50:07.710 --> 50:14.290]  myself in any way for a while going forward. And so I had to come up with something in some arena
+[50:14.290 --> 50:19.210]  that didn't involve me getting an owie. And this is the best I could do. I'm a full supporter of
+[50:19.210 --> 50:26.070]  this. I hope that the beef bracelet or uniform is willing to take ham coin as a currency. I'd like
+[50:26.070 --> 50:30.270]  to know what the ratio. Yeah, I think we have to figure that out. And the ratio has to be set.
+[50:31.290 --> 50:35.830]  It's funny you mentioned the injury thing. I f***ed up my back earlier in the week.
+[50:36.170 --> 50:43.210]  Yeah, that's a great. So I woke up. My ribs hurt. My upper back hurt. Just everything hurt. When I
+[50:43.210 --> 50:48.070]  tried to move, it was not good. Breathing, not fun. Laughing, painful. Which pillow did you wake
+[50:48.070 --> 50:54.770]  up on? Like which number up the stack? Yeah, five. I always wake up on five. I was trying to
+[50:54.770 --> 51:00.550]  figure out what happened. It was a struggle. I was thinking, what did I do? Did I somehow
+[51:00.990 --> 51:06.930]  sleep weirdly? Did pillow five betray me? Do I need to adjust? Did falling asleep in a bathtub
+[51:06.930 --> 51:12.710]  over several days, has that caught up to me? I shaved. Did I somehow have like a freak shaving
+[51:12.710 --> 51:18.170]  injury where I pulled a muscle in my back? What is going on? I was thinking about it all day.
+[51:18.230 --> 51:21.450]  Couldn't figure it out. I then mentioned to someone, yeah, I don't know what's wrong with
+[51:21.450 --> 51:26.430]  my back. They said, didn't you fall the night before? I fell and I forgot. I was trying to
+[51:26.430 --> 51:31.350]  figure out this mystery. I tripped. I fell as hard as maybe I've ever fallen in my house.
+[51:31.710 --> 51:38.230]  It was no good. And it was, I got AirPods. So I connect this to Geoff. I was making fun of your
+[51:38.230 --> 51:42.050]  fall, your bike fall. I was thinking about how funny your AirPods falling. Within 30 seconds of
+[51:42.050 --> 51:49.390]  me putting AirPods in, I fell. Oh yes. Did they go flying? They did not go flying, but it is the
+[51:49.390 --> 51:56.510]  hardest. I cannot emphasize enough how hard I hit the fucking floor on in my room. What caused you
+[51:56.510 --> 52:02.530]  to fall? Okay. This is what it was. It was, uh, I got very, I had to use the bathroom. I was like,
+[52:02.550 --> 52:06.690]  these are great. These AirPods are great. I was doing my little shimmy to get there. Cause I have
+[52:06.690 --> 52:15.110]  to shimmy through my room. And I stepped on, uh, I had knocked over a cabinet earlier in the day
+[52:15.110 --> 52:21.350]  and I didn't realize that I knocked over a plastic sushi container. So while I was doing my shimmy,
+[52:21.530 --> 52:27.470]  my foot went in the sushi container. I did the splits and I could do nothing but fall back.
+[52:31.310 --> 52:40.070]  You're slipping on old sushi, man. No, no, no. It was an empty container. It was perfectly clean.
+[52:40.150 --> 52:44.810]  It was like the plastic, like portable case you would have. Foot went in it. I slid across the
+[52:45.370 --> 52:52.570]  then fell backwards and like the whole building shook. It was so bad. I hit so hard, but it wasn't
+[52:52.570 --> 52:57.190]  painful at the time. That's why I think I forgot that that happened because my main thought was
+[52:57.190 --> 53:02.250]  like, I don't think a stunt man could have felt better than I just fell. I feel no pain. This
+[53:02.250 --> 53:08.570]  is great. I landed perfectly, but I completely forgot about it the next day. I woke up and I was
+[53:08.570 --> 53:13.690]  so confused as to why my entire back was fucked. Was anyone else in the, in the house? No,
+[53:13.690 --> 53:18.490]  it was just me. I'm sure, but I'm connected to other people. They definitely would have felt.
+[53:18.570 --> 53:22.210]  Yeah. Are you upstairs with people below you? Uh, no, there were nobody below me,
+[53:22.350 --> 53:28.690]  but the people in the unit next to me would a hundred percent have felt. It was, I couldn't
+[53:28.690 --> 53:35.930]  like imagine the impact of like a home run, but my back on the hardwood floor, like it rattled out.
+[53:35.950 --> 53:42.950]  It was one hell of a fall. How is it? How's it possible you for you did that and didn't put two
+[53:42.950 --> 53:49.350]  and two together? Do you think you hit so hard you knocked the memory out of your brain? Yeah,
+[53:49.670 --> 53:54.390]  it's possible. Did you bang your head at all? No, I didn't hit anything but my back. I landed
+[53:54.390 --> 54:00.910]  perfectly. It was like a professional stunt man fall. I just forgot about it. It was odd. It was
+[54:00.910 --> 54:06.210]  an odd thing. And I went to the extent of like, I thought I somehow heard it while shaving was my
+[54:06.210 --> 54:13.150]  thought. Yeah. I was like, I was like a weird, well, cause I shaved my beard. I grew a beard
+[54:13.150 --> 54:18.830]  from like October until I guess last week. And I shaved it, but I just use like a handheld razor.
+[54:19.030 --> 54:22.910]  Wait, so you had a big bushy beard this whole time? Oh, I had a beard. I wouldn't say it was
+[54:22.910 --> 54:26.830]  big and bushy, but I had a beard. And so I shaved it. I can't imagine you with a beard.
+[54:27.270 --> 54:33.570]  It took like over an hour to do. Cause I was just using a shitty razor. An hour? Yeah. I spent like
+[54:33.570 --> 54:41.890]  90 minutes shaving and I'm good. I got it done, but I thought maybe, maybe I somehow screwed it
+[54:41.890 --> 54:46.290]  up. Like maybe I threw something out on my back while I was doing my 90 minute shave. Maybe you
+[54:46.290 --> 54:50.050]  thought the injury was time-based. So you were like, well, I definitely spent 90 minutes shaving,
+[54:50.170 --> 54:55.530]  but only like half a second falling. It had to be the shaving. Yeah, it definitely, the time was
+[54:55.530 --> 55:00.250]  the bigger issue. I don't think I've hit anything harder than I hit my floor yesterday. It was,
+[55:00.250 --> 55:03.270]  or I guess a few days ago. I'm surprised you didn't get winded. No, I didn't get winded at
+[55:03.270 --> 55:08.850]  all. As I said, it was such a perfect upper back landing. It was flawless. Didn't hit my head.
+[55:09.370 --> 55:13.410]  Everything was just naturally tucked. And the panic, like it was not calculated at all. I cannot,
+[55:13.830 --> 55:18.610]  my foot sliding and it's just, there's nothing I could do. And I had that moment of like, I just
+[55:18.610 --> 55:23.370]  gotta fall. It's, it's how I will create the least amount of damage to myself. I kind of dove
+[55:23.370 --> 55:29.250]  backwards and just smashed. I'm very impressed that, you know, with your ankles, you didn't do
+[55:29.250 --> 55:33.010]  more damage. You somehow got out of that with an, without an ankle injury. And that's very
+[55:33.010 --> 55:37.110]  impressive. Yeah, no kidding, man. Yeah. Thankfully no ankles were harmed in that fall.
+[55:39.270 --> 55:45.590]  How has your sleep been for your ankles lately? How's my what? How's sleep been for your ankles
+[55:45.590 --> 55:50.370]  lately? Oh, sleep is fine. I haven't injured my ankle in my sleep since the injury. That was a
+[55:50.370 --> 55:54.030]  real bad time though. I kept rolling my ankle in bed. I forgot about that. That sucks. So your,
+[55:54.030 --> 55:58.790]  your ankles a hundred percent now? Uh, my ankles pretty close to a hundred percent. I still have
+[55:58.790 --> 56:04.050]  a thing where if I, I tilted at a certain angle and slowly roll into it, it really hurts until
+[56:04.050 --> 56:08.310]  it pops and then it's good. But outside of that, I'm fine. Maybe we're ready for the marathon then.
+[56:08.550 --> 56:11.890]  Yeah. I've been thinking about that. That's, that's, that's been on my mind for sure.
+[56:13.210 --> 56:17.030]  I'm recovering from a back injury at the moment, but as soon as the back injury is healed.
+[56:17.210 --> 56:21.550]  I like the idea of you running a marathon when you still, you struggle to move from bathroom to
+[56:21.550 --> 56:26.270]  bedroom without stepping on sushi containers. Well, it's, you know, it's happened one time and
+[56:26.270 --> 56:30.010]  it only happened because I knocked something over earlier in the day. But you slipped over
+[56:30.010 --> 56:34.990]  in the bathroom recently. Like since face, you've eaten it straight forwards in the bathroom.
+[56:35.510 --> 56:40.350]  Yeah, I did. But that was like, I slid on my underwear and then I just had to fall forward.
+[56:41.250 --> 56:45.230]  There's nothing to grab. My only option was to grab the towel bar and I would just,
+[56:45.330 --> 56:50.510]  I would just fall with me. I'm not going to take the towel bar out the wall with my fall. So I
+[56:50.510 --> 56:55.070]  these split second decisions, like I could grab that, but that would result in the towel bar
+[56:55.070 --> 56:58.730]  coming down, potentially damage it. And this is all while you're falling. So you just like throw
+[56:58.730 --> 57:04.390]  your arms up like I'm going down. Yeah, no, it's very, I use that time wisely, Gavin. When I'm
+[57:04.390 --> 57:10.650]  falling, I got a solid half second of thought where I'm calculating the impact. Somebody who's
+[57:10.650 --> 57:14.410]  rolled their ankle a lot. I consider a lot of things when things, bad things are happening,
+[57:14.590 --> 57:19.810]  as far as rolling or falling. Amazing. I think that's pretty good.
+[57:20.150 --> 57:26.410]  Hey, let me ask you guys a question. I've been thinking about merch ideas. What? I did pay
+[57:26.410 --> 57:29.970]  attention to that, Eric. I did. I just don't know how to, I don't know how to respond to it.
+[57:30.130 --> 57:35.710]  You can't relate? No, I can for sure. I mean, I sprained my ankle sitting in the car the other
+[57:35.710 --> 57:41.670]  day. Like it fucking sucks being old. And like Emily said something and I turned to look at her
+[57:41.670 --> 57:44.950]  and sprained my ankle and I was sitting in the passenger seat of the car. I don't know how that
+[57:44.950 --> 57:52.410]  happened. Fucking brutal. I can only hope that you're okay and that you suffer no long-term
+[57:52.410 --> 57:57.850]  lingering effects. I think he was implying that I was queuing up the outro for us if we wanted to.
+[57:58.470 --> 58:02.690]  That you didn't notice that. I'm assuming that's what Eric was mentioning. Not that you didn't
+[58:02.690 --> 58:06.650]  comment on the injury. Oh, I thought Eric was saying Geoff didn't care about your story. I
+[58:06.650 --> 58:09.910]  thought he was saying I didn't care about your story. Which I did. I care very deeply. What did
+[58:09.910 --> 58:16.610]  you mean, Eric? Oh, both. It just felt like Geoff was zoned out and then because then in an
+[58:16.610 --> 58:22.750]  apropos of nothing, he goes, let me ask you guys about something at 57 minutes. Maybe he was eating.
+[58:23.110 --> 58:27.650]  I wasn't eating, but I was thinking about the remainder of the show and if there was anything
+[58:27.650 --> 58:31.170]  else I wanted to get. I was running through the remainder of the show in my head. I was directing
+[58:31.770 --> 58:38.570]  and I wanted to cover one more thing. Andrew, how would you feel if we created a t-shirt similar to
+[58:38.570 --> 58:44.330]  this, but it was like a reward flyer poster. Not for a serial killer, but for the Vancouver
+[58:44.330 --> 58:51.090]  child kicker. It's funny you mentioned that, Geoff. I want to take... should I talk about this here? I
+[58:51.090 --> 58:56.390]  guess we'll edit it if we don't. I want to take the child kicker story and turn that into a short
+[58:56.390 --> 59:00.630]  film. I think you should. I want to make like a poster for it. I've been thinking about this for
+[59:00.630 --> 59:05.310]  a while. I just haven't constructed it. I want to put the child kicker at film festivals. I think
+[59:05.310 --> 59:10.270]  we could do this. Can I work on it? Yeah, I'd love for you to work. Yeah, you absolutely could.
+[59:10.550 --> 59:16.150]  You'd contribute in some way. I think it's a fan-fucking-tastic idea and I hope that in the
+[59:16.150 --> 59:23.170]  process of doing that we can make a t-shirt that has a flyer for hopefully the Vancouver child
+[59:23.170 --> 59:27.690]  kicker. I like this idea a lot. I think that could be a good boost to the child kicker brand.
+[59:28.350 --> 59:32.670]  We might have a franchise. Oh, absolutely, absolutely. And then for art style, sorry,
+[59:32.670 --> 59:35.950]  like kind of similar to that, but I'm thinking like Raymond Pettibone
+[59:36.650 --> 59:43.110]  like here. Something like this kind of art style, but with the mixture of that other one. I think
+[59:43.110 --> 59:47.190]  it's gonna be great. I'm really excited. Okay, yeah. No, I like that. I like that a lot. It's
+[59:47.190 --> 59:52.550]  offensive. Well, don't mention what it is or says. Just you're looking at the art. You're not reading
+[59:52.550 --> 59:59.690]  it. I think if we make a shirt that has that poster in it, we should just put those posters
+[59:59.690 --> 01:00:07.050]  up around Vancouver and see if it makes the news. That's a great idea. Here's where I was going,
+[01:00:07.270 --> 01:00:12.630]  dickhead. I was hoping that Andrew would say yes. Then I was hoping I could get merch on it
+[01:00:12.630 --> 01:00:17.910]  to make the flyer that we could put on a shirt or the audience would do it. Then I was going to,
+[01:00:17.990 --> 01:00:22.890]  after the art asset was created and it existed, then I was going to start contacting people in
+[01:00:22.890 --> 01:00:27.890]  Canada and get Andrew's entire town flyered so that he was the fucking killer. But thanks for
+[01:00:27.890 --> 01:00:34.550]  ruining that one. I mean, he didn't ruin it. He just cut that. Yeah. Also, you just revealed your
+[01:00:34.550 --> 01:00:38.350]  plan. He just brought up an idea and you could have just ignored that. It would have been too
+[01:00:38.350 --> 01:00:42.650]  late at that point. It was too late. No, I wouldn't have thought about it. I still like this idea. I
+[01:00:42.650 --> 01:00:47.970]  think we should get child kicker flyers in places. Here's what we need to do first. That's step two,
+[01:00:48.390 --> 01:00:55.470]  and I do want to do step two. Step one is going to be littering sushi wrappers and containers around
+[01:00:55.470 --> 01:01:01.470]  your apartment so that you trip on one, fall down, hit your head, forget this conversation happened,
+[01:01:01.850 --> 01:01:07.410]  and then it'll be new. I want to litter the path of this marathon with sushi containers.
+[01:01:07.970 --> 01:01:14.050]  Oh man, it is a dangerous game. I think if going forward, it wouldn't be a problem. It was that I
+[01:01:14.050 --> 01:01:17.790]  was shimmying is what caused the fall. It's really hard to pull out of a shimmy slide. Look, I don't
+[01:01:17.790 --> 01:01:23.250]  shimmy your damn place. A regular day-to-day shimmy is a bad environment. Yeah, I agree.
+[01:01:23.250 --> 01:01:30.070]  I agree. I need to move some things. A shimmy should be an occasional movement.
+[01:01:32.410 --> 01:01:35.810]  Crab walking and shimmying shouldn't be the main way you get around in life.
+[01:01:35.990 --> 01:01:40.530]  Yeah, but I'm also maybe secretly training for the great sewing machine battle Gavin and I
+[01:01:40.530 --> 01:01:44.290]  one day are going to have. I'm getting my work in. I'm practicing. I'm doing ankle moves. That's
+[01:01:44.290 --> 01:01:48.170]  totally fine. Was it me and you or you and Geoff doing the sewing machine? No, I think it was you
+[01:01:48.170 --> 01:01:55.930]  and I. If he's able to beat you, then he can try to take on the master, but I don't know that I'm
+[01:01:55.930 --> 01:02:04.130]  still in the game. Oh boy. No, I just pulled a muscle pull. Wait, what happened? You were
+[01:02:04.130 --> 01:02:10.630]  sitting. Muscle pull. Yeah, I pulled a muscle. So you couldn't even go one episode without hurting
+[01:02:10.630 --> 01:02:17.150]  yourself. Yeah, were you shimmying? Nick's got a great point. Oh, okay. I'm good. Which muscle?
+[01:02:17.670 --> 01:02:26.130]  My like lower lower thigh, I guess. I don't know. Your knee? No, not my knee. Okay, so what's my
+[01:02:26.130 --> 01:02:30.790]  upper my upper thigh? Right. That's an area. What would I describe this as? Like the area,
+[01:02:30.910 --> 01:02:37.890]  the landing strip to the knee on the bottom side. Like if you went. Yeah, like the highway that
+[01:02:37.890 --> 01:02:43.110]  would connect. No, I wouldn't say it was the groin. It's like the highway between the highway.
+[01:02:43.670 --> 01:02:48.550]  Did you say like your navel to your knee? What do you mean the landing? No, no, no, no, no, no. Okay,
+[01:02:48.630 --> 01:02:53.270]  just let me let me explain. Stop interrupting me and then you can ask questions. So let's say you
+[01:02:53.270 --> 01:02:58.590]  took your what? It's my right ass cheek, right? And you're driving straight to your destination.
+[01:02:59.170 --> 01:03:04.070]  Yeah, we're on the lower, we're on the backside. If you're driving straight from the right ass
+[01:03:04.070 --> 01:03:09.770]  cheek to the back of your knee, your right knee, it's in that muscle group between them. The area
+[01:03:09.770 --> 01:03:13.870]  between whatever, like the leg. Hamstring? Is it a hamstring? I don't know what's here.
+[01:03:15.010 --> 01:03:20.810]  I pulled it though. Ham coin? I'm good now. Ham coin. Where's the landing strip? Isn't that on
+[01:03:20.810 --> 01:03:25.550]  the front? No, no, no. I'm saying so if you were driving the landing strip, do you mean.
+[01:03:26.910 --> 01:03:32.910]  If I was driving on your ass? Yeah, if you're driving, if you started on my right ass cheek
+[01:03:32.910 --> 01:03:38.670]  and you needed to get to the back of my knee and you took a straight shot to like the most direct
+[01:03:38.670 --> 01:03:43.330]  way of getting there, that strip of muscle that's like on the leg, but not on the butt,
+[01:03:43.430 --> 01:03:48.110]  like past the butt. Your hamstring! Is it my hamstring? What's that got to do with the
+[01:03:48.110 --> 01:03:52.890]  landing strip? Wait, is that what you said? Is the landing strip on the front? Is your butthole
+[01:03:52.890 --> 01:03:57.050]  the landing strip? No, no, no, no, no. Is the landing strip a part of the body? What have you
+[01:03:57.050 --> 01:04:01.310]  been doing? No, I was just, it was supposed to be an analogy of like. What's your landing strip?
+[01:04:01.710 --> 01:04:07.110]  Like a runway runs quite a distance. So my point was, and then I switched to highway. On your body,
+[01:04:07.110 --> 01:04:11.190]  where's your landing strip? Well, I don't understand how to answer that question. Okay,
+[01:04:11.330 --> 01:04:17.130]  Gavin, here's where I think the communication is breaking down. I think you and I both,
+[01:04:17.230 --> 01:04:22.530]  when we hear landing strip, we think pubic area, probably. Like the pubic V, pitcher's mound,
+[01:04:22.670 --> 01:04:28.110]  landing strip. It sounds like whatever you want to call it, like that area, the groinal area on the
+[01:04:28.110 --> 01:04:33.690]  front. And I don't think, I think Andrew, I think Andrew's literally thinking if I landed a plane
+[01:04:33.690 --> 01:04:40.270]  on somebody's butt cheek, the landing strip would be the area going forward to the foot.
+[01:04:40.890 --> 01:04:45.870]  Yeah, that's exactly what I was talking about. Yeah. If you're the land of, like I was trying
+[01:04:45.870 --> 01:04:52.670]  to explain. Yeah, landing strip on your butt, toe elbows. Yeah. Yeah. Yeah. I don't, is that the
+[01:04:52.670 --> 01:04:58.110]  hamstring? From butt to the back of the knee, I think is. Here, let me, I'll throw a photo up
+[01:04:58.110 --> 01:05:02.050]  quickly so we could. Of yours? I'd just like to know what I put, no, not of mine, I'm just,
+[01:05:02.050 --> 01:05:06.810]  give me a second. Let me, uh, drop this in so we can all understand and you can tell me what
+[01:05:06.810 --> 01:05:16.350]  I just pulled. So at like where, sort of like. He's posted a picture of operation, the game.
+[01:05:16.570 --> 01:05:21.970]  Yeah. Well, it's just, it's a body I figured I could use. That's the front though. You can't
+[01:05:21.970 --> 01:05:28.210]  see the hamstring. Yeah. That's what I'm saying. You need a copy of anal operation. Yeah. Where's
+[01:05:28.210 --> 01:05:36.190]  operation from the rear? That'd be a great game. Operation two. It's the opposite side of the
+[01:05:36.190 --> 01:05:40.010]  charlie horse. What's on the other end of the charlie horse that the charlie horse is at the
+[01:05:40.010 --> 01:05:44.630]  top. What's at the bottom of the charlie horse area. That's where I pull. Yeah. Is that your
+[01:05:44.630 --> 01:05:49.150]  quad or your hamstring? I don't know. That's what, yeah, you don't fucking know. Where is this
+[01:05:49.150 --> 01:05:53.230]  charlie horse there I think would be the quad, although that should be closer to the knee. Well,
+[01:05:53.250 --> 01:05:56.150]  yeah, I think his hamstring is what you're on about on the back. All right, hold on. I'm looking
+[01:05:56.150 --> 01:06:02.110]  up a fucking, I'm not using operation. I'm using real bodies. Uh, it's your, oh, it's your
+[01:06:03.430 --> 01:06:08.170]  rectus femoris. My rectus? Yeah, your rectus femoris, I believe is what you're referring to.
+[01:06:08.490 --> 01:06:12.230]  Yeah, it's definitely not the hamstring. Oh, wait a second. It might be the hamstring. Your
+[01:06:12.870 --> 01:06:16.610]  quadricep. Yeah, yeah, yeah. Yeah, yeah. It's part of the hamstring, I'd say, based on this
+[01:06:16.610 --> 01:06:21.090]  photo. Eric said you should end this. Eric's lost interest. Thanks for listening to another episode
+[01:06:21.090 --> 01:06:27.690]  of F*** Face. I can't believe it's already over and we barely got to hear from our fearless leader,
+[01:06:27.810 --> 01:06:31.650]  Eric. I know he had a lot he wanted to talk about. I guess he'll have to bring it up next
+[01:06:31.650 --> 01:06:38.230]  week. I can't hope to end the show as brilliantly as he began it, but I will do my best. So if you
+[01:06:38.230 --> 01:06:43.350]  enjoyed this podcast and would like to leave a review on whatever platform you listened to this
+[01:06:43.350 --> 01:06:48.330]  podcast, we would certainly appreciate it. Maybe tell a friend or a family member, hey, I like
+[01:06:48.330 --> 01:06:53.990]  F*** Face. You're a bit of a F*** Face yourself. Why don't you F*** Face this podcast? And you do
+[01:06:53.990 --> 01:06:57.250]  that and I promise we'll be here next week and we'll make you another one. Can we sell a version
+[01:06:57.250 --> 01:07:03.330]  of Operation that's just Andrew Panton and all the stuff is like in the ankles? Oh, that's a great
+[01:07:03.330 --> 01:07:09.890]  idea. That's a great idea. Operation Andrew. It's his landing strip leg and his ankle bone.
+[01:07:10.910 --> 01:07:14.010]  His like, his elbow is his waffle bomb.
+[01:07:16.750 --> 01:07:20.970]  Could I just want to ask you this quickly, Gavin, because we didn't get to it again.
+[01:07:21.150 --> 01:07:25.030]  When you were wearing the tag that would set off the alarms, I had a similar problem.
+[01:07:25.370 --> 01:07:28.370]  What was your solution? Did you change how you'd go into stores?
+[01:07:28.890 --> 01:07:32.010]  Yeah, I'll tell you all about it in episode 44.

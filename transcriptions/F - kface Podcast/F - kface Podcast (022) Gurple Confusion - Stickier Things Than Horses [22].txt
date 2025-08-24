@@ -1,0 +1,1011 @@
+[00:00.920 --> 00:03.120]  This episode is brought to you by Buffalo Trace Distillery.
+[00:03.920 --> 00:05.160]  Powerful yet smooth.
+[00:05.680 --> 00:06.940]  Contained but never tame.
+[00:07.500 --> 00:09.920]  Proudly going their own way, but never going alone.
+[00:10.600 --> 00:12.720]  This is the spirit inside Buffalo Trace bourbon.
+[00:13.160 --> 00:14.520]  Made at Buffalo Trace Distillery.
+[00:14.820 --> 00:16.800]  The world's most award-winning distillery.
+[00:17.580 --> 00:20.420]  Buffalo Trace is always perfectly untamed.
+[00:20.920 --> 00:22.660]  Distilled, aged, and bottled by Buffalo Trace Distillery.
+[00:22.840 --> 00:23.680]  Franklin County, Kentucky.
+[00:23.880 --> 00:25.580]  90 proof. 45% alcohol by volume.
+[00:25.780 --> 00:27.420]  Learn more at buffalotracedistillery.com.
+[00:27.540 --> 00:28.400]  Please drink responsibly.
+[00:30.160 --> 00:32.460]  This is a Rooster Teeth production.
+[01:11.340 --> 01:12.800]  How do I boost Geoff?
+[01:13.320 --> 01:16.940]  You can right-click on his little name, and then you can turn up his user mode.
+[01:16.980 --> 01:17.740]  Oh, it's already...
+[01:17.740 --> 01:20.820]  Yeah, it's maxed for me. It's like 200%.
+[01:20.820 --> 01:21.280]  Mm-hmm.
+[01:21.540 --> 01:22.220]  You have 200?
+[01:22.460 --> 01:23.660]  Yeah, I have them all the way to the right.
+[01:23.800 --> 01:25.380]  I don't have... mine goes to 100.
+[01:25.620 --> 01:27.340]  What should my output be?
+[01:27.780 --> 01:27.980]  What?
+[01:28.280 --> 01:29.220]  What does that mean?
+[01:29.380 --> 01:30.000]  Where's the...
+[01:30.780 --> 01:31.580]  What's happening?
+[01:32.020 --> 01:33.260]  I'm looking at voice settings!
+[01:33.460 --> 01:36.980]  Well, your output should be somewhere that's being recorded.
+[01:37.940 --> 01:42.700]  I mean, your input's your microphone, your output is your headset.
+[01:43.220 --> 01:45.700]  My input is the Scarlett 212 USB.
+[01:46.100 --> 01:46.400]  Okay.
+[01:46.660 --> 01:48.300]  And that's in Discord or in Audacity?
+[01:48.580 --> 01:49.380]  That is in Discord.
+[01:49.740 --> 01:52.500]  In Audacity, it's also my Scarlett 212 USB.
+[01:52.780 --> 01:54.300]  Yeah, the output's just for listening, right?
+[01:55.220 --> 01:55.880]  That would be, yeah.
+[01:56.000 --> 01:57.220]  Yeah, that would be the opposite of it.
+[01:57.960 --> 02:00.120]  All right, now it's at 90%. How's that?
+[02:00.180 --> 02:01.100]  Well, there's no need to yell about it.
+[02:01.220 --> 02:02.160]  Yeah, right? I'm kidding.
+[02:02.300 --> 02:02.940]  That was really loud.
+[02:03.120 --> 02:04.520]  Split the difference, Jesus Christ.
+[02:04.520 --> 02:06.120]  Are you fucking serious?
+[02:07.380 --> 02:08.280]  Oh wow, that's loud.
+[02:08.600 --> 02:12.820]  All right, it looks like it's real tight. How's that? Am I good now?
+[02:13.100 --> 02:13.880]  It's a little quiet.
+[02:14.240 --> 02:14.920]  It got worse again.
+[02:15.100 --> 02:17.240]  Give me some fucking feedback here. I'm trying to fix this.
+[02:17.340 --> 02:19.400]  I'm giving you feedback. I don't know why you're yelling at me.
+[02:19.420 --> 02:21.580]  All right, all right, all right, all right, all right, all right, all right, all right, all right.
+[02:21.580 --> 02:21.980]  Wait, do I...
+[02:21.980 --> 02:23.700]  All right, everybody shut up with Geoff.
+[02:24.280 --> 02:24.540]  Okay.
+[02:24.640 --> 02:24.860]  Okay.
+[02:25.080 --> 02:25.940]  Here's what we're going to do.
+[02:26.260 --> 02:26.540]  Sure.
+[02:27.020 --> 02:29.600]  I'm going to talk. I'm going to do a little soliloquy, okay?
+[02:29.600 --> 02:34.620]  And as I talk, I'm going to turn the gain. When it hits the perfect sweet spot,
+[02:35.100 --> 02:39.700]  yell for me to stop. First, let me get into my talking voice.
+[02:39.840 --> 02:43.600]  Okay, so I'm going to be telling stories about like this. Let me know when you guys think
+[02:43.600 --> 02:44.720]  if I've hit a point where... Right there.
+[02:45.000 --> 02:47.440]  About there. There you go. Thank you. That was easy.
+[02:47.560 --> 02:49.860]  Well, what number is that? 85%.
+[02:49.860 --> 02:51.820]  Oh, so you split the difference. Interesting.
+[02:52.520 --> 02:53.860]  So when we said split the difference...
+[02:56.080 --> 02:56.440]  Ayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy!
+[02:58.800 --> 03:01.640]  You're just adjusting gain? Was that your whole exercise?
+[03:02.100 --> 03:04.600]  Yeah, dumbass! I was trying to find the right level of gain!
+[03:04.840 --> 03:07.840]  Well, it wasn't that hard. Well, now I'm fucking blown out when I yell!
+[03:07.980 --> 03:11.660]  It's peg-hard rain! My audio is especially loud too right now.
+[03:11.720 --> 03:15.000]  I think I need to make an adjustment as well. Do I go left or right on this game?
+[03:15.180 --> 03:18.640]  Oh, I'll be honest. The volume of my headphones was too low.
+[03:21.440 --> 03:25.240]  Geoff was definitely loud. This was not your fault.
+[03:25.240 --> 03:27.440]  I'm going back down. Why? No!
+[03:27.620 --> 03:31.000]  Because I'm blowing out the fucking audition file!
+[03:31.180 --> 03:34.040]  This is all in the episode, by the way, isn't it? Yeah, I know, I'm recording.
+[03:34.220 --> 03:37.780]  Hey, Nick, I want to talk to you for a second. Everybody else can go suck a butt.
+[03:38.000 --> 03:41.380]  Hey, in the last two episodes, was my audio blown out?
+[03:41.500 --> 03:43.540]  No. Okay. Do I sound okay right now?
+[03:43.720 --> 03:45.620]  You sound okay. Yeah, you sound fine.
+[03:45.760 --> 03:47.760]  Okay, thank you. You sound better than you did before.
+[03:47.840 --> 03:50.320]  That's not a fair question. Nick wasn't here for the bad stuff.
+[03:50.360 --> 03:53.400]  Nobody cares what you say. I'm taking cues from the audio engineer.
+[03:53.400 --> 03:56.100]  He's the one that matters. He wasn't here, though, for the issue.
+[03:56.240 --> 03:59.500]  He's here now! Are you an audio engineer, Nick?
+[03:59.680 --> 04:03.500]  Nick, you better say yes. You fucking better say yes.
+[04:03.600 --> 04:06.600]  I guess I am now. I mean, you're telling him an audio
+[04:06.600 --> 04:11.260]  engineer. He's the director of audio production for all of broadcast for the entire department.
+[04:11.420 --> 04:16.720]  Yeah, but audio engineer is like a qualification. Oh, you need a certification for that?
+[04:16.780 --> 04:18.860]  I don't know. Seems like something you'd go to school for.
+[04:18.980 --> 04:21.420]  Shut the fuck up. This is rooster teeth.
+[04:21.420 --> 04:23.500]  Nobody went to school for anything. That is correct.
+[04:23.660 --> 04:25.960]  I went to school. What did you go to school for?
+[04:26.160 --> 04:28.540]  This. Radio, TV, and film. Did you really?
+[04:28.700 --> 04:30.340]  Yeah. That's impressive. Good for you.
+[04:30.460 --> 04:33.940]  So why were you selling shirts for Mega64 for so long?
+[04:34.000 --> 04:37.800]  Yeah, and why aren't you better at this? Because, uh, oh, I'm, no, I don't know if
+[04:37.800 --> 04:42.160]  you understand. I'm great at this. I'm fantastic at this. I have, I have followed
+[04:42.160 --> 04:48.280]  the character arc precisely of quiet producer who's begrudgingly doing the show to beloved
+[04:48.280 --> 04:52.860]  character who's in every episode. And now everybody says, I love this guy. He's so nice.
+[04:53.160 --> 04:55.440]  He's the best. Is that what they taught you to do at San
+[04:55.440 --> 04:58.260]  Diego State? Is that where you, where'd you go?
+[04:58.380 --> 05:04.700]  It was Cal State Fullerton. Go Titans. Uh, so yeah, this is what I learned from, uh,
+[05:04.700 --> 05:10.680]  my radio, TV, film career is the every show, every radio show, every podcast has followed
+[05:10.680 --> 05:17.060]  this character arc to a tee, except probably your mom's house because they are mean to their
+[05:17.060 --> 05:21.600]  producer, but not in like a endearing way. The producer is just told he's going to die.
+[05:21.800 --> 05:26.320]  Dude, it's, it's uncomfortable sometimes how mean they are to Nadav.
+[05:26.540 --> 05:32.880]  Exactly. So here we are. I'm a college educated man. I'm doing it. So here we are. Welcome
+[05:32.880 --> 05:41.060]  to F*** Face episode 20 and, uh, introducing our hosts, uh, Geoff, Andrew, and Gavin guys.
+[05:41.360 --> 05:42.280]  That's us. Take it away.
+[05:42.780 --> 05:43.980]  Hey guys. Hey.
+[05:43.980 --> 05:48.600]  Eric is the announcer again. Cause last time he didn't want the job and today he was like
+[05:48.600 --> 05:49.760]  busting down the door to do it.
+[05:49.820 --> 05:53.020]  No, I don't want, I still don't want the job. I'm just trying to get the show underway.
+[05:53.360 --> 05:57.040]  So now let's, and Geoff, the host, take it away.
+[05:58.580 --> 06:01.800]  I don't know how I feel about his intro. I feel like his heart wasn't in that one.
+[06:01.980 --> 06:03.040]  I feel like we've heard better.
+[06:04.720 --> 06:08.680]  Shut up, shut the f*** up. Ladies and gentlemen, welcome to F*** Face,
+[06:08.680 --> 06:14.140]  the number one podcast of Rooster Teeth for farts, fun, and fancy free thinking.
+[06:14.560 --> 06:15.660]  Guys, it's...
+[06:15.660 --> 06:16.400]  Fancy free?
+[06:16.760 --> 06:20.980]  It's, uh, my alliteration ran out. My, it's Geoff Ramsey. It's Andrew Panton. It's Gavin
+[06:20.980 --> 06:25.540]  Free. And they're here to tell you all about what's been going on with them and their crazy
+[06:25.540 --> 06:30.000]  weeks. And now I'm going to hand it over to your host extraordinaire, Geoff Ramsey.
+[06:30.300 --> 06:31.720]  I would like to point out...
+[06:31.720 --> 06:32.500]  You're not Geoff Ramsey.
+[06:32.500 --> 06:38.300]  ...that Andrew criticized your first intro, Eric, even though he would prefer no intro.
+[06:38.720 --> 06:39.140]  Not true.
+[06:39.260 --> 06:42.860]  Or an intro that occurs 45 minutes into the episode. I thought it was great.
+[06:42.960 --> 06:47.880]  I gotta say, Andrew, I think where you're missing the mark here is it's not about his intro. It's
+[06:47.880 --> 06:52.360]  about the character arc. It's about the character he's building as producer. That's what you gotta
+[06:52.360 --> 06:55.600]  focus on. The intro is just a byproduct of his character.
+[06:55.760 --> 06:58.480]  I was just giving an opinion on the intro. I think intros are very important.
+[06:58.480 --> 07:06.040]  This is Cal State Fullerton, producer character building 103. Textbook.
+[07:06.100 --> 07:07.640]  Don't entirely know what you just said.
+[07:08.220 --> 07:12.680]  I'm saying it was like a junior level class at Cal State Fullerton on how to develop
+[07:12.680 --> 07:17.300]  the character of a producer. College educated man, as he likes to point out.
+[07:17.540 --> 07:21.640]  So you're saying his intro was fitting for the character, even though it may not have been the
+[07:21.640 --> 07:26.520]  best intro in a general sense. That it should be accepted because it was within the brand
+[07:26.520 --> 07:28.100]  of the character he was presenting.
+[07:28.100 --> 07:30.040]  That is 100% correct. That's what I was saying.
+[07:30.160 --> 07:33.320]  Okay, well, just as somebody who really cares about the intro, the intro has always been
+[07:33.320 --> 07:37.660]  really meaningful to me. I was blinded by that, so I apologize. I should have
+[07:38.380 --> 07:43.080]  acknowledged that as someone who's been vocally trying to get us to do intros for weeks now.
+[07:44.240 --> 07:46.060]  I was blinded. I apologize.
+[07:46.460 --> 07:48.260]  Noted. Thank you very much for your apology.
+[07:48.660 --> 07:53.700]  Let me ask you, I got two things today, and they're both movie related. And one is a feel
+[07:53.700 --> 07:59.600]  good story, and one is potentially an assault on the very meaning of our podcast. So I was
+[07:59.600 --> 08:03.840]  going to see what you guys also wanted to talk about, and then we could structure the
+[08:03.840 --> 08:04.760]  order based on that.
+[08:05.180 --> 08:08.640]  I wanted to do... I had a little conversation with Andrew last night. Which do you think
+[08:08.640 --> 08:11.060]  we should talk about that, Andrew? The sort of confusion surrounding?
+[08:11.260 --> 08:16.860]  I feel like we should, especially within the context of the audio engineer talk.
+[08:17.180 --> 08:21.720]  We have an issue with Nick. Not even really a Nick issue. That's unfair. It's not Nick's fault.
+[08:21.880 --> 08:23.020]  You went straight in there with Nick.
+[08:23.020 --> 08:26.960]  I feel like it was potentially a Discord issue.
+[08:27.460 --> 08:31.300]  But he got the file though, right? So it wouldn't have been an editing decision?
+[08:31.660 --> 08:36.520]  Nick, are you able to hop on and record yourself? Andrew, what's your problem with Nick?
+[08:36.680 --> 08:42.760]  It is not my problem. Gavin texted me last night. Last week we made a very big deal about
+[08:42.760 --> 08:48.540]  Gerpal and the excitement around Gerpal and the future of Gerpal. And I'm just minding
+[08:48.540 --> 08:53.040]  my business, having a decent evening. Gavin texted me, you never said Gerpal.
+[08:53.380 --> 08:56.900]  You never even made up a color. The thing was, last week when you
+[08:56.900 --> 09:01.660]  had all the Gerpal designs, I couldn't remember you saying Gerpal the previous week.
+[09:01.760 --> 09:06.300]  Oh my god, I couldn't either. I thought he said Burple or Yerple or something.
+[09:06.520 --> 09:08.500]  Yeah. And I thought I must have heard it wrong
+[09:08.500 --> 09:11.720]  because you guys were talking about Gerpal like it was cemented in fact.
+[09:11.840 --> 09:16.880]  Yeah. So I was like, man, somehow, Andrew, I missed Gerpal. I missed it in the recording.
+[09:16.880 --> 09:21.420]  I heard it for the first time ever text when we did our little stage play, when we were in the
+[09:21.420 --> 09:27.120]  middle of writing that. So we get the proof of last week's episode or two weeks ago's episode,
+[09:27.260 --> 09:31.580]  I think yesterday. So I listened to that, gave a few notes. And then at the end, Andrew's like,
+[09:31.640 --> 09:36.660]  Oh, you ever think we could invent a new color? Never once heard any mention of Gerpal in the
+[09:36.660 --> 09:42.460]  recording. So I was like, Andrew, you never said Gerpal. We've made a shirt or designed shirts for
+[09:42.460 --> 09:46.140]  something that you never said in a podcast. What a fucking fuck face.
+[09:46.520 --> 09:52.400]  I was losing my mind because I was very confident I said it. Gavin said I didn't make up any colors
+[09:52.400 --> 09:56.620]  at all. I was like, I'm pretty sure I made up like three or four. You did. You made up Yerple.
+[09:56.780 --> 10:02.040]  I think I called it Gruple and then Gerpal later. It's I definitely say Gruple. I think
+[10:02.040 --> 10:05.620]  I don't think the Gerpal pronunciation. You said Porange apparently.
+[10:05.880 --> 10:09.660]  I did say Porange and Pellow. I only heard Pellow. That was the one
+[10:09.660 --> 10:14.400]  I remembered you say. In the text, I feel like you said I didn't say a single one and that was
+[10:14.400 --> 10:18.740]  I was losing it. Well, yeah, because I asked you what what these names are going to be called.
+[10:18.820 --> 10:22.820]  And you were like, I don't know, ask Crayola or something. And then I think you said Yerple,
+[10:22.920 --> 10:27.020]  but I just forgot about it. I think it was Yerples. I was like, oh, wow, that's actually
+[10:27.020 --> 10:30.540]  that helps me a little bit because I thought I was going crazy. So did I. I was like, man,
+[10:30.540 --> 10:35.800]  I can't believe we got a shirt based on this really funny thing Andrew said that I just don't
+[10:36.600 --> 10:40.420]  imagine how I felt to have Gavin say, you never said any of these things.
+[10:40.540 --> 10:47.300]  It was alarming. So why? Why is this Nick's fault? Because I do say them. It's just not in the
+[10:47.300 --> 10:52.400]  finalized audio, I believe it's in my audio file, but it doesn't make it to the cut. Nick,
+[10:52.460 --> 10:59.580]  what do you know? I know that Andrew. I know that Andrew told me, hey, just cut whatever I said at
+[10:59.580 --> 11:05.560]  the end. So let me go back and double check. But I don't remember Gerpal. I don't wait. Did I did I
+[11:05.560 --> 11:09.240]  do that? You did. I don't think I did that. I think you did that. Wait, you told him to cut
+[11:09.240 --> 11:14.400]  Gerpal? No, I definitely didn't tell him that I would never cut Gerpal. How dare you even accuse
+[11:14.400 --> 11:18.680]  me of such things? I don't remember saying that I could have said it. It's possible. It's been
+[11:18.680 --> 11:23.260]  it's been a lot. I could easily forgot. I there was a moment in time in which Gavin convinced me
+[11:23.260 --> 11:27.140]  I never said it at all. That was terrifying. I don't know that you did. No one heard it.
+[11:27.300 --> 11:31.620]  Geoff did. I'm with Gavin. The first time I remember hearing the word Gerpal was in that
+[11:31.620 --> 11:37.160]  text exchange. I remember Yerpal or Berpal, but I don't remember Gerpal.
+[11:38.320 --> 11:42.640]  I was more concerned by the fact that Gavin said I didn't make up any colors at all. That was what
+[11:42.640 --> 11:47.960]  was frightening to me because I had very clear memories in which I did and that he's like never
+[11:47.960 --> 11:54.220]  heard of any porn. I never heard that. Palo never happened. So I had to go in and find them. I think
+[11:54.220 --> 11:59.300]  what happened is is that you decided to say all of this stuff. You said Yerpal or something for
+[11:59.300 --> 12:04.220]  us to hear. I remember that now. But your other list of things, including Gerpal and how you were
+[12:04.220 --> 12:08.520]  like, I've got to write this down. I'm pretty sure you said all that over the top of Geoff's
+[12:08.520 --> 12:14.780]  outro. And because Geoff was louder, Discord was just only showing me Geoff and I never heard it.
+[12:14.860 --> 12:20.180]  Geoff was talking. He never heard it. And also it was cut because you told it to cut it. So
+[12:20.180 --> 12:26.040]  Gerpal is the most well-hidden thing you've come up with. And now we have shirts about it. You
+[12:26.040 --> 12:30.460]  made a Gerpal egg. I mean, it's hilarious that the audience is going to listen to the episode
+[12:30.460 --> 12:34.520]  that comes out on Wednesday and they're going to have no idea about any Gerpal. And then the
+[12:34.520 --> 12:40.700]  following week, it's all Gerpal. Well, why don't we release a special Gerpal cut or like a separate
+[12:40.700 --> 12:45.920]  Gerpal snippet that we can put out with this episode, you know, two weeks later or whatever,
+[12:46.120 --> 12:50.180]  just so we can hear it. I think you're right that the problem is I don't think I actually
+[12:50.180 --> 12:55.560]  ever say Gerpal. I think I call it Grupal. I don't think I nailed the Gerpal thing until after.
+[12:55.740 --> 13:02.680]  I think I just completely missed on Gerpal. I don't think there's any mention of Gerpal until
+[13:02.680 --> 13:07.580]  the next episode in which I very confidently am like, Gerpal's the best. We're doing this
+[13:07.580 --> 13:13.440]  Gerpal thing. You couldn't write this level of dysfunction. Oh my God. So why don't we...
+[13:13.440 --> 13:17.660]  We're selling two shirts based on something no one said. If you could find it, Nick,
+[13:17.660 --> 13:22.500]  why don't you insert the original Gerpal statement from Andrew's raw recording,
+[13:22.680 --> 13:27.680]  cut from the episode two weeks ago. Or Grupal, which sounds like a Groupon ripoff. So we'll
+[13:27.680 --> 13:33.000]  put it in right now. What about like Pelo? It's like a purple and a yellow.
+[13:35.480 --> 13:40.380]  All right. Thanks for listening. Rate five stars and subscribe, whatever that means.
+[13:40.960 --> 13:45.220]  This has been episode 16 of F*** Face. Thank you for listening. And Nick,
+[13:46.780 --> 13:51.020]  Grupal. Cut out the whole Mandela effect thing, because I look dumb in it.
+[13:53.560 --> 13:58.740]  Well, all right. All right. Okay. He may have said it. I don't know how to feel about this.
+[13:59.100 --> 14:03.580]  I'm pretty sure I didn't. I think I call it Grupal. And then I think I may say
+[14:03.580 --> 14:07.440]  Gerpal, but it's when I'm away from the microphone looking for a pen.
+[14:08.760 --> 14:13.120]  I don't even know what it is. You said it away from the microphone
+[14:13.600 --> 14:16.120]  while someone else was talking. It's getting worse.
+[14:16.400 --> 14:19.240]  Yeah, no, I thought it was kind of, I don't know. In my head, it was funny.
+[14:19.380 --> 14:24.720]  Okay. So away from a mic underneath someone else talking and you asked for it to be removed.
+[14:25.080 --> 14:30.060]  Yeah. Well, no, I don't. I'm very confident. I don't think I asked for that to be removed.
+[14:30.160 --> 14:32.220]  Okay. I did make a suggestion
+[14:32.220 --> 14:36.320]  of something else, but I don't think it was that. And if I'm wrong, I apologize.
+[14:36.320 --> 14:40.420]  I just, I don't think I did that. But if I did, it's possible I did. I trust Nick.
+[14:40.460 --> 14:42.040]  Why would Nick lie about that? It's funny.
+[14:42.240 --> 14:45.640]  It is funny. It's a good point. I was not expecting this episode to go
+[14:45.640 --> 14:48.000]  this way this fast. Well, in fairness,
+[14:48.140 --> 14:52.880]  we've now saved Gerpal from being something that wasn't said to something that was said a lot.
+[14:55.340 --> 15:01.900]  I like the idea too, that I was pitching that we sell the shirts on the same day the second
+[15:01.900 --> 15:06.240]  episode comes out. So nobody would have any concept of what we're talking about at all.
+[15:06.440 --> 15:10.500]  There'd be no bleed in. There'd be nothing. Everybody just be going like, I guess I didn't
+[15:10.500 --> 15:14.620]  hear him say, I must have missed the last episode. That'd be right where Gavin and I were.
+[15:14.700 --> 15:19.280]  It's a real mystery. I actually, I've never like went into my raw audio, but I,
+[15:19.680 --> 15:22.680]  Gavin made me search last night. Yeah. I was like, you got to check.
+[15:22.860 --> 15:26.680]  Cause to be honest, there's a lot of times where I don't hear stuff said in recordings. It happens
+[15:26.680 --> 15:30.800]  all the time, especially on podcasts where, you know, you'll be listening to like 90% of what
+[15:30.800 --> 15:34.820]  someone's saying. And then I'll think of something that I want to say next in that tiny little blip.
+[15:35.060 --> 15:38.080]  I sort of miss the current sentence and potentially miss something funny.
+[15:38.440 --> 15:42.880]  Or potentially Andrew's given some boring ass speech about Ian and you just fall to
+[15:42.880 --> 15:45.960]  fucking sleep with your eyes open. I completely understand what you're saying.
+[15:47.240 --> 15:48.680]  You're talking about neighborhoods again?
+[15:49.220 --> 15:56.260]  I wonder if this is the first shirt we've ever produced that's based off of a joke that never
+[15:56.260 --> 16:04.400]  happened. I mean, it did happen. Just the line wasn't there. The joke happened as a response to
+[16:04.400 --> 16:10.400]  the shirt that was a response to a joke that didn't exist. Dude, everything is so f*** face.
+[16:10.560 --> 16:16.680]  We f*** face the hats. We f*** face this. It's incredible, our consistency. And the fact that
+[16:16.680 --> 16:21.360]  Geoff and I just went along with Gerpol, even though we both missed it. I don't give a fuck.
+[16:21.660 --> 16:24.220]  No. Yeah. We're just all in. Andrew's running with something.
+[16:24.220 --> 16:27.580]  I didn't realize neither of you had heard that. And I just assumed
+[16:27.580 --> 16:30.220]  that when there was no question that it definitely happened.
+[16:31.880 --> 16:37.320]  Cause I wasn't a hundred percent sure. I was 80% sure. I knew for a fact I said colors and I was
+[16:37.320 --> 16:44.140]  about 90% sure I said Gerpol, but I didn't like the first definitive memory I have is definitely
+[16:44.140 --> 16:48.420]  in our text chain after we recorded. Oh God. What is the title of this episode
+[16:48.420 --> 16:51.060]  going to be? It's going to have to be like Gerpol, Gerpol, Gerpol or something.
+[16:51.060 --> 16:55.840]  It's a great color. Yeah. I'm excited to wear the shirt.
+[16:57.600 --> 17:01.360]  You get the reference for where it was from. It was kind of hidden, but it's pretty good.
+[17:01.740 --> 17:05.860]  Can we talk about, speaking of merch, can we talk about the breakthrough that the
+[17:05.860 --> 17:09.060]  RT store has had? Oh my God. It's pretty incredible.
+[17:09.320 --> 17:12.420]  They've managed to do it. They've made the broken hat.
+[17:12.540 --> 17:17.400]  They recreated the f***ing, well, the black Russian f*** face hat or f*** hat, I guess.
+[17:17.540 --> 17:20.760]  Yeah. Which was easy to do for the shirt. Cause I assume it's just some like screen print,
+[17:20.760 --> 17:25.260]  but this is actual embroidery. They embroidered that monstrosity.
+[17:25.380 --> 17:27.560]  Wait, that is embroidered? I think so.
+[17:27.720 --> 17:31.800]  I assumed it was like some sort of print. I mean, it looks pretty 3D-ish in the picture.
+[17:32.020 --> 17:36.680]  It does, but the red shirts, it look amazing too. Like it looks like it's embroidered,
+[17:36.700 --> 17:39.040]  even though it's a print. Do you have yours yet? I didn't get one.
+[17:39.180 --> 17:39.860]  Red shirt? Yeah.
+[17:39.980 --> 17:41.200]  Yeah, I have one. You didn't get one?
+[17:41.320 --> 17:43.040]  No. I think I got two. I gave one to Millie.
+[17:44.440 --> 17:49.720]  I just got a f*** face shirt like two weeks ago. I had no idea what it was for. I just kept
+[17:49.720 --> 17:54.060]  getting these calls from a number, a private number. And then I eventually, they left a tag
+[17:55.060 --> 17:57.420]  and suddenly appeared. I didn't even know we're supposed to get shirts.
+[17:57.540 --> 17:58.340]  Do you wear it? No.
+[17:59.420 --> 18:00.580]  Why not? Why would I?
+[18:00.660 --> 18:03.860]  Do you not like our brand? No, it's a great shirt. I just,
+[18:03.900 --> 18:06.440]  why would I? I don't know. Why would I? What do you mean, why would you?
+[18:06.560 --> 18:09.280]  I don't know. That seems weird. It's the thing that I'm in.
+[18:09.480 --> 18:12.260]  Yeah, I get what he's saying. It's kind of like if you walk down the street and you saw
+[18:12.260 --> 18:16.340]  James Hetfield wearing a Metallica shirt, you'd be like, that's a little on the nose, buddy.
+[18:16.340 --> 18:20.120]  Yeah, I don't think I'll ever wear. I don't even listen to this show. You think I'm going
+[18:20.120 --> 18:22.700]  to wear the merchandise for it? Why do you not listen to the show?
+[18:22.920 --> 18:26.800]  I have noticed that you've never once given notes on any episode publicly.
+[18:27.120 --> 18:35.740]  I feel really bad about it. I just, I really don't think I'm that funny and I don't like my voice.
+[18:35.940 --> 18:37.600]  So I don't listen. You're an idiot.
+[18:37.880 --> 18:44.780]  I avoid listening because it makes me uncomfortable and just playing more into that. I don't know. I
+[18:44.780 --> 18:47.600]  feel like it would mess with my head. So I don't, I don't listen to the show.
+[18:47.820 --> 18:51.420]  That's fair. I mean, we don't want to ruin what you bring to the podcast if you're going to get.
+[18:51.500 --> 18:52.200]  Or not bring.
+[18:52.320 --> 18:53.060]  In your own head about it.
+[18:53.120 --> 18:57.160]  This was an episode of me not bringing something, which then brought something. The lack of the
+[18:57.160 --> 19:02.340]  bringing has really been the key moment. Don't listen to any advice or criticism from
+[19:02.340 --> 19:06.680]  Gavin here. You just keep doing exactly what you've been doing for 26 years because it's
+[19:06.680 --> 19:10.300]  working out great. I'm not criticizing your decision to do that. I'm just saying
+[19:10.300 --> 19:12.220]  you're an idiot if you think you're not funny.
+[19:12.220 --> 19:14.640]  Oh, I don't. Not at all. Not in the slightest.
+[19:14.880 --> 19:16.620]  Also, you're funny because you're an idiot.
+[19:17.360 --> 19:20.880]  I don't know if that's a compliment. I don't know how to take. I appreciate.
+[19:21.240 --> 19:21.680]  You're welcome.
+[19:21.860 --> 19:23.940]  The classification of funny. That's nice.
+[19:24.080 --> 19:28.820]  Isn't home where we all want to be? Reba here for realtor.com. The pro's number one,
+[19:28.900 --> 19:33.760]  most trusted app. Finding a home is like dating. You're searching for the one.
+[19:34.040 --> 19:39.920]  With over 500,000 new listings every month, you can find the one today. Download the
+[19:39.920 --> 19:45.920]  Realtor.com app because you're nearly home. Make it real with Realtor.com.
+[19:46.040 --> 19:49.680]  Pro's number one, most trusted app based on August 2024 proprietary survey. Over 500,000
+[19:49.680 --> 19:52.460]  new listings every month based on average new for sale and rental listings. February
+[19:52.460 --> 19:53.940]  2024 through January 2025.
+[20:10.020 --> 20:14.460]  can seem like a daunting task unless you have a partner like Shopify.
+[20:15.140 --> 20:19.160]  They have the tools you need to start and grow your business. From designing a website,
+[20:19.440 --> 20:23.200]  to marketing, to selling and beyond, Shopify can help with everything you need.
+[20:23.660 --> 20:25.780]  There's a reason millions of companies like Mattel,
+[20:26.080 --> 20:28.680]  Heinz and Allbirds continue to trust and use them.
+[20:29.080 --> 20:32.160]  With Shopify on your side, turn your big business idea into...
+[20:33.320 --> 20:37.140]  Sign up for your $1 per month trial at Shopify.com slash special offer.
+[20:43.010 --> 20:49.090]  Have a butthole? I sure do. But you already knew that. Because we talk about my butthole a lot.
+[20:49.510 --> 20:55.150]  Right now though, I want to talk about yours. And I want to talk about how happy you can make it.
+[20:55.330 --> 20:59.150]  With TUSHY. You know, it's hard to believe that when we go to the bathroom in this country,
+[20:59.470 --> 21:05.110]  most of us still wipe rather than wash. It's barbaric. It's painful. There's not a toilet
+[21:05.110 --> 21:11.990]  paper alive that is soft enough for my gentle area. That's why I use a bidet. And I think you
+[21:11.990 --> 21:17.110]  should too. The Hello TUSHY modern bidet attachment is here to democratize the blessings
+[21:17.110 --> 21:22.750]  bestowed by bidets and offer clean buttholes to everyone, not just the culturally elite.
+[21:23.170 --> 21:29.650]  Hello TUSHY cleans your butt with a precise stream of fresh water for just $79. That's pennies on the
+[21:29.650 --> 21:34.290]  butthole dollar. It attaches to your existing toilet, requires no electricity or additional
+[21:34.290 --> 21:40.930]  plumbing, and cuts toilet paper use by 80%. Think about the trees. Don't they have buttholes?
+[21:40.930 --> 21:45.570]  If they do, maybe we should get them all TUSHYs. I hadn't considered that. Either way,
+[21:45.750 --> 21:50.910]  the Hello TUSHY bidet pays for itself in just a few months. And the trees, they will thank you,
+[21:50.970 --> 21:56.590]  in their own way. They'll continue to make oxygen that we use to breathe so that we can continue
+[21:56.590 --> 22:03.190]  to use our buttholes to maximum efficiency. So ditch paper products and uncomfortable chafing
+[22:03.190 --> 22:08.670]  when you switch to the soothing, cleansing stream of water from a Hello TUSHY bidet attachment.
+[22:09.590 --> 22:09.910]  Ahhhh.
+[22:10.830 --> 22:16.390]  And every Hello TUSHY bidet attachment comes with a 60-day risk-free guarantee
+[22:16.390 --> 22:22.310]  and a 12-month warranty. So join millions of happy Hello TUSHY butthole customers
+[22:22.310 --> 22:25.410]  right now and have a clean butt with every flush.
+[22:25.730 --> 22:31.390]  Go to hellotushy.com to get 10% off. This is a special offer for our listeners.
+[22:31.390 --> 22:38.910]  Go to hellotushy.com slash face for 10% off. That's hellotushy.com slash face.
+[22:39.310 --> 22:44.490]  This fall, as you get back into the swing of things, Bespoke Post has brand new seasonal
+[22:44.490 --> 22:49.910]  box of awesomes collections for you guys. Guaranteed to upgrade your life. That was
+[22:49.910 --> 22:54.910]  easy to say. Whether it's gear to upgrade your autumn craft beers or cozy threads for
+[22:54.910 --> 22:59.170]  when the temperature dips. It was like 37 degrees when I woke up in Austin this morning.
+[22:59.170 --> 23:04.530]  It was 90 the day before. 30s today. That's why it's time to break out a box of awesome
+[23:04.530 --> 23:10.490]  fall collection and warm up with some cozy warm threads. Bespoke Post only sends guys
+[23:10.490 --> 23:14.890]  the best stuff every month. No matter what you're into, Box of Awesome has you covered.
+[23:15.250 --> 23:18.990]  From style and grooming goods, which can be very expensive and hard to find back when
+[23:18.990 --> 23:25.090]  I had that mustache. It was a pain to locate that kind of stuff. To barware, cooking tools,
+[23:25.090 --> 23:30.430]  and outdoor gear, Box of Awesome has collections for every part of your life. To get started,
+[23:30.550 --> 23:35.350]  take the quiz at boxofawesome.com. Don't worry, you can't fail the quiz, but you should pay
+[23:35.350 --> 23:40.690]  attention. Don't do the old abacabadabacabacaba thing. It might give you a 70 on your English
+[23:40.690 --> 23:45.250]  quiz, but it's not going to get you the right stuff. So take that quiz, give them your real
+[23:45.250 --> 23:49.650]  answers, and it'll help them pick the right box of awesome for you. They release new boxes every
+[23:49.650 --> 23:53.270]  month across a ton of different categories. I don't know about you, but I'm looking for some
+[23:53.270 --> 23:57.870]  warm clothes, so that's where I'm headed. It's free to sign up, and you can skip a month or
+[23:57.870 --> 24:07.670]  cancel any time. Each box costs only $45, but has over $70 worth of gear. That's a $25 savings.
+[24:08.450 --> 24:14.010]  Get 20% off your first monthly box when you sign up at boxofawesome.com and enter the code
+[24:14.010 --> 24:21.570]  FACE at checkout. That's boxofawesome.com, code F-A-C-E, for 20% off your first box.
+[24:21.570 --> 24:26.810]  So go to boxofawesome.com and enter the code FACE at checkout to get 20%
+[24:26.810 --> 24:30.650]  off your first box when you sign up. Tell them FACE sent ya!
+[24:32.510 --> 24:37.930]  Anything else? Um, I bought a video game by mistake. What'd you buy? I bought Nickelodeon
+[24:37.930 --> 24:43.430]  Racers 2. It was a new release. Are you trying to find your next Garfield? I was looking for
+[24:43.430 --> 24:48.890]  my next Garfield, and at Nickelodeon Racers 2 on that store you got Spongebob, you got all the
+[24:48.890 --> 24:53.570]  classic Nickelodeon characters. I thought, this is perfect. Nobody's gonna buy this full-price
+[24:53.570 --> 24:59.510]  game. And I bought it. They don't have a leaderboard. There's no real online aspect.
+[24:59.850 --> 25:05.890]  The only thing they kinda track is how far you've driven in the cars. So that's not, that's a dumb
+[25:05.890 --> 25:10.570]  competition. So now I just have Nickelodeon Racers 2, and I haven't even played it,
+[25:10.630 --> 25:15.010]  and I paid full price. You could be the person who's driven the furthest. I could.
+[25:15.430 --> 25:18.450]  Did you buy an Xbox? Yes. I think you can return it, can't you?
+[25:19.710 --> 25:24.090]  Maybe? I don't know. That seems like work. I don't want to make it too much work for you. I think you
+[25:24.090 --> 25:28.470]  can do it on Steam as well. Do you have to upload it back to them? Like give them back the 1s and 0s?
+[25:28.490 --> 25:34.090]  Yeah, you have to re-upload it with a text file that says, please return for full value. I think
+[25:34.090 --> 25:38.450]  Steam, it might be you have a limited amount of time you can play it before you can return it,
+[25:38.530 --> 25:42.510]  like an hour or two hours. I know PlayStation you can return digital games if you haven't
+[25:42.510 --> 25:47.290]  downloaded them yet. I don't know about Xbox. Look into it. Or don't. Just fucking eat the money.
+[25:47.290 --> 25:52.490]  No, I think I just need to own the mistake of, it has online multiplayer. So maybe at some point
+[25:52.490 --> 25:58.350]  I can play, maybe I'll create an online racing and Nickelodeon races too. Or maybe a dev will
+[25:58.350 --> 26:04.050]  hear this podcast and add in the leaderboards. Ooh, the Andrew DLC. I don't feel like anyone's
+[26:04.050 --> 26:08.450]  taken suggestions from the Gerpal guy. I don't think it's going to make it. But here's the
+[26:08.450 --> 26:24.530]  beauty of it. You're out. Just stop. Just move on. You're good. You tried. I can't do it. Hey,
+[26:24.610 --> 26:31.990]  Gav, I have a question. What's the beauty of it? Nothing. I tried really hard to get in touch with
+[26:31.990 --> 26:37.550]  the Garfield devs. That was a challenge. I emailed them. I reached out on Twitter. I got
+[26:37.550 --> 26:41.690]  one reply. I believe there was a language barrier and I'm sure they were very confused.
+[26:42.070 --> 26:44.610]  What were you trying to get out of them? Was it Italian? Because it's Garfield?
+[26:44.870 --> 26:50.630]  No, it was, I think they're a French studio going off of my memory. It was a technical question
+[26:50.630 --> 26:55.530]  about the game. And then the other thing I asked was just sharing the news story just to see what
+[26:55.530 --> 26:59.170]  their response would be. I thought it'd be really funny if I could get the studio to somehow
+[26:59.170 --> 27:04.590]  interact with that. And they were not responsive. I think they wrote like a one word reply of like,
+[27:04.590 --> 27:09.090]  we will share this internally. I was like, we'll share it. It was very brief. It was very
+[27:09.090 --> 27:13.870]  not substantial. What's Italy got to do with Garfield? Well, he likes lasagna. He does.
+[27:14.130 --> 27:18.330]  Did Italy invent that? Lasagna? I think it's considered Italian food. I know it's Italian
+[27:18.330 --> 27:23.190]  food, but is it, you know, legitimately Italian or is it a westernization of... I wasn't going
+[27:23.190 --> 27:28.990]  for like super fucking factual and legitimate. I thought it kind of made sense. You see a lot
+[27:28.990 --> 27:33.530]  of pizza and lasagna in a goddamn Garfield cartoon. I didn't think it was that much of a
+[27:33.530 --> 27:37.710]  leap to get to Italian. I just don't think they'd go out of their way to hire an Italian dev
+[27:37.710 --> 27:43.850]  for that reason. No shit. I like the idea that they would though. Jim Dave is very protective
+[27:43.850 --> 27:48.490]  of that brand. No, so they went with a fucking French developer instead. I think they probably
+[27:48.490 --> 27:52.490]  went with whoever would be willing to make a Garfield game at this point. Guess how many
+[27:52.490 --> 27:58.390]  E.T. games exist? This just blows my mind. Including the one in the desert? Including
+[27:58.390 --> 28:05.070]  sure, yes, the desert one as well. Just that one. Just that one. Uh, 19. 19? That's... okay,
+[28:05.150 --> 28:10.070]  well you just ruined... I think it's like 12 or 13. What'd I ruin? Well, it's just... it's insane
+[28:10.070 --> 28:14.670]  to me that they'd make more than like two E.T. games. That there's 12 E.T. games and most of
+[28:14.670 --> 28:20.050]  them are from post-2002? Oh. Like, I don't feel like there's any fandom around E.T. My 19 guess
+[28:20.050 --> 28:25.230]  was based on the just myriad of consoles that were available back then. There was one E.T. movie
+[28:25.230 --> 28:30.590]  and fucking 12 E.T. games after it being famously one of the worst games ever made.
+[28:30.810 --> 28:36.810]  It killed the industry. Yeah, it was E.T. and fucking Superman 64. Good lord. 19? Have you
+[28:36.810 --> 28:40.270]  played? Oh, you should collect them all and play them all. I thought about that. No, I haven't
+[28:40.270 --> 28:43.790]  played them. A lot of them are on Game Boy. It's not even like a situation where Gavin said where
+[28:43.790 --> 28:48.970]  it's like they made the same game for multiple platforms. It is genuine different E.T. games.
+[28:49.330 --> 28:54.310]  12 different E.T. games. That's lunacy. Yeah, it is. It's insane. There was a... there was a sequel
+[28:54.310 --> 29:00.670]  book that I read when I was in like middle school where Elliot was like grew up and E.T. came back
+[29:00.670 --> 29:04.730]  and he was like didn't need him. He was like in high school or some shit. He was like too cool
+[29:04.730 --> 29:08.570]  for E.T. I don't remember exactly, but there was a second book, but I think Steven Spielberg had
+[29:08.570 --> 29:13.010]  no interest in making that movie. Was it a serious emotional tale between Elliot and E.T.?
+[29:13.010 --> 29:16.490]  They reunite and realize they weren't the same people they were when they last met. Really
+[29:16.490 --> 29:21.270]  challenges their relationships. I think it was like a Wreck-It Ralph 2 type story. Okay. Yeah,
+[29:21.270 --> 29:24.930]  if I remember correctly. He didn't want to make a second movie, but he did want to change all the
+[29:24.930 --> 29:31.210]  guns into walkie-talkies for the first movie. He did. He also, uh, they made a minority report
+[29:31.210 --> 29:36.730]  Game Boy game and his one note, I don't know if it was from him directly or if it was the company
+[29:36.730 --> 29:43.030]  he owns, they got the game and his one criticism was that there was too much violence and he wanted
+[29:43.030 --> 29:47.910]  them to change the pistols into puke guns and make everybody puke because kids think puke is funny.
+[29:47.910 --> 29:53.790]  That was his insight. He's not wrong. To the movie that he made with guns? Yes, for the Game Boy
+[29:53.790 --> 29:58.210]  game. Cause I guess he viewed that only kids would want to play the minority report Game Boy game
+[29:58.210 --> 30:02.630]  and violence shouldn't be for kids. And so let's change all the weapons of the puke guns.
+[30:02.990 --> 30:08.150]  So the bad guys puke, kids think puke is real funny. Is the drowning scene in the game as well?
+[30:08.410 --> 30:13.850]  I've never played or watched minority report. So you never saw minority report? No, I haven't
+[30:13.850 --> 30:17.650]  seen it or played the game. So I have no concept, but I would be shocked to learn
+[30:17.650 --> 30:23.490]  if the drowning scene was in the Game Boy game. That's good. Near future sci-fi, believable tech
+[30:23.490 --> 30:26.930]  in that movie. Okay. Like the way cars and shit work. You kind of, you kind of buy into it.
+[30:26.970 --> 30:30.370]  You're like, I can see that, especially with advertisement and stuff. The ball thing is a
+[30:30.370 --> 30:35.170]  bit farfetched though. Why not just show it on a screen? The ball thing's a little farfetched.
+[30:35.210 --> 30:38.610]  You're right about that. Do you really need to carve something into a ball? Yeah, no,
+[30:38.650 --> 30:42.430]  that was a little silly. You're right about that. Is that good movie? It's not bad. Is it
+[30:42.430 --> 30:46.790]  minority report? Yeah. I remember being a very blue movie. I think it's okay. It's okay. I enjoyed
+[30:46.790 --> 30:50.590]  it. It's not one of those movies. I think I've seen it twice, but I don't think I, it's not a
+[30:50.590 --> 30:54.590]  movie I'd want to see again. No. I feel like the action in it and the, and the kind of just the
+[30:54.590 --> 30:58.950]  pacing of the movie is really good, but I don't know about the story. Spielberg made a few movies
+[30:58.950 --> 31:02.810]  where I finished them. I thought, yeah, and I don't want to see it again. And I think minority
+[31:02.810 --> 31:08.730]  report, War of the Worlds, they both, they're both like, I don't want to watch that again. War
+[31:08.730 --> 31:13.790]  of the Worlds was a, that was work to get through. I thought. Minority Report I enjoyed, but War of
+[31:13.790 --> 31:17.970]  the Worlds I just could not hang with. War Horse is like the most forgettable movie I've seen. I
+[31:17.970 --> 31:21.970]  don't think I've seen that. You don't need to. It's a story about a horse. It's not that
+[31:21.970 --> 31:26.850]  interesting. What other things have sequels in them? Seabiscuit. Seabiscuit is another horse
+[31:26.850 --> 31:31.010]  movie. I'm more of a Hidalgo guy. I thought you were going to ask what. What other horse movies?
+[31:31.090 --> 31:35.030]  Black Shining, Black Beauty, Black Beauty. You thought I was going with a horse thing? Flicka,
+[31:35.090 --> 31:41.130]  my friend Flicka. I've named three horse movies. How many can you name, Andrew? Uh, Hidalgo. Okay.
+[31:41.130 --> 31:45.450]  You got Seabiscuit. You took all the good ones. This is tough. This is like a family feud where
+[31:45.450 --> 31:50.670]  there's only the last option left. Um, it's another good horse movie. Uh, National Velvet.
+[31:50.850 --> 31:53.950]  Don't know what that one is. Never heard of it. You have a horse movie, Gavin? Uh,
+[31:54.270 --> 31:59.310]  Flog a Horse. Oh yeah, Flog a Horse. Flog a Dead Horse. No, I don't. Black Beauty someone
+[31:59.310 --> 32:04.150]  already said, right? Yeah. Is it a horse that, there's a Disney movie, I think it's a horse,
+[32:04.250 --> 32:09.570]  about a horse that kicks field goals? And for a football team? You didn't watch that along with
+[32:09.570 --> 32:14.810]  your MVPs? No, I haven't, I haven't gotten around to that one yet. I think it's a horse. I think
+[32:14.810 --> 32:20.510]  it's a mule or a donkey. Is it a donkey? Okay. It was like from the, maybe the 60s or 70s. Yes.
+[32:20.970 --> 32:25.210]  Mr. Ed. I don't know if they ever made a Mr. Ed movie, but yeah, that was a whole TV show. BoJack
+[32:25.210 --> 32:29.550]  Horseman. There you go. There you go. Another TV. There's a lot of horse content out there. There's
+[32:29.550 --> 32:32.990]  a lot of horse content. Yeah. Maybe we need to get into the horse game. A lot of money in the
+[32:32.990 --> 32:37.770]  horse game. What, like the glue industry? Yeah, on both ends. Like on the one end,
+[32:37.770 --> 32:41.910]  everybody needs glue. Is that still a thing? They're not really squashing horses into glue,
+[32:41.990 --> 32:45.570]  are they? What else are they going to do with them? On the other end, you win the triple crown.
+[32:45.750 --> 32:49.950]  That's like billions, millions of dollars. But surely there are stickier things than horses.
+[32:50.210 --> 32:54.350]  I don't know. I don't know how to answer that question. I've never tried to gum up a horse,
+[32:54.410 --> 33:00.610]  but I guess it works. I mean, which part of the horse is glue? The foot? I think it's the
+[33:00.610 --> 33:04.250]  hooves, right? That would make sense. I don't know what else you would take unless it's...
+[33:04.250 --> 33:08.090]  Because otherwise, if the glue was somewhere else in the body,
+[33:08.570 --> 33:11.210]  surely everything would be glue. You'd get like cow glue.
+[33:13.230 --> 33:17.050]  Yeah, it would have to be. And this is... I never even really thought about the horse
+[33:17.050 --> 33:22.010]  glue process. The horses are definitively dead at this point, right? It's not like a glue salon?
+[33:22.290 --> 33:26.350]  During the... No, yeah, they don't extract the glue while they're alive.
+[33:26.470 --> 33:29.110]  Yeah, it's not like they're just hanging out and they do a little trimming?
+[33:29.390 --> 33:32.970]  I assume the corpses need to be processed into glue.
+[33:32.970 --> 33:35.490]  That makes sense. I don't know anything about it other than
+[33:35.490 --> 33:38.690]  just joking that horses become glue. I'm not even sure if that's done anymore.
+[33:38.850 --> 33:44.210]  No, I have the same awareness as you. It's alarming to think that I've had horse on my face.
+[33:44.390 --> 33:47.210]  I keep waiting for Discord to give me the answer.
+[33:47.430 --> 33:49.670]  To what question? To the fucking glue question.
+[33:49.830 --> 33:54.170]  Do they still make glue out of horses? Or has it been upgraded to gorillas?
+[33:54.510 --> 33:57.610]  Yeah, it's pretty much gorilla exclusive. Gorilla glue is a weird thing.
+[33:57.830 --> 34:00.730]  Is it just that they're strong? I have an answer. I have an answer.
+[34:00.730 --> 34:05.290]  Glue, historically, is indeed made from collagen taken from animal parts,
+[34:07.010 --> 34:11.170]  particularly horse hooves and bones. So that definitely rules out the salon
+[34:11.170 --> 34:13.770]  aspect. There's no... can't just give a little bone.
+[34:14.010 --> 34:16.970]  Well, we've learned a lot today about glue and horse movies.
+[34:17.410 --> 34:21.870]  My original question before we went into horse talk is what are other things that, like,
+[34:21.910 --> 34:26.630]  the sequel came out in a different medium? Like, Goonies 2 was one. You're saying E.T. has a book.
+[34:26.830 --> 34:30.330]  It's always weird to me when, like, somebody makes a show or something and then
+[34:30.330 --> 34:33.750]  they make a completely different sequel on a different medium.
+[34:33.850 --> 34:39.090]  I mean, a lot of times it's like novelizations of movies, which then themselves get sequels.
+[34:39.210 --> 34:40.610]  Maybe that's the usual path.
+[34:40.830 --> 34:46.890]  I know Buffy the Vampire Slayer, the TV show, which I am a huge lifelong fan of and have seen it
+[34:46.890 --> 34:51.510]  so many times I'll never watch it again. I had to put that in Twin Peaks to bed. Never again.
+[34:52.370 --> 34:58.050]  But Joss Whedon continued the Buffy the Vampire Slayer seasons as comic books. And so there's
+[34:58.050 --> 35:02.570]  season 8, season 9, I think they're up to season 12. And so I've started reading the comic books
+[35:02.570 --> 35:04.630]  and it's exactly like watching the TV show.
+[35:04.750 --> 35:07.570]  Also, that TV show started as a movie.
+[35:07.770 --> 35:11.250]  That TV show started as a movie that became a TV show that became a comic book.
+[35:11.510 --> 35:13.850]  He is going in the wrong direction in his career.
+[35:13.990 --> 35:17.050]  Had, like, Pee Wee Herman and Rutger Hauer.
+[35:17.450 --> 35:20.890]  That's true. Pee Wee Herman had the funny death and Rutger Hauer was the big bad guy.
+[35:21.030 --> 35:24.810]  No, no, I'm sorry. He wasn't the bad guy. He was Giles, the watcher, I guess.
+[35:25.030 --> 35:26.330]  No, Rutger Hauer was the bad guy.
+[35:26.510 --> 35:27.050]  Was he the bad guy?
+[35:27.050 --> 35:28.990]  Yeah, he was like big bad vampire.
+[35:29.150 --> 35:31.270]  You know who else was in that movie? Fucking Luke Perry.
+[35:31.490 --> 35:31.850]  Oh, yeah?
+[35:32.230 --> 35:34.450]  Rest his soul. And Christy Swanson, who I believe is still alive.
+[35:34.590 --> 35:37.550]  I guess it's a good industry vampire slang, wouldn't it be?
+[35:38.390 --> 35:38.750]  Well...
+[35:38.750 --> 35:41.830]  There's always new vampires, right? Like, you're never going to run out of vampires.
+[35:42.190 --> 35:44.230]  I mean, is anyone paying them, though, in the show?
+[35:44.430 --> 35:45.310]  That's a great point.
+[35:45.430 --> 35:48.150]  Buffy wasn't rich from all of her vampire killing.
+[35:48.330 --> 35:52.250]  It's just a weird thing that we're... well, I guess it's for the betterment of Earth,
+[35:52.330 --> 35:56.650]  I guess, is the idea. This is a humanitarian cause to get rid of vampires. But if you're
+[35:56.650 --> 35:58.990]  effective, you would no longer have that job.
+[35:59.110 --> 36:03.070]  Right. You could do your job too well and find yourself out of a job.
+[36:03.230 --> 36:06.050]  Yes. Have either of you seen the movie Snow Day?
+[36:06.390 --> 36:06.530]  No.
+[36:06.770 --> 36:13.070]  It's an old Nickelodeon. Okay. It's a movie. I loved it as a kid. It's a Nickelodeon movie,
+[36:13.070 --> 36:17.890]  and the whole premise is about, like, a snow day happens, and it's the great day,
+[36:17.930 --> 36:20.970]  and you follow the kids, and they go on this adventure, and Chevy Chase is in it.
+[36:21.330 --> 36:24.190]  And the villain of the movie is the snowplow driver.
+[36:24.190 --> 36:29.470]  And he's just this really creepy dude. He's a great comedic actor. I'm blanking his name right
+[36:29.470 --> 36:30.690]  now. Ed Asner.
+[36:30.930 --> 36:34.170]  He's in Schitt's Creek. Eugene Levy.
+[36:34.450 --> 36:35.590]  No. Oh, Chris Elliott.
+[36:35.830 --> 36:40.890]  Chris Elliott. Chris Elliott plays the snowplow driver, and I hated him as a kid,
+[36:40.970 --> 36:44.510]  because he's like, ah, the snowplow driver. And I revisited that movie recently,
+[36:44.510 --> 36:49.270]  because it occurred to me the entire reason he's a villain is because he's effective at his job,
+[36:49.310 --> 36:53.630]  and he prevents snow days. I just thought it was so funny. As a kid, I genuinely hated this
+[36:53.630 --> 36:57.730]  character, and this whole thing is just really... I'm really good at my job. I'm efficient,
+[36:57.990 --> 37:02.910]  and so I can't have a snow day. That's the problem with Chris Elliott. He is too good of an actor,
+[37:03.070 --> 37:08.050]  and I'm not kidding. I'm a huge Chris Elliott fan from all the way back from his TV show in the 80s,
+[37:08.330 --> 37:13.150]  but that dude... The character he plays on Schitt's Creek is so unlikable, I don't like
+[37:13.150 --> 37:17.290]  Chris Elliott anymore. But if you watch Cabin Boy, it's one of the funniest movies ever made.
+[37:17.630 --> 37:22.570]  It's the Chris Elliott movie, and it has a very rare appearance by David Letterman in a movie.
+[37:22.570 --> 37:26.630]  He almost never acts. I don't think I've seen him in anything. What is Cabin Boy about?
+[37:26.970 --> 37:33.330]  Cabin Boy is about... Chris Elliott is a cabin boy who gets hooked up with some pirates and goes on
+[37:33.330 --> 37:39.270]  an adventure. Okay. And he tries to get laid. And yeah, it's just a fucking silly movie. And
+[37:40.010 --> 37:45.430]  David Letterman sells monkeys. Okay. I can get behind this. So is it a monkey movie?
+[37:45.650 --> 37:51.350]  It is definitely not a monkey movie, but it is the best you'll ever see Chris Elliott.
+[37:51.350 --> 37:54.630]  I was thinking the other day, is George of the Jungle a monkey movie?
+[37:54.850 --> 37:59.950]  Yes. I haven't seen it in a while. I feel like if I was going to define the genre of that movie,
+[37:59.970 --> 38:04.110]  it would be slamming into tree movie. I feel like that's the entirety of that film.
+[38:04.210 --> 38:08.110]  But there's more screen time given to monkeys than to him slamming into a tree.
+[38:08.370 --> 38:13.990]  And main gorilla is John Cleese. I feel like if multiple named
+[38:13.990 --> 38:16.430]  characters are monkeys, it's probably a monkey movie.
+[38:16.630 --> 38:20.810]  Yeah, I think that's fair. Is that worth... Did you watch George of the Jungle recently?
+[38:21.770 --> 38:25.730]  Yes. But for that movie, recently is like within the last five years. I think I watched it on a
+[38:25.730 --> 38:32.390]  plane a few years ago because I don't know, I think I was sad and I wanted some childhood memories in
+[38:32.390 --> 38:36.890]  the air. That makes sense. I was trying to think of like what context you'd ever watch George of
+[38:36.890 --> 38:40.150]  the Jungle. You wanted Brendan Fraser to swing away your problems?
+[38:40.410 --> 38:45.590]  Yeah. I think I just missed Brendan Fraser in stuff or Fraser. Which one is it? He was like
+[38:45.590 --> 38:49.610]  him in the mummy days. He was so great. Oh man. Yeah. The mummy is so good.
+[38:49.610 --> 38:52.190]  And he got hurt a lot on those movies. Yeah, he did.
+[38:52.490 --> 38:55.370]  The mummy is a great movie. I've watched the mummy so many times.
+[38:55.570 --> 38:59.210]  You mentioned the mummy a few weeks ago when you were talking about Fezzes.
+[38:59.450 --> 39:01.910]  I did. Yeah, you're right. I didn't even make that connection.
+[39:02.070 --> 39:03.850]  Because Omid Jalili was a Fez.
+[39:03.930 --> 39:08.630]  I feel like this has to be intentional, but I never noticed until like somewhat recently.
+[39:09.010 --> 39:11.790]  It's like the whole point or the plot of the mummies, they bring this mummy back
+[39:11.790 --> 39:17.650]  and then the people that open it, he is trying to consume their bodies essentially to bring his back
+[39:17.650 --> 39:23.570]  because he's a mummy. And the very first person he kills, he takes because they step on their
+[39:23.570 --> 39:28.650]  glasses and he steals their eyes and their tongue. And it never occurred to me how dumb it was that
+[39:28.650 --> 39:33.530]  he took the guy with the worst eyes eyes. Maybe that's why he lost the movie.
+[39:33.790 --> 39:38.870]  That could be why. I feel like he made a real miscalculation. He got a bad grab on the eyes
+[39:38.870 --> 39:43.490]  and it was all downhill from there. I think that he wins if he gets any of the other characters eyes.
+[39:43.490 --> 39:48.030]  Maybe he has like mummy lasik powers and he was able to fix them.
+[39:48.250 --> 39:54.610]  I guess. I mean, sure. I mean, he was able to pull the eyeballs out of the eye and then put
+[39:54.610 --> 40:00.770]  them into his mummy body and then affix them in a way that he was able to use them. You figure
+[40:00.770 --> 40:08.170]  if he's got that level of skill and like a mystical medical ability, he probably could
+[40:08.170 --> 40:13.110]  fucking just do a little zoop zoop and then get 1820 vision or whatever. That's one of those
+[40:13.110 --> 40:19.090]  movies where it's weird that they'd have so many sequels and then even spinoffs. Like it's a whole
+[40:19.090 --> 40:23.650]  universe when it doesn't feel like it needs to be. Yeah. The third one was shite. There's not
+[40:23.650 --> 40:27.410]  even a mummy in it. Oh, it's terrible. I don't even think the second one is that great. The
+[40:27.410 --> 40:30.590]  second one's fine. Second one's fine. The one thing that annoys me about the second one. This
+[40:30.590 --> 40:35.450]  is a movie podcast now, apparently. I still need to talk about my two movies, so we're in it for
+[40:35.450 --> 40:42.370]  the long haul. In the second one, Imhotep and Anak Sunamoon or whatever, they've had this love
+[40:42.370 --> 40:47.090]  affair going on for thousands and thousands of years. They keep trying to bring each other back
+[40:47.090 --> 40:52.670]  to life to be together. And at the end of the second movie, she doesn't want to get crushed by
+[40:52.670 --> 40:58.110]  the ceiling, so she just leaves him. I feel like that's fair. You think that's fair? You would just
+[40:58.110 --> 41:02.910]  take a dive and like try and help him out of the hole when the perfectly mortal Rachel Weisz comes
+[41:02.910 --> 41:07.350]  in and pulls Brendan Fraser out of the hole? No, I think that's a mental decision. No, in that
+[41:07.350 --> 41:11.810]  context, you're right. Maybe she's just like, Christ almighty, enough is enough. How many
+[41:11.810 --> 41:15.750]  fucking thousands of years do I have to try to rescue this dipshit and vice versa? I have to
+[41:15.750 --> 41:22.590]  break the cycle. She's probably like, this is a toxic, unhealthy relationship that we are in,
+[41:22.710 --> 41:28.230]  and this is my opportunity to break free and go fucking be my own person in a modern cosmopolitan
+[41:28.230 --> 41:32.450]  world. That's where I think she was coming from. I agree. I feel like that's probably a deleted
+[41:32.450 --> 41:37.750]  scene. I just haven't seen it. It's definitely in the movie. Or even like Weekend at Bernie's 2
+[41:37.750 --> 41:44.570]  is just such a bizarre, let's do it again plot. Like, how do you expand on that idea? Even though
+[41:44.570 --> 41:48.670]  I guess the original premise is absurd, but the fact that there's two of them is insane to me.
+[41:48.770 --> 41:53.610]  Was it in 2? It was voodoo, right? Yeah, I think it's a voodoo thing. I haven't seen 2, but yeah.
+[41:53.630 --> 41:57.670]  I saw it, but I don't remember very well. Yeah, it was some sort of voodoo wizardry.
+[41:58.230 --> 42:03.130]  I'm not gonna want to watch it. It would be interesting to have an experiment where you
+[42:03.130 --> 42:09.450]  only watched sequels. Like, you only got to see number two of a franchise, or three,
+[42:09.610 --> 42:13.930]  and then go back and show somebody like six months later the number ones of all those and
+[42:13.930 --> 42:17.570]  see if it changes their whole opinion of the movies they watch. I would love for someone to
+[42:17.570 --> 42:23.250]  start with the second Matrix. If you started with the second Matrix, you wouldn't go anywhere near
+[42:23.250 --> 42:27.430]  the first Matrix. Oh, the ten-foot pole. How would that work for superhero movies?
+[42:27.890 --> 42:32.570]  Like Spider-Man, is it the second one they made, or is it character-specific?
+[42:32.870 --> 42:37.490]  You would watch every Spider-Man number two. Okay. Far From Home, Andrew Garfield number two,
+[42:37.630 --> 42:42.490]  and Tobey Maguire number two. I feel like Tobey Maguire number two is by far the best, but that
+[42:42.490 --> 42:47.290]  could be... The best two? The best two of those twos. I don't know, I like the new one. I haven't
+[42:47.290 --> 42:52.770]  seen the new two. It's good. I'm not a huge Jake Gyllenhaal fan, but that kid, yeah, he didn't do
+[42:52.770 --> 42:55.830]  it for me. What's wrong with Jake Gyllenhaal? Nothing's wrong with him. It just doesn't,
+[42:55.930 --> 42:59.950]  I just don't particularly enjoy him. I don't know. Okay. I just, I feel like he had a really
+[42:59.950 --> 43:06.110]  interesting string of movies from like 2008 until like 2015. Name one of them. Nightcrawler. Never
+[43:06.110 --> 43:11.570]  saw it. Really good. I've heard. Oh, it's the, there's one where it's him. Yeah, Prisoners is
+[43:11.570 --> 43:16.850]  good. Enemy was really good. There's one where it's him. It's like a clone of himself. I don't
+[43:16.850 --> 43:21.110]  remember that was the double or something like that. That's probably way off, but. I don't think
+[43:21.110 --> 43:25.110]  I've seen any of those movies. And that might be why I don't like Jake Gyllenhaal. I haven't seen
+[43:25.110 --> 43:31.550]  any of his good movies. I fucking hated the bunny one. Donnie Darko. I've still never seen that. And
+[43:31.550 --> 43:35.970]  I feel like it's a movie that you need to see because it's like iconic to so many people. But
+[43:35.970 --> 43:42.670]  when do you sit down as a 32 year old man and watch Donnie Darko? Or Bubble Boy. I think that
+[43:42.670 --> 43:46.870]  statement is insane coming from somebody who said they watched George of the Jungle four years ago.
+[43:46.870 --> 43:52.530]  That was because I watched it as a kid and I liked it when I was younger. But surely you could
+[43:52.530 --> 43:56.690]  find time for Donnie Darko if there's a point in your life in which you can watch George of the
+[43:56.690 --> 44:02.810]  Jungle. I like that in George of the Jungle, he straight up gets shot in the head with a gun
+[44:02.810 --> 44:09.090]  and lives. Yeah, he's got jungle powers. Should I rewatch George of the Jungle? Is this worth
+[44:09.090 --> 44:14.230]  revisiting? It's a great time if you watched it as a kid. Did you ever have any systems as a kid
+[44:14.230 --> 44:18.930]  to like rent movies that you weren't supposed to? Or like games? You ever come up with that
+[44:18.930 --> 44:23.510]  type of stuff? That I wasn't supposed to? No, I mean, I get stuff from Blockbuster, but I couldn't
+[44:23.510 --> 44:27.130]  get stuff that was, you know, that my parents didn't know about. Oh, you didn't? So you didn't
+[44:27.130 --> 44:31.230]  come up with ways around that? You just accepted? No, how do you do that? Oh, I had systems, Gavin.
+[44:31.550 --> 44:36.910]  I had strategies worked out. This is my go to move. I do this a lot for games, occasionally movies.
+[44:37.070 --> 44:41.810]  So when you go into a video store, as you know, there's a display box in front and then there's
+[44:41.810 --> 44:46.490]  box behind you. Take the box behind to the count. That's how you rent things. You did a switcheroo.
+[44:46.710 --> 44:50.310]  I would beeline to the store. The first game I remember doing this with was Hitman,
+[44:50.690 --> 44:55.170]  I think Hitman 2. I wanted to play it really badly and I wasn't allowed to because I was too young.
+[44:55.270 --> 45:00.030]  So I'd immediately go to the games. I would look at like the Hitman 2 box. I'd pull the box behind
+[45:00.030 --> 45:06.050]  it. And then I would look at like Harry Potter, the video game or Toy Story, the game. And I'd
+[45:06.050 --> 45:10.550]  put the Hitman 2 box behind that one. And then I'd put the Toy Story box behind the Hitman one.
+[45:10.550 --> 45:14.290]  And then I'd wait a little bit. And then when my mom would come over, I would say,
+[45:14.390 --> 45:17.970]  I'm really I'm struggling here. Toy Story or Harry Potter? What should I go with?
+[45:18.010 --> 45:21.750]  I don't really know. What are your feelings on this? And we kind of have a discussion.
+[45:22.030 --> 45:26.430]  And then I'd always go with the one I planted. And then I'd hide in the store because there's
+[45:26.430 --> 45:30.710]  a higher percentage of them not bringing up it was an M-rated game if they didn't know there
+[45:30.710 --> 45:34.930]  was a kid there. So I'd hide in a corner and wait till the thing was processed and then I'd leave.
+[45:35.370 --> 45:38.590]  That was my whole system. Did you come up with that or did a friend tell you about it? That's
+[45:38.590 --> 45:44.230]  genius. No, no, I did. I think it's generational because when I growing up in the 80s, like the
+[45:44.230 --> 45:49.590]  mid 80s, you just I just nobody cared. Like you just parents didn't give a shit. And nobody
+[45:49.590 --> 45:53.490]  employees didn't give a shit. I'd be like eight years old. I'd be like, I want to rent Lady
+[45:53.850 --> 45:57.790]  Chatterley's Lover and Porky's. And they'd be like, all right, you want some cigarettes, too?
+[46:00.570 --> 46:05.690]  There was no oversight when I was a kid anywhere. Yeah, I just had to wait. I remember being like
+[46:05.690 --> 46:09.590]  10 and all of my friends at school were talking about South Park, but you couldn't watch South
+[46:09.590 --> 46:15.270]  Park unless you were 15 because it was like rated 15 in all the TV show like VHS movie stuff. And
+[46:15.270 --> 46:18.330]  I just remember being really excited to be 15. And by the time I was 15, I was like,
+[46:18.390 --> 46:25.890]  yeah, I'm not really interested. The amount of movie store related hijinks I pulled as a kid
+[46:25.890 --> 46:32.170]  to try to get through things. I had a corn allergy growing up and every I lived near a video store.
+[46:32.170 --> 46:36.570]  So I'd walk to it, my grandpa, and I'd get they'd have like a popcorn machine. I'd get like a free
+[46:36.570 --> 46:42.310]  bag of popcorn every time I went. And eventually, I guess he must have told her we're at dinner one
+[46:42.310 --> 46:47.850]  night. And my mom said I was at work and the head of security came to me and he said, I need to show
+[46:47.850 --> 46:52.990]  you something. And he brought me show me this tape. And I saw you eating popcorn at the video
+[46:52.990 --> 46:56.870]  store. You're not not allowed to do that anymore. You can't do it. And I was terrified. I completely
+[46:56.870 --> 47:01.170]  believed I was like maybe four or five. I was like, oh, shit, I can't eat popcorn anymore.
+[47:01.170 --> 47:06.290]  This is terrible. I love popcorn. But instead of just accepting that, the next time I went to the
+[47:06.290 --> 47:11.370]  video store, I took note of where all the security cameras were in it. And then I kind of assumed
+[47:11.370 --> 47:16.770]  what their range of vision would be. And I created a whole path to get to the popcorn machine in
+[47:16.770 --> 47:20.890]  which I would think I'd be able to go unseen. And then I'd eat it within that spot of the store.
+[47:20.970 --> 47:28.210]  I'd immediately go in. I'd hug a wall. I'd walk down like the thriller section. Then I'd lay down
+[47:28.210 --> 47:32.970]  and crawl through into drama and then take a right and loop. And I would be at the machine.
+[47:33.050 --> 47:36.050]  I'm fairly confident I was able to avoid camera detection.
+[47:36.370 --> 47:40.490]  What? What happened when you ate the popcorn? If you were allergic?
+[47:40.790 --> 47:44.210]  Oh, I'd get like my I'd have rashes and like my stomach would be really upset,
+[47:44.390 --> 47:48.190]  but it was good. I enjoyed the popcorn. It was worth it.
+[47:48.470 --> 47:52.230]  Yeah, it was absolutely worth it. So it'd be super noticeable to your mom afterwards.
+[47:52.450 --> 47:56.370]  Oh, yeah, I'm sure it was for sure. But I had a bunch of different allergies,
+[47:56.370 --> 48:03.410]  so I could cover in under a variety of things. It's just weird to me to hear that somebody would
+[48:03.410 --> 48:06.270]  get something like that just for like, nah, I guess that's the way it is and not
+[48:06.630 --> 48:09.130]  construct the whole path and scheme to how to get popcorn.
+[48:09.530 --> 48:11.610]  I love the idea of you trying to stack your allergies.
+[48:11.990 --> 48:14.550]  Oh, yeah. So what's your movie thing, Geoff?
+[48:14.730 --> 48:17.770]  Oh, OK. Do you want the feel good? I'll tell you what. Let's do the bad one.
+[48:17.830 --> 48:22.490]  Then we'll end on a feel good. So I watched a very good movie the other day. And you guys let me know.
+[48:22.590 --> 48:25.630]  Let me know if I'm too concerned about this or if it's not a big deal at all.
+[48:26.070 --> 48:30.830]  I was I watched, by the way, a movie you should not watch is Hubie Halloween.
+[48:31.050 --> 48:35.450]  I got I tried. I tried real hard because I'm a big fan of the Adam Sandler world.
+[48:35.570 --> 48:38.730]  I want to I want him to succeed. I want all the Happy Madison movies to succeed.
+[48:38.730 --> 48:42.970]  But very rarely it seems like these days when Adam Sandler plays a character with a voice,
+[48:42.990 --> 48:47.350]  does the movie end up being worth your time? However, all the David Spade movies are pretty
+[48:47.350 --> 48:52.390]  solid. So The Wrong Missy, which I think is a terrible, terrible name for a film.
+[48:52.390 --> 48:55.830]  But Millie and I watched it the other night, and it's actually quite funny.
+[48:56.010 --> 48:59.810]  And I think if I think it would have been easily a theatrical release that would have done well.
+[49:00.070 --> 49:02.410]  It's it's just a raunchy, funny, like romantic comedy.
+[49:02.730 --> 49:10.610]  But they say face in that movie maybe 25 times and which is great,
+[49:10.610 --> 49:13.410]  except they attach a different meaning to it.
+[49:13.670 --> 49:17.070]  They're trying to steal our definition and co-opt it for their definition.
+[49:17.930 --> 49:19.910]  First of all, was it uncensored?
+[49:20.210 --> 49:21.030]  Yeah, uncensored.
+[49:21.170 --> 49:21.830]  That's outrageous.
+[49:21.830 --> 49:26.750]  It's outrageous that they said face and it was uncensored over and over and over again.
+[49:26.950 --> 49:30.550]  But here's their definition of a face in The Wrong Missy.
+[49:30.710 --> 49:35.090]  A face is when you fuck someone, but you imagine someone else's face on their body.
+[49:35.230 --> 49:35.770]  That's just lazy.
+[49:35.930 --> 49:39.590]  I think it's that's just I think that is such a half assed
+[49:39.590 --> 49:42.570]  attempt at coming up with something cool with the name.
+[49:42.690 --> 49:45.650]  I think our face definition makes so much more sense.
+[49:46.010 --> 49:47.310]  It's in the DNA of the word.
+[49:47.310 --> 49:53.090]  And I, for one, am scared, a little scared now that people are going to start thinking
+[49:53.090 --> 49:55.170]  that that's what face means and it's going to change.
+[49:55.470 --> 49:58.870]  People can be turning into our podcast and totally confused,
+[49:59.170 --> 50:02.690]  thinking it's a podcast about having sex with people and wishing they were other people.
+[50:02.870 --> 50:04.570]  And does David Spade say this in the movie?
+[50:04.710 --> 50:07.150]  Yes, David Spade and the female protagonist,
+[50:07.230 --> 50:09.050]  whose name I can't remember who is awesome in it.
+[50:09.190 --> 50:09.890]  They both say it.
+[50:09.910 --> 50:12.790]  Maybe our first guest on our face could be David Spade,
+[50:12.810 --> 50:15.790]  and we could ask him to like disown that definition for us.
+[50:15.790 --> 50:17.890]  Yeah, if he could print a retraction somewhere.
+[50:18.510 --> 50:20.110]  I don't think we could get David Spade.
+[50:20.210 --> 50:22.430]  We probably could get somebody who's in that movie.
+[50:22.610 --> 50:23.430]  We go deep enough.
+[50:23.590 --> 50:25.390]  Bobby Lee is in it. We could probably get him.
+[50:25.510 --> 50:28.170]  He's got a he's a podcaster and comedian on our podcast.
+[50:28.390 --> 50:29.390]  You think we could get Bobby Lee?
+[50:29.550 --> 50:30.170]  Sure. Why not?
+[50:30.510 --> 50:31.990]  David Spade would be pretty cool, though.
+[50:32.090 --> 50:33.450]  I saw him at the mall once.
+[50:33.710 --> 50:35.570]  I could be like, hey, I saw you at the mall.
+[50:35.710 --> 50:36.570]  Do you want to be my guest?
+[50:36.870 --> 50:38.290]  So you're very close is what you're saying.
+[50:38.370 --> 50:41.290]  I apologize for doubting the ability to do this.
+[50:41.410 --> 50:41.830]  Of course.
+[50:42.550 --> 50:48.290]  So that's that's that's the one face is being co-opted for an entirely different meaning,
+[50:48.710 --> 50:50.610]  which I think is just fucking lazy.
+[50:51.010 --> 50:54.510]  Also, interesting thing about that movie, if you watch it and you should, because it's a good movie.
+[50:54.870 --> 50:59.770]  Three different jokes where someone falls hilariously from a height,
+[50:59.770 --> 51:01.910]  but they're not tied together in any way.
+[51:02.030 --> 51:03.850]  They're completely and totally separate.
+[51:04.170 --> 51:08.210]  There's no running theme of people slipping or being clumsy or falling or none of that.
+[51:08.210 --> 51:11.630]  There's just three fall gags like pratfall gags in the movie,
+[51:11.770 --> 51:15.190]  which seems like a high number when they're not associated in any way whatsoever.
+[51:15.450 --> 51:16.250]  And how can they not be?
+[51:16.870 --> 51:19.790]  How is that not a thing of the movie that watch it in it?
+[51:20.010 --> 51:21.690]  You'll see it doesn't make any goddamn sense.
+[51:21.870 --> 51:23.530]  What's the best David Spade movie, by the way?
+[51:23.710 --> 51:24.030]  Tommy Boy.
+[51:24.270 --> 51:25.610]  Better than Black Sheep.
+[51:25.670 --> 51:26.510]  Was it on Black Sheep?
+[51:26.610 --> 51:27.590]  Oh, Black Sheep's good.
+[51:27.630 --> 51:28.890]  But Tommy Boy is way better.
+[51:29.070 --> 51:30.690]  Tommy Boy is definitely a better movie.
+[51:30.790 --> 51:32.470]  Tommy Boy is one of the best movies ever made.
+[51:32.510 --> 51:33.230]  I love Tommy Boy.
+[51:33.610 --> 51:34.490]  It's a great movie.
+[51:34.730 --> 51:36.130]  I want to I want to watch it now.
+[51:36.630 --> 51:39.350]  Tommy Boy is a special a special meeting to Gavin and I.
+[51:39.410 --> 51:40.590]  It's when he professes love to me.
+[51:40.810 --> 51:41.770]  It's not true.
+[51:42.010 --> 51:42.630]  It is true.
+[51:42.670 --> 51:43.230]  It's not true.
+[51:43.450 --> 51:43.950]  It is true.
+[51:45.030 --> 51:46.830]  We don't have to rehash old stories.
+[51:47.010 --> 51:47.510]  It's fine.
+[51:48.010 --> 51:49.330]  I accept you for who you are.
+[51:49.410 --> 51:49.830]  We're friends.
+[51:50.090 --> 51:52.130]  The other movie story I have.
+[51:52.470 --> 51:56.010]  Can I share with you guys a feel good thing that happened to me?
+[51:56.130 --> 51:56.310]  Yeah.
+[51:56.470 --> 51:57.590]  There's nothing funny behind it.
+[51:57.950 --> 52:01.850]  But I have I have you know how like did either of you play World of Warcraft at all?
+[52:02.010 --> 52:02.190]  No.
+[52:02.290 --> 52:02.450]  No.
+[52:02.570 --> 52:02.810]  Okay.
+[52:02.810 --> 52:08.630]  Well, do you know how it like in an RPG, you'll get like a starting level quest,
+[52:08.850 --> 52:12.590]  like maybe level six or something like maybe like if you've played World of Warcraft,
+[52:12.710 --> 52:14.530]  like a crossroad early crossroads quest.
+[52:14.930 --> 52:18.750]  And then at some point, you're like level 80, you're mega overpowered,
+[52:18.750 --> 52:20.910]  and you realize you never turned that quest in.
+[52:21.230 --> 52:23.250]  And then you turn it in and it's worth nothing.
+[52:23.250 --> 52:25.990]  But it's just like peace of mind that you finished your quest.
+[52:26.310 --> 52:29.110]  I finished a quest that I've been on for 31 years.
+[52:29.110 --> 52:35.410]  And I just I can't it's the second longest quest I have in my in my active quest roster.
+[52:35.570 --> 52:37.910]  And I just I can't fucking believe it happened.
+[52:38.010 --> 52:39.150]  It just fell into my lap.
+[52:39.190 --> 52:41.350]  And it has brought me so much joy.
+[52:41.670 --> 52:43.870]  I have gotten so much peace of mind from this.
+[52:43.910 --> 52:44.710]  You have no idea.
+[52:44.890 --> 52:50.790]  When I was 14 years old on Halloween night, I was in my bedroom in Alabama watching a horror.
+[52:50.890 --> 52:53.770]  I was watching TV and a fucking Dracula movie came on.
+[52:53.930 --> 52:56.230]  And in it, it was in modern times.
+[52:56.230 --> 52:59.390]  And it was really I was it was really interesting.
+[52:59.510 --> 53:00.230]  And I was really into it.
+[53:00.290 --> 53:01.010]  It was really cool.
+[53:01.290 --> 53:04.530]  And I remember thinking it was really like kind of like satanic and scary.
+[53:05.590 --> 53:06.890]  And I was into it.
+[53:06.910 --> 53:10.010]  But I had to leave to go to a like my friend was picking me up to go to a party,
+[53:10.290 --> 53:11.750]  Halloween party or to spend the night or something.
+[53:11.870 --> 53:14.830]  And so I left and I thought, I'm going to find out what this movie was.
+[53:14.850 --> 53:15.870]  And I'm going to finish it someday.
+[53:16.230 --> 53:18.290]  And this is back in like 91.
+[53:18.750 --> 53:21.530]  So it wasn't like I was getting on the internet to find out what the movie was or anything.
+[53:21.850 --> 53:23.830]  And like my dad threw away the TV guide.
+[53:23.870 --> 53:24.410]  So that was it.
+[53:24.470 --> 53:25.930]  I just never knew what the movie was called.
+[53:25.930 --> 53:28.890]  Then from time to time, I would look for it.
+[53:29.090 --> 53:30.930]  And I would search in horror movie sections.
+[53:31.590 --> 53:34.190]  And I would talk to people that were really especially when I got to New Jersey.
+[53:34.330 --> 53:36.150]  And I got involved with the VSQ guys.
+[53:36.250 --> 53:38.410]  There were a bunch of like film buffs in that group.
+[53:38.410 --> 53:40.430]  And I would talk to them and get a bunch of recommendations.
+[53:40.630 --> 53:41.870]  And I would go and rent a movie.
+[53:42.730 --> 53:44.990]  And I could never find this film.
+[53:45.430 --> 53:47.650]  And every couple of years, it'll pop into my head.
+[53:47.710 --> 53:48.410]  And I'll think about it.
+[53:48.610 --> 53:50.510]  And I'll write down everything I remember from the movie.
+[53:50.750 --> 53:51.670]  And I'll put that into Google.
+[53:51.810 --> 53:53.230]  And it never returns any results.
+[53:53.230 --> 53:56.330]  Or when it does return results, it returns the same fucking movie.
+[53:56.490 --> 53:58.250]  Called the Satanic Rites of Dracula.
+[53:58.450 --> 53:59.730]  Which is a Hammer film.
+[54:00.010 --> 54:02.390]  With like a Christopher Lee Dracula movie.
+[54:02.550 --> 54:03.990]  But it takes place in modern times.
+[54:04.130 --> 54:05.490]  And I always thought...
+[54:05.490 --> 54:07.510]  In my head, it was definitely Christopher Lee.
+[54:07.650 --> 54:09.490]  But this was, you know, 31 years ago.
+[54:09.730 --> 54:11.070]  So your memory's a bit spotty.
+[54:11.510 --> 54:12.470]  And every time I...
+[54:12.470 --> 54:15.330]  And the name, the Satanic Rites of Dracula, sounded very familiar to me.
+[54:15.430 --> 54:17.250]  And so I've watched that movie like three times.
+[54:17.390 --> 54:18.630]  And it fucks with my head.
+[54:18.930 --> 54:19.970]  Because it's not the movie.
+[54:20.310 --> 54:20.770]  At all.
+[54:20.870 --> 54:22.270]  It's not even close to the movie.
+[54:22.270 --> 54:25.270]  However, I recognize like half the people in the film.
+[54:25.510 --> 54:26.230]  And I don't know why.
+[54:26.670 --> 54:28.190]  And I just keep getting this like itch.
+[54:28.650 --> 54:31.490]  Well, the other night, I wanted to watch a horror movie in bed.
+[54:31.670 --> 54:33.510]  To celebrate, you know, Halloween's coming.
+[54:33.870 --> 54:36.810]  So I have a subscription to the Criterion SVOD.
+[54:37.030 --> 54:39.130]  And they had like a 70s horror movie thing.
+[54:39.430 --> 54:40.510]  And so I popped it up.
+[54:40.630 --> 54:41.850]  And there was a movie on there.
+[54:41.910 --> 54:42.970]  I just clicked one randomly.
+[54:43.110 --> 54:45.470]  And it was called Dracula AD 1972.
+[54:46.190 --> 54:50.450]  And within 30 seconds of the movie coming on, I realized this was probably the movie.
+[54:50.450 --> 54:53.630]  And then 20 minutes later, the scene happened that I remember.
+[54:54.450 --> 54:55.570]  And it's the fucking movie.
+[54:55.770 --> 54:56.530]  And I saw it.
+[54:56.710 --> 54:57.690]  And here's what happened.
+[54:58.010 --> 55:02.550]  Dracula AD 1972 was made right before the Satanic Rites of Dracula.
+[55:02.790 --> 55:04.350]  And it's a modern-day Dracula movie.
+[55:04.430 --> 55:07.430]  Obviously, because that stupid fucking name, Dracula AD 1972.
+[55:07.690 --> 55:10.050]  Which is, I think, a fucking terrible, terrible name for a film.
+[55:10.590 --> 55:15.750]  But when you Google like modern-day Dracula films, the Satanic Rites of Dracula comes up.
+[55:15.790 --> 55:17.010]  Because I guess it was more popular.
+[55:17.270 --> 55:18.610]  And they were filmed back-to-back.
+[55:18.610 --> 55:22.190]  And ironically, most of the cast is the same.
+[55:22.490 --> 55:24.490]  Because they film these things pretty close together sometimes.
+[55:24.730 --> 55:27.670]  So they just reused a lot of the actors in the Satanic Rites of Dracula.
+[55:27.930 --> 55:31.010]  So every time I would see the Satanic Rites of Dracula, I would recognize people.
+[55:31.290 --> 55:33.950]  Because they were in the fucking movie that I had been trying to find.
+[55:34.070 --> 55:35.390]  I just didn't realize there were two.
+[55:35.750 --> 55:38.010]  And the other one had just always come up in the search results.
+[55:38.370 --> 55:43.230]  And then I also realized it was because the scenes that I remembered in my head, I had all wrong.
+[55:43.330 --> 55:44.170]  Like they were out of sequence.
+[55:44.630 --> 55:46.010]  And I was remembering stuff close.
+[55:46.010 --> 55:50.590]  But just wrong enough that when I would like write down the scene, Google would find no results.
+[55:50.950 --> 55:51.910]  But I fucking watched it.
+[55:51.950 --> 55:52.550]  And it was awesome.
+[55:52.830 --> 55:56.010]  And it completed a 31-year quest in my life.
+[55:56.210 --> 55:57.990]  That must have been so satisfying.
+[55:58.130 --> 55:58.930]  Because I have that.
+[55:58.990 --> 56:01.210]  I have an open quest for a film that I saw.
+[56:01.710 --> 56:03.170]  It gave me nightmares when I was a child.
+[56:03.290 --> 56:05.170]  But I never figured out what it was.
+[56:05.290 --> 56:06.070]  Dude, yeah.
+[56:06.190 --> 56:07.530]  It was like the most satisfying.
+[56:07.710 --> 56:09.250]  Emily was asleep.
+[56:09.350 --> 56:10.610]  I woke her up to tell her about it.
+[56:10.690 --> 56:12.290]  She's like, I don't give a shit.
+[56:12.950 --> 56:13.470]  Shut up.
+[56:13.490 --> 56:14.390]  And I'm like, no, you don't understand.
+[56:14.450 --> 56:15.530]  I was like almost in tears.
+[56:15.530 --> 56:18.250]  Because I was just like, I had all but given up.
+[56:18.410 --> 56:21.390]  I thought I must have made it up in my head.
+[56:21.610 --> 56:23.170]  I had misremembered it.
+[56:23.310 --> 56:24.710]  I was like, it's 2020.
+[56:25.070 --> 56:25.710]  I have the internet.
+[56:25.830 --> 56:27.810]  If I can't find this movie, it doesn't exist.
+[56:28.130 --> 56:30.310]  I must have been like, I don't know.
+[56:30.530 --> 56:32.230]  I just, I must have invented it in my brain.
+[56:32.530 --> 56:33.130]  But I didn't.
+[56:33.210 --> 56:34.870]  I just remembered it very wrong.
+[56:36.410 --> 56:40.970]  Yeah, I'm looking for a movie where there's a kid and he's like lost in this giant house.
+[56:41.270 --> 56:42.750]  And he's like stuck behind a gate.
+[56:42.810 --> 56:44.430]  And he's like shouting out for people.
+[56:44.430 --> 56:45.810]  And I don't know anything more than that.
+[56:46.010 --> 56:47.310]  But I'll know it if I ever see it.
+[56:47.610 --> 56:48.850]  And that'll close the quest.
+[56:49.110 --> 56:50.070]  People Under the Stairs?
+[56:50.870 --> 56:51.870]  Is that the name of a movie?
+[56:52.030 --> 56:52.870]  Yeah, People Under the Stairs.
+[56:53.010 --> 56:53.310]  It's about it.
+[56:53.350 --> 56:55.490]  Is that what, is the kid, uh, is it British?
+[56:55.870 --> 56:56.190]  American?
+[56:56.590 --> 56:57.410]  Oh, I don't remember that.
+[56:57.530 --> 57:02.070]  I must have been four or five when I got scared watching whatever was on.
+[57:02.230 --> 57:04.870]  It was like one of those movies that was on TV and my dad was asleep.
+[57:05.070 --> 57:07.030]  And I was just staring at the TV like, what is this?
+[57:07.090 --> 57:08.550]  So it's definitely like a grown-up movie.
+[57:08.650 --> 57:09.210]  Oh, I think so.
+[57:09.230 --> 57:09.390]  Yeah.
+[57:09.570 --> 57:11.810]  But the problem is we don't even know the genre.
+[57:11.810 --> 57:14.170]  That could be a comedy that has one scene.
+[57:14.290 --> 57:18.430]  It could be absolutely, it could be anything that I just decided to find scary.
+[57:18.630 --> 57:20.550]  Such a very vague thing.
+[57:20.830 --> 57:22.270]  Do you remember like period?
+[57:22.550 --> 57:24.990]  Like, was it modern or old timey or?
+[57:25.390 --> 57:29.750]  Uh, I mean, it was probably, I was watching it probably in like 93.
+[57:30.430 --> 57:32.870]  So it could have been early 80s, early 90s.
+[57:32.990 --> 57:35.290]  And go through it again because with the power of the audience,
+[57:35.470 --> 57:36.770]  they'll, they'll be able to find this for you.
+[57:36.790 --> 57:41.630]  I remember it being like a gloomy, like bluish shot, maybe like a tile floor.
+[57:41.630 --> 57:45.030]  And the kid is like stuck behind this door, like a gate almost.
+[57:45.230 --> 57:47.310]  And he's like screaming out to people.
+[57:47.470 --> 57:50.270]  And then he's, he's wandering around this house and you can't find anyone.
+[57:50.890 --> 57:52.790]  I have no idea what I was watching.
+[57:53.210 --> 57:55.090]  Was, do you, do you remember the kid's ethnicity?
+[57:55.590 --> 57:58.370]  Uh, I would just, I would say he was white with black hair.
+[57:59.430 --> 58:02.450]  That feels very like not factual in any way.
+[58:02.550 --> 58:05.010]  And that's just like an assumption of memory of what that would be.
+[58:05.190 --> 58:07.450]  That's the weird things with stuff like that.
+[58:07.510 --> 58:10.610]  Like when you're trying to process those with time, as you mentioned, Geoff,
+[58:10.610 --> 58:13.590]  it starts to feel like you made everything up about this.
+[58:13.890 --> 58:18.170]  Yeah, just the assumptions you made and the miss memories become fact to the story.
+[58:18.370 --> 58:21.190]  Yeah, I mean, I can still very clearly remember this,
+[58:21.410 --> 58:27.070]  like these people having a picnic at midnight in a graveyard and sharing cups of wine.
+[58:27.230 --> 58:32.330]  But what actually happened was they had a black mass inside a church that kind of looked like
+[58:32.330 --> 58:35.110]  it was outside and had some exterior shots every once in a while.
+[58:35.170 --> 58:36.870]  And they weren't sharing wine.
+[58:36.870 --> 58:41.050]  The dude cut his hand and filled up a goblet with blood and then poured it over somebody.
+[58:41.510 --> 58:43.530]  And when I saw it, I went, oh, yeah, that's what I saw.
+[58:43.950 --> 58:47.890]  It's so... but I had convinced myself that it was this other thing.
+[58:48.090 --> 58:49.830]  So you weren't a kid when you watched that?
+[58:49.930 --> 58:54.330]  I was 14. And I was actually thinking about it today because I was cleaning out my...
+[58:54.330 --> 58:56.210]  and I was like, God, memory is imperfect.
+[58:57.110 --> 59:01.890]  But then I was cleaning out my storage shed a little bit today.
+[59:01.970 --> 59:02.890]  I had to move some stuff.
+[59:02.890 --> 59:06.790]  And I found a locker, like a combo lock for like a...
+[59:06.790 --> 59:10.230]  it was for my high school gym or for my high school wall locker.
+[59:10.610 --> 59:11.890]  And I fucking remember the combination.
+[59:12.830 --> 59:13.190]  What?
+[59:13.650 --> 59:14.370]  First try.
+[59:14.610 --> 59:18.030]  I don't think I had used it since I was 15, maybe 16.
+[59:18.650 --> 59:20.870]  It was my high school, like, wall locker combo.
+[59:21.250 --> 59:23.890]  Like, it's just like a little, like, you know, one of those little, like, combo locks.
+[59:24.050 --> 59:25.430]  A little blue and silver lock.
+[59:25.550 --> 59:29.150]  And I just picked it up and I went 11, 36, 13, click.
+[59:29.430 --> 59:29.870]  Got it.
+[59:30.310 --> 59:33.790]  You remember that, but you don't remember the note you wrote four days ago?
+[59:34.390 --> 59:36.650]  Yeah, dude, that's what's fucking up about memory.
+[59:37.050 --> 59:38.250]  11, 36, 13.
+[59:38.670 --> 59:41.270]  Why is that still in my head after that many fucking years?
+[59:41.330 --> 59:42.210]  I have no idea.
+[59:42.350 --> 59:43.110]  Not even the note.
+[59:43.450 --> 59:48.330]  Geoff, like, two weeks ago messaged me a question or that he messaged me to ask me a question
+[59:48.330 --> 59:50.310]  and forgot the question within 90 seconds.
+[59:50.650 --> 59:51.310]  It makes no sense.
+[59:51.430 --> 59:55.630]  I messaged you to ask you if I could ask you a question, which, as Gavin points out, is fucking stupid.
+[59:55.990 --> 59:57.970]  And then by the time you responded, I had forgotten the question.
+[59:57.970 --> 59:59.810]  All right, well, that was a good ep.
+[01:00:00.050 --> 01:00:03.290]  That was a lot of movie talk, but I think there was some good fuck face in there.
+[01:00:03.470 --> 01:00:07.950]  Well, the Gerpel fuck face, which is one of the funniest fuck faces already in the history of the show.
+[01:00:08.110 --> 01:00:10.450]  Yeah, and that we only really fleshed out last night.
+[01:00:10.690 --> 01:00:14.850]  Yeah, if you wouldn't have texted me, I would have just assumed it was there and I would have never known.
+[01:00:15.030 --> 01:00:19.410]  There's actually a benefit for Nick finishing the episodes for us to listen to,
+[01:00:19.490 --> 01:00:22.430]  because we get a lot of content out of our own content.
+[01:00:22.650 --> 01:00:24.930]  I would have looked at the comments for the episode and thought,
+[01:00:25.030 --> 01:00:26.850]  wow, I guess Gerpel really didn't connect with people.
+[01:00:27.270 --> 01:00:28.150]  It didn't land.
+[01:00:28.430 --> 01:00:28.730]  Yeah.
+[01:00:28.950 --> 01:00:29.770]  You know what I think we should do?
+[01:00:29.910 --> 01:00:30.070]  What?
+[01:00:30.290 --> 01:00:35.730]  I think we should end it in a nice, easy way and give Eric some... cut Eric some slack.
+[01:00:35.910 --> 01:00:37.530]  Give him an easy exit today.
+[01:00:37.710 --> 01:00:38.130]  What do you say?
+[01:00:38.310 --> 01:00:38.550]  Okay.
+[01:00:38.670 --> 01:00:40.470]  Yeah, I'm being quiet so you can end it.
+[01:00:40.630 --> 01:00:42.290]  Okay, I just want to make sure you guys are okay with it.
+[01:00:42.310 --> 01:00:43.350]  We don't want to torture him or anything.
+[01:00:43.710 --> 01:00:46.410]  Well, hey, this concludes another episode of fuck face.
+[01:00:46.590 --> 01:00:49.370]  Apparently, this week, it was largely a movie podcast.
+[01:00:49.890 --> 01:00:54.990]  Maybe you saw a movie about a kid, a little boy, dark hair, probably pale,
+[01:00:56.150 --> 01:00:59.990]  period, indeterminate, but wandering around a house, can't find anybody.
+[01:01:00.110 --> 01:01:01.870]  At one point, he's behind some sort of a gate.
+[01:01:02.050 --> 01:01:03.730]  He's screaming to people, he's calling out for them,
+[01:01:03.970 --> 01:01:05.030]  but they're not paying any attention.
+[01:01:05.170 --> 01:01:05.730]  They're not seeing him.
+[01:01:06.190 --> 01:01:07.830]  It sounds like my dog just barked.
+[01:01:08.470 --> 01:01:09.410]  There may have been a TV.
+[01:01:09.630 --> 01:01:11.810]  He may have... there may have been a shot with a TV in there too.
+[01:01:12.010 --> 01:01:13.930]  Is it possible you're watching a TV movie?
+[01:01:14.170 --> 01:01:15.750]  Is that... do we have to rule that in too?
+[01:01:15.970 --> 01:01:17.150]  It's entirely possible.
+[01:01:17.390 --> 01:01:17.590]  Yeah.
+[01:01:17.730 --> 01:01:20.830]  I was... I was literally four or five years old watching this.
+[01:01:21.210 --> 01:01:24.350]  Well, if you've... if you remember the movie Gavin's talking about,
+[01:01:24.350 --> 01:01:25.950]  if it strikes any bells, please let us know.
+[01:01:26.250 --> 01:01:27.730]  He would love to complete this quest,
+[01:01:27.790 --> 01:01:30.370]  and as someone who just completed his second longest quest,
+[01:01:30.430 --> 01:01:32.190]  I can tell you it feels pretty darn good inside.
+[01:01:32.850 --> 01:01:37.610]  Thanks for listening, and like and subscribe, and tell a friend or an enemy,
+[01:01:38.070 --> 01:01:39.670]  and tune in next week.
+[01:01:40.150 --> 01:01:41.450]  It probably won't be about movies.
+[01:01:41.550 --> 01:01:42.970]  It'll probably be about something else stupid.
+[01:01:43.330 --> 01:01:44.050]  It'll be about movies.
+[01:01:44.330 --> 01:01:44.530]  Yeah.

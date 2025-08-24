@@ -1,0 +1,948 @@
+[00:00.000 --> 00:04.980]  This episode is brought to you by Pacifico. Here's a story you've probably never heard.
+[00:05.440 --> 00:10.460]  Legend has it, decades ago, a couple surfers went down to Mexico in search of epic swells,
+[00:10.560 --> 00:15.380]  but they found something unexpected instead. It was still crisp, lively, and smooth,
+[00:15.640 --> 00:20.140]  but it had nothing to do with waves. It was Pacifico, a delicious Mexican lager.
+[00:20.600 --> 00:25.020]  It's like it was brewed to be discovered. Pacifico, find your own way.
+[00:25.380 --> 00:29.000]  21 Plus. Discover responsibly. Pacifico Clara Beer. Imported by Krine Imports, Chicago, Illinois.
+[00:40.320 --> 00:42.600]  All right. Oh, god damn it.
+[00:45.880 --> 00:50.820]  One, like, one second into the fucking podcast, and Eric already ruined it. Hello,
+[00:51.460 --> 00:56.520]  this is F*** Face, episode five, we think. Nobody's entirely sure.
+[00:56.900 --> 01:01.040]  To be fair, you try and start the podcast, like, I'm still sitting down,
+[01:01.180 --> 01:05.260]  Eric's, like, gotta get out of here, and you just go. How do we know when you're gonna go?
+[01:05.360 --> 01:09.480]  I told you, let's get started. Is everybody recording? And then I said I'm on a fucking
+[01:09.480 --> 01:13.360]  timetable because I gotta record other shit after this, and everybody was like, yeah, yeah,
+[01:13.360 --> 01:17.360]  yeah, yeah, and I go, hello, and then eight people talk at once. I'm Geoff, you're Gavin,
+[01:17.480 --> 01:22.400]  where's the Canadian? Is it seriously episode four? No, it's five. I thought it was five.
+[01:22.660 --> 01:27.420]  Eric's telling us it's four because he missed four, and he thinks that the world revolves around
+[01:27.420 --> 01:31.260]  him. If he wasn't there for episode four, it never happened. It came out. It's up. It's on the site.
+[01:31.440 --> 01:35.880]  Yeah, I'm pretty sure we did an episode four, and I'm gonna go out on a limb and guess it had
+[01:35.880 --> 01:41.720]  something to do with bathtub racing and basket weaving. Maybe. I'll be honest, Geoff. I'll be
+[01:41.720 --> 01:48.420]  honest. I'm disappointed that we got a sponsor. I'm very disappointed that it only took four
+[01:48.420 --> 01:54.960]  episodes. The podcast is called F*** Face. I know. What are they doing? I'm gonna write to both of
+[01:54.960 --> 02:00.620]  the sponsors we had last week and ask them if they know what they're sponsoring. It's ridiculous.
+[02:01.080 --> 02:08.820]  Oh, man. It's a really good... I gotta be honest with you. It was weird to do... Eric came to me,
+[02:08.860 --> 02:13.640]  he goes, I got some ad reads for you. And I was like, nobody lets me do ad reads. What's it for?
+[02:13.740 --> 02:18.420]  And he was like, you're a podcast. And I went, really? So I did them. They were great. It was
+[02:18.420 --> 02:22.440]  fun. And they came out, unlike every other ad read I've ever done for Rooster Teeth that
+[02:23.460 --> 02:29.460]  forced anybody else with a pulse to rerecord. So there's no record of me trying to read an ad.
+[02:30.620 --> 02:34.360]  Well, if it makes you feel any better, I had them removed from some versions.
+[02:34.720 --> 02:38.260]  I did see that. You did have them removed from some versions. Thank you for that.
+[02:38.880 --> 02:43.100]  You were right on top of it. Oh, man. How's everybody doing? I'm doing pretty good. You guys
+[02:43.100 --> 02:47.880]  do your homework from last week? What was the homework? Dunstan Checks In. You guys didn't
+[02:47.880 --> 02:52.500]  you didn't watch? No, I'm waiting to watch that together. I'm waiting for like a Netflix party.
+[02:52.800 --> 02:58.060]  Did you watch it with Alice? I'm not gonna watch Dunstan Checks In again. I watched Dunstan Checks
+[02:58.060 --> 03:03.300]  In. No, I'm not gonna. You're gonna make me do that again? It's a great movie. I don't. It's not
+[03:03.300 --> 03:09.400]  great. It's a it's like a five or four on movie terms. It's like a three in terms of monkey movies.
+[03:09.700 --> 03:14.740]  Not a good monkey movie. You're crazy. Wait, it ranks higher in general movies than it does in
+[03:14.740 --> 03:18.900]  monkey movies? Yeah. Yeah. Because Paul Reuben's pretty good in it. And Jason Alexander's like
+[03:18.900 --> 03:22.940]  being George. There's like some good parts to the movie thing. Not enough monkey. You got
+[03:24.120 --> 03:29.400]  Rupert Everett. Yeah, he's the bad guy, right? Isn't he the shitty bad dude? What a great bad
+[03:29.400 --> 03:35.340]  guy. That's a great bad guy. He's fine. He's not really in it. I don't know. I'm not watching it
+[03:35.340 --> 03:40.180]  again. All right, Andrew. Before we get into anything else, now I got to know what are what
+[03:40.180 --> 03:45.900]  are your favorite monkey movies? I mean, we went on VP2, I think holds a Hall of Fame ranking.
+[03:46.160 --> 03:50.620]  That'll be hard to beat. But I've been on a tear of watching monkey movies since that conversation.
+[03:50.620 --> 03:54.060]  I don't know if you guys have seen Going Ape. I'm the only one here that has seen that.
+[03:54.600 --> 03:59.900]  Hell of a monkey movie. You guys know what Going Ape is? There's a lot of monkey movies out there.
+[04:00.460 --> 04:04.900]  Is this like a not established genre? Am I weird for liking monkey movies this much?
+[04:05.040 --> 04:09.960]  I mean, there's a Planet of the Apes franchise, I guess. And I remember Gorillas in the Mist
+[04:09.960 --> 04:15.100]  and Project X. Fuck, there are a lot of monkey movies. I feel like they need to be categorized
+[04:15.100 --> 04:21.380]  into played by real monkey movies and Andy Serkis monkey movies. Couldn't agree more.
+[04:21.800 --> 04:26.140]  Going Ape, though. I can't believe you guys don't know, but it's a Tony Danza and Danny
+[04:26.140 --> 04:30.280]  DeVito monkey movie from the Apes. Yeah, but an ape isn't a monkey.
+[04:30.680 --> 04:33.180]  Well, it's an orangutan. What is an orangutan? Was it a monkey?
+[04:33.740 --> 04:35.680]  Orangutan. No, no. I mean,
+[04:35.720 --> 04:40.140]  like they're all primates, right? But they're not all monkeys. Like King Kong's not a giant monkey.
+[04:40.140 --> 04:47.140]  Wait, orangutan? It's not Tang? Wait, no. Are you fucking with me?
+[04:47.320 --> 04:50.240]  There's no other G on the end of it. That's just what people say.
+[04:50.320 --> 04:52.880]  It's not like a fizzy drink. It's not orangutan.
+[04:53.680 --> 04:58.760]  You don't slurp it in space. No, I can't tell. This isn't a bit.
+[04:59.100 --> 05:01.340]  It's not a bit. I thought it was an orangutan.
+[05:01.660 --> 05:04.300]  My whole life, this is like shocking. It's not that shocking.
+[05:04.920 --> 05:06.360]  Wait. It ends with an N.
+[05:06.800 --> 05:08.860]  There's no G. Are you sure about that?
+[05:08.860 --> 05:12.040]  No, there's a G in the middle. Is this like an Eric Episode 4 thing?
+[05:12.420 --> 05:19.520]  Yeah, essentially. It's a one G word. Orangutans. Holy shit. That's a terrible name.
+[05:21.500 --> 05:23.920]  Orangutans. Do you know why they're called that?
+[05:24.060 --> 05:27.220]  It's because they're tan colored. That's stupid.
+[05:27.800 --> 05:32.300]  That's not true. That bit was a lie. That's not. No, I'm not. That's not happening.
+[05:32.720 --> 05:38.460]  Can I tell you one fact I know? Can I tell you? Can I interrupt you to tell you the one thing I
+[05:38.460 --> 05:41.080]  know about orangutans other than how to spell the name?
+[05:41.120 --> 05:44.940]  That's such a bullshit name. Orangutans. Orangutan is way better.
+[05:45.460 --> 05:46.360]  Orangutan is way better.
+[05:46.680 --> 05:50.120]  When I found out it was orangutan, I went, that is so much cooler than orangutan.
+[05:50.620 --> 05:53.400]  Orangutan sounds like a fucking hook character. It doesn't sound real.
+[05:55.120 --> 05:55.860]  I like it.
+[05:56.040 --> 06:02.580]  Here's the one fact I know about orangutans, which I find to be simultaneously fascinating
+[06:02.580 --> 06:08.620]  and kind of heartbreaking. A baby orangutan doesn't leave its mother's body for the first
+[06:08.620 --> 06:14.380]  probably year, year and a half it's alive. Like it hangs on her at all times. Like there's no pouch.
+[06:14.740 --> 06:16.480]  Like a pouch creature.
+[06:17.020 --> 06:17.500]  Marsupial.
+[06:17.760 --> 06:23.300]  A marsupial. Thank you. I could not think of the word kangaroo to save my fucking life for one
+[06:23.300 --> 06:29.440]  second there. Or koala. Anyway, but it just hangs on its mother the entire time. And then one day
+[06:29.440 --> 06:34.000]  it's like, all right, I guess I'm, I guess I'm grown up enough. And then it heads off into the
+[06:34.000 --> 06:38.760]  woods and lives a life of solitude for the rest of its life. Only as a male, a male orangutan,
+[06:39.160 --> 06:44.360]  only coming out of the woods, like during mating season to procreate and then to go back and live
+[06:44.360 --> 06:47.120]  a life of solace again. Orangutans are like the monks.
+[06:47.960 --> 06:51.520]  So what does it do in the off season, in the non-bang season?
+[06:51.860 --> 06:56.620]  It contemplates the universe. It's, you know, it probably does a lot of Tai Chi,
+[06:56.620 --> 07:00.000]  wonders what the sound of one hand clapping is. They're very sage creatures.
+[07:01.220 --> 07:04.100]  I don't know. They just, they, they're just, they spend a lot of time alone.
+[07:04.900 --> 07:08.940]  It's a fucking monkey. It probably jacks off and sticks its finger up its butt, but it eats bugs.
+[07:09.460 --> 07:12.160]  Is the orangutan in Jungle Book a bad guy?
+[07:12.800 --> 07:14.820]  No. Uh, no, I don't think so.
+[07:15.060 --> 07:18.640]  Okay. I don't, I just, it's been decades since I've seen it. And I remember there being a little
+[07:18.640 --> 07:22.260]  bit of a kerfuffle with the orangutans and then he wanted to get away.
+[07:22.540 --> 07:24.520]  Did you ever see the live action remake of that?
+[07:24.860 --> 07:25.600]  Yeah. Which one?
+[07:25.600 --> 07:29.740]  The new one that the new initiative Disney's doing where they're doing shot for shot.
+[07:29.860 --> 07:31.360]  No, I didn't. I didn't see that.
+[07:31.760 --> 07:35.280]  I haven't seen any of those either. They creep me out, but people seem to fucking love them.
+[07:35.760 --> 07:37.840]  Anyway, Andrew, you're going ape.
+[07:38.020 --> 07:44.540]  Going ape. It's Tony Danza movie, Danny DeVito. Tony Danza plays the son of a guy that ran a
+[07:44.540 --> 07:49.780]  circus. It was a family run circus. He decides he doesn't want to run the circus. His dad dies
+[07:49.780 --> 07:55.880]  and he says, I will give you $5 million. If you take care of my orangutans for five years,
+[07:56.040 --> 08:01.640]  it kills me to say orangutans. It's really, this is devastating. It pains me, but that's the plot.
+[08:02.000 --> 08:06.160]  And so Tony Danza and Danny DeVito live in this New York apartment and they need to take care of
+[08:06.160 --> 08:10.880]  these five orangutans for five years. And if they don't, then they don't get any money. That's the
+[08:10.880 --> 08:15.880]  entire plot of the movie. It's great. One of the monkeys is named Poppy and just drinks a six pack
+[08:15.880 --> 08:16.580]  constantly.
+[08:16.580 --> 08:22.960]  This movie came out in 1981 and has a 3.9 on IMDb.
+[08:23.420 --> 08:23.900]  1981?
+[08:24.860 --> 08:29.600]  That to me, that I, it's, I think it's rare to see a movie rated so low on IMDb.
+[08:29.820 --> 08:36.580]  3.1 on IMDb, maybe 7.9 on my monkey scale. Good monkey. Okay.
+[08:37.100 --> 08:39.260]  How many movies are on the monkey scale?
+[08:40.020 --> 08:46.460]  Whoa, there's a lot. I mean, three MVPs. You know, I'm about to, what's the Clint Eastwood,
+[08:46.520 --> 08:48.620]  Geoff, do you know the Clint Eastwood orangutan movie?
+[08:48.940 --> 08:53.620]  Oh yeah, yeah, of course. Any Which Way But Loose or Every Which Way But Loose.
+[08:53.880 --> 08:54.780]  Yeah, haven't watched that yet.
+[08:54.840 --> 08:57.320]  Left Turn, Clyde. Yeah, those are great movies.
+[08:57.700 --> 08:58.820]  Wait, they made, there's two of them?
+[08:59.120 --> 09:03.740]  I think there's at least two. Yeah. And the way it is, is like Clint Eastwood plays a,
+[09:03.740 --> 09:09.800]  like a bare knuckles boxer, who is maybe also a truck driver at some point, or his best friend
+[09:09.800 --> 09:14.900]  is a truck driver. And he keeps having to do these like bare knuckles boxing matches for money. And,
+[09:14.940 --> 09:17.820]  uh, and then his sidekick is Clyde, the orangutan.
+[09:18.540 --> 09:21.980]  What's wrong with Danny DeVito's teeth in the movie poster? Does he have some like
+[09:21.980 --> 09:26.140]  false teeth on, or did he just get his teeth did since then?
+[09:26.420 --> 09:29.260]  That's a great question. I don't, there's no bit with his teeth.
+[09:29.640 --> 09:31.940]  Okay. Maybe he was just uglier then.
+[09:33.240 --> 09:38.260]  Yeah, he looks very ugly in that movie, and it feels sort of like a choice. He's super hairy.
+[09:38.540 --> 09:42.540]  He has almost no lines of dialogue. It's weird that he's even in it. Like he doesn't need to be.
+[09:42.780 --> 09:47.240]  I think it might be makeup and prosthetics, because I saw him in One Flew Over the Cuckoo's Nest
+[09:47.240 --> 09:51.780]  recently, and he was very young in it, and his teeth looked fine. They looked like normal teeth.
+[09:52.280 --> 09:53.560]  What a weird creative decision.
+[09:53.560 --> 09:59.000]  So 1981, that movie came out when I was six. A, I've never heard of it, which is crazy to me,
+[09:59.000 --> 10:04.320]  because I'm obsessed with my childhood and content from that era. But B, that means Tony
+[10:04.320 --> 10:08.460]  Danza had a career before Who's the Boss, and I didn't know that. I thought Who's the Boss was
+[10:08.460 --> 10:13.080]  where he came from, but now I guess I'm learning, I don't know, a fucking thing about Tony Danza.
+[10:13.260 --> 10:15.640]  Wasn't he in Taxi?
+[10:15.920 --> 10:18.740]  Fuck, he was in Taxi, and that was before Who's the Boss. See?
+[10:19.280 --> 10:22.120]  And he was in Taxi with goddamn Danny DeVito.
+[10:22.240 --> 10:23.360]  Oh yeah, they were both in that.
+[10:25.040 --> 10:27.580]  And he was in... and I think he was in...
+[10:27.580 --> 10:29.460]  Ah, I fucking... I'm stupid. That's right.
+[10:29.760 --> 10:34.640]  I do know a lot about... I've forgotten more about Tony Danza than I realized I ever knew.
+[10:35.040 --> 10:37.560]  You were stupid, and we recorded it. That's awesome.
+[10:38.140 --> 10:38.680]  That's great.
+[10:39.160 --> 10:43.620]  What do you think you've forgotten the most of? You've clearly forgotten a lot of Tony Danza.
+[10:43.900 --> 10:51.740]  I have, in my life, a lot of sports statistics. I grew up, like, you know how much I love
+[10:51.740 --> 10:57.380]  basketball and the NBA. And I mean you, Gavin, and you, Andrew. You audience, I don't know why
+[10:57.380 --> 11:00.380]  you would know that about me, and that's a little weird if you do. But I'm a huge,
+[11:00.380 --> 11:06.020]  huge basketball Boston Celtics fan, have been since 1986. As big of a basketball fan I am now,
+[11:06.120 --> 11:10.900]  I was a bigger baseball fan then, and I don't remember any of that shit now.
+[11:11.300 --> 11:14.040]  So there's probably about... I probably got about 25 years of
+[11:14.040 --> 11:18.240]  baseball knowledge that I flushed down the alcohol toilet during my life.
+[11:20.640 --> 11:23.900]  How about you, Gavin? What do you think you've forgotten the most of in your life?
+[11:24.220 --> 11:25.880]  Just how to do maths and stuff.
+[11:26.580 --> 11:29.120]  I didn't... I forgot that shit the second I took the test.
+[11:31.120 --> 11:36.060]  Like, uh, just algebra. Actually, stuff that I didn't think I would ever use again,
+[11:36.100 --> 11:41.560]  but I've needed to because of various, like, photography-based algorithms and that.
+[11:41.800 --> 11:44.500]  And I just don't remember how to do that stuff anymore. It's pretty sad.
+[11:44.500 --> 11:49.260]  Uh, long division. I know I've relearned that several times, and I keep forgetting
+[11:49.780 --> 11:54.880]  some of the quirks of that. Pisses me off. That one needs to stay. I need to use long division
+[11:54.880 --> 12:00.460]  all the time. Long division I still feel really comfortable with. It doesn't scare me, yeah.
+[12:02.440 --> 12:06.700]  Algebra, however, Jesus Christ, man. My kid started taking algebra, like, in sixth grade,
+[12:06.800 --> 12:12.240]  and that's when she surpassed me in math. She might as well be a fucking NASA scientist today
+[12:12.240 --> 12:13.980]  compared to how dumb I am when it comes to math.
+[12:13.980 --> 12:18.340]  Was that a sad moment where she was like, hey, how do you do this? And you were just like,
+[12:19.620 --> 12:19.860]  shit.
+[12:20.600 --> 12:25.960]  Yeah, well, it became like, because, you know, her mom and I are divorced and we split custody,
+[12:25.960 --> 12:28.900]  so it became like a thing where she would be like, I'd be like, what kind of homework do you
+[12:28.900 --> 12:33.320]  have tonight? And she's like, uh, you know, just whatever. And I'm like, well, I'll help you with
+[12:33.320 --> 12:36.520]  it. And she's like, I think I'm good. And it's like, oh, is it math homework? She's like, I'll
+[12:36.520 --> 12:39.820]  wait for you. I'll wait for my mom. I'll go. I'll do that next week with her. You can help me with
+[12:39.820 --> 12:43.220]  social studies later. And I'm like, I'll help you with social studies. Absolutely. Let's, you know,
+[12:43.220 --> 12:46.820]  let's do reading. And then with math and science, that gets done at the other house.
+[12:50.680 --> 12:51.980]  What have you forgotten about, Andrew?
+[12:52.960 --> 12:53.820]  Boat safety.
+[12:55.140 --> 13:02.240]  Yeah, this podcast is so full circle. We just go in like tiny, like one to two episode loops.
+[13:04.100 --> 13:08.580]  Yeah, I don't know. I took the approach of just never really learning any of the math stuff,
+[13:08.580 --> 13:12.740]  so I wouldn't have to forget it. That was my strategy. But yeah, boat safety,
+[13:12.740 --> 13:16.900]  I'd say. I don't know. I forget a lot of stuff, and I don't drink, so I wish I had that almost
+[13:16.900 --> 13:22.280]  as an excuse. There are things all the time I forget, or I just don't read. Gavin knows this.
+[13:22.300 --> 13:28.020]  When I play a game, I play a lot of video games, and I miss things all the time, like even in old
+[13:28.020 --> 13:31.980]  games I played before. Oh, God. What was that game? What was that game recently? You played
+[13:31.980 --> 13:37.440]  the entire thing, missing a very important mechanic. What was that? Yeah, it was control,
+[13:37.820 --> 13:41.580]  and I didn't know that you could fast travel. I just was running everywhere.
+[13:42.760 --> 13:47.280]  I was just using the map. I thought you just took those to level up or stuff. I never really
+[13:47.280 --> 13:51.660]  interacted with those. And I was blown away, because there's lines of dialogue and actual
+[13:51.660 --> 13:57.220]  plot points that force you to go through one of those. So to then come out the other side of that
+[13:57.220 --> 14:04.320]  without the knowledge that you could do that all the time, that blew my mind. Yeah. I learned very
+[14:04.320 --> 14:09.000]  late. And that's a game... it takes ages to get from place to place in control, and you have to
+[14:09.000 --> 14:14.660]  fight through areas where enemies just respawn. I feel like that game would take twice as long
+[14:14.660 --> 14:18.400]  without fast travel. It was a nightmare, because it also had a bug where your map would open and
+[14:18.400 --> 14:24.140]  not show any of the map, like it would just be blank. So yeah, it was terrible. That game should
+[14:24.140 --> 14:31.180]  win an award for one of the worst maps ever to be put into a video game. There was like tunnels
+[14:31.180 --> 14:36.800]  and like janitor paths and shit where it's freaking impossible to know where you are on that
+[14:36.800 --> 14:41.640]  map. To get from like where you're stood to 20 feet away, absolutely impossible to figure out from
+[14:41.640 --> 14:47.060]  the map. Garbage. It's terrible. I'm glad I never played that game. Andrew, if it makes you feel
+[14:47.060 --> 14:53.580]  any better, I 100%ed the Xbox 360 game crackdown without knowing that there was auto-aim.
+[14:54.420 --> 14:59.640]  Like, I probably put 60 to 70 hours into it, collecting all the orbs and killing every enemy,
+[15:00.020 --> 15:03.860]  and I had no clue there was a fucking auto-aim until I watched somebody else play it. Was that
+[15:03.860 --> 15:09.080]  your criticism of the game? It's like aiming is really hard. Crackdown aiming was challenging. I
+[15:09.080 --> 15:12.920]  just got used to it until somebody pointed out how fucking dumb I was. You may have been the
+[15:12.920 --> 15:17.880]  best crackdown player ever just by not knowing. It's really impressive. I don't ever play PlayStation,
+[15:18.300 --> 15:23.880]  so I plugged in a PlayStation at work a few years ago to make some videos in infamous second son,
+[15:24.320 --> 15:29.860]  and I played the entire goddamn game from start to finish with one of the component cables pulled
+[15:29.860 --> 15:33.680]  out. So the game was just green and blue. I thought it was just fucking style. I thought it
+[15:33.680 --> 15:40.360]  was stylistic. There are guides online, like Achievement Hunter guides in that game, where it's
+[15:40.360 --> 15:47.980]  just the color reds up there. What, you captured it that way as well? Yeah! I think it was Michael
+[15:47.980 --> 15:51.780]  from work who pointed out, and he was like, dude, what's wrong with your screen? And I was like,
+[15:51.860 --> 15:54.980]  I don't know, I'm just playing the game. And he was like, no, there's... and he goes back and he
+[15:54.980 --> 15:59.320]  fixes it, and the game changed on me. I probably had 10 hours into it at that point. It's a really
+[15:59.320 --> 16:05.460]  nice stylistic choice. It's so stylistic that even the dashboard, it bleeds over into that
+[16:05.460 --> 16:13.460]  for some reason. It's fucking terrible. And when you see it, you go, ah, I am obviously the dumbest
+[16:13.460 --> 16:18.540]  person on the planet. But thankfully, there are Andrew Pantons out there and Gavin Freese.
+[16:18.800 --> 16:22.720]  I got you beat. To share that stupid load. I feel like I've worked hard on a lot of your
+[16:22.720 --> 16:27.500]  achievements, Geoff. Like, speaking of Crackdown, we did all the racing ones, didn't we? Yeah,
+[16:27.500 --> 16:33.180]  we did. Gavin used to come and live with me every summer for like 90 days until he eventually
+[16:33.180 --> 16:38.140]  moved to America. And I remember we were playing that game together when it came out. So this is,
+[16:38.140 --> 16:43.500]  you know, 2012, maybe? 11? It was a long time ago. And you went back to England, and we still
+[16:43.500 --> 16:47.240]  had to finish some of the achievements. So we were doing it together. Yeah, I think this was
+[16:48.120 --> 16:53.320]  2009 or 2007. Wait, was it Crackdown 1? It was probably 2007. It was Crackdown 1. We've known
+[16:53.320 --> 16:58.440]  each other a long-ass time. Yeah. And it would be so late at night for me and so early in the
+[16:58.440 --> 17:01.620]  morning for you because of the time difference, and I was, you know, a heavy drinker back then,
+[17:01.980 --> 17:07.160]  that I would pass out drunk, and I would just stop responding to you. And you would pick up
+[17:07.160 --> 17:10.820]  my car, you would kill all the... The cool thing about that game and the races is you can kill the
+[17:10.820 --> 17:14.460]  other cars, the other competitors. Yeah, Geoff wasn't great at the racing, so I would just use
+[17:14.460 --> 17:19.640]  the ramp car thing and go around the track backwards and just bump every car that he was
+[17:19.640 --> 17:24.860]  racing against off the road. And all he had to do was just finish. Like, I did all the work. By the
+[17:24.860 --> 17:28.420]  time it was lap three, there were no other cars. They were all flipped off into the ocean and shit.
+[17:28.900 --> 17:32.720]  And I was like, all right, Geoff, everything's off the track. And all I could hear down the
+[17:32.720 --> 17:38.780]  headset was... And he was just parked against a railing. I was like, Geoff's freaking fallen
+[17:38.780 --> 17:42.960]  asleep. I've done all the work here, and he's just passed out. So I, because it's Crackdown,
+[17:43.040 --> 17:49.240]  yeah, I just lifted up his car and just ran his car around, which took like 20 minutes,
+[17:49.240 --> 17:53.560]  because I'm on foot holding a car, and he got the achievement. It actually worked.
+[17:54.700 --> 17:59.120]  Hey man, I appreciate it. I would have done the same for you if I'd been awake. I really appreciate it.
+[17:59.400 --> 18:01.520]  I did some literal heavy lifting for your achievement.
+[18:03.120 --> 18:07.660]  I mean, I wouldn't feel too bad, Geoff. I got Gavin his Halo 2 Lasso achievement.
+[18:08.100 --> 18:13.760]  You would be lost without that. Oh my god, yes. Full circle. That was gonna make me put down the
+[18:13.760 --> 18:19.120]  entire Master Chief collection. What was that achievement? So Lasso Halo 2. Lasso is a legendary
+[18:19.120 --> 18:25.960]  all skulls on. We do it a lot on Achievement Hunter. And Halo 2 is the hardest one. The elites...
+[18:25.960 --> 18:30.160]  I mean, that's a hard game just on Legendary. For some reason, Iron is like on by default.
+[18:30.560 --> 18:35.600]  So every time one of you dies, you both go back a checkpoint. The elites fire ridiculously fast,
+[18:35.680 --> 18:40.600]  kill you instantly. So with all the other skulls on, like Famine and Blind, all that shit, it's an
+[18:40.600 --> 18:47.460]  incredibly frustrating and difficult experience. If you start the Lasso playlist co-op, it skips
+[18:47.460 --> 18:53.380]  a level called Armory, which is like, hey, look up, look down, go and stand in the shield thing.
+[18:53.800 --> 18:58.680]  Because it doesn't want you... there's no room for two people to do that. So it just skips you
+[18:58.680 --> 19:06.360]  straight to Cairo Station. You can then beat the entire game co-op on Lasso and you'll get to the
+[19:06.360 --> 19:11.440]  end and nothing will happen. The achievement will not unlock. And that's because the Armory is
+[19:11.440 --> 19:17.560]  incomplete. To do it, to get the achievement, you have to play the Armory on Lasso solo,
+[19:17.700 --> 19:21.520]  even though there's no enemies in the game. You have to, for some reason, know to do that first.
+[19:21.620 --> 19:25.920]  Otherwise, that level remains incomplete and the playlist remains unbeaten.
+[19:26.340 --> 19:30.040]  And you can't go back and do it after the fact, right? You have to do that first.
+[19:30.220 --> 19:36.400]  Yeah, because it's a playlist. You can't just go back, do the Armory and then finish the Great
+[19:36.400 --> 19:39.760]  Journey, which is the last level. You can't do that because you can't pick that level once you
+[19:39.760 --> 19:45.860]  that it starts you at Cairo Station again. So the only way to do it is to solo Lasso on the Armory
+[19:46.400 --> 19:51.340]  and then play the entire game again. Unless you have a friend called Andrew Panton,
+[19:51.920 --> 19:54.860]  who grabs you a checkpoint from the very last level.
+[19:55.180 --> 20:04.180]  I earned, grabbed is like I picked it up, like I did that campaign way to belittle my accomplishment.
+[20:05.400 --> 20:10.400]  I'm sorry. You went through the whole game with someone else, is that right?
+[20:10.660 --> 20:14.820]  Yeah. You know what the funniest part about that is? That poor guy, he's a friend of mine that I
+[20:14.820 --> 20:18.800]  went through it with in co-op. Because you did it with Dan, so I was like, I need a co-op partner
+[20:18.800 --> 20:24.560]  so Dan can get the achievement too. And then that never happened. So that guy still doesn't have
+[20:24.560 --> 20:28.400]  Halo and the Lasso achievement. That was like 10 months ago.
+[20:28.760 --> 20:33.200]  Shit, we've got to get a hold of Dad to finish that up. The downside is you actually have to
+[20:33.200 --> 20:38.660]  play the last level again though. You do. You and I, Andrew, we spent a solid couple of hours
+[20:38.660 --> 20:43.200]  trying to do it, didn't we? Yeah, it was like 3 or 4 hours. Oh, it's brutal and you need to do a
+[20:43.200 --> 20:49.880]  glitch. You have to fight that big dude at the end. Yeah, Tartarus. So I want to put this in
+[20:49.880 --> 20:57.520]  perspective for listeners who may not be as into video games as us. If say you're a normal dude,
+[20:57.520 --> 21:01.840]  let's say you had a task of putting an entire Volkswagen bug together.
+[21:02.920 --> 21:06.280]  Like it was in a thousand billion pieces, like the engine and everything,
+[21:06.560 --> 21:12.140]  and you put the entire 1965 Volkswagen bug together and there was one washer on the ground.
+[21:12.960 --> 21:17.340]  And you can't drive it until that washer's back in. So you have to take the fucking car apart and
+[21:17.340 --> 21:21.600]  then do it all over again. That's the way to put it in terms of normal people. It's about the same
+[21:21.600 --> 21:25.240]  amount of work, I would imagine. Yeah, the entire playthrough probably took Dan and I
+[21:26.280 --> 21:35.080]  35 hours, I would say. It's terrible. And there's only like 15 levels. And you can't save, right,
+[21:35.160 --> 21:40.120]  in co-op? That's the thing. No, yeah. If your connection drops, you have to start that level
+[21:40.120 --> 21:45.160]  again. Yeah, so I had this funny thing where the person I was playing co-op with that we were
+[21:45.160 --> 21:50.560]  playing on the weekend and he had to go to work. And then he just cycled in roommates that he lived
+[21:50.560 --> 21:55.000]  with. And I played with all three of his roommates throughout the day because they each had to go to
+[21:55.000 --> 22:01.020]  work at different times. And by the time like he went, he left work. And by the time he came back,
+[22:01.040 --> 22:06.200]  we were still stuck on the same level. And he came back. It's a hell of a grind. It just kicks
+[22:06.200 --> 22:10.300]  you in the balls over and over again. I wouldn't want to do that again. All of that work and all
+[22:10.300 --> 22:16.500]  of those people combined went into it so that Gavin, you could hear, you could see a little
+[22:16.500 --> 22:23.480]  window pop up on your Xbox and hear a noise go ding. Yeah, but don't act like it's not satisfying
+[22:23.480 --> 22:27.740]  and don't act like you didn't start an entire department of rooster teeth based around that.
+[22:29.760 --> 22:35.440]  I say that I'm down to playing one video game and I'm like 800 hours into it or 1200 hours into it
+[22:35.440 --> 22:40.520]  or whatever just to get stupid fucking achievements. And it's so bad they named one after me as a taunt.
+[22:41.020 --> 22:46.060]  And I'm now six months later, I'm 22% of the way there. And I think it's going to take me
+[22:46.060 --> 22:53.240]  at least 18 more months, at least maybe two years. And I play it for at least an hour a day
+[22:53.240 --> 22:59.500]  every day. It's fucking brutal. That's awful. And it's like the biggest fuck you ever
+[22:59.500 --> 23:06.280]  because the way they did it by making this bullshit, brutal grind of an achievement
+[23:06.280 --> 23:11.600]  and then calling me out and said literally the achievement is called try this one Geoff.
+[23:12.120 --> 23:15.920]  And now everybody in that community in the place that game fucking hates me. Now they know who I
+[23:15.920 --> 23:20.300]  am because I'm the guy that got this achievement added to the game that ruined it for everybody.
+[23:20.300 --> 23:24.020]  And what's great is for the developers, it probably took like a couple of minutes of
+[23:24.020 --> 23:27.600]  typing something to add that achievement. Yeah, yeah. But for me, it's gonna be two
+[23:27.600 --> 23:31.220]  and a half years of my life. It was so funny to go through
+[23:31.220 --> 23:35.960]  there like an achievement sites message board for that achievement. And just seeing people being
+[23:35.960 --> 23:40.240]  like, hey, like, did you see this bullshit? You see this fucking bullshit achievement? Can you
+[23:40.240 --> 23:44.540]  believe this? And like increased anger. And then it like turned to like, who the fuck is Geoff?
+[23:44.780 --> 23:49.100]  Who do we need to talk to about this? This sucks. And then them finding out who you are and then
+[23:49.100 --> 23:53.420]  just being angry at you. And that was not your fault at all. Every once in a while I get a tweet
+[23:53.420 --> 23:59.360]  that's just like, thanks, dickhead. I know what it is. I'm like, yeah, I know. My bad.
+[23:59.540 --> 24:03.280]  That's a true sort of global scale fuck face for you, Geoff.
+[24:03.520 --> 24:07.460]  I fucked myself and the entire community of this game.
+[24:07.540 --> 24:09.860]  I have no idea how many people play this game, Gems of War, but...
+[24:10.480 --> 24:12.260]  Talk about stepping up.
+[24:13.800 --> 24:20.660]  It's time to level up your game. Introducing the all new ESPN app. All of ESPN, all in one place.
+[24:20.920 --> 24:24.440]  Your home for the most live sports and the best championship moments.
+[24:24.820 --> 24:26.540]  The electricity is palpable.
+[24:27.280 --> 24:32.200]  Step up your game with no annual contract required. It's the ultimate fan experience.
+[24:32.860 --> 24:38.880]  Level up for more on the ESPN app or at stream.espn.com. Sign up now.
+[24:40.080 --> 24:41.500]  To you, my darling.
+[24:41.620 --> 24:42.340]  No, to you.
+[24:42.620 --> 24:44.080]  The Roses were living the dream.
+[24:44.180 --> 24:45.300]  More champagne for me, please.
+[24:45.660 --> 24:47.460]  Until it all came crashing down.
+[24:47.860 --> 24:48.640]  He got fired.
+[24:48.780 --> 24:49.060]  Fired?
+[24:49.500 --> 24:51.260]  From the director of Meet the Parents.
+[24:51.400 --> 24:52.940]  You're a failure. Women don't like that.
+[24:53.020 --> 24:55.680]  If you need a shoulder or an inner thigh, the lean one.
+[24:56.100 --> 24:57.500]  On August 29th.
+[24:57.520 --> 24:58.700]  I just want the house.
+[24:58.840 --> 24:59.600]  We want everything.
+[24:59.800 --> 25:00.080]  Wow.
+[25:00.440 --> 25:00.900]  Stop.
+[25:01.020 --> 25:01.560]  You stop!
+[25:01.840 --> 25:03.060]  And see The Roses.
+[25:03.660 --> 25:04.580]  These people.
+[25:04.880 --> 25:08.000]  The Roses, Rated R. Under 17, not admitted without parent.
+[25:08.000 --> 25:10.080]  In theaters everywhere, August 29th.
+[25:11.980 --> 25:13.900]  Getting ready to step into your career era?
+[25:14.160 --> 25:17.180]  Set yourself apart with Adobe Creative Cloud Pro for students.
+[25:17.540 --> 25:21.420]  Hone your skills with apps like Photoshop, Illustrator, Premiere Pro, and more.
+[25:21.640 --> 25:23.380]  Powered with the latest in creative AI.
+[25:23.860 --> 25:27.660]  Students save over 55% so you can build a portfolio you're proud of.
+[25:27.880 --> 25:30.760]  Launch your future with Adobe Creative Cloud Pro for students.
+[25:31.040 --> 25:33.460]  Visit adobe.com students to learn more.
+[25:35.860 --> 25:36.800]  Oh my god.
+[25:36.880 --> 25:40.700]  Oh, speaking of games though, Millie and I, my daughter and I started playing a new,
+[25:40.880 --> 25:42.260]  uh, not a new game, an old game.
+[25:42.340 --> 25:46.460]  But I don't know why nobody told me how much fun Sea of Thieves is.
+[25:46.700 --> 25:48.300]  But holy shit, that game is great.
+[25:48.500 --> 25:49.420]  You never played Sea of Thieves?
+[25:49.760 --> 25:50.620]  No, not really.
+[25:50.740 --> 25:54.000]  I think I did one video at work in it years ago, like right when it came out.
+[25:54.080 --> 25:58.440]  But Millie and I just started doing like little two-man pirate ship parties where we go and
+[25:58.440 --> 25:59.460]  dig up treasure and stuff.
+[25:59.520 --> 26:00.480]  It's fucking awesome.
+[26:01.340 --> 26:02.160]  It's really good.
+[26:02.160 --> 26:06.040]  It's also a game that can just lead you in so many places you didn't expect.
+[26:06.540 --> 26:09.600]  Like you could start digging treasure and then like a Megalodon will show up and then
+[26:09.600 --> 26:10.900]  another crew will show up.
+[26:10.980 --> 26:14.200]  And that is a game where you're constantly like, we're going to get off in 10 minutes
+[26:14.200 --> 26:14.940]  and do this thing.
+[26:15.020 --> 26:18.140]  And then you play for three more hours because something new just keeps happening.
+[26:18.400 --> 26:23.900]  Do you still have your messages from the ship people that you heisted that one time?
+[26:23.920 --> 26:26.860]  I was going to say, yeah, I had this encounter.
+[26:27.020 --> 26:31.340]  So when you hit the max level in Sea of Thieves, Geoff, you become a pirate legend.
+[26:31.340 --> 26:33.440]  You have to do it across three of the factions.
+[26:33.640 --> 26:35.160]  It's like they've got the gold hoarders.
+[26:35.320 --> 26:36.520]  How long does it take to do this?
+[26:36.560 --> 26:37.240]  And what's the level?
+[26:37.440 --> 26:40.500]  It's 50 and it's going to take you a long time.
+[26:40.980 --> 26:45.780]  You used to be able to buy your way there essentially if you wanted, but it is, I'd
+[26:45.780 --> 26:49.280]  say, I don't know, at least 20 hours per faction.
+[26:49.320 --> 26:51.420]  Maybe that might be a little high, but it's a lot.
+[26:51.880 --> 26:52.180]  It's hard.
+[26:52.400 --> 26:52.600]  Okay.
+[26:52.780 --> 26:57.780]  So anyway, once you become pirate legend, you unlock this special chest and you can
+[26:57.780 --> 27:00.700]  level up your pirate pirate legend status via that chest.
+[27:00.700 --> 27:01.880]  It's the only way to do it.
+[27:02.060 --> 27:06.540]  It takes like 90 minutes to go through the quest and you get that chest at the end.
+[27:06.680 --> 27:11.620]  But for how Sea of Thieves works is you don't get any credit for it unless you cash it in.
+[27:11.700 --> 27:13.460]  So like you could do all that work and get nothing.
+[27:13.880 --> 27:15.920]  And I was playing and I saw this boat.
+[27:16.300 --> 27:19.020]  And so I hopped in it and I was laying down and I saw they had a bunch of shit.
+[27:19.080 --> 27:19.920]  And I was like, this is great.
+[27:20.260 --> 27:21.960]  And they dropped one of those chests in.
+[27:22.540 --> 27:23.360]  I thought, this is amazing.
+[27:23.400 --> 27:24.040]  I'm going to steal it.
+[27:24.080 --> 27:25.020]  So I just, I waited.
+[27:25.280 --> 27:29.120]  And once they all left, I grabbed it, threw it in their rowboat, disconnected and just
+[27:29.120 --> 27:29.880]  paddled away.
+[27:30.300 --> 27:30.860]  Left immediately.
+[27:31.460 --> 27:32.340]  I stole it.
+[27:32.380 --> 27:34.960]  It's one of the greatest feelings I've had in gaming in like years.
+[27:35.500 --> 27:37.260]  But I'm already max level with Pyro.
+[27:37.320 --> 27:38.900]  I had no reason to take the chest.
+[27:39.020 --> 27:40.300]  It was just, it was fun.
+[27:40.540 --> 27:42.580]  Just to ruin their day.
+[27:42.740 --> 27:45.740]  And the way this works is literally like in this video game Sea of Thieves,
+[27:45.800 --> 27:47.560]  it's a sea of islands and ocean.
+[27:47.920 --> 27:51.620]  And you and three of your buddies hop in a boat and then you just swim around
+[27:51.620 --> 27:55.240]  stealing shit from other people or killing other people or digging up treasure.
+[27:55.240 --> 27:58.580]  And so you saw them get off their boat and you just stole their,
+[27:59.320 --> 28:02.620]  essentially their chest and swam away in their own, in their rowboat.
+[28:02.760 --> 28:03.620]  In their rowboat.
+[28:03.880 --> 28:08.740]  And since I already had the chest, or I had the max level, I was like,
+[28:08.780 --> 28:09.680]  well, I don't really need this.
+[28:09.740 --> 28:12.280]  It'd be a waste if I just did this by myself.
+[28:12.600 --> 28:15.880]  So I tweeted, if anyone needs rep, just let me know and I'll send you an invite.
+[28:16.420 --> 28:21.700]  The previous week I got banned from Xbox Live for being nice in Sea of Thieves.
+[28:21.700 --> 28:25.260]  And so Gavin made a joke to the tweet saying like,
+[28:25.660 --> 28:28.080]  hey, like this is a bannable offense or something.
+[28:28.420 --> 28:30.440]  And then once Gavin did it, the tweet got way more attention.
+[28:30.600 --> 28:34.800]  So people were messaging me and I just got this random party invite.
+[28:34.880 --> 28:36.260]  And I was like, oh, I guess they saw the tweet.
+[28:36.440 --> 28:39.480]  And so I joined the party and it was four people.
+[28:39.620 --> 28:42.780]  And they immediately said, where are you right now?
+[28:43.000 --> 28:43.820]  You steal the chest?
+[28:44.460 --> 28:46.080]  And I, my heart dropped.
+[28:46.200 --> 28:47.280]  I was so nervous.
+[28:47.480 --> 28:49.600]  I was not, I thought it was somebody wanting to join.
+[28:49.600 --> 28:51.560]  It was the people I stole the chest from.
+[28:51.680 --> 28:57.600]  They went into their recent players and they were interrogating everybody that was a recent player.
+[28:57.820 --> 28:59.320]  And they said, did you steal the chest?
+[28:59.420 --> 29:00.240]  Did you cash it in?
+[29:00.660 --> 29:06.080]  And I'm sitting in the rowboat and I'm looking at the chest and I, they asked if I sold it.
+[29:06.280 --> 29:08.780]  I said, no, absolutely did not do it.
+[29:08.900 --> 29:09.960]  Did not sell it.
+[29:10.280 --> 29:11.640]  Don't know what you're talking about.
+[29:11.760 --> 29:15.080]  And they kept asking me questions and it was getting more and more intense.
+[29:15.160 --> 29:15.740]  They're like, interesting.
+[29:15.880 --> 29:17.860]  Well, where were you at Crook's Lagoon?
+[29:17.920 --> 29:19.100]  That's where we were a little while ago.
+[29:19.100 --> 29:19.940]  Were you near that area?
+[29:20.060 --> 29:20.840]  What Island were you?
+[29:21.120 --> 29:22.720]  What quest are you doing?
+[29:22.980 --> 29:26.620]  It was like, they had the light in front of my face and I was just answering.
+[29:26.840 --> 29:28.120]  I was just lying through my teeth.
+[29:28.300 --> 29:30.120]  I forgot to mention the important part.
+[29:30.620 --> 29:32.400]  I was, I was so happy with myself.
+[29:32.540 --> 29:38.860]  I was clipping, I was making screen clip or like screenshots and recording clips the entire time I did it.
+[29:39.300 --> 29:43.100]  So while they're talking to me, if they go into my profile and look at my feed,
+[29:43.280 --> 29:47.600]  they will see all the video footage of me stealing their shit.
+[29:48.020 --> 29:52.840]  And so I'm talking to them and lying and just like, please just don't, don't look at my profile.
+[29:54.380 --> 29:55.100]  So bad.
+[29:55.440 --> 29:58.820]  And so we're talking, we talked for like 10 minutes and they're like,
+[29:58.920 --> 30:00.740]  And this was right over the message?
+[30:01.080 --> 30:02.280]  Like the Xbox Live chat?
+[30:02.300 --> 30:03.560]  Yeah, we were in a party chat.
+[30:03.680 --> 30:07.380]  We talked for like 10 minutes and then this other person came into the party.
+[30:07.700 --> 30:09.900]  He was interrogating someone else at a tavern.
+[30:10.180 --> 30:11.400]  He's like, I'm talking to this guy.
+[30:11.460 --> 30:12.460]  He's also denying it.
+[30:12.480 --> 30:15.100]  I don't know what's going on here, but we think it's one of you two.
+[30:15.680 --> 30:18.260]  And I just kept saying, I have no idea what you're talking about, man.
+[30:18.280 --> 30:19.600]  I'm so sorry that happened to you.
+[30:19.600 --> 30:20.340]  That's happened to me.
+[30:20.420 --> 30:21.140]  That's the worst.
+[30:21.360 --> 30:24.320]  Like you tried so hard and just to have it taken from you.
+[30:24.380 --> 30:25.140]  That's bullshit.
+[30:25.540 --> 30:26.940]  It's too bad that that can happen.
+[30:27.400 --> 30:30.900]  And so we ended up being friends and they all added me because I was such a nice guy.
+[30:32.580 --> 30:34.640]  And then I couldn't, I couldn't resist.
+[30:34.780 --> 30:39.640]  So like the next night I sent the video, I sent the video clip of me stealing it.
+[30:40.080 --> 30:40.980]  I'm so sorry.
+[30:41.660 --> 30:43.880]  And it turned into a massive argument.
+[30:43.880 --> 30:45.020]  The guy was so upset.
+[30:45.020 --> 30:46.120]  I thought he'd think it was funny.
+[30:46.300 --> 30:48.840]  He did not find any humor in the situation.
+[30:50.100 --> 30:51.540]  And it just kept escalating.
+[30:51.900 --> 30:52.720]  And he was such a dick.
+[30:52.860 --> 30:55.700]  I start, like I flipped and said, you're making me the hero of this story.
+[30:56.160 --> 30:59.740]  You are such a dick right now that you are now the villain.
+[30:59.820 --> 31:00.940]  And he did not like that.
+[31:01.020 --> 31:02.600]  He just got progressively more upset.
+[31:02.720 --> 31:03.860]  The more I called him the bad guy.
+[31:03.860 --> 31:05.780]  I bet he did not feel like the villain.
+[31:07.300 --> 31:08.760]  He was a dick.
+[31:09.240 --> 31:11.080]  The game is called Sea of Thieves.
+[31:11.080 --> 31:13.800]  There's thieves on the sea.
+[31:15.340 --> 31:16.860]  It's what the game is called.
+[31:17.200 --> 31:18.260]  I didn't make the game.
+[31:19.140 --> 31:20.280]  I'm just playing the game.
+[31:22.180 --> 31:23.100]  He was really mad.
+[31:23.140 --> 31:24.440]  I wish I could remember what he said.
+[31:24.500 --> 31:25.140]  He was an asshole.
+[31:25.740 --> 31:28.120]  Like I stole the 90 minute chess.
+[31:28.260 --> 31:29.180]  Not a great thing.
+[31:29.520 --> 31:31.020]  I'm not advocating it.
+[31:31.100 --> 31:32.600]  But yeah, he was upset.
+[31:33.040 --> 31:34.160]  Well, goddamn, dude.
+[31:34.580 --> 31:38.100]  Well, as you as you say, it sounds like you're playing the game as designed.
+[31:38.480 --> 31:39.820]  What did how did it resolve?
+[31:39.820 --> 31:41.380]  Did you give the chest back or?
+[31:41.720 --> 31:43.060]  No, I sold it.
+[31:43.120 --> 31:43.640]  What do you mean?
+[31:46.760 --> 31:48.680]  That was never on the table.
+[31:49.040 --> 31:50.760]  What a ridiculous question.
+[31:51.280 --> 31:52.680]  Did I not sell the chest?
+[31:56.100 --> 31:57.960]  Of course I sold the chest.
+[31:59.080 --> 32:01.500]  I don't think I've ever heard that story before.
+[32:02.100 --> 32:05.840]  Oh, dude, I was getting like I was getting like the live the live updates.
+[32:05.900 --> 32:06.700]  I was getting the clips.
+[32:06.700 --> 32:10.960]  It was to be hearing about it in real time was awesome.
+[32:11.060 --> 32:12.780]  That was like new stuff every hour.
+[32:13.000 --> 32:14.220]  Every day was a new.
+[32:14.360 --> 32:15.600]  I'm just checking on Andrew.
+[32:15.700 --> 32:16.300]  It was awesome.
+[32:16.500 --> 32:19.880]  I'm sad I missed that episode of the Andrew podcast.
+[32:22.220 --> 32:24.140]  Goddamn, dude, I'm glad I caught up on it.
+[32:24.300 --> 32:28.040]  Did you guys not fuck with people like that in video games ever?
+[32:28.300 --> 32:30.300]  Yeah, yeah, all the time.
+[32:30.360 --> 32:34.600]  I used to not so much anymore because it's tough because I got because I got faced by
+[32:34.600 --> 32:37.800]  that Jim's award game and I'm not allowed to play another video game for the next two and a half years.
+[32:38.860 --> 32:39.300]  Jesus.
+[32:39.700 --> 32:44.300]  Yeah, I mean, I'll I'll mess with my co-workers, but I just don't really interact with strangers
+[32:44.300 --> 32:45.960]  in games these these days.
+[32:46.100 --> 32:47.340]  I've never just like hopping online.
+[32:47.500 --> 32:48.720]  It's really hard to know.
+[32:48.940 --> 32:50.880]  Like everyone's in a party now on Xbox.
+[32:51.620 --> 32:52.760]  Yeah, I used to do this thing.
+[32:53.300 --> 32:54.960]  I was such a dickhead.
+[32:55.420 --> 32:57.180]  I called it Lightbrite.
+[32:57.980 --> 33:01.760]  When Halo, remember when Halo 3 first came out, everyone wanted recon armor.
+[33:01.760 --> 33:04.980]  Like that was the big as the get like you couldn't get.
+[33:05.360 --> 33:10.120]  The only way to get recon armor in Halo 3 was somebody who worked at the studio that
+[33:10.120 --> 33:11.380]  made it, gave it to you.
+[33:11.780 --> 33:11.960]  Yes.
+[33:12.060 --> 33:13.080]  So everyone wanted it.
+[33:13.120 --> 33:14.820]  And at this time, there's no party chat.
+[33:14.880 --> 33:16.500]  So everyone was just in local chat.
+[33:16.580 --> 33:20.060]  So I'd go into big team battle because that's the game that had the most players.
+[33:20.440 --> 33:24.500]  And I would tell I'd say to people, hey, my uncle works at Bungie.
+[33:24.560 --> 33:25.560]  I got the recon code.
+[33:25.960 --> 33:27.760]  Everyone, let's group up on me after this.
+[33:27.920 --> 33:29.260]  I'll give you guys the recon code.
+[33:29.280 --> 33:29.860]  I got this.
+[33:29.860 --> 33:30.740]  We can all get recon.
+[33:30.900 --> 33:31.680]  It's going to be amazing.
+[33:32.420 --> 33:37.280]  And so I'd get like 12 or 13 people to go with me into a private lobby.
+[33:37.860 --> 33:40.300]  And then I would say, OK, everyone ready.
+[33:40.520 --> 33:44.520]  And I just say a random combination of buttons as fast as I could.
+[33:44.680 --> 33:48.040]  I go like left bumper, left bumper, right bumper, right bumper, down, down, left, right,
+[33:48.200 --> 33:51.260]  up, down, click, left stick, right stick, right bumper, left bumper.
+[33:51.580 --> 33:52.780]  And I do this for a while.
+[33:53.140 --> 33:57.340]  But I'd always end it by saying, hold your middle button, which when you hold the middle
+[33:57.340 --> 34:01.500]  button on an Xbox controller, after like three seconds, a prompt comes up that says,
+[34:01.600 --> 34:05.720]  do you want to shut off your controller, your console, or there's something else that's
+[34:05.720 --> 34:05.880]  said.
+[34:06.300 --> 34:10.320]  And so I'd get to there and I'd say, hold the middle button, double click up, triple
+[34:10.320 --> 34:12.240]  click, triple click A, triple click A.
+[34:12.420 --> 34:15.540]  And when you did that, you would shut your console off.
+[34:16.040 --> 34:20.920]  And whenever you would turn your console off in Halo 3, it would say first that your controller
+[34:20.920 --> 34:21.460]  disconnected.
+[34:21.760 --> 34:26.820]  So the whole party would just like start blinking of people that turned their console off.
+[34:26.820 --> 34:28.420]  And I do this all the time.
+[34:28.820 --> 34:32.340]  I light brighted so many people just for my own enjoyment.
+[34:32.340 --> 34:33.620]  That's what you call it, light brighting?
+[34:33.960 --> 34:35.500]  Yeah, I was calling it light brighting.
+[34:35.580 --> 34:36.440]  It was a game I played.
+[34:37.260 --> 34:39.460]  Because the whole thing, everybody would start blinking.
+[34:40.060 --> 34:42.580]  And the worst was when I'd get people multiple times.
+[34:42.820 --> 34:43.960]  I was terrible.
+[34:44.260 --> 34:47.940]  Like I'd message them after they turned back on, or sometimes they'd message me and say
+[34:47.940 --> 34:48.680]  like, fuck you.
+[34:48.940 --> 34:49.640]  I'd say, what happened?
+[34:49.680 --> 34:50.320]  Why are you upset?
+[34:50.660 --> 34:51.360]  They say, it didn't work.
+[34:51.420 --> 34:52.880]  You just got me to turn off my Xbox.
+[34:53.160 --> 34:54.960]  And I was like, well, it's part of the code, I guess.
+[34:55.000 --> 34:55.340]  I don't know.
+[34:55.400 --> 34:55.780]  That's weird.
+[34:55.860 --> 34:56.800]  Do you want to try it again?
+[34:57.460 --> 34:58.920]  Recon, I don't know what you're complaining about.
+[34:59.260 --> 35:00.380]  Then we'd do it again.
+[35:00.560 --> 35:02.580]  I had one guy do it three times.
+[35:02.640 --> 35:06.660]  And then I just stopped because I felt so bad that we just kept turning his console off.
+[35:07.100 --> 35:07.940]  Oh, you didn't get it?
+[35:08.400 --> 35:09.340]  Oh, that sucks.
+[35:09.400 --> 35:10.180]  I'm sorry, man.
+[35:10.380 --> 35:11.500]  Well, hey, I got another code.
+[35:11.580 --> 35:12.200]  Let's try that one.
+[35:12.500 --> 35:13.840]  And then he was really annoyed.
+[35:13.920 --> 35:16.060]  And you're like, look, you're being the bad guy right now.
+[35:19.480 --> 35:23.640]  I'm trying to give you what you want, and you dumb fingers can't accommodate.
+[35:25.240 --> 35:27.720]  Oh, you do stuff like that?
+[35:27.780 --> 35:28.960]  You're a bad person.
+[35:29.240 --> 35:31.080]  Yeah, I did.
+[35:31.200 --> 35:36.140]  Well, when I was of that age, I did a lot of that shit in person, you know, like in high
+[35:36.140 --> 35:38.780]  school and stuff, because I was, you know, it was before online gaming.
+[35:38.800 --> 35:44.060]  So I didn't have the opportunity to be 19 on the internet in a video game lobby.
+[35:44.360 --> 35:48.280]  So we would do stuff like I would get three of my friends or two of my friends together.
+[35:48.280 --> 35:54.440]  And we would get a friend, a kid who we kind of knew who hadn't hung out with us on like
+[35:54.440 --> 35:55.140]  on a Friday night.
+[35:55.460 --> 35:58.560]  And my friend had this Camaro that was cool to drive around in.
+[35:58.660 --> 36:00.480]  And we would let the new guy sit in the Camaro.
+[36:00.680 --> 36:06.160]  And then we would tell them about this game we played, where you go behind this one bar
+[36:06.160 --> 36:08.940]  in town, and they have like a loading dock door.
+[36:09.240 --> 36:12.640]  And we would pile a bunch of trash cans up over the loading dock door.
+[36:13.160 --> 36:15.840]  And then there's like a bell you would ring.
+[36:16.320 --> 36:20.320]  And you hit the bell, and people would open the door and push all the trash cans over,
+[36:20.460 --> 36:21.460]  and all the trash would spill out.
+[36:21.680 --> 36:22.600]  And you'd drive away.
+[36:22.720 --> 36:26.120]  That's what people did for fun in the 1990s in Alabama.
+[36:26.600 --> 36:31.220]  For high school, I would do that behind Walmarts, behind like CVS or Eckerd's back then.
+[36:31.300 --> 36:35.640]  Like any store that had a loading dock and a bell you could ring at night, you would do that.
+[36:35.960 --> 36:38.920]  And but what we would do is we would talk about it at school a lot.
+[36:38.960 --> 36:40.520]  And then we would get a new kid to go with us.
+[36:40.660 --> 36:43.180]  And then we would send him out to do it.
+[36:43.180 --> 36:48.700]  And then as soon as he rang the bell, we would honk the horn a bunch and then drive off and just leave.
+[36:49.120 --> 36:53.060]  And then come back like 15 minutes later and find the guy hiding in a bush somewhere and pick him up.
+[36:54.600 --> 36:56.920]  We would do like that kind of shit every fucking day.
+[36:57.020 --> 37:00.600]  I did like that from like the day I turned 16 until the day I graduated high school.
+[37:00.700 --> 37:02.080]  I did something like that every day.
+[37:02.380 --> 37:04.720]  But we just we never did it in video games.
+[37:06.260 --> 37:09.100]  It's a lot more fun in video games because there's no threat.
+[37:09.460 --> 37:10.220]  You just leave.
+[37:10.780 --> 37:15.040]  I think the threat's part of the fun and it's been done to me before too.
+[37:15.180 --> 37:19.520]  And I fucking turned around and I reached for the car and they spun off and I fell down in the gravel
+[37:19.520 --> 37:21.920]  and I cut my hands all up and there was blood everywhere.
+[37:22.340 --> 37:25.120]  I had to run into a fucking neighborhood just to hide.
+[37:25.640 --> 37:28.840]  Yeah, I definitely got my comeuppance for that kind of shit.
+[37:29.460 --> 37:34.360]  Like did I ever tell you about the time in high school where we went to do that?
+[37:35.140 --> 37:36.800]  And I was going to do it behind the Walmart.
+[37:37.120 --> 37:40.160]  And we went behind one side of the Walmart and my friends let me out.
+[37:40.220 --> 37:43.100]  And I knew they were going to drive off and they did.
+[37:43.580 --> 37:45.460]  So I thought I decided to get them back.
+[37:45.620 --> 37:48.000]  And so my friends like they like it's like a loop, right?
+[37:48.020 --> 37:49.240]  And so I'm behind the Walmart.
+[37:49.400 --> 37:51.000]  I had set up the trash cans and stuff.
+[37:51.080 --> 37:51.960]  I hadn't hit the buzzer.
+[37:52.000 --> 37:54.040]  I pretended like it because I knew my friends were going to drive off.
+[37:54.220 --> 37:56.840]  So then I went and I stood kind of where I knew they were going to come back around.
+[37:57.420 --> 37:59.980]  And I faced away and I started peeing on the ground.
+[38:00.420 --> 38:01.800]  And I was going to try to time it.
+[38:01.840 --> 38:03.980]  So because I heard the lights coming that when my friends came back around,
+[38:04.020 --> 38:06.600]  I was going to swing around and piss on them and try to piss in their car.
+[38:06.740 --> 38:08.120]  But at least hit the windshield, right?
+[38:08.800 --> 38:10.900]  I was going to try to get my friend James, who was driving.
+[38:11.320 --> 38:13.640]  And what happened was they pulled up behind me.
+[38:13.700 --> 38:14.880]  And I thought, now's my chance.
+[38:14.900 --> 38:16.280]  And I swung around to piss on him.
+[38:16.780 --> 38:18.760]  And it was a security guard in a pickup truck.
+[38:19.080 --> 38:22.700]  And so I pissed all over the left front panel of his pickup truck.
+[38:23.060 --> 38:25.940]  And he goes, he goes, uh, what the fuck?
+[38:26.480 --> 38:27.660]  Or something along those lines.
+[38:28.020 --> 38:30.340]  And I got and I went, I went, ah!
+[38:31.140 --> 38:35.540]  And I put my hands up as if like he was going to he didn't have a he was
+[38:35.540 --> 38:36.480]  he had his hands on the steering wheel.
+[38:36.480 --> 38:39.200]  But I put my hands up and surrender and my pants fell down.
+[38:39.200 --> 38:43.040]  And I just started pissing out because I was still peeing.
+[38:43.460 --> 38:46.140]  And then I looked down and he I saw him open his door.
+[38:46.560 --> 38:49.020]  And I just picked up my pants and I started running.
+[38:49.160 --> 38:50.860]  And I ran for the woods behind the Walmart.
+[38:51.160 --> 38:53.540]  And I hit a ditch and I fell into it.
+[38:53.640 --> 38:55.780]  And I fell into mud and brambles.
+[38:55.780 --> 38:59.120]  And I got up and I ran with my pants around one leg,
+[38:59.600 --> 39:03.720]  fucking shirt on, dick out, pants trailing behind by one leg
+[39:03.720 --> 39:07.260]  into a neighborhood at 11 o'clock on a Friday night.
+[39:08.400 --> 39:09.720]  And hid behind a tree.
+[39:09.860 --> 39:12.980]  And while I was figuring out how to I was picking hitchhikers out of my pubic hair
+[39:12.980 --> 39:16.820]  and out of my leg hair, trying to put my pants back on.
+[39:16.880 --> 39:18.040]  And a light turned hit me.
+[39:18.120 --> 39:18.940]  And I went, oh, my God.
+[39:18.940 --> 39:19.580]  And I hit the ground.
+[39:19.660 --> 39:20.040]  I turned around.
+[39:20.100 --> 39:21.140]  It was my friends.
+[39:21.320 --> 39:26.800]  And after they made me clean off, they let me in the car.
+[39:27.640 --> 39:30.540]  So you're like stumbling around, falling in mud with you.
+[39:30.620 --> 39:33.360]  There's probably like an imprint of your penis in some mud there.
+[39:33.360 --> 39:34.040]  Oh, yeah.
+[39:34.220 --> 39:36.220]  Yeah. And I pissed all over myself, too.
+[39:36.300 --> 39:38.260]  Like my shoes, my pants.
+[39:38.360 --> 39:42.620]  I was just covered in mud and dirt and piss and embarrassment.
+[39:43.120 --> 39:43.240]  Yeah.
+[39:43.500 --> 39:47.000]  And somewhere in Alabama, if that dude is still alive,
+[39:47.080 --> 39:50.480]  there's a security guard who has a story about a time in like 1992
+[39:51.140 --> 39:53.460]  when he heard a noise and he drove behind the Walmart,
+[39:54.260 --> 39:55.860]  pulled up to a guy he thought was in distress.
+[39:55.960 --> 39:57.660]  And the guy turned around and tried to piss on him,
+[39:57.940 --> 40:01.440]  pissed all over the truck and then ran off into the woods with his ass hanging out.
+[40:01.440 --> 40:04.100]  Oh, dude, piss is no joke.
+[40:04.180 --> 40:05.980]  I watched a friendship end over piss.
+[40:06.420 --> 40:06.560]  Really?
+[40:06.700 --> 40:08.620]  There was. Yeah, it was like some people.
+[40:08.760 --> 40:10.080]  They were sort of outside of my friendship group,
+[40:10.140 --> 40:11.060]  but we'd always see him in the pub.
+[40:11.140 --> 40:13.140]  They were they were like a double act.
+[40:13.220 --> 40:14.200]  They were always together.
+[40:14.620 --> 40:17.220]  And one night on the way home from the pub, we were just walking home.
+[40:17.920 --> 40:20.260]  And one of them was just taking a piss on one of the buildings.
+[40:20.700 --> 40:23.600]  And then he just sort of spun it around and pissed on the other guy,
+[40:23.780 --> 40:25.540]  just like slung a bit of piss on him.
+[40:25.580 --> 40:26.300]  It went on his jeans.
+[40:27.080 --> 40:28.560]  The other guy kicked off.
+[40:28.560 --> 40:30.480]  Just like swearing and trying to shove him.
+[40:30.580 --> 40:32.300]  And he just said, you are dead to me.
+[40:32.500 --> 40:34.880]  And they I've never saw them together again.
+[40:35.080 --> 40:35.640]  Are you serious?
+[40:35.920 --> 40:36.500]  It was it.
+[40:36.640 --> 40:37.020]  That was it.
+[40:37.100 --> 40:41.160]  Just like a half an inch of piss in a cup worth.
+[40:41.560 --> 40:42.720]  Just up his jeans.
+[40:43.100 --> 40:43.720]  And that was it.
+[40:44.020 --> 40:47.080]  Is that a is that a cultural thing in England?
+[40:47.180 --> 40:51.060]  Is that a very is urine a super big offense in your country with your people?
+[40:51.260 --> 40:51.940]  I don't know.
+[40:52.380 --> 40:56.100]  I mean, for me, if that happened to me, I'd be I'd be a little bit.
+[40:56.160 --> 40:57.220]  It wouldn't end the friendship.
+[40:57.240 --> 40:58.540]  I'd be like, oh, come on.
+[40:58.560 --> 40:59.840]  That's like spitting on someone.
+[41:00.120 --> 41:02.680]  It's like just it's just it's just not to be done.
+[41:02.740 --> 41:03.760]  You don't piss on friends.
+[41:04.040 --> 41:07.340]  You don't spit on someone's face because it's just like, oh, come on.
+[41:07.420 --> 41:10.400]  Like, I'd rather be punched than spat on.
+[41:10.980 --> 41:13.200]  You say that you say that.
+[41:13.420 --> 41:20.700]  But you once agreed that you would let me sit in your lap and shit in your lap and see
+[41:20.700 --> 41:26.440]  if I lift up from the from the from the like the the pressure of the poop coming out for
+[41:26.440 --> 41:27.340]  two thousand dollars.
+[41:27.720 --> 41:31.020]  Obviously agree to that, knowing that you would never be able to do it.
+[41:31.140 --> 41:35.940]  You would never be able to bring yourself to let poo come out of you while you're sat
+[41:35.940 --> 41:36.200]  on me.
+[41:36.560 --> 41:37.360]  I don't know, man.
+[41:37.640 --> 41:39.020]  I accepted that as a challenge.
+[41:39.180 --> 41:40.000]  That will never happen.
+[41:40.460 --> 41:40.700]  I guarantee you.
+[41:40.700 --> 41:45.020]  If it does happen, I mean, it would be with consent.
+[41:45.180 --> 41:46.880]  We would set it up and you would be OK with it.
+[41:46.940 --> 41:49.820]  But if I was able to pull through, would you be impressed or horrified?
+[41:49.960 --> 41:50.840]  Would it affect our friendship?
+[41:51.500 --> 41:55.180]  Um, no, I don't think it would, because because I mean, I instigated it.
+[41:55.180 --> 41:56.740]  I know it's coming.
+[41:57.360 --> 41:59.260]  And I know I'm probably going to immediately get in a shower.
+[41:59.920 --> 42:04.600]  You say that now, but I think when your friend shits in your lap, like everything goes out
+[42:04.600 --> 42:04.980]  the window.
+[42:05.220 --> 42:06.580]  I don't think you can plan for that.
+[42:06.660 --> 42:09.400]  I think the rules change after it happens.
+[42:09.920 --> 42:10.800]  I don't like it.
+[42:11.380 --> 42:12.600]  It's so intimate.
+[42:13.220 --> 42:14.840]  Well, not even necessarily intimate.
+[42:14.980 --> 42:15.360]  I don't know.
+[42:15.400 --> 42:19.940]  It just it's one of those things where I just feel like you can't predict how you'd feel.
+[42:20.180 --> 42:21.140]  I'd feel warm.
+[42:21.820 --> 42:24.080]  I mean, you can't.
+[42:24.080 --> 42:24.760]  That's the point.
+[42:25.340 --> 42:26.280]  Can't argue that.
+[42:26.540 --> 42:27.040]  That's a good point.
+[42:27.160 --> 42:29.640]  I think what would get to me is that I would gag a lot.
+[42:29.820 --> 42:32.040]  There would have to be a lot of vomit, right?
+[42:32.200 --> 42:33.260]  Like I would throw up.
+[42:33.380 --> 42:37.920]  You would throw up immediately, which would make you throw up because I would throw up.
+[42:38.100 --> 42:39.560]  I would be grossed out by it.
+[42:39.860 --> 42:41.600]  And then Andrew's filming the whole thing.
+[42:41.640 --> 42:44.320]  And then he starts to retch because we're not because he's not out.
+[42:44.360 --> 42:46.780]  He's in this like he doesn't escape this.
+[42:47.180 --> 42:51.640]  Andrew is the documentarian here because you're a part of this podcast.
+[42:51.700 --> 42:53.100]  And now you're a part of this story.
+[42:53.100 --> 42:54.640]  Andrew, we're flying you in.
+[42:54.740 --> 42:58.720]  You're filming the whole thing and you're writing a thousand word essay on your experiences.
+[42:59.080 --> 43:00.860]  That's what your involvement in this is.
+[43:01.000 --> 43:02.860]  I'm getting the impression that we shouldn't do this.
+[43:03.040 --> 43:03.360]  Okay.
+[43:04.780 --> 43:05.560]  Wait, no.
+[43:06.080 --> 43:07.460]  You're now getting the impression?
+[43:08.300 --> 43:10.440]  You've now been sold that this is a bad idea?
+[43:10.860 --> 43:13.600]  I mean, are you saying that you wouldn't allow that, Andrew?
+[43:13.900 --> 43:15.000]  This is Geoff we're talking about.
+[43:15.120 --> 43:15.900]  He's Griff.
+[43:18.400 --> 43:20.460]  Do you get anything out of this?
+[43:20.760 --> 43:21.420]  Two grand.
+[43:21.740 --> 43:22.080]  Two grand.
+[43:23.140 --> 43:23.860]  No, no.
+[43:24.640 --> 43:25.760]  You can have two grand as well.
+[43:26.180 --> 43:26.840]  You get two.
+[43:26.960 --> 43:27.480]  I get two.
+[43:27.580 --> 43:28.100]  Gavin gets two.
+[43:28.340 --> 43:29.900]  You have the easiest job in the world.
+[43:29.980 --> 43:30.440]  Wait, wait, wait.
+[43:30.800 --> 43:31.980]  Where's this money coming from?
+[43:32.300 --> 43:34.680]  Wait, I thought you were paying me two grand.
+[43:35.100 --> 43:37.500]  Why would I pay you $2,000 to shit in your lap?
+[43:37.580 --> 43:38.420]  I think I did say that.
+[43:38.580 --> 43:39.240]  I don't want that anymore.
+[43:39.580 --> 43:41.620]  Listen, the economy is all fucked up now.
+[43:41.820 --> 43:42.620]  There's a coronavirus.
+[43:43.240 --> 43:46.020]  There's 427 million people in America are unemployed.
+[43:46.320 --> 43:49.320]  I'm not going to throw $2,000 of shit into your lap.
+[43:49.320 --> 43:51.360]  We're going to have to find some outside financing.
+[43:51.760 --> 43:52.700]  An angel investor.
+[43:53.000 --> 43:54.080]  We'll do a Patreon.
+[43:54.460 --> 43:55.860]  I don't know, pay-per-view maybe.
+[43:56.300 --> 43:58.340]  But I'm not footing the bill anymore.
+[43:58.500 --> 44:02.640]  All right, from this point on then, we'll let sales know that people are only allowed
+[44:02.640 --> 44:05.460]  to sponsor us if they also provide the shit money up front.
+[44:09.000 --> 44:11.220]  Let's take a step back and evaluate on that.
+[44:11.800 --> 44:13.280]  I don't think I'll need a cat.
+[44:13.360 --> 44:14.720]  I'll just sell the footage.
+[44:15.080 --> 44:16.880]  I'm sure I could find some place that would want that.
+[44:17.280 --> 44:18.300]  Like OnlyFans or something?
+[44:18.300 --> 44:19.300]  Well, yeah.
+[44:20.040 --> 44:20.720]  I mean, it could be there.
+[44:20.780 --> 44:21.120]  I don't know.
+[44:21.440 --> 44:22.300]  I'm not going to judge people.
+[44:22.400 --> 44:23.480]  I don't know where I could sell that thing.
+[44:23.520 --> 44:25.100]  But I bet you could sell that somewhere.
+[44:25.200 --> 44:26.020]  I bet you could too, yeah.
+[44:26.200 --> 44:26.900]  Think of it like this.
+[44:26.920 --> 44:29.520]  You could be essentially the new Hunter S. Thompson.
+[44:29.720 --> 44:34.840]  You could sell that 1,000-word essay to Rolling Stone, Andrew, and become a cultural phenomenon
+[44:35.220 --> 44:38.580]  and usher in a new era of creative, edgy journalism.
+[44:40.040 --> 44:46.000]  This one event, this 1,000-word essay could change your life, the trajectory and course
+[44:46.000 --> 44:47.600]  of your life for the next 50 years.
+[44:47.600 --> 44:48.560]  That's exciting.
+[44:48.860 --> 44:51.840]  He did like an investigative piece on the Hells Angels, right?
+[44:51.920 --> 44:53.900]  Like that was one of his breakthrough things.
+[44:54.160 --> 44:55.000]  He did that as well.
+[44:55.240 --> 44:55.380]  Yeah.
+[44:55.660 --> 44:59.740]  That was what was culturally relevant at that time in America.
+[45:00.120 --> 45:04.960]  This is what would be, I assume, culturally relevant in 2020, 2021 in North America.
+[45:05.080 --> 45:07.960]  I don't think this is ever going to be culturally relevant anywhere.
+[45:08.480 --> 45:12.220]  No culture at any point, I think, would find this culturally relevant.
+[45:12.820 --> 45:15.280]  I wouldn't want that footage, to be honest.
+[45:15.900 --> 45:17.660]  There's always stuff that you would want to see.
+[45:18.300 --> 45:22.120]  If you found out two of your friends had a sex tape, you'd probably watch it.
+[45:22.320 --> 45:23.620]  You'd probably be like, I've got to see what that's about.
+[45:24.440 --> 45:28.340]  If I found out there was a poo video, I would not seek that out.
+[45:28.680 --> 45:30.780]  Am I in the minority of not wanting to watch the sex tape?
+[45:31.020 --> 45:32.720]  But you would watch it, though, out of curiosity.
+[45:33.260 --> 45:33.700]  I think you would.
+[45:33.880 --> 45:35.040]  I think you're chatting shit there.
+[45:35.300 --> 45:35.660]  Nope.
+[45:36.080 --> 45:37.780]  I think you're chatting shit as well, yeah.
+[45:38.320 --> 45:42.760]  But that actually brings up a question now that I think about it that I never considered before.
+[45:42.760 --> 45:45.060]  Sort of an orange versus orange question.
+[45:45.760 --> 45:52.100]  Somewhere out there, somebody watched Two Girls, One Cup for the first time and went, Danielle?
+[45:54.880 --> 45:55.600]  Clara?
+[45:56.320 --> 45:58.420]  Is that my cousin?
+[45:58.960 --> 46:02.020]  Or didn't I have geometry with her in 10th grade?
+[46:03.220 --> 46:12.060]  People out there watched Glass Ass, or Lemon Party, or Tub Girl, or Knife Ass,
+[46:12.060 --> 46:15.920]  or whatever, any of those videos from that era.
+[46:16.020 --> 46:16.840]  Don't Google it.
+[46:16.980 --> 46:17.820]  Don't look at any of those.
+[46:18.220 --> 46:18.640]  Any of it.
+[46:18.700 --> 46:20.700]  It's worse than shitting in your best friend's lap.
+[46:20.980 --> 46:21.660]  Don't do it.
+[46:22.040 --> 46:28.560]  But if you did, there's a chance you might know the person on the other end of that video or image.
+[46:29.020 --> 46:30.500]  And that humanizes it, I think.
+[46:30.860 --> 46:32.780]  I don't think you'd recognize Tub Girl.
+[46:33.240 --> 46:34.140]  I don't know.
+[46:34.360 --> 46:35.880]  No one knows who that is, surely.
+[46:36.640 --> 46:37.520]  Somebody must.
+[46:45.180 --> 46:47.500]  And I think we just lost Gavin.
+[46:49.700 --> 46:53.020]  Well, Andrew, I don't know about you, but I can't think of a better place to end it than on Gavin
+[46:53.020 --> 46:54.640]  making himself wretch.
+[46:55.040 --> 46:59.240]  And that's based off a memory of an image that I haven't seen in over 10 years.
+[47:00.220 --> 47:01.640]  And should never see again.
+[47:01.740 --> 47:03.380]  Never should have seen it the first time for that matter.
+[47:04.040 --> 47:04.780]  Oh my god.
+[47:04.800 --> 47:08.580]  It's like when I was a kid in high school, it was all about faces of death.
+[47:08.680 --> 47:11.120]  Everybody would trade VHS tapes of faces of death.
+[47:11.120 --> 47:17.060]  And now the Internet is like every day, every video, every, I guess,
+[47:17.300 --> 47:20.160]  scene and every faces of death at all times, everywhere you turn.
+[47:20.240 --> 47:22.840]  It's fucking... the Internet's a scary and gross place.
+[47:23.200 --> 47:26.400]  I don't think this one will have sponsors, I'll be honest.
+[47:28.120 --> 47:29.840]  Well, I gotta be honest with you, too.
+[47:29.880 --> 47:33.240]  The more I think about it, I might have been arguing to be contrarian.
+[47:33.340 --> 47:35.020]  I'm not sure I want to poop on you.
+[47:36.020 --> 47:38.000]  I'm thinking maybe Andrew might be onto something.
+[47:38.000 --> 47:41.640]  Maybe it's more fun in theory to have the discussion than to do it in practice.
+[47:42.160 --> 47:43.180]  I would agree with that.
+[47:43.500 --> 47:44.800]  I would say let's leave it on the table.
+[47:45.060 --> 47:45.480]  All right.
+[47:45.600 --> 47:46.640]  Let's take it off the table.
+[47:47.500 --> 47:48.900]  Let's not leave it on the table.
+[47:49.060 --> 47:53.260]  Let's firmly remove it from the table, put it in a trash can, light it on fire.
+[47:53.580 --> 47:54.900]  This does not need to be on the table.
+[47:55.060 --> 47:56.060]  Everything's always on the table.
+[47:56.180 --> 47:57.860]  No, it's not always on the table.
+[47:58.020 --> 48:00.400]  Listen, what if we take it off the table,
+[48:00.800 --> 48:07.040]  lice all the table and then put it back on a cutting board or some saran wrap on the table?
+[48:07.040 --> 48:08.500]  We've cleaned it up a bit.
+[48:08.700 --> 48:11.980]  Wait, your first thought is to put it on like a food preparation device?
+[48:12.380 --> 48:15.220]  Well, I wouldn't use the food preparation device for food preparation again.
+[48:15.420 --> 48:17.180]  I would sacrifice it to this task.
+[48:17.420 --> 48:19.240]  Why bother with a cutting board then?
+[48:19.620 --> 48:21.380]  I don't know. I don't want it to touch my fine china.
+[48:22.400 --> 48:23.640]  I'd be okay with an oven.
+[48:23.860 --> 48:26.820]  If we put it in the oven or the microwave, I'm okay with that.
+[48:27.180 --> 48:28.160]  Hold on, Eric's typing.
+[48:28.380 --> 48:29.040]  What's this going to be?
+[48:29.720 --> 48:33.580]  How did it go from sounds like the best place to end to this?
+[48:34.280 --> 48:34.800]  Oh, he's right.
+[48:34.900 --> 48:36.040]  We have gone back in.
+[48:36.460 --> 48:37.340]  We did go back in.
+[48:37.480 --> 48:42.080]  I also wanted to get an update from Andrew on Garfield and the Basket Weavers, but maybe...
+[48:42.080 --> 48:45.640]  That is probably for episode six for us and episode five for Eric.
+[48:46.160 --> 48:47.200]  Yeah, that's a good call.
+[48:47.980 --> 48:49.800]  All right, well, here we go.
+[48:49.900 --> 48:52.240]  It's time for Andrew to end it as he does every week.
+[48:52.380 --> 48:52.980]  Andrew, take it away.
+[48:53.360 --> 48:57.540]  Oh, what am I... we're ending the show?
+[48:57.940 --> 48:58.180]  Is that what we're doing?
+[48:58.180 --> 48:59.420]  Eric, what does he have to say?
+[48:59.860 --> 49:00.540]  What do I have to say?
+[49:00.800 --> 49:04.480]  Just tell people to tell a friend to listen to the podcast,
+[49:04.480 --> 49:06.420]  to rate and subscribe, and to leave a review.
+[49:06.420 --> 49:10.660]  Tell people to tell a friend to listen to the podcast, rate and subscribe, and leave a review.
+[49:11.360 --> 49:13.940]  What if they're on an app that they can't review?
+[49:14.540 --> 49:16.240]  Like, does Spotify have reviews?
+[49:16.740 --> 49:17.700]  I don't think Spotify has reviews.
+[49:17.700 --> 49:18.740]  Then that doesn't apply to them.
+[49:18.820 --> 49:20.380]  It applies to the other people that are listening.
+[49:20.640 --> 49:24.920]  Let us know what is the smallest thing you've ever done that completely ended a friendship.
+[49:25.160 --> 49:25.940]  Oh, I'd love to know.
+[49:26.480 --> 49:27.760]  I'll tell mine next time.
+[49:28.000 --> 49:28.600]  I can't wait.
+[49:29.000 --> 49:33.320]  So I guess you're supposed to tell people and rate and subscribe to the podcast, right?
+[49:33.320 --> 49:34.540]  Just waiting on you.
+[49:35.240 --> 49:36.120]  Did you say gas?
+[49:36.580 --> 49:37.020]  What happened?
+[49:37.420 --> 49:37.920]  What happened?
+[49:38.060 --> 49:39.080]  What's going on?
+[49:39.300 --> 49:40.400]  Just end it.
+[49:40.520 --> 49:41.520]  Just say thank you.
+[49:41.660 --> 49:42.140]  Goodbye.
+[49:42.720 --> 49:43.500]  Thank you for listening.
+[49:43.740 --> 49:45.140]  Thank you for listening, Eric.
+[49:45.460 --> 49:45.940]  Goodbye.
+[49:46.720 --> 49:47.540]  Goodbye, Eric.
+[49:47.780 --> 49:48.820]  That was kind of unnecessary.
+[49:49.000 --> 49:49.480]  That was mean.
+[49:49.800 --> 49:49.960]  What?
+[49:50.220 --> 49:52.300]  He's a high-strung dude.
+[49:52.420 --> 49:52.880]  I can tell.
+[49:53.560 --> 49:56.580]  You know, I met Eric like 10, probably longer than that.
+[49:56.600 --> 49:57.840]  Maybe 10 years ago.
+[49:57.940 --> 49:58.640]  It did not go well.
+[49:58.900 --> 50:00.840]  Very awkward exchange between Eric and I.
+[50:00.900 --> 50:01.180]  What was it?
+[50:01.240 --> 50:03.000]  Like at some Mega64 booth?
+[50:03.000 --> 50:03.860]  Yeah, yeah.
+[50:03.880 --> 50:05.280]  It was back in the Mega64 booth.
+[50:05.460 --> 50:06.420]  Very awkward exchange.
+[50:06.440 --> 50:07.880]  I don't remember that at all.
+[50:08.200 --> 50:08.620]  Do tell.
+[50:08.900 --> 50:10.000]  Or should we save it for a future episode?
+[50:10.280 --> 50:12.360]  Save it because we're trying to end the show.
+[50:12.860 --> 50:14.180]  Well, if you'll shut up, we can.
+[50:14.640 --> 50:16.720]  Hey, thanks for listening to our fucking podcast.
+[50:16.860 --> 50:17.920]  Give us a rate and review.
+[50:18.100 --> 50:22.240]  And if you don't like Eric, hey, welcome to that segment of the society.
+[50:22.480 --> 50:23.180]  Give us a rate.
+[50:23.280 --> 50:24.500]  Yeah, make sure you give us a rate.
+[50:26.020 --> 50:26.740]  Or a review.

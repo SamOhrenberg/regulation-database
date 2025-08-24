@@ -19,8 +19,7 @@ export const config = {
 
   // --- Content Filtering ---
   // Videos shorter than this duration (in seconds) will be skipped.
-  // YouTube Shorts are 60 seconds or less. Set to 0 to include all videos.
-  minVideoDurationSeconds: 60,
+  minVideoDurationSeconds: 90,
 
   // --- Similarity-Based Image Extraction ---
   imageExtraction: {
@@ -31,7 +30,7 @@ export const config = {
 
     // Set to null to have the script automatically determine the write number of concurrent threads to use based on CPU cores.
     // Or set to 1 to disable concurrency (easier debugging).
-    maxConcurrency: 1,
+    maxConcurrency: 6,
     
     cropDetection: { 
       enabled: true, // Set to true to only analyze the center of the video

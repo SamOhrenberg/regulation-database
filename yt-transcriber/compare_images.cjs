@@ -2,6 +2,7 @@ const { Jimp } = require('jimp');
 const { PNG } = require('pngjs');
 const pixelmatchModule = require('pixelmatch');
 const pixelmatch = pixelmatchModule.default || pixelmatchModule;
+const config = require('./config.js');
 
 const [, , imgPath1, imgPath2, cropAreaBase64] = process.argv;
 
@@ -50,7 +51,7 @@ async function getSimilarity(imgPath1, imgPath2, cropArea) {
             diff.data,
             width,
             height,
-            { threshold: 0.2 }
+            { threshold: config.imageExtraction.pixelMatchTreshold }
         );
 
         const totalPixels = width * height;

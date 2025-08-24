@@ -7,6 +7,7 @@ import YtDlpWrapModule from 'yt-dlp-wrap';
 import { fileURLToPath } from 'url';
 import { exec } from 'child_process';
 import { promisify } from 'util';
+import pLimit from 'p-limit';
 
 const execPromise = promisify(exec);
 
@@ -69,7 +70,7 @@ async function extractStaticImages(videoPath, episodeImagesDir) {
     if (!config.imageExtraction.enabled) {
         return [];
     }
-    const tempFramesDir = path.join(tempProcessingPath, 'frames', path.basename(videoPath));
+    const tempFramesDir = path.join(TEMP_DIR, 'frames', path.basename(videoPath));
     await cleanupDir(tempFramesDir);
     await fs.mkdir(tempFramesDir, { recursive: true });
 
@@ -93,8 +94,8 @@ async function extractStaticImages(videoPath, episodeImagesDir) {
     } : { width: videoWidth, height: videoHeight, left: 0, top: 0 };
 
     if (config.imageExtraction.debug) {
-        console.log(`${logPrefix} Video dimensions: ${videoWidth}x${videoHeight}`);
-        if (cropConfig.enabled) console.log(`${logPrefix} Crop area for analysis:`, cropArea);
+        console.log(`Video dimensions: ${videoWidth}x${videoHeight}`);
+        if (cropConfig.enabled) console.log(`Crop area for analysis:`, cropArea);
     }
 
     await new Promise((resolve, reject) => {
@@ -107,15 +108,15 @@ async function extractStaticImages(videoPath, episodeImagesDir) {
 
     const frameFiles = (await fs.readdir(tempFramesDir)).sort();
     if (frameFiles.length < 4) {
-        console.warn(`${logPrefix} Not enough frames extracted for image analysis. Found only ${frameFiles.length}.`);
+        console.warn(`Not enough frames extracted for image analysis. Found only ${frameFiles.length}.`);
         await cleanupDir(tempFramesDir);
         return [];
     }
 
-    console.info(`${logPrefix} Extracted ${frameFiles.length} frames. Starting image analysis...`);
+    console.info(`Extracted ${frameFiles.length} frames. Starting image analysis...`);
     const concurrency = config.imageExtraction.maxConcurrency ? config.imageExtraction.maxConcurrency : os.cpus().length;
     const limit = pLimit(concurrency);
-    console.log(`${logPrefix} Starting analysis with a concurrency of ${concurrency}...`);
+    console.log(`Starting analysis with a concurrency of ${concurrency}...`);
 
     const tasks = [];
     for (let i = 5; i < frameFiles.length - 2; i++) {
@@ -137,7 +138,7 @@ async function extractStaticImages(videoPath, episodeImagesDir) {
                 //console.log(`[${frameId}] Trigger similarity: ${triggerSimilarity.toFixed(4)} (Threshold: < ${config.imageExtraction.similarityThreshold})`);
 
                 if (triggerSimilarity < config.imageExtraction.similarityThreshold) {
-                    console.log(`[${frameId}] [i=${currentIndex}] PASSED trigger check. Now checking stability... for ${nextFrameId} and ${nextNextFrameId}`);
+                    //console.log(`[${frameId}] [i=${currentIndex}] PASSED trigger check. Now checking stability... for ${nextFrameId} and ${nextNextFrameId}`);
 
                     const [stabilityCheck1, stabilityCheck2] = await Promise.all([
                         getSimilarity(path.join(tempFramesDir, frameId), path.join(tempFramesDir, nextFrameId), cropArea),
@@ -173,7 +174,7 @@ async function extractStaticImages(videoPath, episodeImagesDir) {
 
     // This part of the logic is likely correct, but it depends on sortedCandidates having items.
     if (sortedCandidates.length === 0) {
-        console.warn(`${logPrefix} No candidate frames were found after parallel processing. Check the logs above for failures or errors.`);
+        console.warn(`No candidate frames were found after parallel processing. Check the logs above for failures or errors.`);
     } else {
         for (const candidate of sortedCandidates) {
             if (!usedIndexes.has(candidate.index)) {
@@ -184,8 +185,8 @@ async function extractStaticImages(videoPath, episodeImagesDir) {
         }
     }
 
-    console.log(`${logPrefix} Analysis complete. Found ${candidateFramePaths.length} total candidate images.`);
-    console.log(`${logPrefix} Found ${candidateFramePaths.length} candidate images. De-duplicating...`);
+    console.log(`Analysis complete. Found ${candidateFramePaths.length} total candidate images.`);
+    console.log(`Found ${candidateFramePaths.length} candidate images. De-duplicating...`);
     const uniqueFramePaths = [];
     if (candidateFramePaths.length > 0) {
         uniqueFramePaths.push(candidateFramePaths[0]);
@@ -231,7 +232,7 @@ async function main() {
     for (const show of Object.keys(metadata)) {
         console.log(`\n--- Processing show: ${show} ---`);
         for (const episode of metadata[show]) {
-            if (episode.scannedForImages) {
+            if (episode.scannedForImages || (Array.isArray(episode.images) && episode.images.length > 0)) {
                 console.log(`Skipping "${episode.title}" (already scanned for images).`);
                 continue;
             }

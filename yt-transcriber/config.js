@@ -25,8 +25,10 @@ export const config = {
   imageExtraction: {
     enabled: true,
     similarityThreshold: 0.7, 
-    similarityThresholdUpperCheck: 0.97,
+    similarityThresholdUpperCheck: 0.95,
     debug: true, 
+
+    pixelMatchThreshold: 0.25, // Tolerance for pixel differences (0 to 1). Lower is more strict.
 
     // Set to null to have the script automatically determine the write number of concurrent threads to use based on CPU cores.
     // Or set to 1 to disable concurrency (easier debugging).

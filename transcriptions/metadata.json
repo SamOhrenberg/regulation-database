@@ -28,11 +28,11 @@
       "thumbnail": "https://i.ytimg.com/vi/ffxXm1cEemM/maxresdefault.jpg",
       "transcript_path": "transcriptions/Regulation Podcast/Regulation Podcast (Supplemental) Regulation Takes - Regulation Supplemental.txt",
       "images": [
-        "./images/Regulation Podcast/ffxXm1cEemM/001.png",
-        "./images/Regulation Podcast/ffxXm1cEemM/002.png",
-        "./images/Regulation Podcast/ffxXm1cEemM/003.png",
-        "./images/Regulation Podcast/ffxXm1cEemM/004.png",
-        "./images/Regulation Podcast/ffxXm1cEemM/005.png"
+        "transcriptions/images//Regulation Podcast/ffxXm1cEemM/001.png",
+        "transcriptions/images//Regulation Podcast/ffxXm1cEemM/002.png",
+        "transcriptions/images//Regulation Podcast/ffxXm1cEemM/003.png",
+        "transcriptions/images//Regulation Podcast/ffxXm1cEemM/004.png",
+        "transcriptions/images//Regulation Podcast/ffxXm1cEemM/005.png"
       ],
       "show": "Regulation Podcast",
       "episode_number": null,
@@ -1801,38 +1801,6 @@
       "category": "Episode"
     },
     {
-      "id": "fe21E0Rc_F4",
-      "source": "YouTube",
-      "title": "Layering 100 Pees // Banana Shaft [203]",
-      "description": "Geoff, Gavin, and Andrew talk about Andrew’s voice, why birds don’t have visible balls, animal kingdom penis’, old tweets, Dollar Hot Dog Night, being in a Whataburger commercial, the solar eclipse, Xbox 360 best features, Way of the Dogg, Undercover Boss, recording every piss, hobbies we’re running from, internal goo, snorting Tums, justice for Graysie, NBA stars with pets, Eric the super producer, hollow Whoppers, and more.\n\nGet more bonus content and behind the scenes here! https://fuckfacepod.com/first\n\n» Get your F**KFACE merch: https://bit.ly/3zpDCWG\n» Subscribe: https://bit.ly/3gBbXLj\n\nMore from Rooster Teeth:\n» Rooster Teeth: https://bit.ly/3zz4544\n» Achievement Hunter: https://bit.ly/3gEkls3\n» Let’s Play: https://bit.ly/3gwJkgI\n\nMore from Rooster Teeth Podcasts:\n» Black Box Down: https://bit.ly/3pYKBl4 \n» Red Web: https://bit.ly/3wBWShW\n» Face Jam: https://bit.ly/35qGW62\n\n#F**KFace #FFPod",
-      "duration": 3726,
-      "duration_string": "1:02:06",
-      "upload_date": "20240417",
-      "url": "https://www.youtube.com/watch?v=fe21E0Rc_F4",
-      "thumbnail": "https://i.ytimg.com/vi/fe21E0Rc_F4/hqdefault.jpg",
-      "transcript_path": "transcriptions/Regulation Podcast/Regulation Podcast (203) Layering 100 Pees - Banana Shaft [203].txt",
-      "images": [],
-      "show": "Regulation Podcast",
-      "episode_number": 203,
-      "category": "Episode"
-    },
-    {
-      "id": "8cANi5Z7g6A",
-      "source": "YouTube",
-      "title": "The British Jackal // Beard Faucet [202]",
-      "description": "Geoff, Gavin, and Andrew talk about Nick’s real life laugh, the goodbye party started by an evil man, Graysie the British Jackal, hourly nightmares, Andrew and Eric going to the mall and making code words, convincing people of time travel, our mall era, Geoff promotion and demotion cycle, childhood disappointments, trying to get Will Sasso in content, DCOM’s, Andrew lying to get a library card, what based on a true story really means, Kirk Cameron, the Twitch streamed UFC fight, mustache hairs, The Matrix MMO, and more.\n\nSponsored by FÜM: Start the Good Habit at https://tryfum.com/FACE to save 10% off the Journey Pack today.\n\n» Get your F**KFACE merch: https://bit.ly/3zpDCWG\n» Subscribe: https://bit.ly/3gBbXLj\n\nMore from Rooster Teeth:\n» Rooster Teeth: https://bit.ly/3zz4544\n» Achievement Hunter: https://bit.ly/3gEkls3\n» Let’s Play: https://bit.ly/3gwJkgI\n\nMore from Rooster Teeth Podcasts:\n» Black Box Down: https://bit.ly/3pYKBl4 \n» Red Web: https://bit.ly/3wBWShW\n» Face Jam: https://bit.ly/35qGW62\n\n#F**KFace #FFPod",
-      "duration": 3974,
-      "duration_string": "1:06:14",
-      "upload_date": "20240410",
-      "url": "https://www.youtube.com/watch?v=8cANi5Z7g6A",
-      "thumbnail": "https://i.ytimg.com/vi/8cANi5Z7g6A/hqdefault.jpg",
-      "transcript_path": "transcriptions/Regulation Podcast/Regulation Podcast (202) The British Jackal - Beard Faucet [202].txt",
-      "images": [],
-      "show": "Regulation Podcast",
-      "episode_number": 202,
-      "category": "Episode"
-    },
-    {
       "id": "U2EKjj8P9UM",
       "source": "YouTube",
       "title": "The Inaugural Episode // Loopering Superman's Horse [1]",
@@ -1844,8 +1812,8 @@
       "thumbnail": "https://i.ytimg.com/vi/U2EKjj8P9UM/maxresdefault.jpg",
       "transcript_path": "transcriptions/Regulation Podcast/Regulation Podcast (001) The Inaugural Episode - Loopering Supermans Horse [1].txt",
       "images": [
-        "images/Regulation Podcast/U2EKjj8P9UM/001.png",
-        "images/Regulation Podcast/U2EKjj8P9UM/002.png"
+        "transcriptions/images/Regulation Podcast/U2EKjj8P9UM/001.png",
+        "transcriptions/images/Regulation Podcast/U2EKjj8P9UM/002.png"
       ],
       "show": "Regulation Podcast",
       "episode_number": 1,
@@ -1863,14 +1831,14 @@
       "thumbnail": "https://i.ytimg.com/vi/OQNwRjcs0Yk/maxresdefault.jpg",
       "transcript_path": "transcriptions/Regulation Podcast/Regulation Podcast (021) Why We Sync - Fastball vs Linebacker [21].txt",
       "images": [
-        "images/Regulation Podcast/OQNwRjcs0Yk/001.png",
-        "images/Regulation Podcast/OQNwRjcs0Yk/002.png",
-        "images/Regulation Podcast/OQNwRjcs0Yk/003.png",
-        "images/Regulation Podcast/OQNwRjcs0Yk/004.png",
-        "images/Regulation Podcast/OQNwRjcs0Yk/005.png",
-        "images/Regulation Podcast/OQNwRjcs0Yk/006.png",
-        "images/Regulation Podcast/OQNwRjcs0Yk/007.png",
-        "images/Regulation Podcast/OQNwRjcs0Yk/008.png"
+        "transcriptions/images/Regulation Podcast/OQNwRjcs0Yk/001.png",
+        "transcriptions/images/Regulation Podcast/OQNwRjcs0Yk/002.png",
+        "transcriptions/images/Regulation Podcast/OQNwRjcs0Yk/003.png",
+        "transcriptions/images/Regulation Podcast/OQNwRjcs0Yk/004.png",
+        "transcriptions/images/Regulation Podcast/OQNwRjcs0Yk/005.png",
+        "transcriptions/images/Regulation Podcast/OQNwRjcs0Yk/006.png",
+        "transcriptions/images/Regulation Podcast/OQNwRjcs0Yk/007.png",
+        "transcriptions/images/Regulation Podcast/OQNwRjcs0Yk/008.png"
       ],
       "show": "Regulation Podcast",
       "episode_number": 21,
@@ -1888,17 +1856,17 @@
       "thumbnail": "https://i.ytimg.com/vi/RcUoMR8pid0/maxresdefault.jpg",
       "transcript_path": "transcriptions/Regulation Podcast/Regulation Podcast (067) Geoff the Professional - Andrews Homework [67].txt",
       "images": [
-        "images/Regulation Podcast/RcUoMR8pid0/001.png",
-        "images/Regulation Podcast/RcUoMR8pid0/002.png",
-        "images/Regulation Podcast/RcUoMR8pid0/003.png",
-        "images/Regulation Podcast/RcUoMR8pid0/004.png",
-        "images/Regulation Podcast/RcUoMR8pid0/005.png",
-        "images/Regulation Podcast/RcUoMR8pid0/006.png",
-        "images/Regulation Podcast/RcUoMR8pid0/007.png",
-        "images/Regulation Podcast/RcUoMR8pid0/008.png",
-        "images/Regulation Podcast/RcUoMR8pid0/009.png",
-        "images/Regulation Podcast/RcUoMR8pid0/010.png",
-        "images/Regulation Podcast/RcUoMR8pid0/011.png"
+        "transcriptions/images/Regulation Podcast/RcUoMR8pid0/001.png",
+        "transcriptions/images/Regulation Podcast/RcUoMR8pid0/002.png",
+        "transcriptions/images/Regulation Podcast/RcUoMR8pid0/003.png",
+        "transcriptions/images/Regulation Podcast/RcUoMR8pid0/004.png",
+        "transcriptions/images/Regulation Podcast/RcUoMR8pid0/005.png",
+        "transcriptions/images/Regulation Podcast/RcUoMR8pid0/006.png",
+        "transcriptions/images/Regulation Podcast/RcUoMR8pid0/007.png",
+        "transcriptions/images/Regulation Podcast/RcUoMR8pid0/008.png",
+        "transcriptions/images/Regulation Podcast/RcUoMR8pid0/009.png",
+        "transcriptions/images/Regulation Podcast/RcUoMR8pid0/010.png",
+        "transcriptions/images/Regulation Podcast/RcUoMR8pid0/011.png"
       ],
       "show": "Regulation Podcast",
       "episode_number": 67,
@@ -1916,12 +1884,12 @@
       "thumbnail": "https://i.ytimg.com/vi/WZaTGMtsTs4/maxresdefault.jpg",
       "transcript_path": "transcriptions/Regulation Podcast/Regulation Podcast (Draft) Horse Not Horse Draft.txt",
       "images": [
-        "images/Regulation Podcast/WZaTGMtsTs4/001.png",
-        "images/Regulation Podcast/WZaTGMtsTs4/002.png",
-        "images/Regulation Podcast/WZaTGMtsTs4/003.png",
-        "images/Regulation Podcast/WZaTGMtsTs4/004.png",
-        "images/Regulation Podcast/WZaTGMtsTs4/005.png",
-        "images/Regulation Podcast/WZaTGMtsTs4/006.png"
+        "transcriptions/images/Regulation Podcast/WZaTGMtsTs4/001.png",
+        "transcriptions/images/Regulation Podcast/WZaTGMtsTs4/002.png",
+        "transcriptions/images/Regulation Podcast/WZaTGMtsTs4/003.png",
+        "transcriptions/images/Regulation Podcast/WZaTGMtsTs4/004.png",
+        "transcriptions/images/Regulation Podcast/WZaTGMtsTs4/005.png",
+        "transcriptions/images/Regulation Podcast/WZaTGMtsTs4/006.png"
       ],
       "show": "Regulation Podcast",
       "episode_number": null,
@@ -1939,9 +1907,9 @@
       "thumbnail": "https://i.ytimg.com/vi/aZngUfyaK-4/maxresdefault.jpg",
       "transcript_path": "transcriptions/Regulation Podcast/Regulation Podcast (Sausage Talk) Regulation Sausage Talk 4.txt",
       "images": [
-        "images/Regulation Podcast/aZngUfyaK-4/001.png",
-        "images/Regulation Podcast/aZngUfyaK-4/002.png",
-        "images/Regulation Podcast/aZngUfyaK-4/003.png"
+        "transcriptions/images/Regulation Podcast/aZngUfyaK-4/001.png",
+        "transcriptions/images/Regulation Podcast/aZngUfyaK-4/002.png",
+        "transcriptions/images/Regulation Podcast/aZngUfyaK-4/003.png"
       ],
       "show": "Regulation Podcast",
       "episode_number": null,
@@ -1993,11 +1961,11 @@
       "thumbnail": "https://i.ytimg.com/vi/RtLHHD0SAz4/maxresdefault.jpg",
       "transcript_path": "transcriptions/F - kface Podcast/F - kface Podcast (192) In The Owl City Lab - Andrew Got A Cock [192].txt",
       "images": [
-        "images/F - kface Podcast/RtLHHD0SAz4/001.png",
-        "images/F - kface Podcast/RtLHHD0SAz4/002.png",
-        "images/F - kface Podcast/RtLHHD0SAz4/003.png",
-        "images/F - kface Podcast/RtLHHD0SAz4/004.png",
-        "images/F - kface Podcast/RtLHHD0SAz4/005.png"
+        "transcriptions/images/F - kface Podcast/RtLHHD0SAz4/001.png",
+        "transcriptions/images/F - kface Podcast/RtLHHD0SAz4/002.png",
+        "transcriptions/images/F - kface Podcast/RtLHHD0SAz4/003.png",
+        "transcriptions/images/F - kface Podcast/RtLHHD0SAz4/004.png",
+        "transcriptions/images/F - kface Podcast/RtLHHD0SAz4/005.png"
       ],
       "show": "F**kface Podcast",
       "episode_number": 192,
@@ -3037,10 +3005,10 @@
       "thumbnail": "https://i.ytimg.com/vi_webp/JTfmNBmoWkg/maxresdefault.webp",
       "transcript_path": "transcriptions/F - kface Podcast/F - kface Podcast (161) T-bone steak meat ham - Geoffs back on the streets [161].txt",
       "images": [
-        "images/F - kface Podcast/JTfmNBmoWkg/001.png",
-        "images/F - kface Podcast/JTfmNBmoWkg/002.png",
-        "images/F - kface Podcast/JTfmNBmoWkg/003.png",
-        "images/F - kface Podcast/JTfmNBmoWkg/004.png"
+        "transcriptions/images/F - kface Podcast/JTfmNBmoWkg/001.png",
+        "transcriptions/images/F - kface Podcast/JTfmNBmoWkg/002.png",
+        "transcriptions/images/F - kface Podcast/JTfmNBmoWkg/003.png",
+        "transcriptions/images/F - kface Podcast/JTfmNBmoWkg/004.png"
       ],
       "show": "F**kface Podcast",
       "episode_number": 161,
@@ -3080,13 +3048,13 @@
       "thumbnail": "https://i.ytimg.com/vi_webp/p_XDJIPaxUw/maxresdefault.webp",
       "transcript_path": "transcriptions/F - kface Podcast/F - kface Podcast (185) Its Scary Out There - Wheel of Years [185].txt",
       "images": [
-        "images/F - kface Podcast/p_XDJIPaxUw/001.png",
-        "images/F - kface Podcast/p_XDJIPaxUw/002.png",
-        "images/F - kface Podcast/p_XDJIPaxUw/003.png",
-        "images/F - kface Podcast/p_XDJIPaxUw/004.png",
-        "images/F - kface Podcast/p_XDJIPaxUw/005.png",
-        "images/F - kface Podcast/p_XDJIPaxUw/006.png",
-        "images/F - kface Podcast/p_XDJIPaxUw/007.png"
+        "transcriptions/images/F - kface Podcast/p_XDJIPaxUw/001.png",
+        "transcriptions/images/F - kface Podcast/p_XDJIPaxUw/002.png",
+        "transcriptions/images/F - kface Podcast/p_XDJIPaxUw/003.png",
+        "transcriptions/images/F - kface Podcast/p_XDJIPaxUw/004.png",
+        "transcriptions/images/F - kface Podcast/p_XDJIPaxUw/005.png",
+        "transcriptions/images/F - kface Podcast/p_XDJIPaxUw/006.png",
+        "transcriptions/images/F - kface Podcast/p_XDJIPaxUw/007.png"
       ],
       "show": "F**kface Podcast",
       "episode_number": 185,
@@ -3115,9 +3083,9 @@
       "thumbnail": "https://i.ytimg.com/vi_webp/uNvAFbuYlHg/maxresdefault.webp",
       "transcript_path": "transcriptions/F - kface Podcast/F - kface Podcast (188) Ass Hair Toupe - The Year of Plaques [188].txt",
       "images": [
-        "images/F - kface Podcast/uNvAFbuYlHg/001.png",
-        "images/F - kface Podcast/uNvAFbuYlHg/002.png",
-        "images/F - kface Podcast/uNvAFbuYlHg/003.png"
+        "transcriptions/images/F - kface Podcast/uNvAFbuYlHg/001.png",
+        "transcriptions/images/F - kface Podcast/uNvAFbuYlHg/002.png",
+        "transcriptions/images/F - kface Podcast/uNvAFbuYlHg/003.png"
       ],
       "show": "F**kface Podcast",
       "episode_number": 188,
@@ -3146,7 +3114,7 @@
       "thumbnail": "https://i.ytimg.com/vi_webp/fEv3X8om0yg/maxresdefault.webp",
       "transcript_path": "transcriptions/F - kface Podcast/F - kface Podcast (Supplemental) Eating the Ploughmans Pizza.txt",
       "images": [
-        "images/F - kface Podcast/fEv3X8om0yg/001.png"
+        "transcriptions/images/F - kface Podcast/fEv3X8om0yg/001.png"
       ],
       "show": "F**kface Podcast",
       "episode_number": null,
@@ -3235,8 +3203,8 @@
       "thumbnail": "https://i.ytimg.com/vi_webp/Rra1PJZt6zc/maxresdefault.webp",
       "transcript_path": "transcriptions/F - kface Podcast/F - kface Podcast (Bingo) Slopoween - Sloppy Joes Bingo.txt",
       "images": [
-        "images/F - kface Podcast/Rra1PJZt6zc/001.png",
-        "images/F - kface Podcast/Rra1PJZt6zc/002.png"
+        "transcriptions/images/F - kface Podcast/Rra1PJZt6zc/001.png",
+        "transcriptions/images/F - kface Podcast/Rra1PJZt6zc/002.png"
       ],
       "show": "F**kface Podcast",
       "episode_number": null,
@@ -4305,7 +4273,7 @@
       "thumbnail": "https://i.ytimg.com/vi_webp/Nu2qgov9dlc/maxresdefault.webp",
       "transcript_path": "transcriptions/F - kface Podcast/F - kface Podcast (Supplemental) Surstrmming Nose Flaps Test.txt",
       "images": [
-        "images/F - kface Podcast/Nu2qgov9dlc/001.png"
+        "transcriptions/images/F - kface Podcast/Nu2qgov9dlc/001.png"
       ],
       "show": "F**kface Podcast",
       "episode_number": null,
@@ -7011,19 +6979,19 @@
       "thumbnail": "https://i.ytimg.com/vi_webp/j8s7z2qC9L4/maxresdefault.webp",
       "transcript_path": "transcriptions/F - kface Podcast/F - kface Podcast (Watch Along) Gavin and Andrews Nugget Buddy Watch Along.txt",
       "images": [
-        "images/F - kface Podcast/j8s7z2qC9L4/001.png",
-        "images/F - kface Podcast/j8s7z2qC9L4/002.png",
-        "images/F - kface Podcast/j8s7z2qC9L4/003.png",
-        "images/F - kface Podcast/j8s7z2qC9L4/004.png",
-        "images/F - kface Podcast/j8s7z2qC9L4/005.png",
-        "images/F - kface Podcast/j8s7z2qC9L4/006.png",
-        "images/F - kface Podcast/j8s7z2qC9L4/007.png",
-        "images/F - kface Podcast/j8s7z2qC9L4/008.png",
-        "images/F - kface Podcast/j8s7z2qC9L4/009.png",
-        "images/F - kface Podcast/j8s7z2qC9L4/010.png",
-        "images/F - kface Podcast/j8s7z2qC9L4/011.png",
-        "images/F - kface Podcast/j8s7z2qC9L4/012.png",
-        "images/F - kface Podcast/j8s7z2qC9L4/013.png"
+        "transcriptions/images/F - kface Podcast/j8s7z2qC9L4/001.png",
+        "transcriptions/images/F - kface Podcast/j8s7z2qC9L4/002.png",
+        "transcriptions/images/F - kface Podcast/j8s7z2qC9L4/003.png",
+        "transcriptions/images/F - kface Podcast/j8s7z2qC9L4/004.png",
+        "transcriptions/images/F - kface Podcast/j8s7z2qC9L4/005.png",
+        "transcriptions/images/F - kface Podcast/j8s7z2qC9L4/006.png",
+        "transcriptions/images/F - kface Podcast/j8s7z2qC9L4/007.png",
+        "transcriptions/images/F - kface Podcast/j8s7z2qC9L4/008.png",
+        "transcriptions/images/F - kface Podcast/j8s7z2qC9L4/009.png",
+        "transcriptions/images/F - kface Podcast/j8s7z2qC9L4/010.png",
+        "transcriptions/images/F - kface Podcast/j8s7z2qC9L4/011.png",
+        "transcriptions/images/F - kface Podcast/j8s7z2qC9L4/012.png",
+        "transcriptions/images/F - kface Podcast/j8s7z2qC9L4/013.png"
       ],
       "show": "F**kface Podcast",
       "episode_number": null,
@@ -10237,8 +10205,8 @@
       "thumbnail": "https://i.ytimg.com/vi_webp/5PsDQ5syR08/maxresdefault.webp",
       "transcript_path": "transcriptions/Regulation Gameplay/Regulation Gameplay (Gameplay) Dark Park Beginnings - Pico Park 2 - Regulation VOD.txt",
       "images": [
-        "images/Regulation Gameplay/5PsDQ5syR08/001.png",
-        "images/Regulation Gameplay/5PsDQ5syR08/002.png"
+        "transcriptions/images/Regulation Gameplay/5PsDQ5syR08/001.png",
+        "transcriptions/images/Regulation Gameplay/5PsDQ5syR08/002.png"
       ],
       "show": "Regulation Gameplay",
       "episode_number": null,
@@ -10256,10 +10224,10 @@
       "thumbnail": "https://i.ytimg.com/vi_webp/W_0fRw1F68Y/maxresdefault.webp",
       "transcript_path": "transcriptions/Regulation Gameplay/Regulation Gameplay (Gameplay) Day at the Park Pico Park 2 - Regulation VOD.txt",
       "images": [
-        "images/Regulation Gameplay/W_0fRw1F68Y/001.png",
-        "images/Regulation Gameplay/W_0fRw1F68Y/002.png",
-        "images/Regulation Gameplay/W_0fRw1F68Y/003.png",
-        "images/Regulation Gameplay/W_0fRw1F68Y/004.png"
+        "transcriptions/images/Regulation Gameplay/W_0fRw1F68Y/001.png",
+        "transcriptions/images/Regulation Gameplay/W_0fRw1F68Y/002.png",
+        "transcriptions/images/Regulation Gameplay/W_0fRw1F68Y/003.png",
+        "transcriptions/images/Regulation Gameplay/W_0fRw1F68Y/004.png"
       ],
       "show": "Regulation Gameplay",
       "episode_number": null,
@@ -10277,9 +10245,9 @@
       "thumbnail": "https://i.ytimg.com/vi/RY-0MIS15l0/maxresdefault.jpg",
       "transcript_path": "transcriptions/Regulation Gameplay/Regulation Gameplay (Gameplay) FBC Firebreak - Regulation Gameplay.txt",
       "images": [
-        "images/Regulation Gameplay/RY-0MIS15l0/001.png",
-        "images/Regulation Gameplay/RY-0MIS15l0/002.png",
-        "images/Regulation Gameplay/RY-0MIS15l0/003.png"
+        "transcriptions/images/Regulation Gameplay/RY-0MIS15l0/001.png",
+        "transcriptions/images/Regulation Gameplay/RY-0MIS15l0/002.png",
+        "transcriptions/images/Regulation Gameplay/RY-0MIS15l0/003.png"
       ],
       "show": "Regulation Gameplay",
       "episode_number": null,
@@ -10297,17 +10265,17 @@
       "thumbnail": "https://i.ytimg.com/vi/vqlXjn3sO9I/maxresdefault.jpg",
       "transcript_path": "transcriptions/Regulation Gameplay/Regulation Gameplay (Gameplay) Off to the Races - Ultimate Sheep Raccoon Demo - Regulation VOD.txt",
       "images": [
-        "images/Regulation Gameplay/vqlXjn3sO9I/001.png",
-        "images/Regulation Gameplay/vqlXjn3sO9I/002.png",
-        "images/Regulation Gameplay/vqlXjn3sO9I/003.png",
-        "images/Regulation Gameplay/vqlXjn3sO9I/004.png",
-        "images/Regulation Gameplay/vqlXjn3sO9I/005.png",
-        "images/Regulation Gameplay/vqlXjn3sO9I/006.png",
-        "images/Regulation Gameplay/vqlXjn3sO9I/007.png",
-        "images/Regulation Gameplay/vqlXjn3sO9I/008.png",
-        "images/Regulation Gameplay/vqlXjn3sO9I/009.png",
-        "images/Regulation Gameplay/vqlXjn3sO9I/010.png",
-        "images/Regulation Gameplay/vqlXjn3sO9I/011.png"
+        "transcriptions/images/Regulation Gameplay/vqlXjn3sO9I/001.png",
+        "transcriptions/images/Regulation Gameplay/vqlXjn3sO9I/002.png",
+        "transcriptions/images/Regulation Gameplay/vqlXjn3sO9I/003.png",
+        "transcriptions/images/Regulation Gameplay/vqlXjn3sO9I/004.png",
+        "transcriptions/images/Regulation Gameplay/vqlXjn3sO9I/005.png",
+        "transcriptions/images/Regulation Gameplay/vqlXjn3sO9I/006.png",
+        "transcriptions/images/Regulation Gameplay/vqlXjn3sO9I/007.png",
+        "transcriptions/images/Regulation Gameplay/vqlXjn3sO9I/008.png",
+        "transcriptions/images/Regulation Gameplay/vqlXjn3sO9I/009.png",
+        "transcriptions/images/Regulation Gameplay/vqlXjn3sO9I/010.png",
+        "transcriptions/images/Regulation Gameplay/vqlXjn3sO9I/011.png"
       ],
       "show": "Regulation Gameplay",
       "episode_number": null,

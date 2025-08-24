@@ -253,7 +253,7 @@ async function processDownloadedFile(workItem, logPrefix) {
 
     if (!finalTitle.toLowerCase().includes('compilation')) { // don't transcribe compilations
       console.log(`${logPrefix} Preparing to transcribe...`);
-      if (mediaType === 'video') {
+      if (mediaType === 'video' && category !== 'Gameplay') {
         console.log(`${logPrefix} Starting parallel transcription and image extraction...`);
 
         const transcriptionTask = transcribeMedia(tempMediaPath, showDir, transcriptPath, logPrefix);

@@ -69,13 +69,11 @@ async function extractStaticImages(videoPath, episodeImagesDir) {
     if (!config.imageExtraction.enabled) {
         return [];
     }
-    console.log(`Extracting frames from ${path.basename(videoPath)}...`);
-    const tempFramesDir = path.join(TEMP_DIR, 'frames');
+    const tempFramesDir = path.join(tempProcessingPath, 'frames', path.basename(videoPath));
     await cleanupDir(tempFramesDir);
-    await ensureDir(tempFramesDir);
+    await fs.mkdir(tempFramesDir, { recursive: true });
 
     const frameRate = 1;
-
     const videoMetadata = await new Promise((resolve, reject) => {
         ffmpeg.ffprobe(videoPath, (err, metadata) => {
             if (err) reject(err);
@@ -91,12 +89,12 @@ async function extractStaticImages(videoPath, episodeImagesDir) {
         width: Math.floor(videoWidth * cropConfig.width),
         height: Math.floor(videoHeight * cropConfig.height),
         left: Math.floor(videoWidth * cropConfig.left),
-        top: Math.floor(videoHeight * cropConfig.height)
+        top: Math.floor(videoHeight * cropConfig.top)
     } : { width: videoWidth, height: videoHeight, left: 0, top: 0 };
 
     if (config.imageExtraction.debug) {
-        console.log(`Video dimensions: ${videoWidth}x${videoHeight}`);
-        if (cropConfig.enabled) console.log('Crop area for analysis:', cropArea);
+        console.log(`${logPrefix} Video dimensions: ${videoWidth}x${videoHeight}`);
+        if (cropConfig.enabled) console.log(`${logPrefix} Crop area for analysis:`, cropArea);
     }
 
     await new Promise((resolve, reject) => {
@@ -108,110 +106,109 @@ async function extractStaticImages(videoPath, episodeImagesDir) {
     });
 
     const frameFiles = (await fs.readdir(tempFramesDir)).sort();
-    if (frameFiles.length === 0) return [];
+    if (frameFiles.length < 4) {
+        console.warn(`${logPrefix} Not enough frames extracted for image analysis. Found only ${frameFiles.length}.`);
+        await cleanupDir(tempFramesDir);
+        return [];
+    }
 
-    // --- STAGE 1: Candidate Discovery ---
-    const candidateFramePaths = [];
-    const skip = 1;
+    console.info(`${logPrefix} Extracted ${frameFiles.length} frames. Starting image analysis...`);
+    const concurrency = config.imageExtraction.maxConcurrency ? config.imageExtraction.maxConcurrency : os.cpus().length;
+    const limit = pLimit(concurrency);
+    console.log(`${logPrefix} Starting analysis with a concurrency of ${concurrency}...`);
 
-    for (let i = skip; i < frameFiles.length; i+=skip) {
-        const triggerSimilarity  = await getSimilarity(
-            path.join(tempFramesDir, frameFiles[i - skip]),
-            path.join(tempFramesDir, frameFiles[i]),
-            cropArea
-        );
-
-        
-        if (config.imageExtraction.debug) {
-            console.log(`Frame ${i} vs ${i-1} (Trigger Check): Similarity = ${triggerSimilarity.toFixed(4)}`);
-        }
-
-        // If the similarity drops, a potential new scene has appeared at frame 'i'.
-        if (triggerSimilarity < config.imageExtraction.similarityThreshold) {
-            if (config.imageExtraction.debug) {
-                console.log(`  - Potential change detected at Frame ${i}. Checking for stability...`);
-            }
-            
-            // 2. STABILITY CHECK 1: Compare the new frame 'i' to the next frame 'i+1'.
-            const stabilityCheck1 = await getSimilarity(
-                path.join(tempFramesDir, frameFiles[i]),
-                path.join(tempFramesDir, frameFiles[i + skip]),
-                cropArea
-            );
-
-            if (stabilityCheck1 > config.imageExtraction.similarityThresholdUpperCheck) {
-                // First check passed. The scene is stable for at least one frame.
-                
-                // 3. STABILITY CHECK 2: Compare frame 'i+1' to 'i+2'.
-                const stabilityCheck2 = await getSimilarity(
-                    path.join(tempFramesDir, frameFiles[i + skip]),
-                    path.join(tempFramesDir, frameFiles[i + (skip * 2)]),
+    const tasks = [];
+    for (let i = 5; i < frameFiles.length - 2; i++) {
+        const currentIndex = i;
+        tasks.push(limit(async () => {
+            // --- Enhanced Debugging ---
+            const prevFrameId = frameFiles[currentIndex - 1]
+            const frameId = frameFiles[currentIndex];
+            const nextFrameId = frameFiles[currentIndex + 1];
+            const nextNextFrameId = frameFiles[currentIndex + 2];
+            try {
+                const triggerSimilarity = await getSimilarity(
+                    path.join(tempFramesDir, prevFrameId),
+                    path.join(tempFramesDir, frameId),
                     cropArea
                 );
 
-                if (stabilityCheck2 > config.imageExtraction.similarityThresholdUpperCheck) {
-                    const frameToSave = frameFiles[i];
-                    candidateFramePaths.push(path.join(tempFramesDir, frameToSave));
-                    if (config.imageExtraction.debug) {
-                        console.log(`    - STABILITY CONFIRMED. Frame ${i} is a candidate.`);
-                    }
-                    
-                    i += (skip * 2);
-                } else {
-                    if (config.imageExtraction.debug) {
-                        console.log(`    - Stability check 2 FAILED (Similarity: ${stabilityCheck2.toFixed(4)})`);
+                // Log the first check's result
+                //console.log(`[${frameId}] Trigger similarity: ${triggerSimilarity.toFixed(4)} (Threshold: < ${config.imageExtraction.similarityThreshold})`);
+
+                if (triggerSimilarity < config.imageExtraction.similarityThreshold) {
+                    console.log(`[${frameId}] [i=${currentIndex}] PASSED trigger check. Now checking stability... for ${nextFrameId} and ${nextNextFrameId}`);
+
+                    const [stabilityCheck1, stabilityCheck2] = await Promise.all([
+                        getSimilarity(path.join(tempFramesDir, frameId), path.join(tempFramesDir, nextFrameId), cropArea),
+                        getSimilarity(path.join(tempFramesDir, nextFrameId), path.join(tempFramesDir, nextNextFrameId), cropArea)
+                    ]);
+
+                    // Log the stability checks' results
+                    console.log(`[${frameId}] Stability checks: ${nextFrameId}=${stabilityCheck1.toFixed(4)}, ${nextNextFrameId}=${stabilityCheck2.toFixed(4)} (Threshold: > ${config.imageExtraction.similarityThresholdUpperCheck})`);
+
+                    if (stabilityCheck1 > config.imageExtraction.similarityThresholdUpperCheck && stabilityCheck2 > config.imageExtraction.similarityThresholdUpperCheck) {
+                        console.log(`[${frameId}] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
+                        console.log(`[${frameId}] PASSED stability checks. This is a candidate.`);
+                        console.log(`[${frameId}] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
+                        const candidatePath = path.join(tempFramesDir, frameId);
+                        return { path: candidatePath, index: currentIndex };
+                    } else {
+                        console.log(`[${frameId}] FAILED stability checks.`);
                     }
                 }
-            } else {
-                if (config.imageExtraction.debug) {
-                    console.log(`    - Stability check 1 FAILED (Similarity: ${stabilityCheck1.toFixed(4)})`);
-                }
+            } catch (error) {
+                // This is critical. If errors are happening, this will tell you.
+                console.error(`[${frameId}] CRITICAL ERROR during processing:`, error);
+            }
+            return null; // Return null if any check fails or an error occurs
+        }));
+    }
+
+    const results = await Promise.all(tasks);
+
+    const candidateFramePaths = [];
+    const usedIndexes = new Set();
+    const sortedCandidates = results.filter(Boolean).sort((a, b) => a.index - b.index);
+
+    // This part of the logic is likely correct, but it depends on sortedCandidates having items.
+    if (sortedCandidates.length === 0) {
+        console.warn(`${logPrefix} No candidate frames were found after parallel processing. Check the logs above for failures or errors.`);
+    } else {
+        for (const candidate of sortedCandidates) {
+            if (!usedIndexes.has(candidate.index)) {
+                candidateFramePaths.push(candidate.path);
+                usedIndexes.add(candidate.index + 1);
+                usedIndexes.add(candidate.index + 2);
             }
         }
     }
 
-    console.log(`Found ${candidateFramePaths.length} candidate images. Starting de-duplication...`);
-
-    // --- STAGE 2: try to remove duplicates ---
+    console.log(`${logPrefix} Analysis complete. Found ${candidateFramePaths.length} total candidate images.`);
+    console.log(`${logPrefix} Found ${candidateFramePaths.length} candidate images. De-duplicating...`);
     const uniqueFramePaths = [];
     if (candidateFramePaths.length > 0) {
-        // The first candidate is always unique.
         uniqueFramePaths.push(candidateFramePaths[0]);
-
         for (let i = 1; i < candidateFramePaths.length; i++) {
-            const currentCandidatePath = candidateFramePaths[i];
             let isDuplicate = false;
             for (const uniquePath of uniqueFramePaths) {
-                const similarity = await getSimilarity(currentCandidatePath, uniquePath, cropArea);
-                // A high similarity means it's a duplicate of an existing unique image.
-                if (similarity > config.imageExtraction.similarityThreshold) {
+                if (await getSimilarity(candidateFramePaths[i], uniquePath, cropArea) > config.imageExtraction.similarityThreshold) {
                     isDuplicate = true;
                     break;
                 }
             }
-            if (!isDuplicate) {
-                uniqueFramePaths.push(currentCandidatePath);
-            }
+            if (!isDuplicate) uniqueFramePaths.push(candidateFramePaths[i]);
         }
     }
 
-    if (config.imageExtraction.debug) {
-        console.log(`Found ${uniqueFramePaths.length} unique images after de-duplication.`);
-    }
-
-    // --- STAGE 3: Final Save ---
     const finalRelativePaths = [];
-    console.log('Copying unique images to final directory...');
     for (let i = 0; i < uniqueFramePaths.length; i++) {
         const sourcePath = uniqueFramePaths[i];
-        const imageIndex = (i + 1).toString().padStart(3, '0');
-        const destPath = path.join(episodeImagesDir, `${imageIndex}.png`);
-        const relativePath = path.relative(baseTranscriptionDir, destPath).replace(/\\/g, '/');
-
+        const destPath = path.join(episodeImagesDir, `${String(i + 1).padStart(3, '0')}.png`);
         await fs.copyFile(sourcePath, destPath);
-        finalRelativePaths.push(relativePath);
+        finalRelativePaths.push(path.relative(baseTranscriptionDir, destPath).replace(/\\/g, '/'));
     }
-    
+
     await cleanupDir(tempFramesDir);
     return finalRelativePaths;
 }
@@ -253,10 +250,9 @@ async function main() {
 
                 const ytDlpProcess = ytDlp.exec([
                     episode.url,
-                    '--no-cookies-from-browser',
-                    '--cookies', config.youtubeCookiePath,
+                    '--cookies-from-browser', 'firefox',
                     '-o', path.join(tempVideoDir, '%(id)s.%(ext)s'),
-                    '-f', 'bestvideo[height<=720][ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best',
+                    '-f', 'bestvideo[height<=480][ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best',
                     //'-f', 'bestvideo[ext=mp4]+bestaudio[ext=a]/best[ext=mp4]/best',
 
                 ]);

@@ -1,0 +1,1432 @@
+[00:00.000 --> 00:06.720]  Hello and welcome to another episode of The Regulation Podcast. This is episode 67. My
+[00:06.720 --> 00:12.500]  name is Geoff Ramsey. With me, as always, Andrew Panton, Nick Schwartz, Gavin Free, Eric Baudour.
+[00:12.940 --> 00:15.660]  Today is a Gavin episode. Gavin, take it away.
+[00:16.620 --> 00:17.220]  Hello.
+[00:17.780 --> 00:18.760]  Back to you, Geoff.
+[00:20.000 --> 00:24.080]  Thank you for listening to The Regulation Podcast, apparently.
+[00:24.400 --> 00:25.160]  It's pretty good.
+[00:25.720 --> 00:27.020]  God damn it.
+[00:28.720 --> 00:32.420]  I'm like the one in volleyball that just goes straight up with it in front of the net.
+[00:32.860 --> 00:39.240]  Gavin turned yes and to just a mirror. He just bounced right back at me.
+[00:39.400 --> 00:42.140]  Isn't that every player in volleyball? Isn't it just part of volleyball?
+[00:42.820 --> 00:46.980]  He's the setter, but Geoff was also the setter. So instead of box set spike,
+[00:47.140 --> 00:48.820]  it was just set, set, nothing.
+[00:50.780 --> 00:52.240]  Set, set, floor.
+[00:53.320 --> 00:56.320]  Oh, Christ. I got nothing today.
+[00:57.340 --> 01:01.000]  I was trying to give it to Gavin. I was trying to smoothly transition into Gavin.
+[01:01.060 --> 01:05.160]  Then I figured Gavin, being the professional that he is with his 10,000 hours of experience
+[01:05.160 --> 01:10.260]  under his belt, would intuit that and grab it and just run with an awesome episode of hilarity.
+[01:10.320 --> 01:14.220]  You just said you have nothing. Why are you calling out his professionalism?
+[01:15.140 --> 01:16.160]  That is true.
+[01:16.400 --> 01:18.100]  To come with nothing.
+[01:18.580 --> 01:21.100]  I came in, I got nothing. Wow, man. Cool. Hell yeah.
+[01:21.260 --> 01:23.080]  All right, fine. You know what? I'll make something up right now.
+[01:25.660 --> 01:32.160]  Uh, what do you think the most? Here we go. Here we go. I, uh, I saw a snake.
+[01:32.460 --> 01:33.420]  You saw a snake?
+[01:33.960 --> 01:34.760]  I saw a snake.
+[01:35.540 --> 01:38.100]  Weren't you hoping that you'd never see a snake again or something?
+[01:38.340 --> 01:41.180]  Yeah, I had, I had, I had invented snake follows.
+[01:41.260 --> 01:45.880]  Is this real? Because you just, this open with, I need to make something up.
+[01:46.060 --> 01:49.720]  Yeah. Is this real? No, that's weird. I'm just looking through my notes. It just kept slipping
+[01:49.720 --> 01:51.740]  into my notes further down. What notes? You said you had no notes.
+[01:51.740 --> 01:56.160]  I have, I always have notes. I just don't have anything fucking awesome. Here are my notes.
+[01:56.340 --> 02:00.760]  Uh, I, I found an infographic for the most expensive materials on earth. I was on the
+[02:00.760 --> 02:04.300]  fence on whether that would be worth talking about with you guys or not. I didn't consider
+[02:04.300 --> 02:08.280]  that to be a material. So even though it's in my notes, I didn't consider it something I,
+[02:08.500 --> 02:12.560]  that was like a filler. If something came up, then I was doing some research on something.
+[02:12.560 --> 02:16.820]  All right. About whether I was faster than a bird or not. And I did find one bird that
+[02:16.820 --> 02:19.960]  I'm definitely faster than, and that bird had a lot of funny nicknames.
+[02:19.960 --> 02:24.660]  I was probably going to bring that up, but I didn't feel like that was lead the podcast material.
+[02:24.720 --> 02:29.400]  So I was going to bury it somewhere 15 minutes or so in. You see what I mean? Then I do,
+[02:29.440 --> 02:32.320]  all right, here's one good one that I, that's a little further down that I missed. The other
+[02:32.320 --> 02:37.440]  morning I woke up with an idea in my head. Okay. Okay. This I think is a material and I just had it
+[02:37.440 --> 02:42.900]  too far down. The other day I woke up, I woke up with an idea in my head. I was laughing as I had
+[02:42.900 --> 02:47.100]  the idea. As I woke up from it, I immediately thought I'm going to forget this idea. Let me
+[02:47.100 --> 02:52.420]  write down the essentials of it. And then I'll go back to sleep. Forgot about that until just
+[02:52.420 --> 02:56.240]  this moment when I see it kind of buried halfway on my notes, because I woke up in the middle of
+[02:56.240 --> 02:59.980]  the night to write it down. And so I didn't put it at the top of the notes. And I have no idea
+[02:59.980 --> 03:05.400]  what this fucking means. I had invented a game. Maybe you guys can help me out. Okay. The game
+[03:05.400 --> 03:12.500]  is called Dish Dish Clean Piss. And then if it, then it's, here are the only other two notes I
+[03:12.500 --> 03:23.260]  have. Bad Dish Dirty Piss or Good Dish No Piss. Well, so what immediately comes to mind is that
+[03:23.260 --> 03:27.500]  you're cleaning these dishes with your piss, but I don't know how, are you able to just piss on
+[03:27.500 --> 03:34.120]  command like that? I don't know. I, this was a game that I had envisioned that we would play
+[03:34.120 --> 03:39.820]  together in the office. I remember that looking at it. And then these were the notes that were
+[03:39.820 --> 03:44.500]  going to help jog my memory into the full game. But I don't know what piss is in this scenario.
+[03:44.660 --> 03:50.040]  I don't know if it's actual human piss or if it's. Maybe, maybe we take four plates. We all
+[03:50.040 --> 03:53.880]  have lunch. Three of them have been cleaned with water and one's been cleaned with piss.
+[03:55.260 --> 03:59.960]  And then we have to figure it out. This feels like an idea that Gavin's pitching where he's
+[03:59.960 --> 04:08.020]  just going to end up with the piss dish. You know what, Kev? Oh no. Oh no. I lose again.
+[04:09.000 --> 04:12.760]  You know what, Kev? Yeah. That idea sounds really familiar.
+[04:16.060 --> 04:20.580]  You might, you might be onto something. It might've been a situation where there were like
+[04:20.580 --> 04:25.360]  three clean dishes and one dish that had piss on it and somebody got the piss dish. That sounds,
+[04:26.020 --> 04:30.760]  that sounds really right. I would not call that an A idea.
+[04:33.360 --> 04:38.100]  I like it. I just don't think anyone actually wants to play it. And I don't think anyone wants
+[04:38.100 --> 04:44.640]  to see it is the problem. I, I don't like it at all. I like the idea. That's lose, lose. That's
+[04:44.640 --> 04:48.420]  audience lose. That's we lose. I don't think I would even tell people that we played that.
+[04:49.040 --> 04:54.200]  I agree, but it was in my notes and you, you guys challenged me when I said I didn't have
+[04:54.200 --> 04:57.740]  anything. So I had to prove to you that I didn't have anything. So did this snake piss on the
+[04:57.740 --> 05:03.240]  dish? No, I saw the snake on my bike ride the other day. Uh, actually it was about three weeks
+[05:03.240 --> 05:07.980]  ago now. Um, you know, I had the whole snake follows revelation and realized that events were
+[05:07.980 --> 05:13.100]  being set into motion to put a snake in front of me at some point in the undefined future.
+[05:13.100 --> 05:19.920]  And that undefined future was about two episodes ago. And, uh, I almost rode over it on my bicycle.
+[05:19.920 --> 05:23.700]  That's all I was just riding through the woods. I was right. I was cutting through a, uh,
+[05:23.700 --> 05:31.620]  Frisbee golf course. And, uh, so was the snake, the big black is like maybe three feet long.
+[05:31.780 --> 05:37.080]  I thought it was an ugly stick for a second. And I swerved just not to hit a stick. And then I
+[05:37.080 --> 05:42.200]  realized it was moving. And then I, you know, threw up in my mouth a little bit and almost shit my
+[05:42.200 --> 05:47.860]  pants and, uh, rode home immediately and ended my ride. And that was, I was done. That took the wind
+[05:47.860 --> 05:51.800]  out of my sails. I like that you noted that it was an ugly stick. Yeah, it looked weird. I didn't
+[05:51.800 --> 05:54.700]  like the look of it from the beginning. I didn't want to hit it with my bike. And then when I found
+[05:54.700 --> 05:59.760]  out that it was organs and teeth, I definitely didn't want to hit it. Maybe you were too focused
+[05:59.760 --> 06:11.100]  on dodging golf Frisbees. Dude, I love, I love, such a prick. I fucking love riding through their
+[06:11.100 --> 06:16.160]  dumb little Frisbee course. You're going to get clocked. They got good throwing. Well, I don't,
+[06:16.160 --> 06:20.780]  I am not worried about those athletes hitting me with a Frisbee. Are you fucking kidding?
+[06:21.160 --> 06:25.660]  Jack used to play disc golf. Exactly. I'm not worried about Jack hitting me with a Frisbee
+[06:25.660 --> 06:32.140]  from 75 feet away when I'm moving 18 miles an hour. No offense to Jack. Uh, but what it does
+[06:32.140 --> 06:37.580]  do is you hear a bunch of dudes sitting on coolers go, Oh man, as they got to wait while I ride by
+[06:37.580 --> 06:41.940]  before they can sling their Frisbee. It's fucking awesome. I have the opposite. If I feel like I'm
+[06:41.940 --> 06:47.360]  in the wrong place, I, I, I get so anxious. I'd freak out if I was. I need to leave immediately.
+[06:47.840 --> 06:53.860]  I start sweating. I become small. I would go underground sooner than stay around on someone's
+[06:53.860 --> 07:00.280]  sport course. Now in this situation, I'm the opposite of that. I look for reasons to cut
+[07:00.280 --> 07:06.580]  through that course to annoy them. Like it's a highlight. Yeah. That's a feature. And if you want
+[07:06.580 --> 07:10.620]  to go on bike rides with me, you can too. It's a lot of fun. I don't want this to happen to you,
+[07:10.620 --> 07:14.720]  but there is in my mind, a very funny montage of you making this declaration about how you're not
+[07:14.720 --> 07:19.860]  scared of them and then cut to you and like an upper body cast. Cause one of their things got
+[07:19.860 --> 07:26.680]  in your bike wheel and it made you tumble. Dude, I wouldn't even be mad if that happened. That
+[07:26.680 --> 07:32.420]  would be so fucking funny. I would applaud them for the shot. Oh, what if you totally fair?
+[07:33.060 --> 07:37.320]  I've maybe, maybe it should be. It's fine in the rules if someone goes through on a bike,
+[07:37.320 --> 07:41.640]  but they have to be wearing a bullseye shirt. Oh, it doesn't even need to be a bullseye shirt.
+[07:41.780 --> 07:46.440]  Because like if you go to a driving range in golf, everybody targets the little cart that
+[07:46.440 --> 07:51.460]  comes to collect the balls. So like, I feel like that's you, Geoff. Yeah. You're the cart.
+[07:51.780 --> 07:58.700]  I'm the golden snitch. If they hit me, they win the day. It's like when you're playing a game where
+[07:58.700 --> 08:02.300]  you're trying to accumulate score and there's a bonus round, like every five levels, you're the
+[08:02.300 --> 08:07.400]  round. You get, they get a bunch of points if they hit you, but they probably want less points,
+[08:07.560 --> 08:13.780]  but bonus points if they can hit me hard enough to make the bike change directions. Oh, I have
+[08:13.780 --> 08:17.640]  to ask a question about that. The rant you went on just then. Um, did you call your podcast?
+[08:17.880 --> 08:27.860]  Something? All right. Did I? I didn't say anything because I'm benevolent, but here's Gavin.
+[08:30.620 --> 08:33.320]  Well, would you agree with that, Gavin? Is this podcast something all right?
+[08:34.580 --> 08:40.300]  I, yeah, it's, yeah. He doesn't know. He's never listened to it. I looked up, I looked up,
+[08:41.020 --> 08:46.920]  but I looked up the slowest bird to ever fly. It is the American woodcock. Would you like to
+[08:46.920 --> 08:52.280]  guess how slow the American woodclock, woodclock, woodcock can fly? The American woodcock.
+[08:53.020 --> 08:57.280]  Yeah. American woodcock. Is it possible that I've seen a woodcock and don't even know it?
+[08:58.040 --> 09:02.940]  Yeah, because it's this stupid ass looking little bird. He's this little dumb guy. He's
+[09:02.940 --> 09:06.200]  this like little, I like this guy, like an idiot bird. This is a real idiot animal.
+[09:06.380 --> 09:11.920]  So he has a long beak and he's kind of like a chunky fella. Yeah. Looks a little bit like a
+[09:11.920 --> 09:15.460]  Kiwi. Does look a little bit like a Kiwi. He does look a little bit like a Kiwi, but he's not. He's
+[09:15.460 --> 09:20.360]  American woodcock. I would say, well, what, can you just hover in place? Is it zero? No, no,
+[09:20.360 --> 09:32.220]  it's not zero. It's motion. Four miles an hour. Four miles an hour. No, but you're very close.
+[09:32.640 --> 09:39.220]  The American woodcock, when horny. Wait, horny? What is with you and that? The American woodcock,
+[09:39.400 --> 09:45.540]  when horny, it flies slower when it's putting on a show for the ladies, when it's trying to
+[09:45.540 --> 09:50.900]  attract women, you know, when it's like presenting it at its slowest, it's been clocked
+[09:51.660 --> 09:57.400]  at five miles an hour. Oh, okay. Wow. That's close. So you could probably walk faster than
+[09:57.400 --> 10:00.700]  that thing could fly. However, that's not the interesting thing about that little fucker.
+[10:01.000 --> 10:06.140]  The interesting thing about it is all of its nicknames. It is colloquially referred to as,
+[10:06.220 --> 10:12.040]  this sounds like the lineup of an entire, of like a double A ball league, the timber doodle,
+[10:12.040 --> 10:18.580]  the mud bat, the hog sucker, the bog sucker, the night partridge, the Labrador twister,
+[10:18.780 --> 10:24.900]  the brush snipe, the hokum poke, or the beckacy. Those are all nicknames for that little bird.
+[10:25.280 --> 10:30.000]  The night partridge. It was like when I look up a random wrestler and I look at their nicknames,
+[10:30.060 --> 10:35.400]  what you just said. Yeah. Just bog sucker. Random absurd. Yeah, it must get down in the
+[10:35.400 --> 10:39.720]  bog with its long beak. Well, yeah, he can get really down there and then he can call out for
+[10:39.720 --> 10:43.520]  anyone. Have you guys heard the little sound he makes? No, Eric is going to play it. He's live.
+[10:43.620 --> 10:48.340]  Yeah. Check it out. Yeah. Check it out. This is the little sound that he makes.
+[10:48.380 --> 10:49.800]  Now, is he horny when he's making this?
+[10:54.460 --> 11:00.740]  And that should be, that should be the noise they play when everybody, when somebody on the Fort
+[11:00.740 --> 11:06.200]  Wayne bog suckers hits a home run. Geoff is better than this bird in every way.
+[11:06.200 --> 11:10.600]  I want to get Woodcock text message tone, I think.
+[11:11.720 --> 11:17.360]  That would be so annoying. Like when the group text is going off and you're just like, God,
+[11:17.420 --> 11:22.480]  this fucking bird. And that's the kind of information you can learn about on my other
+[11:22.480 --> 11:29.040]  podcast, Something All Right. I wish the Woodcock was faster than you normally, but
+[11:29.040 --> 11:33.380]  slower when horny. I wish it was the thing where you're only faster when it was horny.
+[11:33.380 --> 11:36.700]  So it flies in migration at around like 14 miles an hour.
+[11:36.920 --> 11:38.220]  Okay. Okay.
+[11:38.880 --> 11:40.560]  It slows down significantly when it gets.
+[11:40.780 --> 11:41.120]  That's sort of what I want.
+[11:41.280 --> 11:41.980]  Yeah. That's great.
+[11:42.260 --> 11:45.180]  Is its cock a massive sail when it pops out?
+[11:45.540 --> 11:48.140]  Yeah, I think it slows it down. It takes on too much drag.
+[11:48.300 --> 11:49.320]  I think when it pops out, it goes.
+[11:52.220 --> 11:54.080]  I've, uh, I've some regulation news.
+[11:55.020 --> 11:55.820]  Regulation news.
+[11:56.640 --> 11:59.320]  Oh, and I've just realized I've absolutely Geoffed this picture.
+[11:59.580 --> 12:00.720]  Oh no.
+[12:01.800 --> 12:02.200]  Jesus.
+[12:02.200 --> 12:04.320]  So it's going to be like the wrong way.
+[12:04.360 --> 12:06.560]  Go ahead and send it. Go ahead and send it and then redo it.
+[12:06.560 --> 12:08.240]  Oh, it is such a Geoff.
+[12:08.380 --> 12:09.380]  You fucking blew it.
+[12:09.720 --> 12:15.800]  I Geoffed it. Anyway, my, uh, my slopper clock stopped and I was so bummed. It didn't stop.
+[12:15.860 --> 12:17.440]  It stopped. It was stopped. What?
+[12:21.280 --> 12:24.400]  But can you imagine if it stopped at slopper clock?
+[12:26.020 --> 12:28.980]  Would have been tremendous. I would play the lottery that day.
+[12:29.540 --> 12:31.040]  Yeah, that's the lucky day.
+[12:31.580 --> 12:34.400]  Or you're doomed for forever sloppiness.
+[12:34.860 --> 12:35.340]  Yeah.
+[12:35.820 --> 12:38.620]  You're just cursed. You're cursed in a constant state of slop.
+[12:40.300 --> 12:44.560]  I want to know if anyone else who, well, the six other people who bought the slopper clock.
+[12:44.800 --> 12:48.420]  Amazing clock, by the way. I don't know if any of your clocks have stopped.
+[12:48.560 --> 12:49.200]  Oh, mine has.
+[12:49.480 --> 12:50.700]  Any of them were close to slopper clock.
+[12:51.140 --> 12:53.360]  Have you ever had a slop stop on slop?
+[12:55.620 --> 12:59.280]  My slopper clock is currently stopped at 7.05.
+[12:59.280 --> 13:01.200]  Oh, yours also stopped.
+[13:01.400 --> 13:02.860]  Oh yeah, mine stopped a long time ago.
+[13:03.400 --> 13:06.740]  I don't think I ever put batteries in mine and just set it to slopper clock and I leave it in
+[13:06.740 --> 13:10.460]  the background. That's smart. That might be the way to do it.
+[13:10.460 --> 13:14.620]  It's a decorative piece. It's a decorative piece that nobody bought and then now people want and
+[13:14.620 --> 13:20.700]  we don't have. Yeah, I do find there to be a sort of a hilarious irony in the fact that I get it
+[13:20.700 --> 13:24.540]  requested constantly from people now. Look at, look at where mine stopped.
+[13:25.160 --> 13:26.800]  No way. Are you serious?
+[13:26.800 --> 13:28.940]  It's like the exact same time. What the fuck?
+[13:29.580 --> 13:33.060]  Do we have the most consistent batteries on the planet? Are you serious?
+[13:34.700 --> 13:35.400]  How is that?
+[13:36.180 --> 13:38.200]  So if you start your slopper clock.
+[13:38.500 --> 13:41.080]  Oh, even the second hand is almost as close.
+[13:41.340 --> 13:43.980]  But it's like, it's off by like what, like one minute?
+[13:44.540 --> 13:45.120]  It's like one minute.
+[13:45.120 --> 13:45.900]  Wow, that's crazy.
+[13:46.720 --> 13:49.660]  Yeah, but Gavin's was a.m. and this is clearly p.m.
+[13:51.660 --> 13:54.180]  No, I wonder if they stopped on the same day.
+[13:54.420 --> 13:56.280]  Like, I wonder if that was actually a minute apart.
+[13:56.800 --> 14:00.060]  Is there still a AA battery? Is that constant?
+[14:00.480 --> 14:00.900]  No.
+[14:01.100 --> 14:03.680]  Consistent? I'm blown away by that.
+[14:04.000 --> 14:06.240]  Me too. It's quite the coincidence.
+[14:07.320 --> 14:11.380]  I like that, um, when Geoff went to give the owner of Narnia the slopper clock,
+[14:11.500 --> 14:16.740]  he accidentally gave him a cookbook. And then, and then when I, and then when I met him,
+[14:17.300 --> 14:21.240]  we were, we were still debating if we had any slopper clocks around. So I said I would give him
+[14:21.240 --> 14:25.960]  mine, but then Geoff found an extra. So thankfully I still got my slopper clock.
+[14:25.960 --> 14:29.820]  That's awesome. So, uh, how did he receive that, Geoff? Was he really excited?
+[14:30.300 --> 14:32.740]  Oh, I haven't taken it to him yet because we haven't, we haven't been back there,
+[14:32.840 --> 14:34.360]  but it is in the office.
+[14:35.100 --> 14:36.120]  Let's go today.
+[14:36.280 --> 14:39.460]  It's been on the bit barrel for so long.
+[14:39.620 --> 14:43.440]  Well, the bit barrel just went through a bit of a transformation, so it's, uh.
+[14:43.440 --> 14:45.160]  Oh wow, you have a bit barrel update?
+[14:46.120 --> 14:49.320]  A bit barrel is now 100% complete.
+[14:49.600 --> 14:49.960]  Done?
+[14:51.380 --> 14:55.120]  It's done. We got the drill bit in, which, Gav, I don't know, did you,
+[14:55.120 --> 14:56.860]  I think you took video of it, right?
+[14:57.160 --> 14:58.440]  I took video. I can, while you're talking,
+[14:58.540 --> 15:00.180]  I can actually just trim out a section and post.
+[15:00.520 --> 15:05.180]  Yeah, yeah. It's probably not an OSHA approved video, but, uh, we got the...
+[15:06.100 --> 15:09.420]  When you say trim out a section post, do you mean now or in like three weeks
+[15:09.420 --> 15:10.760]  and then tell me you're being sarcastic?
+[15:10.780 --> 15:13.180]  Well, he's going to trim it now, but he's going to show it to you in three weeks.
+[15:13.280 --> 15:14.160]  Post for you, Andrew.
+[15:14.740 --> 15:17.900]  It's a, it's a long clip, so I'm going to have to, I'm going to have to make it discordable.
+[15:18.440 --> 15:18.680]  Okay.
+[15:18.900 --> 15:22.860]  I bought a drill bit. I just, it's hard to tell when you're buying stuff on Amazon.
+[15:22.860 --> 15:27.280]  So I just bought the biggest drill bit I could find for a metal drill bit.
+[15:27.360 --> 15:31.200]  It looks like kind of a pyramid, almost like a cylindrical pyramid.
+[15:32.620 --> 15:36.900]  And, uh, it came in, it was fucking, it weighed as much as the drill.
+[15:37.140 --> 15:40.360]  It was so fucking heavy and the neck on it was so thick.
+[15:40.480 --> 15:44.760]  I didn't know that it would fit into the, into the drill casing, but it did.
+[15:44.820 --> 15:45.720]  It just barely fit.
+[15:46.220 --> 15:50.620]  And, uh, and at this point I was hoping Gavin would have the video ready because
+[15:50.620 --> 15:53.900]  I don't know how much further I can vamp on the size of a drill bit.
+[15:54.180 --> 15:58.340]  It was so, it was smaller than a bread box, but still very big.
+[15:58.820 --> 15:59.560]  Oh, wow.
+[16:00.260 --> 16:01.260]  Nothing? Okay.
+[16:02.520 --> 16:05.560]  I just don't want to help Gavin in this situation. I just want him to.
+[16:06.560 --> 16:08.040]  No, it's still too big for this.
+[16:09.080 --> 16:11.320]  You can put it in slack. What are you doing?
+[16:12.660 --> 16:16.980]  Unintended consequence is that, uh, Gavin and I got absolutely
+[16:16.980 --> 16:21.500]  dr-doused in hot metal shavings.
+[16:22.940 --> 16:27.200]  And, uh, I had to go home and take all my clothes off and put them in the washing machine
+[16:27.200 --> 16:29.420]  and take a shower because I was covered in metal slivers.
+[16:30.020 --> 16:32.780]  And, uh, it was brutal. Luckily I was, you know, wearing safety goggles.
+[16:33.300 --> 16:35.500]  You put metal slivers in a washing machine? Is that okay?
+[16:35.620 --> 16:37.160]  Sure. Yeah, it'd be fine.
+[16:37.760 --> 16:39.160]  Yeah, where else do you want them to go?
+[16:39.600 --> 16:42.420]  Yeah, they'll get pulled out into the water and then sucked down a tube.
+[16:43.160 --> 16:45.500]  It probably would have been bad if you walked past a magnet on the way home.
+[16:45.500 --> 16:46.780]  It might have been great.
+[16:46.960 --> 16:47.720]  Oh. Yeah.
+[16:48.000 --> 16:48.560]  Final destination style.
+[16:48.580 --> 16:50.180]  I'm gonna hit play on this thing. You guys ready?
+[16:50.360 --> 16:50.880]  Yeah, I'm ready.
+[16:51.460 --> 16:54.640]  Okay, here we go. I'm gonna hit play in three, two, one.
+[16:55.240 --> 16:57.120]  Yeah, I know, we're all playing at the same time.
+[16:57.260 --> 17:01.680]  Oh my god. You didn't even, like, secure... this is crazy.
+[17:03.920 --> 17:04.460]  What's up?
+[17:06.800 --> 17:08.400]  I secured it with my hands.
+[17:09.020 --> 17:09.200]  Yeah!
+[17:10.620 --> 17:12.800]  It... the drill looks like it's shacuring.
+[17:13.860 --> 17:14.660]  It's just...
+[17:14.660 --> 17:15.100]  Yeah.
+[17:15.980 --> 17:17.300]  Shaking left and right.
+[17:18.760 --> 17:22.840]  I bought some, uh, I bought some, uh, sandpaper, too,
+[17:22.880 --> 17:24.540]  because we got some pretty jagged edges on this.
+[17:24.680 --> 17:25.680]  Oh, it would be so sharp.
+[17:26.220 --> 17:27.380]  I'm gonna sand down.
+[17:27.900 --> 17:33.620]  And I believe the, uh, I bought, like, a little mini, uh, leaf blower.
+[17:33.760 --> 17:35.560]  I think it came in yesterday, so we are ready to go.
+[17:35.820 --> 17:38.620]  We just need to fill the bit barrel with bits.
+[17:38.840 --> 17:40.060]  Do we do that with Falcons?
+[17:40.460 --> 17:41.540]  I think we do it with Falcons.
+[17:41.560 --> 17:42.780]  Yeah, okay. All right, we'll do it.
+[17:42.780 --> 17:44.900]  Our next Falcon event maybe will be the, uh,
+[17:45.140 --> 17:47.520]  getting together with the Falcons and find old bits,
+[17:47.640 --> 17:49.740]  writing them down, throwing them in the bit barrel, baby.
+[17:50.440 --> 17:51.940]  I thought you would have gone for a hole saw,
+[17:52.020 --> 17:54.920]  like a drill, like a normal drill bit with, like, the ring around it.
+[17:54.940 --> 17:55.200]  Yeah.
+[17:55.800 --> 17:58.980]  I just googled best metal, uh, metal hole saw,
+[17:59.120 --> 18:00.400]  and that's what they came up with.
+[18:00.500 --> 18:01.600]  Maybe it's... I know the one...
+[18:01.600 --> 18:03.740]  I've had the one you've talked about before for wood,
+[18:03.860 --> 18:05.760]  but I've never used it for metal before, so I don't know.
+[18:05.960 --> 18:07.060]  That's fair. Maybe they're just for wood.
+[18:07.640 --> 18:09.740]  I'd like to see you use a pickaxe next time.
+[18:10.100 --> 18:12.480]  Just go full swing, create a big hole.
+[18:13.360 --> 18:14.420]  I'm down for that.
+[18:14.480 --> 18:15.060]  I think it'd be good.
+[18:15.180 --> 18:17.000]  Anyway, I think the hole's big enough.
+[18:18.240 --> 18:20.840]  We'll find out. And if it isn't, it's sort of awesome.
+[18:21.040 --> 18:22.200]  I sort of love if it isn't.
+[18:22.600 --> 18:23.860]  Yeah, then we can... I can make it bigger.
+[18:24.920 --> 18:29.480]  Before we put the, uh, like, leaf blower in it
+[18:29.480 --> 18:31.900]  to, like, shoot the bit up to catch it and everything,
+[18:32.060 --> 18:34.360]  did you get the metal shavings out from inside of the barrel,
+[18:34.460 --> 18:35.460]  or are they still inside the barrel?
+[18:35.640 --> 18:36.680]  No, no, we cleaned it out.
+[18:36.940 --> 18:38.140]  Okay, good. I'm just making sure.
+[18:38.200 --> 18:39.700]  I just didn't want someone to look down,
+[18:39.820 --> 18:42.020]  the thing pops up, you get covered in metal shavings.
+[18:42.020 --> 18:46.180]  Yeah, we also didn't want to drag a thousand,
+[18:46.560 --> 18:49.680]  or probably a couple thousand, uh, slivers into the house.
+[18:49.980 --> 18:50.440]  So we cleaned it up.
+[18:50.440 --> 18:52.280]  No, I appreciate it. That's fantastic. It's great.
+[18:53.020 --> 18:54.480]  Yeah, this is... this is great.
+[18:54.700 --> 18:56.160]  Do we keep it over with, like, the suits?
+[18:56.220 --> 18:57.060]  Where are we putting the bit barrel?
+[18:57.620 --> 19:00.200]  Well, we have so much room now that we don't have the, uh,
+[19:00.700 --> 19:02.120]  pinball machine in the living room anymore.
+[19:02.260 --> 19:03.800]  You're putting it in the living room, you think?
+[19:04.480 --> 19:06.420]  Just right in the middle of where the coffee table was.
+[19:07.040 --> 19:07.940]  Right in the middle?
+[19:08.340 --> 19:08.920]  I don't know.
+[19:09.280 --> 19:10.660]  We can put it wherever you guys want, it doesn't matter.
+[19:10.760 --> 19:11.820]  We'll put it over by the suits, sure.
+[19:11.820 --> 19:12.980]  What if it was...
+[19:14.440 --> 19:15.820]  Yeah, maybe it should be right in the middle.
+[19:16.280 --> 19:17.700]  I think it should go in the streaming room.
+[19:17.780 --> 19:21.420]  I think it's a great, like, set decoration piece on, like, an end table.
+[19:22.180 --> 19:22.820]  But whatever.
+[19:23.880 --> 19:24.620]  That's fine, too.
+[19:25.140 --> 19:26.640]  Oh, it could go on Geoff's new set.
+[19:27.200 --> 19:27.940]  Geoff, you have a new set?
+[19:28.120 --> 19:29.460]  It can go... it can go anywhere.
+[19:29.680 --> 19:30.340]  Uh, the break room.
+[19:30.740 --> 19:32.040]  We got the break room pretty much done.
+[19:32.160 --> 19:32.940]  Oh, that's exciting.
+[19:33.500 --> 19:35.040]  Andrew, have you not been rolling around recently?
+[19:35.580 --> 19:37.140]  Uh, you know, I tried to do it the other day,
+[19:37.200 --> 19:38.900]  but my charge cable was too secure,
+[19:39.020 --> 19:41.140]  and I typically can just knock it off,
+[19:41.140 --> 19:43.040]  but I was tethered to the wall.
+[19:43.540 --> 19:44.400]  I could not escape.
+[19:45.280 --> 19:45.860]  He's trapped.
+[19:46.360 --> 19:47.700]  It's on a really weak magnet.
+[19:47.840 --> 19:49.000]  Usually you just drive away from it.
+[19:49.020 --> 19:52.020]  Yeah, typically I've been able to just go zipping on through,
+[19:52.340 --> 19:54.560]  but however I was placed last time I went,
+[19:54.700 --> 19:56.160]  it would not let me detach.
+[19:56.640 --> 19:58.000]  I was trying to take a little peek.
+[19:59.000 --> 20:00.060]  Should we charge you on a table
+[20:00.060 --> 20:02.340]  so you just drive off the table and definitely unplug?
+[20:02.720 --> 20:03.640]  Oh, that could be good.
+[20:04.040 --> 20:06.400]  Because there are new wires in there and it's a little tricky.
+[20:06.540 --> 20:08.260]  I'm having to figure out how to get past the wires
+[20:08.260 --> 20:09.300]  because the wires will tilt me.
+[20:09.380 --> 20:10.480]  Somebody save me, thankfully.
+[20:11.200 --> 20:14.140]  Last time I hopped in and was able to go around,
+[20:14.500 --> 20:17.740]  I immediately tipped on some heavier cables
+[20:17.740 --> 20:19.260]  that are now in that streaming room.
+[20:19.720 --> 20:21.280]  Yeah, it's a bit of a mess in the streaming room,
+[20:21.380 --> 20:24.680]  but it'll all get tucked away and finalized soon.
+[20:25.200 --> 20:27.140]  I was there for about an hour on my own the other day,
+[20:27.220 --> 20:28.840]  and I was just pretty lonely.
+[20:28.980 --> 20:30.380]  You didn't come to life or anything.
+[20:31.780 --> 20:33.100]  You should've... did you post?
+[20:33.640 --> 20:36.140]  I'll typically try to pop in if I see someone's going to be there.
+[20:37.720 --> 20:39.640]  If you didn't share it, how would I know?
+[20:39.720 --> 20:40.480]  Would I just censor it?
+[20:40.480 --> 20:41.420]  I just got to be there?
+[20:41.820 --> 20:42.940]  Sometimes you just pop out.
+[20:43.060 --> 20:43.800]  That is true.
+[20:44.020 --> 20:48.020]  Yeah, I guess to just assume that I got to scout soon.
+[20:48.540 --> 20:50.140]  I had to see what's going on with this office.
+[20:52.060 --> 20:53.600]  You know, between busy schedules,
+[20:53.740 --> 20:56.440]  summer plans, working on two shows and having a kid,
+[20:56.640 --> 20:58.820]  sometimes all I've got is a couple minutes.
+[20:59.320 --> 21:01.740]  Factor helps me eat smarter with tasty chef-prepped meals
+[21:01.740 --> 21:04.400]  that are dietitian approved and delivered right to my door.
+[21:04.540 --> 21:07.760]  And now with more than 65 weekly meals made for how I live
+[21:07.760 --> 21:08.900]  and what I like to eat,
+[21:08.900 --> 21:12.120]  I can pick gourmet meals that fit my summer gains and goals.
+[21:12.480 --> 21:14.000]  I can choose from options like calorie smart,
+[21:14.180 --> 21:16.460]  protein plus, keto, and more.
+[21:16.640 --> 21:18.100]  In fact, recently I've been utilizing
+[21:18.100 --> 21:19.900]  the calorie smart weekly menu.
+[21:20.020 --> 21:23.120]  I've been able to pick out stuff that's below 550 calories
+[21:23.120 --> 21:24.600]  that doesn't sacrifice flavor.
+[21:25.000 --> 21:27.160]  Most recently, I had the loaded mashed potatoes
+[21:27.160 --> 21:29.340]  and shredded chicken came with mushroom gravy,
+[21:29.620 --> 21:31.660]  smoked cheddar, bacon, and garlic broccoli.
+[21:31.800 --> 21:33.840]  And under 550 calories, get out of here.
+[21:34.220 --> 21:36.440]  I've got even more ways to fit in a real meal,
+[21:36.580 --> 21:37.640]  whatever the day takes me.
+[21:37.640 --> 21:40.240]  And you can too, support us by trying Factor.
+[21:40.440 --> 21:43.820]  Head over to factormeals.com slash regulation50off
+[21:43.820 --> 21:48.020]  and use code regulation50off to get 50% off your first box,
+[21:48.220 --> 21:50.300]  plus free breakfast for one year.
+[21:50.740 --> 21:52.880]  Choose from a wider selection of weekly meal options,
+[21:52.960 --> 21:55.680]  including premium seafood choices like salmon and shrimp,
+[21:55.780 --> 21:57.160]  all at no extra cost.
+[21:57.420 --> 21:59.620]  And try Asian inspired meals with bold flavors
+[21:59.620 --> 22:01.680]  influenced by China, Thailand, and more.
+[22:02.100 --> 22:03.780]  Feel the difference no matter your routine.
+[22:03.780 --> 22:07.620]  Eat smart at factormeals.com slash regulation50off
+[22:07.620 --> 22:11.540]  and use code regulation50off to get 50% off your first box,
+[22:11.840 --> 22:13.760]  plus free breakfast for one year.
+[22:13.940 --> 22:17.660]  That's code regulation50off at factormeals.com
+[22:17.660 --> 22:21.680]  for 50% off your first box, plus free breakfast for one year.
+[22:21.980 --> 22:24.640]  Get delicious, ready to eat meals delivered with Factor.
+[22:24.960 --> 22:27.540]  Offer only valid for new Factor customers with code
+[22:27.540 --> 22:29.800]  and qualifying auto-renewing subscription purchase.
+[22:30.160 --> 22:30.720]  Thanks Factor.
+[22:32.840 --> 22:34.700]  Can we get into something that I don't...
+[22:34.700 --> 22:38.560]  I'm like 80% sure that you said, but 20% it might have been a dream.
+[22:38.700 --> 22:40.860]  Okay, this is awesome.
+[22:41.180 --> 22:41.820]  This is real.
+[22:41.940 --> 22:43.360]  I'm so... let's lock in boys.
+[22:43.920 --> 22:45.480]  Did you say you have new cats?
+[22:45.800 --> 22:46.840]  I do have new cats.
+[22:47.320 --> 22:48.200]  You did say that.
+[22:48.840 --> 22:49.460]  I had a new episode.
+[22:49.560 --> 22:50.060]  Yeah, yeah, yeah.
+[22:50.320 --> 22:51.000]  I got new cats.
+[22:51.160 --> 22:51.920]  I've had cats.
+[22:52.120 --> 22:53.620]  New cats for like a month now.
+[22:54.340 --> 22:56.800]  And let me post some photos of them.
+[22:57.120 --> 22:58.020]  No, one is two.
+[22:58.140 --> 22:59.080]  One is six.
+[22:59.640 --> 23:00.400]  They're brothers.
+[23:00.400 --> 23:01.840]  They were bonded in the shelter.
+[23:01.960 --> 23:03.780]  So we got both of them at the same time.
+[23:04.540 --> 23:05.880]  They're little menaces.
+[23:06.540 --> 23:07.420]  It's become a problem.
+[23:08.100 --> 23:11.500]  One of them really likes watching birds on my phone.
+[23:11.780 --> 23:14.020]  But only when it's on top of me.
+[23:14.220 --> 23:16.900]  Because it happened the first time and I started laughing.
+[23:17.200 --> 23:20.560]  And I've become like a human D-box chair for this cat.
+[23:22.540 --> 23:25.360]  Not nearly as interesting unless it's on top of me.
+[23:25.400 --> 23:27.360]  And I'm like reacting in some way.
+[23:28.600 --> 23:32.100]  I can't imagine how D-box would work for a video about birds.
+[23:32.740 --> 23:33.020]  That's great.
+[23:33.180 --> 23:33.960]  Yeah, it doesn't sync.
+[23:34.080 --> 23:37.920]  I just, I think the movement, a little bit of movement is appreciated.
+[23:38.780 --> 23:41.620]  Here, let me post in the chat some photos of my cats.
+[23:41.880 --> 23:43.200]  Well, what are their names?
+[23:43.620 --> 23:46.000]  Marley and Calvin are my two cats.
+[23:47.640 --> 23:48.060]  Here we go.
+[23:48.160 --> 23:48.720]  Here's a photo.
+[23:48.940 --> 23:49.820]  Was that their names already?
+[23:50.420 --> 23:54.080]  No, they're terrible, terrible original names.
+[23:55.920 --> 23:57.720]  Like Hitler and Ava Braun?
+[23:57.900 --> 23:59.220]  Not that bad.
+[23:59.760 --> 24:03.180]  It was like Sir Purrington and something.
+[24:03.380 --> 24:04.380]  I feel like it was just...
+[24:04.380 --> 24:06.300]  He took away his knighthood?
+[24:06.940 --> 24:08.660]  Yeah, I think I denied him.
+[24:08.720 --> 24:09.500]  Now that I think about it.
+[24:09.680 --> 24:10.000]  Good.
+[24:10.320 --> 24:12.960]  Honestly, good with a name like that.
+[24:13.020 --> 24:13.680]  Oh my God.
+[24:14.020 --> 24:15.760]  Here's some Marley and Calvin action.
+[24:16.760 --> 24:17.560]  Two different cats.
+[24:18.940 --> 24:20.440]  Oh, look at them.
+[24:20.920 --> 24:21.740]  Which is which?
+[24:22.380 --> 24:23.420]  The gray one's Marley.
+[24:23.420 --> 24:24.580]  The orange one is Calvin.
+[24:24.760 --> 24:25.220]  Oh, OK.
+[24:25.940 --> 24:26.720]  Who's your favorite?
+[24:27.440 --> 24:29.060]  You know, it depends on the day.
+[24:29.600 --> 24:31.240]  It really depends on the day.
+[24:31.480 --> 24:33.440]  They are rambunctious.
+[24:33.940 --> 24:35.260]  I bought a thing for...
+[24:35.940 --> 24:40.220]  I have a patio door and I bought like a little windowsill thing that they can hang on and
+[24:40.220 --> 24:42.100]  they're constantly kicking each other off of it.
+[24:42.400 --> 24:43.500]  So that's been fun.
+[24:46.020 --> 24:47.060]  Just rambunctious.
+[24:47.500 --> 24:48.500]  Some rambunctious boys.
+[24:49.920 --> 24:50.940]  But I've...
+[24:50.940 --> 24:51.480]  Congratulations.
+[24:51.940 --> 24:52.200]  Thank you.
+[24:52.200 --> 24:53.000]  You got them on purpose?
+[24:53.160 --> 24:54.000]  Like it was a planned out thing?
+[24:54.000 --> 24:55.360]  It was a planned out thing.
+[24:55.640 --> 24:57.820]  Yeah, it came together pretty quickly.
+[24:58.480 --> 25:00.380]  It went very well.
+[25:00.960 --> 25:03.380]  And they've just been little menaces.
+[25:03.900 --> 25:06.320]  They're obsessed with the bathroom for some reason.
+[25:07.400 --> 25:08.940]  Like our bathroom.
+[25:09.480 --> 25:10.720]  Have you tripped on either of them yet?
+[25:11.080 --> 25:11.700]  Oh, absolutely.
+[25:11.840 --> 25:12.160]  I did.
+[25:12.400 --> 25:13.500]  Yeah, 100%.
+[25:14.020 --> 25:16.300]  They're big in your feet, cats.
+[25:16.640 --> 25:19.440]  I went to use the bathroom one night and they were...
+[25:19.440 --> 25:23.500]  I didn't realize they were both laying between the toilet and the tub.
+[25:23.580 --> 25:25.120]  And I partially stepped on one.
+[25:25.240 --> 25:27.020]  And it was a whole chaotic thing.
+[25:27.100 --> 25:28.120]  It was a disaster.
+[25:28.960 --> 25:34.660]  But that's been one of the more entertaining aspects of my life outside of the show right
+[25:34.660 --> 25:38.100]  now is these little boys hanging out with these cats.
+[25:38.400 --> 25:39.020]  Getting a new cat.
+[25:39.420 --> 25:39.940]  So exciting.
+[25:40.420 --> 25:42.140]  They're big treat guys.
+[25:42.380 --> 25:43.300]  So it's been fun.
+[25:43.840 --> 25:45.680]  Giving them little snacks and yeah.
+[25:46.200 --> 25:47.540]  Nick's a big treat guy too.
+[25:48.000 --> 25:48.640]  Yeah, big treat guy.
+[25:49.360 --> 25:50.580]  Nick loves a treat.
+[25:50.800 --> 25:53.800]  Oh, we should come up with like a churro for humans and give one to Nick.
+[25:54.260 --> 25:55.640]  Oh, a human churro?
+[25:56.220 --> 25:58.540]  Yeah, like a little tube of Nick food.
+[25:58.680 --> 25:59.060]  Yeah.
+[25:59.780 --> 26:05.360]  What kind of pastes and gels do you like to eat?
+[26:06.700 --> 26:07.880]  Oh, you know what?
+[26:08.140 --> 26:10.840]  What about like a sausage filled gel?
+[26:11.700 --> 26:13.660]  Would you eat a sausage gel?
+[26:14.360 --> 26:16.460]  You went for a solid food.
+[26:17.540 --> 26:19.620]  What? Well, no, you can you can grind it down.
+[26:19.720 --> 26:22.140]  It's kind of, uh, it gives a bit when you're inside.
+[26:22.340 --> 26:23.140]  That's why it was the casing.
+[26:24.560 --> 26:25.200]  Oh, sure.
+[26:25.280 --> 26:27.420]  It's got to be like all blended up with the liquid to get it all.
+[26:27.700 --> 26:30.800]  It's got to be able to like, you've got to be able to squeeze it with your fingers and squirt
+[26:30.800 --> 26:31.260]  it out the end.
+[26:31.420 --> 26:35.840]  You couldn't have went with like a more premium, like a steak, like a high end type of,
+[26:36.240 --> 26:37.340]  you went with sausage.
+[26:38.300 --> 26:40.420]  You want them to, you want to squirt a steak at them?
+[26:40.840 --> 26:44.240]  I would rather have like a steak squirt than a sausage squirt.
+[26:44.620 --> 26:45.960]  I think they're both horrific.
+[26:45.960 --> 26:48.960]  I was hoping like he'd be like strawberry or something.
+[26:49.020 --> 26:49.560]  I don't know. I had to.
+[26:49.620 --> 26:53.120]  Yeah, I didn't even consider it as like a yogurt type thing.
+[26:53.180 --> 26:54.100]  I was thinking like protein.
+[26:54.320 --> 26:55.380]  I didn't think about fruit at all.
+[26:55.860 --> 26:59.860]  I think because we're I think Nick and I were in the mindset of like what animals would eat in
+[26:59.860 --> 27:02.180]  these tubes, like what flavorings are available to them.
+[27:02.940 --> 27:03.400]  I'm thinking protein.
+[27:03.920 --> 27:05.900]  I mean, I can certainly get in the lab.
+[27:05.940 --> 27:07.640]  I can try and make you a sausage churro.
+[27:08.300 --> 27:10.460]  That sounds so gross.
+[27:10.800 --> 27:11.860]  I think you should.
+[27:12.280 --> 27:16.420]  I think Nick's conflicted because he likes the idea of it, but not by you.
+[27:16.940 --> 27:17.340]  Right.
+[27:17.560 --> 27:19.060]  He likes the idea, just not the Gavin.
+[27:19.840 --> 27:23.880]  Well, I could I could just be the idea foreman and I could oversee someone making it.
+[27:23.980 --> 27:24.500]  If you don't want me to.
+[27:24.760 --> 27:28.740]  I just I just think you add an interesting factor by being the one who's creating it.
+[27:29.160 --> 27:31.820]  Yeah, a little bit of international flair.
+[27:32.700 --> 27:36.560]  It would be fucking crazy if True announced they were making human tubes.
+[27:38.960 --> 27:39.720]  They should.
+[27:39.820 --> 27:40.500]  They might as well.
+[27:40.500 --> 27:42.980]  It's already a thing for like runners and stuff, right?
+[27:43.020 --> 27:44.240]  They have like those energy gels.
+[27:45.040 --> 27:45.240]  Yeah.
+[27:45.580 --> 27:46.420]  Yeah, but not with meat.
+[27:46.940 --> 27:47.620]  Right, right, right.
+[27:47.680 --> 27:50.680]  But that would be like their next step because you could do a bunch of different because there's
+[27:50.680 --> 27:56.640]  like a bunch of different flavors for this one where like he's like, oh, you know, what if he did
+[27:57.320 --> 27:58.040]  like strawberry?
+[27:58.340 --> 28:00.440]  And it's like, oh, yeah, we could probably get pretty close to that.
+[28:00.480 --> 28:03.920]  I think that there's probably like a bunch of different flavors here.
+[28:04.100 --> 28:05.080]  Like, oh, there is a strawberry.
+[28:05.220 --> 28:07.860]  There's mango and apple cinnamon and chocolate or whatever.
+[28:07.860 --> 28:11.640]  So instead, what if, you know, Salisbury steak?
+[28:11.980 --> 28:12.060]  Yeah.
+[28:12.360 --> 28:15.000]  It is sort of surprising there isn't like a Lay's for cats.
+[28:15.200 --> 28:16.560]  Like they just haven't.
+[28:16.600 --> 28:17.800]  They make snack food for humans.
+[28:17.920 --> 28:18.180]  Why not?
+[28:18.300 --> 28:20.760]  I probably own a pet food company.
+[28:21.700 --> 28:22.960]  There's no Cool Ranch option.
+[28:24.640 --> 28:30.120]  Also, I was looking at energy gels and then there's this.
+[28:31.020 --> 28:34.500]  But I think it's for like...
+[28:35.060 --> 28:35.700]  What's that?
+[28:35.700 --> 28:38.500]  I think these gels are like...
+[28:38.500 --> 28:40.660]  I think it's like airsoft, but I can't tell.
+[28:40.760 --> 28:42.080]  I just assume it's like airsoft.
+[28:42.380 --> 28:43.820]  Use your Gatorade as a container.
+[28:44.340 --> 28:44.500]  Right.
+[28:44.600 --> 28:46.540]  But imagine it's instead of airsoft.
+[28:46.680 --> 28:50.560]  It was like shooting delicious treats or like our bacon bits.
+[28:50.640 --> 28:51.840]  We were going to make a bacon blaster.
+[28:51.860 --> 28:52.340]  Oh, that's right.
+[28:52.440 --> 28:53.380]  Maybe that's a blaster.
+[28:53.580 --> 28:53.840]  Yeah.
+[28:54.100 --> 28:54.300]  Yeah.
+[28:54.340 --> 28:54.460]  Yeah.
+[28:54.460 --> 28:55.500]  Nick, you like bacon bits?
+[28:56.040 --> 28:59.440]  What if we just blasted a bunch of bacon into your mouth as a treat?
+[28:59.940 --> 29:00.700]  I mean, I'll take it.
+[29:01.060 --> 29:02.440]  Nick, how do you feel about pate?
+[29:03.260 --> 29:05.640]  I don't think I've ever had pate.
+[29:05.820 --> 29:06.460]  Let's give it a shot.
+[29:07.340 --> 29:07.640]  Oh, hell.
+[29:07.740 --> 29:09.360]  I think that's going to be my paste.
+[29:09.980 --> 29:10.700]  Might be the tube.
+[29:11.120 --> 29:11.880]  That's going to be it.
+[29:12.060 --> 29:13.440]  What type of tube are you going to use?
+[29:13.520 --> 29:14.420]  Are you going to make a tube?
+[29:14.560 --> 29:16.720]  Are you going to just repurpose some other tube?
+[29:17.400 --> 29:18.260]  I'll have to repurpose.
+[29:19.920 --> 29:21.980]  Well, you can just get old churros.
+[29:22.380 --> 29:24.040]  Let's just get old churros.
+[29:24.080 --> 29:25.640]  I'm not going to rinse out an actual churros.
+[29:25.640 --> 29:26.160]  Clean them out.
+[29:26.540 --> 29:27.100]  Yeah, yeah, yeah.
+[29:27.320 --> 29:27.740]  We'll go.
+[29:28.060 --> 29:31.660]  We'll find some old churros that a cat had used.
+[29:31.660 --> 29:33.460]  It will clean her mouth.
+[29:34.640 --> 29:37.600]  It will fill them up with pate for Nick.
+[29:38.320 --> 29:39.520]  You know what you should use?
+[29:39.600 --> 29:43.340]  I guess it'd be a little hard, but if you could, if you could use a groan tube.
+[29:45.300 --> 29:48.420]  That'd be hard to squeeze, but I could potentially whip it into your mouth.
+[29:48.720 --> 29:48.840]  Yeah.
+[29:50.860 --> 29:52.100]  It's like Monster Hunter.
+[29:52.220 --> 29:54.820]  The cat on the churro tube is the chef of the thing.
+[29:55.680 --> 29:57.060]  They made this meal for you.
+[29:57.940 --> 30:03.160]  Yeah, what if the groan is the mechanism that pushes the food out at him when you sling it?
+[30:03.900 --> 30:08.560]  It's just such a heavy, maybe we could get like a tungsten filler pellet thing.
+[30:08.700 --> 30:10.180]  So it actually does push the meat out.
+[30:10.540 --> 30:16.240]  I could probably, as a Dilbot, feed somebody who's based out of food using a food snack.
+[30:17.020 --> 30:18.000]  Just put a spoon on the front.
+[30:18.420 --> 30:19.340]  Don't even need a spoon.
+[30:19.420 --> 30:22.800]  I could just put it next to the edge of a table and I can drive over it.
+[30:23.540 --> 30:24.860]  Just fire it into Nick's mouth.
+[30:24.860 --> 30:26.140]  It's fire agates for lunch.
+[30:27.480 --> 30:27.920]  Easy.
+[30:29.680 --> 30:31.080]  I can't believe you want sausage.
+[30:31.580 --> 30:35.420]  I also can't believe neither of us thought of fruit or anything sweet.
+[30:35.540 --> 30:35.760]  Yeah.
+[30:36.000 --> 30:36.780]  Purely protein.
+[30:38.340 --> 30:41.220]  You know, tungsten is pretty cheap to buy by the gram.
+[30:41.300 --> 30:42.020]  I just looked it up.
+[30:43.260 --> 30:43.580]  Is it really?
+[30:43.640 --> 30:45.500]  Is that the heaviest metal tungsten thing?
+[30:45.620 --> 30:49.040]  No, it's just, it's not the heaviest, but it's pretty easy to get and it's heavy.
+[30:49.800 --> 30:50.740]  It's very easy to get.
+[30:50.740 --> 30:56.460]  You can get a pure tungsten gram for anywhere between $4 to $9 per pound for scrap.
+[30:56.660 --> 30:58.020]  You can get a gram?
+[30:58.500 --> 30:59.900]  No, I add it.
+[30:59.960 --> 31:03.080]  You can get a pound of tungsten for $4 to $9.
+[31:03.700 --> 31:04.820]  Ignore the gram thing.
+[31:04.880 --> 31:07.120]  I was looking at two different charts at once.
+[31:07.540 --> 31:09.620]  So a kilogram would be expensive as shit.
+[31:10.920 --> 31:11.100]  Huh?
+[31:13.300 --> 31:14.260]  Why even?
+[31:14.560 --> 31:15.440]  Why even go down?
+[31:15.640 --> 31:17.380]  Why even pursue it, Gavin?
+[31:17.740 --> 31:18.380]  Like, why?
+[31:21.180 --> 31:26.840]  Speaking about food, there's something we probably should discuss and just lay down
+[31:26.840 --> 31:28.080]  so that we don't care about it anymore.
+[31:28.640 --> 31:28.860]  Yes.
+[31:29.760 --> 31:35.380]  We talked about our next, our next food average thing starting on September 1st until next
+[31:35.380 --> 31:38.140]  September 1st is hamburgers.
+[31:38.400 --> 31:39.500]  So we finished the hot dog one.
+[31:39.580 --> 31:45.020]  We're going to do hamburgers because I think it was 156 is the American average for hamburgers.
+[31:46.220 --> 31:49.440]  The question that I've seen the most from people is,
+[31:50.060 --> 31:51.960]  does a slider count as a hamburger?
+[31:52.180 --> 31:53.440]  Three sliders, one burger.
+[31:53.760 --> 31:53.980]  Easy.
+[31:55.400 --> 31:55.880]  What?
+[31:56.280 --> 31:58.100]  Three sliders equals one burger.
+[31:58.440 --> 31:58.800]  Easy.
+[31:59.300 --> 32:00.600]  I guess you always do get them in threes.
+[32:00.720 --> 32:01.500]  You always get them in threes.
+[32:02.000 --> 32:05.760]  If you order sliders at any place, you're going to get three of them.
+[32:06.060 --> 32:08.860]  Unless it's like White Castle in which they only sell sliders.
+[32:09.060 --> 32:14.240]  But I think three is the equivalent to one burger based on the restaurant averages.
+[32:14.560 --> 32:16.980]  I just think a slider, I think a slider is a hamburger.
+[32:17.920 --> 32:22.940]  You're a fool because imagine if you had a you have served a plate of three tiny hot dogs.
+[32:24.520 --> 32:25.840]  I'm with Andrew.
+[32:26.340 --> 32:28.840]  If a slider was a burger, it'd be called a burger.
+[32:29.060 --> 32:31.740]  I think three sliders is about the size of a burger.
+[32:31.900 --> 32:35.340]  I don't want to overcomplicate this, but that makes sense to me.
+[32:35.460 --> 32:38.660]  If you order a hamburger off of the menu, you get one burger.
+[32:38.760 --> 32:42.240]  If you order sliders off of the menu, you get three sliders.
+[32:42.960 --> 32:45.440]  Also, we know that in the stats, they're not talking about sliders.
+[32:46.660 --> 32:48.020]  Yeah, that's true. That's true.
+[32:48.120 --> 32:53.020]  I'm also amazed by I said that I would be okay with lamb or chicken burgers,
+[32:53.160 --> 32:54.020]  and I was amazed by two things.
+[32:54.200 --> 32:57.720]  One, my wife texted me and said I was insane for allowing either of those things.
+[32:57.720 --> 33:00.360]  But also, I found out a ton of people don't know what a chicken burger is.
+[33:00.420 --> 33:03.040]  They think it's just like a chicken sandwich on a hamburger bun.
+[33:03.140 --> 33:07.340]  No, ground up chicken in a form of a patty, just like lamb,
+[33:07.480 --> 33:09.320]  just like hamburger, just like impossible meat.
+[33:09.520 --> 33:11.340]  It's all I that exists.
+[33:12.120 --> 33:13.500]  Yeah, it's just a cultural.
+[33:13.800 --> 33:14.900]  I didn't make it. I didn't invent it.
+[33:14.900 --> 33:16.360]  Yeah, it exists all over the US.
+[33:16.700 --> 33:17.600]  You can get a chicken burger.
+[33:17.840 --> 33:19.440]  P. Terry's has chicken burgers.
+[33:19.560 --> 33:20.000]  That's right. Yep.
+[33:20.480 --> 33:21.740]  I don't like them.
+[33:22.760 --> 33:23.480]  You don't?
+[33:23.540 --> 33:25.880]  No, I'm not a big fan of ground up chicken personally, but
+[33:27.500 --> 33:29.880]  I know I but I accept that it exists.
+[33:30.480 --> 33:32.720]  Andrew, you're a big you're a big chicken guy.
+[33:32.860 --> 33:33.860]  Yeah, huge chicken.
+[33:34.000 --> 33:36.280]  Do you like the do you like the ground up chicken patties?
+[33:36.800 --> 33:39.360]  No, I don't. I'd rather have some crunch chicken patty.
+[33:39.740 --> 33:42.060]  I don't mind a chicken sandwich crunch.
+[33:42.560 --> 33:44.140]  Yeah, well, when you get a chicken patty,
+[33:44.140 --> 33:45.680]  like the bread, it can be crunchy.
+[33:46.260 --> 33:47.840]  He's thinking he's like a fried chicken sandwich.
+[33:47.980 --> 33:51.000]  Oh, oh, you would default to roasted, wouldn't you?
+[33:51.380 --> 33:51.580]  Yeah.
+[33:51.740 --> 33:52.260]  Not grilled.
+[33:52.600 --> 33:53.500]  Grilled, whatever.
+[33:54.440 --> 33:55.240]  Not fried.
+[33:56.000 --> 33:58.420]  Why did you say that? Like, you're looking down your nose at me.
+[33:58.500 --> 33:59.360]  Your unbreakable nose.
+[33:59.480 --> 34:02.280]  No, it's I kind of it's not that I was looking down.
+[34:02.360 --> 34:07.000]  It's just like, of course, you would pick the least joyful of the thing as far as the food goes.
+[34:07.860 --> 34:09.280]  You go with the plainest.
+[34:09.500 --> 34:10.200]  A grilled chicken sandwich is really nice.
+[34:10.380 --> 34:11.000]  It's joyful.
+[34:11.200 --> 34:12.740]  I love a grilled chicken sandwich.
+[34:12.740 --> 34:15.900]  It can be very good, but that's not what I think of a chicken burger.
+[34:16.220 --> 34:19.780]  My mind goes to grill or not grilled, fried.
+[34:20.560 --> 34:21.900]  I'm right with Andrew on this.
+[34:21.960 --> 34:27.280]  You did pick the least enjoyable of the chicken sandwich preparations, I think, which is fine.
+[34:27.500 --> 34:28.040]  Totally fine.
+[34:28.500 --> 34:30.460]  It's still good, but he's definitely right.
+[34:30.780 --> 34:35.300]  I think that's what Meg said that you default to also is that version of that.
+[34:35.780 --> 34:35.980]  Yeah.
+[34:36.160 --> 34:38.260]  When we talked to her about this, she's like, oh, yeah.
+[34:38.440 --> 34:39.040]  Hell yeah.
+[34:39.700 --> 34:40.140]  156.
+[34:40.220 --> 34:40.640]  Absolutely.
+[34:40.640 --> 34:43.220]  She's like, except that Gavin never wants to eat hamburgers.
+[34:43.260 --> 34:45.020]  And I said, my small wife is the same way.
+[34:45.380 --> 34:46.580]  She never wants to go get a hamburger.
+[34:46.820 --> 34:48.740]  So my numbers are going to be skewed.
+[34:48.760 --> 34:49.240]  It's gonna be tough.
+[34:49.680 --> 34:55.240]  You posted a hamburger, Eric, recently being like, hey, this doesn't count yet, but I'm
+[34:55.240 --> 34:55.760]  having a hamburger.
+[34:56.100 --> 34:57.660]  Yeah, I went to top notch.
+[34:57.900 --> 34:58.260]  Yeah.
+[34:58.280 --> 34:58.820]  Let people know.
+[34:58.920 --> 35:02.840]  I was on my second hamburger at the same time that you posted that and I didn't react to it.
+[35:02.840 --> 35:05.260]  But I was eating my second one.
+[35:05.780 --> 35:06.400]  Hell yeah.
+[35:06.520 --> 35:06.940]  I was ready.
+[35:06.940 --> 35:11.440]  So Nick and me have the clocks in sync.
+[35:11.520 --> 35:12.480]  Can you have the burgers right now?
+[35:12.480 --> 35:13.040]  Yeah, we're burger sync.
+[35:13.060 --> 35:13.920]  We have the burgers sync.
+[35:14.040 --> 35:14.520]  That's good.
+[35:14.980 --> 35:15.280]  Yeah.
+[35:16.280 --> 35:21.620]  So we've determined three sliders is equivalent to one hamburger.
+[35:21.860 --> 35:23.120]  That's where we stand on this.
+[35:23.300 --> 35:23.460]  Boom.
+[35:23.580 --> 35:23.740]  Done.
+[35:23.880 --> 35:24.160]  Got it.
+[35:24.280 --> 35:24.500]  Easy.
+[35:24.820 --> 35:26.240]  Just wanted to let everyone know.
+[35:26.740 --> 35:27.280]  Now we're good.
+[35:27.620 --> 35:33.160]  But also chicken burger, ground chicken, ground lamb, ground beef, like that thing.
+[35:33.240 --> 35:34.320]  That's going to be a burger also.
+[35:34.320 --> 35:39.840]  I understand that ground beef is the default, but the name is hamburger and there ain't no
+[35:39.840 --> 35:40.600]  ham in it either.
+[35:40.880 --> 35:42.640]  So I don't know that we can be that pedantic.
+[35:42.700 --> 35:47.440]  As long as it's a ground up meat and it's called a burger on a menu, then it should count.
+[35:47.900 --> 35:52.440]  Now, if someone orders like 12 sliders for the table and you have two,
+[35:52.920 --> 35:54.920]  are you rounding up or are you just not counting it?
+[35:55.260 --> 35:55.800]  You don't count it.
+[35:55.840 --> 35:56.640]  You didn't have three sliders.
+[35:57.100 --> 35:58.160]  Okay, good to know.
+[35:58.280 --> 36:02.000]  If I have 40% of a hamburger, I'm not going to count that I had 40% of a hamburger.
+[36:02.000 --> 36:05.780]  I'm not going to like write that down on a card and put it in my wallet.
+[36:06.020 --> 36:10.900]  And if I have 60% of a hamburger three months later, I can remember and combine the total.
+[36:11.080 --> 36:14.760]  I mean, what you forget, obviously, is that there's a spirit to this thing.
+[36:15.100 --> 36:16.940]  And it's important to keep in mind.
+[36:17.700 --> 36:17.980]  Fat play.
+[36:18.360 --> 36:23.060]  I have a game we can play that we talked about before.
+[36:23.860 --> 36:24.560]  Not here.
+[36:24.740 --> 36:28.460]  We did a sausage talk that will be out by this point, that this comes out.
+[36:28.480 --> 36:29.900]  No, the sausage talk will be out tomorrow.
+[36:30.400 --> 36:34.880]  Okay, well, the sausage talk will be out tomorrow in that we talk about a variety of things.
+[36:35.300 --> 36:39.680]  One of the things was a game that I initially misinterpreted because of the naming structure
+[36:39.680 --> 36:44.640]  of it, where I thought that I would have to ask questions to you guys and you would have
+[36:44.640 --> 36:47.140]  to do research and get back to me on them.
+[36:47.500 --> 36:48.860]  I have compiled some questions.
+[36:49.380 --> 36:53.880]  If we want to give this a try, we will be doing back to backs today.
+[36:53.980 --> 36:55.680]  So next episode, I will not get an answer.
+[36:55.680 --> 36:59.280]  But the episode after that, we can have a conclusion.
+[36:59.440 --> 37:01.500]  Do we want to play Andrew's questions?
+[37:02.440 --> 37:04.260]  Is that the name of the game is Andrew's questions?
+[37:04.380 --> 37:05.320]  Let's do Andrew's questions.
+[37:05.580 --> 37:06.500]  We can call that.
+[37:06.920 --> 37:10.180]  It sounds like it should be called Andrew's homework because you're just giving us homework.
+[37:10.780 --> 37:12.300]  Well, it was the game that was pitched to me.
+[37:12.340 --> 37:16.580]  What was the name of the game that was explained originally before we came up with the different
+[37:16.580 --> 37:17.320]  name for it?
+[37:17.420 --> 37:18.940]  What was the original name of that game?
+[37:19.060 --> 37:19.760]  Does anyone remember?
+[37:20.200 --> 37:21.260]  I don't remember.
+[37:21.360 --> 37:22.620]  It might have been called Andrew's questions.
+[37:22.820 --> 37:24.040]  It may have been Andrew's questions.
+[37:25.000 --> 37:25.960]  Yeah, no, I'm ready.
+[37:26.020 --> 37:26.800]  I was just giving you our time.
+[37:26.940 --> 37:27.400]  That's fair.
+[37:27.620 --> 37:30.360]  OK, we'll go in an egg order.
+[37:30.460 --> 37:31.520]  So, Eric, you're first.
+[37:31.920 --> 37:34.380]  I've written these questions one through four.
+[37:34.920 --> 37:36.900]  Pick a number and I will sign you a question.
+[37:37.480 --> 37:39.480]  These are all things that I'm genuinely curious about.
+[37:39.480 --> 37:39.640]  Hold on a second.
+[37:40.320 --> 37:42.820]  You said we're going in an egg order and then you skipped Nick.
+[37:42.900 --> 37:43.340]  That's yeah.
+[37:43.480 --> 37:44.060]  You know what?
+[37:44.160 --> 37:45.340]  Listen, I'm having a morning.
+[37:46.020 --> 37:48.040]  I'm having a morning and a terrible sleep.
+[37:48.200 --> 37:49.580]  Nick, you're first.
+[37:50.540 --> 37:51.080]  All right.
+[37:51.540 --> 37:53.520]  I'm going to go with number four.
+[37:53.520 --> 37:54.420]  Number four.
+[37:55.600 --> 38:00.940]  My fourth question is who invented mini golf and when slash where did it happen?
+[38:01.720 --> 38:02.660]  I don't understand the game.
+[38:02.860 --> 38:04.540]  Now, what the fuck are you doing?
+[38:05.460 --> 38:06.200]  We're not allowed.
+[38:06.700 --> 38:07.800]  What is this?
+[38:08.020 --> 38:09.100]  These are questions I have.
+[38:09.820 --> 38:10.660]  But we all heard it.
+[38:11.320 --> 38:12.120]  Yeah, yeah.
+[38:12.140 --> 38:15.800]  But Nick is going to go get the answer and come back and report to Andrew.
+[38:15.900 --> 38:17.360]  What did what was the game?
+[38:17.500 --> 38:18.220]  Gavin, help.
+[38:18.620 --> 38:18.800]  No.
+[38:18.940 --> 38:21.580]  OK, this is where you this is the confusion you.
+[38:22.440 --> 38:24.960]  This is not the game that you pitch to me.
+[38:25.320 --> 38:26.740]  This was a game.
+[38:27.100 --> 38:31.360]  This was what I interpreted the game as originally that we had to clarify.
+[38:32.520 --> 38:35.500]  So a plan like Andrew's goof world questions.
+[38:35.680 --> 38:38.040]  This is Andrew's goof world questions.
+[38:38.300 --> 38:39.740]  This is Andrew's homework.
+[38:40.140 --> 38:41.220]  This is Andrew's homework.
+[38:41.520 --> 38:41.720]  It is.
+[38:41.780 --> 38:44.340]  But I want to know these things, these questions.
+[38:45.020 --> 38:46.020]  Geoff, this makes sense, right?
+[38:46.060 --> 38:49.320]  You were in the same meetings I was in the same called the sausage talk.
+[38:49.520 --> 38:51.080]  People listen, they'll get this.
+[38:51.720 --> 38:54.120]  I'm following along, Andrew.
+[38:54.220 --> 39:00.780]  It's basically Andrew misinterpreted a pitch that we gave him in sausage talk.
+[39:01.080 --> 39:05.340]  He misinterpreted the pitch to be this essentially when it's nothing like it.
+[39:05.420 --> 39:06.760]  No, but that's OK.
+[39:06.880 --> 39:09.380]  I don't we don't need to get into what that other pitch was
+[39:09.380 --> 39:10.820]  because it'll be in sausage talk tomorrow.
+[39:11.180 --> 39:13.440]  This is just how Andrew initially heard the pitch.
+[39:13.500 --> 39:15.120]  So I'm following this idea.
+[39:15.320 --> 39:16.500]  Cleared it up in the moment.
+[39:16.640 --> 39:18.340]  But Andrew something stuck with Andrew.
+[39:18.420 --> 39:19.020]  He liked it.
+[39:19.020 --> 39:24.280]  So then he reformed it into, I guess, the exact same thing that he initially thought it was
+[39:24.280 --> 39:28.120]  and then presented it to us today as a new game to which I immediately clocked
+[39:28.120 --> 39:31.820]  as Andrew's giving us homework, which is what it is.
+[39:31.880 --> 39:32.980]  But that's fine.
+[39:33.220 --> 39:34.680]  I'm I'm interested.
+[39:35.700 --> 39:36.400]  Eric, pick a number.
+[39:36.440 --> 39:36.780]  All right.
+[39:37.460 --> 39:37.940]  One.
+[39:38.920 --> 39:40.340]  My question for you.
+[39:41.020 --> 39:41.680]  Get back to me on.
+[39:42.440 --> 39:44.920]  Do the geese have anything to do with gooseberries?
+[39:45.740 --> 39:46.220]  Got it.
+[39:47.160 --> 39:47.340]  Yeah.
+[39:47.820 --> 39:49.300]  I'm way happier with my question.
+[39:50.420 --> 39:51.380]  Geoff, pick a number.
+[39:52.020 --> 39:53.100]  Is three available?
+[39:53.280 --> 39:53.860]  Two or three.
+[39:54.580 --> 39:55.200]  Yeah, I'll take three.
+[39:55.520 --> 39:58.600]  Who invented the peanut butter jelly sandwich and what type of jelly did they use?
+[39:59.520 --> 40:00.880]  Curious about the peanut butter and jelly.
+[40:01.280 --> 40:02.080]  When did it come about?
+[40:02.320 --> 40:06.380]  I assume it's an old sandwich, but because of the high five,
+[40:06.700 --> 40:08.880]  I don't feel like I know when anything was made anymore.
+[40:09.540 --> 40:09.960]  Good point.
+[40:10.400 --> 40:11.300]  High five was like what?
+[40:11.400 --> 40:12.040]  Seventy something?
+[40:12.140 --> 40:13.960]  Nineteen seventy three?
+[40:14.440 --> 40:15.740]  Nineteen seventy seven, I believe.
+[40:15.740 --> 40:20.320]  Uh, who invented the peanut butter and jelly sandwich and what jelly did they use?
+[40:20.360 --> 40:21.460]  What brand of peanut butter?
+[40:21.560 --> 40:22.080]  When was it?
+[40:22.100 --> 40:22.820]  That's what I've written down.
+[40:23.120 --> 40:23.240]  Right.
+[40:23.280 --> 40:23.880]  We'll get back to you.
+[40:23.960 --> 40:25.080]  That's even more detailed than I thought.
+[40:25.340 --> 40:29.140]  Gavin, I guess I shouldn't do anything every time because then you never get to pick.
+[40:29.440 --> 40:31.160]  Or maybe I'll just add an additional question.
+[40:31.460 --> 40:33.080]  Number two is yours.
+[40:33.780 --> 40:35.140]  He said five.
+[40:35.300 --> 40:36.420]  That's not even on there.
+[40:36.620 --> 40:37.840]  This is fucking great.
+[40:38.020 --> 40:38.840]  No, I do have a five.
+[40:38.860 --> 40:39.440]  I didn't scroll.
+[40:39.720 --> 40:41.540]  You have a pick between two or five.
+[40:42.360 --> 40:43.400]  Hail Mary paid off.
+[40:45.540 --> 40:46.260]  This sucks.
+[40:46.520 --> 40:48.600]  Yeah, I might have picked five if I'd known there was a five.
+[40:48.960 --> 40:50.300]  Well, let's see what this question is.
+[40:50.340 --> 40:51.280]  We can determine if we're mad.
+[40:51.760 --> 40:53.260]  No, you don't want five.
+[40:53.940 --> 40:54.960]  Gavin, do you want five?
+[40:55.680 --> 40:56.320]  Dean, do you want five?
+[40:57.160 --> 40:57.660]  Do five.
+[40:57.900 --> 40:58.940]  Yeah, Sammy, I said five.
+[40:59.040 --> 40:59.320]  Okay.
+[40:59.920 --> 41:01.640]  What came first, the waffle or the pancake?
+[41:02.300 --> 41:03.980]  I'm assuming it's the pancake.
+[41:04.140 --> 41:05.160]  That's a good one.
+[41:06.180 --> 41:08.860]  But I just feel like there's more detail in a waffle.
+[41:09.560 --> 41:11.280]  Like, why did the waffle get made?
+[41:12.060 --> 41:15.560]  Now, do I need to just provide you the answer or do I need to show my workings?
+[41:15.700 --> 41:17.620]  No, you don't need to show your workings. I'll trust you.
+[41:18.320 --> 41:18.780]  Oh, wow.
+[41:19.300 --> 41:23.100]  I'm gonna just come back in a couple of episodes and say the word waffle or pancake and my
+[41:23.100 --> 41:23.640]  homework's done.
+[41:23.740 --> 41:24.040]  Absolutely.
+[41:24.460 --> 41:30.780]  Okay, I'll make a note in a couple hours or do 69 and we'll say answers to Andrew's homework.
+[41:31.440 --> 41:32.320]  I appreciate that.
+[41:32.520 --> 41:37.240]  I'm a little upset that two wasn't picked, but that's fine.
+[41:37.280 --> 41:38.420]  We could do two as a group.
+[41:39.220 --> 41:39.840]  A group?
+[41:40.000 --> 41:40.960]  Oh, group project?
+[41:40.960 --> 41:43.120]  Eric's that freaking nerd at school.
+[41:45.440 --> 41:46.640]  My number two.
+[41:46.780 --> 41:50.120]  Um, excuse me, teacher. Me thinks you did not assign us homework.
+[41:50.520 --> 41:53.220]  Once again, this is the high five problem for me.
+[41:54.060 --> 41:58.320]  Was cliffhanger the movie called that because of the term or did it create it?
+[41:58.380 --> 42:00.360]  If not, where did cliffhanger come from?
+[42:00.600 --> 42:01.900]  The term, the meaning.
+[42:02.920 --> 42:06.740]  Wait, so you're asking if the movie cliffhanger invented the term cliffhanger?
+[42:06.940 --> 42:09.140]  Yeah, because it's a movie about hanging off of cliffs.
+[42:10.240 --> 42:12.160]  I, I actually know the answer to this.
+[42:12.280 --> 42:16.580]  It was an episode of So All Right, the sister podcast of something.
+[42:16.740 --> 42:16.980]  All right.
+[42:17.440 --> 42:17.800]  Wow.
+[42:18.880 --> 42:19.800]  It's the term.
+[42:19.800 --> 42:22.660]  Well, the term cliffhanger has been around for a very long time.
+[42:23.060 --> 42:26.800]  It was very, the cliffhanger books were very popular in the 1800s.
+[42:26.980 --> 42:27.380]  Cliffhanger.
+[42:27.500 --> 42:28.680]  What is the cliffhanger book?
+[42:28.720 --> 42:32.020]  Oh, just like the concept of that, like it's left on a cliffhanger.
+[42:32.640 --> 42:32.840]  Yeah.
+[42:33.060 --> 42:35.800]  And then you have to wait for the new book to come out, sequel or whatever.
+[42:35.800 --> 42:40.020]  Did the movie speed come up with the concept of speed or did it exist before?
+[42:40.540 --> 42:41.700]  I think it existed before.
+[42:43.460 --> 42:44.780]  That's a different thing.
+[42:45.340 --> 42:50.840]  You say it like it's, it's a ridiculous concept, but cliffhanger is a word.
+[42:50.940 --> 42:56.480]  Think about like Stan, how the term Stan exists because of the song and it represents sort of
+[42:56.480 --> 42:58.520]  what the song is about.
+[42:58.960 --> 43:00.720]  There are things in culture.
+[43:00.720 --> 43:06.280]  You think the term cliffhanger, you think the term the term cliffhanger didn't exist before
+[43:06.280 --> 43:08.240]  1993 is what you're saying?
+[43:08.340 --> 43:11.340]  I was the high five came out in 1977. I don't know what to think.
+[43:12.420 --> 43:13.260]  Yeah, it's got a point.
+[43:13.980 --> 43:17.540]  I really see an eye to eye with Andrew today. He's got a great point there.
+[43:17.620 --> 43:22.380]  I would assume way before, Eric, but in the world of the high five, I just don't know.
+[43:22.900 --> 43:23.120]  There you go.
+[43:23.240 --> 43:27.200]  Nothing can be so in a world where the Beastie Boys created the term mullet.
+[43:27.200 --> 43:28.420]  What do you think?
+[43:29.660 --> 43:30.840]  What are we dealing with?
+[43:31.300 --> 43:34.700]  I really like the idea of there being a brand of books called cliffhanger,
+[43:34.840 --> 43:38.000]  and they all end in cliffhangers and people just being upset about it.
+[43:38.260 --> 43:42.220]  Why do I keep buying these? Nothing's ever resolved.
+[43:42.840 --> 43:44.600]  It's just about a guy named cliffhanger.
+[43:44.960 --> 43:48.420]  They all end very neatly.
+[43:50.940 --> 43:51.840]  Succinct endings.
+[43:52.300 --> 43:54.020]  Cliffhanger is such a good pen name.
+[43:54.340 --> 43:56.920]  You know, there's a dude out there named cliffhanger too.
+[43:57.440 --> 44:01.160]  I'm imagining him like he's like flying planes.
+[44:01.260 --> 44:03.380]  He's stopping crying. He's like an action hero.
+[44:03.900 --> 44:04.380]  Cliffhanger.
+[44:04.600 --> 44:07.720]  I don't have LinkedIn and I don't even I don't even want to go to the website
+[44:07.720 --> 44:09.900]  because I'll somehow end up with 400 emails about it.
+[44:10.020 --> 44:13.520]  But I bet there's a dude named cliffhanger who works in like,
+[44:13.620 --> 44:16.340]  I don't know, accounting somewhere in the Midwest.
+[44:16.580 --> 44:18.260]  Cliffhanger LinkedIn. Let's see.
+[44:20.320 --> 44:22.600]  20 plus cliffhanger profiles.
+[44:25.500 --> 44:30.480]  The top one for me, he's an award winning producer, TV commercials, music videos,
+[44:30.840 --> 44:31.580]  movie obsessed.
+[44:32.120 --> 44:32.560]  Cliffhanger.
+[44:32.620 --> 44:33.900]  I bet that's a pen name for him.
+[44:34.080 --> 44:34.840]  Yeah, that's not a real name.
+[44:34.840 --> 44:37.660]  Well, the next one is chief information officer at Google.
+[44:38.080 --> 44:39.520]  Now that guy could be called Cliff.
+[44:39.700 --> 44:41.160]  He's a pretty serious looking fella.
+[44:41.320 --> 44:42.600]  He's a pretty serious cliff.
+[44:43.540 --> 44:45.120]  Cliff, always short for Clifford.
+[44:46.040 --> 44:46.880]  Clifford Hanger.
+[44:47.140 --> 44:47.960]  Clifford Hanger.
+[44:49.980 --> 44:50.760]  The junior.
+[44:51.600 --> 44:52.440]  What else could it be?
+[44:52.680 --> 44:52.960]  Short for?
+[44:54.020 --> 44:55.800]  Uh, I don't know.
+[44:56.320 --> 44:56.600]  Cliffing?
+[44:57.520 --> 45:00.640]  Cliff, Cliff, Cliff, uh, Cliff, uh.
+[45:00.760 --> 45:02.000]  Cliffy Beehanger.
+[45:07.900 --> 45:09.660]  I think it's always Clifford.
+[45:09.780 --> 45:11.460]  I don't think there's any other variation of it.
+[45:12.360 --> 45:12.920]  Clifton.
+[45:13.960 --> 45:14.520]  Clifton.
+[45:15.600 --> 45:18.080]  What's the worst shortened name?
+[45:19.060 --> 45:19.560]  Name.
+[45:20.360 --> 45:21.740]  Like, what do you mean by the worst?
+[45:21.980 --> 45:24.220]  Like, like Dick is Richard.
+[45:24.520 --> 45:26.360]  And it's like, that doesn't make any fucking sense.
+[45:26.400 --> 45:27.500]  Like, why are you calling him that?
+[45:28.040 --> 45:30.540]  Like, John can be Jack or the other way around.
+[45:30.860 --> 45:31.300]  Yeah, right.
+[45:31.540 --> 45:31.940]  That never made sense.
+[45:32.280 --> 45:32.620]  Nuh-uh.
+[45:32.760 --> 45:38.020]  You know what's a weird one is I know several people that are named James that just don't
+[45:38.020 --> 45:40.220]  want to go by it and instead go by Jake.
+[45:40.300 --> 45:42.320]  And that's not a shortened version of James.
+[45:42.540 --> 45:45.140]  They just are disassociative of James.
+[45:45.440 --> 45:48.620]  Especially when you're, when you're walking right past Jim and Jimmy.
+[45:49.800 --> 45:54.420]  I always hated when people truncate Michael down to just Bernie.
+[45:54.760 --> 45:55.240]  Like...
+[46:06.020 --> 46:10.280]  I mean, I get it, but...
+[46:14.040 --> 46:16.260]  Yeah, Robert to Bob is a weird one too.
+[46:16.440 --> 46:18.640]  I think like, I think Hank for Hank for Henry.
+[46:19.040 --> 46:21.000]  Robert to Bobby, I think is weird.
+[46:21.300 --> 46:21.880]  Even weirder.
+[46:22.720 --> 46:25.820]  I always, as a kid, thought Bob was such a funny name.
+[46:26.040 --> 46:28.480]  I remember being really gutted that I didn't know a real one.
+[46:29.160 --> 46:30.100]  Bob is a funny name.
+[46:30.560 --> 46:31.100]  Like if...
+[46:31.100 --> 46:31.780]  It's a fun word.
+[46:31.820 --> 46:33.780]  If I had to come up with a pretend name, it would always be Bob.
+[46:34.000 --> 46:37.320]  Well, that's not true because you have like four pretend names and none of them are Bob.
+[46:38.760 --> 46:40.260]  Errol and Stuart came a lot later.
+[46:40.480 --> 46:42.340]  Bob was when I was in like primary school.
+[46:42.980 --> 46:44.340]  What would Bob's last name be?
+[46:45.420 --> 46:45.780]  Slob.
+[46:45.780 --> 46:46.180]  Slob.
+[46:51.720 --> 46:53.160]  What the...
+[46:53.160 --> 46:54.340]  You write just cliffhanger books.
+[46:56.160 --> 46:57.600]  Pauly is...
+[46:58.640 --> 46:59.000]  What?
+[46:59.220 --> 47:00.400]  This doesn't make any sense.
+[47:01.060 --> 47:03.540]  Pauly is a nickname short for Mary.
+[47:04.300 --> 47:05.020]  That...
+[47:05.540 --> 47:06.340]  It's longer.
+[47:08.800 --> 47:12.820]  Pauly is a variant of Molly, which is from Mary.
+[47:13.100 --> 47:14.800]  So Pauly is from Mary.
+[47:14.800 --> 47:16.280]  That doesn't make any sense.
+[47:17.240 --> 47:18.360]  What the fuck?
+[47:19.900 --> 47:20.820]  It's long.
+[47:21.500 --> 47:22.480]  That's too long.
+[47:23.240 --> 47:26.580]  I was always jealous of the Robert to Bobby thing as Andrew.
+[47:26.900 --> 47:30.740]  Because like that's a fun variation on what the name can be.
+[47:30.900 --> 47:32.020]  Where I just lose letters.
+[47:32.220 --> 47:33.580]  I just literally get shorter.
+[47:34.240 --> 47:35.540]  You just take away my first two.
+[47:35.640 --> 47:36.640]  That's my shortened name.
+[47:37.300 --> 47:37.760]  Well, you could...
+[47:37.760 --> 47:39.080]  I mean, you could add to the end of Drew.
+[47:39.880 --> 47:40.300]  Drewin?
+[47:43.660 --> 47:44.540]  Flip it around.
+[47:45.360 --> 47:46.340]  Oh, Droopy.
+[47:46.860 --> 47:49.560]  Yeah, I'm pumped about Droopy.
+[47:50.300 --> 47:50.820]  Droopy.
+[47:50.940 --> 47:53.520]  That's on the 2026 nickname list for me.
+[47:54.640 --> 47:55.160]  Droopy.
+[47:57.720 --> 48:00.000]  Do you think Eric used to be...
+[48:00.580 --> 48:05.080]  Like Eric used to be short for something, but the longer thing, we just forgot the time.
+[48:05.520 --> 48:10.240]  I bet that Eric came from like people saying Aaron, but mishearing it.
+[48:10.560 --> 48:11.020]  You think so?
+[48:11.020 --> 48:12.020]  You don't think it was like...
+[48:12.020 --> 48:12.720]  It has to be.
+[48:12.720 --> 48:15.680]  Eric Kindelon or Eric Hinderduggan.
+[48:15.700 --> 48:19.160]  Oh, I bet it's something like Erickson or something stupid like that.
+[48:19.160 --> 48:19.400]  Oh, maybe, yeah.
+[48:19.420 --> 48:20.040]  You know what I mean?
+[48:22.580 --> 48:24.340]  Eric Debootfooker or whatever.
+[48:25.280 --> 48:27.580]  I'm pretty sure that's where Geoff comes from, right?
+[48:27.920 --> 48:28.420]  Geoffrey.
+[48:28.620 --> 48:29.820]  Geoff is short for Geoffrey.
+[48:30.120 --> 48:30.320]  Yeah.
+[48:33.160 --> 48:34.200]  Geoffrey Debootfooker.
+[48:34.960 --> 48:36.600]  That's my understanding, yeah.
+[48:36.800 --> 48:40.340]  I do see what you're saying, Geoff, of Eric being longer.
+[48:40.420 --> 48:42.400]  I imagine Eric's long name.
+[48:42.400 --> 48:45.440]  He's like one of the characters taking an oath in Lord of the Rings.
+[48:45.620 --> 48:48.940]  Like that's the type of long name I'm envisioning.
+[48:50.820 --> 48:52.800]  Like Ericconian or something like that.
+[48:52.960 --> 48:53.980]  Mmm, Ericconian.
+[48:54.380 --> 48:56.860]  Yeah, I just like the idea of putting an E on the end of Eric.
+[48:57.420 --> 48:57.860]  Eric-y.
+[48:57.900 --> 49:00.340]  Oh, I never, I don't think I've ever considered that.
+[49:00.960 --> 49:01.120]  Eris.
+[49:01.140 --> 49:01.900]  I want to be Eris.
+[49:03.740 --> 49:04.460]  That's crazy.
+[49:06.420 --> 49:08.260]  Oh, it's a place in Sicily.
+[49:09.260 --> 49:09.440]  Oh.
+[49:09.580 --> 49:09.940]  Interesting.
+[49:10.140 --> 49:11.000]  Oh, there you go.
+[49:11.000 --> 49:13.620]  No wonder you like Mafia, the old country.
+[49:15.700 --> 49:16.820]  Back to your roots.
+[49:18.700 --> 49:19.240]  Oh, yeah.
+[49:19.260 --> 49:20.440]  So what was the time to kill?
+[49:20.720 --> 49:23.580]  What did the time to kill end up being for Mafia the old country?
+[49:23.720 --> 49:26.140]  The time to kill was two hours something, I think.
+[49:26.500 --> 49:27.640]  Two hours and 20 minutes, I believe.
+[49:27.660 --> 49:28.880]  Two hours, 20 minutes.
+[49:29.100 --> 49:29.260]  Yeah.
+[49:29.540 --> 49:32.820]  If you're not familiar with what we're talking about, on our Friday VODs that we do every
+[49:32.820 --> 49:38.320]  Friday from 4 p.m. Central time to 5.01 p.m. Central time, the best time of the week over
+[49:38.320 --> 49:40.860]  twitch.tv slash the regulation pod.
+[49:41.260 --> 49:42.400]  We do some sort of a fun stream.
+[49:42.540 --> 49:48.640]  Last Friday, we streamed Mafia the old country, where for two hours we had three practice knife
+[49:48.640 --> 49:48.920]  fights.
+[49:49.240 --> 49:49.940]  We did.
+[49:50.180 --> 49:50.720]  Good game.
+[49:50.820 --> 49:52.040]  I finished it last night.
+[49:52.260 --> 49:53.820]  Had a lot of fun with it, ultimately.
+[49:54.520 --> 49:56.860]  Long time before you kill anything in that game, though.
+[49:56.940 --> 49:57.640]  Two hours, 20 minutes.
+[49:57.660 --> 49:58.880]  Long time before anything happens.
+[49:58.900 --> 50:00.440]  I do appreciate, though, that they make it a moment.
+[50:00.980 --> 50:02.840]  It's like, oh, fuck, I'm going to have to kill someone now.
+[50:02.860 --> 50:03.100]  OK.
+[50:03.980 --> 50:05.700]  Well, like it's a heavy weight of a kill.
+[50:06.140 --> 50:07.100]  Do you have to decide on it?
+[50:07.100 --> 50:10.560]  Yeah, it's like it's a thing that your character is a little bit uneasy about.
+[50:11.580 --> 50:14.180]  Initially, you have to kill your own father.
+[50:14.680 --> 50:16.380]  No, I think he's already dead.
+[50:16.500 --> 50:18.920]  I mean, he sold you into slavery, essentially.
+[50:18.920 --> 50:22.480]  So I don't I don't think you have a lot of conflict about killing him.
+[50:22.520 --> 50:22.820]  Yeah.
+[50:23.020 --> 50:25.380]  If that were an element, maybe that'll be the DLC.
+[50:25.560 --> 50:26.320]  Maybe we'll go back.
+[50:26.700 --> 50:28.080]  Mafia, the older country.
+[50:29.160 --> 50:30.700]  Mafia, the old country.
+[50:31.320 --> 50:32.120]  Daddy's home.
+[50:35.560 --> 50:37.640]  Do you get a strike for that video, by the way, Andrew?
+[50:37.640 --> 50:39.520]  No, why would I get a strike?
+[50:40.300 --> 50:41.600]  Well, you didn't upload the video.
+[50:42.160 --> 50:43.380]  Oh, because it corrupted.
+[50:43.660 --> 50:44.240]  I file corrupted.
+[50:45.920 --> 50:47.940]  Well, that's the reason you didn't upload the video.
+[50:48.200 --> 50:49.280]  But yeah, I don't think I get a strike.
+[50:49.420 --> 50:50.880]  It's the effort was there.
+[50:50.960 --> 50:51.480]  I tried.
+[50:52.040 --> 50:56.000]  It just never actually corrupted or the or like our actual version of.
+[50:56.180 --> 50:58.980]  Oh, and it was not in my library.
+[50:59.160 --> 51:00.300]  There was no file for it.
+[51:00.320 --> 51:01.200]  It was just gone.
+[51:02.740 --> 51:03.540]  That corrupted.
+[51:04.440 --> 51:06.120]  OK, well, what would you call it?
+[51:06.120 --> 51:08.480]  So I can just use your terminology going forward.
+[51:09.140 --> 51:10.140]  What would you like me to call it?
+[51:10.360 --> 51:10.800]  That I'm missing?
+[51:11.200 --> 51:11.600]  Missing?
+[51:12.160 --> 51:15.120]  Well, I feel like if you have a corrupted file, you have a file that's corrupted.
+[51:15.800 --> 51:16.040]  What?
+[51:20.380 --> 51:21.480]  So I get that.
+[51:21.500 --> 51:22.140]  I didn't add anything.
+[51:22.480 --> 51:24.960]  OK, but let me just let me follow your thread, though.
+[51:25.220 --> 51:30.120]  So if it was missing, that would imply that it is still findable.
+[51:30.640 --> 51:31.700]  It's just somewhere.
+[51:32.060 --> 51:35.400]  So what you're saying is that the file exists and is usable.
+[51:35.400 --> 51:38.860]  But my computer has put it in a place that is unlocatable.
+[51:39.520 --> 51:43.360]  Well, a file can be gone, like deleted, but still on your hard drive.
+[51:44.180 --> 51:47.220]  OK, as a temporary file somewhere or like a.
+[51:48.380 --> 51:51.660]  Unlinked, but for a thing to be missing, doesn't it need to be retrievable?
+[51:52.340 --> 51:53.160]  That's what I'm saying.
+[51:53.760 --> 51:54.240]  But it's not.
+[51:54.300 --> 51:57.280]  If your file was there and then you ran like data recovery,
+[51:57.740 --> 51:59.700]  it could potentially be pulled out of deletion.
+[52:00.300 --> 52:04.080]  But if you didn't ever press record, it was, I assume, never.
+[52:04.080 --> 52:06.220]  No, I recorded the whole thing.
+[52:06.560 --> 52:09.400]  Did you by any chance run data recovery?
+[52:09.880 --> 52:10.300]  I did.
+[52:10.480 --> 52:16.520]  Yeah, I held F469 and ran it flawlessly.
+[52:18.780 --> 52:21.040]  You make it sound like it's a fake thing.
+[52:21.440 --> 52:21.980]  No, I ran.
+[52:22.140 --> 52:24.240]  Listen, I ran all the data recovery you need.
+[52:25.140 --> 52:27.040]  They said, do you want more data recovery?
+[52:27.080 --> 52:28.360]  And I said, Gavin, we want more.
+[52:28.440 --> 52:31.460]  So, yes, more data recovery, please.
+[52:32.040 --> 52:33.000]  Gavin, I don't know.
+[52:33.380 --> 52:36.080]  I don't know if he's taking the data recovery very seriously, man.
+[52:36.300 --> 52:37.420]  Oh, I take the...
+[52:37.420 --> 52:39.100]  I've got to write a list of things that annoy Andrew.
+[52:39.280 --> 52:40.480]  There's data.
+[52:40.920 --> 52:41.920]  Oh, I'm not. I'm not annoyed.
+[52:41.920 --> 52:43.220]  Grilled chicken.
+[52:43.500 --> 52:44.460]  He's definitely annoyed.
+[52:45.180 --> 52:46.200]  Here, here's my file.
+[52:47.300 --> 52:48.220]  Oh, it's too powerful.
+[52:48.540 --> 52:49.080]  That makes sense.
+[52:50.180 --> 52:50.380]  Yeah.
+[52:50.480 --> 52:56.420]  I'll send my file to you, Gavin, and you can tell me if it's corrupted or missing or whatever.
+[52:56.720 --> 52:58.020]  So you do have a file then?
+[52:58.420 --> 52:59.400]  You said no before.
+[52:59.400 --> 53:01.500]  I can't even upload on Slack.
+[53:01.820 --> 53:02.500]  I didn't think I did.
+[53:02.780 --> 53:06.980]  Sometimes Elgato does a thing where it makes a folder, but there's no files in it.
+[53:07.100 --> 53:11.540]  Where this one, it made a folder and it made files, but it's just not a...
+[53:11.540 --> 53:13.220]  It's like an MP4 that's blank.
+[53:14.040 --> 53:14.760]  Zero kilobytes?
+[53:15.780 --> 53:16.280]  Seventeen.
+[53:18.320 --> 53:19.240]  Seventeen gigabytes.
+[53:20.060 --> 53:20.860]  Seventeen gigabytes?
+[53:21.480 --> 53:21.700]  Yeah.
+[53:21.980 --> 53:23.520]  Oh, that's the file.
+[53:23.740 --> 53:24.740]  What? That's the...
+[53:24.740 --> 53:25.760]  You've got it.
+[53:26.220 --> 53:27.000]  Upload it here.
+[53:27.000 --> 53:28.140]  Nick can fix that.
+[53:28.380 --> 53:29.660]  It's probably a header or something.
+[53:29.820 --> 53:30.520]  You probably get that.
+[53:30.780 --> 53:34.040]  Nick dropped a folder so fast it made my head spin.
+[53:34.200 --> 53:38.280]  Drop everything in that folder in there, not just the MP4.
+[53:38.560 --> 53:40.040]  Drop the other container files and stuff too.
+[53:40.620 --> 53:41.220]  Hang on one sec.
+[53:42.760 --> 53:47.220]  If this solved it, that's crazy.
+[53:48.160 --> 53:50.340]  We go through here, drop it in.
+[53:51.820 --> 53:52.680]  And they're loading.
+[53:53.000 --> 53:53.860]  It's three files.
+[53:55.340 --> 53:56.540]  It's going to upload for a little bit.
+[53:58.000 --> 53:58.400]  Okay.
+[53:58.460 --> 53:58.980]  First one failed.
+[53:59.100 --> 54:02.280]  We also need to get more space on the regulation Gmail account.
+[54:03.800 --> 54:05.020]  First one failed.
+[54:05.980 --> 54:07.680]  Yeah, I'm putting all the...
+[54:07.680 --> 54:09.540]  I'm backing up the whole Google Drive right now.
+[54:09.840 --> 54:12.000]  Okay, well, no, it's the email account specifically.
+[54:12.480 --> 54:16.860]  The email, the regulation pod email only has 15 gigabytes of space.
+[54:18.400 --> 54:19.200]  And it's...
+[54:19.200 --> 54:20.500]  Can we up it?
+[54:20.540 --> 54:21.080]  Yeah, absolutely.
+[54:21.220 --> 54:23.300]  Just somebody... I don't have that info to do it, so...
+[54:23.300 --> 54:27.680]  I'm saying we can delete everything after I finish this backup.
+[54:27.980 --> 54:30.240]  But it's Eric's uploads are on it.
+[54:30.980 --> 54:31.760]  Eric's uploads?
+[54:31.900 --> 54:34.940]  Whenever you upload anything, it applies to the regulation pod account.
+[54:35.640 --> 54:36.920]  What the fuck?
+[54:37.020 --> 54:39.980]  And I've been dealing with this quietly for months.
+[54:40.100 --> 54:43.760]  I just delete things that have been uploaded to keep it below 15 gigabytes.
+[54:45.060 --> 54:47.080]  What? I'm logged in as me.
+[54:47.200 --> 54:48.120]  How is it uploading?
+[54:48.460 --> 54:50.380]  I don't know, but it's like all of your files.
+[54:50.480 --> 54:52.080]  It's always whenever we record anything.
+[54:52.660 --> 54:55.100]  Wait, so you've been deleting stuff before the backup?
+[54:55.360 --> 54:55.860]  What have you deleted?
+[54:56.500 --> 54:58.620]  I've been whatever he did. I don't know.
+[54:59.060 --> 54:59.940]  Whatever he's there.
+[55:00.160 --> 55:01.660]  Oh, oh, oh no.
+[55:02.320 --> 55:05.120]  Are you serious? You've just been deleting random stuff?
+[55:05.360 --> 55:07.180]  Once it's uploaded, it's good to go.
+[55:10.220 --> 55:12.460]  It's ready to launch. It's people are seeing it.
+[55:12.460 --> 55:17.820]  We have we have uncovered something here that I don't think we were ready to uncover.
+[55:18.440 --> 55:20.360]  David, if you need the video, it's on YouTube.
+[55:20.360 --> 55:21.440]  You just pull it from YouTube.
+[55:23.340 --> 55:24.360]  There's going to be.
+[55:26.040 --> 55:28.360]  You should not be able to do anything.
+[55:28.780 --> 55:31.680]  Let me write in my notes things that annoy Gavin.
+[55:33.540 --> 55:35.300]  Deleting our files? Pretty annoying.
+[55:37.420 --> 55:38.420]  It's quite annoying.
+[55:38.560 --> 55:42.640]  Well, at least Eric has all his files backed up because everybody backs up all their files.
+[55:42.940 --> 55:44.340]  No, I don't. I don't keep my shit.
+[55:44.480 --> 55:45.720]  I backup the files, you fool.
+[55:45.820 --> 55:48.420]  If you delete them before I back them up, how am I backing them up?
+[55:49.100 --> 55:51.240]  Well, I keep all my stuff locally, too.
+[55:51.880 --> 55:55.340]  You yell at me to save all my stuff locally all the time.
+[55:55.400 --> 55:57.920]  So I just assume that Eric also was saving all his stuff locally.
+[55:58.400 --> 55:59.660]  You're doing a lot of assumptions.
+[56:00.100 --> 56:00.820]  I am.
+[56:00.900 --> 56:02.760]  So wait, Eric, you also delete your versions?
+[56:03.120 --> 56:04.720]  Yeah, I don't want my files. I don't want those.
+[56:05.500 --> 56:09.320]  They go they go on to they go into this Google Drive.
+[56:10.180 --> 56:11.840]  Yeah, but then someone else is deleting them.
+[56:12.180 --> 56:14.160]  The onion continues to peel.
+[56:14.620 --> 56:17.160]  Listen, if you asked me what the fail point was,
+[56:17.300 --> 56:21.240]  I wouldn't have guessed Andrew goes in and just delete some sometimes.
+[56:21.240 --> 56:23.180]  Well, you never know what he's doing. He's just deleting shit.
+[56:23.960 --> 56:29.940]  It's so easy to just have an external hard drive that you can dump to at home
+[56:29.940 --> 56:34.080]  just in case of Andrew or any other kind of internet shenanigans.
+[56:34.100 --> 56:36.080]  All right, all right. Company rule. Company rule, right?
+[56:36.880 --> 56:40.440]  Don't delete something until it's backed up.
+[56:40.440 --> 56:44.200]  How about that? It's just a bog standard blanket.
+[56:44.340 --> 56:47.500]  I don't even think that needs to be said.
+[56:47.680 --> 56:49.500]  I think maybe we just shouldn't do that.
+[56:49.520 --> 56:52.060]  I think it's so fascinating that you're a virtual hoarder.
+[56:52.480 --> 56:56.780]  I think I think maybe I think it needs to be said because Andrew's just deleting stuff
+[56:56.780 --> 56:59.260]  that's been uploaded and it's done. It's fine.
+[56:59.520 --> 57:00.960]  Also, backup locally, too.
+[57:01.800 --> 57:04.700]  It's not hard. I wonder how much stuff is gone.
+[57:05.240 --> 57:07.100]  No more than 15 gigs at a time.
+[57:07.100 --> 57:10.980]  I never would have guessed. Why were you dealing with this quietly for months?
+[57:11.540 --> 57:13.600]  Why were you uploading on the email account?
+[57:14.000 --> 57:18.580]  I'm not. I'm logged in as me. I don't know why it would hit as regulation.
+[57:19.500 --> 57:21.520]  It defaults to it when you go to Google Drive.
+[57:23.460 --> 57:25.420]  What? It defaults to what?
+[57:25.880 --> 57:28.440]  I went to upload something from your desk in the office the other day,
+[57:28.480 --> 57:33.160]  and when you click Google Drive, it defaults to the regulation pod login instead of yours.
+[57:33.280 --> 57:36.920]  It just means you you signed into that account before your actual account.
+[57:36.920 --> 57:38.860]  So it just defaults to the.
+[57:39.360 --> 57:39.880]  That's crazy.
+[57:40.000 --> 57:41.380]  Whatever the preferred one is.
+[57:41.480 --> 57:45.160]  The preferred. Yeah, it's my preferred one. That's what I would call it.
+[57:45.160 --> 57:46.180]  It seems to be.
+[57:46.320 --> 57:48.840]  Yeah, yeah, yeah. It's my number one preferred one.
+[57:49.040 --> 57:52.060]  Why were you dealing with this quietly, Andrew? Why didn't you just say something?
+[57:52.400 --> 57:54.680]  It didn't seem like that big of a deal, generally speaking.
+[57:56.380 --> 57:59.420]  Release a video, delete a video, release a video, delete a video.
+[57:59.580 --> 58:02.740]  It might be my favorite episode we've ever made. This is fantastic.
+[58:02.740 --> 58:11.340]  Why are we going to need your, uh, I don't know, audio for a Let's Watch from a year and a half ago?
+[58:12.260 --> 58:13.280]  Gavin, any thoughts?
+[58:14.740 --> 58:16.960]  Why don't we get rid of libraries, too, already?
+[58:17.320 --> 58:20.460]  That book already got read! Burn every copy!
+[58:21.100 --> 58:25.300]  But we're not, I'm not getting rid of libraries. I'm just, it's, it's accessible.
+[58:25.940 --> 58:27.400]  You're just ripping the pages out.
+[58:28.660 --> 58:31.060]  All of the content is still viewable.
+[58:31.700 --> 58:33.800]  But those pages are all on YouTube.
+[58:34.880 --> 58:37.560]  All of them are visible, viewable things.
+[58:37.760 --> 58:40.480]  We don't need the book. We've got a picture of the book.
+[58:40.680 --> 58:42.900]  It's not a picture of the book. It is the book.
+[58:45.300 --> 58:48.800]  We do have the final versions, Gavin. We're just missing the editor's notes.
+[58:49.180 --> 58:51.620]  I don't understand what the big deal is. The video exists.
+[58:52.320 --> 58:56.140]  You're trying to save the video for the video, but we just have the video.
+[58:58.400 --> 59:02.520]  Correct. Yes, that is indeed quite a short-sighted approach to Daya.
+[59:02.660 --> 59:03.800]  But we just have the video.
+[59:04.340 --> 59:04.780]  Good.
+[59:05.020 --> 59:08.640]  So why do we need the video of the not-video when we have the video?
+[59:10.520 --> 59:12.440]  I feel like we've, we've been here. We've done this.
+[59:12.600 --> 59:13.380]  I was just asking.
+[59:13.880 --> 59:14.720]  Had this conversation.
+[59:15.680 --> 59:20.940]  Asking questions about video also annoy Gavin. Okay, let me, section two.
+[59:21.860 --> 59:26.460]  Make a note to keep Andrew in read-only mode.
+[59:33.100 --> 59:36.740]  So are we all backed up? Because I need to delete a bunch from my personal drive,
+[59:36.840 --> 59:38.480]  because I'm almost full at two terabytes.
+[59:39.280 --> 59:42.500]  I will have the backup done before the end of the day.
+[59:42.660 --> 59:46.580]  Okay, so you say you're going to have our backup done by the end of the day.
+[59:46.620 --> 59:49.900]  That means I can delete anything on my Google Drive after tomorrow?
+[59:49.900 --> 59:52.280]  Let me, let me double-check it all first. Let me give the go-ahead.
+[59:52.720 --> 59:54.120]  Yeah, no worries. Just like give us the go-ahead,
+[59:54.200 --> 59:57.340]  because I'm in the similar boat to Andrew. I need to delete a bunch of shit.
+[59:58.180 --> 59:59.620]  That I have backed up locally.
+[01:00:00.000 --> 01:00:03.260]  But we don't delete Let's Play stuff that hasn't come out yet, right?
+[01:00:03.640 --> 01:00:04.280]  No, of course not.
+[01:00:04.400 --> 01:00:07.220]  Okay, you just said delete everything, so I'm just clarifying.
+[01:00:07.820 --> 01:00:08.360]  Good episode.
+[01:00:08.460 --> 01:00:08.960]  Thanks, Andrew.
+[01:00:09.680 --> 01:00:12.060]  I won't be deleting Eric's audio file for this for...
+[01:00:13.680 --> 01:00:14.720]  Two weeks? Three weeks?
+[01:00:16.280 --> 01:00:19.260]  Yeah, Gavin, you got about two or three weeks to figure it out.
+[01:00:19.920 --> 01:00:23.760]  Have you guys done your list for the 20 best video games of all time yet?
+[01:00:23.920 --> 01:00:25.040]  I sure have. I can't wait.
+[01:00:25.120 --> 01:00:25.720]  No, not yet.
+[01:00:26.040 --> 01:00:26.480]  Not yet.
+[01:00:26.700 --> 01:00:27.500]  I'm still working on mine.
+[01:00:28.100 --> 01:00:31.980]  I was just looking up on Metacritic, the highest rated video games of all time.
+[01:00:32.680 --> 01:00:36.080]  Do you guys... I wonder if between the four of you,
+[01:00:36.120 --> 01:00:40.240]  you could guess any of the top three rated video games of all time.
+[01:00:41.020 --> 01:00:41.420]  Tetris.
+[01:00:41.560 --> 01:00:41.920]  Tetris?
+[01:00:42.460 --> 01:00:42.780]  No.
+[01:00:44.180 --> 01:00:44.620]  Uh...
+[01:00:44.620 --> 01:00:45.060]  Pac-Man?
+[01:00:45.860 --> 01:00:46.200]  No.
+[01:00:47.440 --> 01:00:47.880]  Uh...
+[01:00:47.880 --> 01:00:49.220]  These are Metascore ratings, right?
+[01:00:49.220 --> 01:00:50.700]  Baldur's Gate 3.
+[01:00:51.400 --> 01:00:51.880]  No.
+[01:00:52.700 --> 01:00:53.320]  They're all older.
+[01:00:53.620 --> 01:00:54.240]  They're all older?
+[01:00:55.080 --> 01:00:57.720]  Oh, uh, nothing past 2010.
+[01:00:58.520 --> 01:00:59.000]  Okay.
+[01:00:59.960 --> 01:01:00.600]  Kane and Lynch.
+[01:01:01.520 --> 01:01:02.760]  Yeah, they nailed it.
+[01:01:03.360 --> 01:01:06.400]  It was Army of Two, Kane and Lynch, and...
+[01:01:06.400 --> 01:01:06.920]  Army of Two, too.
+[01:01:07.880 --> 01:01:09.080]  There were three Army of Twos.
+[01:01:09.480 --> 01:01:10.140]  It's crazy.
+[01:01:10.920 --> 01:01:12.780]  Now that's a co-op series we could hit up.
+[01:01:15.200 --> 01:01:17.840]  The internet needs more Army of Two.
+[01:01:19.420 --> 01:01:23.920]  Anyway, according to Metacritic, the top three video games of all time are Legend of Zelda,
+[01:01:24.020 --> 01:01:25.960]  Ocarina of Time is number one.
+[01:01:26.640 --> 01:01:28.220]  Number two is Soulcalibur.
+[01:01:28.340 --> 01:01:29.320]  That's the one that blew me away.
+[01:01:29.580 --> 01:01:31.580]  And then number three is GTA 4.
+[01:01:32.240 --> 01:01:33.760]  Yeah, I've only played two of those.
+[01:01:34.060 --> 01:01:35.280]  I mean, what a weird list.
+[01:01:35.640 --> 01:01:37.320]  Yeah, just going off Metascore.
+[01:01:37.440 --> 01:01:38.560]  99, 98, 98.
+[01:01:39.420 --> 01:01:41.560]  Below that, it's all Super Mario Galaxy shit.
+[01:01:41.940 --> 01:01:43.060]  Yeah, that makes sense.
+[01:01:44.860 --> 01:01:48.580]  It's some fucking Super Mario Galaxy bullshit on this.
+[01:01:48.800 --> 01:01:50.980]  Some fucking suspenders, red hat, nuts.
+[01:01:51.320 --> 01:01:52.640]  Definitely how I feel about it, yeah.
+[01:01:53.280 --> 01:01:54.620]  Some mushroom eating fool.
+[01:01:57.420 --> 01:02:01.040]  Oh, Geoff, we did a co-op series, didn't we?
+[01:02:01.140 --> 01:02:01.820]  Yeah, we did.
+[01:02:02.180 --> 01:02:04.500]  Gavin and I started our own co-op series.
+[01:02:04.740 --> 01:02:05.060]  That's great.
+[01:02:05.140 --> 01:02:06.420]  And it was delightful.
+[01:02:06.940 --> 01:02:11.720]  Much like the world needed more Army of Two content, it also needed more Portal 2 content.
+[01:02:11.840 --> 01:02:12.280]  Great game.
+[01:02:13.240 --> 01:02:14.860]  So that's what we started playing.
+[01:02:15.220 --> 01:02:15.700]  That's awesome.
+[01:02:15.920 --> 01:02:17.460]  And we were talking about it.
+[01:02:18.520 --> 01:02:22.720]  Playing Portal 2 in 2025 might as well be the first time I've ever seen the game.
+[01:02:22.840 --> 01:02:25.040]  I have zero memory of any of it.
+[01:02:25.240 --> 01:02:25.480]  Really?
+[01:02:25.780 --> 01:02:26.020]  Yeah.
+[01:02:26.240 --> 01:02:26.840]  That's great.
+[01:02:27.040 --> 01:02:27.900]  Yeah, I didn't remember anything.
+[01:02:28.280 --> 01:02:31.780]  We were discussing that we could probably do the series again in about five or six years
+[01:02:31.780 --> 01:02:33.920]  and it would be like playing it for the first time again.
+[01:02:34.460 --> 01:02:35.000]  Oh, for sure.
+[01:02:35.180 --> 01:02:36.300]  Yeah, puzzle games especially.
+[01:02:36.440 --> 01:02:38.520]  I feel like I forget after a year.
+[01:02:39.780 --> 01:02:43.040]  Maybe we should track our declining IQ by doing it every five years.
+[01:02:43.760 --> 01:02:46.220]  That's a good way to see how dumb we're getting.
+[01:02:47.380 --> 01:02:49.080]  You guys killed anything yet in that game?
+[01:02:49.400 --> 01:02:50.940]  Do I need to update the time to kill list?
+[01:02:51.280 --> 01:02:52.940]  Oh, the time to kill is pretty quick, I think.
+[01:02:53.480 --> 01:02:55.540]  Oh yeah, I found lots of ways to kill Gavin, don't worry.
+[01:02:59.860 --> 01:03:01.320]  Well, we have to do two of these today.
+[01:03:01.420 --> 01:03:03.400]  Should we wrap this one up and start into the next one?
+[01:03:03.640 --> 01:03:05.120]  I guess we probably should.
+[01:03:05.500 --> 01:03:06.420]  What an episode, Gavin.
+[01:03:07.020 --> 01:03:08.760]  You want to take us out since it's your episode?
+[01:03:09.260 --> 01:03:13.440]  Yeah, since this was a Gavin episode, do you want to ride us off into the sunset?
+[01:03:14.180 --> 01:03:18.060]  Thanks for listening to episode 67 of the Regulation Podcast.
+[01:03:18.740 --> 01:03:20.200]  Feel free to check us out on Patreon.
+[01:03:21.420 --> 01:03:23.360]  Oh, I've done it to myself.
+[01:03:24.120 --> 01:03:26.760]  Although I full circle came a bit my own arsehole with it.
+[01:03:27.660 --> 01:03:28.020]  Patreon!
+[01:03:28.320 --> 01:03:29.640]  We're RegulationPod on Patreon.
+[01:03:30.560 --> 01:03:31.720]  Do you want me to delete that for you?
+[01:03:32.840 --> 01:03:34.220]  I can delete it for you if you want.
+[01:03:34.300 --> 01:03:35.300]  That hasn't been backed up yet.
+[01:03:35.300 --> 01:03:37.640]  You could go back in time and delete it before I flubbed it.
+[01:03:38.760 --> 01:03:39.820]  Okay, here we go.
+[01:03:39.820 --> 01:03:40.860]  All right, here we go.
+[01:03:41.000 --> 01:03:43.180]  Oh, Nick, we're in the time machine!
+[01:03:44.640 --> 01:03:47.680]  Oh, everything we have to fix Gavin's flub.
+[01:03:47.740 --> 01:03:50.500]  He's got one more to get away from.
+[01:03:51.200 --> 01:03:56.080]  Oh, the machine broke.
+[01:03:58.780 --> 01:03:59.600]  We're stuck.
+[01:04:02.500 --> 01:04:03.060]  Goodbye?

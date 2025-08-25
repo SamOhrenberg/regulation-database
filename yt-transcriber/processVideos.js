@@ -135,7 +135,7 @@ async function extractStaticImages(videoPath, episodeImagesDir) {
                 );
 
                 // Log the first check's result
-                //console.log(`[${frameId}] Trigger similarity: ${triggerSimilarity.toFixed(4)} (Threshold: < ${config.imageExtraction.similarityThreshold})`);
+                console.log(`[${frameId}] Trigger similarity: ${triggerSimilarity.toFixed(4)} (Threshold: < ${config.imageExtraction.similarityThreshold})`);
 
                 if (triggerSimilarity < config.imageExtraction.similarityThreshold) {
                     //console.log(`[${frameId}] [i=${currentIndex}] PASSED trigger check. Now checking stability... for ${nextFrameId} and ${nextNextFrameId}`);
@@ -253,7 +253,7 @@ async function main() {
                     episode.url,
                     '--cookies-from-browser', 'firefox',
                     '-o', path.join(tempVideoDir, '%(id)s.%(ext)s'),
-                    '-f', 'bestvideo[height<=480][ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best',
+                    '-f', 'bestvideo[height<=720][ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best',
                     //'-f', 'bestvideo[ext=mp4]+bestaudio[ext=a]/best[ext=mp4]/best',
 
                 ]);

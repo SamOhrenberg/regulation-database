@@ -24,22 +24,26 @@ export const config = {
   // --- Similarity-Based Image Extraction ---
   imageExtraction: {
     enabled: true,
-    similarityThreshold: 0.7, 
+    similarityThreshold: 0.95, 
     similarityThresholdUpperCheck: 0.95,
     debug: true, 
 
-    pixelMatchThreshold: 0.25, // Tolerance for pixel differences (0 to 1). Lower is more strict.
+    pixelMatchThreshold: 0.4, // Tolerance for pixel differences (0 to 1). Lower is more strict.
+
+    // Resize frames before comparison to speed up and smooth differences.
+    // Set to null to disable resizing (use full resolution).
+    resizedWidth: 100, 
 
     // Set to null to have the script automatically determine the write number of concurrent threads to use based on CPU cores.
     // Or set to 1 to disable concurrency (easier debugging).
-    maxConcurrency: 6,
+    maxConcurrency: 12,
     
     cropDetection: { 
       enabled: true, // Set to true to only analyze the center of the video
-      width: 0.8,    
+      width: 0.6,    
       left: 0.2,     
-      height: 0.3,
-      top: 0.4,
+      height: 0.9,
+      top: 0.05,
     }
   },
 

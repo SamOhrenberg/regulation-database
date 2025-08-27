@@ -36,7 +36,7 @@ function HeroEpisodeCard({ title, episode, isPriority = false  }) {
           <div className="image-carousel">
             <img
               src={imageSources[currentImageIndex]}
-              alt={`${episode.title} - Image ${currentImageIndex + 1}`}
+              alt={`${episode.title} - ${currentImageIndex + 1}`}
               className="latest-episode-thumbnail"
               loading={isPriority ? 'eager' : 'lazy'}
             />

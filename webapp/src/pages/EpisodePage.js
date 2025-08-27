@@ -90,9 +90,7 @@ function EpisodePage() {
   }
   if (episode && episode.images && Array.isArray(episode.images)) {
     episode.images.forEach(imgPath => {
-      // Construct the full URL from the relative path
-      const fullUrl = `${GITHUB_RAW_BASE_URL}${imgPath.replace('./', 'transcriptions/')}`;
-      imageSources.push(fullUrl);
+      imageSources.push(imgPath);
     });
   }
 

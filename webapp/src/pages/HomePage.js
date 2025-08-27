@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import HeroEpisodeCard from './HeroEpisodeCard';
 
 const REPO_OWNER = process.env.REACT_APP_GITHUB_REPO_OWNER;
 const REPO_NAME = process.env.REACT_APP_GITHUB_REPO_NAME;
@@ -8,6 +9,8 @@ const METADATA_URL = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAM
 
 function HomePage() {
   const [latestEpisode, setLatestEpisode] = useState(null);
+  const [latestSupplemental, setLatestSupplemental] = useState(null);
+  const [latestGameplay, setLatestGameplay] = useState(null);
   const [shows, setShows] = useState([]);
   const [loading, setLoading] = useState(true);
 
@@ -17,14 +20,23 @@ function HomePage() {
         const response = await fetch(METADATA_URL);
         const metadata = await response.json();
 
-        // Find the latest "Episode" from the "Regulation Podcast"
-        if (metadata['Regulation Podcast']) {
-          const latest = metadata['Regulation Podcast']
-            .filter(ep => ep.category === 'Episode') // Filter by category
-            .sort((a, b) => parseInt(b.upload_date) - parseInt(a.upload_date)) // Sort by newest
-            [0]; // Get the very first one
-          setLatestEpisode(latest);
-        }
+        const allEpisodes = Object.values(metadata).flat();
+        
+        const episode = allEpisodes
+          .filter(ep => ep.category === 'Episode')
+          .sort((a, b) => parseInt(b.upload_date) - parseInt(a.upload_date))[0];
+        setLatestEpisode(episode);
+
+        const supplemental = allEpisodes
+          .filter(ep => ep.category !== 'Episode' && ep.category !== 'Gameplay')
+          .sort((a, b) => parseInt(b.upload_date) - parseInt(a.upload_date))[0];
+        setLatestSupplemental(supplemental);
+
+        const gameplay = allEpisodes
+          .filter(ep => ep.category === 'Gameplay')
+          .sort((a, b) => parseInt(b.upload_date) - parseInt(a.upload_date))[0];
+        setLatestGameplay(gameplay);
+
 
         // Get the list of all available shows
         setShows(Object.keys(metadata));
@@ -43,36 +55,24 @@ function HomePage() {
     return <div className="status-message">Loading...</div>;
   }
 
-  // Helper to create a URL-friendly slug from a show name
-  const getEpisodeId = (path) => path.split('/').pop().replace('.txt', '');
+  // Combine thumbnail and other images into a single array for the carousel
+  const imageSources = [];
+  if (latestEpisode && latestEpisode.thumbnail) {
+    imageSources.push(latestEpisode.thumbnail);
+  }
+  if (latestEpisode && latestEpisode.images && Array.isArray(latestEpisode.images)) {
+    // Use the spread operator to add all images from the episode
+    imageSources.push(...latestEpisode.images);
+  }
 
   return (
     <div className="homepage">
-      {/* --- LATEST EPISODE HERO SECTION --- */}
-      {latestEpisode && (
-        <section className="hero-section">
-          <h2>Latest Episode</h2>
-          <div className="latest-episode-card">
-            <img src={latestEpisode.thumbnail} alt={latestEpisode.title} className="latest-episode-thumbnail" />
-            <div className="latest-episode-meta">
-              <span className="show-badge">{latestEpisode.show}</span>
-              <h3>{latestEpisode.title}</h3>
-              <p className="episode-description">
-                {/* Truncate the description to a reasonable length */}
-                {latestEpisode.description.substring(0, 200)}...
-              </p>
-              <Link 
-                to={`/episode/${encodeURIComponent(getEpisodeId(latestEpisode.transcript_path))}`} 
-                className="button-primary"
-              >
-                View Full Transcript
-              </Link>
-            </div>
-          </div>
-        </section>
-      )}
+      <div className="hero-container">
+        <HeroEpisodeCard title="Latest Episode" episode={latestEpisode} isPriority={true} />
+        <HeroEpisodeCard title="Latest Supplemental" episode={latestSupplemental} />
+        <HeroEpisodeCard title="Latest Gameplay" episode={latestGameplay} />
+      </div>
 
-      {/* --- BROWSE BY SHOW SECTION --- */}
       <section className="browse-section">
         <h2>Browse by Show</h2>
         <div className="show-grid">

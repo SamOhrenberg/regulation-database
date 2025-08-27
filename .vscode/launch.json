@@ -36,6 +36,16 @@
       ],
       "program": "${workspaceFolder}/yt-transcriber/processVideos.js",
       "console": "integratedTerminal"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Run Migrate to S3",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/yt-transcriber/migrateToS3.cjs",
+      "console": "integratedTerminal"
     }
   ]
 }

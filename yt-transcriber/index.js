@@ -10,10 +10,20 @@ import { promisify } from 'util';
 import { createRequire } from 'module';
 import pLimit from 'p-limit';
 import os from 'os';
+import AWS from 'aws-sdk'; 
 
 const require = createRequire(import.meta.url);
 const ffmpeg = require('fluent-ffmpeg');
 const execPromise = promisify(exec);
+
+const BUCKET_NAME = 'regulatabase-images';
+const AWS_REGION = 'us-east-1';
+
+AWS.config.update({
+    region: AWS_REGION,
+});
+
+const s3 = new AWS.S3();
 
 // --- Helper Functions (calculateShow, calculateCategory, etc. are unchanged) ---
 function calculateShow(info, item) {
@@ -62,7 +72,6 @@ const baseTranscriptionDir = path.join(projectRoot, 'transcriptions');
 const metadataFilePath = path.join(baseTranscriptionDir, 'metadata.json');
 const tempProcessingPath = path.resolve(__dirname, 'temp_processing'); // --- MODIFIED --- More general temp dir
 
-const IMAGES_BASE_DIR = path.join(baseTranscriptionDir, 'images');
 const COMPARER_SCRIPT_PATH = path.join(__dirname, 'compare_images.cjs');
 ffmpeg.setFfmpegPath(path.join(config.ffmpegPath, 'ffmpeg.exe'));
 ffmpeg.setFfprobePath(path.join(config.ffmpegPath, 'ffprobe.exe'));
@@ -78,6 +87,29 @@ const sanitizeFilename = (name) => {
 };
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+async function uploadImageToS3(filePath, s3Key) {
+    try {
+        const fileContent = await fs.readFile(filePath);
+
+        const params = {
+            Bucket: BUCKET_NAME,
+            Key: s3Key,
+            Body: fileContent,
+        };
+
+        await s3.upload(params).promise();
+
+        // Manually construct the public URL, as we are using a bucket policy
+        const publicUrl = `https://${BUCKET_NAME}.s3.${AWS_REGION}.amazonaws.com/${s3Key}`;
+        
+        console.log(`Successfully uploaded ${path.basename(filePath)} to ${publicUrl}`);
+        return publicUrl;
+    } catch (err) {
+        console.error(`Error uploading ${path.basename(filePath)}:`, err);
+        return null;
+    }
+}
 
 async function main() {
   await fs.mkdir(tempProcessingPath, { recursive: true }); // --- MODIFIED ---
@@ -236,9 +268,7 @@ async function processDownloadedFile(workItem, logPrefix) {
 
   const sanitizedShowName = sanitizeFilename(show);
   const showDir = path.join(baseTranscriptionDir, sanitizedShowName);
-  const episodeImagesDir = path.join(IMAGES_BASE_DIR, sanitizedShowName, itemInfo.id);
   await fs.mkdir(showDir, { recursive: true });
-  await fs.mkdir(episodeImagesDir, { recursive: true });
 
   const transcriptPath = path.join(showDir, `${baseFilename}.txt`);
 
@@ -257,11 +287,10 @@ async function processDownloadedFile(workItem, logPrefix) {
         console.log(`${logPrefix} Starting parallel transcription and image extraction...`);
 
         const transcriptionTask = transcribeMedia(tempMediaPath, showDir, transcriptPath, logPrefix);
-        const imageExtractionTask = extractStaticImages(tempMediaPath, episodeImagesDir, logPrefix);
+        const imageExtractionTask = extractStaticImages(tempMediaPath, episodeImagesDir, logPrefix, sanitizedShowName, itemInfo.id);
 
-        const [_, imagePaths] = await Promise.all([transcriptionTask, imageExtractionTask]);
-
-        newMetadataEntry.images = imagePaths;
+        const [_, imageUrls] = await Promise.all([transcriptionTask, imageExtractionTask]);
+        newMetadataEntry.images = imageUrls;
         console.log(`${logPrefix} Found ${imagePaths.length} static images.`);
 
       } else { // mediaType is 'audio'
@@ -309,7 +338,7 @@ async function transcribeMedia(mediaPath, outputDir, transcriptPath, logPrefix) 
   }
 }
 
-async function extractStaticImages(videoPath, episodeImagesDir, logPrefix) {
+async function extractStaticImages(videoPath, logPrefix, showName, episodeId) {
   console.log(`${logPrefix} Extracting frames...`);
   const tempFramesDir = path.join(tempProcessingPath, 'frames', path.basename(videoPath));
   await cleanupDir(tempFramesDir);
@@ -442,17 +471,22 @@ async function extractStaticImages(videoPath, episodeImagesDir, logPrefix) {
       if (!isDuplicate) uniqueFramePaths.push(candidateFramePaths[i]);
     }
   }
-
-  const finalRelativePaths = [];
+  
+  console.log(`${logPrefix} Found ${uniqueFramePaths.length} unique images. Uploading to S3...`);
+  const finalImageUrls = [];
   for (let i = 0; i < uniqueFramePaths.length; i++) {
     const sourcePath = uniqueFramePaths[i];
-    const destPath = path.join(episodeImagesDir, `${String(i + 1).padStart(3, '0')}.png`);
-    await fs.copyFile(sourcePath, destPath);
-    finalRelativePaths.push(path.relative(baseTranscriptionDir, destPath).replace(/\\/g, '/'));
+    const imageName = `${String(i + 1).padStart(3, '0')}.png`;
+    const s3Key = path.join(showName, episodeId, imageName).replace(/\\/g, '/'); // S3 uses forward slashes
+
+    const publicUrl = await uploadImageToS3(sourcePath, s3Key);
+    if (publicUrl) {
+      finalImageUrls.push(publicUrl);
+    }
   }
 
   await cleanupDir(tempFramesDir);
-  return finalRelativePaths;
+  return finalImageUrls;
 }
 
 

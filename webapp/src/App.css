@@ -806,3 +806,43 @@ main {
   font-size: 0.9rem;
   z-index: 10;
 }
+
+.hero-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 2rem; /* Adds space between the cards */
+  width: 100%;
+  margin-bottom: 3rem; /* Space before the "Browse by Show" section */
+}
+
+/* Ensure individual hero sections don't have extra margins that fight the grid gap */
+.hero-section {
+  margin: 0; 
+}
+
+/* Make sure the main card inside takes up the full height of its container */
+.latest-episode-card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* This makes the text area grow to fill available space, pushing the button to the bottom */
+.latest-episode-meta {
+  flex-grow: 1; 
+  display: flex;
+  flex-direction: column;
+}
+
+.latest-episode-meta .button-primary {
+  margin-top: auto; /* Pushes the button to the very bottom of the card */
+}
+
+/* --- Responsive Adjustments --- */
+@media (max-width: 480px) {
+  .hero-container {
+    /* On very small screens, reduce the minimum width to prevent overflow */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+  }
+}

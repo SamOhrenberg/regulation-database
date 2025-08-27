@@ -66,7 +66,7 @@ async function getSimilarity(imgPath1, imgPath2, cropArea) {
 }
 
 
-async function extractStaticImages(videoPath, episodeImagesDir) {
+async function extractStaticImages(videoPath, showName, episodeId) {
     if (!config.imageExtraction.enabled) {
         return [];
     }
@@ -202,17 +202,28 @@ async function extractStaticImages(videoPath, episodeImagesDir) {
         }
     }
 
-    const finalRelativePaths = [];
+    console.log(`Found ${uniqueFramePaths.length} unique images. Uploading to S3...`);
+    const finalImageUrls = [];
     for (let i = 0; i < uniqueFramePaths.length; i++) {
         const sourcePath = uniqueFramePaths[i];
-        const destPath = path.join(episodeImagesDir, `${String(i + 1).padStart(3, '0')}.png`);
-        await fs.copyFile(sourcePath, destPath);
-        finalRelativePaths.push(path.relative(baseTranscriptionDir, destPath).replace(/\\/g, '/'));
+        const imageName = `${String(i + 1).padStart(3, '0')}.png`;
+        const s3Key = path.join(showName, episodeId, imageName).replace(/\\/g, '/');
+
+        const publicUrl = await uploadImageToS3(sourcePath, s3Key);
+        if (publicUrl) {
+            finalImageUrls.push(publicUrl);
+        }
     }
 
     await cleanupDir(tempFramesDir);
-    return finalRelativePaths;
+    return finalImageUrls; 
 }
+
+const sanitizeFilename = (name) => {
+  const withSeparators = name.replace(/\s*[\\/|*]+\s*/g, ' - ');
+  const sanitized = withSeparators.replace(/[^a-zA-Z0-9\s\-_\[\]\(\)]/g, '');
+  return sanitized.replace(/\s+/g, ' ').trim();
+};
 
 
 /**
@@ -238,13 +249,19 @@ async function main() {
             }
 
             console.log(`\nProcessing episode: "${episode.title}"`);
+
+            if (episode.title.toLowerCase().includes('compilation')) {
+                console.log(`Skipping "${episode.title}" (compilation detected).`);
+                episode.scannedForImages = true;
+                await fs.writeFile(METADATA_PATH, JSON.stringify(metadata, null, 2));
+                continue;
+            }
+
             const videoId = episode.id;
             const tempVideoDir = path.join(TEMP_DIR, videoId);
-            const episodeImagesDir = path.join(IMAGES_BASE_DIR, show, videoId);
 
             await cleanupDir(tempVideoDir);
             await ensureDir(tempVideoDir);
-            await ensureDir(episodeImagesDir);
 
             try {
                 console.log(`Downloading video: ${videoId}...`);
@@ -279,16 +296,16 @@ async function main() {
                 const videoPath = path.join(tempVideoDir, videoFileName);
                 console.log(`Found downloaded video: ${videoPath}`);
 
-                const newImagePaths = await extractStaticImages(videoPath, episodeImagesDir);
+                const newImageUrls = await extractStaticImages(videoPath, sanitizeFilename(show), videoId);
 
-                if (newImagePaths.length > 0) {
-                    episode.images = newImagePaths;
-                    console.log(`Successfully extracted ${newImagePaths.length} images for "${episode.title}".`);
+                if (newImageUrls.length > 0) {
+                    episode.images = newImageUrls;
+                    console.log(`Successfully extracted and uploaded ${newImageUrls.length} images for "${episode.title}".`);
                 } else {
                     console.log(`No significant static images found for "${episode.title}".`);
                     episode.images = [];
                 }
-
+                
                 episode.scannedForImages = true;
 
                 console.log(`\nSaving progress to metadata.json for "${episode.title}"...`);

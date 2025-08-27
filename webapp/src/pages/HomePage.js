@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import HeroEpisodeCard from './HeroEpisodeCard';
+import HeroEpisodeCard from '../components/HeroEpisodeCard';
 
 const REPO_OWNER = process.env.REACT_APP_GITHUB_REPO_OWNER;
 const REPO_NAME = process.env.REACT_APP_GITHUB_REPO_NAME;

@@ -243,7 +243,7 @@ async function main() {
     for (const show of Object.keys(metadata)) {
         console.log(`\n--- Processing show: ${show} ---`);
         for (const episode of metadata[show]) {
-            if (episode.scannedForImages || (Array.isArray(episode.images) && episode.images.length > 0)) {
+            if (episode.scannedForImages || (Array.isArray(episode.images) && episode.images.length > 0) || episode.source.toLowerCase() !== 'youtube') {
                 console.log(`Skipping "${episode.title}" (already scanned for images).`);
                 continue;
             }
@@ -305,7 +305,7 @@ async function main() {
                     console.log(`No significant static images found for "${episode.title}".`);
                     episode.images = [];
                 }
-                
+
                 episode.scannedForImages = true;
 
                 console.log(`\nSaving progress to metadata.json for "${episode.title}"...`);

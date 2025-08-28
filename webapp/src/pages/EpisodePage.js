@@ -110,6 +110,7 @@ function EpisodePage() {
               src={imageSources[currentImageIndex]} 
               alt={`${episode.title} - ${currentImageIndex + 1}`} 
               className="episode-thumbnail" 
+              loading="eager"
             />
             {imageSources.length > 1 && (
               <>

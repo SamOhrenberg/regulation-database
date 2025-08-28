@@ -16,7 +16,6 @@ body {
 }
 
 .App {
-  max-width: 700px;
   margin: 4rem auto;
   padding: 2rem;
   text-align: left;
@@ -399,7 +398,7 @@ mark {
 
 /* --- Homepage Styles --- */
 .homepage {
-  max-width: 900px;
+  max-width: 1200px;
   margin: 2rem auto;
   padding: 0 2rem;
 }
@@ -412,37 +411,6 @@ mark {
   padding-bottom: 0.75rem;
 }
 
-.hero-section {
-  margin-bottom: 4rem;
-}
-
-    
-    
-.latest-episode-card {
-  display: grid;
-  /* CHANGED: Use a single column to stack the image and text vertically. */
-  grid-template-columns: 1fr;
-  background-color: #1a1d20;
-  border: 1px solid var(--border-color);
-  border-radius: 8px;
-  overflow: hidden; /* Ensures the image corners are rounded */
-}
-
-  
-  
-.latest-episode-thumbnail {
-  width: 100%;
-  height: auto;
-  max-height: 450px;
-  object-fit: cover; /* Ensures the image fills the width beautifully. */
-}
-
-.latest-episode-meta {
-  padding: 2rem;
-  display: flex;
-  flex-direction: column;
-}
-
 .show-badge {
   background-color: var(--accent-color);
   color: var(--background-color);
@@ -450,7 +418,7 @@ mark {
   border-radius: 12px;
   font-size: 0.8rem;
   font-weight: 700;
-  align-self: flex-start; /* Makes the badge only as wide as its content */
+  align-self: flex-start;
   margin-bottom: 1rem;
 }
 
@@ -459,10 +427,16 @@ mark {
   font-size: 1.75rem;
 }
 
-.episode-description {
-  color: var(--text-color);
-  line-height: 1.6;
-  flex-grow: 1; /* Pushes the button to the bottom */
+.hero-title-link,
+.hero-title-link:link,
+.hero-title-link:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+.hero-title-link:hover {
+  cursor: pointer;
+  text-decoration: underline;
 }
 
 .button-primary {
@@ -807,42 +781,62 @@ main {
   z-index: 10;
 }
 
-.hero-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  gap: 2rem; /* Adds space between the cards */
+.image-carousel {
+  position: relative; 
+  
+  aspect-ratio: 16 / 9;
+  
+  background-color: #2c2c2c; 
+}
+
+.latest-episode-thumbnail {
   width: 100%;
-  margin-bottom: 3rem; /* Space before the "Browse by Show" section */
-}
-
-/* Ensure individual hero sections don't have extra margins that fight the grid gap */
-.hero-section {
-  margin: 0; 
-}
-
-/* Make sure the main card inside takes up the full height of its container */
-.latest-episode-card {
   height: 100%;
-  display: flex;
-  flex-direction: column;
+  object-fit: cover; /* Scales the image to cover the container, cropping if necessary */
+  display: block; /* Removes any extra space below the image */
 }
 
-/* This makes the text area grow to fill available space, pushing the button to the bottom */
-.latest-episode-meta {
-  flex-grow: 1; 
+.latest-episode-card {
+  background-color: #1e1e1e;
+  border-radius: 8px;
+  overflow: hidden;
+  
   display: flex;
   flex-direction: column;
+  
+  height: 100%; 
+}
+
+.latest-episode-meta {
+  flex-grow: 1; /* This is crucial - it makes the meta section fill the remaining space */
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
 }
 
 .latest-episode-meta .button-primary {
-  margin-top: auto; /* Pushes the button to the very bottom of the card */
+  margin-top: auto; /* This pushes the button to the very bottom of the card */
+  align-self: flex-start; /* Aligns button to the left */
 }
 
-/* --- Responsive Adjustments --- */
-@media (max-width: 480px) {
+.episode-description {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4; 
+  margin-bottom: 1rem; 
+}
+
+.hero-container {
+  display: grid;
+  grid-template-columns: 1fr; /* Default to one column for mobile */
+  gap: 2rem;
+  margin-bottom: 10rem;
+}
+
+@media (min-width: 992px) {
   .hero-container {
-    /* On very small screens, reduce the minimum width to prevent overflow */
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: repeat(3, 1fr); /* Switch to three columns */
   }
 }
+

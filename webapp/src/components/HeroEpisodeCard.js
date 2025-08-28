@@ -28,6 +28,8 @@ function HeroEpisodeCard({ title, episode, isPriority = false  }) {
     return null; // Don't render anything if there's no episode
   }
 
+    const episodeLink = `/episode/${encodeURIComponent(getEpisodeId(episode.transcript_path))}`;
+
   return (
     <section className="hero-section">
       <h2>{title}</h2>
@@ -51,12 +53,14 @@ function HeroEpisodeCard({ title, episode, isPriority = false  }) {
         )}
         <div className="latest-episode-meta">
           <span className="show-badge">{episode.show}</span>
-          <h3>{episode.title}</h3>
+          <Link to={episodeLink} className="hero-title-link">
+            <h3>{episode.title}</h3>
+          </Link>
           <p className="episode-description">
             {episode.description.substring(0, 200)}...
           </p>
           <Link
-            to={`/episode/${encodeURIComponent(getEpisodeId(episode.transcript_path))}`}
+            to={episodeLink}
             className="button-primary"
           >
             View Full Transcript

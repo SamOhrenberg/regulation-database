@@ -16,7 +16,7 @@ body {
 }
 
 .App {
-  margin: 4rem auto;
+  margin: 0 auto;
   padding: 2rem;
   text-align: left;
 }
@@ -427,6 +427,11 @@ mark {
   font-size: 1.75rem;
 }
 
+.hero-section {
+  margin-bottom: 5rem;
+}
+
+
 .hero-title-link,
 .hero-title-link:link,
 .hero-title-link:visited {
@@ -831,7 +836,6 @@ main {
   display: grid;
   grid-template-columns: 1fr; /* Default to one column for mobile */
   gap: 2rem;
-  margin-bottom: 10rem;
 }
 
 @media (min-width: 992px) {

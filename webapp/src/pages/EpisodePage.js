@@ -1,11 +1,13 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef  } from 'react';
 import { useParams } from 'react-router-dom';
+import ReportErrorModal from '../components/ReportErrorModal';
 
 // --- Constants and Helper Functions (no changes here) ---
 const REPO_OWNER = process.env.REACT_APP_GITHUB_REPO_OWNER;
 const REPO_NAME = process.env.REACT_APP_GITHUB_REPO_NAME;
 const GITHUB_RAW_BASE_URL = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/`;
 const METADATA_URL = `${GITHUB_RAW_BASE_URL}transcriptions/metadata.json`;
+const GITHUB_REPO_URL = `https://github.com/${REPO_OWNER}/${REPO_NAME}`;
 
 const parseTranscript = (text) => {
   const lines = text.split(/\r?\n/);
@@ -48,12 +50,17 @@ function EpisodePage() {
   
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
+  const [selectedTimestamp, setSelectedTimestamp] = useState('');
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [selectedText, setSelectedText] = useState('');
+  const [popup, setPopup] = useState({ show: false, x: 0, y: 0 });
+  const transcriptContainerRef = useRef(null);
+
   useEffect(() => {
-    // ... (The useEffect data fetching logic remains exactly the same)
     const fetchEpisodeData = async () => {
       setLoading(true);
       setError(null);
-      setCurrentImageIndex(0); // Reset index on new episode load
+      setCurrentImageIndex(0); 
       try {
         const metaResponse = await fetch(METADATA_URL);
         if (!metaResponse.ok) throw new Error('Failed to fetch metadata.json');
@@ -81,6 +88,71 @@ function EpisodePage() {
     fetchEpisodeData();
   }, [id]);
 
+  useEffect(() => {
+    const handleSelection = () => {
+      const selection = window.getSelection();
+      const text = selection.toString().trim();
+      
+      if (text && transcriptContainerRef.current?.contains(selection.anchorNode)) {
+        const range = selection.getRangeAt(0);
+        const rect = range.getBoundingClientRect();
+
+        // Logic to find the timestamp
+        // Start from the element where the selection began
+        const startNode = selection.anchorNode;
+        // Find the closest parent element that is a '.transcript-line'
+        const parentLine = startNode.parentElement.closest('.transcript-line');
+
+        if (parentLine && parentLine.dataset.timestamp) {
+          // If we found a line with a timestamp, store it in state
+          setSelectedTimestamp(parentLine.dataset.timestamp);
+        } else {
+          // Otherwise, clear it
+          setSelectedTimestamp('');
+        }
+
+        setPopup({
+          show: true,
+          x: rect.left + window.scrollX + rect.width / 2,
+          y: rect.top + window.scrollY,
+        });
+        setSelectedText(text);
+      } else {
+        setPopup({ show: false, x: 0, y: 0 });
+      }
+    };
+
+    const handleClickOutside = (event) => {
+       if (popup.show && !event.target.closest('.selection-popup')) {
+           setPopup({ show: false, x: 0, y: 0 });
+       }
+    }
+
+    document.addEventListener('mouseup', handleSelection);
+    document.addEventListener('touchend', handleSelection);
+    document.addEventListener('mousedown', handleClickOutside);
+    document.addEventListener('touchstart', handleClickOutside);
+    
+    return () => {
+      document.removeEventListener('mouseup', handleSelection);
+      document.removeEventListener('touchend', handleSelection);
+      document.removeEventListener('mousedown', handleClickOutside);
+      document.removeEventListener('touchstart', handleClickOutside);
+    };
+  }, [popup.show]); 
+
+
+  const openReportModal = (text = '') => {
+    setSelectedText(text);
+    setIsModalOpen(true);
+    setPopup({show: false, x: 0, y: 0});
+  };
+
+  const closeReportModal = () => {
+    setIsModalOpen(false);
+    setSelectedText('');
+  }
+
   if (loading) { return <div className="status-message">Loading episode...</div>; }
   if (error) { return <div className="status-message">Error: {error}</div>; }
 
@@ -102,46 +174,78 @@ function EpisodePage() {
   };
 
   return (
-    <div className="episode-page">
-      <div className="episode-header">
-        {imageSources.length > 0 && (
-          <div className="image-carousel">
-            <img 
-              src={imageSources[currentImageIndex]} 
-              alt={`${episode.title} - ${currentImageIndex + 1}`} 
-              className="episode-thumbnail" 
-              loading="eager"
-            />
-            {imageSources.length > 1 && (
-              <>
-                <button onClick={handlePrevImage} className="carousel-button prev">‹</button>
-                <button onClick={handleNextImage} className="carousel-button next">›</button>
-                <span className="carousel-indicator">{currentImageIndex + 1} / {imageSources.length}</span>
-              </>
-            )}
-          </div>
-        )}
+    <>
+      <div className="episode-page">
+        <div className="episode-header">
+          {imageSources.length > 0 && (
+            <div className="image-carousel">
+              <img 
+                src={imageSources[currentImageIndex]} 
+                alt={`${episode.title} - ${currentImageIndex + 1}`} 
+                className="episode-thumbnail" 
+                loading="eager"
+              />
+              {imageSources.length > 1 && (
+                <>
+                  <button onClick={handlePrevImage} className="carousel-button prev">‹</button>
+                  <button onClick={handleNextImage} className="carousel-button next">›</button>
+                  <span className="carousel-indicator">{currentImageIndex + 1} / {imageSources.length}</span>
+                </>
+              )}
+            </div>
+          )}
 
-        <div className="episode-meta">
-          <h1 className="episode-title">{episode.title}</h1>
-          <p className="episode-details">
-            <strong>Show:</strong> {episode.show} | <strong>Uploaded:</strong> {formatDate(episode.upload_date)} | <strong>Duration:</strong> {episode.duration_string}
-          </p>
-          <a href={episode.url} target="_blank" rel="noopener noreferrer" className="youtube-link">Watch on YouTube</a>
+          <div className="episode-meta">
+            <h1 className="episode-title">{episode.title}</h1>
+            <p className="episode-details">
+              <strong>Show:</strong> {episode.show} | <strong>Uploaded:</strong> {formatDate(episode.upload_date)} | <strong>Duration:</strong> {episode.duration_string}
+            </p>
+            <div className="action-buttons-container">
+              <a href={episode.url} target="_blank" rel="noopener noreferrer" className="youtube-link">
+                Watch on YouTube
+              </a>
+              <button onClick={() => openReportModal()} className="youtube-link">
+                Report Transcription Error
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div className="transcript-container" ref={transcriptContainerRef}>
+          {transcript.map((line, index) => (
+            <div 
+              key={index} 
+              className="transcript-line"
+              data-timestamp={line.startTime.split('.')[0]} >
+              <a href={`${episode.url}&t=${line.startSeconds}s`} target="_blank" rel="noopener noreferrer" className="timestamp-link" title={`Go to ${line.startTime.split('.')[0]} in video`}>
+                [{line.startTime.split('.')[0]}]
+              </a>
+              <p className="transcript-text">{line.text}</p>
+            </div>
+          ))}
         </div>
       </div>
+      
+      {popup.show && (
+        <div 
+          className="selection-popup" 
+          style={{ left: `${popup.x}px`, top: `${popup.y}px` }}
+          onMouseDown={(e) => e.stopPropagation()} 
+          onClick={() => openReportModal(selectedText)}
+        >
+          Report
+        </div>
+      )}
 
-      <div className="transcript-container">
-        {transcript.map((line, index) => (
-          <div key={index} className="transcript-line">
-            <a href={`${episode.url}&t=${line.startSeconds}s`} target="_blank" rel="noopener noreferrer" className="timestamp-link" title={`Go to ${line.startTime.split('.')[0]} in video`}>
-              [{line.startTime.split('.')[0]}]
-            </a>
-            <p className="transcript-text">{line.text}</p>
-          </div>
-        ))}
-      </div>
-    </div>
+      {isModalOpen && (
+        <ReportErrorModal 
+          episodeTitle={episode.title}
+          repoUrl={GITHUB_REPO_URL}
+          initialIncorrectText={selectedText}
+          onClose={closeReportModal}
+          initialTimestamp={selectedTimestamp} 
+        />
+      )}    </>
   );
 }
 

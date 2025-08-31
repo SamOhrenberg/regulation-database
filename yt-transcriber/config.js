@@ -73,7 +73,16 @@ export const config = {
     "goopless": "Gurpler",
     "Salt Right": "Slot Right",
     "Pi A": "paella"
-  }
+  },
+
+  logging: {
+    // Minimum log level to record. Options: 'error', 'warn', 'info', 'http', 'verbose', 'debug', 'silly'
+    level: 'info',
+    // Whether to also output logs to the console.
+    logToConsole: true,
+    // Path to the directory for log files. Set to null or an empty string to disable file logging.
+    logDirectory: './logs',
+  },
 };
 
   

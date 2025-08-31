@@ -8,6 +8,11 @@ import { fileURLToPath } from 'url';
 import { exec } from 'child_process';
 import { promisify } from 'util';
 import pLimit from 'p-limit';
+import cliProgress from 'cli-progress';
+import colors from 'ansi-colors'; 
+import os from 'os';
+import AWS from 'aws-sdk'; 
+import sharp from 'sharp';
 
 const execPromise = promisify(exec);
 
@@ -26,6 +31,17 @@ const METADATA_PATH = path.join(baseTranscriptionDir, 'metadata.json');
 const IMAGES_BASE_DIR = path.join(baseTranscriptionDir, 'images');
 const TEMP_DIR = path.join(projectRoot, 'yt-transcriber', 'temp_processing');
 const COMPARER_SCRIPT_PATH = path.join(__dirname, 'compare_images.cjs');
+
+const BUCKET_NAME = 'regulatabase-images';
+const AWS_REGION = 'us-east-1';
+
+AWS.config.update({
+    region: AWS_REGION,
+});
+
+const s3 = new AWS.S3();
+
+
 
 // Configure yt-dlp and ffmpeg with paths from config.js
 const YtDlpWrap = YtDlpWrapModule.default || YtDlpWrapModule;
@@ -61,7 +77,7 @@ async function getSimilarity(imgPath1, imgPath2, cropArea) {
         return parseFloat(stdout);
     } catch (error) {
         console.error("Error executing image comparison script. It may have crashed.", error);
-        return 0;
+        throw new Error('Image comparison failed'); 
     }
 }
 
@@ -187,18 +203,31 @@ async function extractStaticImages(videoPath, showName, episodeId) {
 
     console.log(`Analysis complete. Found ${candidateFramePaths.length} total candidate images.`);
     console.log(`Found ${candidateFramePaths.length} candidate images. De-duplicating...`);
+    const multibar = new cliProgress.MultiBar({
+        clearOnComplete: false,
+        hideCursor: true,
+        format: '{bar} | {percentage}% | ETA: {eta_formatted} | {value}/{total} | {filename}',
+    }, cliProgress.Presets.shades_classic);
     const uniqueFramePaths = [];
     if (candidateFramePaths.length > 0) {
+        const candidateBar = multibar.create(candidateFramePaths.length, 0, { filename: "Overall Progress" });
+        const uniqueBar = multibar.create(0, 0, { filename: "Comparing to uniques..." });
         uniqueFramePaths.push(candidateFramePaths[0]);
+        candidateBar.increment();
+
         for (let i = 1; i < candidateFramePaths.length; i++) {
             let isDuplicate = false;
+            uniqueBar.setTotal(uniqueFramePaths.length);
+            uniqueBar.update(0, { filename: `Comparing candidate ${i + 1}`});
             for (const uniquePath of uniqueFramePaths) {
+                uniqueBar.increment();
                 if (await getSimilarity(candidateFramePaths[i], uniquePath, cropArea) > config.imageExtraction.similarityThreshold) {
                     isDuplicate = true;
                     break;
                 }
             }
             if (!isDuplicate) uniqueFramePaths.push(candidateFramePaths[i]);
+            candidateBar.increment();
         }
     }
 
@@ -224,6 +253,42 @@ const sanitizeFilename = (name) => {
   const sanitized = withSeparators.replace(/[^a-zA-Z0-9\s\-_\[\]\(\)]/g, '');
   return sanitized.replace(/\s+/g, ' ').trim();
 };
+
+async function loadAndCompressImageBuffer(filePath) {
+    const originalBuffer = await fs.readFile(filePath);
+    const compressedBuffer = await sharp(inputBuffer).png({ quality: 90, compressionLevel: 9 }).toBuffer();
+    const originalSizeKB = (originalBuffer.length / 1024).toFixed(2);
+    const compressedSizeKB = (compressedBuffer.length / 1024).toFixed(2);
+    const reduction = (((originalSizeKB - compressedSizeKB) / originalSizeKB) * 100).toFixed(1);
+    console.log(
+        `Compressing ${path.basename(filePath)}: ${originalSizeKB} KB -> ${compressedSizeKB} KB (Reduction: ${reduction}%)`
+    );
+
+    return compressedBuffer;
+
+}
+
+async function uploadImageToS3(filePath, s3Key) {
+    try {
+        const compressedBuffer = await loadAndCompressImageBuffer(filePath);
+        const params = {
+            Bucket: BUCKET_NAME,
+            Key: s3Key,
+            Body: compressedBuffer,
+        };
+
+        await s3.upload(params).promise();
+
+        // Manually construct the public URL
+        const publicUrl = `https://${BUCKET_NAME}.s3.${AWS_REGION}.amazonaws.com/${s3Key}`;
+        
+        console.log(`Successfully uploaded ${filePath} to ${publicUrl}`);
+        return publicUrl; // Returns the newly constructed public URL
+    } catch (err) {
+        console.error(`Error uploading ${filePath}:`, err);
+        return null;
+    }
+}
 
 
 /**

@@ -46,6 +46,16 @@
       ],
       "program": "${workspaceFolder}/yt-transcriber/migrateToS3.cjs",
       "console": "integratedTerminal"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Optimize S3 Images",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/yt-transcriber/compressS3Image.js",
+      "console": "integratedTerminal"
     }
   ]
 }

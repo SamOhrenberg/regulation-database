@@ -11,6 +11,8 @@ import { createRequire } from 'module';
 import pLimit from 'p-limit';
 import os from 'os';
 import AWS from 'aws-sdk'; 
+import logger from './logger.js';
+import sharp from 'sharp';
 
 const require = createRequire(import.meta.url);
 const ffmpeg = require('fluent-ffmpeg');
@@ -70,7 +72,8 @@ const git = simpleGit(path.resolve(__dirname, '..'));
 const projectRoot = path.resolve(__dirname, '..');
 const baseTranscriptionDir = path.join(projectRoot, 'transcriptions');
 const metadataFilePath = path.join(baseTranscriptionDir, 'metadata.json');
-const tempProcessingPath = path.resolve(__dirname, 'temp_processing'); // --- MODIFIED --- More general temp dir
+const tempProcessingPath = path.resolve(__dirname, 'temp_processing');
+const SKIPPED_VIDEOS_FILE = path.join(__dirname, 'skipped_videos.json');
 
 const COMPARER_SCRIPT_PATH = path.join(__dirname, 'compare_images.cjs');
 ffmpeg.setFfmpegPath(path.join(config.ffmpegPath, 'ffmpeg.exe'));
@@ -88,14 +91,29 @@ const sanitizeFilename = (name) => {
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
+
+async function loadAndCompressImageBuffer(filePath) {
+    const originalBuffer = await fs.readFile(filePath);
+    const compressedBuffer = await sharp(inputBuffer).png({ quality: 90, compressionLevel: 9 }).toBuffer();
+    const originalSizeKB = (originalBuffer.length / 1024).toFixed(2);
+    const compressedSizeKB = (compressedBuffer.length / 1024).toFixed(2);
+    const reduction = (((originalSizeKB - compressedSizeKB) / originalSizeKB) * 100).toFixed(1);
+    logger.debug(
+        `Compressing ${path.basename(filePath)}: ${originalSizeKB} KB -> ${compressedSizeKB} KB (Reduction: ${reduction}%)`
+    );
+
+    return compressedBuffer;
+
+}
+
 async function uploadImageToS3(filePath, s3Key) {
     try {
-        const fileContent = await fs.readFile(filePath);
+        const compressedBuffer = await loadAndCompressImageBuffer(filePath);
 
         const params = {
             Bucket: BUCKET_NAME,
             Key: s3Key,
-            Body: fileContent,
+            Body: compressedBuffer,
         };
 
         await s3.upload(params).promise();
@@ -103,10 +121,10 @@ async function uploadImageToS3(filePath, s3Key) {
         // Manually construct the public URL, as we are using a bucket policy
         const publicUrl = `https://${BUCKET_NAME}.s3.${AWS_REGION}.amazonaws.com/${s3Key}`;
         
-        console.log(`Successfully uploaded ${path.basename(filePath)} to ${publicUrl}`);
+        logger.info(`Successfully uploaded ${path.basename(filePath)} to ${publicUrl}`);
         return publicUrl;
     } catch (err) {
-        console.error(`Error uploading ${path.basename(filePath)}:`, err);
+        logger.error(`Error uploading ${path.basename(filePath)}:`, err);
         return null;
     }
 }
@@ -116,9 +134,9 @@ async function main() {
   let initialMetadata = {};
   try {
     initialMetadata = JSON.parse(await fs.readFile(metadataFilePath, 'utf-8'));
-    console.log('Loaded existing metadata.json to determine queue.');
+    logger.info('Loaded existing metadata.json to determine queue.');
   } catch (error) {
-    console.log('No existing metadata.json found. Starting fresh.');
+    logger.info('No existing metadata.json found. Starting fresh.');
   }
 
   const workQueue = [];
@@ -127,14 +145,14 @@ async function main() {
   const tempFiles = await fs.readdir(tempProcessingPath); // --- MODIFIED ---
   const manifestFiles = tempFiles.filter(f => f.endsWith('.json'));
   if (manifestFiles.length > 0) {
-    console.log(`Found ${manifestFiles.length} unprocessed item(s) from previous run. Recovering...`);
+    logger.info(`Found ${manifestFiles.length} unprocessed item(s) from previous run. Recovering...`);
     for (const manifestFile of manifestFiles) {
       try {
         const workItem = JSON.parse(await fs.readFile(path.join(tempProcessingPath, manifestFile), 'utf-8')); // --- MODIFIED ---
         workQueue.push(workItem);
         recoveredTitles.add(workItem.finalTitle);
       } catch (e) {
-        console.warn(`Could not recover from manifest ${manifestFile}. Deleting corrupt files.`);
+        logger.warn(`Could not recover from manifest ${manifestFile}. Deleting corrupt files.`);
         await fs.rm(path.join(tempProcessingPath, manifestFile)).catch(() => { }); // --- MODIFIED ---
         await fs.rm(path.join(tempProcessingPath, manifestFile.replace('.json', ''))).catch(() => { }); // --- MODIFIED ---
       }
@@ -143,45 +161,70 @@ async function main() {
 
   const itemsToProcess = await gatherAndFilterItems(initialMetadata, recoveredTitles);
   if (itemsToProcess.length === 0 && workQueue.length === 0) {
-    console.log('No new content to process.');
+    logger.info('No new content to process.');
     await fs.rm(tempProcessingPath, { recursive: true, force: true }); // --- MODIFIED ---
     return;
   }
-  console.log(`Found ${itemsToProcess.length} new item(s) to download. Starting producer/consumer pipeline...`);
+  logger.info(`Found ${itemsToProcess.length} new item(s) to download. Starting producer/consumer pipeline...`);
 
   const allTranscribedFiles = [];
   let downloadIsComplete = false;
 
   const producer = producerLoop(itemsToProcess, workQueue).then(() => {
     downloadIsComplete = true;
-    console.log('--- All downloads complete. Producer finished. ---');
+    logger.info('--- All downloads complete. Producer finished. ---');
   });
 
   const consumer = consumerLoop(workQueue, () => downloadIsComplete, allTranscribedFiles);
   await Promise.all([producer, consumer]);
 
   if (allTranscribedFiles.length > 0) {
-    console.log(`Successfully processed ${allTranscribedFiles.length} item(s).`);
+    logger.info(`Successfully processed ${allTranscribedFiles.length} item(s).`);
     allTranscribedFiles.push(metadataFilePath);
-    console.log('Committing all new and updated files to Git...');
+    logger.info('Committing all new and updated files to Git...');
     const filesToCommit = [...new Set(allTranscribedFiles)];
     await git.add(filesToCommit);
     await git.commit(`transcribe: Add/update ${allTranscribedFiles.length - 1} item(s)`);
-    console.log(`Committed ${filesToCommit.length} file(s).`);
+    logger.info(`Committed ${filesToCommit.length} file(s).`);
   } else {
-    console.log("No new items were successfully transcribed in this run.");
+    logger.info("No new items were successfully transcribed in this run.");
   }
 
   await fs.rm(tempProcessingPath, { recursive: true, force: true }); // --- MODIFIED ---
-  console.log('Cleaned up temporary directory.');
+  logger.info('Cleaned up temporary directory.');
 }
 
 
 // --- PIPELINE STAGE 1: PRODUCER (Downloader) ---
 async function producerLoop(items, queue) {
+
+  let skippedUrls;
+  try {
+    const data = await fs.readFile(SKIPPED_VIDEOS_FILE, 'utf-8');
+    skippedUrls = new Set(JSON.parse(data));
+    logger.info(`[Producer] Loaded ${skippedUrls.size} previously skipped video URLs.`);
+  } catch (error) {
+    if (error.code === 'ENOENT') {
+      logger.info(`[Producer] Skipped videos file not found at '${SKIPPED_VIDEOS_FILE}'. Starting with a new list.`);
+      skippedUrls = new Set();
+    } else {
+      // For other errors (e.g., malformed JSON), log the error and start fresh to avoid crashing.
+      logger.error(`[Producer] Error loading skipped videos file:`, error);
+      skippedUrls = new Set();
+    }
+  }
+
   for (const item of items) {
     const logPrefix = `[P-${item.title.substring(0, 20)}...]`;
-    console.log(`${logPrefix} Preparing download...`);
+
+    // Check if this item's URL is in our list of previously skipped videos.
+    // This check happens *before* the expensive yt-dlp call.
+    if (skippedUrls.has(item.sourceUrl)) {
+      logger.info(`${logPrefix} Skipping: This video was previously skipped due to short duration.`);
+      continue;
+    }
+
+    logger.info(`${logPrefix} Preparing download...`);
 
     try {
       const execArgs = [
@@ -199,7 +242,12 @@ async function producerLoop(items, queue) {
       }
 
       if (itemInfo.duration <= config.minVideoDurationSeconds) {
-        console.log(`${logPrefix} Skipping: Video duration ${itemInfo.duration}s is below minimum of ${config.minVideoDurationSeconds}s.`);
+        logger.info(`${logPrefix} Skipping: Video duration ${itemInfo.duration}s is below minimum of ${config.minVideoDurationSeconds}s.`);
+
+        skippedUrls.add(item.sourceUrl);
+        await fs.writeFile(SKIPPED_VIDEOS_FILE, JSON.stringify(Array.from(skippedUrls), null, 2));
+        logger.info(`${logPrefix} Added to skipped list. The list now contains ${skippedUrls.size} items.`);
+        
         continue;
       }
 
@@ -229,8 +277,8 @@ async function producerLoop(items, queue) {
       queue.push(workItem);
 
     } catch (error) {
-      console.error(`${logPrefix} Failed to produce work item:`, error.message);
-      if (error.stderr) console.error(`Stderr: ${error.stderr}`);
+      logger.error(`${logPrefix} Failed to produce work item:`, error.message);
+      if (error.stderr) logger.error(`Stderr: ${error.stderr}`);
     }
   }
 }
@@ -242,18 +290,18 @@ async function consumerLoop(queue, isProducerDone, results) {
     if (queue.length > 0) {
       const workItem = queue.shift();
       const logPrefix = `[C-${workItem.finalTitle.substring(0, 20)}...]`;
-      console.log(`${logPrefix} Starting processing...`);
+      logger.info(`${logPrefix} Starting processing...`);
 
       const result = await processDownloadedFile(workItem, logPrefix);
 
       if (result) {
         results.push(...result.transcribedPaths);
         await saveMetadata(result.newMetadataEntry);
-        console.log(`${logPrefix} Metadata saved.`);
+        logger.info(`${logPrefix} Metadata saved.`);
       }
 
     } else if (isProducerDone()) {
-      console.log('--- Queue is empty and producer is finished. Consumer finished. ---');
+      logger.info('--- Queue is empty and producer is finished. Consumer finished. ---');
       break;
     } else {
       await sleep(2000);
@@ -282,23 +330,23 @@ async function processDownloadedFile(workItem, logPrefix) {
     };
 
     if (!finalTitle.toLowerCase().includes('compilation')) { // don't transcribe compilations
-      console.log(`${logPrefix} Preparing to transcribe...`);
-      if (mediaType === 'video' && category !== 'Gameplay') {
-        console.log(`${logPrefix} Starting parallel transcription and image extraction...`);
+      logger.info(`${logPrefix} Preparing to transcribe...`);
+      if (mediaType === 'video') {
+        logger.info(`${logPrefix} Starting parallel transcription and image extraction...`);
 
         const transcriptionTask = transcribeMedia(tempMediaPath, showDir, transcriptPath, logPrefix);
-        const imageExtractionTask = extractStaticImages(tempMediaPath, episodeImagesDir, logPrefix, sanitizedShowName, itemInfo.id);
+        const imageExtractionTask = extractStaticImages(tempMediaPath, logPrefix, sanitizedShowName, itemInfo.id);
 
         const [_, imageUrls] = await Promise.all([transcriptionTask, imageExtractionTask]);
         newMetadataEntry.images = imageUrls;
-        console.log(`${logPrefix} Found ${imagePaths.length} static images.`);
+        logger.info(`${logPrefix} Found ${imageUrls.length} static images.`);
 
       } else { // mediaType is 'audio'
-        console.log(`${logPrefix} Starting transcription...`);
+        logger.info(`${logPrefix} Starting transcription...`);
         await transcribeMedia(tempMediaPath, showDir, transcriptPath, logPrefix);
       }
 
-      console.log(`${logPrefix} Applying corrections to transcript...`);
+      logger.info(`${logPrefix} Applying corrections to transcript...`);
       let transcriptContent = await fs.readFile(transcriptPath, 'utf-8');
       for (const [wrong, correct] of Object.entries(config.commonTranscriptionErrors)) {
         transcriptContent = transcriptContent.replace(new RegExp(wrong, 'g'), correct);
@@ -306,11 +354,11 @@ async function processDownloadedFile(workItem, logPrefix) {
       await fs.writeFile(transcriptPath, transcriptContent);
     }
 
-    console.log(`${logPrefix} Successfully processed.`);
+    logger.info(`${logPrefix} Successfully processed.`);
     return { newMetadataEntry, transcribedPaths: [transcriptPath] };
 
   } catch (error) {
-    console.error(`${logPrefix} An error occurred during processing:`, error.stderr || error.message || error);
+    logger.error(`${logPrefix} An error occurred during processing:`, error.stderr || error.message || error);
     return null;
   } finally {
     // Cleanup the temp media file and its manifest
@@ -320,7 +368,7 @@ async function processDownloadedFile(workItem, logPrefix) {
 }
 
 async function transcribeMedia(mediaPath, outputDir, transcriptPath, logPrefix) {
-  console.log(`${logPrefix} Transcribing...`);
+  logger.info(`${logPrefix} Transcribing...`);
   try {
     await execa(config.fasterWhisperPath, [
       '--model', 'large-v2', '--output_format', 'txt',
@@ -329,9 +377,9 @@ async function transcribeMedia(mediaPath, outputDir, transcriptPath, logPrefix) 
   } catch (error) {
     // Handle a specific crash code from faster-whisper where it might still succeed
     if (error.exitCode === 3221226505) {
-      console.warn(`${logPrefix} faster-whisper crashed but may have succeeded. Checking for output file...`);
+      logger.warn(`${logPrefix} faster-whisper crashed but may have succeeded. Checking for output file...`);
       await fs.access(transcriptPath); // This will throw if the file doesn't exist
-      console.log(`${logPrefix} Transcript file exists, continuing.`);
+      logger.info(`${logPrefix} Transcript file exists, continuing.`);
     } else {
       throw error; // Re-throw other errors
     }
@@ -339,7 +387,7 @@ async function transcribeMedia(mediaPath, outputDir, transcriptPath, logPrefix) 
 }
 
 async function extractStaticImages(videoPath, logPrefix, showName, episodeId) {
-  console.log(`${logPrefix} Extracting frames...`);
+  logger.info(`${logPrefix} Extracting frames...`);
   const tempFramesDir = path.join(tempProcessingPath, 'frames', path.basename(videoPath));
   await cleanupDir(tempFramesDir);
   await fs.mkdir(tempFramesDir, { recursive: true });
@@ -364,8 +412,8 @@ async function extractStaticImages(videoPath, logPrefix, showName, episodeId) {
   } : { width: videoWidth, height: videoHeight, left: 0, top: 0 };
 
   if (config.imageExtraction.debug) {
-    console.log(`${logPrefix} Video dimensions: ${videoWidth}x${videoHeight}`);
-    if (cropConfig.enabled) console.log(`${logPrefix} Crop area for analysis:`, cropArea);
+    logger.debug(`${logPrefix} Video dimensions: ${videoWidth}x${videoHeight}`);
+    if (cropConfig.enabled) logger.info(`${logPrefix} Crop area for analysis:`, cropArea);
   }
 
   await new Promise((resolve, reject) => {
@@ -378,15 +426,15 @@ async function extractStaticImages(videoPath, logPrefix, showName, episodeId) {
 
   const frameFiles = (await fs.readdir(tempFramesDir)).sort();
   if (frameFiles.length < 4) {
-    console.warn(`${logPrefix} Not enough frames extracted for image analysis. Found only ${frameFiles.length}.`);
+    logger.warn(`${logPrefix} Not enough frames extracted for image analysis. Found only ${frameFiles.length}.`);
     await cleanupDir(tempFramesDir);
     return [];
   }
 
-  console.info(`${logPrefix} Extracted ${frameFiles.length} frames. Starting image analysis...`);
+  logger.info(`${logPrefix} Extracted ${frameFiles.length} frames. Starting image analysis...`);
   const concurrency = config.imageExtraction.maxConcurrency ? config.imageExtraction.maxConcurrency : os.cpus().length;
   const limit = pLimit(concurrency);
-  console.log(`${logPrefix} Starting analysis with a concurrency of ${concurrency}...`);
+  logger.info(`${logPrefix} Starting analysis with a concurrency of ${concurrency}...`);
 
   const tasks = [];
   for (let i = 5; i < frameFiles.length - 2; i++) {
@@ -405,10 +453,10 @@ async function extractStaticImages(videoPath, logPrefix, showName, episodeId) {
         );
 
         // Log the first check's result
-        //console.log(`[${frameId}] Trigger similarity: ${triggerSimilarity.toFixed(4)} (Threshold: < ${config.imageExtraction.similarityThreshold})`);
+        //logger.silly(`[${frameId}] Trigger similarity: ${triggerSimilarity.toFixed(4)} (Threshold: < ${config.imageExtraction.similarityThreshold})`);
 
         if (triggerSimilarity < config.imageExtraction.similarityThreshold) {
-          console.log(`[${frameId}] [i=${currentIndex}] PASSED trigger check. Now checking stability... for ${nextFrameId} and ${nextNextFrameId}`);
+          logger.debug(`[${frameId}] [i=${currentIndex}] PASSED trigger check. Now checking stability... for ${nextFrameId} and ${nextNextFrameId}`);
 
           const [stabilityCheck1, stabilityCheck2] = await Promise.all([
             getSimilarity(path.join(tempFramesDir, frameId), path.join(tempFramesDir, nextFrameId), cropArea),
@@ -416,21 +464,21 @@ async function extractStaticImages(videoPath, logPrefix, showName, episodeId) {
           ]);
 
           // Log the stability checks' results
-          console.log(`[${frameId}] Stability checks: ${nextFrameId}=${stabilityCheck1.toFixed(4)}, ${nextNextFrameId}=${stabilityCheck2.toFixed(4)} (Threshold: > ${config.imageExtraction.similarityThresholdUpperCheck})`);
+          logger.debug(`[${frameId}] Stability checks: ${nextFrameId}=${stabilityCheck1.toFixed(4)}, ${nextNextFrameId}=${stabilityCheck2.toFixed(4)} (Threshold: > ${config.imageExtraction.similarityThresholdUpperCheck})`);
 
           if (stabilityCheck1 > config.imageExtraction.similarityThresholdUpperCheck && stabilityCheck2 > config.imageExtraction.similarityThresholdUpperCheck) {
-            console.log(`[${frameId}] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
-            console.log(`[${frameId}] PASSED stability checks. This is a candidate.`);
-            console.log(`[${frameId}] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
+            logger.silly(`[${frameId}] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
+            logger.debug(`[${frameId}] PASSED stability checks. This is a candidate.`);
+            logger.silly(`[${frameId}] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
             const candidatePath = path.join(tempFramesDir, frameId);
             return { path: candidatePath, index: currentIndex };
           } else {
-            console.log(`[${frameId}] FAILED stability checks.`);
+            logger.debug(`[${frameId}] FAILED stability checks.`);
           }
         }
       } catch (error) {
         // This is critical. If errors are happening, this will tell you.
-        console.error(`[${frameId}] CRITICAL ERROR during processing:`, error);
+        logger.error(`[${frameId}] CRITICAL ERROR during processing:`, error);
       }
       return null; // Return null if any check fails or an error occurs
     }));
@@ -444,7 +492,7 @@ async function extractStaticImages(videoPath, logPrefix, showName, episodeId) {
 
   // This part of the logic is likely correct, but it depends on sortedCandidates having items.
   if (sortedCandidates.length === 0) {
-    console.warn(`${logPrefix} No candidate frames were found after parallel processing. Check the logs above for failures or errors.`);
+    logger.warn(`${logPrefix} No candidate frames were found after parallel processing. Check the logs above for failures or errors.`);
   } else {
     for (const candidate of sortedCandidates) {
       if (!usedIndexes.has(candidate.index)) {
@@ -455,8 +503,8 @@ async function extractStaticImages(videoPath, logPrefix, showName, episodeId) {
     }
   }
 
-  console.log(`${logPrefix} Analysis complete. Found ${candidateFramePaths.length} total candidate images.`);
-  console.log(`${logPrefix} Found ${candidateFramePaths.length} candidate images. De-duplicating...`);
+  logger.info(`${logPrefix} Analysis complete. Found ${candidateFramePaths.length} total candidate images.`);
+  logger.info(`${logPrefix} Found ${candidateFramePaths.length} candidate images. De-duplicating...`);
   const uniqueFramePaths = [];
   if (candidateFramePaths.length > 0) {
     uniqueFramePaths.push(candidateFramePaths[0]);
@@ -472,7 +520,7 @@ async function extractStaticImages(videoPath, logPrefix, showName, episodeId) {
     }
   }
   
-  console.log(`${logPrefix} Found ${uniqueFramePaths.length} unique images. Uploading to S3...`);
+  logger.info(`${logPrefix} Found ${uniqueFramePaths.length} unique images. Uploading to S3...`);
   const finalImageUrls = [];
   for (let i = 0; i < uniqueFramePaths.length; i++) {
     const sourcePath = uniqueFramePaths[i];
@@ -494,13 +542,13 @@ async function extractStaticImages(videoPath, logPrefix, showName, episodeId) {
 async function gatherAndFilterItems(initialMetadata, recoveredTitles) {
   const allMediaItems = [];
 
-  console.log('Gathering items from YouTube...');
+  logger.info('Gathering items from YouTube...');
   for (const channelUrl of Object.values(config.youtubeChannels)) {
     const videos = await fetchYouTubeVideoList(channelUrl);
     videos.forEach(video => allMediaItems.push({ ...video, source: 'YouTube' }));
   }
 
-  console.log('Gathering items from RSS Feeds...');
+  logger.info('Gathering items from RSS Feeds...');
   for (const feedUrl of Object.values(config.rssFeeds)) {
     const items = await fetchRssFeedItems(feedUrl);
     items.forEach(item => allMediaItems.push({ ...item, source: 'RSS' }));
@@ -589,7 +637,7 @@ async function fetchYouTubeVideoList(channelUrl) {
     }
     return videos;
   } catch (error) {
-    console.error(`Failed to fetch video list for ${channelUrl}:`, error.stderr || error.message);
+    logger.error(`Failed to fetch video list for ${channelUrl}:`, error.stderr || error.message);
     return [];
   }
 }
@@ -602,13 +650,13 @@ async function fetchRssFeedItems(feedUrl) {
       id: item.title, title: item.title, sourceUrl: item.url, mediaUrl: item.url,
     }));
   } catch (error) {
-    console.error(`Failed to fetch items for RSS feed ${feedUrl}:`, error.stderr || error.message);
+    logger.error(`Failed to fetch items for RSS feed ${feedUrl}:`, error.stderr || error.message);
     return [];
   }
 }
 
 async function downloadAudio(url, outputPath, logPrefix = '') {
-  console.log(`${logPrefix} Downloading audio...`);
+  logger.info(`${logPrefix} Downloading audio...`);
   const args = [
     url,
     '--ffmpeg-location', config.ffmpegPath,
@@ -617,11 +665,11 @@ async function downloadAudio(url, outputPath, logPrefix = '') {
     '-o', outputPath,
   ];
   await execa(config.ytDlpPath, args);
-  console.log(`${logPrefix} Audio download complete.`);
+  logger.info(`${logPrefix} Audio download complete.`);
 }
 
 async function downloadYouTubeVideo(url, outputPath, logPrefix = '') {
-  console.log(`${logPrefix} Downloading video for image extraction...`);
+  logger.info(`${logPrefix} Downloading video for image extraction...`);
   const args = [
     url,
     '--ffmpeg-location', config.ffmpegPath,
@@ -630,7 +678,7 @@ async function downloadYouTubeVideo(url, outputPath, logPrefix = '') {
     '-o', outputPath,
   ];
   await execa(config.ytDlpPath, args);
-  console.log(`${logPrefix} Video download complete.`);
+  logger.info(`${logPrefix} Video download complete.`);
 }
 
 
@@ -661,11 +709,11 @@ async function getSimilarity(imgPath1, imgPath2, cropArea) {
     const { stdout } = await execPromise(command);
     return parseFloat(stdout);
   } catch (error) {
-    console.error("Error executing image comparison script:", error);
+    logger.error("Error executing image comparison script:", error);
     return 0; // Return 0 on error to prevent false positives
   }
 }
 
 
 // --- Main execution ---
-main().catch(console.error);
+main().catch(logger.error);

@@ -26,7 +26,6 @@ async function uploadImage(filePath, s3Key) {
             Bucket: BUCKET_NAME,
             Key: s3Key,
             Body: fileContent,
-            // ACL: 'public-read'  <-- REMOVED THIS LINE
         };
 
         // We still await the upload to confirm it was successful

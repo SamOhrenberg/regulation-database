@@ -19,8 +19,10 @@
     "p-limit": "^7.1.0",
     "pixelmatch": "^7.1.0",
     "pngjs": "^7.0.0",
+    "progress": "^2.0.3",
     "sharp": "^0.34.3",
     "simple-git": "^3.28.0",
+    "winston": "^3.17.0",
     "yt-dlp-wrap": "^2.3.12"
   }
 }

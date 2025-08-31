@@ -227,10 +227,20 @@ function EpisodePage() {
       </div>
       
       {popup.show && (
-        <div 
-          className="selection-popup" 
+        <div
+          className="selection-popup"
           style={{ left: `${popup.x}px`, top: `${popup.y}px` }}
-          onMouseDown={(e) => e.stopPropagation()} 
+
+          onMouseDown={(e) => {
+            e.preventDefault();
+            e.stopPropagation();
+          }}
+
+          onTouchStart={(e) => {
+            e.preventDefault();
+            e.stopPropagation();
+          }}
+
           onClick={() => openReportModal(selectedText)}
         >
           Report Transcription Error

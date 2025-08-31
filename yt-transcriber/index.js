@@ -94,7 +94,7 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 async function loadAndCompressImageBuffer(filePath) {
     const originalBuffer = await fs.readFile(filePath);
-    const compressedBuffer = await sharp(inputBuffer).png({ quality: 90, compressionLevel: 9 }).toBuffer();
+    const compressedBuffer = await sharp(originalBuffer).png({ quality: 90, compressionLevel: 9 }).toBuffer();
     const originalSizeKB = (originalBuffer.length / 1024).toFixed(2);
     const compressedSizeKB = (compressedBuffer.length / 1024).toFixed(2);
     const reduction = (((originalSizeKB - compressedSizeKB) / originalSizeKB) * 100).toFixed(1);

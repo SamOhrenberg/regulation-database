@@ -114,7 +114,7 @@ function EpisodePage() {
         setPopup({
           show: true,
           x: rect.left + window.scrollX + rect.width / 2,
-          y: rect.top + window.scrollY,
+          y: rect.bottom + window.scrollY,
         });
         setSelectedText(text);
       } else {
@@ -233,7 +233,7 @@ function EpisodePage() {
           onMouseDown={(e) => e.stopPropagation()} 
           onClick={() => openReportModal(selectedText)}
         >
-          Report
+          Report Transcription Error
         </div>
       )}
 
@@ -245,7 +245,8 @@ function EpisodePage() {
           onClose={closeReportModal}
           initialTimestamp={selectedTimestamp} 
         />
-      )}    </>
+      )}    
+      </>
   );
 }
 
